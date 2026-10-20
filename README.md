@@ -14,11 +14,11 @@ Tests of the commitment ontology against measured physics, on a lattice engine b
 - Inputs borrowed from standard physics are **tracked**, not hidden.
 
 ## Where things are
-- `writeup/commitment_ontology_simulations.md` — the full record: scorecard, a section per run,
+- `writeups/commitment_ontology_simulations.md` — the full record: scorecard, a section per run,
   §10 (what it says about the ontology, and Allen's rulings), §11 (open questions).
-- `writeup/consilience_summary.md` — the short version: what is reproduced, how, what is open.
-- `writeup/figures/` — one figure per run or group of runs.
-- One folder per run (e.g. `firstlaw/`, `vardraw/`, `medium55/`, `eos57/`, `nuc60/`): `PREREG_NN.md`,
+- `writeups/consilience_summary.md` — the short version: what is reproduced, how, what is open.
+- `figures/` — one figure per run or group of runs.
+- `runs/` — One file per run (e.g. `firstlaw/`, `vardraw/`, `medium55/`, `eos57/`, `nuc60/`): `PREREG_NN.md`,
   `PREREG_NN.sha256`, `runNN.py`, `analyseNN.py`, logs and JSON results.
 - `check*/` — the independent checks.
 
