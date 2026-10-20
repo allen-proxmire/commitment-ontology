@@ -2,8 +2,9 @@
 
 Allen Proxmire.
 
-Tests of the commitment / Event Density (ED) ontology
-against measured physics, on a lattice engine built from its rules. 60 runs, 15–20 October 2026.
+Tests of the commitment ontology against measured physics, on a lattice engine built from its rules. 
+
+60 runs, 15–20 October 2026.
 
 ## How the work is done
 - Each run is **pre-registered**: question, kill rules and analysis written first, then
@@ -41,4 +42,4 @@ Python 3 with numpy, scipy and matplotlib. In a run folder: `python3 runNN.py`, 
 Check the registration first with `sha256sum -c PREREG_NN.sha256`.
 
 ## Status
-Not peer reviewed. The engine is a model built from the ontology's rules, not ED's full theory.
+Not peer reviewed. The engine is a model built from the ontology's rules, not the full theory.
