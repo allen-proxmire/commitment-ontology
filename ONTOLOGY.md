@@ -8,7 +8,7 @@ This page states, in one place, what the lattice record tests: the commitment on
 - the runs behind it.
 
 Some terms used throughout:
-- **Rulings** are Allen's choices. Several were made on Claude's recommendation, and the page says so where they were.
+- **Rulings** are choices made where the rules alone do not decide. Each is dated.
 - **Provisional** rulings are marked, with the grounds for going back where these were set in advance.
 - **Borrowed:** an input taken from established physics, tracked rather than derived.
 
@@ -157,8 +157,7 @@ $$
 
 ### R10. The current field and rotation (rulings 21 October, provisional; Runs 34, 69)
 - **Option 3 covers the current field.** g₀ᵢ and its back-reaction take GR's nonlinear form.
-  - This was adopted on Claude's recommendation; Allen confirmed it at 09:04.
-- **The input current field is a flow of possibility** (Allen, 12:50, on Claude's recommendation). Around a spinning body, possibility circulates and carries patterns along, so the medium's frame is the zero-angular-momentum frame.
+- **The input current field is a flow of possibility**. Around a spinning body, possibility circulates and carries patterns along, so the medium's frame is the zero-angular-momentum frame.
   - Its clock is that frame's lapse α ("reading Z", adopted provisionally after Run 69).
   - Then spinning holes are Kerr outside the horizon to O(ε/α).
 - **Cost:** reading Z interprets an input; ED's rules do not imply it.
@@ -171,7 +170,7 @@ $$
   - Option A now carries binary-black-hole inspirals and mergers.
   - Under option 3, static holes (Runs 65–67) and spinning exteriors (Run 69) follow from ED's own equations instead.
 - **The core commits what reaches it** (19 October). It is a total absorber, so there are no echoes, and what falls in becomes record (Run 43).
-- **Where:** infalling matter commits where the medium's possibility per place falls to k·p_s, with k = 2 (Allen, 21 October, 14:00, on Claude's recommendation). Since N = P/P∞, that is where the clock has fallen to 2ε.
+- **Where:** infalling matter commits where the medium's possibility per place falls to k·p_s, with k = 2 (21 October, 14:00). Since N = P/P∞, that is where the clock has fallen to 2ε.
   - **It catches all causal matter.** In a thin-shell model at physical ε, the stiffest causal matter turns back at most at 1.27p_s (Run 73). Ordinary dense matter (w ≲ 0.6) turns back below about 0.75p_s.
   - **Any k above about 1.34 would work.** k = 2 is twice the medium's crossover.
   - **The core's areal radius is 2m(k + 1)/k,** which is 3m at k = 2 (Run 74, computed post hoc with the corrected conversion).
@@ -189,7 +188,7 @@ $$
 | The vacuum commits (ED's original event layer) | dropped 15 October (Run 14); ED's event-layer results 20–22 and 27 were obtained with it and have not been re-tested |
 | The flow clock (16 October): a hold lasts while a fixed amount of possibility *passes* | replaced by the presence clock, 18 October |
 | Slowing possibility's own hops by the local clock | not adopted: the medium froze (Run 17) |
-| Bodies keep their proper size (19 October, Claude's choice at Allen's instruction) | superseded for static bodies by hydrostatic balance, 20 October |
+| Bodies keep their proper size (19 October) | superseded for static bodies by hydrostatic balance, 20 October |
 | Defaults (c2), (c3) for binding tension | suspended, then replaced by option 3 (21 October) |
 | Black holes evaporate (19 October), with two tracked assumptions | withdrawn 21 October: ED's holes are stable |
 
@@ -232,7 +231,7 @@ Nothing in ED's papers fixes either.
 1. **Time's direction is fundamental, not a boundary condition.**
    - The engine's bottom is one-way.
    - A clock's time-averaged record loses most of the order, falling as 1/T. What leaks goes as 1/T times a coefficient that is unknown at physical scales.
-   - So this is an instance of Allen's coarse-graining claim, not yet a test of nature (Run 29).
+   - So this is an instance of the ontology's coarse-graining claim, not yet a test of nature (Run 29).
 2. **The quantum vacuum's energy does not draw,** because the vacuum never commits.
    - That is in line with how small the cosmological constant is. Its coefficient is not computed.
    - The classical vacuum drawing nothing is not distinctive: GR without Λ has it too.
