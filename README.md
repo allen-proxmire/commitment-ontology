@@ -1,6 +1,6 @@
 # Commitment Ontology — lattice simulation record
 
-Allen Proxmire (with Claude).
+Allen Proxmire.
 
 Tests of the commitment / Event Density (ED) ontology against measured physics, on a lattice engine built from its rules: 72 runs, 15–21 October 2026.
 
