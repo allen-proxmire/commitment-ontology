@@ -18,7 +18,7 @@ Tests of the commitment ontology against measured physics, on a lattice engine b
   §10 (what it says about the ontology, and Allen's rulings), §11 (open questions).
 - `writeups/consilience_summary.md` — the short version: what is reproduced, how, what is open.
 - `figures/` — one figure per run or group of runs.
-- `runs/` — One file per run (e.g. `firstlaw/`, `vardraw/`, `medium55/`, `eos57/`, `nuc60/`): `PREREG_NN.md`,
+- `runs/` — one file per run (e.g. `firstlaw/`, `vardraw/`, `medium55/`, `eos57/`, `nuc60/`): `PREREG_NN.md`,
   `PREREG_NN.sha256`, `runNN.py`, `analyseNN.py`, logs and JSON results.
 - `check*/` — the independent checks.
 
