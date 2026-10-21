@@ -1,6 +1,6 @@
 # The commitment ontology, as it stands
 
-Allen Proxmire (with Claude) · 21 October 2026 · after Runs 1–74 of the lattice record
+Allen Proxmire · 21 October 2026 · after Runs 1–74 of the lattice record
 
 This page states, in one place, what the lattice record tests: the commitment ontology's rules as they stand today. For each rule it gives:
 - its formula;
