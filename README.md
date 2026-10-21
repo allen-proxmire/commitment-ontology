@@ -4,7 +4,7 @@ Allen Proxmire.
 
 Tests of the commitment ontology against measured physics, on a lattice engine built from its rules. 
 
-60 runs, 15–20 October 2026.
+71 runs, 15–21 October 2026.
 
 ## How the work is done
 - Each run is **pre-registered**: question, kill rules and analysis written first, then
