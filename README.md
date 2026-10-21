@@ -1,6 +1,6 @@
 # Commitment Ontology — lattice simulation record
 
-Allen Proxmire (with Claude).
+Allen Proxmire.
 
 Tests of the commitment / Event Density (ED) ontology against measured physics, on a lattice engine built from its rules: 72 runs, 15–21 October 2026.
 
@@ -19,13 +19,13 @@ Every run in the record tests a consequence of those rules against a measurement
 - **Verdicts are reported as registered:** PASS / FAIL / UNDECIDED. Post hoc work is labelled as such.
 - **An independent agent re-checks every run,** often with its own code. Its corrections go in the record, even when they overturn a result.
 - **Inputs borrowed from standard physics are tracked,** not hidden.
-- **Allen's rulings are recorded where they are made,** with what they buy, what they cost, and what would send them back.
+- **Rulings are recorded where they are made,** with what they buy, what they cost, and what would send them back.
 
 ## Where things are
 - **`writeups/commitment_ontology_simulations.md`** is the full record, and the authoritative version of everything here. It holds:
   - the scorecard;
   - a section per run;
-  - §10, what the record says about the ontology, with Allen's rulings;
+  - §10, what the record says about the ontology, with the rulings;
   - §11, the open questions.
 - **`writeups/consilience_summary.md`** is the short version: what is reproduced, how, and what is open.
 - **`Where CO's Gravity Stands.md`** is a plain-language summary: passed, failed, open.
@@ -51,12 +51,12 @@ Every run in the record tests a consequence of those rules against a measurement
   - frame dragging;
   - GR's field outside black holes.
 - **ED's static field equation is GR's equation for the clock rate.** ED differed only in how space curves (Run 65).
-  - Under Allen's provisional "option 3", space curves as in GR, and ED's stars and static black holes become GR's.
+  - Under the provisional "option 3", space curves as in GR, and ED's stars and static black holes become GR's.
   - Written on the space the medium lives on, this keeps ED's field equation, its clock and its "vacuum draws nothing" rule; stress curves that space (Run 66).
 - **Black holes under option 3:**
   - A static hole's clock stops just outside where GR's horizon would be, at a cold surface with no event horizon (Run 67).
   - A collapse emits Hawking's flux only briefly, about 8M ln(P∞/p_s), then nothing (Runs 68, 71).
-  - **Allen's rulings (21 October):**
+  - **Rulings (21 October):**
     - ED's holes are stable.
     - Infalling matter commits where the medium's possibility per place falls to about 2p_s. This comes before any matter can turn back: without it, matter with pressure turns back and comes out again (Run 71).
     - Around a spinning hole, frame dragging is possibility's own flow, so spinning holes are Kerr outside the horizon (Run 69).
@@ -76,7 +76,7 @@ Every run in the record tests a consequence of those rules against a measurement
 - **Requirements:** Python 3 with numpy, scipy and matplotlib.
 - **Running a run:** in its folder, `python3 runNN.py`, then `python3 analyseNN.py`. Some runs use an `engineNN.py` with a job list.
 - **Absolute paths.** The scripts use the absolute paths they ran with (`/home/claude/...`). Either unzip the code so the run folders sit side by side and point `/home/claude` at that folder, or edit the paths.
-- **The event-layer engines** import Allen's `event-density-ontology-models` (`method/models`). A copy is included in the code zip under `external/`.
+- **The event-layer engines** import the `event-density-ontology-models` (`method/models`). A copy is included in the code zip under `external/`.
 - **Checking a registration.** Each `PREREG_NN.sha256` lists the files' hashes with the paths they had when hashed, and the time of hashing. Compare the hashes with `sha256sum` on the files; `sha256sum -c` will not find the old paths.
 
 ## Status
