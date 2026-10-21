@@ -1,8 +1,18 @@
 # Commitment Ontology — lattice simulation record
 
-Allen Proxmire.
+Allen Proxmire (with Claude).
 
 Tests of the commitment / Event Density (ED) ontology against measured physics, on a lattice engine built from its rules: 72 runs, 15–21 October 2026.
+
+## What is being tested
+**[`ONTOLOGY.md`](ONTOLOGY.md)** states the ontology as it stands, on one page:
+- its primitives (commitment, places, possibility, matter, clocks);
+- its rules, each with its formula, the date it was ruled and the runs behind it;
+- which results are derived from the rules, which needed a ruling, and which borrow standard physics;
+- what it predicts that GR does not;
+- what is still open.
+
+Every run in the record tests a consequence of those rules against a measurement.
 
 ## How the work is done
 - **Each run is pre-registered.** The question, kill rules and analysis are written first, then hashed (SHA-256) with the code before anything is run.
