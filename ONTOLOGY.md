@@ -1,6 +1,6 @@
 # The commitment ontology, as it stands
 
-Allen Proxmire · 21 October 2026 · after Runs 1–80 of the lattice record
+Allen Proxmire · 23 October 2026 · after Runs 1–80 of the lattice record
 
 This page states, in one place, what the lattice record tests: the commitment ontology's rules as they stand today. For each rule it gives:
 - its formula;
@@ -251,6 +251,31 @@ The comparison is one of method, not of maturity. Each program states its inputs
    - The engine's bottom is one-way.
    - A clock's time-averaged record loses most of the order, falling as 1/T. What leaks goes as 1/T times a coefficient that is unknown at physical scales.
    - So this is an instance of the ontology's coarse-graining claim, not yet a test of nature (Run 29).
+   - **Why averaged laws cannot tell forward from backward** (stated 23 October).
+     - **Average a one-way process at a steady state, and the direction-telling terms cancel, leaving only the even ones.**
+     - The picture is standing on top of a bell curve. The slope there is zero, and the ground falls away the same in every direction. Near the top the height is h₀ − ½kx², unchanged under x → −x: the one term that could tell directions apart, the slope, has cancelled.
+     - In time, an equation tells forward from backward only through terms odd in time, such as a first time-derivative (friction is the everyday case). GR's field equations have none: running time backward turns every solution into another solution. GR does not run time both ways; it cannot tell the two apart.
+     - **In the engine, at a steady state:**
+       - every commitment and every hop is one-way, yet the averaged field (R3) has no time in it at all;
+       - a clock's time-averaged record loses its order as 1/T (Run 29);
+       - under R4 the vacuum's law is in detailed balance, so the arrow lives in commitment (Run 35).
+       - One average keeps its direction even at a steady state: the steady inflow of possibility into each clock (Run 29). A current reverses when time is reversed. So the arrow survives where matter keeps re-committing.
+     - **Off the steady state.**
+       - The engine's medium as first built (R1's wander rule, Runs 21–31) spreads by diffusion. From the mean-current identity, ⟨J⟩ = W(z_x − z_y)/6 on every link (R3; Note G), with the hop length and the tick as units,
+$$
+\frac{\partial P}{\partial t}=\frac{W}{6}\,\nabla^2 z\;\approx\;D\,\nabla^2P,\qquad D=\frac{W f'(P)}{6}.
+$$
+       - That is a first time-derivative, so diffusion tells forward from backward: a moving body trails its well (Run 31).
+       - R4 replaced it. The clock field is fixed afresh each tick, so its equation has no time in it, while things change as at a steady state. **This is GR's own structure for the well.** In linearised GR the potentials obey Poisson-type equations with no time derivatives of the fields, and only the shear part obeys a wave equation (Flanagan & Hughes 2005, §2.2, in units G = c = 1):
+$$
+\nabla^2\Theta=-8\pi\rho,\qquad \nabla^2\Phi=4\pi\big(\rho+3P-3\,\partial_tS\big),\qquad \Box\,h^{TT}_{ij}=-16\pi\,\sigma_{ij}.
+$$
+       - R4 was ruled, not produced by averaging.
+       - **So the open question is the waves.** GR's gravitational waves are two-way while they travel, and so are CO's patterns. In CO both wave equations were adopted: the shear of relations (Run 11b) and the wave equation for patterns (R6, Runs 45–46). Whether averaging a one-way process gives a two-way wave is not shown.
+     - **The engine's medium is itself an average** (stated 23 October). A scaleless substrate has no direct model, so the engine uses an averaged medium as its stand-in.
+       - The diffusion belongs to that stand-in: units hopping at random, with no memory of direction. It is not shown to belong to the substrate.
+       - Which averaged medium the substrate gives while things change is open.
+     - Standard physics gets the same two-way averages from two-way micro-laws, so at a steady state the two accounts agree. They part in the leftover (Run 29's 1/T) and in how things change.
    - **The beginning, and the past hypothesis** (stated 23 October).
      - Standard physics explains the arrow by a very special low-entropy start. Penrose put the chance of starting that smooth at 1 in 10^(10^123), measured against every state the universe could have started in.
      - The ontology removes the menu. The beginning is a timeless, scaleless whole of uncommitted possibility, fully in step: "the One Being".
@@ -344,6 +369,7 @@ $$
 
 **Foundations**
 - Signalling through the field fixed each tick, beyond first post-Newtonian order.
+- Whether averaging a one-way process gives CO's waves (the shear of relations, and patterns) that are two-way, as GR's are. Both wave equations were adopted (§5, item 1).
 - Deriving the borrowed inputs: Lorentz invariance (including twist across ticks) and inertia = total energy.
 - Whether CO's event layer itself charges twist across ticks.
 - The vacuum energy's coefficient.
