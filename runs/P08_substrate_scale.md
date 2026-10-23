@@ -9,7 +9,7 @@
 
 The substrate has a characteristic edge length $\ell_{\mathrm{ED}}$.
 
-**Read as one hop (Allen's decision, 2026-10-03).** Under P06 as restated the substrate is a graph and nothing more, so *edge length* is read literally: $\ell_{\mathrm{ED}}$ is **the length of one hop in the participation graph**, not a distance in a continuum. The word was already *edge*; the restatement settles which reading it carries. **The Planck identification therefore becomes a statement about the hop** — $\ell_{\mathrm{ED}}$ $\equiv \ell_P$ says one hop is the Planck length. The framing below is unchanged by it: a value-inheritance step is a value-inheritance step whichever object carries the value.
+**Read as one hop (ruled 2026-10-03).** Under P06 as restated the substrate is a graph and nothing more, so *edge length* is read literally: $\ell_{\mathrm{ED}}$ is **the length of one hop in the participation graph**, not a distance in a continuum. The word was already *edge*; the restatement settles which reading it carries. **The Planck identification therefore becomes a statement about the hop** — $\ell_{\mathrm{ED}}$ $\equiv \ell_P$ says one hop is the Planck length. The framing below is unchanged by it: a value-inheritance step is a value-inheritance step whichever object carries the value.
 
 ## Honest framing of the Planck-length identification
 

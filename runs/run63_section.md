@@ -1,6 +1,6 @@
 ## 9zzj. Run 63 (a derivation): ED's inspiral beyond first order, in the test-mass limit
 
-*20 October 2026. Allen: "do as you recommend" (step 2: derive ED's two-body motion beyond first order, the condition for GW170817's tidal bound to apply to ED). This is a derivation, not a registered test: the numbers below are exact and were derived before any comparison was set up, so nothing here is scored. An independent agent checked it; its corrections are included.*
+*20 October 2026. (step 2: derive ED's two-body motion beyond first order, the condition for GW170817's tidal bound to apply to ED). This is a derivation, not a registered test: the numbers below are exact and were derived before any comparison was set up, so nothing here is scored. An independent agent checked it; its corrections are included.*
 
 **Question.** GW170817's tidal bound (Run 61) and the gravitational-wave tests of GR assume the inspiral's phase follows GR's to 3.5 post-Newtonian orders. ED matches GR at first order (Run 34). Where does it first differ, and by how much?
 
@@ -35,7 +35,7 @@ $$
 
 **What the check added.**
 1. **The algebra is confirmed by hand:** the orbit formulas, the series (ln x = ln y − y + y²/6 + y³/9; ln E = −x/2 + x²/4 + 2x³ + (517/72)x⁴), the ISCO (4y² − 6y + 1 = 0) and the light ring. The TaylorF2 map and Δφ₄ = −10 are confirmed.
-2. **Test bodies do move on geodesics here.** The adopted pattern rule (Run 46) is exactly the Klein–Gordon equation in −N²dt² + N⁻²dx², whose wave packets follow its geodesics. For bodies at relativistic speed this rests on Allen's ruling that inertia = total energy, up to the strong-equivalence-principle term (≲ 10⁻⁵, Run 55). The exterior applies when the central body is an ED star.
+2. **Test bodies do move on geodesics here.** The adopted pattern rule (Run 46) is exactly the Klein–Gordon equation in −N²dt² + N⁻²dx², whose wave packets follow its geodesics. For bodies at relativistic speed this rests on the ruling that inertia = total energy, up to the strong-equivalence-principle term (≲ 10⁻⁵, Run 55). The exterior applies when the central body is an ED star.
 3. **What ED's rules fix and do not fix.** Fixed: the test-mass dynamics in this exterior; the 1PN two-body dynamics for any mass ratio (γ = β = 1, no preferred-frame terms); the leading quadrupole flux. Not fixed, so each needs a ruling:
    - **(i) option A for binaries:** does "GR's exterior" cover the near zone of a binary black hole, or the black hole of a neutron-star–black-hole binary, or only isolated holes?
    - **(ii) the two-body field beyond first order:** does the boosted-rest-field input hold at O(v⁴) and O(v²U); how do two bodies' fields combine (each draw is redshifted by the other's field, and the metric is exponential in the total U); what is the current field at O(v³)?

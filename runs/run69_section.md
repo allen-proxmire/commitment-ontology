@@ -1,10 +1,10 @@
 ## 9zzq. Run 69: which clock does ED's medium follow around a spinning hole? Two readings compared
 
-*21 October 2026. Allen (09:04), on this choice: "as with most rulings, im not sure and any choice would be provisional." Registered and hashed before the run, and before any literature for its criteria was searched (`spin69/PREREG_69.md`, 07:14 UTC). The literature was compiled afterwards by the registered criteria (`lit69.json`). An independent agent checked the run.*
-- *Disclosed: I knew some of the spin measurements from memory when I set the criteria.*
+*21 October 2026. Registered and hashed before the run, and before any literature for its criteria was searched (`spin69/PREREG_69.md`, 07:14 UTC). The literature was compiled afterwards by the registered criteria (`lit69.json`). An independent agent checked the run.*
+- *Disclosed: some of the spin measurements were known when the criteria were set.*
 - *The first compile missed an event that meets K69c's criterion, and the check found it. The verdict flips from "not challenged" to "challenged". The first compile is kept (`lit69_first_compile.json`).*
-- *My exclusion of the ringdown-model (pSEOBNR) spins was decided after I had seen the numbers.*
-- *The check also found that my argument from ED's rules was wrong. Its corrections are included.*
+- *The exclusion of the ringdown-model (pSEOBNR) spins was decided after the numbers had been seen.*
+- *The check also found that the first argument from ED's rules was wrong. Its corrections are included.*
 
 **Question.** In a static field the medium's clock is unambiguous: N = P/P∞. Around a spinning hole two clocks are natural. The check on Runs 66–67 found that the near zone of a spinning hole, and with it GW250114, depends on which one the medium follows.
 
@@ -51,7 +51,7 @@ $$
   - **MCG–6-30-15:** reflection gives a > 0.987 at 90% (Brenneman & Reynolds 2006). A finite-thickness disc gives 0.87–0.99 (Jiang et al. 2022).
   - **GRS 1915+105:** continuum fitting gives a > 0.98 (McClintock et al. 2006), contested by Mills et al. 2021 (0.86). Its NuSTAR reflection spin is 0.98 ± 0.01 (Miller et al. 2013).
   - Across 36 NuSTAR reflection spins, 86% are consistent with a ≥ 0.95 at 1σ (Draghis et al. 2024).
-- **K69c: K is challenged by GW231028_153006** (corrected by the check; I had recorded "not challenged").
+- **K69c: K is challenged by GW231028_153006** (corrected by the check; first recorded as "not challenged").
   - Its GR-based remnant spin is 0.84 (+0.05/−0.10), a 90% lower bound of 0.74 > 0.707, and its Kerr ringdown fits are consistent with GR (GWTC-4.0 tests of the remnants, arXiv:2603.19021).
   - pSEOBNR puts GR at the edge of its 90% region for this event, which the paper partly attributes to waveform systematics. A ringdown prediction specific to K would test it directly.
   - The other remnants are below the threshold: GW250114 at 0.68 ± 0.01; GW231123 at 0.84 (+0.07/−0.19); GW190828 at 0.76 ± 0.07.
@@ -60,7 +60,7 @@ $$
 
 **What the check added.**
 1. **The geometry is confirmed with independent code.** Light-ring and ISCO conditions were solved directly; every tabulated radius and clock agrees to 10⁻¹⁰; the shadow fractions agree to 0.003.
-2. **My argument from rule C1 was wrong.** I had argued that C1 (patterns ride possibility's flow, g₀ᵢ = −uᵢ) makes possibility flow with frame dragging, so the medium's own frame is the ZAMO frame. But on the record's own Run 34 analysis, possibility's flow is always a gradient, and "a stationary rotating body makes no flow at all". Kerr's g_tφ comes from the input current field (the Lorentz input's momentum channel), not from that flow. Reading Z therefore needs a ruling that the input current field is itself a flow of possibility.
+2. **The first argument from rule C1 was wrong.** It held that C1 (patterns ride possibility's flow, g₀ᵢ = −uᵢ) makes possibility flow with frame dragging, so the medium's own frame is the ZAMO frame. But on the record's own Run 34 analysis, possibility's flow is always a gradient, and "a stationary rotating body makes no flow at all". Kerr's g_tφ comes from the input current field (the Lorentz input's momentum channel), not from that flow. Reading Z therefore needs a ruling that the input current field is itself a flow of possibility.
 3. **ED's rules do not decide between the readings.**
    - For K: Run 34 writes g₀₀ = −N², which in stationary lattice coordinates is the Killing norm. Run 66's variables generalise to the stationary (Ernst) reduction, U = −½ ln F. And occupancy is defined per fixed place.
    - For Z: Run 65 identified ED's field equation with GR's lapse equation, and the lapse of Kerr's natural (maximal) time slices is α. The Lorentz-input picture, in which moving clocks run slow relative to the medium, also works only if the medium's frame is orthogonal to the tick's slices.
@@ -79,7 +79,7 @@ $$
    - K is disfavoured by X-ray spins, formally; each object is contested.
    - K is challenged by GW231028_153006.
    - K removes the ergoregion, and with it the Blandford–Znajek jet power that the EHT's M87* models need.
-3. **Adopted provisionally on my recommendation (§10): reading Z.** It comes with a stated premise: the input current field (the Lorentz input's g₀ᵢ) is read as a flow of possibility, so the medium's frame is the zero-angular-momentum frame. This premise is flagged for Allen. Under Z:
+3. **Adopted provisionally (§10): reading Z.** It comes with a stated premise: the input current field (the Lorentz input's g₀ᵢ) is read as a flow of possibility, so the medium's frame is the zero-angular-momentum frame. This premise is flagged. Under Z:
    - rotating holes are Kerr outside the horizon to O(ε/α), at most about 4×10⁻⁴ at the light ring and ISCO;
    - GW250114's ringdown is Kerr's to that order;
    - the medium ends just outside the horizon.

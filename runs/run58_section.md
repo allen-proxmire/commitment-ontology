@@ -1,6 +1,6 @@
 ## 9zze. Run 58: a fifth grid for the far-field first law
 
-*20 October 2026. Allen: "do as you recommend" (step 3, housekeeping). Registered and hashed before the run (`grid58/PREREG_58.md`, 15:37 UTC). An independent agent checked the run; its corrections are included.*
+*20 October 2026. (step 3, housekeeping). Registered and hashed before the run (`grid58/PREREG_58.md`, 15:37 UTC). An independent agent checked the run; its corrections are included.*
 
 **Question.** Run 56 passed the far-field first law on the line, with a post hoc 9th point, and could not tell whether the miss shrinks as h or h². Does a fifth grid settle it?
 

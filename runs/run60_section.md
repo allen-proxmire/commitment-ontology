@@ -1,6 +1,6 @@
 ## 9zzg. Run 60: can ED hold 2 M☉ with matter that nuclear theory and QCD allow?
 
-*20 October 2026. Allen: "1. let's go with they bind. do 2." (ED's interior equations bind for neutron stars; step 2 is the gravity-independent test). Registered and hashed before the run (`nuc60/PREREG_60.md`, 17:09 UTC). An independent agent reproduced it with its own code; its corrections are included.*
+*20 October 2026. (ED's interior equations bind for neutron stars; step 2 is the gravity-independent test). Registered and hashed before the run (`nuc60/PREREG_60.md`, 17:09 UTC). An independent agent reproduced it with its own code; its corrections are included.*
 
 **Question.** Run 59 limited dense matter only by causality. Nuclear theory and QCD limit it further without assuming any theory of gravity. Can ED hold PSR J0740+6620 (2.08 ± 0.07 M☉) with matter they allow?
 

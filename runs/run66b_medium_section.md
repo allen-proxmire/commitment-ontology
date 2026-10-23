@@ -1,6 +1,6 @@
 ## 9zzo. How ED's medium carries option 3 (a reading, not scored)
 
-*21 October 2026. Allen: "go ahead as recommended" (08:02), step 3: sketch the engine's medium under option 3, and re-check β = 1, clock universality and the role of p_s. This is a reading built on Runs 66–67; nothing new was run for it. The independent agent checked it with Runs 66–67; its corrections are included.*
+*21 October 2026. Step 3: sketch the engine's medium under option 3, and re-check β = 1, clock universality and the role of p_s. This is a reading built on Runs 66–67; nothing new was run for it. The independent agent checked it with Runs 66–67; its corrections are included.*
 
 **1. What the engine has.**
 - A flat cubic lattice.

@@ -1,6 +1,6 @@
 ## 9zzb. Run 56: housekeeping — a finer scan, Simpson's rule, and a stiffer star
 
-*20 October 2026. Allen: "proceed as you recommend" (step 4). Registered and hashed before the run (`house56/PREREG_56.md`, 12:41 UTC). An independent agent checked the run; its corrections are included. Two deviations are disclosed:*
+*20 October 2026. (step 4). Registered and hashed before the run (`house56/PREREG_56.md`, 12:41 UTC). An independent agent checked the run; its corrections are included. Two deviations are disclosed:*
 - *The scan's 9th point was computed post hoc with the outer loop capped at 30 (`posthoc56_ninth.py`). In the registered run its composite cycled between two states 4×10⁻¹² apart, which never meets the 10⁻¹² stopping test, so it would have run for hours to the 200-iteration cap. The check estimates the cycle's effect on the miss at about 3×10⁻⁷ b.*
 - *The fit's error is discussed beyond the registered form, at the check's suggestion.*
 

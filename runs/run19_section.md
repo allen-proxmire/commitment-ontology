@@ -4,7 +4,7 @@
 - **Committed side:** its places hold engine commitments where its cost lives, drawing possibility from the one budget.
 - **Uncommitted side:** its orientation field moves as in Run 18, falling with inertia, with twist charged on every loop.
 
-This follows Allen's answers of 6 October (phase memory on uncommitted channels, at the local clock rate) and avoids repeating Attempt D, whose commitment-only loops can only drift, and only with a steering constant of ours (D-O8, D-O15, `Engine_Motion.md`). Plan approved 17 October: the two-layer knot, both matter arms, and R1.
+This follows the rulings of 6 October (phase memory on uncommitted channels, at the local clock rate) and avoids repeating Attempt D, whose commitment-only loops can only drift, and only with a steering constant of ours (D-O8, D-O15, `Engine_Motion.md`). Plan approved 17 October: the two-layer knot, both matter arms, and R1.
 
 **R1 does not act in this engine.** R1 (adopted 11 October) says a failed try takes no time. Nothing here proposes: the vacuum never commits (Run 14), and matter's reserved pairs renew at once if both places can pay. So the engine is bit-identical with R1 on or off, and Runs 14–18 stand under R1. Checked: the Run 19 control reproduces Run 16's engine bit for bit.
 
@@ -20,7 +20,7 @@ This follows Allen's answers of 6 October (phase memory on uncommitted channels,
 | ÷ E(Q = 1) | 1 | 1.643 | 2.299 |
 
 **How many commitments a knot holds (two arms):**
-- **Arm E, cost-paid (our rule, flagged).** $\mathrm{round}(\lambda E/2)$ commitments spread over the knot's links with weight $e_p+e_q$, so place p holds about $\lambda e_p$ of them. λ = 0.2023 per unit of cost, fixed so that Q = 1 holds 54, as ED's ball does. That gives 54 / 89 / 124 commitments, up to 6 on one place (an addition, flagged).
+- **Arm E, cost-paid (an added rule, flagged).** $\mathrm{round}(\lambda E/2)$ commitments spread over the knot's links with weight $e_p+e_q$, so place p holds about $\lambda e_p$ of them. λ = 0.2023 per unit of cost, fixed so that Q = 1 holds 54, as ED's ball does. That gives 54 / 89 / 124 commitments, up to 6 on one place (an addition, flagged).
 - **Arm P, ED's current rule.** One reserved commitment per place with $e_p\ge\tau$, paired at random as ED pairs its ball. τ = 0.371 (ours) is fixed so that Q = 1 has 108 matter places. That gives 51 / 74 / 101 pairs.
 
 **Active mass.** A body's well about its centre, $\delta(r)=1-\langle N\rangle_r/\langle N_{\rm ctrl}\rangle_r$ for r = 7–20, fitted to ED's ball's well: $A=\sum\delta\,t/\sum t^2$. Its draw is the possibility it spends per tick.
@@ -111,7 +111,7 @@ ED's ball at (30, 30, 30) and the Q1 arm-E knot 9.5 places away, seeds 1 and 2, 
 - This is the parked "perihelion on the event layer", now answered by inference: Run 10's multiplicative budget is not what the adopted engine does.
 - It follows from two adopted rules together: the vacuum never commits (so outside matter possibility only wanders, linearly), and the flow clock rule (so the clock rate is the passing count, linearly).
 
-**3. What would fix it, stated, not chosen.** Clocks would have to slow as $N=e^{-\delta}$ rather than $1-\delta$, or the shortage would have to obey an equation linear in $\ln N$. For example, a hold could end after possibility equal to a fixed *fraction of what remains* has passed. That would be a change to the clock rule adopted on 16 October, and it would need Runs 15–18 re-checked. **Allen's decision.**
+**3. What would fix it, stated, not chosen.** Clocks would have to slow as $N=e^{-\delta}$ rather than $1-\delta$, or the shortage would have to obey an equation linear in $\ln N$. For example, a hold could end after possibility equal to a fixed *fraction of what remains* has passed. That would be a change to the clock rule adopted on 16 October, and it would need Runs 15–18 re-checked. **Needs a ruling.**
 
 **4. Not run, and why.** Taking Run 18's equations with S1's self-well, a knot in its own well would fall at 0.58 of a test body if wells add, or 0.37 if they multiply, and at 0.88 with the self-well 0.3× as deep. But Run 18's knot uses clock-only coupling (γ = 0), not the adopted pattern rule. So that SEP test would mostly measure the missing γ, and it was set aside in favour of measuring β directly.
 

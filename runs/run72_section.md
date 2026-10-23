@@ -1,6 +1,6 @@
 ## 9zzt. Run 72: clocks on an equal-place curved lattice, both signs of curvature
 
-*21 October 2026. Allen (12:50): "then run 3 and 4". Step 4 was the follow-up to Run 70 that its check recommended: the design gap with about ten times the statistics, an equal-volume discretisation, and clocks at minima of the curvature profile as well as maxima. Registered and hashed before any engine run (`curve72/PREREG_72.md`, 11:06 UTC), with the theory's predictions computed and hashed beforehand (`theory72.json`).*
+*21 October 2026. Step 4 was the follow-up to Run 70 that its check recommended: the design gap with about ten times the statistics, an equal-volume discretisation, and clocks at minima of the curvature profile as well as maxima. Registered and hashed before any engine run (`curve72/PREREG_72.md`, 11:06 UTC), with the theory's predictions computed and hashed beforehand (`theory72.json`).*
 - *Disclosed: the theory was explored first, at several curvatures, both p_s = 1 and 4, and two probe layouts. The choice of λ = 0.25, p_s = 1 and Run 24's layout was made for the gap's statistical power, before any engine run.*
 - *Two 600-tick timing runs ended before the burn-in, so they produced no clock numbers.*
 - *The first job runner hit the session's two-hour task limit after 32 of 50 runs. A resume script ran the rest of the same registered list.*

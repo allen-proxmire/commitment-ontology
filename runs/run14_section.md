@@ -24,7 +24,7 @@ Clocks are then pieces of matter, sampling the shortage where they sit.
 
 ### Method
 
-**Engine.** Allen's `run_event_layer.py`, imported unmodified. The subclass reproduces the original engine **bit for bit** when its additions are switched off (checked over 300 ticks: possibility, blinks and matter states identical).
+**Engine.** ED's `run_event_layer.py`, imported unmodified. The subclass reproduces the original engine **bit for bit** when its additions are switched off (checked over 300 ticks: possibility, blinks and matter states identical).
 
 **Arms.**
 - **O:** the original tick. Every place commits by Born choice and mutual proposal, spending one unit from each place.
@@ -78,7 +78,7 @@ Clocks are then pieces of matter, sampling the shortage where they sit.
 - With ED's density-2 screening (λ = 3.5) and the same response, the slowing at r = 17 would be about 0.06%. The measured value is 0.56 ± 0.12%.
 
 **Sanity checks on arm O.**
-- Allen's own benchmark (`python run_event_layer.py well`), run unmodified in this workspace, reproduces the published table exactly: 4.36, 1.85, 1.11, 0.69, 0.56 and 0.25% at shells 4–9.
+- ED's own benchmark (`python run_event_layer.py well`), run unmodified in this workspace, reproduces the published table exactly: 4.36, 1.85, 1.11, 0.69, 0.56 and 0.25% at shells 4–9.
 - The subclass is bit-identical to that engine when the probes are off.
 - With probes in the box and a read three times longer, arm O's medium-blink well reads 5.0, 2.2, 1.1, 0.5, 0.3 and 0.1%. That is the same shape and depth, within about 0.6 points.
 

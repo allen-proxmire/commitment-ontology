@@ -1,7 +1,7 @@
 ## 9zzr. Run 70: clocks on a lattice with curved-space conductances
 
-*21 October 2026. Allen: "im good with your recommendations… please proceed" (09:04), step 4: build the stress-curved lattice and re-check clock universality. Registered and hashed before any engine run (`curve70/PREREG_70.md`, 07:20 UTC), with the zero-range theory's predictions computed and hashed beforehand (`theory70.json`).*
-- *Disclosed: the theory was first run at λ = 0, 0.03 and 0.06. I moved to 0.06 and 0.12 before any engine run, after seeing that the predicted changes are linear in λ, so 0.03 would sit inside the noise.*
+*21 October 2026. Step 4: build the stress-curved lattice and re-check clock universality. Registered and hashed before any engine run (`curve70/PREREG_70.md`, 07:20 UTC), with the zero-range theory's predictions computed and hashed beforehand (`theory70.json`).*
+- *Disclosed: the theory was first run at λ = 0, 0.03 and 0.06. It was moved to 0.06 and 0.12 before any engine run, after seeing that the predicted changes are linear in λ, so 0.03 would sit inside the noise.*
 - *A 300-tick smoke test is disclosed in the registration.*
 - *An independent agent checked the run. Its corrections narrow what the run shows, and they are included: the curvature here is imposed rather than produced by stress, the measured size depends on how places are represented, and the effect is not local.*
 
@@ -60,7 +60,7 @@ On the flat lattice it gives own-dips of 0.0672/0.0332 (high) and 0.0424/0.0205 
 $$
 \frac{\delta G(0)}{G(0)}\sim C\,\tilde R\,h\,\ell_c ,\qquad C\approx0.008\text{–}0.013 ,
 $$
-   not from R̃h². My planned figure of 10⁻⁷² used the wrong scaling.
+   not from R̃h². The planned figure of 10⁻⁷² used the wrong scaling.
 4. **At physical curvature it is still negligible.** For a neutron star (R̃ ≈ 0.2/(10 km)², ℓ_c ≈ 10 km) and ED's hop (10^2.5–10^3 Planck lengths), R̃hℓ_c ≈ (1–3)×10⁻³⁷, so the self-dip changes by about 10⁻³⁹ of itself. The design-dependent part is smaller still.
 5. **Other limits.**
    - The curvature is imposed, not produced by the medium's stress.

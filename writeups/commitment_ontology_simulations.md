@@ -1,8 +1,9 @@
 # Commitment Ontology: Lattice Simulation Record
 
-**Date:** 15–19 October 2026
-**Scope:** simulation Runs 1–72 testing whether the commitment / bandwidth ontology, written as the stability landscape Σ (Primitive 12), reproduces gravity, and where it stops working.
+**Date:** 15–21 October 2026
+**Scope:** simulation Runs 1–77 (with 72b) testing whether the commitment / bandwidth ontology, written as the stability landscape Σ (Primitive 12), reproduces gravity, and where it stops working.
 **Code and raw data:** the `*_run.zip` bundles from the session (one per run), listed in the [file index](#file-index).
+**The ontology tested, as it now stands:** stated on one page in the repository's `ONTOLOGY.md` (rules, rulings with dates, what is derived, ruled or borrowed, predictions, open questions). §10 records how each rule was reached.
 
 ---
 
@@ -36,7 +37,7 @@
 | 22 | Candidate A against every standing check: β from the medium's own equation of state (no matter) at P₀ = 4–2048; wells at 4–32; probe clocks; outflow screening; patterns (pre-registered, two amendments) | **β = 1 for an ideal clock:** the medium alone is inside Mercury's band (\|β − 1\| ≤ 0.003) at every P₀ ≥ 64 (0.9996, 1.0015, 1.0010, 1.0005), as a zero-range theory predicted beforehand. The wells at 4–32 obey the same equation of state to about 0.01 in β. No well was run at P₀ ≥ 64. Nordtvedt is not reached (η = +0.002 at 2048). **Clocks FAIL:** a presence clock drains its own places by 24–32%, so clocks of different make slow differently near matter (κ 0.93 / 0.99, and 0.94 / 0.98), and the self-dip barely shrinks from density 8 to 32. **Judged excluded as built (p_s = 1).** Marginal misses on the profile theory and on one amplitude. The pattern code check is invalid in these wells |
 | 23 | Candidate A′: the medium linear up to a crossover $p_s$, logarithmic above; a lone clock's self-dip and the medium's β against $p_s$ (pre-registered, with a kill rule) | **Both kill tests pass.** The self-dip falls as $p_s^{-0.94\pm0.04}$ (0.186 → 0.0060 from $p_s$ = 1 to 64; theory −0.92). β rises to within 0.0005 of 1 at $P_0/p_s$ = 1024 for $p_s$ = 4, 16, 64, matching theory to 0.0003. Matter becomes light while β stays 1. Corrects Run 22's self-dip sizes (crowding). Not yet the clock check in a well; real clocks need $p_s\gtrsim2\times10^5$ |
 | 24 | Candidate A′: do clocks of different make agree as $p_s$ grows? Two designs in two uniform media (the well test's stand-in, tied to Run 22's well at $p_s$ = 1); pre-registered with a kill rule | **Pass.** The design gap falls 0.056 → 0.018 → 0.0049 at $p_s$ = 1, 4, 16, as $p_s^{-0.85\pm0.07}$ (theory −0.74; kill line −0.5). Both designs approach κ = 1. At $p_s$ = 1 the uniform form reproduces the well's design ratio (0.944 against 0.951). Real clocks (10⁻⁶) need $p_s\gtrsim4\times10^5$ (extrapolated) |
-| 25 | Candidate A′ (adopted provisionally), the closing checks: (a) wells where Mercury's band holds ($P_0/p_s$ = 256); (b) β at $P_0/p_s$ up to 4096, for Nordtvedt (pre-registered, kill rules) | **(a) Pass:** the wells follow the medium's equation of state to 0.0015 in ln P at $p_s$ = 4 and 16. **(b) the β part of Nordtvedt met** (ED_Attempt_01 found a linear counting budget fails the sourcing terms by 10⁴; the engine's static sourcing was worked out in Run 30, ζ₂ = 2(β − 1); the motion and preferred-frame terms are untested; see Run 25's correction): at $p_s$ = 16, β − 1 = −1.06×10⁻⁴ at 4096 (theory −0.98×10⁻⁴), so η = −4.2×10⁻⁴, about 1σ of lunar laser ranging. At $p_s$ = 4, η = −2.5×10⁻⁴, but a registered "falls at every step" clause fails within noise (a flaw in the registrated rule) |
+| 25 | Candidate A′ (adopted provisionally), the closing checks: (a) wells where Mercury's band holds ($P_0/p_s$ = 256); (b) β at $P_0/p_s$ up to 4096, for Nordtvedt (pre-registered, kill rules) | **(a) Pass:** the wells follow the medium's equation of state to 0.0015 in ln P at $p_s$ = 4 and 16. **(b) the β part of Nordtvedt met** (ED_Attempt_01 found a linear counting budget fails the sourcing terms by 10⁴; the engine's static sourcing was worked out in Run 30, ζ₂ = 2(β − 1); the motion and preferred-frame terms are untested; see Run 25's correction): at $p_s$ = 16, β − 1 = −1.06×10⁻⁴ at 4096 (theory −0.98×10⁻⁴), so η = −4.2×10⁻⁴, about 1σ of lunar laser ranging. At $p_s$ = 4, η = −2.5×10⁻⁴, but a registered "falls at every step" clause fails within noise (a flaw in the registered rule) |
 | 26 | Two bodies under the adopted rules (radius-3 and radius-4 balls, solo and together): Run 19's checks, and whether wells multiply (pre-registered, kill rule on W2) | **Wells multiply:** f = 0.91 (seed 1) and 1.29 (seed 2), pooled 1.12 ± 0.19 (1 = multiply, β = 1; 0 = add, β = ½); additive excluded at about 6σ. Within-seed errors understated the seed-to-seed spread. **Each well follows its draw in ln N:** depth per unit draw 0.690 and 0.689 (medium's slope 0.695). Each body redshifts the other's draw as predicted (to 0.2%). W1's first specification was self-contradictory (an error; corrected for seed 2, which passes at 1.013). $p_s$ = 1 |
 | 27 | Patterns falling in Candidate A′'s deep well (the theory's smooth field), box 40 against box 60: was box 40 why Run 22's code check failed? (pre-registered) | **Passes at 18 out in box 60** (0.986, masses alike to 0.5%, as Run 16). **Fails at 10 out in both boxes** and narrowly at 14 in box 60 (0.957, 1.9%). Both suspected causes contribute: the box face (box 40 at 14: 6.1%), and the protocol in steep wells (the error grows with how far the packet falls in its 16-tick window). The fall closer in is unmeasured, not failed |
 | 28 | The strong field of the adopted metric (exponential: no horizon, a throat at areal e M), calculated and set against black-hole images and ringdowns (comparison pre-registered) | **Shadow allowed:** 4.6% larger than GR; inside every EHT 2σ interval (1.4σ tension with Sgr A*, VLTI prior). **Ringdown: about 5σ tension.** The static, scalar estimate rings 3.9–4.4% lower than Kerr, against GW250114's 220 frequency of 0.02 ± 0.02 (90%). A flag, not an exclusion: no rotation, scalar modes, and a full ED waveform could shift the inferred masses. The strong field tests the pattern rule's exact form ($g_{ij}=N^{-2}$), which was fixed only at first order |
@@ -44,19 +45,19 @@
 | 30 | The sourcing weight the static engine can reach (rest mass in a potential) against GR's Tolman mass. Derivation; the engine check is Run 26 W3; checked by an independent agent | **Consistent with GR.** A body's draw is its count × local clock rate, which is Tolman's rest-mass term ρ√−g = ρ*N. In PPN terms ζ₂ = 2(β − 1) (ξ = 0). This reverses ED_Attempt_03's F2 (ζ₂ = −3), which read the count as proper density. The binary-pulsar bound needs $P_0/p_s\gtrsim2.3\times10^4$. **Not reachable statically:** moving matter (it must draw 1 + 2v² × its ticking rate), stress, α₁, α₂ |
 | 31 | Does a well form at the pattern speed, and follow a moving body? ED's ball stepped through the lattice at two speeds, plus a static build-up (pre-registered, kill rule) | **Kill rule fired (outcome A): the well is carried by diffusion.** It forms at the diffusion rate (4% formed at 10 places after 1,000 ticks; light speed would give 100%; build-up median 0.97 of diffusion, individual points 0.83–1.75). A moving ball trails its well: fore-aft asymmetry 0.67 and 0.32 (diffusion 0.75, 0.40; a co-moving field 0) and the sideways well cut to 0.54 and 0.93. A moving ball draws 8.5% more. At the adopted scales a well spreads about 0.3 μm in the universe's age, and a body at 370 km/s keeps its well within 0.01 of a place. **The static results hold only as steady states, which the engine's diffusion never reaches at physical distances; the field's dynamics fail** and need a rule (a wave-carried deficit keeps every static result) |
 | 32 | Can the adopted rules make a horizon? Theory (surface gravity of the zero-clock surface; the self-limited draw) and an engine check with ED's ball at 8, 32, 128 commitments per pair (pre-registered, kill rule) | **Pass: no horizon.** A static body's draw is its ticking, so its own well throttles it: 16× the commitments gives 1.8× the draw, and outside the ball the clock rate never reaches zero (shell means 7.2 or more at r ≥ 4, lowest single place 4.46; theory within 1–3%). The idealised zero-clock surface would be at zero temperature (κ = 0, a double zero of g_tt). Agrees with Attempt B's B-39, Attempt C's C-O39 and the acoustic-metric arc. (The registration's light-ring threshold U_b > 2 was wrong: it is ½.) **So ED's Hawking-radiation papers, which need κ > 0, do not apply to the engine's static solutions.** The surface-glow constraint (Attempt 03) remains |
-| 33 | Does a pattern's energy pull? (a decision memo; no run) | **Decision for Allen.** No ED rule turns a pattern's energy into draw, and the record conflicts on it (DSR-4 against Mass Without Mass; ontology §12 against D30). A cadence draw (ħω) gets binding energy right but misses motion and stress. Only a rule that also counts momentum flux gives GR's weights, and that is Tolman–Komar's source. Motion is gated by Run 31 |
+| 33 | Does a pattern's energy pull? (a decision memo; no run) | **Decision needed.** No ED rule turns a pattern's energy into draw, and the record conflicts on it (DSR-4 against Mass Without Mass; ontology §12 against D30). A cadence draw (ħω) gets binding energy right but misses motion and stress. Only a rule that also counts momentum flux gives GR's weights, and that is Tolman–Komar's source. Motion is gated by Run 31 |
 | 34 | A clock field fixed each tick plus a current field: what must the current be to pass the preferred-frame tests? (a calculation; criteria registered; checked by an independent agent) | **No derived candidate passes; passes only by input. Adopted 19 October** with one input (Lorentz invariance at first post-Newtonian order, as Run 18's); the tick ruled not physical. Matching Will's PPN metric: α₁ = −2k₁ − 8, α₂ = 2k₂ − 1, α₃ = 2a₁ − 4, ζ₁ = ξ = 0. **With no current field: α₁ = −8, α₂ = −1, excluded.** The diffusive engine is not of PPN form, but has no frame dragging either way. If patterns ride possibility's own flow, conservation gives k₂ = ½ and α₂ = 0, with no number chosen (two premises stated). That flow is always curl-free, so α₁ (and frame dragging, which is the same coefficient: 1 + α₁/8 of GR) needs a momentum channel with k₁ = −4 to 2×10⁻⁵ (the record's λ_J = 4), which is input. α₃ needs a₁ = 2 (Run 33's R-b), input. The kill rule as registered could not fire |
 | 35 | The engine on the adopted rules (Candidate A″: clock field fixed each tick as the wander rule's stationary law; presence clocks unchanged). A construction run, registered; no kill rule | **Builds as ruled.** Static draw 8.5492 against 8.5451 predicted; shells within a relative 1.7×10⁻⁴ (against Run 26's diffusive engine, post hoc: draw 0.1%, deficits within 0.4–4% at r = 4–13). A moving ball keeps its well and draw at $w=1.5\times10^{-3}$ and 0.25 (α −0.002, lateral 1.001, draw ratio 0.999; Run 31: 0.672, 0.537, 1.085). **D35 passes:** with no memory in the medium between ticks, the clock record's long one-way tail vanishes (2×10⁻⁶ against Run 29's 8.3×10⁻⁴), so Run 29's tail needed the medium's memory (ambient fluctuations or the clock's own reservation hole; not separated). Averaging still removes the order ($T^{-1/2}$ to T ≈ 100, then 1/T). Derived: under part 1 the vacuum is in detailed balance, so the arrow lives in commitment |
-| 36 | Does a bound pattern's energy pull, binding counted once? (Allen: pattern rest energy draws; adopted rule: energy + momentum flux). Registered, kill rule; independent check | **Kill rule fired.** With the standard matter (a strongly self-gravitating ball, N = 0.38 at its places) the far field overshoots ħω by 13%; energy-only undershoots by 9%. Post hoc: a body held on fixed places responds to outside wells with weight 1/(1 + U_self), not GR's 1 (in GR the body shrinks in these coordinates), which explains about 0.05 of the 0.13; the rest unresolved. With weak-field matter the adopted rule misses by 0.4–2.6% and energy-only by 1.3–1.7× the binding |
+| 36 | Does a bound pattern's energy pull, binding counted once? (ruled: pattern rest energy draws; adopted rule: energy + momentum flux). Registered, kill rule; independent check | **Kill rule fired.** With the standard matter (a strongly self-gravitating ball, N = 0.38 at its places) the far field overshoots ħω by 13%; energy-only undershoots by 9%. Post hoc: a body held on fixed places responds to outside wells with weight 1/(1 + U_self), not GR's 1 (in GR the body shrinks in these coordinates), which explains about 0.05 of the 0.13; the rest unresolved. With weak-field matter the adopted rule misses by 0.4–2.6% and energy-only by 1.3–1.7× the binding |
 | 37 | Which memory carried Run 29's tail: the clock's own reservation hole or ambient fluctuations? Registered thresholds | **Ambient.** With no own hole the tail is unchanged (ratio 1.118 ± 0.004). The hole shaped only the short lags (cadence swings, D(1)) |
 | 38 | Frame dragging on the engine (construction check) | A pattern near a rotating ring co-rotates at the current field's speed to 0.2% (no clock well); in the well its fall is turned by the gravitomagnetic force (+7%, accounted for). The strength is the Lorentz input |
 | 39 | The ringdown with the remnant's spin (calculation, registered) | **Undecided.** ED's first-order rotating exterior fails before a = 0.68 (its light ring crosses the throat at a ≈ 0.29). Up to a = 0.15, spin moves the frequency offset −4.4% → −1.8% but the damping time +4.6% → +13% (bound +9%); a linear extrapolation to 0.68 (not registered) gives +3.1% (inside) and +22% (outside). Needs ED's spin-squared structure |
 | 40, 40b, 40c | Run 36 with a body that keeps its proper size (registered; 40b and 40c after an independent check) | **A body keeping its proper size responds to outside wells with weight 1 in an unbounded medium** (1.008; held: 0.518). Run 40's pass was the periodic box's. **At weak field (40c) the adopted rule counts a bound pattern's binding once (−0.05 b); energy alone misses by two bindings (−2.01 b, the binding counted three times).** At strong field (40b) it misses by about one binding even with an ideal body, a second-order departure from GR |
 | 41 | ED's rotating exterior at the remnant's spin: the engine's own rule (with a body quadrupole) and the Newman–Janis completion (calculation, registered) | **Every exterior fails GW250114 at a = 0.68** (scalar eikonal). Engine rule: no prograde light ring outside the throat, damping times 0.33–0.54 of Kerr's, quality factor below any Kerr value. Newman–Janis: −17% in frequency, −21% in damping time (its quality factor matches a nearly non-spinning Kerr, so this verdict assumes GR's inferred spin) |
-| 42 | A pattern inside a body, at weak field (registered, two arms: the body's internal stress drawing or not) | **Internal binding counts once only if the body's stress pulls.** With stress drawing at weight 1 per direction (Tolman's 3p, PPN ζ₄) the far field equals ħω to −0.09 of a binding (K42 passes; m = 3, 5, 8 alike). Under the adopted rules as they stand it misses by 0.67–0.92 bindings, almost all of it the stress term. The small remainder shrinks with the body's own field (second order; post hoc check). Energy alone still misses by about half a binding. **Allen adopted "stress pulls" as part of the Lorentz input (19 October)** |
-| 43 | Option A (Kerr outside, ED's core inside): what the core must do (calculation, registered) | **Viable if the core absorbs a few percent of what reaches it** (≥ 0.3% quenches the ergoregion instability at GW250114's spin; the Sgr A* glow bound at ED's scale needs only ≳ 6×10⁻⁷). Near-total absorption ("it commits") passes everything and leaves no echo. Partial absorption leaves echoes spaced by ≥ 29 ms for GW250114's remnant (ED's natural scale; 293 ms at a Planck length), whose later pulses fall inside the windows searched in O1–O3. **Allen ruled: the core commits** (a total absorber; no echoes) |
+| 42 | A pattern inside a body, at weak field (registered, two arms: the body's internal stress drawing or not) | **Internal binding counts once only if the body's stress pulls.** With stress drawing at weight 1 per direction (Tolman's 3p, PPN ζ₄) the far field equals ħω to −0.09 of a binding (K42 passes; m = 3, 5, 8 alike). Under the adopted rules as they stand it misses by 0.67–0.92 bindings, almost all of it the stress term. The small remainder shrinks with the body's own field (second order; post hoc check). Energy alone still misses by about half a binding. **"Stress pulls" adopted as part of the Lorentz input (19 October)** |
+| 43 | Option A (Kerr outside, ED's core inside): what the core must do (calculation, registered) | **Viable if the core absorbs a few percent of what reaches it** (≥ 0.3% quenches the ergoregion instability at GW250114's spin; the Sgr A* glow bound at ED's scale needs only ≳ 6×10⁻⁷). Near-total absorption ("it commits") passes everything and leaves no echo. Partial absorption leaves echoes spaced by ≥ 29 ms for GW250114's remnant (ED's natural scale; 293 ms at a Planck length), whose later pulses fall inside the windows searched in O1–O3. **Ruled: the core commits** (a total absorber; no echoes) |
 | 44 | Run 42 on a grid twice as fine; the residual against the body's own field (registered) | **All three checks pass.** Finer grid: −0.073 b with the stress drawing (−0.83 b without, as before). The residual goes to zero with the body's own field (intercept −0.005 b; ≈ −1.25 U_self·b), so it is second order: negligible for ordinary bodies, but a potential falsifier for neutron stars (not yet computed). The stress term's stencil gap falls from 6.1% to 1.7% |
-| — | ED's black-hole radiation papers under option A and "the core commits" (a reading) | They fit the ruling (radiation from correlations at the surface, nothing released from the core) and apply with Kerr's κ, borrowed, if the core is assumed to act on quantum fields as a horizon would. No ED-specific signal. The ruling meets the bound that ended Attempt 03's line (by input and rule; that line is not reopened). **Allen ruled: black holes evaporate** (two tracked assumptions); the endpoint (Planck-mass remnant or full evaporation) is open |
+| — | ED's black-hole radiation papers under option A and "the core commits" (a reading) | They fit the ruling (radiation from correlations at the surface, nothing released from the core) and apply with Kerr's κ, borrowed, if the core is assumed to act on quantum fields as a horizon would. No ED-specific signal. The ruling meets the bound that ended Attempt 03's line (by input and rule; that line is not reopened). **Ruled: black holes evaporate** (two tracked assumptions); the endpoint (Planck-mass remnant or full evaporation) is open |
 | 45 | A body at neutron-star strength (U ≈ 0.2): does its binding pull and fall like its energy? Two media, stress for the body's own binding, fall as the response to an outside potential (registered, with a first-order calculation) | **The body's own binding:** pulls once to first order (K45a, by construction of the stress rule); falls within the engine's ~10⁻³ resolution (K45b not falsified). **A bound pattern fails (K45c):** with the coded equation (redshifted mass only) its binding falls with the wrong weight, Δ = −2K/ω² ≈ −1 b; as coded the engine fails the pulsar triple by ~10⁵. Post hoc, the full pattern rule shrinks the defect 22–47×, leaving a remainder that is mostly lattice error; untested as registered (Run 46). First order: the pulsar triple tightens P₀/p_s ≳ 10⁵ |
 | 46 | The full pattern rule for massive patterns (the wave equation in −N²dt² + N⁻²dx², with the covariant Tolman/Komar draw): Run 45's tests in three media and three resolutions (registered) | **The first-order failure is gone.** Weak-field pull counts binding once (K46a passes); the control reproduces the coded equation's defect (K46d passes). **The registered fall test is undecided** (K46b, K46c): the draw-based defect scatters, which the check traced to the medium's lookup table (a 16× finer table gives about +1×10⁻³). Post hoc, the ω-based fall gives |Δ_∞| ≲ 7×10⁻⁴ and the body's −2×10⁻⁴. The pull at neutron-star strength converges at −0.20 b (4% of the pattern's energy), a second-order miss that remains |
 | 46b | Run 46's fall test with a 16× finer medium table and four outside-potential steps; audits of Runs 45 and 40c (registered) | **Undecided as registered:** the table had not converged (2.9×10⁻⁴ against 2×10⁻⁴), and the q = 2 fit came within 0.15×10⁻³ of the falsification line. Post hoc: the ω-based fall goes to about zero after grid extrapolation; the draw-based is −0.9 ± 0.4×10⁻³; the body's is −0.2×10⁻³. Audits: Runs 45 and 40c stand. The pull at neutron-star strength stays at −0.20 to −0.21 b. Run 46c recommended |
@@ -66,34 +67,40 @@
 | 49 | Is the 4% pull miss ED's or the body model? Three bodies: Run 46c's, matter with an equation of state held at proper size, and the same matter re-settling (registered) | **Neither registered outcome**: re-settling made the miss larger (−0.34 b at Γ = 2, −0.22 at Γ = 3; held: −0.18 to −0.20). The check traced this to the equilibrium rule's post-Newtonian weight: exact hydrostatics weights the virial by the matter's whole draw, (ρ + 3p)N√γ. **Post hoc, with that weight, Run 46c's body gives +0.03 b and re-settling matter +0.03 b: the 4% deficit came mostly from the stress rule, not ED.** To be registered with a body in local hydrostatic equilibrium (Run 50) |
 | 50 | A star in exact point-by-point hydrostatic balance (Γ = 2 polytrope, U ≈ 0.215), no stress or proper-size rule: does a quantum raise its far field by exactly ħω? With a registered derivation: in a scale-free medium the engine's statics with this matter come from one action (registered) | **The discrete first law holds** (K50a: ΔE = κω to ≤ 5×10⁻⁸). **The far-field test is undecided as registered** (smooth fits +0.044, +0.050), because the miss oscillates with the star's surface cells (−0.006, −0.028, −0.002, +0.015 b at h = ½ … ⅕). The lattice virial defect falls as h². **Post hoc, surface-averaged: c₀ between −0.015 and +0.012 b across fit forms (0.000 ± 0.009 for c₀ + ah²), against −0.20 b with the old body model**: the 4% deficit was the old body model. Same first law as GR; not GR's mass–radius relation. Γ = 3 and weak-field extras did not finish |
 | 51 | A medium with a controlled departure from scale-free, g = αp_s/P, and a 120-cell box (registered) | **PASS.** The fall shifts linearly with the departure, at the size Run 46c's media implied (within 2%; linearity is a weak test at this size). The box changes nothing (≤ 2×10⁻¹⁰), since the field has no box. One family only, so "only through Δg" is not yet distinguished from p_s/P₀ |
-| 52 | Should ED's draw be the variational one, T(1 + g), or the engine's, T? Run 50's star in Run 51's medium (g = αp_s/P), both rules (registered) | **The variational draw is self-consistent** (K52a: first law exact; K52c: virial identity in any medium); the engine's breaks the first law by about 0.7 g. **Under it, a body's equivalence-principle violation is well defined**: Δ = M_far/E_H − 1 ≈ ḡ − g_bg (Hellmann–Feynman; inertia = E_H assumed; ruled 20 October). It is not additive: a bound quantum's is about 6× its star's. K52b PARTLY (the far-field-fall DRAW class is a convention for g ∝ 1/P). Neither rule removes the medium's effect. Recommendation: adopt the variational draw (Allen's decision; the alternative is a field linear in U) |
+| 52 | Should ED's draw be the variational one, T(1 + g), or the engine's, T? Run 50's star in Run 51's medium (g = αp_s/P), both rules (registered) | **The variational draw is self-consistent** (K52a: first law exact; K52c: virial identity in any medium); the engine's breaks the first law by about 0.7 g. **Under it, a body's equivalence-principle violation is well defined**: Δ = M_far/E_H − 1 ≈ ḡ − g_bg (Hellmann–Feynman; inertia = E_H assumed; ruled 20 October). It is not additive: a bound quantum's is about 6× its star's. K52b PARTLY (the far-field-fall DRAW class is a convention for g ∝ 1/P). Neither rule removes the medium's effect. Recommendation: adopt the variational draw (needs a ruling; the alternative is a field linear in U) |
 | 53 | Registered surface-averaged far-field first law (radius scans at h = ⅕, ⅙, fit fixed in advance); Run 50's unfinished extras (registered) | **K53a PASS**: c₀ = +0.002 ± 0.006 b, so a quantum raises a balanced star's far field by its energy (|c₀| ≲ 0.3% of κω at 2σ; a constant ≈ 0.01 b is disfavoured only weakly). **K53b FAIL as registered**: a quadrature artefact (trapezoid in ∫ω dκ), not the first law, which holds to about 10⁻⁹. The Γ = 3 scan stalled; the weak field gave −0.013 b (one star) |
 | 54 | A second family of media, g = β(P₀/P)², both rules (registered) | **K54a PASS**: under the variational draw the equivalence-principle violation is Δḡ again (to 0.3%; fully explained with the lattice term). **K54b PASS, premise retracted**: the engine-draw far-field shift follows Δḡ − s·δv_E, not Δg(0.8P₀). The rules do not agree on falling: the engine's draw has no conserved energy, and they differ by 2× for a bound quantum |
-| 55 | ED's own medium (the A″ mean field) under the variational draw: how it departs from scale-free, the formula at a second compactness, and C for stars up to the pulsar's compactness, against the pulsar triple (registered; star table and pulsar mapping corrected post hoc) | **K55a PASS**: ED's medium is not scale-free; g = (p_s − b)/P with b = ½ln(1 + P/p_s) − ½, so g ≈ p_s/P and s = 1 to 10⁻⁵. **K55b PASS** (ratio 0.996). **With inertia = total energy (Allen's ruling), ED predicts Δ ≈ C p_s/P₀ > 0** for compact bodies; C ≈ 0.33–0.49 for the pulsar (11–13 km, Γ = 3 to 2). Its size is not predicted: the triple needs P₀/p_s ≳ 1.4–2.9×10⁵. The registered pulsar number (1.27×10⁵) is superseded: the radius mapping was wrong and C was clamped |
+| 55 | ED's own medium (the A″ mean field) under the variational draw: how it departs from scale-free, the formula at a second compactness, and C for stars up to the pulsar's compactness, against the pulsar triple (registered; star table and pulsar mapping corrected post hoc) | **K55a PASS**: ED's medium is not scale-free; g = (p_s − b)/P with b = ½ln(1 + P/p_s) − ½, so g ≈ p_s/P and s = 1 to 10⁻⁵. **K55b PASS** (ratio 0.996). **With inertia = total energy (the ruling), ED predicts Δ ≈ C p_s/P₀ > 0** for compact bodies; C ≈ 0.33–0.49 for the pulsar (11–13 km, Γ = 3 to 2). Its size is not predicted: the triple needs P₀/p_s ≳ 1.4–2.9×10⁵. The registered pulsar number (1.27×10⁵) is superseded: the radius mapping was wrong and C was clamped |
 | 56 | Housekeeping: Run 53's scan at h = 1/7; the first law with Simpson's rule; a capped Γ = 3 search (registered; the scan's 9th point post hoc, capped) | **K56a PASS, on the line, resting on the post hoc 9th point**: c₀ = −0.0097 ± 0.0054 b (χ²-scaled); c₀ + ah gives −0.028 b, so the form of convergence is unsettled and the continuum miss is within about 1% of κω. **K56b PASS**: first law ≤ 2×10⁻⁹ with Simpson's rule (three kink-free points). Γ = 3 converges: first law 2×10⁻¹⁰, misses within surface scatter |
-| — | What fixes P₀/p_s? ED's clock and medium papers (a reading; my inference on the engine's G checked against the code) | **Nothing in ED fixes P₀/p_s or either number**: no per-place capacity, no quantum, no crossover in any primitive (P04, Note_Nbw, GR-I/III). The SEP prediction stays bounded. **In the engine Għ/(c³ℓ_ED²) ≈ κ/p_s** (κ depends on the phase per renewal), so ED's P-G-Closure with ℓ_ED = ℓ_P needs p_s ≲ 0.6, which Run 24 excludes; otherwise the hop is ~10^2.5–10^3 Planck lengths |
+| — | What fixes P₀/p_s? ED's clock and medium papers (a reading; an inference from the engine's G, checked against the code) | **Nothing in ED fixes P₀/p_s or either number**: no per-place capacity, no quantum, no crossover in any primitive (P04, Note_Nbw, GR-I/III). The SEP prediction stays bounded. **In the engine Għ/(c³ℓ_ED²) ≈ κ/p_s** (κ depends on the phase per renewal), so ED's P-G-Closure with ℓ_ED = ℓ_P needs p_s ≲ 0.6, which Run 24 excludes; otherwise the hop is ~10^2.5–10^3 Planck lengths |
 | 57 | Realistic neutron-star equations of state (SLy, APR4, MPA1) in ED's continuum static equations; the pulsar's C; ED's maximum mass (registered; continuum solver) | **K57a FAIL as registered, narrowly** (one Γ = 2 point 1.06% from the lattice; lattice error near the fold, converging as h²); **K57b PASS** (GR values ≤ 0.05% of the fits); **K57c PASS** (fold 0.238). The pulsar: **C = 0.40–0.49, P₀/p_s ≳ 1.7–2.1×10⁵**. **ED's maximum mass is 1.65 / 1.69 / 1.91 M☉ (GR 2.05 / 2.19 / 2.46): with these equations of state ED fails PSR J0740+6620 (2.08 ± 0.07)** |
 | 58 | A fifth grid (h = ⅛) for the far-field first law; outer loop capped and recorded (registered) | **K58a PASS** (c₀ = −0.003 ± 0.004 b); **K58b UNDECIDED** (h vs h², Δχ² = 1.0). The far-field first law holds on the lattice to about 0.5% of κω; Simpson first law 3×10⁻¹⁰ |
 | 59 | Can ED hold the measured 2 M☉ pulsars with any allowed matter? Causal matter (sound speed = c) above 1.1 and 2 n_sat (registered) | **K59a PASS (2.91 M☉), K59b PASS (2.21 M☉): no falsification.** But ED needs matter far stiffer than standard models: the causal limit from ≲ 2.35 n_sat (or v_s² ≈ 0.33 from 1.1 n_sat). GR holds J0740 with APR4 or MPA1 as they are |
-| 60 | The gravity-independent test (Allen ruled ED's interior equations bind): chiral EFT to 1.1 or 2 n_s, then any constant c_s² ≤ 1, with the perturbative-QCD consistency test (Komoltsev & Kurkela 2022) (registered) | **K60a PASS** (c_s² ≥ 0.33 from 1.1 n_s), **K60b PASS** (c_s² ≥ 0.8 from 2 n_s, SLy or APR4 below): no falsification. QCD never binds inside these stars, so ED's requirement is set by causality and where chiral EFT is trusted: dense matter at or near the causal limit just above it. GR needs neither |
+| 60 | The gravity-independent test (ruled: ED's interior equations bind): chiral EFT to 1.1 or 2 n_s, then any constant c_s² ≤ 1, with the perturbative-QCD consistency test (Komoltsev & Kurkela 2022) (registered) | **K60a PASS** (c_s² ≥ 0.33 from 1.1 n_s), **K60b PASS** (c_s² ≥ 0.8 from 2 n_s, SLy or APR4 below): no falsification. QCD never binds inside these stars, so ED's requirement is set by causality and where chiral EFT is trusted: dense matter at or near the causal limit just above it. GR needs neither |
 | 61 | ED's own exterior and tidal Love numbers (derived), against GW170817's tidal deformability and NICER's radii; a softer chiral-EFT base (c_s² = 0.10 ± 0.07 from 1.1 to 2 n_s) (registered) | **K61c PASS** (ED's Love number 0.25986 vs 0.25991), **K61a PASS** (the softer base holds 2.08 M☉ for c_s² ≥ 0.8 above 2 n_s), **K61b PASS, conditionally** (route (b): Λ_ED(1.362) = 374–658 ≤ 720; holds if ED's inspiral matches GR's through 3.5PN, not yet derived). **Route (a), stiff from 1.1 n_s, is excluded by GW170817** (Λ = 1230–1588, about twice the bound) **and disfavoured by J0437's radius** (1.1–1.6 km above its 68% interval). Route (b) fits J0437 but its heavy stars sit 1–2σ below J0740's radius as a GR analysis would read them (reported). So ED needs dense matter like chiral EFT to about 2 n_s, then c_s² ≳ 0.7–0.9 above: a gravity-independent prediction. GR needs neither |
 | 62 | The dense matter ED needs, against heavy-ion collision bounds at 2–4 n₀ (gravity-independent): symmetric-matter pressure (DLL 2002 at 2 n₀; STAR-flow sound speeds, Oliinychenko et al. 2023) plus DLL's stiff symmetry energy, and the stiffest matter those bounds allow (registered) | **K62a PASS** (2σ: ED's largest maximum mass 2.19 M☉), **K62b PASS** (1σ: 2.13), **K62c PASS** (code), as registered. **The check found the cap loose:** pure neutron matter overstates neutron-star pressure. With the β-equilibrium cap the same inputs imply (post hoc), ED's best is 2.09 M☉ at 2σ (only with L ≳ 95 MeV) and 1.96 M☉ at 1σ (K62b would be UNDECIDED). So ED holds J0740's central mass only at the edge of the laboratory bounds with a stiff symmetry energy. GR has ample room (2.55–2.72 M☉) |
 | 63 | (a derivation, not scored) ED's inspiral beyond first order in the test-mass limit, from its exact exterior | The binding energy equals GR's at first order and differs at second (−89/24 against −27/8); the innermost stable orbit's frequency is 7% lower. With GR's flux assumed, the 2PN phase coefficient would shift by δφ̂₄ ≈ −0.2 to −0.3. Not yet a test: ED's flux beyond the quadrupole and the equal-mass 2PN terms need rulings, and under option A it does not apply to black-hole binaries. So GW170817's tidal bound (Run 61) rests on GR phasing that ED's own exterior does not give |
-| 64 | (a reading, not scored) What ED's rules leave open beyond first order, after Allen's rulings on binaries | First order is GR's for any masses, and ED's static two-body interaction is fixed by the redshifted draw. **But whether a body's own binding tension shears space is undecided, and it changes ED's statics.** Run 11b's logic says it does. The test-mass second-order binding coefficient is −27/8 + k, with k = −1/3 if it does not (ED's statics as they stand) and k = +2/3 or 0 if it does (without, or with, feedback on the cadence field). A ruling is needed before any second-order test |
+| 64 | (a reading, not scored) What ED's rules leave open beyond first order, after the rulings on binaries | First order is GR's for any masses, and ED's static two-body interaction is fixed by the redshifted draw. **But whether a body's own binding tension shears space is undecided, and it changes ED's statics.** Run 11b's logic says it does. The test-mass second-order binding coefficient is −27/8 + k, with k = −1/3 if it does not (ED's statics as they stand) and k = +2/3 or 0 if it does (without, or with, feedback on the cadence field). A ruling is needed before any second-order test |
 | 65 | ED's static field equation against GR's; option 3 (provisional) written to all orders as GR's rule for space (registered) | **K65a, K65b, K65c PASS.** ED's static field equation is exactly GR's equation for the clock rate (lapse), with ED's own rule for space (ψ²N = 1, i.e. c = N²). So every static difference from GR came from how space curves. With option 3's rule (GR's Hamiltonian constraint), ED's stars are GR's (TOV to 3×10⁻⁸): M_max 2.05/2.19/2.46 M☉, so J0740 is held with standard matter. Static holes are Schwarzschild, with a horizon where the clock stops (option A follows for static holes). The pulsar's C becomes 0.38–0.44. Costs: ruling 2's "vacuum draws nothing" holds only at first order, and the engine's medium would need rebuilding |
 | 66 | Option 3 in ED's own variables (the medium's space γ̃ = N²g), and the strong-equivalence-principle formula under it with ED's medium on γ̃ (registered; one amendment) | **K66b–e PASS; K66a FAILS as registered, on its constraint check only** (two diffuse crust stars stopped at the solver's 1000 km limit; post hoc 5×10⁻¹¹). GR's static equations are ED's field equation on γ̃ plus "γ̃ is curved by stress" (the field's tension and matter's pressure); ED's original rule is γ̃ flat. So under option 3 the vacuum draws nothing and g₀₀ = −e^{−2U} to all orders, and the engine's medium carries option 3 if it hops on γ̃ (Run 65's two costs withdrawn; what remains is a dynamical γ̃, GR's spatial-geometry sector, on the medium's lattice). The passive mass, computed without the formula, gives Δ = εC/(1 + ε) to ≤ 2×10⁻⁵ with Run 65's C (0.37–0.44): P∞/p_s ≳ 1.6–1.9×10⁵ (2.5–2.9×10⁵ with the planet model). β − 1 = −ε/2, as under option 1, given the choice that the medium's own field curves γ̃ |
 | 67 | The near-horizon shell under option 3 with ED's medium: the exact static vacuum, the zero-clock surface, a throat, waves and the shadow (registered) | **K67a–d PASS.** Outside, Schwarzschild to O(ε): shadow +0.46ε, scalar-wave reflection changed by ≤ 1.2×10⁻⁵. The clock stops (P = 0) where GR's lapse would be ε/(1 + ε): a cold surface (κ = 0) at infinite tortoise and proper distance, with no event horizon. It absorbs waves (no echoes), and an infaller meets a curvature singularity there in finite proper time, ED's "commits" (consistent with the ruling, not derived). κ = 0 conflicts with the ruling that black holes evaporate (open). New: a throat (minimum area, 0.05% above GR's horizon) where GR's lapse is (ε/2)^{1/3}, at redshift about 74. The exact medium agrees with the mean field to 0.0035/p_s |
-| 68 | Do ED's holes evaporate under option 3? Outgoing-ray peeling and the 1+1 Hawking flux in Run 67's exterior, against Schwarzschild (registered) | **K68a–d PASS.** A hole formed by collapse radiates at Hawking's rate (peak 0.997–0.9999 of Hawking's flux for ε ≤ 10⁻⁴) while its outgoing rays leave the region N ≫ p_s/P∞. Then the redshift stops growing exponentially (a Möbius map near the zero-clock surface): κ(u)·u → 2 and the flux falls as u⁻³ to zero. The transient lasts Δu_eff = 8M[ln(P∞/p_s) − 1] − 1.6M (the check's closed form): at least about 86M at the pulsar bound (≥ 4 ms for 10 M☉, ≥ 31 min for Sgr A*), and carries about one quantum (1+1), about 10⁻² in 4D. So ED's holes do not evaporate under option 3 with its medium, given a smooth collapse endpoint and an absorbing zero-clock surface. Allen then ruled (21 October) that ED's holes are stable, replacing his 19 October ruling that they evaporate |
+| 68 | Do ED's holes evaporate under option 3? Outgoing-ray peeling and the 1+1 Hawking flux in Run 67's exterior, against Schwarzschild (registered) | **K68a–d PASS.** A hole formed by collapse radiates at Hawking's rate (peak 0.997–0.9999 of Hawking's flux for ε ≤ 10⁻⁴) while its outgoing rays leave the region N ≫ p_s/P∞. Then the redshift stops growing exponentially (a Möbius map near the zero-clock surface): κ(u)·u → 2 and the flux falls as u⁻³ to zero. The transient lasts Δu_eff = 8M[ln(P∞/p_s) − 1] − 1.6M (the check's closed form): at least about 86M at the pulsar bound (≥ 4 ms for 10 M☉, ≥ 31 min for Sgr A*), and carries about one quantum (1+1), about 10⁻² in 4D. So ED's holes do not evaporate under option 3 with its medium, given a smooth collapse endpoint and an absorbing zero-clock surface. It was then ruled (21 October) that ED's holes are stable, replacing the 19 October ruling that they evaporate |
 | 69 | Which clock does ED's medium follow around a spinning hole: the Killing norm (K) or the ZAMO lapse (Z)? Geometry on Kerr, and observed spins (registered; literature compiled after registration and corrected by the check) | **K69a PASS.** Under K the medium ends at the ergosurface (r = 2M on the equator): the prograde light ring is cut above a = 1/√2, the ISCO above 2√2/3, and the ergoregion is gone. **K69b: K disfavoured**, formally, by X-ray spins above 0.943 (Cyg X-1, MCG–6-30-15, GRS 1915+105; each contested). **K69c: K challenged** by GW231028_153006 (remnant spin ≥ 0.74 at 90%, Kerr-consistent ringdown; the compile had missed it). K also loses Blandford–Znajek jet power. ED's rules do not decide between the readings (the argument from rule C1 was wrong). **Z adopted provisionally**, with the premise that the input current field is a flow of possibility (ruled 21 October): rotating holes are Kerr outside the horizon to O(ε/α) |
 | 70 | Clocks on a lattice with curved-space conductances: Run 24's engine with a weighted hop rule on a periodic lattice whose links follow an imposed conformal factor (R̃ = 0.72 and 1.44 per spacing² at the clocks), against the zero-range theory fixed beforehand (registered) | **K70a, K70b, K70c PASS.** The new hop rule reproduces Run 24 on a flat lattice, and the clock-free medium stays uniform. The clocks follow the zero-range theory with the weighted Green's function: a combined amplitude of 0.94 ± 0.15 of the predicted 3–7% own-dip change, detected at about 6σ. The check narrows this. The size depends on how places are represented (here unequal in γ̃-volume); the robust quantity, the design gap, is not resolved; the effect is non-local, about 0.01·R̃·h·ℓ_c (about 10⁻³⁹ for a neutron star); and the curvature was imposed, not produced by stress. Clock universality on option 3's medium space is not yet tested |
-| 71 | Can a collapse get through the throat? A thin shell with a flat interior in Run 67's exterior (held fixed), Israel's two junction conditions, and the 1+1 flux at infinity (registered; checked; extended post hoc to shells with pressure) | **K71-GR, K71a, K71b PASS; K71c, K71d UNDECIDED.** The medium's stress, which violates the null energy condition throughout ED's exterior, feeds a falling shell exactly the rest mass it needs to cross the throat. Dust then creeps toward the zero-clock surface for ever (τ ≈ 4ε²/N). Its burst switches off as in Run 68 but about 9M shorter, through a power-law ray map (late flux −1/(64πu²)): no evaporation. **The check: any pressure turns the shell back where the medium holds about (1 + w)p_s per place, and the matter comes back out** (about 45M/w² after formation at ε = 5×10⁻⁶); tension absorbs. So in this model ED's holes are stable for ordinary matter only if matter commits before the bounce. Allen ruled (21 October) that it commits where the medium holds about 2p_s per place |
-| 72 | Clocks on an equal-place curved lattice (unit γ̃-volume per place, γ̃ = B⁻⁴dx² + B²(dy² + dz²)), at both signs of curvature (R̃ = ±1.10 at the clocks), against the zero-range theory fixed beforehand; 50 runs at p_s = 1 (registered) | **K72a, K72b, K72c PASS; K72d UNDECIDED.** The flat control matches the theory to 0.3–1.1%, and the medium stays uniform per place with no clocks. All eight curved/flat own-dip ratios agree with theory within 3σ, including the two designs moving in opposite directions at negative curvature; one amplitude fits at 1.00–1.03 (± 0.01–0.02, by covariance). The design-gap contrast between the signs, +0.0079 ± 0.0032, has the predicted sign and size (+0.0096) but is 2.5σ from zero, short of the registered 3σ. The check: the clocks' neighbourhood is not uniform (places equal in volume, not shape), and the run confirms the theory's design-dependent responses (about 10⁻³⁹ at physical curvature) rather than showing universality directly |
+| 71 | Can a collapse get through the throat? A thin shell with a flat interior in Run 67's exterior (held fixed), Israel's two junction conditions, and the 1+1 flux at infinity (registered; checked; extended post hoc to shells with pressure) | **K71-GR, K71a, K71b PASS; K71c, K71d UNDECIDED.** The medium's stress, which violates the null energy condition throughout ED's exterior, feeds a falling shell exactly the rest mass it needs to cross the throat. Dust then creeps toward the zero-clock surface for ever (τ ≈ 4ε²/N). Its burst switches off as in Run 68 but about 9M shorter, through a power-law ray map (late flux −1/(64πu²)): no evaporation. **The check: any pressure turns the shell back where the medium holds about w·p_s per place, and the matter comes back out** (about 45M/w² after formation at ε = 5×10⁻⁶); tension absorbs. So in this model ED's holes are stable for ordinary matter only if matter commits before the bounce. It was ruled (21 October) that it commits where the medium holds about 2p_s per place |
+| 72 | Clocks on an equal-place curved lattice (unit γ̃-volume per place, γ̃ = B⁻⁴dx² + B²(dy² + dz²)), at both signs of curvature (R̃ = ±1.10 at the clocks), against the zero-range theory fixed beforehand; 50 runs at p_s = 1 (registered) | **K72a, K72b, K72c PASS; K72d UNDECIDED.** The flat control matches the theory to 0.3–1.1%, and the medium stays uniform per place with no clocks. All eight curved/flat own-dip ratios agree with theory within 3σ, including the two designs moving in opposite directions at negative curvature; one amplitude fits at 1.00–1.03 (± 0.01–0.02, by covariance). The design-gap contrast between the signs, +0.0079 ± 0.0032, has the predicted sign and size (+0.0096) but is 2.5σ from zero, short of the registered 3σ. The check: the clocks' neighbourhood is not uniform (places equal in volume, not shape), and the run confirms the theory's design-dependent responses (about 10⁻³⁹ at physical curvature) rather than showing universality directly. *Run 72b settled the contrast (below)* |
+| 72b | Run 72's design-gap contrast with doubled seeds: 40 new runs (seeds 111–120 and 211–220), verdicts registered on the new seeds alone (replication) and on all seeds with a stricter bar for the second look (registered) | **K72d-R, K72d-C PASS.** New seeds alone: +0.0135 ± 0.0027 (5.0σ from zero, +1.4σ from the theory's +0.0096). All 20 seeds per sign: +0.0107 ± 0.0021 (5.1σ from zero against a 3.2σ bar; +0.5σ from theory). Each sign's gap matches its own prediction (+0.6σ, −0.1σ). So the clocks' design-dependent response to curvature is the zero-range theory's, in sign and size, at both signs; universality on a stress-curved lattice is still untested. The check reproduced every number and found the registration and runs clean. It also found that the theory's own error for design 2 (about 1%) vanishes at negative curvature, a sign-dependent piece of the theory's accuracy (0.84 ± 0.24%, about 3.5σ). That is not a falsification, and it does not affect the contrast. The first explanation, the 5-seed flat control, was wrong |
+| 73 | Does the stiffest matter commit before it turns back? 216 thin shells (w = ⅓ to 1, ε = 10⁻² to 10⁻⁶, thrown at γ₀ = 1 to 1000) in Run 67's exterior; where each turns, against the ruled 2p_s (registered; corrected by the check) | **K73a FAIL as registered, PASS on the record's definition; K73b FAIL (a sampling effect); K73c PASS.** The run converted the clock to possibility per place with GR's lapse instead of the occupancy N = P/P∞. That error, also in Run 71's reading and the note on the ruling, is corrected. With N = P/P∞, every causal shell (w ≤ 1) that passes the throat turns back no higher than 1.27p_s (shells thrown just hard enough to cross; the check), so all of them commit first at the ruled 2p_s, with a margin of about 1.6. Real cores (w ≲ 0.6) would turn below about 0.75p_s. The earlier suggestion to raise the threshold is withdrawn |
+| 74 | What commitment at P = k·p_s does to the radiation: Run 71's shell commits at N_c = kε; the core then absorbs; the 1+1 flux at infinity with a cold static core (A) or a continued map (B) (registered; recomputed post hoc at the true ruled 2p_s after Run 73's check) | **K74a–d PASS as registered,** but for commitment at a true P of about p_s and 1.3p_s (the registration used the wrong conversion). At the ruled 2p_s (post hoc): the core's areal radius is 2m(k + 1)/k = 3m; the Hawking-like burst is at least 99.8% complete by energy (its flux is still 5% of Hawking's when commitment cuts it). A cold core then gives one flash, energy about ħ/δu spread over frequencies, and silence; continuation gives Run 71's faint negative tail. δu, how long commitment takes as seen from afar, is not fixed by ED's rules. "No echoes" now rests on the total-absorber ruling: a reflecting core would echo after about 95M |
+| 75 | Do the clocks' outer links carry the zero-range theory's design-2 error (Run 72b's check)? Run 72's flat lattice with only the x-links leading outward from each clock multiplied by e^−1 or e^+1, 20 seeds each, against the theory fixed beforehand (registered) | **K75a FAIL.** The theory's design-2 error is +0.64 ± 0.24% and +0.40 ± 0.31% on the two lattices: D₂ = +0.24 ± 0.40%, against +1.5% predicted if the outer links carried the effect. The hypothesis is disfavoured, about 8:1 (the check). The theory tracks the 12–17% change in the clocks' own dips to within 0.3–0.6%. Post hoc (the check): the other four lattices agree at +0.63 ± 0.14%, and Run 72b's negative-curvature cell is now about 2.5σ after the look-elsewhere correction and weakening; one replication would settle it |
+| 76 | Does the negative-curvature design-2 cell replicate? Run 72's s = −1 lattice with 40 fresh seeds (221–260), against the four-lattice baseline fixed beforehand, +0.632 ± 0.142% (registered) | **K76a UNDECIDED.** Fresh seeds: design-2 error +0.26 ± 0.16%, Δ = −0.37 ± 0.22% (−1.7σ), half the first deviation. Seed blocks show no steady trend; combined with the corrected discovery the evidence is 1.8–2.7σ. A lattice-dependent piece of up to about 0.8% is not excluded; settling it would take 230–440 runs (the check). Across five lattices the zero-range theory underestimates the clocks' own dips by 0.25 ± 0.03% (design 1) and about 0.5–0.6% (design 2). The line is closed unless a later result depends on it |
+| 77 | Does the engine's medium, hopping on a lattice bent by its own field's stress (option 3, planar), carry the flux the lattice was built with? Does the one-hop-per-tick cap limit how far the lattice can stretch (§9zzz)? A sheet of 648 pairs at x = 0, released possibility returned over the plane x = 18 (a boundary condition); self-bent lattices at hold k = 16 and 8, a flat control, and a three-step rebuild at k = 2, against the theory fixed beforehand (registered) | **K77a–e PASS.** The medium carries the flux the lattice was built with: −0.13 ± 0.15% (k = 16), −0.04 ± 0.18% (k = 8). The field follows option 3's log law on the bent lattice and option 1's line on the flat one (the construction; deviations ≤ 0.005); clocks read the medium's equation of state to 10⁻⁴. At k = 2, where this box has no fixed point, each rebuild roughly doubles the field (×2.60, ×1.94) as the allowed hop rate falls 1 → 0.38 → 0.17, within 0.4% of theory. The check: with option 3's clock the planar solution is flat (Rindler) spacetime; the limit is on the sheet's draw times the distance to the reservoir, not on stretch (B² up to 229 on this box), and it comes from the representation (one global hop rate, clocks not slowed with it); ED's rules are not shown to impose it; the design note's "B² ≲ 10" is withdrawn |
 
 ## Where the record stands: a consilience reading
 
-*Updated 21 October 2026, after Runs 29–72 and the rulings (including the provisional option 3; option 3 for the current field; and, on 21 October, ED's holes are stable, infalling matter commits where the medium holds about 2p_s per place, and frame dragging is possibility's own flow) on the field's dynamics (adopted: the clock field fixed each tick, patterns riding possibility's flow; the tick is not physical time; the variational draw; inertia = total energy).*
+*Updated 22 October 2026, after Runs 29–77 and the rulings (including the provisional option 3; option 3 for the current field; and, on 21 October, ED's holes are stable, infalling matter commits where the medium holds about 2p_s per place, and frame dragging is possibility's own flow) on the field's dynamics (adopted: the clock field fixed each tick, patterns riding possibility's flow; the tick is not physical time; the variational draw; inertia = total energy).*
 
-**ED's aim.** In Allen's words: "any new ontology will necessarily reproduce everything; there is no room for new, there is only room for massive consilience."
+**ED's aim.** "any new ontology will necessarily reproduce everything; there is no room for new, there is only room for massive consilience."
 
 **How this summary is sorted.** It sorts the record by that aim:
 - Each observed result the engine reproduces is listed once, by how it gets there: **from the rules** (fixed for other reasons, or before the comparison) or **by an input** (a rule or scale chosen to match, tracked here).
@@ -101,12 +108,12 @@
 
 **A caveat on everything "reproduced" below (Run 31), now met by a ruling.**
 - Every entry is a steady-state result. In the engine as built, the steady state forms by diffusion, which at the adopted scales reaches only about 0.3 μm in the universe's age.
-- Allen has adopted a rule that reaches the steady state at once: the clock field is fixed each tick (19 October). It keeps every entry below. On the engine (Run 35) the static draw agrees with the earlier engine to 0.1% and its well to within 0.4–4% at r = 4–13, and a moving body keeps its well and its draw.
+- A rule has been adopted that reaches the steady state at once: the clock field is fixed each tick (19 October). It keeps every entry below. On the engine (Run 35) the static draw agrees with the earlier engine to 0.1% and its well to within 0.4–4% at r = 4–13, and a moving body keeps its well and its draw.
 
-**The foundation: time goes one way.** A commitment happens once and is not undone. Run 29 tested, in the engine, Allen's claim that GR's and QM's time-symmetric equations are averages that have lost that order:
+**The foundation: time goes one way.** A commitment happens once and is not undone. Run 29 tested, in the engine, ED's claim that GR's and QM's time-symmetric equations are averages that have lost that order:
 
 - **The engine's bottom is one-way (Run 29, T1 and T2; re-read in Run 35).** Commitments are absolutely one-way. Run 29 also found the vacuum's wandering one-way, at 2.7×10⁻³ per place per tick. That came from updating every place at once. Under the adopted rules the vacuum relaxes each tick to a law in detailed balance (derived), so it carries no arrow. The arrow lives in commitment, in the inflow of possibility to matter, and in how clocks integrate presence: "the vacuum never commits".
-- **Averaging over time shrinks the order (the kill rule, passed).** A clock's record keeps an asymmetry that falls about as 1/T, to 0.0013 at 1024 ticks: 26× down, though not zero. Over long windows the record becomes the sum of what the clock read, and "a sum does not remember the order of its terms" (Allen).
+- **Averaging over time shrinks the order (the kill rule, passed).** A clock's record keeps an asymmetry that falls about as 1/T, to 0.0013 at 1024 ticks: 26× down, though not zero. Over long windows the record becomes the sum of what the clock read, and "a sum does not remember the order of its terms".
 - **Averaging over space keeps the order.** What leaks goes as c/T, with c set by the medium's memory and unknown at physical scales.
 - **Which memory (Run 37):** ambient fluctuations of possibility carried that leak, not each clock's own reservation hole. Without the hole the tail is unchanged.
 - **Under the adopted rules (Run 35)** the medium keeps no memory between ticks. The record's long one-way tail vanishes (to 2×10⁻⁶; Run 29: 8.3×10⁻⁴), so it needed the medium's memory, either ambient fluctuations or the clock's own reservation hole (not separated). A one-tick lead remains (0.086), and averaging still removes the order: as $T^{-1/2}$ to about 100 ticks, then as 1/T.
@@ -126,24 +133,24 @@
 
 | Observed | The input | Runs |
 |---|---|---|
-| Light bending and Shapiro delay (γ = 1) | the pattern rule: patterns hop on their place's ticks and need free capacity, so $c=N^2$. For massive patterns, its written form, the wave equation in $-N^2dt^2+N^{-2}d\mathbf x^2$ with the Tolman/Komar draw, was adopted by Allen on 20 October (Runs 45–46b) | 9, 17, 46 |
+| Light bending and Shapiro delay (γ = 1) | the pattern rule: patterns hop on their place's ticks and need free capacity, so $c=N^2$. For massive patterns, its written form, the wave equation in $-N^2dt^2+N^{-2}d\mathbf x^2$ with the Tolman/Komar draw, was adopted on 20 October (Runs 45–46b) | 9, 17, 46 |
 | Mercury's 42.98″ and the β part of the Earth–Moon test (β = 1); two bodies' wells multiply | Candidate A′'s medium, designed for β = 1, which then survived the independent checks | 22–26 |
 | Bound matter falls like everything else (MICROSCOPE) | twist charged on loops that include a tick: Lorentz invariance, put in by hand. For knots. Bound patterns: the coded equation fails at first order (Run 45). Under the full pattern rule they fall exactly like their energy in a scale-free medium, at any strength: an outside potential is exactly a change of grid (Run 48), so the fall defect vanishes in the continuum. What remains is the medium's departure from scale-free: under the variational draw, Δ = M_far/E_H − 1 ≈ ḡ − g_bg (Runs 52, 54) | 18, 18b, 46–48, 52, 54 |
 | Binary-pulsar energy loss (0.98 of GR) | relations shear; isotropic stretch is set by matter, a reading fixed in advance | 11b |
 | Clocks of different make agree to 10⁻⁶; the ζ₂ bound; the pulsar triple | the scales $p_s\gtrsim4\times10^5$ (brought in after Run 22's clocks failed) and $P_0\gtrsim10^5\,p_s$, set by observational bounds (the pulsar triple at first order, Run 45; the ζ₂ bound alone gives $7\times10^4$). At strong field the triple bounds the medium's change of log-slope across a star, $|\Delta g|\lesssim10^{-6}$–$10^{-5}$ (Run 48). Under the variational draw with inertia = energy, ED's medium gives $\Delta\simeq C\,p_s/P_0$ with $C\approx0.40$–$0.49$ for the pulsar (realistic equations of state, Run 57), so the triple needs $P_0/p_s\gtrsim1.7$–$2.1\times10^5$ (red noise; $2.7$–$3.3\times10^5$ with the planet model). Under the provisional option 3, $C\approx0.38$–$0.44$ and $P_0/p_s\gtrsim1.6$–$1.9\times10^5$ (Run 65, if the formula carries over). Nothing in ED's papers fixes either scale (§9zzc) | 23, 24, 30, 45, 48, 55, 57 |
-| A compact body's inertia is its total energy (E = mc² for a closed system), so its equivalence-principle violation is $M_{\rm far}/E_H-1$ | the Lorentz input extended to the complete dynamics, including strongly self-gravitating bodies (Allen, 20 October): energy and momentum form a four-vector (von Laue). Not derived from ED; the engine has no inertia to test it | 52, 55 |
-| The preferred-frame tests (α₁, α₃), frame dragging (Gravity Probe B), and with them the whole Earth–Moon test ($\eta_N=\tfrac{10}{3}(\beta-1)$) | Lorentz invariance at first post-Newtonian order: a moving body's field is its boosted rest field, up to relabelling the tick. The same input as MICROSCOPE's row. It fixes λ_J = 4 and the motion weight together, and needs the tick to be unphysical, as Allen ruled | 34 |
-| At weak field, a bound system pulls by its total energy, binding counted once (a bound pattern's far field equals ħω to 5% of its binding; energy alone misses by two bindings) | a pattern's energy draws (Allen's ruling) and its momentum flux draws (the Lorentz input) | 36, 40c |
-| Internal binding pulls like rest mass, also inside a body (aluminium and iron alike to 4×10⁻¹²; PPN ζ₄) | a body's internal stress draws with weight 1 per direction (Tolman's 3p): the Lorentz input in its full form, every part of a source drawing by $\alpha(T^{00}+\sum_iT^{ii})$ (Allen, 19 October). Holds on a grid twice as fine. **Since 20 October (rule correction), a body is matter in exact hydrostatic balance, N h = μ̃, drawing by its rest energy, internal energy and 3p.** That replaces the old virial stress sizing (rest-draw weight) and, for static bodies, the proper-size rule. At strong field it removes the 4% deficit (Run 50) | 42, 44, 49, 50 |
-| A compact body's pull follows outside wells with weight 1 (the strong equivalence principle for bodies) | bodies keep their proper size, so they shrink in lattice coordinates in a well (my choice at Allen's instruction, 19 October); responds with 1.008 in an unbounded medium. Since 20 October a static body is matter in hydrostatic balance, which keeps its proper size under a uniform potential by itself (the dilation, Runs 48, 50), so for static bodies this is no longer a separate input | 36, 40b, 48, 50 |
-| The strong field outside compact objects: GW250114's ringdown, the black-hole shadows of M87* and Sgr A*, and (since 20 October) binary-black-hole inspirals and mergers | outside a compact object the field is GR's (Kerr's); inside, ED's core where possibility runs out replaces the horizon and the singularity (Allen, 19 October, option A; extended on 20 October to whole black-hole systems, binaries included). Under the provisional option 3 the static part follows from ED's own field equation (Runs 65–67). With the current field also in GR's form (adopted on my recommendation, 21 October), a rotating hole's far exterior is Kerr to O(p_s/P∞); near the hole it was open until the medium's clock in rotation was ruled. With that clock ruled provisionally to be the ZAMO lapse (Run 69, on a premise Allen ruled on my recommendation), a rotating hole is Kerr outside the horizon to O(ε/α), and GW250114's ringdown is Kerr's to that order. Long-term goal: derive it (a pattern rule or clock map changed beyond first order). What reaches the core commits (Allen, 19 October), so the core absorbs it all: no echoes, no instability, no surface glow (Run 43). Under option 3 with ED's medium a static hole's zero-clock surface lies at infinite tortoise distance, so it absorbs (Run 67) | 28, 39, 41, 43, 65–67 |
+| A compact body's inertia is its total energy (E = mc² for a closed system), so its equivalence-principle violation is $M_{\rm far}/E_H-1$ | the Lorentz input extended to the complete dynamics, including strongly self-gravitating bodies (20 October): energy and momentum form a four-vector (von Laue). Not derived from ED; the engine has no inertia to test it | 52, 55 |
+| The preferred-frame tests (α₁, α₃), frame dragging (Gravity Probe B), and with them the whole Earth–Moon test ($\eta_N=\tfrac{10}{3}(\beta-1)$) | Lorentz invariance at first post-Newtonian order: a moving body's field is its boosted rest field, up to relabelling the tick. The same input as MICROSCOPE's row. It fixes λ_J = 4 and the motion weight together, and needs the tick to be unphysical, as ruled | 34 |
+| At weak field, a bound system pulls by its total energy, binding counted once (a bound pattern's far field equals ħω to 5% of its binding; energy alone misses by two bindings) | a pattern's energy draws (the ruling) and its momentum flux draws (the Lorentz input) | 36, 40c |
+| Internal binding pulls like rest mass, also inside a body (aluminium and iron alike to 4×10⁻¹²; PPN ζ₄) | a body's internal stress draws with weight 1 per direction (Tolman's 3p): the Lorentz input in its full form, every part of a source drawing by $\alpha(T^{00}+\sum_iT^{ii})$ (19 October). Holds on a grid twice as fine. **Since 20 October (rule correction), a body is matter in exact hydrostatic balance, N h = μ̃, drawing by its rest energy, internal energy and 3p.** That replaces the old virial stress sizing (rest-draw weight) and, for static bodies, the proper-size rule. At strong field it removes the 4% deficit (Run 50) | 42, 44, 49, 50 |
+| A compact body's pull follows outside wells with weight 1 (the strong equivalence principle for bodies) | bodies keep their proper size, so they shrink in lattice coordinates in a well (19 October); responds with 1.008 in an unbounded medium. Since 20 October a static body is matter in hydrostatic balance, which keeps its proper size under a uniform potential by itself (the dilation, Runs 48, 50), so for static bodies this is no longer a separate input | 36, 40b, 48, 50 |
+| The strong field outside compact objects: GW250114's ringdown, the black-hole shadows of M87* and Sgr A*, and (since 20 October) binary-black-hole inspirals and mergers | outside a compact object the field is GR's (Kerr's); inside, ED's core where possibility runs out replaces the horizon and the singularity (19 October, option A; extended on 20 October to whole black-hole systems, binaries included). Under the provisional option 3 the static part follows from ED's own field equation (Runs 65–67). With the current field also in GR's form (adopted 21 October), a rotating hole's far exterior is Kerr to O(p_s/P∞); near the hole it was open until the medium's clock in rotation was ruled. With that clock ruled provisionally to be the ZAMO lapse (Run 69, on a premise ruled 21 October), a rotating hole is Kerr outside the horizon to O(ε/α), and GW250114's ringdown is Kerr's to that order. Long-term goal: derive it (a pattern rule or clock map changed beyond first order). What reaches the core commits (19 October), so the core absorbs it all: no echoes, no instability, no surface glow (Run 43). Under option 3 with ED's medium a static hole's zero-clock surface lies at infinite tortoise distance, so it absorbs (Run 67) | 28, 39, 41, 43, 65–67 |
 
 ### Not yet reproduced (open)
 
 - **Signalling through the constraint.** A field fixed each tick updates everywhere at once on each slice. That carries no signal only if every change in the draws is one that conservation allows. With the inputs it holds at first post-Newtonian order; untested beyond.
 - **Stresses inside bodies, and whether stress pulls with weight 3 (PPN ζ₄).** The engine's bodies have no internal stresses (Run 30). The Lorentz input covers only the kinetic pressure of moving particles.
   - A body held on fixed places responds to outside wells with weight 1/(1 + U_self) (Run 36). Keeping its proper size fixes that (Runs 40b, 40c), and is now a tracked input.
-  - **Internal binding at weak field (Run 42): needed.** A pattern inside a body pulls by ħω, binding counted once, only if the body's internal stress draws with weight 1 per direction. Without it the count misses by most of a binding (0.67–0.92 b). If the same held for nuclear binding (untested: the run's b is binding in the body's own well), the aluminium–iron difference in binding fraction (about 5×10⁻⁴) would make the two pull differently by roughly 4×10⁻⁴, against the bound of 4×10⁻¹². **Adopted by Allen (19 October) as the Lorentz input's full form** (a body's whole source transforms together); now in the inputs table above. Open: an ED rule from which stress drawing follows.
+  - **Internal binding at weak field (Run 42): needed.** A pattern inside a body pulls by ħω, binding counted once, only if the body's internal stress draws with weight 1 per direction. Without it the count misses by most of a binding (0.67–0.92 b). If the same held for nuclear binding (untested: the run's b is binding in the body's own well), the aluminium–iron difference in binding fraction (about 5×10⁻⁴) would make the two pull differently by roughly 4×10⁻⁴, against the bound of 4×10⁻¹². **Adopted (19 October) as the Lorentz input's full form** (a body's whole source transforms together); now in the inputs table above. Open: an ED rule from which stress drawing follows.
   - **Neutron stars (Runs 44–45).** The pulsar triple PSR J0337+1715 bounds how such a star falls: Δ = (+0.5 ± 1.8)×10⁻⁶.
     - **First order:** ED's Nordtvedt term needs P₀/p_s ≳ 10⁵, about four times the previous bound.
     - **The body's own binding:** in the engine it pulls once (first order) and falls with a defect ≤ 2×10⁻³ that shrinks toward the physical medium and with the grid (Run 45). Not falsified; the 2×10⁻⁶ level is beyond the engine.
@@ -168,8 +175,8 @@
       - The variational draw keeps the first law exact and the virial identity in any medium; the engine's breaks the first law by about 0.7 g.
       - Under it, a body's equivalence-principle violation is well defined: Δ = M_far/E_H − 1 ≈ ḡ − g_bg, its draw-weighted g above the background's. Two medium families confirm this. It is not additive: a bound quantum's is about 6× its host star's.
       - So ED predicts a strong-equivalence-principle violation set by how its medium departs from scale-free across a star. The pulsar triple then needs g_bg ≲ 4–9×10⁻⁶ in the toy medium (P₀/p_s ≳ 10⁵).
-      - **Adopted by Allen (20 October): the variational draw.**
-    - **ED's own medium and the pulsar triple (Run 55).** ED's medium is not scale-free: its scale p_s makes g = (p_s − b)/P ≈ p_s/P (K55a), so with inertia = total energy (Allen's ruling, 20 October)
+      - **Adopted (20 October): the variational draw.**
+    - **ED's own medium and the pulsar triple (Run 55).** ED's medium is not scale-free: its scale p_s makes g = (p_s − b)/P ≈ p_s/P (K55a), so with inertia = total energy (the ruling, 20 October)
 $$
 \Delta\simeq C\,\frac{p_s}{P_0}>0,\qquad C=\Big\langle\frac{P_0}{P}\Big\rangle_T-1 .
 $$
@@ -179,20 +186,20 @@ $$
       - With SLy, APR4 or MPA1 as they are, ED's maxima are 1.65, 1.69 and 1.91 M☉, so ED fails PSR J0740+6620 (2.08 ± 0.07).
       - With the stiffest matter causality allows it passes: 2.91 M☉ from 1.1 n_sat and 2.21 M☉ from 2 n_sat (K59a, K59b).
       - So ED needs neutron-star matter far stiffer than standard models above about 2 n_sat. GR does not.
-      - Run 60: chiral EFT, causality and perturbative QCD allow it (K60a, K60b PASS), but only with c_s² ≥ 0.33 from 1.1 n_s or ≥ 0.8 from 2 n_s. Allen ruled (20 October) that ED's interior equations bind, so this is a requirement ED places on dense matter.
+      - Run 60: chiral EFT, causality and perturbative QCD allow it (K60a, K60b PASS), but only with c_s² ≥ 0.33 from 1.1 n_s or ≥ 0.8 from 2 n_s. It was ruled (20 October) that ED's interior equations bind, so this is a requirement ED places on dense matter.
             - Run 61: with ED's own exterior and Love numbers, GW170817 excludes the first route (Λ(1.362) = 1230–1588 against ≤ 720) and J0437's radius disfavours it. The second passes (Λ = 374–658; conditional on ED's inspiral matching GR's through 3.5PN, not yet derived) and fits J0437; its heavy stars sit 1–2σ below J0740's radius as a GR analysis would read them. With N3LO's central sound speed below 2 n_s it needs c_s² ≥ 0.8 above.
       - Run 62: the laboratory's pressure bounds at 2–4 n₀ (heavy-ion flow) leave that matter little room. The registered tests pass (2.19 M☉ at 2σ, 2.13 at 1σ, with a pure-neutron-matter cap). With the tighter β-equilibrium cap the same inputs imply (post hoc, after the check), ED reaches 2.08 M☉ only at the 2σ edge with a stiff symmetry energy (L ≳ 95 MeV; best 2.09), and at most 1.96 M☉ at 1σ.
       - Run 63: ED's exterior is not GR's at 2PN (the test-mass binding energy differs there), so the GR-based GW170817 analysis does not strictly apply to ED; the size of the bias needs ED's flux and equal-mass terms (rulings needed).
 - **The strong field (Run 28).**
   - The static estimate rings about 4% below Kerr, about 5σ from GW250114. The shadow is 4.6% larger, which is allowed.
-  - **With spin (Runs 39, 41).** *Under option 3 with the current field in GR's form (21 October) the far exterior is Kerr to O(p_s/P∞), so these exteriors are superseded there; with the medium's clock in rotation ruled provisionally (Run 69: the ZAMO lapse, on a premise Allen ruled on my recommendation), the near zone and GW250114 are Kerr's too, to O(ε/α). What follows stands under option 1.* Both rotating exteriors of the adopted metric fail GW250114's (2,2) ringdown at the remnant's spin (scalar eikonal modes):
+  - **With spin (Runs 39, 41).** *Under option 3 with the current field in GR's form (21 October) the far exterior is Kerr to O(p_s/P∞), so these exteriors are superseded there; with the medium's clock in rotation ruled provisionally (Run 69: the ZAMO lapse, on a premise ruled 21 October), the near zone and GW250114 are Kerr's too, to O(ε/α). What follows stands under option 1.* Both rotating exteriors of the adopted metric fail GW250114's (2,2) ringdown at the remnant's spin (scalar eikonal modes):
     - the engine's own rule, with any body quadrupole from 0 to Kerr's, has no prograde light ring outside its throat, and its quality factor is below any Kerr value;
     - the Newman–Janis completion rings 17% low.
   - With Run 40b (binding not counted once at strong field), this marked the adopted rules' strong field as their main disagreement with data.
-  - **Allen chose (19 October):** outside compact objects the field is GR's (Kerr's), as a tracked input (above), with ED's core instead of a horizon. Deriving it is the long-term goal. *Under the provisional option 3 the static case follows instead (Runs 65–67); for rotating holes it follows too, given the provisional ruling on the medium's clock in rotation (Run 69).*
-  - **The core (Run 43).** Option A holds if the core absorbs a few tenths of a percent or more of what reaches it; a perfectly reflecting core fails. **Allen ruled (19 October): what reaches the core commits.** So the core absorbs everything, passes every bound and leaves no echo. From outside, ED's compact objects are then GR's black holes; ED differs inside (no singularity; what falls in becomes record). *Run 67: under option 3 with ED's medium, the core's surface sits where GR's lapse would be p_s/P∞. It lies at infinite tortoise distance, so it absorbs waves, and an infaller meets a curvature singularity there in finite proper time; in ED's terms it commits there, consistent with the ruling but not derived (formation is not computed). The surface is cold (κ = 0). Run 68 found that the holes do not evaporate, and Allen ruled (21 October) that ED's holes are stable.*
+  - **Chosen (19 October):** outside compact objects the field is GR's (Kerr's), as a tracked input (above), with ED's core instead of a horizon. Deriving it is the long-term goal. *Under the provisional option 3 the static case follows instead (Runs 65–67); for rotating holes it follows too, given the provisional ruling on the medium's clock in rotation (Run 69).*
+  - **The core (Run 43).** Option A holds if the core absorbs a few tenths of a percent or more of what reaches it; a perfectly reflecting core fails. **Ruled (19 October): what reaches the core commits.** So the core absorbs everything, passes every bound and leaves no echo. From outside, ED's compact objects are then GR's black holes; ED differs inside (no singularity; what falls in becomes record). *Run 67: under option 3 with ED's medium, the core's surface sits where GR's lapse would be p_s/P∞. It lies at infinite tortoise distance, so it absorbs waves, and an infaller meets a curvature singularity there in finite proper time; in ED's terms it commits there, consistent with the ruling but not derived (formation is not computed). The surface is cold (κ = 0). Run 68 found that the holes do not evaporate, and it was ruled (21 October) that ED's holes are stable.*
   - **No horizon at all (Run 32).** A static body's draw throttles itself, so the zero-clock surface never forms outside matter, and even idealised it would be at zero temperature. *Under option 3 with ED's medium (Run 67) the same cold surface, of the same form, sits just outside where GR's horizon would be; a static body still cannot make it (Buchdahl).*
-  - So ED's radiation papers (039, 047, 050, 052), which need a horizon with κ > 0, do not apply to the engine's static solutions. **Under option A they can apply**, with Kerr's κ borrowed, if the committing core is assumed to act on quantum fields as a horizon would: they fit "the core commits" (radiation comes from correlations at the surface, not from the core) and give no ED-specific signal (§9zn). **Allen ruled (19 October): they evaporate.** Tracked assumptions: the core acts on quantum fields as a horizon would, and its pull drops while its record stays. Open: no mechanism for the second yet; the endpoint, a Planck-mass remnant (Paper 039) or full evaporation (Allen's lean, not ruled). *Superseded (21 October): under option 3 with ED's medium they do not evaporate (Run 68), and Allen ruled that ED's holes are stable. The tracked assumptions are withdrawn, and the radiation papers describe at most a transient of about one quantum.*
+  - So ED's radiation papers (039, 047, 050, 052), which need a horizon with κ > 0, do not apply to the engine's static solutions. **Under option A they can apply**, with Kerr's κ borrowed, if the committing core is assumed to act on quantum fields as a horizon would: they fit "the core commits" (radiation comes from correlations at the surface, not from the core) and give no ED-specific signal (§9zn). **Ruled (19 October): they evaporate.** Tracked assumptions: the core acts on quantum fields as a horizon would, and its pull drops while its record stays. Open: no mechanism for the second yet; the endpoint, a Planck-mass remnant (Paper 039) or full evaporation (favoured, not ruled). *Superseded (21 October): under option 3 with ED's medium they do not evaporate (Run 68), and it was ruled that ED's holes are stable. The tracked assumptions are withdrawn, and the radiation papers describe at most a transient of about one quantum.*
   - The missing surface glow of Sgr A* pressed on the body's surface (Attempt 03's closure: a capped core re-emits about 25 times too much). **Under option A with the core committing, nothing is re-emitted beyond (at most) Hawking radiation, so the bound is met** (Run 43, §9zn); by input and rule, not derived. Attempt 03's verdict on ED's own strong field stands.
 - **Whether a pattern's energy pulls, binding counted once (Runs 36, 40).** Quantum energy measurably does. A proton's mass is about 99% pattern energy, and materials with different binding fractions pull alike to 4×10⁻¹² (Bartlett & van Buren 1986).
   - At weak field this is now reproduced (above).
@@ -203,18 +210,19 @@ $$
 
 - **Time's direction is fundamental, not a boundary condition.** In the engine it leaks into a clock's time-averaged record as c/T, with c unknown at physical scales. It stays whole in the steady inflow of possibility to matter, which clocks do not read (Run 29).
 - **The vacuum never commits, so it draws nothing and does not pull.** That is the opposite of quantum field theory's vacuum energy (too large by about 10¹²⁰). It is in line with how small the observed cosmological constant is.
-  - Allen's program review reframes the small value as (cosmic rate ÷ Planck rate)², the same scaling as Sorkin's causal-set "everpresent Λ": $\Lambda\ell_P^2=3\Omega_\Lambda(H_0t_P)^2\approx2.9\times10^{-122}$.
+  - ED's program review reframes the small value as (cosmic rate ÷ Planck rate)², the same scaling as Sorkin's causal-set "everpresent Λ": $\Lambda\ell_P^2=3\Omega_\Lambda(H_0t_P)^2\approx2.9\times10^{-122}$.
   - Its coefficient (target near −162) is not yet computed.
-- **Possibility per place is finite, so a well ends where it runs out:** no point of infinite density (Allen's Paper_042). *Run 67, under option 3: the mean-field geometry ends where possibility runs out, at a surface where an infaller's tides grow without bound; its last stretch, below one unit per place, is in ED's discrete regime and is not computed.*
-- **Black holes do not evaporate (Run 68; Allen's ruling, 21 October).** Under option 3 with ED's medium, a hole's clock runs out before its redshift can grow exponentially, so a collapse emits GR's Hawking flux for only about 8M ln(P∞/p_s), about one quantum, then nothing. GR with quantum fields says every hole evaporates.
+- **Possibility per place is finite, so a well ends where it runs out:** no point of infinite density (Paper_042). *Run 67, under option 3: the mean-field geometry ends where possibility runs out, at a surface where an infaller's tides grow without bound; its last stretch, below one unit per place, is in ED's discrete regime and is not computed.*
+- **Black holes do not evaporate (Run 68; the ruling, 21 October).** Under option 3 with ED's medium, a hole's clock runs out before its redshift can grow exponentially, so a collapse emits GR's Hawking flux for only about 8M ln(P∞/p_s), about one quantum, then nothing. GR with quantum fields says every hole evaporates.
   - For astrophysical holes the difference is unobservable: the microwave background is far warmer than their Hawking temperature, so they absorb more than they emit either way.
   - For primordial black holes it is the whole story. In GR those below about 5×10¹⁴ g have evaporated by now, and the products of evaporation bound them up to about 10¹⁷ g. In ED none evaporate, so those bounds do not apply, and a detected evaporating primordial black hole would count against ED.
   - Black-hole thermodynamics (S = A/4, T = κ/2π) does not carry over without a new argument.
-  - Run 71 confirms the switch-off for a collapsing dust shell. With pressure the shell would bounce; Allen ruled that matter commits first, where the medium holds about 2p_s per place.
-- **Compact bodies slightly break the strong equivalence principle (Run 55; with inertia = total energy, Allen's ruling, 20 October).** ED's medium has a scale, so a neutron star's gravitational mass exceeds its inertia by Δ ≈ C p_s/P₀ (C ≈ 0.40–0.49 for the pulsar of PSR J0337+1715 under ED's rule for space, Run 57; 0.37–0.44 under the provisional option 3, where Run 66 derived the formula from option 3's own action: Δ = εC/(1 + ε), ε = p_s/P∞). GR gives exactly zero. This prediction survives option 3.
+  - Run 71 confirms the switch-off for a collapsing dust shell. With pressure the shell would bounce; it was ruled that matter commits first, where the medium holds about 2p_s per place.
+  - Run 73: every causal kind of matter reaches 2p_s before it can turn back (the stiffest turns at most at 1.27p_s, in a thin-shell model at physical ε). Run 74: when it commits, the Hawking-like burst is over by energy; the core's areal radius is 2m(k + 1)/k = 3m; a cold core then gives one flash of about ħ/δu and silence, and continuation gives Run 71's faint negative tail. δu, how long commitment takes as seen from afar, is not fixed by ED's rules.
+- **Compact bodies slightly break the strong equivalence principle (Run 55; with inertia = total energy, the ruling, 20 October).** ED's medium has a scale, so a neutron star's gravitational mass exceeds its inertia by Δ ≈ C p_s/P₀ (C ≈ 0.40–0.49 for the pulsar of PSR J0337+1715 under ED's rule for space, Run 57; 0.37–0.44 under the provisional option 3, where Run 66 derived the formula from option 3's own action: Δ = εC/(1 + ε), ε = p_s/P∞). GR gives exactly zero. This prediction survives option 3.
   - The sign (Δ > 0), the growth with compactness and the non-additivity are fixed.
   - The size is not: it waits on P₀/p_s, which the pulsar triple bounds at ≳ 1.6–1.9×10⁵ under option 3 (Run 66; 1.7–2.1×10⁵ under option 1) and which nothing in ED's papers fixes (§9zzc). If ED fixed P₀/p_s, pulsar timing would test it directly.
-- **ED's static field equation is GR's equation for the clock rate (Run 65).** ED changed only how space curves: it tied space to the clock (c = N²), where GR sets space from the energy density. Every static difference from GR found in this record traces to that rule. Under the provisional option 3 (Allen, 21 October) space follows GR's rule, so ED's neutron stars and static black holes are GR's, and the neutron-star predictions below are withdrawn. They are kept as what ED's original rule for space predicts, in case option 3 is reversed. **Run 66 sharpens this.** Written on the medium's space γ̃ = N²g, GR's static equations are ED's field equation, exactly, plus "γ̃ is curved by stress" (the field's tension and matter's pressure). ED's original rule was γ̃ flat. So option 3 keeps ED's field equation, its exponential clock, the vacuum that draws nothing and the pattern rule to all orders in statics (with rotation the clock equation gains a vacuum source, Run 69), and changes one thing: binding tension shears the medium's space.
+- **ED's static field equation is GR's equation for the clock rate (Run 65).** ED changed only how space curves: it tied space to the clock (c = N²), where GR sets space from the energy density. Every static difference from GR found in this record traces to that rule. Under the provisional option 3 (21 October) space follows GR's rule, so ED's neutron stars and static black holes are GR's, and the neutron-star predictions below are withdrawn. They are kept as what ED's original rule for space predicts, in case option 3 is reversed. **Run 66 sharpens this.** Written on the medium's space γ̃ = N²g, GR's static equations are ED's field equation, exactly, plus "γ̃ is curved by stress" (the field's tension and matter's pressure). ED's original rule was γ̃ flat. So option 3 keeps ED's field equation, its exponential clock, the vacuum that draws nothing and the pattern rule to all orders in statics (with rotation the clock equation gains a vacuum source, Run 69), and changes one thing: binding tension shears the medium's space.
 - **Under ED's original rule for space (option 1): heavy neutron stars need very stiff matter (Runs 57, 59).** ED's static field holds about 0.75–0.8 of GR's maximum mass. Standard nuclear equations of state then fall short of the measured 2 M☉ pulsars, and only matter near the causal limit above about 2 n_sat reaches them.
   - This is a requirement ED's gravity puts on nuclear physics.
   - Nuclear theory and QCD allow it (Run 60), but only with sound speed c_s² ≥ 0.33 from 1.1 n_s, or ≥ 0.8 from 2 n_s.
@@ -223,7 +231,7 @@ $$
   - ED's stars also deform less than GR's for the same matter (Λ about 0.8–0.9 of GR's), and are about 0.2–0.3 km smaller at 1.4 M☉.
   - **The laboratory leaves ED almost no room (Run 62).** Heavy-ion collisions bound the pressure at 2–4 n₀ without gravity. Read for neutron-star matter (the β-equilibrium cap), they let ED reach J0740's 2.08 M☉ only at the +2σ edge of every input together and with a stiff symmetry energy (slope L ≳ 95 MeV, S(2n₀) ≳ 64 MeV); otherwise its heaviest stars are 1.88–2.07 M☉. So ED predicts a stiff symmetry energy at 2–3 n₀, and no precisely measured pulsar much above 2.1 M☉. Symmetry-energy and flow measurements at 2–3 n₀ (FRIB, FAIR, neutron skins) test this directly.
   - **ED's inspiral differs from GR's at second post-Newtonian order (Run 63, a derivation).** In the test-mass limit the binding energy's 2PN coefficient is 10% larger and the innermost stable orbit's frequency 7% lower. Turning this into a waveform prediction needs ED's flux beyond the quadrupole and the equal-mass terms.
-- **What falls into a compact object becomes record (Run 43; Allen's ruling, 19 October).** Where GR has a horizon and a singularity, ED has a core that commits what reaches it: nothing is lost, and nothing is infinite. From outside this looks exactly like GR's black hole (the core absorbs everything, so there are no echoes). A partly reflecting core would have left echoes spaced by at least 29 ms for a GW250114-like remnant; the ruling rules that out. *Run 67, under option 3 with ED's medium: a static hole's core surface absorbs without needing the ruling, sits inside a throat at redshift about 74, and is cold (κ = 0) with no event horizon. So it would not radiate at Hawking's temperature, which conflicts with Allen's ruling that black holes evaporate. Run 68 checked it: a collapse emits GR's Hawking flux for 8M[ln(P∞/p_s) − 1] − 1.6M (at least about 86M), about one quantum, and then nothing, so the holes do not evaporate (given a smooth collapse endpoint). **Allen ruled (21 October): ED's holes are stable.** What falls in stays, as record, and nothing comes back out. Run 71 (a collapse with the exterior held fixed): the medium's stress carries matter through the throat, but matter with pressure turns back before it reaches the core and comes out again, unless it commits first. Allen ruled (21 October, on my recommendation) that it commits where the medium holds about 2p_s per place, which is before any matter with w ≤ 1 turns.*
+- **What falls into a compact object becomes record (Run 43; the ruling, 19 October).** Where GR has a horizon and a singularity, ED has a core that commits what reaches it: nothing is lost, and nothing is infinite. From outside this looks exactly like GR's black hole (the core absorbs everything, so there are no echoes). A partly reflecting core would have left echoes spaced by at least 29 ms for a GW250114-like remnant; the ruling rules that out. *Run 67, under option 3 with ED's medium: a static hole's core surface absorbs without needing the ruling, sits inside a throat at redshift about 74, and is cold (κ = 0) with no event horizon. So it would not radiate at Hawking's temperature, which conflicts with the ruling that black holes evaporate. Run 68 checked it: a collapse emits GR's Hawking flux for 8M[ln(P∞/p_s) − 1] − 1.6M (at least about 86M), about one quantum, and then nothing, so the holes do not evaporate (given a smooth collapse endpoint). **Ruled (21 October): ED's holes are stable.** What falls in stays, as record, and nothing comes back out. Run 71 (a collapse with the exterior held fixed): the medium's stress carries matter through the throat, but matter with pressure turns back before it reaches the core and comes out again, unless it commits first. It was ruled (21 October) that it commits where the medium holds about 2p_s per place, which is before any matter with w ≤ 1 turns (Run 73: at most 1.27p_s). Run 74: the core then sits at areal radius 3m; "no echoes" now rests on the total-absorber ruling, since a reflecting core there would echo after about 95M.*
 
 ### Earlier summary (Runs 1–14, kept for the record)
 
@@ -299,7 +307,7 @@ $$
 \dot\theta_i = c_i + K\sum_{j}\sin(\theta_j-\theta_i)
 $$
 
-The locked state rotates at $\Omega=\overline{c}$ and satisfies $K\,L\theta = \Omega - c$. I verified it against the full sin dynamics (drift 10⁻⁷).
+The locked state rotates at $\Omega=\overline{c}$ and satisfies $K\,L\theta = \Omega - c$. It was verified against the full sin dynamics (drift 10⁻⁷).
 
 **Result:**
 - Str + Grad reproduce Newton.
@@ -680,7 +688,7 @@ $$
 
 ### Results
 
-**(a) Lattice (97³, ball source).** I fitted $N=1-U+b_2U^2+b_3U^3$ outside the source, with $U$ from the far field.
+**(a) Lattice (97³, ball source).** $N=1-U+b_2U^2+b_3U^3$ is fitted outside the source, with $U$ from the far field.
 
 | Source | Additive β (exact ½) | Multiplicative β (exact 1) | Multiplicative, with the additive run as control |
 |---|---|---|---|
@@ -1258,7 +1266,7 @@ Clocks are then pieces of matter, sampling the shortage where they sit.
 
 ### Method
 
-**Engine.** Allen's `run_event_layer.py`, imported unmodified. The subclass reproduces the original engine **bit for bit** when its additions are switched off (checked over 300 ticks: possibility, blinks and matter states identical).
+**Engine.** ED's `run_event_layer.py`, imported unmodified. The subclass reproduces the original engine **bit for bit** when its additions are switched off (checked over 300 ticks: possibility, blinks and matter states identical).
 
 **Arms.**
 - **O:** the original tick. Every place commits by Born choice and mutual proposal, spending one unit from each place.
@@ -1312,7 +1320,7 @@ Clocks are then pieces of matter, sampling the shortage where they sit.
 - With ED's density-2 screening (λ = 3.5) and the same response, the slowing at r = 17 would be about 0.06%. The measured value is 0.56 ± 0.12%.
 
 **Sanity checks on arm O.**
-- Allen's own benchmark (`python run_event_layer.py well`), run unmodified in this workspace, reproduces the published table exactly: 4.36, 1.85, 1.11, 0.69, 0.56 and 0.25% at shells 4–9.
+- ED's own benchmark (`python run_event_layer.py well`), run unmodified in this workspace, reproduces the published table exactly: 4.36, 1.85, 1.11, 0.69, 0.56 and 0.25% at shells 4–9.
 - The subclass is bit-identical to that engine when the probes are off.
 - With probes in the box and a read three times longer, arm O's medium-blink well reads 5.0, 2.2, 1.1, 0.5, 0.3 and 0.1%. That is the same shape and depth, within about 0.6 points.
 
@@ -1396,7 +1404,7 @@ It also tests whether the shortage stays unscreened.
 
 ### Method
 
-- **Engine:** Allen's `run_event_layer.py`, imported unmodified.
+- **Engine:** ED's `run_event_layer.py`, imported unmodified.
 - **Vacuum:** arm V of Run 14, where the vacuum never commits.
 - **Box and settings:** 30³, periodic, PHOP = 0.99. Densities 1, 2, 8 and 32 units per place; seeds 1 and 2; 12,000 ticks, read over the last 9,000.
 - **Matter:** the published ball (radius 3, 54 reserved pairs), with a matched control for every run (same seed, same probes, no ball).
@@ -1481,7 +1489,7 @@ That is the share of each cycle not spent waiting to pay.
 | **O2** old rule not universal (densities 1, 2) | $U_{21}$ < 0.8 | 0.61, 0.53 | **pass** (as predicted) |
 | **O3** old rule, lean media (estimate) | κ ≈ 0.7 (density 1), ≈ 0.2 (density 2) | 0.95, 0.39 | **missed** |
 
-**Why O3 missed.** My estimate took Run 14's shell-8 value. The pooled κ is weighted toward the inner shells, where the old rule responds more strongly (it is not linear: κ falls by 34–72% from shell 5 to shell 10). Twice as many probes also made the medium leaner: mean possibility was 0.79 against Run 14's 0.86. The miss does not touch any pass/fail call.
+**Why O3 missed.** The estimate took Run 14's shell-8 value. The pooled κ is weighted toward the inner shells, where the old rule responds more strongly (it is not linear: κ falls by 34–72% from shell 5 to shell 10). Twice as many probes also made the medium leaner: mean possibility was 0.79 against Run 14's 0.86. The miss does not touch any pass/fail call.
 
 ### Reading
 
@@ -1547,7 +1555,7 @@ The pre-registration (`PREREG.md`) was written before any pattern was evolved in
 
 ### The source: ED's engine with the adopted rules
 
-- Allen's `run_event_layer.py`, imported unmodified.
+- ED's `run_event_layer.py`, imported unmodified.
 - **The vacuum never commits** (Run 14), and **matter's hold is counted in passing possibility** (Run 15).
 - The published ball (radius 3) in a 60³ periodic box. Densities 8 and 32; ball seeds 1 and 2, plus a control with no matter.
 
@@ -1860,7 +1868,7 @@ The density-8 misses are not explained by sub-wavelength counting noise: recompu
 
 **4. What the engine decision now is.**
 - No engine rule changed: the medium is as in Runs 15–16, and the base hop chance stays 0.99.
-- The proposal is the **pattern rule**. It is ED's statement of why light bends with γ = 1, and adopting it is Allen's decision.
+- The proposal is the **pattern rule**. It is ED's statement of why light bends with γ = 1, and adopting it needs a ruling.
 - It also leaves the old "nothing falls when stepping by paying" result standing for committed matter. The stock pile-up that might have reversed it does not happen, because the medium is unchanged.
 
 ![Run 17](figures/17_hops.png)
@@ -1968,7 +1976,7 @@ Linear field $N=1-g\,x$ with g = 0.004 per unit, flattened beyond ±4.5. Measure
 | (S) | 3.22 (3.36) | 3.40 (3.36) | 3.30 (3.37) | 3.16 (3.10) | 3.08 (3.10) |
 | (T) | 0.845 (0.982) | 0.774 (0.982) | 0.938 (1.003) | 1.00 (0.989) | **0.916** (0.989) |
 
-The pre-registered checks had two problems. Both were found after the engine drops, when I went looking for why they missed. Both errors are mine.
+The pre-registered checks had two problems. Both were found after the engine drops, while looking for why they missed. Both are errors in the registration.
 
 - **The wrong fit window.** The h = 0.2 bands for M1–M3 came from the first column, fitted over 4 time units. The engine drops were fitted over 8 time units with a cubic, as the pre-registration itself says. On the coarse grid the fitted value depends on the fit by up to 12%, because the knot's acceleration is not constant as it crosses grid cells.
 - **A measurement bug at h = 0.1.** The knot's centre is the centroid of its Coh energy, taken with the minimal-image convention about a reference point.
@@ -2067,7 +2075,7 @@ The two failure conditions written in advance:
 - *"M1 fails: the spatial-only knot falls universally."* It does not. Every spatial-only drop, at both resolutions, in both fields and with every fit, falls 2.7–3.7× faster than universal.
 - *"M2 fails beyond the lattice factor: even space-time Str does not make matter fall like patterns."*
   - Not triggered as written. In the engine's field the knot falls as it does in a clean field on the same lattice with the same fit: on the fine grid 0.919 and 0.929 against 0.916.
-  - But the lattice factor I registered at h = 0.1 (≈ 1.00) was inflated by the measurement bug. The real one is 0.93 of E/M.
+  - But the lattice factor registered at h = 0.1 (≈ 1.00) was inflated by the measurement bug. The real one is 0.93 of E/M.
   - So this run puts reading T **within about 8% of universal fall on the fine grid, not within the 3% registered.** The patterns beside it fall at 0.99.
 
 ### Reading
@@ -2095,7 +2103,7 @@ The two failure conditions written in advance:
 - ED's old event-layer finding, that committed matter which moves by paying for commitments is pushed away, is about a different law of motion and is untouched.
 - Joining the two is open.
 
-**6. Adopted provisionally by Allen on 17 October 2026: Str is charged on every closed loop of the history, including loops made of a relation and a tick, with ticks and relations priced alike.** It costs nothing elsewhere in the record (Runs 12–13 used only static knots). It is required for composite matter to fall like everything else, and it is Lorentz invariance of the twist cost, flagged as such. See §10.
+**6. Adopted provisionally on 17 October 2026: Str is charged on every closed loop of the history, including loops made of a relation and a tick, with ticks and relations priced alike.** It costs nothing elsewhere in the record (Runs 12–13 used only static knots). It is required for composite matter to fall like everything else, and it is Lorentz invariance of the twist cost, flagged as such. See §10.
 
 **Open:**
 - a smaller grid spacing (h = 0.05) or a better time–space discretisation, to see reading T's lattice factor reach 1
@@ -2112,11 +2120,11 @@ The two failure conditions written in advance:
 
 **Question.** In Run 18 the knot with Str also charged on loops that include a tick (reading T, adopted provisionally on 17 October) fell at 0.92–0.93 of the universal rate on the fine grid. That missed the registered 1.00 ± 0.03. Is the shortfall the lattice knot's own weight-to-inertia ratio, which should tend to 1 as the grid is refined, or something else?
 
-The pre-registration is `PREREG_18b.md` in `matter_run.zip`. It was written after the diagnostics below and before any registered drop, and it lists everything I had already seen.
+The pre-registration is `PREREG_18b.md` in `matter_run.zip`. It was written after the diagnostics below and before any registered drop, and it lists everything already seen.
 
 ### What the diagnostics found first
 
-**1. My first suspect was wrong.** I had said that twist across a tick and twist across a relation use different lattice formulas. They don't: both build each square face from its corners in the same way. A tick is simply taken as infinitely short. The literal alternative, a tick of finite length h priced exactly like a relation, is unstable on a cubic grid at one hop per tick.
+**1. The first suspect was wrong.** The first diagnosis was that twist across a tick and twist across a relation use different lattice formulas. They don't: both build each square face from its corners in the same way. A tick is simply taken as infinitely short. The literal alternative, a tick of finite length h priced exactly like a relation, is unstable on a cubic grid at one hop per tick.
 
 **2. Run 18's inertia estimate was too crude.** It boosted the knot with central differences. A smooth rigid boost uses the exact derivative of the knot's band-limited field, projected onto the sphere's tangent plane:
 
@@ -2224,7 +2232,7 @@ $$
 - **Committed side:** its places hold engine commitments where its cost lives, drawing possibility from the one budget.
 - **Uncommitted side:** its orientation field moves as in Run 18, falling with inertia, with twist charged on every loop.
 
-This follows Allen's answers of 6 October (phase memory on uncommitted channels, at the local clock rate) and avoids repeating Attempt D, whose commitment-only loops can only drift, and only with a steering constant of ours (D-O8, D-O15, `Engine_Motion.md`). Plan approved 17 October: the two-layer knot, both matter arms, and R1.
+This follows the rulings of 6 October (phase memory on uncommitted channels, at the local clock rate) and avoids repeating Attempt D, whose commitment-only loops can only drift, and only with a steering constant of ours (D-O8, D-O15, `Engine_Motion.md`). Plan approved 17 October: the two-layer knot, both matter arms, and R1.
 
 **R1 does not act in this engine.** R1 (adopted 11 October) says a failed try takes no time. Nothing here proposes: the vacuum never commits (Run 14), and matter's reserved pairs renew at once if both places can pay. So the engine is bit-identical with R1 on or off, and Runs 14–18 stand under R1. Checked: the Run 19 control reproduces Run 16's engine bit for bit.
 
@@ -2240,7 +2248,7 @@ This follows Allen's answers of 6 October (phase memory on uncommitted channels,
 | ÷ E(Q = 1) | 1 | 1.643 | 2.299 |
 
 **How many commitments a knot holds (two arms):**
-- **Arm E, cost-paid (our rule, flagged).** $\mathrm{round}(\lambda E/2)$ commitments spread over the knot's links with weight $e_p+e_q$, so place p holds about $\lambda e_p$ of them. λ = 0.2023 per unit of cost, fixed so that Q = 1 holds 54, as ED's ball does. That gives 54 / 89 / 124 commitments, up to 6 on one place (an addition, flagged).
+- **Arm E, cost-paid (an added rule, flagged).** $\mathrm{round}(\lambda E/2)$ commitments spread over the knot's links with weight $e_p+e_q$, so place p holds about $\lambda e_p$ of them. λ = 0.2023 per unit of cost, fixed so that Q = 1 holds 54, as ED's ball does. That gives 54 / 89 / 124 commitments, up to 6 on one place (an addition, flagged).
 - **Arm P, ED's current rule.** One reserved commitment per place with $e_p\ge\tau$, paired at random as ED pairs its ball. τ = 0.371 (ours) is fixed so that Q = 1 has 108 matter places. That gives 51 / 74 / 101 pairs.
 
 **Active mass.** A body's well about its centre, $\delta(r)=1-\langle N\rangle_r/\langle N_{\rm ctrl}\rangle_r$ for r = 7–20, fitted to ED's ball's well: $A=\sum\delta\,t/\sum t^2$. Its draw is the possibility it spends per tick.
@@ -2331,7 +2339,7 @@ ED's ball at (30, 30, 30) and the Q1 arm-E knot 9.5 places away, seeds 1 and 2, 
 - This is the parked "perihelion on the event layer", now answered by inference: Run 10's multiplicative budget is not what the adopted engine does.
 - It follows from two adopted rules together: the vacuum never commits (so outside matter possibility only wanders, linearly), and the flow clock rule (so the clock rate is the passing count, linearly).
 
-**3. What would fix it, stated, not chosen.** Clocks would have to slow as $N=e^{-\delta}$ rather than $1-\delta$, or the shortage would have to obey an equation linear in $\ln N$. For example, a hold could end after possibility equal to a fixed *fraction of what remains* has passed. That would be a change to the clock rule adopted on 16 October, and it would need Runs 15–18 re-checked. **Allen's decision.**
+**3. What would fix it, stated, not chosen.** Clocks would have to slow as $N=e^{-\delta}$ rather than $1-\delta$, or the shortage would have to obey an equation linear in $\ln N$. For example, a hold could end after possibility equal to a fixed *fraction of what remains* has passed. That would be a change to the clock rule adopted on 16 October, and it would need Runs 15–18 re-checked. **Needs a ruling.**
 
 **4. Not run, and why.** Taking Run 18's equations with S1's self-well, a knot in its own well would fall at 0.58 of a test body if wells add, or 0.37 if they multiply, and at 0.88 with the self-well 0.3× as deep. But Run 18's knot uses clock-only coupling (γ = 0), not the adopted pattern rule. So that SEP test would mostly measure the missing γ, and it was set aside in favour of measuring β directly.
 
@@ -2414,7 +2422,7 @@ A commitment holds until $\sum_{\rm ticks}(P_a+P_b)$ reaches $H=\hbar\cdot2\cdot
 - **Draws:** 7.97, 10.70 and 12.40 per tick at density 8; 8.49, 11.89 and 13.92 at density 32.
 - **The wells are deep.** The clock shortage at r = 4 is 0.41, 0.52 and 0.57 at density 8, against 0.18 for the adopted engine's ball. The medium diffuses about 6× (density 8) to 22× (density 32) more slowly, so the same draw digs a deeper well.
 - **The written β predictions missed.** `PROBE_21.md` predicted β = 0.94 ± 0.05 (density 8) and 1.00 ± 0.05 (density 32) by Run 20's method. That method gave **0.805** and **1.080**. The method is a weak-field expansion ($N=1-U+b_2U^2$) and is not valid in wells this deep: its per-shell b₂ runs from +0.33 to −0.43 at density 8, and from 0.41 to 0.64 at density 32.
-- **After seeing the data, I switched to a deep-well fit:**
+- **After the data were seen, the fit was switched to a deep-well fit:**
 
 $$
 N=(1-qU)^{1/q},\qquad \beta=1-q/2,
@@ -2587,11 +2595,11 @@ The designs disagree by 6% (density 8) and 4% (density 32), against the register
 - **Nordtvedt is not reached.** At 2048 per place, η = +0.0021 ± 0.0003, against σ(η) = 4.4×10⁻⁴. The theory brings it within 2σ only above about 5,000 per place, which is not measured.
 - **But Candidate A breaks clock universality, and with p_s = 1 the break looks structural.** A presence clock reads the possibility at its own places, which its own draw depletes by 24–32%. Near matter that self-depletion shrinks, so a clock that draws more slows less. Clocks of different make disagree by 4–6% at both densities tested (8 and 32), and the self-dip shrinks by only 4–6% between them.
 
-  Real clocks of different types redshift alike to about one part per million: null-redshift comparisons of rubidium, caesium, hydrogen and dysprosium clocks bound the difference near 10⁻⁶ (Will 2014, *Living Rev. Rel.* 17, 4, §2.1.3, arXiv:1403.7377). **As built, I judge Candidate A excluded:** T2 fails as registered, and the exclusion comes from setting that failure against the 10⁻⁶ bound, not from a registered rule.
+  Real clocks of different types redshift alike to about one part per million: null-redshift comparisons of rubidium, caesium, hydrogen and dysprosium clocks bound the difference near 10⁻⁶ (Will 2014, *Living Rev. Rel.* 17, 4, §2.1.3, arXiv:1403.7377). **As built, Candidate A is judged excluded:** T2 fails as registered, and the exclusion comes from setting that failure against the 10⁻⁶ bound, not from a registered rule.
 - **The same exponential amplification does both.** It makes β = 1 ($P\propto e^{z/c}$), and it turns one commitment's small outflow deficit into an order-one dip ($\Delta\ln P=\Delta z/c$). With $c\approx1.4$, one commitment is never a small disturbance.
 
-  **Untested way out:** make c large. With $p_s\gg1$, $c=0.99/\ln(1+1/p_s)\approx0.99\,p_s$, and the self-dip should fall as $\approx6(G_0+G_1)q/p_s$ (the theory's form; Run 23 confirmed it: slope −0.94 ± 0.04 over $p_s$ = 4–64). The medium is then linear below $p_s$ (the adopted engine) and logarithmic above it, so β = 1 would need $P_0\gg p_s$. That makes matter light compared with the medium, which is also what gravity's weakness needs. It is a hypothesis for Allen's decision (§11c), not a result.
-- **What survives, whatever Allen decides:**
+  **Untested way out:** make c large. With $p_s\gg1$, $c=0.99/\ln(1+1/p_s)\approx0.99\,p_s$, and the self-dip should fall as $\approx6(G_0+G_1)q/p_s$ (the theory's form; Run 23 confirmed it: slope −0.94 ± 0.04 over $p_s$ = 4–64). The medium is then linear below $p_s$ (the adopted engine) and logarithmic above it, so β = 1 would need $P_0\gg p_s$. That makes matter light compared with the medium, which is also what gravity's weakness needs. It is a hypothesis for a ruling (§11c), not a result.
+- **What survives, whatever is ruled:**
   - The β formula, $\beta=1+y''/(2y'^2)$, for a clock reading the ambient ⟨P⟩ in any zero-range medium.
   - The demonstration that the old flow clock could never reach β = 1.
   - A cheap, precise way to measure β with no matter at all.
@@ -2654,7 +2662,7 @@ If the theory is right, a clock's self-dip falls as about $1/p_s$ (matter become
 
 **Question.** Run 22's registered clock check failed at $p_s=1$: two clock designs (hold H and 2H) disagreed by 4–6% near matter. Run 23 showed a lone clock's self-dip falls as $p_s^{-0.94}$. Does the disagreement fall with it? This is pre-registered with a kill rule (`PREREG_24.md`, hashed before any run; `clockuni_run.zip`).
 
-**Why a uniform-media test, not a well.** I had proposed a well test at $p_s$ = 4 and 16. Working out its resolution before registering showed it could not work: with Run 22's layout the design ratio in a well carries about ±0.02 per 2 hours, against expected gaps of 0.024 and 0.007.
+**Why a uniform-media test, not a well.** A well test had been proposed at $p_s$ = 4 and 16. Working out its resolution before registering showed it could not work: with Run 22's layout the design ratio in a well carries about ±0.02 per 2 hours, against expected gaps of 0.024 and 0.007.
 
 Near matter a clock mostly just sits in less possibility, and Run 22's T1b showed the wells obey the uniform medium's equation of state. So the same clocks are compared in two uniform media, with check C tying the result to Run 22's well.
 
@@ -2704,7 +2712,7 @@ $$
 
 ## 9r. Run 25: the closing checks for Candidate A′ (a well where Mercury's band holds; Nordtvedt directly)
 
-**Question.** Allen adopted Candidate A′ provisionally (§10). Two of its open checks can be run now:
+**Question.** Candidate A′ was adopted provisionally (§10). Two of its open checks can be run now:
 - **(a)** Do matter wells obey the medium's equation of state where β is inside Mercury's band?
 - **(b)** Does the medium's β get within reach of lunar laser ranging?
 
@@ -2746,7 +2754,7 @@ The wells are shallower than Run 22's (0.15–0.25 against 0.41–0.57). The med
 - **Nordtvedt is met in the engine at $P_0/p_s$ = 4096.**
   - At $p_s$ = 16, β − 1 = −1.06×10⁻⁴, as the theory said beforehand (−0.98×10⁻⁴). That gives η = −4.2×10⁻⁴, about 1σ from lunar laser ranging's zero.
   - At $p_s$ = 4, |β − 1| is already 6×10⁻⁵ at 2048 and 4096, η = −2.5×10⁻⁴.
-- **The registered fail at $p_s$ = 4 is in my kill rule, not in the medium.** The "falls at every step" clause cannot be met once the deviation is below the measurement error: the 2048 and 4096 values agree, with a difference of 0.5 ± 4.7 ×10⁻⁵. Both are well inside the bound. It stays a fail as registered.
+- **The registered fail at $p_s$ = 4 is in the kill rule as written, not in the medium.** The "falls at every step" clause cannot be met once the deviation is below the measurement error: the 2048 and 4096 values agree, with a difference of 0.5 ± 4.7 ×10⁻⁵. Both are well inside the bound. It stays a fail as registered.
 - **For large $p_s$ the trend is the theory's** $\beta-1\approx-0.45\,p_s/P_0$. Nordtvedt at 2σ then needs $P_0/p_s\gtrsim2000$, which is what the adoption's constraint assumed.
 
 **Correction (18 October, after Run 28): only the β part of Nordtvedt was tested.** The full Nordtvedt parameter, as set out in ED_Attempt_01 (C206), is
@@ -2805,15 +2813,15 @@ $$
 
 | test | registered | measured | verdict |
 |---|---|---|---|
-| W1 | $a_A/a_B=1.00\pm0.02$, with $g$ per unit draw and prediction $a=0.695$ | as written: $a_A/a_B$ = 0.588; depth per unit draw: ratio **1.001** (halves 1.017, 0.986), each 0.69 | **specification self-contradictory (my error); see below** |
+| W1 | $a_A/a_B=1.00\pm0.02$, with $g$ per unit draw and prediction $a=0.695$ | as written: $a_A/a_B$ = 0.588; depth per unit draw: ratio **1.001** (halves 1.017, 0.986), each 0.69 | **specification self-contradictory (a registration error); see below** |
 | W2 (kill) | f ≥ 0.8; prediction 1.00 ± 0.10 | **f = 0.91 ± 0.07** (halves 1.00, 0.88). That error is understated: see the second seed below, where both seeds give 1.12 ± 0.19 | **pass** |
 | W3 (reported) | $s$ measured against predicted | 0.976 / 0.975 (A), 0.986 / 0.987 (B) | **agrees to 0.2%** |
 
 **W1, as registered, cannot be scored cleanly.**
-- **The flaw.** I defined $g$ "per unit draw". That makes the fitted $a$ equal to $y'\times D$, so the registered prediction ($a$ = 0.695 for both bodies) and the registered pass mark ($a_A/a_B$ = 1) could not both hold.
+- **The flaw.** $g$ was defined "per unit draw". That makes the fitted $a$ equal to $y'\times D$, so the registered prediction ($a$ = 0.695 for both bodies) and the registered pass mark ($a_A/a_B$ = 1) could not both hold.
 - **As literally written,** $a_A/a_B$ = 0.588 is a fail.
 - **The consistent reading** is $a/D$, the standing check's "A ÷ draw the same for every body". Then the two bodies agree to 0.1%, and both match the medium's measured slope (0.695) to 0.8%.
-- I record W1 as a registration error with that consistent result beside it, not as a pass.
+- W1 is recorded as a registration error with that consistent result beside it, not as a pass.
 
 **W3's registered solver** (plain fixed-point iteration) oscillated for B. The same equation solved by bisection gives the values in the table.
 
@@ -2890,7 +2898,7 @@ $$
 
 What does it predict where gravity is strong, and do current observations allow it?
 
-**Prior record (added after Allen pointed it out: "we've been here before, 4% and no horizon").** This calculation repeats ED_Attempt_03, note 5 (`Full_Locus_Strong_Field.md`, 15 September 2026, C26–C35). That note found the same metric, the same light ring at 2GM/c², the same 4.6% larger shadow, and the same 1.4σ and 1.0σ from EHT's Sgr A*. It went further on horizons:
+**Prior record (added after it was pointed out: "we've been here before, 4% and no horizon").** This calculation repeats ED_Attempt_03, note 5 (`Full_Locus_Strong_Field.md`, 15 September 2026, C26–C35). That note found the same metric, the same light ring at 2GM/c², the same 4.6% larger shadow, and the same 1.4σ and 1.0σ from EHT's Sgr A*. It went further on horizons:
 - Sgr A*'s missing surface glow (any surface emits less than 0.4% of the accretion power) and quiet X-ray binaries put a horizonless object in strong tension.
 - An escape check, under an exit rule fixed first, found at least 10% of the infalling energy escapes, 25 times the limit.
 - **ED's strong-field line was closed** (C33–C34).
@@ -2901,7 +2909,7 @@ Attempt 1 had chosen the rate laws behind this metric (clocks $e^{-U}$, motion $
 - Candidate A′ *derives* the $e^{-U}$ clock from counting rules on the engine, where attempts 1 and 3 had matched it. But it arrives at the same metric, so it inherits attempt 3's closure.
 - The only new strong-field number here is the ringdown comparison with GW250114.
 - **One difference that is unchecked:** attempt 3's capped core stopped the redshift at e. Candidate A′'s possibility instead runs out where $U\approx\ln(P_0/p_s)\approx8$, where clocks stop. Whether that deeper core escapes attempt 3's surface-glow argument has not been computed.
-- **The check that should have come first:** I ran this without searching Allen's earlier attempts.
+- **The check that should have come first:** This was run without first searching the earlier attempts.
 
 This is a calculation, not a simulation. Pre-registered: `PREREG_28.md`, hashed after the calculation and before any bound except Sgr A*'s was looked up (disclosed); `strong_run.zip`.
 
@@ -2951,9 +2959,8 @@ This is a calculation, not a simulation. Pre-registered: `PREREG_28.md`, hashed 
 *18 October 2026.*
 - *Pre-registered and hashed before any run (`arrow/PREREG_29.md`, 20:47 UTC), together with the engine, the analysis and the theory scripts.*
 - *An independent agent re-ran the analysis, reproduced it exactly, and checked every verdict. Its corrections are included.*
-- *Allen: "do the recommended steps".*
 
-**Question.** Allen's papers say GR and QM are averages of a one-way process, and that averaging removes the order:
+**Question.** ED's papers say GR and QM are averages of a one-way process, and that averaging removes the order:
 > "averages are permutation-invariant: a sum does not remember the order of its terms… Its reversibility is ignorance of order, formalized." (`Paper_HowTheoryCoarseGrainReality.md`)
 
 His falsifiers include "substrate-level dynamics is genuinely time-reversal-symmetric" (T18 §10). A search of the three repos found no earlier numerical test of time-reversal asymmetry, so this is the first. In the engine the claim has three parts:
@@ -3021,8 +3028,8 @@ $$
    - The forward/backward asymmetry of a clock's record stays at 0.023–0.034 up to windows of 32 ticks. The exception is a dip to 0.005 at T = 4, from the clock's cadence.
    - From T = 64 it falls about as 1/T (slope −0.95), to 0.0013 at 1024. That is 26× below single ticks, but still 5σ from zero.
    - A 1/T fall is what any one-way record with a finite memory shows when averaged over windows much longer than that memory. The order lives within about 150 ticks of each event, and a long window dilutes it.
-   - **Allen's sentence describes what the averaged record becomes.** Over a long window a clock's completions are, to 0.999 correlation, the presence it collected divided by H. That is a sum, and a sum does not remember the order of its terms. The run shows the record becoming such a sum. It does not show that this is the cause of the 1/T fall rather than a description of it.
-3. **Averaging over space does not shrink it (T5).** Summing 125 clocks leaves the asymmetry unchanged: 0.0334 against 0.0343. Independent clocks add their asymmetries in proportion. In the engine, losing the order is what averaging over **time** does: "GR basically averages time" (Allen).
+   - **ED's sentence describes what the averaged record becomes.** Over a long window a clock's completions are, to 0.999 correlation, the presence it collected divided by H. That is a sum, and a sum does not remember the order of its terms. The run shows the record becoming such a sum. It does not show that this is the cause of the 1/T fall rather than a description of it.
+3. **Averaging over space does not shrink it (T5).** Summing 125 clocks leaves the asymmetry unchanged: 0.0334 against 0.0343. Independent clocks add their asymmetries in proportion. In the engine, losing the order is what averaging over **time** does: "GR basically averages time".
 4. **The bell curve is not what removes the order (T4 missed).**
    - Time-averaging first *raises* skewness:
      - a vacuum place: 0.32 → 0.42 at T = 256
@@ -3042,17 +3049,17 @@ $$
    - **One average keeps its order (exact bookkeeping, no measurement).** Possibility flows steadily into every drawing clock and is released uniformly. In a steady state the mean inflow through a sphere of radius r around one clock is $D-D_{\rm tot}V_r/V_{\rm box}$. Here D is that clock's draw and $D_{\rm tot}$ is the total draw. A current reverses under time reversal, so this average carries the arrow. Clocks and patterns read P, not the current.
 
 **What this shows and does not show.**
-- **It shows:** Allen's coarse-graining claim works in ED's own engine, in this form.
+- **It shows:** ED's coarse-graining claim works in ED's own engine, in this form.
   - A one-way event layer, including a one-way vacuum, produces clock records whose time-averages lose most of their order, falling as 1/T, while averaging over space keeps it.
-  - The bottom is not two-way, which is one of Allen's falsifiers, so that falsifier is not triggered.
+  - The bottom is not two-way, which is one of ED's falsifiers, so that falsifier is not triggered.
 - **It does not show** that nature works this way. Standard physics gets time-symmetric averages from time-symmetric micro-laws. Telling the two apart needs the leak (c/T, with c unknown at physical scales) or the arrow in fluctuations.
-- **Not tested:** wells (only lone clocks), Allen's Result 22 "age" residue, the tick length, and boxes large enough to see a diffusive tail.
+- **Not tested:** wells (only lone clocks), ED's Result 22 "age" residue, the tick length, and boxes large enough to see a diffusive tail.
 
 ---
 
 ## 9w. Run 30: the sourcing weight the static engine can reach (rest mass in a potential), against GR's Tolman mass
 
-*18 October 2026. Allen: "do the recommended steps".*
+*18 October 2026.*
 - *This is a derivation, not a new engine run, and it was not pre-registered because no new data were taken.*
 - *Its engine check is Run 26's W3, measured before this derivation existed.*
 - *An independent agent checked the algebra against Will (2014) and Tolman, and its corrections are included.*
@@ -3151,17 +3158,17 @@ $$
 \eta_N=\tfrac{10}{3}(\beta-1)-\tfrac23\zeta_1-\alpha_1+\tfrac23\alpha_2 ,
 $$
   with ζ₁, α₁ and α₂ open. At $P_0/p_s=2.3\times10^4$ the first term is −6.5×10⁻⁵.
-- **Allen's exit rule (Attempt 04, R1)** records a weight that "hits … only because it restates Tolman's formula" as "consistent, not derived".
+- **ED's exit rule (Attempt 04, R1)** records a weight that "hits … only because it restates Tolman's formula" as "consistent, not derived".
   - The rule behind this result, the presence clock, was fixed on 18 October for clock reasons, before this weight was computed.
   - Its match to Tolman's rest-mass term follows from that rule, not the other way round.
-  - Allen decides the label.
+  - The label needs a ruling.
 - **Next, if pursued:** a rule for moving matter, checked against the 1 + 2v² requirement before it is adopted. That is Attempt 04's "action = reaction" in engine form.
 
 ---
 
 ## 9x. Run 31: does a well form at the pattern speed, and does it follow a moving body?
 
-*19 October 2026. Pre-registered and hashed before any run (`moving/PREREG_31.md`, 05:43 UTC), with a kill rule. Allen: "do the recommended steps". Step 1 was a rule for moving matter; working it out raised this prior question. An independent agent re-checked the hashes, numbers and verdicts and re-simulated the prediction; its corrections are included.*
+*19 October 2026. Pre-registered and hashed before any run (`moving/PREREG_31.md`, 05:43 UTC), with a kill rule. Step 1 was a rule for moving matter; working it out raised this prior question. An independent agent re-checked the hashes, numbers and verdicts and re-simulated the prediction; its corrections are included.*
 
 **Question.** In the engine, the clock well around matter is a deficit of possibility, and possibility moves by random hops. In the mean, exactly,
 $$
@@ -3253,7 +3260,7 @@ GR, and every planetary and pulsar test, needs the field to follow its body to $
 
 *Note (21 October): under the provisional option 3 with ED's medium (Run 67, §9zzn) the same cold zero-clock surface appears, of the same form with GR's lapse in place of e^{−M/r}, just outside where GR's horizon would be.*
 
-*19 October 2026. Pre-registered and hashed before any run (`horizon/PREREG_32.md`, 05:47 UTC), with a kill rule. Allen: "do the recommended steps" (step 2: whether the surface where possibility runs out is a horizon).*
+*19 October 2026. Pre-registered and hashed before any run (`horizon/PREREG_32.md`, 05:47 UTC), with a kill rule. (step 2: whether the surface where possibility runs out is a horizon).*
 
 **Prior record (checked first).** Much of this was already found in other ED models. This run puts it on the adopted rules.
 - **Attempt B, B-39** (O165, W103, W104): the body's slowing clock cuts its own draw. "The brake wins by a factor of ~30… the bandwidth seal OPENS". The clock slows as a power law, $t^{-0.55}$ to $t^{-0.67}$; "nothing freezes."
@@ -3278,7 +3285,7 @@ $$
   - the proper distance to the surface grows as ln(1/ε), so it is infinite
   - the areal radius r/N diverges
   - a radial light ray reaches it at finite affine parameter
-- This is an extremal-type end with infinite area and zero temperature, the same verdict as Allen's acoustic-metric arc.
+- This is an extremal-type end with infinite area and zero temperature, the same verdict as ED's acoustic-metric arc.
 
 (b) **A static body cannot make that surface.**
 - Its draw is its ticking (presence clock). For a thin shell of bare compactness μ (the U it would make if its clocks did not slow), the shell's clock rate solves
@@ -3320,7 +3327,7 @@ $$
 
 ## 9z. Run 33: does a pattern's energy pull? (a decision memo; no run)
 
-*19 October 2026. Allen: "do the recommended steps" (step 3: give a pattern a cadence on the event layer and measure whether it pulls by ħω). A search of the three repos found no existing ED rule that turns a pattern's energy into draw. By Allen's own rule (ED_Attempt_04, `Picture.md`: "The counting rule is fixed … **before** any weights are computed"), the rule has to be chosen first. This memo sets out the candidates and what each one gives, for that choice. Nothing is run.*
+*19 October 2026. (step 3: give a pattern a cadence on the event layer and measure whether it pulls by ħω). A search of the three repos found no existing ED rule that turns a pattern's energy into draw. By ED's own rule (ED_Attempt_04, `Picture.md`: "The counting rule is fixed … **before** any weights are computed"), the rule has to be chosen first. This memo sets out the candidates and what each one gives, for that choice. Nothing is run.*
 
 **What is measured.** Energy in every form pulls with the same weight as rest mass.
 - **Binding energy.**
@@ -3354,7 +3361,7 @@ Two pairs of these conflict: DSR-4 with Mass Without Mass, and §12 with D30.
 | rule | rest + binding + internal energy | moving matter (GR: weight $\tfrac32v^2$ in conserved terms) | stress (GR: 3p) | radiation | verdict before any run |
 |---|---|---|---|---|---|
 | **R-a. Cadence draw:** a pattern draws in proportion to its frequency ω = E/ħ (DSR-4 extended) | weight 1 ✓, since a bound state's ω includes its binding and internal energy | lab-frame ω = γm gives $+\tfrac12v^2$: Φ₁ coefficient 2 against GR's 4, so $\zeta_1+\alpha_3=-2$ and an Earth–Moon term of $+\tfrac43$ if it is ζ₁. If cadence means the tick rate seen in the lab (ω₀/γ), the weight is $-\tfrac12v^2$ and $\zeta_1+\alpha_3=-4$ | 0 against 3 | pulls by its energy only. That fails the radiation era if the expansion is driven by the active mass (half GR's H²). It is untested if ED has an energy-only Friedmann constraint | fails motion and stress |
-| **R-b. Cadence plus flux:** a pattern draws for its energy *and* for its momentum flux, the possibility it carries through each place, per direction | ✓ | ✓: energy gives $\tfrac12v^2$ and flux gives $v^2$, together $\tfrac32v^2$. This covers the source of $g_{00}$ only; frame dragging, α₁ and α₂ still need the field dynamics (Run 31) | ✓ (3p) | ✓ (energy, plus the pressure weight: 2E in bulk) | GR's weights at first post-Newtonian order. It is Tolman–Komar's source, so under Allen's R1 it is "consistent, not derived" unless ED gives an independent reason for the flux to draw. D30's "influence carries motion and energy" points that way |
+| **R-b. Cadence plus flux:** a pattern draws for its energy *and* for its momentum flux, the possibility it carries through each place, per direction | ✓ | ✓: energy gives $\tfrac12v^2$ and flux gives $v^2$, together $\tfrac32v^2$. This covers the source of $g_{00}$ only; frame dragging, α₁ and α₂ still need the field dynamics (Run 31) | ✓ (3p) | ✓ (energy, plus the pressure weight: 2E in bulk) | GR's weights at first post-Newtonian order. It is Tolman–Komar's source, so under ED's R1 it is "consistent, not derived" unless ED gives an independent reason for the flux to draw. D30's "influence carries motion and energy" points that way |
 | **R-c. Only commitments pull;** patterns and radiation do not (§12) | only if bound patterns *are* renewing commitments whose rate includes their binding | as R-a, via the commitments | 0 | does not pull: against the measured radiation era and against D30 | fails radiation |
 | **R-d. Mass from binding,** separate from the commitment rate (Mass Without Mass) | depends on the binding rule | — | — | — | conflicts with Run 30's identification of active mass with the draw |
 
@@ -3364,7 +3371,7 @@ Two pairs of these conflict: DSR-4 with Mass Without Mass, and §12 with D30.
 - The stress weight bites for self-gravitating bodies, where by the virial theorem $3\int p=-\Omega$. It bites less for bodies held by non-gravitational stresses, whose integrated stress vanishes (von Laue).
 - Every rule's motion weight is downstream of Run 31. If the engine's field cannot follow a moving body, no draw rule for moving matter can be checked on the engine as built.
 
-**Allen's decision.**
+**Needs a ruling.**
 1. Which mass reading is canonical: DSR-4 (frequency) or Mass Without Mass (binding)?
 2. Do patterns and radiation pull (D30) or not (§12)?
 3. If R-b: what in ED makes possibility in transit draw, so that it is a reason rather than Tolman restated?
@@ -3373,11 +3380,11 @@ Two pairs of these conflict: DSR-4 with Mass Without Mass, and §12 with D30.
 - a bound pattern (a Klein–Gordon pattern in a box well, binding a few % of its energy) whose draw follows the chosen rule. Its far field is measured against $E=\hbar\omega$, with binding counted, to 1%.
 - moving patterns against the 1 + 2v² requirement, once the field can follow them (Run 31).
 
-**Allen's ruling (19 October).** "yes to 1": a pattern's rest energy (ħω, binding included) draws, as in D30. With the Lorentz input (Run 34) its momentum flux draws too, so the adopted rule is R-b. Tested in Run 36.
+**Ruling (19 October):** a pattern's rest energy (ħω, binding included) draws, as in D30. With the Lorentz input (Run 34) its momentum flux draws too, so the adopted rule is R-b. Tested in Run 36.
 
 ## 9za. Run 34: a clock field fixed each tick, plus a current field — can it pass the preferred-frame tests? (a calculation)
 
-*19 October 2026. The criteria and candidate rules were fixed and hashed before the numerical check ran and before the record search on frame dragging was read (`vector/PREREG_34.md`, 09:21 UTC). The general relation had been sketched in conversation while scoping, and was registered as a prediction. Allen: "go ahead as you say". An independent agent re-derived the matching against Will (2014, Box 2 and Table 4) and GP-B's final result. It confirmed the algebra and found eight problems in how the result was stated; all are corrected below, and listed at the end.*
+*19 October 2026. The criteria and candidate rules were fixed and hashed before the numerical check ran and before the record search on frame dragging was read (`vector/PREREG_34.md`, 09:21 UTC). The general relation had been sketched in conversation while scoping, and was registered as a prediction. An independent agent re-derived the matching against Will (2014, Box 2 and Table 4) and GP-B's final result. It confirmed the algebra and found eight problems in how the result was stated; all are corrected below, and listed at the end.*
 
 **Question.** Run 31 showed the engine's field is carried by diffusion. The proposed fix has three parts:
 1. The clock field is fixed fresh each tick: possibility relaxes completely between commitments, so the field is the steady state for the current draws.
@@ -3386,7 +3393,7 @@ Two pairs of these conflict: DSR-4 with Mass Without Mass, and §12 with D30.
 
 Part 1 keeps every static result and removes the wake. The question here is what part 2 must be for the preferred-frame tests to pass, and whether anything in ED supplies it.
 
-**Prior record (checked after the registration, before writing up).** Much of this is already in Allen's Phase-3 GR notes. Run 34 puts numbers to it and adds one derived piece.
+**Prior record (checked after the registration, before writing up).** Much of this is already in ED's Phase-3 GR notes. Run 34 puts numbers to it and adds one derived piece.
 - **`Phase3_GR_PPN_RouteB_EtaCrossCheck.md`:** "The scalar rule `ḃ = D∇²b − κρ`, by itself, sources no physical `g_{0i}`", because its current is curl-free, and "the conservative skeleton leans `α_1=O(1)`". Run 34 gives the number: α₁ = −8, α₂ = −1.
 - **`Phase3_GR_DirectedFluxSector.md`:** a directed flux, $D\nabla^2A^i=\kappa_J\rho w^i$ with $g_{0i}=A_i$ and $\kappa_J=\lambda_J\kappa$, "kept symbolic". That is candidate C2.
 - **`Phase3_GR_PinningLambdaJ.md`:** boosting the static metric gives $g'_{0i}=4w_iU$, so "α₁ = 0 ⟺ λ_J = 4". It adds that "ED's rule is not boost-covariant" and that the naive estimate is λ_J ~ O(1), "not computed". Run 34's $k_1=-4$ is the same condition.
@@ -3450,20 +3457,19 @@ $$
   - a momentum channel with $k_1=-4$ to 2×10⁻⁵ (λ_J = 4), which is input
   - the motion weight $a_1=2$ to 2×10⁻²⁰ (Run 33's R-b), which is input
 - **Part 1 with no current field fails the preferred-frame tests** (α₁ = −8, α₂ = −1). The engine as built, with its diffusive wake, is not of PPN form, so its α's are not defined. What holds for it regardless is that it has no frame dragging: any $g_{0i}$ it could carry is a gradient. That is §11 item 5, now with numbers.
-- **Hypothesis: the momentum channel and R-b are one piece of physics.** Moving matter's momentum must act in two places: on the clock field's source ($\tfrac32v^2$, the Earth–Moon test) and on the current field (the 4, α₁ and frame dragging). In GR both come from the boost. Nothing in ED links them yet. Allen's D30 ruling, "influence carries motion and energy", is a possible hook for both.
+- **Hypothesis: the momentum channel and R-b are one piece of physics.** Moving matter's momentum must act in two places: on the clock field's source ($\tfrac32v^2$, the Earth–Moon test) and on the current field (the 4, α₁ and frame dragging). In GR both come from the boost. Nothing in ED links them yet. ED's D30 ruling, "influence carries motion and energy", is a possible hook for both.
 - **What would make the 4 derived.** A rule in ED that fixes how strongly a moving commitment imparts momentum to possibility, with no number chosen to match, landing within 2×10⁻⁵ of 4. PinningLambdaJ's naive estimate (λ_J of order 1) shows the rule is not yet there.
 - **GR-II's falsifier** ("an additional vector mode") is not triggered by C2 if the current field is set each tick like part 1, a constraint rather than a travelling mode.
 
-**Allen's rulings (19 October, after this run) and the input chosen.**
+**The rulings (19 October, after this run) and the input chosen.**
 
-Allen: "input is what's needed. the ontology is obviously not complete; needs more. if we gotta input and hand-write things to move on, its OK. then we can use future learning to reassess what we hand to plug in."
 
 - **Adopted:** part 1 (the clock field is fixed each tick) and C1 (patterns ride possibility's flow).
-- **The tick is not physical time** (Allen). Physical time is what clocks read, which is commitments; the tick only orders updates. Consequences:
+- **The tick is not physical time** (ruled 19 October). Physical time is what clocks read, which is commitments; the tick only orders updates. Consequences:
   - Relabelling the tick, $t\to t+\lambda\chi_{,0}$, is a choice of coordinates, not a change of physics.
   - C3 no longer conflicts with part 1. Its boosted field, relabelled by $t\to t-\tfrac12\chi_{,0}$, is part 1's field with $k_2=\tfrac12$, $k_1=-4$ and $a_1=2$. So C2 (with R-b) and C3 become one candidate.
   - The steady inflow that C1's derivation dropped is a static gradient, which a relabelling removes. It is pure coordinates.
-- **The input chosen** (Allen: "you chose"). One input, not two numbers: **Lorentz invariance at first post-Newtonian order. A moving body's field is its boosted rest field, up to relabelling the tick.**
+- **The input chosen**. One input, not two numbers: **Lorentz invariance at first post-Newtonian order. A moving body's field is its boosted rest field, up to relabelling the tick.**
   - It fixes $k_1=-4$ (λ_J = 4) and $a_1=2$ together and exactly, so the tolerances are met by construction.
   - It is the input already tracked for Run 18 (twist charged on loops that include a tick), so the ledger gains no new kind of input.
   - It makes correction 8's hypothesis true by input: the momentum channel and the motion weight come from one source, as in GR.
@@ -3502,7 +3508,7 @@ $$
 
 ## 9zb. Run 35: the engine on the adopted rules (a construction run)
 
-*19 October 2026. Allen: "adopt, clock field fixed each tick, and patterns ride possibility's flow… the lattice tick is not physical time", and on the input, "you chose". Pre-registered and hashed before any registered run (`adopted/PREREG_35.md`, 10:10 UTC), with the engine, the theory and the analysis. An independent agent re-ran the analysis (byte-identical), checked the engine against engine22 and the registration's timing, and re-derived the physics claims; its corrections are included.*
+*19 October 2026. Pre-registered and hashed before any registered run (`adopted/PREREG_35.md`, 10:10 UTC), with the engine, the theory and the analysis. An independent agent re-ran the analysis (byte-identical), checked the engine against engine22 and the registration's timing, and re-derived the physics claims; its corrections are included.*
 
 **What this run is.**
 - The rules are adopted by ruling, so nothing here can refute them. Every check compares the engine with what the rules imply, computed beforehand. A failed check would have meant the build was wrong, so there is no kill rule.
@@ -3597,7 +3603,7 @@ $$
 
 ## 9zc. Run 36: does a bound pattern's energy pull, with binding counted once?
 
-*19 October 2026. Allen: "yes to 1": a pattern's rest energy (ħω, binding included) draws. Pre-registered and hashed before the run (`patternE/PREREG_36.md`, 11:25 UTC), with a kill rule. A trial computation of the ball alone and the unperturbed ground state at m = 0.3 was made while writing the code, and is disclosed there. The diagnostics after the kill rule fired are post hoc and labelled as such. An independent agent checked the hashes, numbers and physics; its corrections are included.*
+*19 October 2026. Ruled: a pattern's rest energy (ħω, binding included) draws. Pre-registered and hashed before the run (`patternE/PREREG_36.md`, 11:25 UTC), with a kill rule. A trial computation of the ball alone and the unperturbed ground state at m = 0.3 was made while writing the code, and is disclosed there. The diagnostics after the kill rule fired are post hoc and labelled as such. An independent agent checked the hashes, numbers and physics; its corrections are included.*
 
 **Question.** Energy in every form pulls with the same weight as rest mass. Materials with different binding fractions pull alike: the Moon's aluminium and iron agree in their active-to-passive mass ratio to 4×10⁻¹² (Bartlett & van Buren 1986). And a bound system's mass is its total energy, with binding counted once. Under the adopted rules, does the far field of the ball plus a pattern bound in its clock well equal the ball's own far field plus the pattern's ħω?
 
@@ -3668,7 +3674,7 @@ $$
 **Reading.**
 - **The kill rule fired. The engine, under the adopted rules, does not count a bound pattern's binding energy once.** Under the adopted rule its far field overshoots ħω by 13% at the registered setting, and by 0.4–2.6% with weak-field matter.
 - **Part of the cause is identified, post hoc.** A body held on fixed places, whose draw is its ticking, responds to outside wells with weight 1/(1 + U_self), not GR's 1. GR's bodies shrink in these coordinates, which keeps the response at 1. ED's law would do the same for a body that shrank, so a body that can adjust is the fix to try. The rest of the gap is unresolved.
-- **The pattern rule Allen chose is closer to measured physics than energy-only at every setting**, but this run does not show it to be right.
+- **The chosen pattern rule is closer to measured physics than energy-only at every setting**, but this run does not show it to be right.
 - **This sharpens an open item already on the list:** bodies held by rule, not supported (Run 30, "whether stress pulls").
   - At physical scales $U_{\rm self}$ combines each clock's own dip (about 0.3/p_s ≈ 10⁻⁶ at p_s ≈ 4×10⁵) with a body's own potential: Earth 7×10⁻¹⁰, Sun 2×10⁻⁶, a neutron star about 0.2.
   - **Extrapolating from a ball held on lattice places** (not computed for any real body), a neutron star's active mass would respond to outside wells about 17% weakly. Strong-field pulsar tests bound related effects far below that. The PSR J0337+1715 triple bounds the passive-mass analogue to about 2×10⁻⁶.
@@ -3679,7 +3685,7 @@ $$
 
 ## 9zd. Run 37: which memory carried Run 29's tail?
 
-*19 October 2026. Allen: "do your next steps" (step 3). Pre-registered and hashed before any registered run (`tail/PREREG_37.md`, 11:19 UTC), with registered verdict thresholds.*
+*19 October 2026. (step 3). Pre-registered and hashed before any registered run (`tail/PREREG_37.md`, 11:19 UTC), with registered verdict thresholds.*
 
 **Question.** In Run 29 a clock's record leads in time over 20–120 ticks: the mean lag asymmetry D over τ = 20–120 is +8.3×10⁻⁴. Run 35 showed this tail needs memory in the medium between ticks. Run 29's engine has two such memories:
 - **H-hole:** the clock's own reservation hole. Each renewal takes a unit from each of its two places, and the hole relaxes over tens of ticks.
@@ -3718,7 +3724,7 @@ $$
 
 ## 9ze. Run 38: frame dragging on the engine (a construction check)
 
-*19 October 2026. Allen: "do your next steps" (step 4). This is a construction check, not registered. The script's docstring set a 3% criterion, which the in-well releases miss (1.068). The no-well releases and the diagnostic were added after that in-well result was seen. The strength of frame dragging is the Lorentz input (Run 34), so nothing here can test ED. It checks that the engine carries a pattern with the current field.*
+*19 October 2026. (step 4). This is a construction check, not registered. The script's docstring set a 3% criterion, which the in-well releases miss (1.068). The no-well releases and the diagnostic were added after that in-well result was seen. The strength of frame dragging is the Lorentz input (Run 34), so nothing here can test ED. It checks that the engine carries a pattern with the current field.*
 
 **Setup** (`drag/run38.py`).
 - A ring of 32 committed pairs, radius 8, in the plane z = 20 of box 40, on Candidate A″'s relaxed medium (mean field). It draws 8.48 per tick.
@@ -3749,7 +3755,7 @@ $$
 
 *Note (21 October): under the provisional option 3 with the current field in GR's form (§10), a rotating hole's far exterior is Kerr to O(p_s/P∞), so this run's ED exterior is superseded there; the near zone, where the ringdown is set, is Kerr's as well, to O(ε/α), under the provisional ruling of Run 69 (the medium's clock is the ZAMO lapse). It stands as written under option 1.*
 
-*19 October 2026. Allen: "do your next steps" (step 2). The rule, method, comparisons and reading rules were fixed and hashed before the code was written (`strong/PREREG_39.md`, 11:20 UTC). Disclosed there: while scoping I had estimated by hand the first-order frame-dragging rates at the two light rings. An independent agent checked the code, numbers and bounds; its corrections are included.*
+*19 October 2026. (step 2). The rule, method, comparisons and reading rules were fixed and hashed before the code was written (`strong/PREREG_39.md`, 11:20 UTC). Disclosed there: the first-order frame-dragging rates at the two light rings had been estimated by hand during scoping. An independent agent checked the code, numbers and bounds; its corrections are included.*
 
 **Question.** Run 28 found that a static body under the adopted metric rings 4.4% below Schwarzschild (eikonal). GW250114 allows $\delta\hat f_{220}=+0.02^{+0.02}_{-0.02}$ and $\delta\hat\tau_{220}=-0.01^{+0.10}_{-0.09}$ at 90% (pSEOBNR, arXiv:2509.08099). Its remnant spins: χ_f = 0.68 ± 0.01, M_f = 62.7 (+1.0/−1.1) M☉ in the source frame (arXiv:2509.08054). The adopted rules now give a current field. What does ED's rotating exterior, at the order the rules define it, do to the ringdown?
 
@@ -3805,7 +3811,7 @@ The frequency offset's slope at a = 0 is d(δf)/da = +0.110: ED's frequency rise
 
 ## 9zg. Runs 40, 40b, 40c: Run 36 with a body that keeps its proper size
 
-*19 October 2026. Allen: "do as you recommend" (step 1). Three registered runs, each hashed before it ran:*
+*19 October 2026. (step 1). Three registered runs, each hashed before it ran:*
 - *Run 40, in Run 36's periodic box (`adjust/PREREG_40.md`, 12:52 UTC);*
 - *Run 40b, in an unbounded medium, after an independent check found Run 40's pass depended on the body model (`adjust/free/PREREG_40b.md`, 13:06 UTC);*
 - *Run 40c, the same at weak field (`adjust/free/PREREG_40c.md`, 13:15 UTC).*
@@ -3895,7 +3901,7 @@ This is 1 when s = −1, and 1/(1 + U_self) when the body is held. The independe
 
 *Note (21 October): under the provisional option 3 with the current field in GR's form (§10), a rotating hole's far exterior is Kerr to O(p_s/P∞), so this run's ED exteriors are superseded there; the near zone, where the ringdown is set, is Kerr's as well, to O(ε/α), under the provisional ruling of Run 69 (the medium's clock is the ZAMO lapse). They stand as written under option 1.*
 
-*19 October 2026. Allen: "do as you recommend" (step 3). Exteriors, method and reading rules were fixed and hashed (`strong/PREREG_41.md`, 12:49 UTC) immediately before the code was saved. The code itself was not hashed; it was not edited after the run. An independent agent checked the metric, the numbers and the verdict; its corrections are included.*
+*19 October 2026. (step 3). Exteriors, method and reading rules were fixed and hashed (`strong/PREREG_41.md`, 12:49 UTC) immediately before the code was saved. The code itself was not hashed; it was not edited after the run. An independent agent checked the metric, the numbers and the verdict; its corrections are included.*
 
 **Question.** Run 39 could not reach GW250114's remnant spin (a = 0.68) because it cut ED's rotating exterior at first order. Two exteriors exist at all spins. What does each give for the (2,2) ringdown at a = 0.68?
 
@@ -3947,11 +3953,11 @@ The eikonal approximation's own error at a = 0.68 is larger than the registered 
 4. **What would remove it.** A strong-field input in the spirit of the others:
    - "outside matter, the field is GR's (Kerr's)", which keeps ED's possibility-limited core in place of a horizon (Paper_042: no singularity);
    - or a derivation that changes the pattern rule or the clock map beyond first order.
-   - **This is Allen's call.** Bodies whose surface sits just outside the would-be horizon (horizonless compact objects) ring like Kerr at first, and differ through late echoes, which have their own bounds.
+   - **This needs a ruling.** Bodies whose surface sits just outside the would-be horizon (horizonless compact objects) ring like Kerr at first, and differ through late echoes, which have their own bounds.
 
-## 9zi. Two choices made at Allen's instruction (19 October)
+## 9zi. Two recorded choices (19 October)
 
-*Allen: "do as you recommend". These two calls were left to me. They are recorded as mine, tracked, and open to his veto.*
+*These two calls were made without a separate ruling. They are recorded as choices, tracked, and open to reversal.*
 
 **1. Bodies keep their proper size (a tracked input, the strong equivalence principle for bodies).**
 - A body's extent is set in proper units. In a well its coordinate size shrinks by $e^{-U_{\rm ext}}$, as a GR body's does in isotropic coordinates.
@@ -3963,7 +3969,7 @@ The eikonal approximation's own error at a = 0.68 is larger than the registered 
 
 **2. The canonical mass reading is DSR-4: mass is a frequency of becoming, E = ħω.**
 - **Why:**
-  - Allen ruled that a pattern's ħω draws.
+  - It was ruled that a pattern's ħω draws.
   - Run 30 found active mass equals draw equals ticking.
   - Run 40c found that at weak field a bound pattern pulls by ħω, binding counted once to 5% of itself, when its momentum flux draws. Energy alone misses by two bindings.
 - **What becomes of the other reading.** Mass Without Mass's "mass comes from binding" is read as how binding sets the frequency (binding lowers ω), not as a second, separate source of mass. Its simulator result (V5) stands as a statement about how binding shapes ω.
@@ -3973,9 +3979,9 @@ The eikonal approximation's own error at a = 0.68 is larger than the registered 
 - a tracked input that the exterior field is GR's (Kerr's), keeping ED's possibility-limited core instead of a horizon;
 - or a change to the pattern rule or clock map beyond first order.
 
-This is left for Allen.
+This is left for a ruling.
 
-**Allen's answers (19 October, 15:48).**
+**Rulings (19 October).**
 - "1: A — take GR's black-hole exterior as a tracked input, keep ED's no-singularity core; B is the long-term goal."
 - "2: Yes, run it" (Run 42).
 - "3: Keep both" (bodies keep their proper size; DSR-4).
@@ -3989,7 +3995,7 @@ So the strong field is now settled by a tracked input:
 
 ## 9zj. Run 42: a pattern inside a body, at weak field
 
-*19 October 2026. Allen: "2: Yes, run it." Pre-registered and hashed with its code before the run (`inside/PREREG_42.md`, 13:51 UTC). The registration discloses a trial of the unperturbed ground states, used to choose m. An independent agent checked the run; its corrections are included.*
+*19 October 2026. Pre-registered and hashed with its code before the run (`inside/PREREG_42.md`, 13:51 UTC). The registration discloses a trial of the unperturbed ground states, used to choose m. An independent agent checked the run; its corrections are included.*
 
 **Question.** Run 40c showed that at weak field a pattern bound **outside** a body pulls by ħω, binding counted once. Atoms and nuclei are bound **inside**: they are patterns within the matter that binds them. That is what the Moon's aluminium and iron test (Bartlett & van Buren). Does the far field count ħω once when the pattern sits inside the body?
 
@@ -4063,7 +4069,7 @@ Likely sources are:
 2. **"Stress pulls" (PPN ζ₄) is therefore needed, not optional.** Measured physics requires internal binding to pull like rest mass (aluminium against iron, to 4×10⁻¹²).
    - Under the adopted rules that happens only if a body's internal stresses draw, with weight 1 per direction, just as a pattern's momentum flux does.
    - **It is the same input in a fuller form:** the Lorentz input extended from moving matter's kinetic pressure to all of a body's stresses (the whole source transforms together).
-   - **Adopted by Allen (19 October): "Yes — stress pulls, as part of the Lorentz input"** (§9zl).
+   - **Adopted (19 October): "Yes — stress pulls, as part of the Lorentz input"** (§9zl).
 3. **Energy-only misses by about half a binding** even with the stress drawing. So the patterns' momentum flux is still needed, as in Run 40c.
 4. **Not settled here:** S at higher resolution, and the U_self scaling as a registered test.
 
@@ -4071,7 +4077,7 @@ Likely sources are:
 
 *Note (21 October): under the provisional option 3 with ED's medium (Run 67, §9zzn), the core's surface is where GR's lapse would be p_s/P∞, and it lies at infinite tortoise distance, so it absorbs: a reflecting wall (the echo table's first row) does not arise in the static vacuum solution. The end state of a collapse is not computed. The rest stands for option A as an input.*
 
-*19 October 2026. Allen chose option A: "take GR's black-hole exterior as a tracked input, keep ED's no-singularity core." The calculation and its reading were registered before the code was written (`core/PREREG_43.md`, 13:58 UTC). An independent agent checked the numbers and the literature; its corrections are included.*
+*19 October 2026. Option A was chosen: "take GR's black-hole exterior as a tracked input, keep ED's no-singularity core." The calculation and its reading were registered before the code was written (`core/PREREG_43.md`, 13:58 UTC). An independent agent checked the numbers and the literature; its corrections are included.*
 
 **What the input settles.** Outside a compact object the field is Kerr's. So GW250114's ringdown and the M87* and Sgr A* shadows match GR by construction, and are no longer tests of ED.
 
@@ -4123,14 +4129,14 @@ How to read the table:
 
    A perfectly reflecting core would fail the instability test.
 2. **Near-total absorption is enough but not required, and it would make option A observationally silent in all three channels.** Partial absorption leaves echoes, and their spacing is set by ln(P₀/p_s): at least 29 ms for a GW250114-like remnant. That would be ED's distinctive signal under option A.
-3. **So ED needs a rule for what happens at the core.** Allen ruled "it commits" (19 October; §9zl). The two options were:
-   - **"A pattern or piece of matter that reaches the core commits."** It becomes record, so the core keeps it: a total absorber in ED's own terms. Infalling information goes into the record, not lost (Allen's "no information loss"). It passes every bound, and leaves no echo.
+3. **So ED needs a rule for what happens at the core.** It was ruled that it commits (19 October; §9zl). The two options were:
+   - **"A pattern or piece of matter that reaches the core commits."** It becomes record, so the core keeps it: a total absorber in ED's own terms. Infalling information goes into the record, not lost (ED's "no information loss"). It passes every bound, and leaves no echo.
    - **A partly reflecting core.** It needs an ED rule for the reflected fraction, and would predict echoes spaced by ≥ 29 ms (for this remnant) with a strength set by that fraction.
-4. **Whether the core re-emits is constrained, not ruled out.** If it radiates, as Allen's "black holes radiate" papers propose, the surface-glow bound limits how much of the infalling energy comes back out as thermal light.
+4. **Whether the core re-emits is constrained, not ruled out.** If it radiates, as ED's "black holes radiate" papers propose, the surface-glow bound limits how much of the infalling energy comes back out as thermal light.
 
-## 9zl. Allen's rulings on Runs 42–43 (19 October)
+## 9zl. The rulings on Runs 42–43 (19 October)
 
-*Allen, 16:25: "1: Yes — stress pulls, as part of the Lorentz input. 2: The core: commits."*
+*Ruled 19 October: stress pulls, as part of the Lorentz input; the core commits.*
 
 **1. Stress pulls (a tracked input: the Lorentz input in its full form).**
 - **The rule.** Every part of a source draws with GR's weights:
@@ -4157,7 +4163,7 @@ $$
 
 ## 9zm. Run 44: Run 42 on a grid twice as fine, and whether its residual is second order
 
-*19 October 2026. Allen: "do as you recommend". Registered and hashed with its code before the run (`fine/PREREG_44.md`, 14:31 UTC). A trial of the ball alone and the unperturbed ground state at both resolutions is disclosed there. An independent agent checked the run; its corrections and one post hoc scan are included.*
+*19 October 2026. Registered and hashed with its code before the run (`fine/PREREG_44.md`, 14:31 UTC). A trial of the ball alone and the unperturbed ground state at both resolutions is disclosed there. An independent agent checked the run; its corrections and one post hoc scan are included.*
 
 **Question.** The check of Run 42 raised two points:
 - the stress term depended on the stencil (6%), because the ball is only 3 places in radius;
@@ -4236,9 +4242,9 @@ $$
 
 ## 9zn. ED's black-hole radiation papers under option A and "the core commits" (a reading)
 
-*19 October 2026. Allen: "do as you recommend" (step 2: look at re-emission in the papers). An agent read the papers, the Attempt B cards, the derivation attempts and the 12 September review. A second, independent agent checked the quotes and numbers; its corrections are included.*
+*19 October 2026. (step 2: look at re-emission in the papers). An agent read the papers, the Attempt B cards, the derivation attempts and the 12 September review. A second, independent agent checked the quotes and numbers; its corrections are included.*
 
-**Question.** Allen ruled that the core commits what reaches it, and a commitment is never undone. ED's radiation papers (039, 047, 047_5, 050, 052) say black holes radiate. Do the two fit together, and does either give a signal that differs from GR?
+**Question.** It was ruled that the core commits what reaches it, and a commitment is never undone. ED's radiation papers (039, 047, 047_5, 050, 052) say black holes radiate. Do the two fit together, and does either give a signal that differs from GR?
 
 **What the papers say.**
 
@@ -4275,7 +4281,7 @@ $$
    - **The Planck remnant** matters only for primordial black holes.
    - **The Page time** is inherited.
    - **The merger lag (052_5)** predicts only that a lag exists, and is not a signal of the core. It should not be cited as one until its τ_V5 and units are fixed.
-4. **One question needs a ruling: do ED's black holes evaporate?** 039 has the black hole lose mass ($dM/dt<0$). 042 has the core's record only grow, and Allen's ruling makes it permanent. Two readings are consistent with the ruling:
+4. **One question needs a ruling: do ED's black holes evaporate?** 039 has the black hole lose mass ($dM/dt<0$). 042 has the core's record only grow, and the ruling makes it permanent. Two readings are consistent with the ruling:
    - **(a) Yes, they evaporate.** This needs two assumptions:
      - the committing core acts on quantum fields as a horizon would (item 1);
      - the pull, which in the engine is the core's ticking (Run 30), can be lowered by emission at the surface while the record stays. Run 30 allows this but does not supply a mechanism, and the engine has none yet.
@@ -4283,18 +4289,18 @@ $$
      This keeps 039 and 047. If 050's postulates are also adopted, they return the same information to the radiation that the record keeps. That counts it twice, unless the record is classical.
    - **(b) No, they never evaporate.** Nothing lowers the core's pull, and no new mechanism is needed. 039, 047 and 050 do not apply to black holes under option A.
    - **The two differ observably only for small primordial black holes.** Bounds on those from the gamma-ray background assume they evaporate.
-   - **This is Allen's call.**
+   - **This needs a ruling.**
 
-   **Allen ruled (19 October): "my assumption is BHs evaporate."** That is reading (a). Its two assumptions are now tracked: *(Superseded 21 October: Run 68 found that under option 3 with ED's medium the holes do not evaporate, and Allen ruled that ED's holes are stable, reading (b).)*
+   **Ruled (19 October): black holes evaporate.** That is reading (a). Its two assumptions are now tracked: *(Superseded 21 October: Run 68 found that under option 3 with ED's medium the holes do not evaporate, and it was ruled that ED's holes are stable, reading (b).)*
    - the committing core acts on quantum fields as a horizon would;
    - its pull (its ticking) drops by emission at the surface, while its record stays.
 
-   **Allen's framing (19 October): "the precise way to say it is near-max commitment… max commitment is probably an unreachable limit."** A black hole is a core at near-maximum commitment, not a singularity.
+   **The framing (19 October): "the precise way to say it is near-max commitment… max commitment is probably an unreachable limit."** A black hole is a core at near-maximum commitment, not a singularity.
    - This matches the engine: a body's draw throttles itself, so its clock slows but never stops (Run 32; Attempt B: "approaching but never reaching zero return").
    - It also matches Run 43, where the core's surface sits at a small, nonzero clock rate.
    - Strictly, then, there is no true horizon, only a surface very near where one would be. The two working assumptions apply to that surface: it absorbs everything (no echoes), and it radiates as a horizon would.
 
-   **The endpoint is not ruled.** Paper 039's Planck-mass remnant ($M_\star=M_P\approx2.18\times10^{-8}$ kg) came from an earlier session. Allen leans toward full evaporation as simpler, "not committing to it".
+   **The endpoint is not ruled.** Paper 039's Planck-mass remnant ($M_\star=M_P\approx2.18\times10^{-8}$ kg) came from an earlier session. Full evaporation is favoured as simpler, without committing to it.
    - **The question both endpoints share** is whether the radiation carries out the information about what fell in. Paper 050 says it does, through correlations (the Page curve), by two postulates. That is open in mainstream physics too: the black-hole information problem.
    - **A Planck-mass remnant** must hold whatever the radiation does not carry out. If the radiation were purely thermal, that would be everything that ever fell in, an unbounded amount in a Planck mass: the known problem with remnants. If 050 holds, the remnant need hold only a residue (052).
    - **Full evaporation** has no leftover object to fill. "Kept as record" then means kept in the history (the commitments happened), which is what the record already is in ED.
@@ -4305,7 +4311,7 @@ $$
 
 ## 9zo. Run 45: a body at neutron-star strength — does its binding pull and fall like its energy?
 
-*19 October 2026. Allen: "run 45 please". Registered and hashed with its code before the run (`nstar/PREREG_45.md`, 16:12 UTC).*
+*19 October 2026. Registered and hashed with its code before the run (`nstar/PREREG_45.md`, 16:12 UTC).*
 
 *The first launch stopped on an array-shape bug before any result. The fix (`.ravel()`, as `body42.py` does) is disclosed and re-hashed in an amendment (16:16 UTC). Removing it reproduces the original hashes exactly.*
 
@@ -4326,7 +4332,7 @@ $$
 **Part 2: setup.**
 - **Medium:** Run 40c's unbounded mean-field medium, P₀ = 4096, at P₀/p_s = 64 and 256.
 - **The body:** double resolution (R₀ = 6), keeping its proper size, at U_self ≈ 0.056, 0.11 and 0.22.
-- **Stress pulls (Allen's ruling).** The body's stress holds it against its own field and against the pattern's: $S=-\sum_x s_b(x)\,(\mathbf x-\mathbf c)\cdot\nabla U_{\rm bal}(x)$, drawn at weight 1 per direction. This is the first run with stress for the body's own binding.
+- **Stress pulls (the ruling).** The body's stress holds it against its own field and against the pattern's: $S=-\sum_x s_b(x)\,(\mathbf x-\mathbf c)\cdot\nabla U_{\rm bal}(x)$, drawn at weight 1 per direction. This is the first run with stress for the body's own binding.
 - **The pattern:** Run 16's equation, as in Runs 36–44: $-\nabla^2\psi+m^2N^2\psi=\omega^2\psi$. This is a flat-space wave with its mass redshifted; the pattern keeps speed 1. The record calls it the "clock half". It is not the wave equation of a metric with only $g_{tt}$ changed, which would give half the defect found below. Its mass m = 2.5√(0.055/U) keeps its shape.
 - **Fall** is the response of the body's energy at infinity (its total draw E: z is linear in the draw, so the far field sees exactly E) to a uniform outside potential, a shift of the background P → P₀e^{−U_ext}:
 $$
@@ -4425,7 +4431,7 @@ The independent check reproduced the diagnosis's ω values to 10 digits and its 
 
 ## 9zp. Run 46: the full pattern rule for massive patterns
 
-*19 October 2026. Allen: "do as you recommend". Registered and hashed with all its scripts, including the analysis, before the run (`fullrule/PREREG_46.md`, 17:29 UTC). Trials of the strengths in the third medium, of the body at triple resolution, and a code check on uniform fields are disclosed there. Run on two cores as two fixed case lists. The post hoc fits (`posthoc46.py`) were written after all results. An independent agent checked the run, found the source of the draw-based scatter, and its corrections are included.*
+*19 October 2026. Registered and hashed with all its scripts, including the analysis, before the run (`fullrule/PREREG_46.md`, 17:29 UTC). Trials of the strengths in the third medium, of the body at triple resolution, and a code check on uniform fields are disclosed there. Run on two cores as two fixed case lists. The post hoc fits (`posthoc46.py`) were written after all results. An independent agent checked the run, found the source of the draw-based scatter, and its corrections are included.*
 
 **Question.** Run 45's K45c failed. The engine's massive patterns, coded as flat-space waves with a redshifted mass, let bound energy fall with the wrong weight, Δ = −2K/ω². Does the pattern rule adopted on 17 October fix that, when read for massive patterns as the wave equation in the metric it gives light?
 
@@ -4505,7 +4511,7 @@ The weak-field expansion was stated before running: at first order the total dra
   - Whether a 4% active/passive split for bound patterns conflicts with binary-pulsar tests is not computed.
 
 **Reading.**
-1. **The full pattern rule removes Run 45's first-order failure.** The control reproduces the coded equation's −2K/ω² defect. The full rule's ω-based defect extrapolates to −4×10⁻⁴ (post hoc). The weak-field pull still counts binding once (K46a). **The written form, the wave equation in −N²dt² + N⁻²dx² with the Tolman/Komar draw, is recommended as the engine's rule for massive patterns. Allen's call, since the form is a reading of his 17 October rule.**
+1. **The full pattern rule removes Run 45's first-order failure.** The control reproduces the coded equation's −2K/ω² defect. The full rule's ω-based defect extrapolates to −4×10⁻⁴ (post hoc). The weak-field pull still counts binding once (K46a). **The written form, the wave equation in −N²dt² + N⁻²dx² with the Tolman/Komar draw, is recommended as the engine's rule for massive patterns. It needs a ruling, since the form is a reading of the 17 October rule.**
 2. **The registered fall test is undecided, not passed.** The draw-based measure's scatter is lookup-table noise. A finer table gives about +1×10⁻³ in the one case rerun, and the ω-based measure gives |Δ_∞| ≲ 7×10⁻⁴ (post hoc). The engine's verdict at neutron-star strength is "no first-order failure; second-order fall consistent with zero at about 10⁻³, pending a registered rerun with a finer table". The pulsar triple's 2×10⁻⁶ remains far beyond it.
 3. **The strong-field pull miss remains:** −0.20 b at U ≈ 0.22 (4% of the pattern's energy), converged in grid and medium. It is the same kind of second-order bookkeeping departure as Runs 40b and 44. Under option A it matters only inside compact objects and in neutron stars, where its consequence (active against passive mass) is not yet worked out.
 4. **Runs 36–44's first-order pull results are consistent under the full rule for the three analogues tested** (K46a, at U ≈ 0.056 inside a ±0.25 b band), as the weak-field expansion predicted. Their second-order numbers change: like for like, the Run 44 analogue moves from −0.065 b (coded equation, with stress for the body's own binding) to −0.038 b.
@@ -4513,7 +4519,7 @@ The weak-field expansion was stated before running: at first order the total dra
 
 ## 9zq. Run 46b: the fall test with a finer medium table
 
-*20 October 2026. Allen: "do 46b". Registered and hashed with its scripts and dependencies before the run (`fullrule/PREREG_46b.md`, 21:09 UTC on 19 October). Code checks (building the finer tables) are disclosed there. The registration said no case had been computed before. In fact the checker's pre-registration test had computed one of the nine cases, P₀/p_s = 256 double at 65,536 nodes, and its numbers match the registered case to 10⁻⁹. The post hoc fits (`posthoc46b.py`) were written after all results. An independent agent checked the run; its corrections are included.*
+*20 October 2026. Registered and hashed with its scripts and dependencies before the run (`fullrule/PREREG_46b.md`, 21:09 UTC on 19 October). Code checks (building the finer tables) are disclosed there. The registration said no case had been computed before. In fact the checker's pre-registration test had computed one of the nine cases, P₀/p_s = 256 double at 65,536 nodes, and its numbers match the registered case to 10⁻⁹. The post hoc fits (`posthoc46b.py`) were written after all results. An independent agent checked the run; its corrections are included.*
 
 **Question.** Run 46's registered fall test was undecided because the draw-based measure scattered. The check traced the scatter to the medium's piecewise-linear table R(z) (4096 nodes). With a finer table, does the full pattern rule make a bound pattern's binding fall like its energy at neutron-star strength?
 
@@ -4575,7 +4581,7 @@ The weak-field expansion was stated before running: at first order the total dra
 
 ## 9zr. Run 47: can pulsar timing see a neutron star that pulls 4% less than its energy?
 
-*20 October 2026. Allen: "Do 1, then 46c". Registered and hashed with its code before it was run (`apmass/PREREG_47.md`, 23:20 UTC on 19 October). A keyword name in the code was fixed before hashing; nothing was run before. An independent agent checked the run. Its corrections are included: K47a holds by construction; K47b's signal is mostly absorbed by a timing fit; the inertial mass is an assumption; the ζ₂ reading; the first-law statement; the double pulsar.*
+*20 October 2026. Registered and hashed with its code before it was run (`apmass/PREREG_47.md`, 23:20 UTC on 19 October). A keyword name in the code was fixed before hashing; nothing was run before. An independent agent checked the run. Its corrections are included: K47a holds by construction; K47b's signal is mostly absorbed by a timing fit; the inertial mass is an assumption; the ζ₂ reading; the first-law statement; the double pulsar.*
 
 **Question.** At neutron-star compactness (U_self ≈ 0.22), a bound pattern's draw, its **active** mass, is 4% short of its energy at infinity κω (Runs 46–46c).
 - Its fall, by ω, is consistent with zero. So its **passive** mass, taken as the Killing energy's response to a potential, is κω.
@@ -4633,7 +4639,7 @@ Both start from the same initial conditions, set by Kepler with the active masse
      - It is **a possible tension, not computed**.
      - SN 1987A's neutrinos, NICER and GW170817 are not independent tests here: their inferences depend on the equation of state.
 4. **Which energy is inertial decides what the 4% means.** The engine fixes the active mass (the draw) and the fall, but not the inertia.
-   - **Inertia = κω (this run's assumption):** the deficit is invisible at Newtonian order. Post-Newtonian order is open (item 3). *Adopted: inertia = total energy (Allen, 20 October, §10).*
+   - **Inertia = κω (this run's assumption):** the deficit is invisible at Newtonian order. Post-Newtonian order is open (item 3). *Adopted: inertia = total energy (20 October, §10).*
    - **Inertia = the far field, m_A**, as the boosted-field input (Run 34) suggests *(corrected after Run 55's check: the boosted far field carries active momentum, not inertia)*: the draw-based fall then fixes the passive mass. If that fall is zero (the dilation argument, in the continuum), all three masses are equal. The 4% is then only a first-law anomaly: how a star's mass relates to its constituents (item 3, second bullet).
    - **Mixed** (passive by draw, inertial κω): a 4% equivalence-principle violation, excluded by about 10⁴.
 5. **As theory, it is a departure from GR, perhaps partly from the body model.**
@@ -4645,7 +4651,7 @@ Both start from the same initial conditions, set by Kepler with the active masse
 
 ## 9zs. Run 46c: the fall test, settled at the engine's resolution
 
-*20 October 2026. Allen: "Do 1, then 46c". Registered and hashed before the run, with its scripts and main dependencies (`fullrule/PREREG_46c.md`, 23:22 UTC on 19 October; the run started seconds later). Two imported helper modules, `pattern36.py` and `free40c.py`, were not hashed; both predate the registration. Run 46b and its check motivated the choices, as disclosed in the registration: the 262,144-node table, the pooled ε slope, both fit forms, and q = 2.24, which came from Run 46b's ω-based fall. One of the nine cases (P₀/p_s = 256 double) had already been run with this table in Run 46b. The post hoc analysis (`posthoc46c.py`) was written after all results. An independent agent checked the run; its corrections are included, and the dilation argument below is its.*
+*20 October 2026. Registered and hashed before the run, with its scripts and main dependencies (`fullrule/PREREG_46c.md`, 23:22 UTC on 19 October; the run started seconds later). Two imported helper modules, `pattern36.py` and `free40c.py`, were not hashed; both predate the registration. Run 46b and its check motivated the choices, as disclosed in the registration: the 262,144-node table, the pooled ε slope, both fit forms, and q = 2.24, which came from Run 46b's ω-based fall. One of the nine cases (P₀/p_s = 256 double) had already been run with this table in Run 46b. The post hoc analysis (`posthoc46c.py`) was written after all results. An independent agent checked the run; its corrections are included, and the dilation argument below is its.*
 
 **Question.** Does a bound pattern's binding fall like its energy at neutron-star strength (U ≈ 0.22) under the full pattern rule? This time the medium's table has converged, and the fit is fixed in advance. The registration also fixed a **closing rule**: whatever the verdict, the fall line closes at the engine's resolution.
 
@@ -4771,7 +4777,7 @@ $$
 
 ## 9zt. Run 48: the dilation argument, made exact
 
-*20 October 2026. Allen: "do as recommended". Registered and hashed with every imported module before the run (`dilation/PREREG_48.md`, `PREREG_48_49.sha256`). Disclosures:*
+*20 October 2026. Registered and hashed with every imported module before the run (`dilation/PREREG_48.md`, `PREREG_48_49.sha256`). Disclosures:*
 - *The time stamp inside the hash file (06:16 UTC) is self-reported. The file was rewritten at 06:17 to move a note out, with the hashes unchanged. Every hashed file is older than the outputs.*
 - *Runs 48 and 49 were first started as untracked processes, stopped within about 20 s with no output, and restarted as tracked jobs (`RESTART_NOTE.md`).*
 - *One code check (h = 0.9, not a registered point) ran before registering.*
@@ -4870,7 +4876,7 @@ $$
 
 ## 9zu. Run 49: is the 4% pull miss ED's, or the engine's body model?
 
-*20 October 2026. Allen: "do as recommended". Registered and hashed with every imported module before the run (`dilation/PREREG_49.md`; same hash file and restart note as Run 48). One code check (base grid, weak field, not a registered case) ran before registering. The post hoc runs were made after the results and after the independent check: the checker's `check4849/` and my `posthoc49.py`. An independent agent checked the run; its corrections are included and change the reading.*
+*20 October 2026. Registered and hashed with every imported module before the run (`dilation/PREREG_49.md`; same hash file and restart note as Run 48). One code check (base grid, weak field, not a registered case) ran before registering. The post hoc runs were made after the results and after the independent check: the checker's `check4849/` and `posthoc49.py`. An independent agent checked the run; its corrections are included and change the reading.*
 
 **Question.** At neutron-star strength a bound pattern's pull falls 4% short of κω: the miss is −0.20 b (Runs 46–46c). In GR, adding a quantum of Killing energy ħω to a static star raises its mass by ħω to first order. That holds for any equation of state, because an equilibrium star is a stationary point of its mass at fixed baryon number and entropy (Hartle–Sharp).
 
@@ -4952,12 +4958,12 @@ $$
 
 ## 9zv. Run 50: a star in exact hydrostatic balance — does a quantum raise its far field by exactly ħω?
 
-*20 October 2026. Allen: "go ahead as you recommend". Registered and hashed with every imported module before the run (`firstlaw/PREREG_50.md`, 07:43 UTC; the main run started seconds later). Disclosures:*
+*20 October 2026. Registered and hashed with every imported module before the run (`firstlaw/PREREG_50.md`, 07:43 UTC; the main run started seconds later). Disclosures:*
 - *One code check ran before registering, at h = 1, which is not a registered grid. Its numbers are in the registration (`check50.json`, hashed).*
 - *Run 49's check motivated the run.*
 - *The radius scans (`posthoc50.py`; the checker's h = ⅕ scan in `check5051/`) are post hoc, made after K50b came out undecided.*
 - *The reported extras did not finish (below).*
-- *The derivation is mine; an independent agent checked it, and its corrections are included.*
+- *An independent agent checked the derivation, and its corrections are included.*
 
 **Question.** With the body model of Runs 42–46c, a bound pattern's pull at neutron-star strength was 4% short of its energy. That model had three parts: a stress sized by the virial with the rest draw as weight, a proper-size rule, and a fixed homologous shape. Post hoc, Run 49 traced most of the 4% to the stress weight.
 
@@ -5060,7 +5066,7 @@ so the far-field mass D equals E.
 
 ## 9zw. Run 51: a controlled departure from scale-free, and a larger box
 
-*20 October 2026. Allen: "go ahead as you recommend". Registered and hashed with every imported module before the run (`medium51/PREREG_51.md`, 07:35 UTC; the medium run started seconds later). Code checks were limited to building the 120-cell Green's function and a syntax check. An independent agent checked the run; its corrections are included.*
+*20 October 2026. Registered and hashed with every imported module before the run (`medium51/PREREG_51.md`, 07:35 UTC; the medium run started seconds later). Code checks were limited to building the 120-cell Green's function and a syntax check. An independent agent checked the run; its corrections are included.*
 
 **Question.** Run 48 showed that in a scale-free medium the fall defect is purely a grid effect. Post hoc, its check found that the leftover in the engine's real media follows the medium's departure from scale-free, g = c d ln R/dz − 1, through its change across the body, Δg. Does it, when that departure is set by hand?
 
@@ -5102,7 +5108,7 @@ $$
 
 ## 9zx. Run 52: should ED's draw be the variational one?
 
-*20 October 2026. Allen: "for 1, im not sure, so if you have a run to compare, that is best." Registered and hashed with every imported module before the run (`vardraw/PREREG_52.md`, 11:40 UTC). One code check (h = 1, not a registered grid) is disclosed; it motivated recalibrating every star. The identity reading is post hoc, and the independent check sharpened it; its corrections are included.*
+*20 October 2026. Registered and hashed with every imported module before the run (`vardraw/PREREG_52.md`, 11:40 UTC). One code check (h = 1, not a registered grid) is disclosed; it motivated recalibrating every star. The identity reading is post hoc, and the independent check sharpened it; its corrections are included.*
 
 **Question.** Run 50's energy principle holds exactly only in a scale-free medium. ED's field is linear in z, φ = z₀ − z = 6G∗d, and matter feels it through N = R(z)/P₀. So
 $$
@@ -5156,7 +5162,7 @@ $$
    - The rules disagree for a bound quantum by a factor of about 2.
 3. **Under E there is no stationary energy.** ∂ℰ/∂φ ≠ 0, so E_H's derivative is not a passive mass, and comparing identities under E is empty.
 4. **Active/passive are definitions in the code, not measurements.** Action = reaction under V is analytic only; no two-body run was made.
-   - My earlier claim that E would make binaries self-accelerate is **wrong at Newtonian order**: the centre of mass only wobbles (about 6 cm/s for a neutron star with a white dwarf).
+   - The earlier claim that E would make binaries self-accelerate is **wrong at Newtonian order**: the centre of mass only wobbles (about 6 cm/s for a neutron star with a white dwarf).
    - A secular effect arises only at first post-Newtonian order, ζ₂-like and of size ~g_bg, marginal against |ζ₂| < 1.3×10⁻⁵. It is not a strong argument for V.
 5. **Why the ω fall doubles under V.** V has a Maxwell relation, ∂ω/∂U = −∂M_far/∂κ. So a bound quantum's ω fall is its own passive/inertial − 1, equal to b × its far-field miss (6.19 / 5.99 against 6.17 / 5.88 ×10⁻³).
    - Its shift is the g-weighting of the draw the quantum adds, including the star's restructuring: about 2.5 g_bg.
@@ -5175,14 +5181,14 @@ $$
    Rule E breaks the first law at about 0.7 g.
 2. **The medium's equivalence-principle violation is physics of the medium's scale, well defined only under V:** Δ_SEP = M_far/E_H − 1 ≈ ḡ − g_bg. It is not additive (point 5).
    - The pulsar triple (|Δ| ≲ 2.3×10⁻⁶) with Δ ≈ 0.25 g_bg for a star like this one gives g_bg ≲ 9×10⁻⁶, i.e. P₀/(αp_s) ≳ 10⁵ in this toy medium: ED's stated range.
-3. **Recommendation, as registered: adopt V, on consistency grounds.** The check adds a condition, and the choice is Allen's:
+3. **Recommendation, as registered: adopt V, on consistency grounds.** The check adds a condition, and the choice needs a ruling:
    - V assumes the field stays linear in z;
    - a second self-consistent option keeps E's draw and makes the field linear in U instead, which takes the medium out of gravity altogether;
    - inertia = E_H remains an assumption.
 
 ## 9zy. Run 53: the far-field first law, surface-averaged and registered
 
-*20 October 2026. Allen: "go ahead with that and the other recommendations if applicable after the comparison". Registered and hashed before the run (`firstlaw53/PREREG_53.md`, 11:41 UTC).*
+*20 October 2026. Registered and hashed before the run (`firstlaw53/PREREG_53.md`, 11:41 UTC).*
 - *The scans started about 6 minutes after registration. A waiting loop that never fired had to be replaced first; nothing had been computed.*
 - *The h = ¼ scan used in the fit is Run 50's post hoc scan, disclosed as known.*
 - *An independent agent checked the run; its corrections are included.*
@@ -5241,7 +5247,7 @@ The scan points sample a quasi-periodic function, so these standard errors are u
 
 ## 9zz. Run 54: a second family of media, both draw rules
 
-*20 October 2026. Allen: "go ahead with that and the other recommendations if applicable after the comparison". Registered and hashed before the run (`family54/PREREG_54.md`, 11:49 UTC). Run 52's results motivated it, and the identity it tests was post hoc in Run 52. An independent agent checked the run; its corrections are included and retract two of my draft's readings.*
+*20 October 2026. Registered and hashed before the run (`family54/PREREG_54.md`, 11:49 UTC). Run 52's results motivated it, and the identity it tests was post hoc in Run 52. An independent agent checked the run; its corrections are included and retract two of the draft's readings.*
 
 **Question.** Run 52, in one family of media (g ∝ 1/P), suggested two things:
 - under the variational draw (V), a body's equivalence-principle violation is M_far/E_H − 1 ≈ Δḡ;
@@ -5293,10 +5299,10 @@ $$
 
 ## 9zza. Run 55: ED's medium and the pulsar triple, under the variational draw
 
-*20 October 2026. Allen: "adopt the variational draw. proceed as you recommend" (steps 2–3). Registered and hashed before the run (`medium55/PREREG_55.md`, 12:40 UTC). An independent agent checked the run. Its corrections change the reported pulsar numbers but no registered verdict. Disclosed:*
+*20 October 2026. (steps 2–3). Registered and hashed before the run (`medium55/PREREG_55.md`, 12:40 UTC). An independent agent checked the run. Its corrections change the reported pulsar numbers but no registered verdict. Disclosed:*
 - *The registered star at U_self = 0.30 failed (its calibration hit an invalid value). The star table was extended post hoc by continuation (`posthoc55b.py`, `posthoc55c.py`). A first retry (`posthoc55_failed.py`) started from a count 16% too large, a scaling slip, and was stopped.*
 - *The registered mapping of the pulsar's radius to its surface potential was wrong, and the registered analysis clamped C at the table's end instead of extrapolating. Both were corrected post hoc (`posthoc55_pulsar.py`).*
-- *During the run Allen ruled that inertia = total energy (§10).*
+- *During the run it was ruled that inertia = total energy (§10).*
 
 **Question.** Under the adopted variational draw, a body's equivalence-principle violation is (Runs 52, 54)
 $$
@@ -5378,7 +5384,7 @@ rising to about 2.1×10⁵ (3.2×10⁵) if the Γ = 2 star at 12 km is included.
   - only the trace is shown (a full proof needs ∫T^{xx} = 0 along the boost; the trace gives it for spherical or cubic bodies);
   - any equilibrium of a covariant theory satisfies the identity, so it adds no evidence;
   - the adopted Lorentz input covered first post-Newtonian order only.
-- **So inertia = E_H needed an input,** and Allen supplied it: the Lorentz input extended to the complete dynamics (§10). The boosted far field carries the active momentum M_far·v, and the difference from E_H·v is the Nordtvedt effect, as in Brans–Dicke-type theories.
+- **So inertia = E_H needed an input,** and a ruling supplied it: the Lorentz input extended to the complete dynamics (§10). The boosted far field carries the active momentum M_far·v, and the difference from E_H·v is the Nordtvedt effect, as in Brans–Dicke-type theories.
 
 ![Runs 55–56](figures/55_56.png)
 
@@ -5394,7 +5400,7 @@ $$
 
 ## 9zzb. Run 56: housekeeping — a finer scan, Simpson's rule, and a stiffer star
 
-*20 October 2026. Allen: "proceed as you recommend" (step 4). Registered and hashed before the run (`house56/PREREG_56.md`, 12:41 UTC). An independent agent checked the run; its corrections are included. Two deviations are disclosed:*
+*20 October 2026. (step 4). Registered and hashed before the run (`house56/PREREG_56.md`, 12:41 UTC). An independent agent checked the run; its corrections are included. Two deviations are disclosed:*
 - *The scan's 9th point was computed post hoc with the outer loop capped at 30 (`posthoc56_ninth.py`). In the registered run its composite cycled between two states 4×10⁻¹² apart, which never meets the 10⁻¹² stopping test, so it would have run for hours to the 200-iteration cap. The check estimates the cycle's effect on the miss at about 3×10⁻⁷ b.*
 - *The fit's error is discussed beyond the registered form, at the check's suggestion.*
 
@@ -5462,7 +5468,7 @@ $$
 
 ## 9zzc. What fixes P₀/p_s? ED's clock and medium papers (a reading)
 
-*20 October 2026. Allen: "do as you recommend. check the repo and read any clock and medium papers". The three repositories (`ed-generative`, `event-density`, `event-density-ontology-models`) were fetched; they were current (last commits 11 October, 12 September and 11 October). An agent surveyed the two large repositories for clock and medium papers, and I read the core ones and the ontology-models repository myself. Point 4 is my inference, not the corpus's. An independent agent checked the quotes against the papers and the inference against the engine's code; its corrections are included.*
+*20 October 2026. The three repositories (`ed-generative`, `event-density`, `event-density-ontology-models`) were fetched; they were current (last commits 11 October, 12 September and 11 October). An agent surveyed the two large repositories for clock and medium papers, and the core ones and the ontology-models repository were read in full. Point 4 is an inference, not the corpus's. An independent agent checked the quotes against the papers and the inference against the engine's code; its corrections are included.*
 
 **The question.** Run 55 left ED's strong-equivalence-principle prediction bounded but not sharp:
 $$
@@ -5501,14 +5507,14 @@ $$
   - These count *commitments*, which the engine puts only in matter. ED's possibility-like b is only ever normalized (b = 1), so the corpus has no per-place number for vacuum possibility.
 - **The large numbers on offer are cosmological** (10⁶¹, 10¹²², Θ_ED; `docs/Scoping_ThetaED_FirstPrinciples_2026-07-06.md`). The corpus warns against matching them: "it's easy to take a big number like 10¹²² and find matches", and "ED's 10¹²² is 1/Λ taken from observation" (`Derivation Attempts/ED_Attempt_03/Specificity_Mechanisms.md`).
 
-**4. One structural tie, in the engine (my inference, checked against the code).**
+**4. One structural tie, in the engine (an inference, checked against the code).**
 - **The field.** In a scale-free medium the engine's coupling per unit of draw is set by p_s:
 $$
 U=\frac{6}{c}\,G_{\rm lat}\!*s,\qquad c=\frac{0.99}{\ln(1+1/p_s)}\approx0.99\,p_s ,
 $$
   so a body drawing S units per tick has U → 3S/(2πc r), with r counted in hops (`zrp35.py`: the traffic equation gives Δz = 6(s − s̄)).
 - **The draw.** A reserved pair renews at rate (P_a + P_b)/H, each renewal takes one unit from each of its places, and H = 2ħ_t P₀. So a pair draws S = 2/ħ_t per tick.
-- **Light speed.** Light crosses ħ_t hops per vacuum hold. That is a ratio of counts, so Allen's ruling that the tick is not physical time does not enter.
+- **Light speed.** Light crosses ħ_t hops per vacuum hold. That is a ratio of counts, so the ruling that the tick is not physical time does not enter.
 - **The energy.** ED says mass is a rate of becoming, so the pair's rest energy is E = aħ/T_hold.
 - **The result.** Equating U to GE/(c⁴r):
 $$
@@ -5540,7 +5546,7 @@ $$
 
 *Note (21 October): these ED results use ED's original rule for space. Under the provisional option 3 (Run 65, §9zzl) ED's stars and exterior are GR's; the results here stand if option 3 is reversed.*
 
-*20 October 2026. Allen: "do as you recommend" (step 2). Registered and hashed before the run (`eos57/PREREG_57.md`, 15:37 UTC). An independent agent checked the run; its corrections are included.*
+*20 October 2026. (step 2). Registered and hashed before the run (`eos57/PREREG_57.md`, 15:37 UTC). An independent agent checked the run; its corrections are included.*
 
 **Question.** Run 55 left the pulsar's coefficient C spread over 0.33–0.49, from its unmeasured radius and two polytropes. With a realistic equation of state, the star of the pulsar's measured mass has a definite compactness. What are its C and U_s in ED's own equations? And, as reported (not registered as a test), what is ED's maximum neutron-star mass?
 
@@ -5598,11 +5604,11 @@ $$
 **Reading.**
 1. **With realistic equations of state, the pulsar's coefficient is C ≈ 0.40–0.49,** and the triple requires P₀/p_s ≳ 1.7–2.1×10⁵ (red noise) or 2.7–3.3×10⁵ (the planet model). This replaces Run 55's range of 1.4–2.9×10⁵. The remaining spread is the equation of state.
 2. **ED's static strong field holds less mass than GR's.** The source term (e + 3p)e^{2U} grows deep in the well (e^{2U} ≈ 5.5–6 at the centre of a maximum-mass star), so stars turn over sooner. **With SLy, APR4 or MPA1 as they are, ED cannot hold the measured 2 M☉ pulsars.** Whether any allowed equation of state can is Run 59.
-3. **Scope.** Option A (§9zm: "outside a compact object the field is GR's") covers black-hole exteriors only. The neutron-star interiors here are ED's own static equations. Whether a failure here could be absorbed by extending that tracked input to neutron-star interiors was put to Allen. He ruled (20 October) that ED's interior equations bind (§10).
+3. **Scope.** Option A (§9zm: "outside a compact object the field is GR's") covers black-hole exteriors only. The neutron-star interiors here are ED's own static equations. Whether a failure here could be absorbed by extending that tracked input to neutron-star interiors was put up for a ruling. It was ruled (20 October) that ED's interior equations bind (§10).
 
 ## 9zze. Run 58: a fifth grid for the far-field first law
 
-*20 October 2026. Allen: "do as you recommend" (step 3, housekeeping). Registered and hashed before the run (`grid58/PREREG_58.md`, 15:37 UTC). An independent agent checked the run; its corrections are included.*
+*20 October 2026. (step 3, housekeeping). Registered and hashed before the run (`grid58/PREREG_58.md`, 15:37 UTC). An independent agent checked the run; its corrections are included.*
 
 **Question.** Run 56 passed the far-field first law on the line, with a post hoc 9th point, and could not tell whether the miss shrinks as h or h². Does a fifth grid settle it?
 
@@ -5648,7 +5654,7 @@ $$
 
 *Note (21 October): these ED results use ED's original rule for space. Under the provisional option 3 (Run 65, §9zzl) ED's stars and exterior are GR's; the results here stand if option 3 is reversed.*
 
-*20 October 2026. It follows the conditional recommendation after Run 57, under Allen's standing "do as you recommend". Registered and hashed before the run (`mmax59/PREREG_59.md`, 15:46 UTC). An independent agent checked the run; its corrections are included.*
+*20 October 2026. It follows the conditional recommendation after Run 57. Registered and hashed before the run (`mmax59/PREREG_59.md`, 15:46 UTC). An independent agent checked the run; its corrections are included.*
 
 **Question.** In ED's static equations the standard equations of state give maximum masses of 1.65–1.91 M☉ (Run 57). PSR J0740+6620 is 2.08 ± 0.07 M☉. The equation of state above about twice nuclear density is uncertain. Can **any** matter that respects causality and nuclear theory hold 2.08 M☉ in ED?
 
@@ -5692,13 +5698,13 @@ This is the standard maximum-mass construction (Rhoades & Ruffini 1974; Koranda,
    - **The gravity-independent test is nuclear theory itself:** chiral effective field theory up to about 1.1–2 n_sat, causality, and perturbative QCD carried down from high density. ED's required pressures (for example about 55 MeV/fm³ at 2 n_sat on the softer route) can be set against those bands directly. That has not been done yet.
    - **K59a's PASS rules out only a causal-limit falsification.** It is not support for ED.
 3. **Stability.** Failure-type statements need no stability criterion: along each sequence M_far is a damped spiral, so no static equilibrium is heavier than the turning point (the check). Pass-type statements use the turning point as the stability limit, as in GR, because ED's statics come from one action. Stability beyond it is not derived.
-4. **Scope.** These are ED's own interior equations. Option A's GR input covers black-hole exteriors only (§9zm), and Allen ruled (20 October) that ED's interior equations bind for neutron stars (§10).
+4. **Scope.** These are ED's own interior equations. Option A's GR input covers black-hole exteriors only (§9zm), and it was ruled (20 October) that ED's interior equations bind for neutron stars (§10).
 
 ## 9zzg. Run 60: can ED hold 2 M☉ with matter that nuclear theory and QCD allow?
 
 *Note (21 October): these ED results use ED's original rule for space. Under the provisional option 3 (Run 65, §9zzl) ED's stars and exterior are GR's; the results here stand if option 3 is reversed.*
 
-*20 October 2026. Allen: "1. let's go with they bind. do 2." (ED's interior equations bind for neutron stars; step 2 is the gravity-independent test). Registered and hashed before the run (`nuc60/PREREG_60.md`, 17:09 UTC). An independent agent reproduced it with its own code; its corrections are included.*
+*20 October 2026. (ED's interior equations bind for neutron stars; step 2 is the gravity-independent test). Registered and hashed before the run (`nuc60/PREREG_60.md`, 17:09 UTC). An independent agent reproduced it with its own code; its corrections are included.*
 
 **Question.** Run 59 limited dense matter only by causality. Nuclear theory and QCD limit it further without assuming any theory of gravity. Can ED hold PSR J0740+6620 (2.08 ± 0.07 M☉) with matter they allow?
 
@@ -5748,7 +5754,7 @@ ED's stars of 2.08 and 1.94 M☉ are found with Run 57's solver, and the QCD tes
 
 *Note (21 October): these ED results use ED's original rule for space. Under the provisional option 3 (Run 65, §9zzl) ED's stars and exterior are GR's; the results here stand if option 3 is reversed.*
 
-*20 October 2026. Allen: "do as you recommend". The steps:*
+*20 October 2026. The steps:*
 1. *derive ED's exterior beyond first order and its tidal Love numbers, then use GW170817 and the NICER radii;*
 2. *tighten K60b with a softer chiral-EFT base;*
 3. *track the hop as an open tension (§10, §11).*
@@ -5846,7 +5852,7 @@ Radii are areal, in km; the GR-equivalent radius in brackets is the one with the
 4. **Provenance.** The current files match the amendment's hashes, and the registration text is unchanged apart from the added amendment section. The original `star61.py` was not kept, so that only `cs2` changed rests on this record rather than on a hash. The analytic sound speed it now uses is correct (c_s² = KΓn^{Γ−1}/h = Γp/(e + p) for a polytropic piece).
 
 **Reading.**
-1. **ED survives the tidal and radius tests on one route only.** With ED's interior equations binding (Allen's ruling), the heaviest pulsars, nuclear theory, QCD and GW170817 together leave ED one kind of dense matter:
+1. **ED survives the tidal and radius tests on one route only.** With ED's interior equations binding (the ruling), the heaviest pulsars, nuclear theory, QCD and GW170817 together leave ED one kind of dense matter:
    - like chiral EFT up to about 2 n_s (c_s² ≈ 0.03–0.17);
    - then a sharp stiffening, to c_s² of at least 0.7–0.9 (depending on the base below), from about 2 n_s up to the centres of the heaviest stars (2.5–3.4 n_s).
    - Route (a), stiff from 1.1 n_s, is excluded by GW170817 and disfavoured by J0437.
@@ -5858,7 +5864,7 @@ Radii are areal, in km; the GR-equivalent radius in brackets is the one with the
 
 *Note (21 October): these ED results use ED's original rule for space. Under the provisional option 3 (Run 65, §9zzl) ED's stars and exterior are GR's; the results here stand if option 3 is reversed.*
 
-*20 October 2026. Allen: "do as you recommend" (step 1: set route (b)'s pressure at 2–4 n_s against the heavy-ion collision bounds, which come from collision experiments, not gravity). Registered and hashed before the run (`hic62/PREREG_62.md`, 19:09 UTC). An independent agent checked it; its corrections are included.*
+*20 October 2026. (step 1: set route (b)'s pressure at 2–4 n_s against the heavy-ion collision bounds, which come from collision experiments, not gravity). Registered and hashed before the run (`hic62/PREREG_62.md`, 19:09 UTC). An independent agent checked it; its corrections are included.*
 
 **Question.** Runs 60–61 leave ED one kind of neutron-star matter: like chiral EFT up to about 2 n_s, then a sharp stiffening (c_s² ≳ 0.7–0.9) up to the centres of the heaviest stars. Gold-nucleus collisions compress nuclear matter to 2–4.5 n_s in the laboratory, and the flow of the debris measures its pressure, with no theory of gravity involved. Do they allow the matter ED needs?
 
@@ -5987,7 +5993,7 @@ $$
 
 *Note (21 October): these ED results use ED's original rule for space. Under the provisional option 3 (Run 65, §9zzl) ED's stars and exterior are GR's; the results here stand if option 3 is reversed.*
 
-*20 October 2026. Allen: "do as you recommend" (step 2: derive ED's two-body motion beyond first order, the condition for GW170817's tidal bound to apply to ED). This is a derivation, not a registered test: the numbers below are exact and were derived before any comparison was set up, so nothing here is scored. An independent agent checked it; its corrections are included.*
+*20 October 2026. (step 2: derive ED's two-body motion beyond first order, the condition for GW170817's tidal bound to apply to ED). This is a derivation, not a registered test: the numbers below are exact and were derived before any comparison was set up, so nothing here is scored. An independent agent checked it; its corrections are included.*
 
 **Question.** GW170817's tidal bound (Run 61) and the gravitational-wave tests of GR assume the inspiral's phase follows GR's to 3.5 post-Newtonian orders. ED matches GR at first order (Run 34). Where does it first differ, and by how much?
 
@@ -6022,7 +6028,7 @@ $$
 
 **What the check added.**
 1. **The algebra is confirmed by hand:** the orbit formulas, the series (ln x = ln y − y + y²/6 + y³/9; ln E = −x/2 + x²/4 + 2x³ + (517/72)x⁴), the ISCO (4y² − 6y + 1 = 0) and the light ring. The TaylorF2 map and Δφ₄ = −10 are confirmed.
-2. **Test bodies do move on geodesics here.** The adopted pattern rule (Run 46) is exactly the Klein–Gordon equation in −N²dt² + N⁻²dx², whose wave packets follow its geodesics. For bodies at relativistic speed this rests on Allen's ruling that inertia = total energy, up to the strong-equivalence-principle term (≲ 10⁻⁵, Run 55). The exterior applies when the central body is an ED star.
+2. **Test bodies do move on geodesics here.** The adopted pattern rule (Run 46) is exactly the Klein–Gordon equation in −N²dt² + N⁻²dx², whose wave packets follow its geodesics. For bodies at relativistic speed this rests on the ruling that inertia = total energy, up to the strong-equivalence-principle term (≲ 10⁻⁵, Run 55). The exterior applies when the central body is an ED star.
 3. **What ED's rules fix and do not fix.** Fixed: the test-mass dynamics in this exterior; the 1PN two-body dynamics for any mass ratio (γ = β = 1, no preferred-frame terms); the leading quadrupole flux. Not fixed, so each needs a ruling:
    - **(i) option A for binaries:** does "GR's exterior" cover the near zone of a binary black hole, or the black hole of a neutron-star–black-hole binary, or only isolated holes?
    - **(ii) the two-body field beyond first order:** does the boosted-rest-field input hold at O(v⁴) and O(v²U); how do two bodies' fields combine (each draw is redshifted by the other's field, and the metric is exponential in the total U); what is the current field at O(v³)?
@@ -6041,7 +6047,7 @@ $$
 
 ## 9zzk. Run 64 (a reading, not scored): what ED's rules leave open beyond first order
 
-*20–21 October 2026. Allen: "for 1, go with reading 2. use your recommendations for 2-5." Writing ruling 2 out precisely enough to derive ED's second-order two-body dynamics showed that one choice it hides is a decision about ED's statics. This section sets out what is fixed, the decision, and what each option implies. Nothing here is scored. An independent agent checked it; its corrections are included.*
+*20–21 October 2026. Writing ruling 2 out precisely enough to derive ED's second-order two-body dynamics showed that one choice it hides is a decision about ED's statics. This section sets out what is fixed, the decision, and what each option implies. Nothing here is scored. An independent agent checked it; its corrections are included.*
 
 **What the rulings fix.**
 - **First order is GR's, for any masses.** ED's g₀₀ = −e^{−2U_T}, where each body draws by its redshifted Tolman draw, gives
@@ -6115,9 +6121,9 @@ The coefficients are exact rational series (`open64/testmass_family.py`; the che
 
 ## 9zzl. Run 65: ED's static field equation is GR's lapse equation; option 3's rule for space
 
-*21 October 2026. Allen: "let's chose 3, provisionally" (06:36), then "go ahead" (06:41). Registered and hashed before the run (`rule65/PREREG_65.md`, 04:44 UTC). An independent agent checked it; its corrections are included.*
+*21 October 2026. Option 3 chosen provisionally. Registered and hashed before the run (`rule65/PREREG_65.md`, 04:44 UTC). An independent agent checked it; its corrections are included.*
 
-**Question.** Allen provisionally chose option 3 (§9zzk): all binding tension shears space and acts back on the cadence field, as in GR. What is that rule for space when written to all orders? What does it do to ED's stars and holes, and what in ED's static gravity is left of its own?
+**Question.** Option 3 was chosen provisionally (§9zzk): all binding tension shears space and acts back on the cadence field, as in GR. What is that rule for space when written to all orders? What does it do to ED's stars and holes, and what in ED's static gravity is left of its own?
 
 **The identity.** Write a static metric in isotropic coordinates as ds² = −N²dt² + ψ⁴(dr² + r²dΩ²).
 - **GR's equation for the clock rate** (its R₀₀ equation) is
@@ -6171,7 +6177,7 @@ $$
      - A static mass now has GR's horizon, reversing Run 32's "no horizon".
      - Its shadow is GR's (Run 28's +4.6% goes).
      - ED's core sits where N = 0, consistent with Run 43.
-     - For static holes, option A follows from ED's lapse equation plus option 3's rule for space. For rotating holes (Runs 39, 41) the rotating case is not derived, so option A remains an input there. *Since ruled (21 October, on my recommendation): option 3 covers the current field, so a rotating hole's far exterior is Kerr to O(p_s/P∞); its near zone is Kerr's too under the provisional ruling of Run 69 (§10).*
+     - For static holes, option A follows from ED's lapse equation plus option 3's rule for space. For rotating holes (Runs 39, 41) the rotating case is not derived, so option A remains an input there. *Since ruled (21 October): option 3 covers the current field, so a rotating hole's far exterior is Kerr to O(p_s/P∞); its near zone is Kerr's too under the provisional ruling of Run 69 (§10).*
    - **Strong-field engine runs (44–56).** These ran on ED's rule for space at neutron-star strength. Their structural results (exact fall in a scale-free medium; the first law, which GR shares) do not depend on that rule. Their strong-field numbers would shift and are to be re-read, not rerun.
 
 **What the check added.**
@@ -6185,7 +6191,7 @@ $$
    - **It revises ruling 2 from second order on.** Its back-reaction is the field acting on U in vacuum: in Schwarzschild U = −ln N = M/r + M³/(12r³) + …, so ∇²U ≠ 0 outside matter. Ruling 2's "the vacuum draws nothing" and "g₀₀ = −e^{−2U}" therefore hold only at first order.
    - **The engine's medium cannot carry it as built.** The medium has a curl-free flux, a flat Laplacian and an exponential clock, so it cannot produce GR's lapse at O(U³). A natural implementation (the agent's inference): possibility hops on the sheared space, with flux √γγ^{ij}∂_jP; the clock is N ∝ P; the sinks are the Komar draws. That gives D²N = 4πN(e + 3p) with no vacuum draw, and β = 1 comes from ψ rather than from the logarithmic outflow. The logarithmic medium's role, and the reason for p_s (Runs 22–24), would then have to be re-derived. *(Both costs revised by Run 66, §9zzm: on the medium's space γ̃ = N²g the vacuum draws nothing to all orders, and this sketch is the engine's own medium hopping on γ̃, in the scale-free limit.)*
 4. **The identification is honest as disclosed, but not unique.** Deser's argument needs a first-order Lagrangian, gauge invariance and no extra fields, and the field's stress tensor is ambiguous up to superpotentials (Padmanabhan 2008).
-5. **Rotation is open.** For rotating holes, Kerr follows by uniqueness only if option 3 also puts the current field g₀ᵢ in GR's nonlinear form; ruling 2 currently builds it from boosted draws. *Ruled 21 October, on my recommendation: yes (§10).*
+5. **Rotation is open.** For rotating holes, Kerr follows by uniqueness only if option 3 also puts the current field g₀ᵢ in GR's nonlinear form; ruling 2 currently builds it from boosted draws. *Ruled 21 October: yes (§10).*
 6. **Near-horizon shell.** Where N ≲ p_s/P₀ ≲ 10⁻⁵, the medium's g = p_s/P is no longer small. So option 3 is Schwarzschild except in a thin shell at redshift ≳ 10⁵. This is unexamined; Run 43's "the core commits" may cover it. *Examined in Run 67 (§9zzn).*
 7. **No go-back criterion is triggered.** GR is a consistent all-orders theory. No first-order result is lost. No data that option 1 passes is failed by option 3.
 
@@ -6208,8 +6214,8 @@ $$
 
 ## 9zzm. Run 66: option 3 in ED's own variables, and the strong-equivalence-principle formula under it
 
-*21 October 2026. Allen: "go ahead as recommended" (08:02), step 1. Registered and hashed before the run (`sep66/PREREG_66.md`, 06:25 UTC; Amendment 1 at 06:27 UTC, before any result was seen). An independent agent checked it; its corrections are included.*
-- *Disclosed: the claims were derived before registration, in my own working. Smoke tests on unregistered stars, whose results I saw, informed two thresholds (listed in the registration).*
+*21 October 2026. Step 1. Registered and hashed before the run (`sep66/PREREG_66.md`, 06:25 UTC; Amendment 1 at 06:27 UTC, before any result was seen). An independent agent checked it; its corrections are included.*
+- *Disclosed: the claims were derived before registration, in working notes. Smoke tests on unregistered stars, whose results were seen, informed two thresholds (listed in the registration).*
 - *Amendment 1: the registered Newton tolerance (10⁻¹³) was below the solver's noise floor, and the first star stopped at 7×10⁻¹³. It was set to 10⁻¹¹; no test threshold changed. The original files and the failed log are kept.*
 
 **Question.** Run 65 found that ED's static field equation is GR's equation for the clock rate, and that option 3 changes only the rule for space. Under option 3, is the strong-equivalence-principle violation still Δ ≈ C p_s/P₀, with Run 65's C, or does the formula change? And what does the engine's medium need in order to carry option 3?
@@ -6243,7 +6249,7 @@ The variational draw (rule V, adopted 20 October) is T(1 + g), with T the Komar 
 $$
 E=\int\!\Big[\frac{|\tilde\nabla\varphi|^2}{8\pi}-\frac{\tilde R}{16\pi}+\frac{e}{N^2}\Big]\sqrt{\tilde\gamma}\,d^3x=\int T,
 $$
-which is the ADM mass when ε = 0. Inertia = E (Allen's ruling of 20 October). An outside potential enters only through the background, so by Hellmann–Feynman the passive mass is m_p = −dE/dU_ext = ∫(1 + g)T/(1 + g_bg), equal to the far-field mass. Hence
+which is the ADM mass when ε = 0. Inertia = E (the ruling of 20 October). An outside potential enters only through the background, so by Hellmann–Feynman the passive mass is m_p = −dE/dU_ext = ∫(1 + g)T/(1 + g_bg), equal to the far-field mass. Hence
 $$
 \Delta=\frac{m_p}{E}-1=\frac{1+\bar g}{1+g_{\rm bg}}-1=\frac{\varepsilon\,C}{1+\varepsilon},\qquad C=\Big\langle\frac1N\Big\rangle_{T}-1 ,
 $$
@@ -6309,9 +6315,9 @@ $$
 
 ## 9zzn. Run 67: the near-horizon shell under option 3, with ED's medium
 
-*21 October 2026. Allen: "go ahead as recommended" (08:02), step 4. Registered and hashed before the run (`shell67/PREREG_67.md`, 06:30 UTC). The claims were derived before registration; K67b and K67d check analytic forms numerically, while K67a and K67c are computations whose outcome was not known. Smoke tests on unregistered inputs are disclosed in the registration. An independent agent checked the run; its corrections are included.*
+*21 October 2026. Step 4. Registered and hashed before the run (`shell67/PREREG_67.md`, 06:30 UTC). The claims were derived before registration; K67b and K67d check analytic forms numerically, while K67a and K67c are computations whose outcome was not known. Smoke tests on unregistered inputs are disclosed in the registration. An independent agent checked the run; its corrections are included.*
 
-**Question.** Under option 3 a static hole looks like Schwarzschild's until possibility runs low. Run 65's check flagged the shell where N ≲ p_s/P₀, where the medium's g = p_s/P is no longer small. What happens there, and how does it relate to Run 43's core, which Allen ruled "commits"?
+**Question.** Under option 3 a static hole looks like Schwarzschild's until possibility runs low. Run 65's check flagged the shell where N ≲ p_s/P₀, where the medium's g = p_s/P is no longer small. What happens there, and how does it relate to Run 43's core, which was ruled to commit?
 
 **1. The static vacuum, exactly.** In vacuum the equations for (γ̃, φ) do not involve the medium (§9zzm), so they are Schwarzschild's, with a parameter m:
 $$
@@ -6371,13 +6377,13 @@ Inside it, the area grows again toward the surface.
 3. **Two phrases were overstated and are reworded.**
    - "Commits as a consequence": the geometry gives a curvature singularity reached in finite proper time; "commits" is ED's reading of it. Formation is not computed, and under option 3 Buchdahl's bound (R > 9M/4) keeps static stars out of this region, so the shell describes the end state of a collapse that has not been modelled. At P → 0 matter's pairs cannot renew, so whether matter commits or dissolves is a reading, not a result.
    - "Run 43's first echo row superseded": rather, a reflecting wall does not arise in the static vacuum solution. The throat reflects weakly (|R| changes by at most 1.2×10⁻⁵ at ε = 5×10⁻⁶), with a tortoise delay of about 16.8 M from the light ring to the throat.
-4. **A conflict with the ruling that black holes evaporate.** The static hole has κ = 0 and no event horizon, so its Hawking temperature is zero. The agent's rough estimate, not computed: after a collapse, thermal emission would last only about (4/3)M ln(1/ε), a few tens of M. The 19 October ruling borrowed Kerr's κ under option A. This needs its own check. *(Checked in Run 68: the holes do not evaporate; the estimate's duration was wrong, 8M ln(1/ε) not (4/3)M. Allen ruled on 21 October that ED's holes are stable.)*
+4. **A conflict with the ruling that black holes evaporate.** The static hole has κ = 0 and no event horizon, so its Hawking temperature is zero. The agent's rough estimate, not computed: after a collapse, thermal emission would last only about (4/3)M ln(1/ε), a few tens of M. The 19 October ruling borrowed Kerr's κ under option A. This needs its own check. *(Checked in Run 68: the holes do not evaporate; the estimate's duration was wrong, 8M ln(1/ε) not (4/3)M. It was ruled on 21 October that ED's holes are stable.)*
 
 **Reading.**
 1. **Under option 3, ED's hole is Schwarzschild outside, to O(ε), and ends where possibility runs out.**
    - Its clock stops not at GR's horizon but where GR's lapse would be ε/(1 + ε), about 2mε² further out.
    - That surface is at infinite tortoise distance and infinite static proper distance, absorbs everything that falls in, and tears infallers apart in finite proper time.
-2. **If this geometry forms, an infaller meets a curvature singularity at the zero-clock surface in finite proper time; in ED's terms it commits there.** That is consistent with Allen's ruling of 19 October, not derived from it. The surface absorbs waves because it is at infinite tortoise distance. So:
+2. **If this geometry forms, an infaller meets a curvature singularity at the zero-clock surface in finite proper time; in ED's terms it commits there.** That is consistent with the ruling of 19 October, not derived from it. The surface absorbs waves because it is at infinite tortoise distance. So:
    - a reflecting wall does not arise in the static vacuum solution, and the throat sends back at most 1.2×10⁻⁵ of a wave: no echoes at that level;
    - for a spinning hole this is not computed; under the provisional ruling of Run 69 its zero-clock surface sits just outside the horizon, as here.
 3. **New:** a throat, a minimum of the area, sits where GR's lapse is (ε/2)^{1/3}, at a redshift of about 74 for ε = 5×10⁻⁶. It is 0.05% larger than GR's horizon and is invisible to waves at the 10⁻⁵ level.
@@ -6389,7 +6395,7 @@ Inside it, the area grows again toward the surface.
 
 ## 9zzo. How ED's medium carries option 3 (a reading, not scored)
 
-*21 October 2026. Allen: "go ahead as recommended" (08:02), step 3: sketch the engine's medium under option 3, and re-check β = 1, clock universality and the role of p_s. This is a reading built on Runs 66–67; nothing new was run for it. The independent agent checked it with Runs 66–67; its corrections are included.*
+*21 October 2026. Step 3: sketch the engine's medium under option 3, and re-check β = 1, clock universality and the role of p_s. This is a reading built on Runs 66–67; nothing new was run for it. The independent agent checked it with Runs 66–67; its corrections are included.*
 
 **1. What the engine has.**
 - A flat cubic lattice.
@@ -6436,9 +6442,9 @@ In weak fields γ̃ is flat to O(U²), so every first-order engine result (Runs 
 
 ## 9zzp. Run 68: do ED's holes evaporate under option 3?
 
-*21 October 2026. Allen: "let's see if BHs do evaporate" (09:04). Registered and hashed before the run (`evap68/PREREG_68.md`, 07:11 UTC). The claims were derived before registration; the run checks them numerically. A smoke test at an unregistered ε is disclosed in the registration. An independent agent checked the run; its corrections are included, among them two words ("burst", "thermal") that overstated what is emitted.*
+*21 October 2026. Registered and hashed before the run (`evap68/PREREG_68.md`, 07:11 UTC). The claims were derived before registration; the run checks them numerically. A smoke test at an unregistered ε is disclosed in the registration. An independent agent checked the run; its corrections are included, among them two words ("burst", "thermal") that overstated what is emitted.*
 
-**Question.** Run 67's static hole, under option 3 with ED's medium, has a cold zero-clock surface (κ = 0) and no event horizon. Allen ruled on 19 October, under option A with Kerr's surface gravity borrowed, that black holes evaporate. Does a hole formed by collapse in this geometry radiate as Hawking's does, and for how long?
+**Question.** Run 67's static hole, under option 3 with ED's medium, has a cold zero-clock surface (κ = 0) and no event horizon. It was ruled on 19 October, under option A with Kerr's surface gravity borrowed, that black holes evaporate. Does a hole formed by collapse in this geometry radiate as Hawking's does, and for how long?
 
 **Method.** The exterior is Run 67's (m = 1):
 $$
@@ -6522,10 +6528,10 @@ $$
    - The transient carries about one quantum per field in the radial sector, about 10⁻² in 4D.
    - In ED's terms: possibility runs out (P ≈ 2.7 p_s) before the redshift can keep growing exponentially, and Hawking's flux needs that growth.
    - **Assumed:** a smooth collapse ray map at the endpoint; an absorbing zero-clock surface; p_s ≫ 1; a non-rotating hole; test fields. *(Run 71: for a dust shell the endpoint map is a power law, not smooth; the switch-off holds, with a −1/(64πu²) tail; with pressure the matter bounces.)* The collapse, including its passage through the throat, is not modelled.
-2. **This conflicts with Allen's ruling of 19 October that black holes evaporate.** That ruling was made under option A, with Kerr's surface gravity borrowed. The choices:
+2. **This conflicts with the ruling of 19 October that black holes evaporate.** That ruling was made under option A, with Kerr's surface gravity borrowed. The choices:
    - **(i) Revise it:** ED's holes are stable. What falls in stays as record, so "no information loss" holds trivially. This follows from the adopted rules with no new input.
    - **(ii) Keep evaporation as a tracked input**, by a mechanism outside the static mean-field medium: the core's own radiation in ED's papers 039–052, or the discrete regime below one unit per place.
-   - **Allen ruled (21 October, 12:50): (i).** "ED's holes are stable, which is my recommendation because it follows from the rules with nothing added."
+   - **Ruled (21 October, 12:50): (i).** ED's holes are stable, because it follows from the rules with nothing added.
 3. **What would tell.** For astrophysical holes the difference from GR is unobservable either way. For primordial black holes it is not:
    - in GR, primordial holes below about 5×10¹⁴ g have evaporated by now, and evaporation bounds limit them up to about 10¹⁷ g;
    - under (i) none of them evaporate, so those bounds lapse, and a detected evaporating primordial hole would count against option 3 with ED's medium;
@@ -6538,11 +6544,11 @@ $$
 
 ## 9zzq. Run 69: which clock does ED's medium follow around a spinning hole? Two readings compared
 
-*21 October 2026. Allen (09:04), on this choice: "as with most rulings, im not sure and any choice would be provisional." Registered and hashed before the run, and before any literature for its criteria was searched (`spin69/PREREG_69.md`, 07:14 UTC). The literature was compiled afterwards by the registered criteria (`lit69.json`). An independent agent checked the run.*
-- *Disclosed: I knew some of the spin measurements from memory when I set the criteria.*
+*21 October 2026. Registered and hashed before the run, and before any literature for its criteria was searched (`spin69/PREREG_69.md`, 07:14 UTC). The literature was compiled afterwards by the registered criteria (`lit69.json`). An independent agent checked the run.*
+- *Disclosed: some of the spin measurements were known when the criteria were set.*
 - *The first compile missed an event that meets K69c's criterion, and the check found it. The verdict flips from "not challenged" to "challenged". The first compile is kept (`lit69_first_compile.json`).*
-- *My exclusion of the ringdown-model (pSEOBNR) spins was decided after I had seen the numbers.*
-- *The check also found that my argument from ED's rules was wrong. Its corrections are included.*
+- *The exclusion of the ringdown-model (pSEOBNR) spins was decided after the numbers had been seen.*
+- *The check also found that the first argument from ED's rules was wrong. Its corrections are included.*
 
 **Question.** In a static field the medium's clock is unambiguous: N = P/P∞. Around a spinning hole two clocks are natural. The check on Runs 66–67 found that the near zone of a spinning hole, and with it GW250114, depends on which one the medium follows.
 
@@ -6589,7 +6595,7 @@ $$
   - **MCG–6-30-15:** reflection gives a > 0.987 at 90% (Brenneman & Reynolds 2006). A finite-thickness disc gives 0.87–0.99 (Jiang et al. 2022).
   - **GRS 1915+105:** continuum fitting gives a > 0.98 (McClintock et al. 2006), contested by Mills et al. 2021 (0.86). Its NuSTAR reflection spin is 0.98 ± 0.01 (Miller et al. 2013).
   - Across 36 NuSTAR reflection spins, 86% are consistent with a ≥ 0.95 at 1σ (Draghis et al. 2024).
-- **K69c: K is challenged by GW231028_153006** (corrected by the check; I had recorded "not challenged").
+- **K69c: K is challenged by GW231028_153006** (corrected by the check; first recorded as "not challenged").
   - Its GR-based remnant spin is 0.84 (+0.05/−0.10), a 90% lower bound of 0.74 > 0.707, and its Kerr ringdown fits are consistent with GR (GWTC-4.0 tests of the remnants, arXiv:2603.19021).
   - pSEOBNR puts GR at the edge of its 90% region for this event, which the paper partly attributes to waveform systematics. A ringdown prediction specific to K would test it directly.
   - The other remnants are below the threshold: GW250114 at 0.68 ± 0.01; GW231123 at 0.84 (+0.07/−0.19); GW190828 at 0.76 ± 0.07.
@@ -6598,7 +6604,7 @@ $$
 
 **What the check added.**
 1. **The geometry is confirmed with independent code.** Light-ring and ISCO conditions were solved directly; every tabulated radius and clock agrees to 10⁻¹⁰; the shadow fractions agree to 0.003.
-2. **My argument from rule C1 was wrong.** I had argued that C1 (patterns ride possibility's flow, g₀ᵢ = −uᵢ) makes possibility flow with frame dragging, so the medium's own frame is the ZAMO frame. But on the record's own Run 34 analysis, possibility's flow is always a gradient, and "a stationary rotating body makes no flow at all". Kerr's g_tφ comes from the input current field (the Lorentz input's momentum channel), not from that flow. Reading Z therefore needs a ruling that the input current field is itself a flow of possibility.
+2. **The first argument from rule C1 was wrong.** It held that C1 (patterns ride possibility's flow, g₀ᵢ = −uᵢ) makes possibility flow with frame dragging, so the medium's own frame is the ZAMO frame. But on the record's own Run 34 analysis, possibility's flow is always a gradient, and "a stationary rotating body makes no flow at all". Kerr's g_tφ comes from the input current field (the Lorentz input's momentum channel), not from that flow. Reading Z therefore needs a ruling that the input current field is itself a flow of possibility.
 3. **ED's rules do not decide between the readings.**
    - For K: Run 34 writes g₀₀ = −N², which in stationary lattice coordinates is the Killing norm. Run 66's variables generalise to the stationary (Ernst) reduction, U = −½ ln F. And occupancy is defined per fixed place.
    - For Z: Run 65 identified ED's field equation with GR's lapse equation, and the lapse of Kerr's natural (maximal) time slices is α. The Lorentz-input picture, in which moving clocks run slow relative to the medium, also works only if the medium's frame is orthogonal to the tick's slices.
@@ -6617,7 +6623,7 @@ $$
    - K is disfavoured by X-ray spins, formally; each object is contested.
    - K is challenged by GW231028_153006.
    - K removes the ergoregion, and with it the Blandford–Znajek jet power that the EHT's M87* models need.
-3. **Adopted provisionally on my recommendation (§10): reading Z.** It comes with a stated premise: the input current field (the Lorentz input's g₀ᵢ) is read as a flow of possibility, so the medium's frame is the zero-angular-momentum frame. Allen ruled the premise on my recommendation (21 October, 12:50: "use what you recommend"). Under Z:
+3. **Adopted provisionally (§10): reading Z.** It comes with a stated premise: the input current field (the Lorentz input's g₀ᵢ) is read as a flow of possibility, so the medium's frame is the zero-angular-momentum frame. The premise was ruled on 21 October. Under Z:
    - rotating holes are Kerr outside the horizon to O(ε/α), at most about 4×10⁻⁴ at the light ring and ISCO;
    - GW250114's ringdown is Kerr's to that order;
    - the medium ends just outside the horizon.
@@ -6628,8 +6634,8 @@ $$
 
 ## 9zzr. Run 70: clocks on a lattice with curved-space conductances
 
-*21 October 2026. Allen: "im good with your recommendations… please proceed" (09:04), step 4: build the stress-curved lattice and re-check clock universality. Registered and hashed before any engine run (`curve70/PREREG_70.md`, 07:20 UTC), with the zero-range theory's predictions computed and hashed beforehand (`theory70.json`).*
-- *Disclosed: the theory was first run at λ = 0, 0.03 and 0.06. I moved to 0.06 and 0.12 before any engine run, after seeing that the predicted changes are linear in λ, so 0.03 would sit inside the noise.*
+*21 October 2026. Step 4: build the stress-curved lattice and re-check clock universality. Registered and hashed before any engine run (`curve70/PREREG_70.md`, 07:20 UTC), with the zero-range theory's predictions computed and hashed beforehand (`theory70.json`).*
+- *Disclosed: the theory was first run at λ = 0, 0.03 and 0.06. It was moved to 0.06 and 0.12 before any engine run, after seeing that the predicted changes are linear in λ, so 0.03 would sit inside the noise.*
 - *A 300-tick smoke test is disclosed in the registration.*
 - *An independent agent checked the run. Its corrections narrow what the run shows, and they are included: the curvature here is imposed rather than produced by stress, the measured size depends on how places are represented, and the effect is not local.*
 
@@ -6688,7 +6694,7 @@ On the flat lattice it gives own-dips of 0.0672/0.0332 (high) and 0.0424/0.0205 
 $$
 \frac{\delta G(0)}{G(0)}\sim C\,\tilde R\,h\,\ell_c ,\qquad C\approx0.008\text{–}0.013 ,
 $$
-   not from R̃h². My planned figure of 10⁻⁷² used the wrong scaling.
+   not from R̃h². The planned figure of 10⁻⁷² used the wrong scaling.
 4. **At physical curvature it is still negligible.** For a neutron star (R̃ ≈ 0.2/(10 km)², ℓ_c ≈ 10 km) and ED's hop (10^2.5–10^3 Planck lengths), R̃hℓ_c ≈ (1–3)×10⁻³⁷, so the self-dip changes by about 10⁻³⁹ of itself. The design-dependent part is smaller still.
 5. **Other limits.**
    - The curvature is imposed, not produced by the medium's stress.
@@ -6707,10 +6713,10 @@ $$
 
 ## 9zzs. Run 71: can a collapse get through the throat?
 
-*21 October 2026. Allen (12:50): "then run 3 and 4". Step 3 was my recommendation after Run 68: a registered collapse model through the throat. Registered and hashed before any ED trajectory was integrated (`collapse71/PREREG_71.md`, 11:23 UTC).*
+*21 October 2026. Step 3 followed from Run 68: a registered collapse model through the throat. Registered and hashed before any ED trajectory was integrated (`collapse71/PREREG_71.md`, 11:23 UTC).*
 - *Disclosed: a development test of the pipeline on GR (R₀ = 7, not registered).*
 - *`analyse71.py` was written after the run and is not in the hashed set. The scalings in the horn were fitted after the run (`posthoc71.py`, saved after the check began).*
-- *An independent agent checked the run. It confirmed the model and every number. It then found that the main late-time results hold only for exactly pressureless dust: with any surface pressure the shell turns back and comes out again. Its findings, and a post-hoc run of mine with pressure (Run 71b, `bounce71b.py`, not registered), are included.*
+- *An independent agent checked the run. It confirmed the model and every number. It then found that the main late-time results hold only for exactly pressureless dust: with any surface pressure the shell turns back and comes out again. Its findings, and a post hoc run with pressure (Run 71b, `bounce71b.py`, not registered), are included.*
 
 **Question.** Run 67's static hole has a throat, a minimal areal radius at redshift about 74, just outside the cold zero-clock surface. Between the throat and that surface the areal radius grows without bound: the horn.
 - Run 68 found the hole does not evaporate, assuming a collapse reaches the zero-clock surface with a smooth ray map.
@@ -6774,16 +6780,16 @@ $$
 | pressure (w > 0) | yes | **turns back where N ≈ wε** (N_turn/wε = 1.00–1.14 for w = 0.003 to ½) and **comes back out**. From rest the motion is periodic: w = 0.01 falls in, turns at R ≈ 200, returns to its start at R = 10m with its rest mass restored (1.0559), and repeats every 110M of its own time |
 | tension (w < 0) | yes | absorbed: N falls exponentially, as e^(−|w|τ/4ε); U converges (U′ ∝ u^(−1.93)) |
 
-- **Where it turns.** In the mean field, P/P∞ = (N + ε)/(1 + ε), so N = wε is where **the medium holds about (1 + w)·p_s per place**. Matter with pressure turns back just above where possibility runs out.
+- **Where it turns.** The clock is the medium's occupancy, N = P/P∞ (Runs 66–67), so N = wε is where **the medium holds about w·p_s per place**: matter with pressure turns back where possibility has nearly run out. *(Corrected after the check on Run 73: the clock is the medium's occupancy, N = P/P∞, so P/p_s = N/ε. An earlier version used (N + ε)/(1 + ε), which is GR's lapse, and overstated P by about p_s.)*
 - **When it turns.** For a shell released from rest, u_turn ≈ [4.1 ln(P∞/p_s) − 5]M/w². At ε = 5×10⁻⁶ that is about 45M/w²:
   - about 400M for radiation-like pressure (w = ⅓), about 20 ms for a 10 M☉ collapse;
   - about 4.5×10⁵ M for w = 0.01.
 - **Robustness.** Starting radius (R₀ = 50) and throwing the shell in (γ₀ = 10, 100) do not change these outcomes.
 - **A null shell** crosses on kinematics alone and reaches N = 0 at finite affine parameter; its energy exchange was not computed.
-- **Run 71b (mine, post hoc, not registered):**
+- **Run 71b (post hoc, not registered):**
   - It reproduces the turn at N = 1.012wε for w = 0.01 at ε = 10⁻⁴.
   - It tests the flux pipeline through a turning point on a GR shell with pressure: Taylor-mode and finite-difference Schwarzians agree to 0.5%.
-  - The flux when the matter comes back out has large positive and negative spikes (hundreds of F_H). I have not separated these from the thrown-in initial condition, so no bounce flux is reported.
+  - The flux when the matter comes back out has large positive and negative spikes (hundreds of F_H). These have not been separated from the thrown-in initial condition, so no bounce flux is reported.
 
 ![Run 71](figures/71_collapse.png)
 
@@ -6794,20 +6800,20 @@ $$
 - **K71c UNDECIDED, recorded on the stricter reading.**
   - There is no sustained flux, and neither failure condition is met.
   - The energy after switch-off is negative: −1.2% at ε = 5×10⁻⁶ and −1.7% at 10⁻⁴.
-  - It passes the clause "less than 1% of the total" only as signed energy; read as a magnitude it does not. I had meant the clause as a magnitude.
+  - It passes the clause "less than 1% of the total" only as signed energy; read as a magnitude it does not. The clause was meant as a magnitude.
 - **K71d UNDECIDED:** for dust, U′(u) ∝ u^(−1/2) is still falling, but slower than 1/u, so U grows without bound. The check: within the model the outcome is set by the equation of state. Pressure reflects (the matter itself returns), tension absorbs, and dust is the marginal case.
 
 **Reading.**
 1. **A collapse can pass the throat, carried by the medium's own stress.** The obstacle found in Run 68's check holds only if matter is sealed off from the medium. With both of Israel's conditions, the medium's stress (which violates the null energy condition) gives the shell exactly what it needs to cross.
 2. **Beyond the throat this model does not give a stable hole for ordinary matter.**
    - Dust creeps toward the zero-clock surface for ever and emits no sustained flux: Run 68's "no evaporation" holds for it, by a power-law endpoint.
-   - Any pressure turns the matter back where the medium holds about (1 + w)p_s per place, and it comes back out after about 45M/w² (at ε = 5×10⁻⁶). The exchange is reversible: the medium returns the rest mass it gave.
+   - Any pressure turns the matter back where the medium holds about w·p_s per place, and it comes back out after about 45M/w² (at ε = 5×10⁻⁶). The exchange is reversible: the medium returns the rest mass it gave.
    - Collapsing stellar cores have pressure. A bounce within milliseconds to seconds of formation would be plainly visible, and black holes (X-ray binaries, gravitational-wave remnants, Sgr A*) are observed to stay. So this model, as it stands, conflicts with data.
 3. **What would make ED's holes stable here: commitment before the bounce.**
-   - Allen's ruling of 19 October is that the core commits what reaches it. In this model the core is never reached. Matter with pressure turns back at P ≈ (1 + w)p_s, before the zero-clock surface (P = p_s), and before the discrete regime.
-   - For the ruling that ED's holes are stable to hold for ordinary matter, the commitment has to act there: **where the medium's possibility per place falls to about p_s, within a factor of about 2 (w ≤ 1)**.
-   - That was for Allen to rule. It places ED's core at the crossover scale p_s, where possibility runs out. An alternative was exterior dynamics that are not held fixed: the shell's draw grows about 10³-fold in the horn, so the exterior mass need not stay fixed (the check).
-   - **Allen ruled (21 October, 14:00), on my recommendation: "(a) is my choice too." Infalling matter commits where the medium's possibility per place falls to about 2p_s (§10).**
+   - The ruling of 19 October is that the core commits what reaches it. In this model the core is never reached. Matter with pressure turns back at P ≈ w·p_s (at most about 1.27p_s for causal matter, w ≤ 1; Run 73's check), before the zero-clock surface (P = 0), and before the discrete regime (one unit per place).
+   - For the ruling that ED's holes are stable to hold for ordinary matter, the commitment has to act before that: **where the medium's possibility per place is still above about 1.3p_s**.
+   - That needed a ruling. It places ED's core at the crossover scale p_s, where possibility runs out. An alternative was exterior dynamics that are not held fixed: the shell's draw grows about 10³-fold in the horn, so the exterior mass need not stay fixed (the check).
+   - **Ruled 21 October: infalling matter commits where the medium's possibility per place falls to about 2p_s (§10).**
 4. **Limits:**
    - the exterior is held fixed (no back-reaction);
    - a thin shell, not a star;
@@ -6818,7 +6824,7 @@ $$
 
 ## 9zzt. Run 72: clocks on an equal-place curved lattice, both signs of curvature
 
-*21 October 2026. Allen (12:50): "then run 3 and 4". Step 4 was the follow-up to Run 70 that its check recommended: the design gap with about ten times the statistics, an equal-volume discretisation, and clocks at minima of the curvature profile as well as maxima. Registered and hashed before any engine run (`curve72/PREREG_72.md`, 11:06 UTC), with the theory's predictions computed and hashed beforehand (`theory72.json`).*
+*21 October 2026. Step 4 was the follow-up to Run 70 that its check recommended: the design gap with about ten times the statistics, an equal-volume discretisation, and clocks at minima of the curvature profile as well as maxima. Registered and hashed before any engine run (`curve72/PREREG_72.md`, 11:06 UTC), with the theory's predictions computed and hashed beforehand (`theory72.json`).*
 - *Disclosed: the theory was explored first, at several curvatures, both p_s = 1 and 4, and two probe layouts. The choice of λ = 0.25, p_s = 1 and Run 24's layout was made for the gap's statistical power, before any engine run.*
 - *Two 600-tick timing runs ended before the burn-in, so they produced no clock numbers.*
 - *The first job runner hit the session's two-hour task limit after 32 of 50 runs. A resume script ran the rest of the same registered list.*
@@ -6884,7 +6890,7 @@ $$
 - **K72a PASSES:** the flat control matches the theory within 0.3–1.1%, inside the registered max(3σ, 3%).
 - **K72b PASSES:** with no clocks, the places with the lowest and highest total conductance hold the same mean P to within −3×10⁻⁵ and −1×10⁻⁴ (±5×10⁻⁴), on both lattices.
 - **K72c PASSES:** all eight ratios agree with the theory within 3σ; the largest deviation is −1.9σ.
-- **K72d UNDECIDED:** the design-gap contrast gap(+) − gap(−) is +0.0079 ± 0.0032.
+- **K72d UNDECIDED:** the design-gap contrast gap(+) − gap(−) is +0.0079 ± 0.0032. *Settled by Run 72b (§9zzu): with doubled seeds, K72d-R and K72d-C PASS (+0.0107 ± 0.0021 on all seeds, 5.1σ from zero, 0.5σ from theory).*
   - It has the predicted sign and size (theory +0.0096, a −0.5σ difference).
   - It is 2.5σ from zero (p ≈ 0.025), below the registered 3σ bar.
   - Neither sign's shift is resolved on its own: +0.0027 ± 0.0044 against a predicted +0.0018, and −0.0052 ± 0.0040 against −0.0078.
@@ -6917,25 +6923,690 @@ $$
    - places are equal in volume but not in shape;
    - one geometry, at p_s = 1, with clocks oriented along the modulation;
    - about 1% theory systematic;
-   - the gap contrast is at 2.5σ. Doubling the seeds for both signs (about two hours of CPU) would reach the registered bar if the predicted contrast is true.
+   - ~~the gap contrast is at 2.5σ. Doubling the seeds for both signs (about two hours of CPU) would reach the registered bar if the predicted contrast is true.~~ *Run 72b: done; it does (5.1σ, matching the theory).*
+
+## 9zzu. Run 72b: doubled seeds for Run 72's design-gap contrast
+
+*21 October 2026. The recommendation, after Run 72's check, was to double the seeds for both signs of curvature so the design-gap contrast could reach the registered bar. Registered and hashed before any new engine run (`curve72/PREREG_72b.md`, 16:05:50 UTC). The engine, geometry, theory and its output are Run 72's files, unchanged and hashed again.*
+- *The registration's header says 18:10 local; it was hashed at 18:05:50 local (16:05:50 UTC). The first new run finished at 16:12:58 UTC.*
+- *The 40 runs were made in two batches, to stay inside the session's two-hour task limit. The runner skipped any job whose output already existed.*
+- *An independent agent checked the run (below).*
+
+**Question.** Run 72 found the design gap moving with the sign of curvature as the zero-range theory predicts:
+- the contrast was +0.0079 ± 0.0032, against the theory's +0.0096;
+- that is 2.5σ from zero, short of the registered 3σ, so K72d was UNDECIDED.
+
+With twice the seeds, is the contrast real, and is it the theory's size?
+
+**Optional stopping, and how the registration handles it.** Adding seeds after seeing a result that is not significant inflates the chance of a false detection, if one would have stopped had the result been significant. So two verdicts were registered:
+- **K72d-R, a clean replication on the new seeds alone** (10 per sign). PASS if within 2σ of theory and at least 2σ from zero.
+- **K72d-C, all 20 seeds per sign,** with the bar raised from 3σ to 3.2σ for the second look (a Pocock-type correction). PASS if within 2σ of theory and at least 3.2σ from zero.
+- Either fails if the contrast differs from the theory by more than 3σ.
+
+**The runs.** 40 new engine runs, identical to Run 72's in everything but the seeds:
+- s = +1 (clocks at R̃ = +1.10): seeds 111–120;
+- s = −1 (clocks at R̃ = −1.10): seeds 211–220;
+- each at the high and the low medium;
+- p_s = 1, λ = 0.25, c_n = 0.4463, Run 24's 216-probe layout, 20,000 ticks.
+- The flat control (seeds 1–5) is unchanged; it does not enter the contrast.
+- Charge is conserved exactly in every run.
+
+The gap is computed per seed pair (high and low runs with the same seed):
+$$
+\text{gap}=1-\frac{\kappa_1}{\kappa_2},\qquad \kappa_j=\frac{1-r_j^{\rm low}/r_j^{\rm high}}{\varepsilon_{\rm amb}},\qquad \varepsilon_{\rm amb}=1-\frac{P_{\rm amb}^{\rm low}}{P_{\rm amb}^{\rm high}},
+$$
+where r_j is design j's mean tick rate. The contrast is
+$$
+c=\overline{\text{gap}}(+1)-\overline{\text{gap}}(-1),
+$$
+with errors from the seed-to-seed scatter. The theory's contrast, fixed before Run 72, is +0.0096.
+
+**Results.**
+
+| | gap(+1) | gap(−1) | contrast | from zero | from theory |
+|---|---|---|---|---|---|
+| theory (fixed beforehand) | 0.0840 | 0.0744 | +0.0096 | | |
+| Run 72 (seeds 101–110, 201–210) | 0.0830 ± 0.0026 | 0.0751 ± 0.0019 | +0.0079 ± 0.0032 | 2.5σ | −0.5σ |
+| **new seeds alone (K72d-R)** | 0.0869 ± 0.0022 | 0.0734 ± 0.0016 | **+0.0135 ± 0.0027** | **5.0σ** | +1.4σ |
+| **all 20 seeds per sign (K72d-C)** | 0.0850 ± 0.0017 | 0.0743 ± 0.0012 | **+0.0107 ± 0.0021** | **5.1σ** | +0.5σ |
+
+![Run 72b](figures/72b_gapcontrast.png)
+
+**Reported on all seeds: the own-dip ratios.** These are the curved/flat ratios of each design's own dip.
+- All eight rows agree with the theory within 1.7σ; seven of the eight sit below it.
+- The amplitude fitted to all eight (registered covariance, with the shared flat control) is A = 1.007 ± 0.014.
+- By sign: A₊ = 0.966 ± 0.036 and A₋ = 1.020 ± 0.053.
+- The theory's χ² is 15.2 for 8 degrees of freedom (p = 0.056).
+  - On Run 72's seeds alone it is 15.1; on the new seeds alone, 8.2 (post hoc).
+  - The first guess was that the 5-seed flat control, which divides every row, caused the common low shift. The check showed it does not (below).
+- Each sign's shift from the flat control alone is still not resolved:
+  - +0.0047 ± 0.0039 at positive curvature (theory +0.0018);
+  - −0.0060 ± 0.0037 at negative curvature (theory −0.0078).
+  - The flat control's 5 seeds limit both.
+
+**Verdicts.**
+- **K72d-R PASSES.** The new seeds alone give +0.0135 ± 0.0027: 5.0σ from zero, within 1.4σ of the theory.
+- **K72d-C PASSES.** All seeds give +0.0107 ± 0.0021: 5.1σ from zero (bar 3.2σ; the plain 3σ is also met), within 0.5σ of the theory.
+- Run 72's K72d, UNDECIDED at 2.5σ, is settled.
+
+**What the check added.**
+
+1. **Independent reproduction.** Every number was reproduced from the raw files with the checker's own code: the seed pairing, the gap, the per-seed errors and the verdict logic, which matches the registration exactly.
+   - One-sided Welch p-values: 7×10⁻⁵ for the replication, 7×10⁻⁶ combined.
+   - Run 72's seeds alone and the new seeds alone differ by 1.3σ, which is consistent.
+   - The two batches agree: contrasts +0.0132 and +0.0138.
+2. **The registration and the runs are clean.**
+   - Every registered file matches its hash.
+   - All 40 new outputs are real files, made after the hash time.
+   - Each batch ran all 20 of its jobs, so no stand-in file used to test the analysis was skipped as finished.
+   - All 90 runs have the registered parameters, and conservation is exact in every run.
+   - No two runs share outputs, and no seed overlaps Run 72's.
+   - Run 72's strong high/low anti-correlation across seeds (r = −0.72) did not recur (−0.01 and −0.23), so it was most likely chance. The seed-paired error is valid either way.
+3. **Optional stopping.**
+   - The replication's data played no part in the decision to extend, so its 5.0σ stands as it is.
+   - For the combined test, the Pocock constant for two equal looks at an overall 3σ is 3.18; the registered 3.2 is right.
+   - At 5.1σ the result survives any reasonable correction.
+4. **The first explanation of the χ² was wrong.** The cause is not the flat control.
+   - **A free normalisation of the flat control barely helps:** χ² falls from 15.2 to 13.4.
+   - **The seed subsets rule it out.** Run 72's seeds and the new seeds share the same flat control, yet give χ² of 15.1 and 8.2.
+   - **The absolute fits locate the miss.** Comparing each cell's own dip directly with the theory (the checker's full covariance), the theory is low by:
+
+| lattice | design 1 | design 2 |
+|---|---|---|
+| flat | 0.36 ± 0.16% | 0.96 ± 0.40% |
+| R̃ = +1.10 | 0.16 ± 0.07% | 0.75 ± 0.13% |
+| R̃ = −1.10 | 0.19 ± 0.09% | −0.09 ± 0.19% |
+
+   - So the theory's design-2 error, about 1%, holds everywhere except at negative curvature, where it vanishes.
+     - The two signs differ by 0.84 ± 0.24%, about 3.5σ.
+     - One offset per lattice and design fits (χ² 1.7 for 6 degrees of freedom); one offset per design does not (20.8 for 10).
+   - That is within the theory's known accuracy, and inside K72a's 3% tolerance, so it is not a falsification. It is a real, curvature-dependent part of the theory's roughly 1% error.
+   - The checker's hypothesis, not tested: at negative curvature the clocks' outer links are 1.65 times stronger, so the medium mixes faster and the mean-field theory is more accurate there.
+5. **The separate amplitudes depend on the estimator.**
+
+| estimator | A₊ | A₋ |
+|---|---|---|
+| registered: each sign fitted on its own | 0.966 ± 0.036 | 1.020 ± 0.053 |
+| joint fit, registered covariance | 1.047 ± 0.023 | 0.937 ± 0.035 |
+| joint fit, full covariance | 1.009 ± 0.019 | 0.944 ± 0.027 |
+
+   - Fitting each sign on its own ignores that both divide by the same flat control, which is why it reverses the order.
+   - With the full covariance the shortfall at negative curvature that Run 72's check found (1.2σ then) persists at 1.75σ. It is the same design-2 effect as above.
+   - With the full covariance, the overall amplitude is 0.985 ± 0.013 and χ² is 20.5 for 8 degrees of freedom (p = 0.009).
+
+**Reading.**
+1. **The design gap moves with the sign of curvature, by the theory's amount.**
+   - The replication alone clears the bar. The combined contrast matches the prediction fixed before Run 72 to half a standard deviation.
+   - Each sign's gap matches its own prediction: +0.6σ at positive curvature, −0.1σ at negative.
+2. **What this shows, and what it does not.** On an equal-place lattice with imposed curvature at p_s = 1, the clocks' design-dependent response to curvature is the zero-range theory's, in sign and size, at both signs.
+   - That is the theory's mechanism confirmed. It is not universality shown directly.
+   - At physical scales the theory makes the design-dependent part about 0.01·R̃·h·ℓ_c, roughly 10⁻³⁹ for a neutron star.
+   - It is still untested on a lattice curved by the medium's own stress, and at large p_s.
+3. **The theory's own accuracy, about 1% for design 2, depends on the sign of the curvature** (the check, about 3.5σ).
+   - It does not affect the contrast, which matches the theory to 0.5σ.
+   - It does mean the row-level tests are now limited by the theory, and by the flat control's 5 seeds, rather than by the curved runs.
+4. **Limits:**
+   - one lattice (λ = 0.25) and one p_s;
+   - the curvature is imposed, not solved from the medium's stress;
+   - the flat control has 5 seeds;
+   - the mixing explanation of the design-2 offset is untested.
+   - A cheap test of that explanation: run the theory against the engine with one parameter changed (λ = 0.125, or p_s = 4).
+
+## 9zzv. Run 73: does the stiffest matter commit before it turns back?
+
+*21 October 2026. The recommendation was to pin down the "about 2p_s" in the ruling of 14:00 (infalling matter commits where the medium's possibility per place falls to about 2p_s) with a shell of the stiffest matter. Registered and hashed before the scan (`stiff73/PREREG_73.md`, 16:06 UTC).*
+- *Amendment 1: the analysis script had a Python syntax error, fixed without changing its logic. The scan's rows had already been printed when the fix was made.*
+- *The registration's header says 18:15 local; it was hashed at 18:06 (16:06 UTC).*
+- *An independent agent checked the run. It reproduced every turning point, and found that the run converted the clock to possibility per place with the wrong formula. The correction reverses the registered verdict on the ruling's number. Both are recorded below.*
+
+**Question.** Run 71's check found that a shell with surface pressure p = wσ passes the throat and then turns back where N ≈ wε. The ruled threshold is P = 2p_s. Does every kind of causal matter (w ≤ 1) reach it before it can turn back?
+
+**The conversion, corrected.**
+- In the record (Runs 66–67) the medium's clock is its occupancy:
+$$
+N=\frac{P}{P_\infty}\quad\Rightarrow\quad\frac{P}{p_s}=\frac{N}{\varepsilon}.
+$$
+- The registration and the run instead used P/P∞ = (N + ε)/(1 + ε). That is GR's lapse n, not the occupancy, and it overstates P by about p_s.
+- It had been introduced in Run 71's reading and in the note on the ruling; both are corrected (§9zzs, §10).
+- So the ruled 2p_s sits at N_c = 2ε, not N ≈ ε.
+
+**The scan.** Run 71b's model, unchanged:
+- Run 67's exterior, held fixed;
+- a flat interior;
+- Israel's two conditions, with [K^τ_τ] = 4π(σ + 2p) = (1 + 2w)M_s/R².
+
+The grid is w = ⅓, ½, ⅔ and 1; ε = 10⁻², 10⁻⁴ and 10⁻⁶; shells released at R₀ = 4, 10 and 50 (units of m), thrown inward with γ₀ = 1 to 1000. That is 216 shells.
+- 36 do not fall from rest.
+- 75 turn back before the throat: they are held up by pressure, never come near the core, and the commitment rule never applies to them.
+- 105 turn in the horn.
+
+**Results** (where shells turn back, P/p_s = N/ε).
+
+| w | grid maximum (all ε) | grid maximum (ε = 10⁻⁶) | supremum: shells thrown just hard enough to cross (the check) |
+|---|---|---|---|
+| ⅓ | 0.41 | 0.39 | — |
+| ½ | 0.62 | 0.57 | 0.61 |
+| ⅔ | 0.87 | 0.78 | 0.83 |
+| 1 | 1.65 (ε = 10⁻²) | 1.14 | **1.27** |
+
+- **Every causal shell turns back below 1.3p_s** at physical ε. So it reaches the ruled 2p_s, and commits, before it can turn: the margin is 2/1.27 ≈ 1.6.
+- Only acausal matter, w ≳ 1.6, would turn above 2p_s.
+- **The largest turns come from shells thrown just hard enough to cross the throat** (the check). They linger at the throat, then fall in almost from rest.
+  - Their supremum for w = 1 is 1.272p_s, converged to 0.2% between ε = 10⁻⁴ and 10⁻⁶, and the same from R₀ = 10 and 50.
+  - The grid's maxima underestimate it.
+- **Harder throws do not push the turn higher:** from γ₀ = 100 to 1000 it moves by at most 0.8%.
+
+![Run 73](figures/73_stiff.png)
+
+**Verdicts.**
+- **K73a: FAIL as registered; PASS on the record's definition.**
+  - As registered, with the wrong conversion, the largest turn was at "2.63p_s", and raising the threshold to about 2.3p_s had been suggested. That suggestion is withdrawn.
+  - With N = P/P∞ the largest turn is 1.65p_s (at ε = 10⁻², far from the pulsar bound), and at most 1.27p_s at physical ε. Both are below 2p_s.
+- **K73b: FAIL as registered.** The grid's w = 1 maximum moved by 3.5% between ε = 10⁻⁴ and 10⁻⁶. This is a sampling effect: the minimum throw needed to cross depends on ε (the check). The underlying supremum converges to 0.2%.
+- **K73c: PASSES.** Harder throws saturate. Soft throws near the crossing threshold give a finite supremum too (the check).
+
+**What the check added.**
+1. **The conversion error and its correction** (above). It also corrects the core's areal radius in Run 74: R_c = 2m(k + 1)/k, which is 3m at k = 2, not 4m.
+2. **Independent reproduction** of the turning points to six or seven digits.
+3. **The causal limit for a surface fluid** is |p| ≤ σ, i.e. w ≤ 1. A thin layer of 3D fluid with p = w₃ρ has w = w₃, so w = 1 is 3D stiff matter and a layer of radiation gives w = ⅓.
+4. **Real collapsing cores have w ≲ 0.6:** about 0.3–0.6 at the centres of maximum-mass neutron stars, and ⅓ for perturbative QCD. Their supremum turn is about 0.75p_s.
+5. **Commitment at N = 2ε falls inside the region where Run 71's flux switches off** (N at the shell ≈ 1.5ε). What the committed surface does to waves therefore matters for the late flux (Run 74).
+
+**Reading.**
+1. **The ruled 2p_s catches all causal matter, with room to spare.** Every shell with w ≤ 1 that passes the throat turns back at no more than 1.27p_s, and commits first at 2p_s.
+   - Matter with ordinary pressure (w ≲ 0.6) would turn back below about 0.75p_s.
+   - No change to the ruling is needed.
+2. **Any threshold above about 1.34p_s would work.** The ruled 2p_s is a natural choice: twice the medium's crossover.
+3. **Limits:**
+   - a thin shell's surface pressure is a stand-in for a star's;
+   - w is held constant;
+   - the exterior is held fixed.
+
+## 9zzw. Run 74: what commitment at P = k·p_s does to the radiation
+
+*21 October 2026. The recommendation was to model what commitment at 2p_s does to the geometry and to the radiation afterwards. Registered and hashed before the run (`commit74/PREREG_74.md`, 16:10 UTC).*
+- *The registration used the same wrong conversion between the clock and the occupancy that the check on Run 73 found. So its "k = 2" and "k = 2.3" cases committed at a true P of about p_s and 1.3p_s, not at the ruled 2p_s.*
+- *The results for the ruled threshold (N_c = 2ε) and for k = 1.34 were computed afterwards with the corrected conversion (`commit74c.py`, post hoc). Both sets are recorded below.*
+- *The registration's header says 18:25 local; it was hashed at 18:10 (16:10 UTC).*
+- *An independent agent checked the run. It reproduced the corrected numbers to every digit printed, and corrected four readings; they are included.*
+
+**Question.** Under the rulings, infalling matter commits where the medium holds 2p_s per place, and the core is a total absorber. When a collapsing shell commits:
+- Where is it?
+- What has been radiated by then?
+- What does the outside see afterwards?
+
+**The model.** Run 71/71b's shell, in Run 67's exterior held fixed, with a flat interior.
+- **The shell commits** when its clock reaches N_c = kε, i.e. P = k·p_s, since N = P/P∞.
+- **After commitment** the region it bounded is the core. Outgoing modes then leave the core boundary, and ED's rules do not fix their state. Two models bound it:
+  - **(A) A cold, static core (the cold-absorber extreme):** the modes are in the static (Killing) vacuum, so the flux at infinity is zero afterwards. Joining the two maps takes a transition of duration δu (in retarded time at infinity), and that transition carries a flash:
+$$
+E_{\rm flash}=\frac{1}{24\pi}\int\Big[\tfrac12\big((\ln p')'\big)^2-(\ln p')''\Big]du\;\simeq\;\frac{\Delta^2}{144\pi\,\delta u},\qquad \Delta=-\ln p'(u_c).
+$$
+  - **(B) Continuation (the other extreme):** the outgoing state continues the shell's map, giving Run 71's dust tail and no flash.
+  - These are two extremes, not bounds: model A's flash grows without limit as δu shrinks (the check).
+  - The true outgoing state is mixed, because the burst's partner modes are absorbed. One smooth map is a model for the energy at the junction, not the exact state (the check).
+- **Cases:** dust from rest (R₀ = 10, 4); w = ⅓ thrown at γ₀ = 10; w = 1 thrown at γ₀ = 100. Each at ε = 10⁻⁴ and 5×10⁻⁶.
+
+**Results at the ruled threshold** (k = 2, N_c = 2ε; corrected, post hoc).
+1. **Where.** The core's areal radius is
+$$
+R_c=\frac{r\,n}{N}\Big|_{N_c}=2m\,\frac{k+1}{k}\Big(1+O(\varepsilon)\Big)=3.000m,
+$$
+   measured to 10⁻⁵ (3.49m at k = 1.34). The core has 2.25 times the area of GR's horizon.
+2. **Every case commits,** including the w = 1 shell (Run 73: causal matter turns back at most at 1.27p_s).
+3. **When.** Commitment comes almost as soon as the shell passes the throat. Seen from far away it is at u_c ≈ 110–170M.
+   - There the outgoing rays are stretched by du/dτ ≈ 1.3–2.1×10⁵ at ε = 5×10⁻⁶, about 1/ε.
+   - The map's redshift is Δ = 22.3 (dust), 22.0 (w = ⅓) and 20.7 (w = 1) at ε = 5×10⁻⁶; and 16.3 for dust at 10⁻⁴. That is about 2ln(1/ε) − 2.
+4. **The Hawking-like burst's energy is out before commitment; its flux is not quite over.**
+   - By energy it is at least 99.8% complete: what would still have come is 0.12 F_H·M of a roughly 77M burst (the check).
+   - At commitment the flux is still 0.046 F_H, so commitment cuts off the last 5% of the switch-off. Model A's flash is what handles that cut.
+   - The ratio before/total, 1.010 (ε = 5×10⁻⁶) and 1.015 (10⁻⁴), exceeds 1 because the rest of Run 71's map is net negative.
+5. **Afterwards, model A: one flash, then silence.**
+   - **Its energy** is Δ²/(144π)·ħ/δu ≈ ħ/δu for a tanh transition. The coefficient depends on the profile: a linear ramp gives three times as much, an error-function step 0.85 times (the check).
+   - **It is not one quantum** (the check, from the Bogoliubov count for a kink in the map). The number of quanta per e-fold of frequency is
+$$
+\frac{dN}{d\ln\omega}\approx\frac{\Delta-2}{4\pi^2}\approx0.5,
+$$
+     from ω ≈ 0.1/M up to about 2/δu. So the energy is carried by about half a quantum near 2/δu, on top of a soft logarithmic tail.
+   - **Its size depends on δu, which ED's rules do not fix.**
+     - At δu = 1M it carries about 34 times the Hawking-like transient's energy.
+     - If commitment takes at least one hop in the shell's own frame, δu ≳ τ_h/ε. For a 10 M☉ hole and a hop of about 10³ Planck lengths (the record's estimate of ED's hop, 300–1,000 Planck lengths; an assumption here), the flash is about one quantum of order 10¹¹ GeV: E/M ~ 10⁻⁴⁸.
+6. **Afterwards, model B:** the dust tail continues, carrying −1.1% (ε = 5×10⁻⁶) to −1.7% (10⁻⁴) of the total. There is no flash.
+
+![Run 74](figures/74_commit.png)
+
+**Verdicts, as registered** (for the surfaces actually modelled, at a true P of about p_s and 1.3p_s).
+- **K74a PASSES:** R_c/m matches 2k/(k − 1) to 2×10⁻⁴. That formula holds only under the wrong conversion. With the correct one, R_c = 2m(k + 1)/k is matched to 10⁻⁵.
+- **K74b PASSES:** the burst's energy is complete before commitment (1.01–1.02). It also holds at the ruled 2p_s (1.010–1.015).
+- **K74c PASSES:** the flash follows Δ²/(144πδu) to 1.2% for δu ≤ 1M. This is a check of the code.
+- **K74d PASSES as registered,** but its premise is superseded. The w = 1 shell turned first at the registered "k = 2" (true P ≈ p_s) and committed at "k = 2.3" (true P ≈ 1.3p_s). At the true ruled 2p_s it commits.
+- K74a, as registered, only checks that R = rn/N reproduces the formula its own conversion implies. It is not a test of physics (the check).
+
+**What the check added.**
+1. **Independent reproduction** of the corrected numbers to every digit printed: τ_c, u_c, du/dτ, U′, dv/dV and Δ.
+   - It confirmed the normalisation p′ = 1 for the static vacuum. For a static shell, dv/dV·dU/du = 1.
+   - It found Δ = 2ln(1/ε) − 2.2.
+2. **The flash is spread over frequencies,** and model A is an extreme, not a bound (above).
+3. **The burst is complete by energy, not by flux** (above).
+4. **"No echoes" now rests on the total-absorber ruling.** Run 67's surface absorbed because it sat at infinite tortoise distance; the core at N_c = 2ε does not.
+   - The tortoise distance from the light ring to the core is 47.7M (ε = 5×10⁻⁶).
+   - A reflecting core would echo after about 2Δr* ≈ 95M: 29 ms for GW250114's remnant, which matches Run 43's echo bound.
+5. **Thrown shells.** For the w = 1 shell thrown in, the matching ingoing ray entered during the artificial static hold before release, so the flash from the release kick itself is not modelled.
+6. **The geometry statement is geometry only.**
+   - The hole has κ = 0, so it has no temperature and there is no first-law basis for S = A/4.
+   - The core boundary is not a horizon, and its area depends on the ruling's k.
+   - R_c = 3m equals the light ring's areal radius, but the two surfaces are on opposite sides of the throat.
+
+**Reading.**
+1. **A forming ED hole radiates about one Hawking-like quantum, then its matter commits at 2p_s.**
+   - With a cold core it then gives one flash, about ħ/δu of energy spread over frequencies, and is silent for ever.
+   - With the other extreme, it carries on with Run 71's faint negative tail.
+   - Either way, this agrees with Run 68 and with the stable-holes ruling.
+2. **The core is a sphere of areal radius 2m(k + 1)/k:** 3m at the ruled 2p_s, with 2.25 times the area of GR's horizon. That is a statement about geometry only: the hole has no temperature, and the core boundary is not a horizon.
+3. **What the rules leave open:**
+   - how long commitment takes, which sets the flash's energy and frequency (a hop in the shell's frame is a natural floor);
+   - whether the core absorbs, which is now set by the ruling: a reflecting core would echo after about 95M;
+   - the core's quantum state, which decides between a flash (A) and none (B);
+   - what the record's own field does to the geometry, which here is held fixed.
+4. **Limits:**
+   - the exterior is held fixed;
+   - a thin shell;
+   - the 1+1 radial sector;
+   - two bounding models for the core's state.
+
+## 9zzx. Run 75: do the clocks' outer links carry the zero-range theory's design-2 error?
+
+*21 October 2026. This is the follow-up to Run 72b's check. It was registered and hashed before any run that reads clocks (`outer75/PREREG_75.md`, 18:42:41 UTC). The theory's predictions were computed and hashed beforehand (`theory75.json`).*
+- *Batch B was first launched under a runner that would not have outlasted the session. It was stopped after 5 s, before any output, and restarted. The log records this.*
+- *An independent agent checked the run (below).*
+
+**Question.** Run 72b's check found that the zero-range theory's error for design 2 (hold 2H) is about +0.7% on the flat and positive-curvature lattices and about zero at negative curvature: 0.84 ± 0.24% between the signs. It proposed mixing through the clocks' outer links as the cause.
+- The x-links leading outward from each clock's two places are 1.65 times stronger at negative curvature and 0.61 times as strong at positive curvature.
+- Faster refill would make the mean-field theory more accurate.
+
+If that is the cause, changing only those links should reproduce the effect.
+
+**Design.**
+- **The lattices.** Run 72's flat lattice (every link c_n = 0.4463), with only the x-links at x = 2.5 and 4.5 (mod 6) multiplied by a.
+  - Two lattices, a = e^−1 and a = e^+1. That is twice Run 72's log-strength.
+  - Everything else is unchanged, including each clock's own link.
+- **The runs.** Run 72's engine, high medium (P∞ = 64 p_s), p_s = 1, Run 24's 216 clocks, 20 seeds per lattice.
+- **The statistic.** For design j on lattice a, the theory's error is
+$$
+\text{off}_j(a)=\frac{\overline{\text{dip}}_j(a)}{\text{dip}_j^{\rm theory}(a)}-1,\qquad \text{dip}_j=1-\frac{\overline P_{\rm own,\,j}}{P_{\rm amb}} ,
+$$
+  and the test statistic is
+$$
+D_2=\text{off}_2(e^{-1})-\text{off}_2(e^{+1}).
+$$
+- **The prediction.** If the outer links carry Run 72b's effect, linearly in ln a, D₂ ≈ +1.5% (± 0.6% from Run 72b's own error). If they do not, D₂ ≈ 0.
+- **K75a:** PASS if D₂ ≥ 3σ; FAIL if D₂ ≤ 1σ; UNDECIDED otherwise.
+
+**Results** (20 seeds per lattice; conservation exact in every run).
+
+| outer links a | design | theory dip | measured dip | theory's error off_j |
+|---|---|---|---|---|
+| e^−1 = 0.368 | 1 | 0.33660 | 0.33783 ± 0.00036 | +0.37 ± 0.11% |
+| e^−1 | 2 | 0.21007 | 0.21141 ± 0.00051 | +0.64 ± 0.24% |
+| e^+1 = 2.718 | 1 | 0.26286 | 0.26362 ± 0.00031 | +0.29 ± 0.12% |
+| e^+1 | 2 | 0.15263 | 0.15324 ± 0.00048 | +0.40 ± 0.31% |
+
+- **D₂ = +0.24 ± 0.40%** (0.6σ). The registration expected σ_D ≈ 0.3%. The measured scatter was larger, so the test had less power than planned.
+- D₁ = +0.08 ± 0.16% (reported).
+
+![Run 75](figures/75_outerlinks.png)
+
+**Verdict.**
+- **K75a FAILS.** D₂ is within 1σ of zero. Changing only the outer links, by twice Run 72's amount, does not move the theory's design-2 error. The hypothesis is disfavoured, by odds of about 8:1 (the check), not excluded.
+- D₂ sits 3.2σ below the hypothesis's central prediction of +1.5% on the measurement error alone, and 1.8σ below it once the prediction's own uncertainty is included.
+- At 2σ, D₂ < 1.0%. So outer links could carry at most about two thirds of Run 72b's difference.
+
+**What the check added.**
+
+1. **Independent reproduction.** Every registered number was reproduced from the raw files with the checker's own code, and the verdict logic matches the registration.
+   - The checker's own solver reproduces the theory's response matrices to 10⁻¹² and its own-dips to 10⁻⁶.
+   - Its flat entry equals Run 72's flat theory.
+2. **The registration and runs are clean.**
+   - Every registered file matches its hash, and all 40 outputs were written after the hash time.
+   - The parameters are as registered, conservation is exact, and no outputs are duplicated.
+   - Seeds do not overlap any earlier run's.
+   - The batch B restart did no harm: outputs are written only at the end of a run, and seeds 311 and 411 are complete.
+3. **The lattice is as registered.** Only the outer x-links differ, each clock's own link is c_n, and the links are symmetric.
+4. **What the FAIL means: disfavoured, not excluded.**
+   - The likelihood ratio, no effect against the linear outer-link effect, is about 8:1.
+   - With the prediction's own uncertainty, the true chance of a PASS under the hypothesis was about 0.67, not the planned 0.95.
+   - **The broader form of the hypothesis also fails.** At a = e^+1 the clocks' places have more total outflow (3.44) than at negative curvature (2.85), yet the error stays at +0.40%. So "faster refill at the clocks" in general is disfavoured, not only the outer x-links.
+   - A non-monotonic dependence, or one tied to other links, is not excluded.
+5. **Post hoc: the design-2 error on every lattice** (high medium; each lattice has its own seeds).
+
+| lattice | design-2 error | seed halves |
+|---|---|---|
+| flat (5 seeds) | +1.06 ± 0.64% | — |
+| s = +1 | +0.70 ± 0.22% | +1.02 / +0.38 |
+| a = e^−1 | +0.64 ± 0.24% | +0.46 / +0.81 |
+| a = e^+1 | +0.40 ± 0.31% | +0.28 / +0.51 |
+| s = −1 | −0.06 ± 0.17% | −0.26 ± 0.23 / +0.14 ± 0.24 |
+
+   - **The other four agree:** χ² = 1.08 for 3 degrees of freedom, with a mean of +0.63 ± 0.14%.
+   - **Negative curvature is the single outlier.** *(Run 76: the replication was UNDECIDED, and with the scatter pooled over all lattices the corrected figure below falls to about 1.4–1.75σ.)* Locally it is 3.1σ (p = 0.0017). Corrected for picking it out of 5 lattices it is 2.6σ, or 2.4σ out of 10 cells. A homogeneity test of all five gives p = 0.027.
+   - **It has weakened.** Run 72's original seeds (201–210), where it was first seen, deviate at 3.3σ. Run 72b's new seeds (211–220), in effect a replication, deviate by −0.49 ± 0.28% (1.8σ).
+   - **A candidate mechanism (post hoc):** negative curvature is the only lattice where the theory's cross-coupling between the two designs, M₁₂, is negative.
+     - offset = 0.25% + 2.9%·M₁₂ fits all five lattices.
+     - The fit rests entirely on the s = −1 cell, so it restates the same 3σ rather than supporting it.
+     - Theory-only screening shows a negative M₁₂ needs strong x-links and weak y/z-links together. So scaling only the y/z-links at the clocks would not discriminate.
+6. **The cheapest decisive next test:** replicate the s = −1 lattice with 20 fresh seeds (about 1.1 hours), registered against the four-lattice baseline of +0.63 ± 0.14%.
+   - If the full −0.69% deviation is real, it shows at about 3σ.
+   - If the weaker −0.49% is the truth, about 2.2σ.
+   - Only if it replicates is a mechanism test (a lattice screened to have a strongly negative M₁₂) worth running.
+7. **Design 1** shows a uniform +0.2–0.4% theory underestimate on every lattice.
+
+**Reading.**
+1. **The outer links are not the main cause of the sign effect.** Both outer-link lattices sit with the flat and positive-curvature lattices, at a design-2 error of about +0.4 to +0.7%.
+   - Run 72b's negative-curvature lattice remains the one cell near zero.
+   - Corrected for having been picked out, it is now about 2.5σ, and it weakened from Run 72's seeds to Run 72b's (the check).
+   - The sign effect is no longer well established. One replication with fresh seeds would settle it.
+2. **The theory follows the links' effect on the clocks closely.** Changing the outer links moves the own-dips by 12–17%:
+   - design 1: 0.2994 → 0.3366 and 0.2629;
+   - design 2: 0.1797 → 0.2101 and 0.1526.
+   The zero-range theory, fixed beforehand, tracks these changes to within 0.3–0.6% at both strengths.
+3. **The theory's residual error is about +0.3% for design 1 and +0.6% for design 2** on every lattice tested, except possibly Run 72b's negative-curvature one. So the zero-range theory is accurate to about half a percent for these clocks.
+4. **Limits:**
+   - one p_s, high medium only;
+   - the hypothesis's predicted size came from Run 72b's own uncertain slope;
+   - the measured scatter was about a third larger than planned.
+
+## 9zzy. Run 76: does the negative-curvature design-2 cell replicate?
+
+*21–22 October 2026. This is the replication recommended by Run 75's check. It was registered and hashed before any run (`rep76/PREREG_76.md`, 21:37:16 UTC), with the baseline fixed beforehand (`baseline76.json`).*
+- *The registration's header time was corrected and the files re-hashed 5 s after a first hash, before any run.*
+- *An independent agent checked the run (below).*
+
+**Question.** On Run 72's negative-curvature lattice (s = −1), the zero-range theory's error for design 2 was −0.06 ± 0.17% (seeds 201–220). On the four other lattices tested it is +0.63 ± 0.14%.
+- That deviation was about 2.5σ after correcting for having been picked out.
+- It had weakened from Run 72's seeds to Run 72b's.
+- Run 75 showed it does not come from the clocks' outer links.
+
+Does it replicate with fresh seeds?
+
+**Design.** Run 72's engine and lattice, unchanged (s = −1, λ = 0.25, high medium, p_s = 1, Run 24's 216 clocks). There are 40 fresh seeds, 221–260. For design j, the theory's error is
+$$
+\text{off}_j=\frac{\overline{\text{dip}}_j}{\text{dip}^{\rm theory}_j}-1,\qquad \Delta=\text{off}_2^{\,s=-1}(\text{seeds }221\text{–}260)-\text{off}_2^{\rm base},\qquad \text{off}_2^{\rm base}=+0.632\pm0.142\% .
+$$
+- **K76a REPLICATES** if Δ ≤ −3σ.
+- **DOES NOT REPLICATE** if Δ ≥ −1σ.
+- **UNDECIDED** otherwise.
+
+**Results** (conservation exact in every run).
+
+| s = −1 seeds | design-2 error | Δ from baseline | design-1 error |
+|---|---|---|---|
+| 201–220 (Runs 72, 72b; where the cell was found) | −0.06 ± 0.17% | −0.69 ± 0.22% | +0.16 ± 0.10% |
+| **221–260 (Run 76, registered)** | **+0.26 ± 0.16%** | **−0.37 ± 0.22% (−1.7σ)** | +0.22 ± 0.06% |
+| all 60 (reported) | +0.15 ± 0.12% | −0.48 ± 0.19% (−2.5σ) | +0.20 ± 0.05% |
+
+- **The scatter was larger than planned, but normal.** The new seeds' standard error came out at 0.16%, against an expected 0.12%.
+  - The plan had taken its figure from seeds 201–220, whose scatter was unusually small (0.75% per seed, p = 0.03).
+  - The new seeds scatter like every other lattice: 1.03% per seed, against 1.00–1.43% elsewhere (the check).
+- **Design 1 shows no deviation:** Δ = −0.05 ± 0.07% on the new seeds.
+
+![Run 76](figures/76_replication.png)
+
+**Verdict.**
+- **K76a is UNDECIDED.** The fresh seeds put the cell at −0.37 ± 0.22% from the baseline: about half the deviation that first drew attention, at 1.7σ.
+- It neither clears the 3σ bar nor sits within 1σ of the baseline.
+
+**What the check added.**
+
+1. **Independent reproduction.** Every number was reproduced from the run files, the baseline included, and the verdict logic matches the registration.
+   - All 40 runs post-date the hash, use the registered parameters and conserve exactly.
+   - No output duplicates an earlier run, and no seed overlaps an earlier run's.
+2. **Power was overstated in the registration.** With a realistic σ (0.23%), the chance of REPLICATES was:
+   - about 0.48 if the first deviation was real at full size;
+   - 0.17 at −0.48%;
+   - 0.08 at −0.37%.
+   The 0.84 chance of DOES NOT REPLICATE under no effect was right.
+3. **The seed blocks show no steady trend.**
+
+| s = −1 seeds | Δ from baseline |
+|---|---|
+| 201–210 | −0.89 ± 0.27% |
+| 211–220 | −0.49 ± 0.28% |
+| 221–240 | −0.14 ± 0.29% |
+| 241–260 | −0.61 ± 0.25% |
+
+   - The blocks agree with each other (p = 0.16). The "weakening" from 201–210 to 211–220 does not continue.
+   - The discovery seeds and the fresh seeds differ by −0.32 ± 0.23% (1.4σ). That fits a discovery inflated by selection, but noise explains it too.
+4. **The combined evidence stays under 3σ.**
+   - The look-elsewhere-corrected discovery combined with the replication gives 1.8–2.7σ, depending on how the discovery's scatter is estimated.
+   - With the scatter pooled over all lattices, Run 75's "about 2.5σ" falls to about 1.4–1.75σ.
+   - From the replication alone, the likelihood ratio of the best-fitting shift (−0.37%) against zero is 4.4. For the full first size (−0.69%) against zero it is 1.5.
+5. **How big a lattice-dependent piece could be.**
+   - The fresh seeds place the s = −1 shift between −0.80% and +0.05% (95%).
+   - The spread of the design-2 error between lattices is at most about 0.75% (95%).
+   - For design 1 it is under 0.17%.
+6. **What a 3σ answer would cost.** For a −0.37% shift, about 230 more runs (about 125 on s = −1 and 105 on baseline lattices) for an even chance, and about 440 for 80% power. That is 11–22 hours.
+   - More s = −1 seeds alone cannot get there, because the baseline's ±0.14% already exceeds the 0.12% required.
+7. **The theory's error has a sign.** All ten per-lattice errors (five lattices, two designs) are positive, so the theory slightly underestimates the dips.
+
+**Reading.**
+1. **The negative-curvature cell is not established.** In fresh data it sits 0.37 ± 0.22% below the other lattices: half its first size, and not significant. A lattice-dependent part of the theory's design-2 error is neither shown nor excluded; the fresh seeds allow up to about 0.8%.
+2. **The zero-range theory slightly underestimates the clocks' own dips** (high medium, p_s = 1, five lattices: flat, s = ±1, a = e^±1):
+   - design 1: by 0.25 ± 0.03%;
+   - design 2: by 0.63 ± 0.14% on the four baseline lattices, or 0.47 ± 0.11% with the s = −1 replication included.
+   Within errors the underestimate is the same on every lattice, and each single lattice's design-2 error is known only to ±0.16–0.64%. In absolute terms it is about 0.1 points of occupancy, on dips of about 18–29% of ambient.
+3. **The line is closed here** unless a later result depends on it. A 3σ answer would take 230–440 more runs (11–22 hours, the check). The question is about the theory's last fraction of a percent, at curvatures far larger than any physical one: Run 70's check scales the design-dependent effect to about 10⁻³⁹ for a neutron star.
+4. **For future replications,** plan σ from the scatter pooled across lattices, not from the discovery cell's own scatter (the check).
+
+## 9zzz. Design note: a lattice curved by the medium's own stress (calculation)
+
+21 October 2026. This note asks whether the engine can test clock universality on the medium's space γ̃ when γ̃ is curved by the medium's own field, as option 3 requires, rather than by an imposed shape (Runs 70, 72, 72b, 75). It is a calculation; no engine run was made.
+
+*Corrected 22 October, after Run 77 and its check. The limit in 2(b) is on the source's draw times the distance to the reservoir, not on how far the lattice stretches, and it belongs to this representation: a regular equal-place lattice with one global hop rate, whose clocks are not slowed with it. The affected statements are marked.*
+
+**1. What can be built on a cubic lattice.**
+
+Under option 3, outside matter (ε → 0):
+$$
+\tilde R_{ij}=2\,\partial_i\varphi\,\partial_j\varphi,\qquad \tilde\Delta\varphi=0 .
+$$
+
+**Spherical symmetry is out.** A cubic lattice with nearest-neighbour hops can carry only a diagonal metric. Equal places need √γ̃ = 1. A spherically symmetric γ̃ with unit determinant is not diagonal in Cartesian coordinates. Run 70's conformal lattice can carry it, but that reopens the "per place or per volume" question that Run 72 closed.
+
+**Planar symmetry works exactly.** Write the metric as
+$$
+\tilde\gamma = ds^2+h(s)^2(dy^2+dz^2),\qquad \tilde R_{ss}=-\frac{2h''}{h},\qquad \tilde R_{yy}=-(hh''+h'^2).
+$$
+Then:
+- R̃_yy = 0 gives (hh′)′ = 0, so B ≡ h² is linear in s.
+- R̃_ss = 2φ_s² gives φ_s = F/B, with F a constant: the flux of φ per unit area, which is fixed by the source.
+- Δ̃φ = 0 then holds automatically.
+
+In the equal-place coordinate ξ (dξ = B ds), this is exactly Run 72's lattice form, with x-link conductance B² and y/z-link conductance 1/B:
+$$
+\tilde\gamma=B^{-2}d\xi^2+B\,(dy^2+dz^2),\qquad B(\xi)^2=B_0^2+4F|\xi|,\qquad \frac{d\varphi}{d\xi}=\frac{F}{B^2},\qquad \tilde R=\frac{2F^2}{B^2}.
+$$
+The lattice's own flux conservation, B²φ_ξ = const, is the same statement as the field equation. So a slab of matter curves the lattice in a closed form.
+
+**2. Two obstacles in the engine as built.**
+
+**(a) Where released possibility goes.** The engine returns released units uniformly over the periodic box. In the field equation that is a uniform negative source with no stress. Option 3's static equations (GR's) have no static solution with such a source, so an exactly self-consistent γ̃ does not exist in the engine as it stands.
+- **The fix is a boundary condition, not a rule.** Return the units in a "reservoir" plane far from the slab, standing in for infinity. Between slab and reservoir the flux is then constant and the solution above is exact.
+- **It is still a change to the engine's release step.** For that reason it is flagged here rather than assumed.
+
+**(b) The one-hop-per-tick cap.** A hop probability per tick cannot exceed one, so the conductances are scaled by c_n = 6/max(2B² + 4/B).
+- c_n is the medium's hop rate per tick, and the field's gradient scales as 1/c_n (F = 6J/(c·c_n), with J the flux per place per tick).
+- So a more stretched γ̃ forces a slower medium everywhere, which deepens the well, which stretches γ̃ further.
+- Estimated with the closed form above (slab draw σ per place per tick, reservoir at distance ξ_r):
+
+| σ | ξ_r | c_n | F | B² at reservoir | R̃ at slab | design effect ≈ 0.01·R̃ | φ: flat − curved |
+|---|---|---|---|---|---|---|---|
+| 0.01 | 6 | 0.95 | 0.022 | 1.5 | 0.001 | 10⁻⁵ | 0.03 |
+| 0.01 | 12 | 0.85 | 0.025 | 2.2 | 0.001 | 10⁻⁵ | 0.10 |
+| 0.02 | 6 | 0.85 | 0.050 | 2.2 | 0.005 | 5×10⁻⁵ | 0.10 |
+| 0.02 | 12 | 0.52 | 0.081 | 4.9 | 0.013 | 10⁻⁴ | 0.58 |
+| 0.05 | 6 | 0.29 | 0.36 | 9.6 | 0.26 | 3×10⁻³ | 1.6 |
+| 0.02 | 18 | runs away | | | | | |
+| 0.05 | ≥ 12 | runs away | | | | | |
+
+- For a fixed draw the loop runs away when σ ≳ c/(4ξ_r): the draw times the distance to the reservoir is then too large, c_n collapses and no stationary lattice exists. Below that bound a stationary lattice exists however stretched it is. *(Corrected after Run 77: the first version put the limit at B² ≈ 10. Run 77's check found self-consistent lattices with B² up to 229 at ξ_r = 18, and about 1085 at ξ_r = 108.)*
+- This is a limit of a regular equal-place lattice with one global hop rate, not of option 3. It disappears if the clocks slow with the hops (a uniform change of time unit), and an irregular graph of isotropic, equal-volume cells, or a local tick, would avoid it (Run 77's check).
+
+**3. What this means.**
+
+1. **Clock universality on a self-curved lattice can add little to what is already done.** Large stress curvature appears only next to a strong source, and falls off as 1/B² away from it. *(Corrected after Run 77: the first version said the largest curvature the engine can carry stably is R̃ ≈ 0.3 per spacing². On Run 77's box, self-consistent lattices reach R̃ = 2F² ≈ 0.8 at the sheet with the medium slowed to c_n ≈ 0.07 (k = 5), and about 20 with c_n ≈ 0.014 (k = 4), at the cost of correspondingly longer runs.)*
+   - There the design-dependent clock effect is about 10⁻³, at the limit of resolution. It is about 10⁻⁵ to 10⁻⁴ elsewhere.
+   - Runs 72, 72b and 75 tested the same mechanism at imposed curvature R̃ = ±1.1, where it is large, and the theory matched to about half a percent.
+   - The theory scales the effect to about 10⁻³⁹ for a neutron star.
+   - So the open item "clock universality on a stress-curved lattice" can reasonably be recorded as settled by those runs plus the scaling.
+2. **A limit on "the engine carries option 3 as built"** (§9zzo), *corrected after Run 77*.
+   - With one global hop rate on a regular equal-place lattice, a self-consistent planar lattice exists only while the source's draw times the distance to the reservoir stays small. Within that bound γ̃ can stretch far (B² up to 229 on Run 77's box). *(The first version said only mildly stretched γ̃, B² ≲ 10.)*
+   - The limit comes from slowing the medium's hops while the clocks keep their rate, which changes G. It disappears if both slow together, and an isotropic-cell graph or a local tick would avoid it (Run 77's check).
+   - *Withdrawn:* "the engine carries option 3 in weak and moderate fields, not near holes." Spherical symmetry, where the stretch peaks near the source rather than at the far boundary, is untested, so this note says nothing about holes.
+3. **One run would still add something:** the engine's own medium on its self-curved lattice, giving option 3's planar field rather than option 1's.
+   - The difference is large: 20–60% in φ at the reservoir for σ = 0.01–0.02.
+   - It would show by simulation, not only by calculation, that the medium hopping on γ̃ is option 3.
+   - It needs the reservoir boundary condition (2a).
+
+**4. Choices.**
+
+| choice | what it gives | cost |
+|---|---|---|
+| (i) Record universality on γ̃ as settled (Runs 72, 72b, 75 plus scaling), and record the hop-cap limit | closes the item; states a real limit of the engine | none |
+| (ii) As (i), plus a registered planar run with reservoir release (σ ≈ 0.02, ξ_r = 6–12) | shows the engine's medium gives option 3's planar field on its self-curved lattice | an engine change to the release step (a boundary condition); about 2 hours |
+| (iii) Lift the hop cap (several hops per tick, or a local tick) so strong fields can be carried | the engine near holes | a rule-level change to the hop rule, which needs a ruling |
+
+The recommendation is (i) now, and (ii) if a simulated demonstration of option 3 is wanted. (iii) is a question for the ontology, not a run.
+
+*After Run 77: (ii) was run (§9zzz2). The limit may need no change to the hop rule (clocks slowed with the hops, or isotropic cells), so (iii) is first a question about how the lattice represents γ̃ (the check).*
+
+## 9zzz2. Run 77: a flat sheet of matter on a lattice bent by its own field
+
+*22 October 2026. Allen (07:09): "lets do a registered run on a flat sheet of matter, with possibility returned at a far-away reservoir". This follows the design note (§9zzz). Registered and hashed before any engine run (`sheet77/PREREG_77.md`), with the theory's predictions computed and hashed beforehand (`theory77.json`).*
+- *Amendment 1: the first launch ran no simulation. The driver's skip-finished-jobs filter indexed past the end of each job line, so its job list came out empty, and the rebuild steps then stopped while reading their arguments. The filter was fixed, a guard added, and everything re-hashed (05:20:06 UTC) before any run. Only the driver and the registration text changed; no data had been made.*
+- *An independent agent checked the run (below). Its findings correct several statements made when the results first came in; the corrected statements are the ones given here.*
+
+**Questions (as registered).**
+1. On a lattice built so that the medium's space is curved by the stress of the medium's own field, as option 3 says, does the engine's medium carry the field the lattice was built from? Does that field have option 3's form rather than option 1's, and do clocks read it as option 3's clock?
+2. Does the engine confirm the limit the design note found? With one hop per tick, a more stretched lattice forces a slower medium everywhere, which strengthens the field, which stretches the lattice further.
+
+**The setup.**
+- **Lattice:** 36³, periodic, p_s = 1, about 64 units per place.
+- **The sheet:** all 648 pairs filling the plane x = 0. Each holds until the possibility present at its two places, summed over ticks, reaches kH (H = 640). The hold multiplier k sets the sheet's strength: smaller k, stronger draw.
+- **The reservoir (a boundary condition, the one change to the engine):** possibility the sheet releases re-enters over the plane x = 18, standing in for infinity, instead of over the whole box.
+- **Option 3's planar solution,** in Run 72's equal-place form, with ξ the distance from the sheet:
+$$
+\tilde\gamma=B^{-2}d\xi^2+B\,(dy^2+dz^2),\qquad B(\xi)^2=1+4F\xi,\qquad \frac{d\varphi}{d\xi}=-\frac{F}{B^2}.
+$$
+  - This gives R̃_ξξ = 2φ_ξ², R̃_yy = 0 and Δ̃φ = 0; the scalar curvature is R̃ = 2F²/B², and B²φ_ξ = −F is the conserved flux.
+  - Links: x-links c_n·B², y/z-links c_n/B.
+  - The one-hop-per-tick cap needs c_n·(total) ≤ 6 at every place, so a bent lattice runs at c_n = cn_max(F), set by the most stretched links, at the reservoir.
+- **The flux the engine's medium carries.** Each unit hops with probability f(P)/P (never capped: its largest value, at P = 1, is 0.99) and takes link k with probability W_k/6, so the mean current along a link is W·[f(P) − f(P′)]/6. The sheet draws σ per place per tick, so the current across every x-link is J = σ/2, and
+$$
+J=\frac{c_nB^2}{6}\,\big[z(\xi)-z(\xi+1)\big]\quad\Rightarrow\quad B^2\,\big|\Delta\varphi\big|=F_{\rm eng}=\frac{3\sigma}{c\,c_n}.
+$$
+  A lattice is self-consistent when it is built with the flux it then carries, F = F_eng.
+- **The theory** (`theory77.py`, fixed beforehand): the planar mean field, each plane at P = R(z) (Run 22's equation of state), with all units conserved and the sheet's draw responding to its own well (σ = 2P_sheet/kH).
+
+**Results** (25,000 ticks per run, read over the last 15,000; every run stationary, the two reading halves agreeing in σ to 0.35%; conservation exact).
+
+| test | prediction | engine | verdict |
+|---|---|---|---|
+| **K77a** weak sheet (k = 16): self-consistency | F* = 0.03159 (fixed beforehand) | F_eng = 0.03155: −0.13 ± 0.15% (two seeds) | **PASS** |
+| **K77b** the field's shape, φ(ξ)/φ(1), ξ = 3–15 | option 3's log law on the bent lattice; option 1's straight line on the flat one (the two differ by up to 0.13) | deviations 0.0050 (bent) and 0.0041 (flat) | **PASS** |
+| **K77c** clocks: P(ξ)/P(18) against the medium's equation of state R(z) | agreement to ≤ 0.003 | 1.0×10⁻⁴ | **PASS** |
+| **K77d** stronger sheet (k = 8): self-consistency, x-conductance B² = 9.5 at the reservoir, c_n = 0.30 | F* = 0.11852 (fixed beforehand) | F_eng = 0.11848: −0.04 ± 0.18% | **PASS** |
+| **K77e** strong sheet (k = 2), no fixed point on this box: rebuild each lattice from the previous one's measured flux | registered: F grows by ≥ 1.5× then ≥ 1.3×, each step within 10% of the theory's response for the lattice actually used (sequence fixed beforehand: 0.0872 → 0.2264 → 0.4405) | 0.0869 → 0.2256 → 0.4379: ratios 2.60, 1.94; −0.36%, −0.11%, −0.35% from the theory's response on the lattices used (0.0872, 0.2259, 0.4394) | **PASS** |
+
+- **On the same sheet,** the bent lattice's field at the sheet is φ = 0.298 and the flat lattice's is 0.517 (theory 0.296 and 0.520).
+- **Option 3's mean-field clock formula,** N = (1+ε)e^(−φ) − ε, differs from the clocks by 0.005 (reported). That is the expected effect of fluctuations: because P fluctuates, the mean P exceeds the fluctuation-free p_s(e^{z/c} − 1) by about 2 units at every plane, and the exact R(z) differs from the formula by the same 0.005.
+- **On the k = 2 rebuild,** the hop rate the cap allows falls from 1 to 0.38 to 0.17 as the field grows.
+
+![Run 77](figures/77_sheet.png)
+
+**What the check added.**
+
+1. **Independent reproduction.** Every verdict number was reproduced from the run files with the checker's own code, nothing imported from Run 77's analysis or theory. The checker's solver gives the same fixed points and responses as `theory77` to better than 10⁻⁷.
+2. **Registration and runs are clean.**
+   - The second hash matches all 13 registered files. Between the two hashes only the registration text and the driver changed (the filter index and a guard); engine, geometry, theory, theory output, analysis and job list are byte-for-byte unchanged. In the failed launch no simulation ran.
+   - All nine runs post-date the second hash and have the registered parameters, with c_n = cn_max(F) exactly.
+   - Each rebuild step's lattice used exactly F = 3σ/(c·c_n) from the previous run's file.
+   - Conservation is exact in every run, and no two profiles are identical.
+3. **The engine implements the construction.**
+   - The checker computed the curvature of the planar solution numerically: R̃_ξξ − 2φ_ξ² and R̃_yy vanish to finite-difference noise (10⁻⁸ and 10⁻⁷), and Δ̃φ = 0.
+   - The engine's x-links equal c_n·B² at the link midpoints exactly, and its y/z-links equal c_n/B to 10⁻¹⁶. The total reaches the cap of 6 at the reservoir on every lattice.
+   - In the data, B²·|Δφ| / F_eng averages 0.99–1.02 over the links in every run.
+4. **The warm start was needed and does not create the agreement.**
+   - In the linearised mean field the slowest relaxation takes 6,300–12,600 ticks, comparable to the 10,000-tick burn-in.
+   - Two cold-start runs (every place starting at 64, seeds 901–902, the checker's own driver around the unchanged engine) relax with time constants of 5,900 ± 500 and 9,500 ± 700 ticks, and extrapolate to −0.06% and −0.02% from theory: the same draw as the warm starts.
+5. **What K77a–c test.**
+   - **K77a and K77d** test the planar mean field's prediction of the sheet's draw. Since c_n is fixed by the lattice, F_eng/F* − 1 = σ/σ_theory − 1. It holds to within about 0.2%.
+   - **K77b** confirms that the lattice was built as specified. The field's shape is set by the conductances through the exact current law, so it would pass on a lattice built with any flux. The bending itself was imposed from option 3's formula, not found by the engine.
+   - **K77c** tests the medium's equation of state P = R(z) (Run 22). It does not depend on the geometry.
+6. **With option 3's clock, the planar solution is flat spacetime.** In the ε → 0 limit the spacetime metric is −e^{−2φ}dt² + e^{2φ}γ̃. With φ = −½ ln B + const this is, up to constants, −B dt² + B⁻³dξ² + dy² + dz². Setting ρ = √B/F (so dρ = B^{−3/2}dξ):
+$$
+ds^2\;\propto\;-F^2\rho^2\,dt^2+d\rho^2+dy^2+dz^2 ,
+$$
+   which is Rindler space: uniform acceleration with no tidal curvature. Numerically the Riemann tensor vanishes to 5×10⁻⁵. So a static sheet under option 3 gives a uniform pull and no tides, one of GR's static plane-symmetric vacua. The other sign of the lapse would give Taub's planar solution.
+7. **"No fixed point at k = 2" holds only for this box, and the limit is not a bound on stretch.**
+
+| sheet (k) | fixed point on this box (reservoir at 18) | lattice there |
+|---|---|---|
+| 16 | F = 0.03159 | c_n 0.695, B² 3.3 at the reservoir |
+| 8 | F = 0.11852 | c_n 0.302, B² 9.5 |
+| 6 | F = 0.292 | c_n 0.137, B² 22 |
+| 5 | F = 0.628 | c_n 0.066, B² 46 |
+| 4 | F = 3.164 | c_n 0.0135, B² 229 |
+| 3, 2 | none (for k = 2, none up to F = 10⁴) | |
+
+   - **The boundary moves with the reservoir distance X_R.** The cap is set by the most stretched link, at the reservoir, where B² = 1 + 4F·X_R.
+
+| X_R | sheets with a fixed point |
+|---|---|
+| 6 | all, including k = 2 (F = 0.861) |
+| 9–18 | k ≥ 4 |
+| 24–36 | k ≥ 8 |
+| 54–108 | only k = 16 (at X_R = 108, B² ≈ 1085) |
+| 144 | none |
+
+   - So the limit is on the sheet's draw times the distance to the reservoir, not on how far the lattice stretches. For a fixed draw σ, a self-consistent lattice exists exactly when σ < c/(4X_R), however large B² becomes as σ approaches that bound. In an unbounded planar medium no self-bent lattice of this kind exists for any sheet, because the planar field does not fall off.
+   - **The choice of c_n does not rescue k = 2 on this box.** cn_max gives the smallest F_eng (F_eng ∝ 1/c_n), so any other c_n within the cap makes F_eng larger.
+   - **The runaway needs the sheet's clock to stay unslowed while the medium's hops slow.** If the hold were counted in the medium's slowed ticks (σ ∝ c_n, a uniform change of time unit for hops and clocks together), every sheet would have a fixed point: k = 2 at F = 0.139 (c_n 0.26, B² 11) on this box, and at F = 0.123 (B² 19) with the reservoir at 36.
+8. **K77e's thresholds cannot detect a missing fixed point.** Run in theory from a flat lattice, the growth criteria pass for k = 6, 5, 4, 3 and 2, and k = 6, 5 and 4 have fixed points. So K77e's PASS shows growth over three steps, matching the theory's response to 0.4%. That k = 2 has no fixed point on this box rests on the theory, which the engine confirms only on lattices with c_n ≥ 0.17, far from k = 4's 0.0135.
+9. **Wording corrected from the first draft.** "Space stretched 9.5×" was the x-conductance factor B²; the proper spacing at the reservoir is B⁻¹ = 0.32 along x and B^{1/2} = 1.76 across. k = 8 is not "near the limit": on this box k = 6, 5 and 4 also have fixed points.
+
+**Reading.**
+1. **The engine runs on option 3's planar lattice, self-consistently as built.** On a lattice built with option 3's planar geometry at the theory's fixed point, the engine's medium carries the flux the lattice was built with (−0.13 ± 0.15% for k = 16, −0.04 ± 0.18% for k = 8). The field's shape follows the lattice's conductances, and clocks read the medium's equation of state to 10⁻⁴.
+   - What is tested is the planar mean field's prediction of the sheet's draw, and the construction. The bending was imposed from option 3's formula, not found by the engine.
+   - With option 3's clock the solution is flat Rindler spacetime: a sheet gives a uniform pull and no tides (the check, a calculation).
+2. **The hop-rate limit comes from this representation; ED's rules are not shown to impose it.** With one global hop rate on a regular equal-place lattice, a self-consistent planar lattice exists only while the sheet's draw times the distance to the reservoir stays small. Within that bound the lattice can stretch very far (B² up to 229 on this box). Whether ED's rules impose any such limit is not established:
+   - the limit disappears if the sheet's clock slows with the medium's hops (a uniform change of time unit, allowed if the tick is not physical time);
+   - an irregular graph of isotropic, equal-volume cells would need no slower hop rate, and a local tick would avoid it too;
+   - spherical symmetry, where the stretch peaks near the source rather than at the far boundary, is untested, so nothing here bears on holes.
+3. **This corrects the design note (§9zzz).** Its "B² ≲ 10" and its statement that the engine carries option 3 only in weak and moderate fields, not near holes, are withdrawn (corrections noted there).
+4. **Limits:**
+   - planar symmetry only;
+   - p_s = 1, ε ≈ 1/70;
+   - the reservoir stands in for infinity;
+   - two seeds for each self-consistency test;
+   - the alternatives (slowed sheet clock, isotropic cells, local tick) are calculations, not runs.
 
 ## 10. What the record says about the ontology
 
-**Ontology decision, 15 October 2026 (Allen, after Run 14).**
+**Ontology decision, 15 October 2026 (after Run 14).**
 - **The vacuum carries no commitment.** Possibility is held and passed through empty places, but only matter commits.
 - **Clocks are matter.** A clock is a pattern that counts its own commitments, and it reads the cadence available where it sits.
 - **Accepted cost:** ED's event-layer results that run on a committing vacuum must be re-read. These are results 20–22 (the settling medium, and the arrow of time with its age relic) and result 27 (neighbouring places taking turns).
 - **What it buys:** the reach/strength trade-off (result 25) no longer constrains gravity (Run 14).
 
-**Ontology decision, 16 October 2026 (Allen, after Run 15): the clock rule.**
+**Ontology decision, 16 October 2026 (after Run 15): the clock rule.**
 - A commitment holds while a fixed amount of possibility passes its places, not for ħ global ticks. Possibility keeps no time; the committed world counts what passes.
 - **What it buys:** clocks made of matter then show redshift as real clocks do. Their slowing equals the fractional shortage, is the same for different clocks, and is linear, at every richness tested. ED's original rule gives no response where possibility is plentiful, and a clock-dependent, nonlinear one where it is scarce.
 - **What it costs:** one event-layer rule changes; result 26's bookkeeping must be re-derived; and in lean media, waiting to pay still adds a clock-dependent response.
 
 **Run 17: hop slowing belongs to patterns, not to the medium.**
-- The engine change Allen agreed to, slowing possibility's own hops by its place's clock, made the medium unstable, and it froze. It was **not adopted**; the engine is unchanged.
+- The engine change agreed to, slowing possibility's own hops by its place's clock, made the medium unstable, and it froze. It was **not adopted**; the engine is unchanged.
 - The constraint: the possibility that carries the clock field cannot be timed by it.
-- **Ontology decision, 17 October 2026 (Allen, after Run 17), provisional: the pattern rule.** A pattern of possibility hops on its place's ticks and needs free capacity there, so light moves at $c=N^2$ (γ = 1).
+- **Ontology decision, 17 October 2026 (after Run 17), provisional: the pattern rule.** A pattern of possibility hops on its place's ticks and needs free capacity there, so light moves at $c=N^2$ (γ = 1).
   - In the engine's field it gives twice the clock-only bending: to 0.5% at density 32, with misses at density 8 not yet explained.
   - It is provisional because γ = 1 is put in by the rule's two factors rather than derived.
 - **Results 20–22 and 27** were obtained with vacuum commitment, which the ontology dropped on 15 October (Run 14). They are superseded and have not been re-tested under the current rules.
@@ -6951,7 +7622,7 @@ $$
 - Whether it falls *like everything else* depends on where Str is charged.
   - **Str on spatial loops only** (Runs 12–13 as written): the knot's twist weighs but does not resist, and it falls about 3× too fast. MICROSCOPE excludes this by many orders of magnitude.
   - **Str also on loops that include a tick:** inertia equals energy in the continuum. Measured properly on the fine grid (Run 18b), the knot falls at 0.94–0.98 of universal, which is its own lattice weight ÷ inertia to 1–2%, and that lattice shortfall shrank 3.4× when the grid spacing halved.
-- **Ontology decision, 17 October 2026 (Allen, after Run 18), provisional: twist is charged on every closed loop of the history.** That includes loops made of one relation and one tick, with ticks and relations priced alike.
+- **Ontology decision, 17 October 2026 (after Run 18), provisional: twist is charged on every closed loop of the history.** That includes loops made of one relation and one tick, with ticks and relations priced alike.
   - **Why the price must be equal, not just non-zero.** If twist across a tick cost a fraction f of twist across a relation, a knot's inertia would be $M=\tfrac23E_{coh}+f\,\tfrac43E_{str}$ while its weight stays E. Bodies with different shares of twist energy would then fall at different rates. MICROSCOPE (η < ~10⁻¹⁵) forces $f=1$ to about that precision.
   - **How it fits the record.**
     - It is the one-hop-per-tick exchange rate between ticks and relations, the same limit that made patterns fall universally in Run 16.
@@ -6989,9 +7660,9 @@ The capacity *wave* of Run 5 is therefore not the final form. Its static profile
 
 With one added rule, matter occupying the same fraction of bandwidth for hopping between relations as for ticking ("free capacity"), the ontology also gives the observed bending of light and Shapiro delay at first order (Run 9). With relations comparing cadence *ratios* (a multiplicative budget), and bodies moving to maximise their own commitment count, it also gives Mercury's perihelion advance (Run 10). Together these are the exponential metric, which agrees with GR at first post-Newtonian order and has no horizons.
 
-**But the adopted engine does not produce the multiplicative budget (Run 19).** With the vacuum not committing and the flow clock rule, a well is linear in its source outside matter: the clock rate is $N=1-U$, not $e^{-U}$. That is β = ½. With the pattern rule (γ = 1) it gives Mercury at 50.1″ per century and Nordtvedt η = −2, both excluded. Run 20 measured it directly: **β = 0.47 ± 0.03**. Runs 9–10's exponential metric is therefore a target the engine does not yet meet. Meeting it needs clocks that slow as $e^{-\delta}$, or a well equation linear in $\ln N$. **That is a decision for Allen.**
+**But the adopted engine does not produce the multiplicative budget (Run 19).** With the vacuum not committing and the flow clock rule, a well is linear in its source outside matter: the clock rate is $N=1-U$, not $e^{-U}$. That is β = ½. With the pattern rule (γ = 1) it gives Mercury at 50.1″ per century and Nordtvedt η = −2, both excluded. Run 20 measured it directly: **β = 0.47 ± 0.03**. Runs 9–10's exponential metric is therefore a target the engine does not yet meet. Meeting it needs clocks that slow as $e^{-\delta}$, or a well equation linear in $\ln N$. **That needs a ruling.**
 
-**Ontology decision, 18 October 2026 (Allen, after Runs 22–24), provisional: the ratio medium and the presence clock (Candidate A′).**
+**Ontology decision, 18 October 2026 (after Runs 22–24), provisional: the ratio medium and the presence clock (Candidate A′).**
 - **The medium.** Possibility's outflow from a place grows as $c\ln(1+P/p_s)$ with $c=0.99/\ln(1+1/p_s)$. It is linear in P below the crossover $p_s$ and compares ratios above it. This replaces the old wander (each unit hopping with a fixed chance).
 - **The clock.** A commitment holds until a fixed amount of possibility *present* at its places, summed over ticks, accumulates. This replaces the 16 October flow clock, which counted possibility *passing*.
 - **Accepted constraints, not predictions:**
@@ -7016,13 +7687,13 @@ With one added rule, matter occupying the same fraction of bandwidth for hopping
   - A presence clock reads the possibility at its own places, which its own draw depletes: by about 19% for a lone clock (Run 23), and 24–32% among Run 22's crowded probes.
   - Near matter that self-depletion shrinks, so clocks that draw more slow less. Different designs disagree by 4–6%.
   - The self-dip shrank by only 4–6% from 8 to 32 per place. The theory's reason is that the logarithmic medium refills a drained place only logarithmically.
-  - Real clocks agree to about 10⁻⁶. **I judge Candidate A as built (p_s = 1) excluded.** The rules adopted on 15–16 October stand, with β = ½ still unsolved.
+  - Real clocks agree to about 10⁻⁶. **Candidate A as built (p_s = 1) is judged excluded.** The rules adopted on 15–16 October stand, with β = ½ still unsolved.
 - **The one exponential amplification does both jobs.** It is what makes β = 1, and (in theory) what makes one commitment's small outflow deficit an order-one dip. The way out is a large crossover scale $p_s$, with matter light compared with it and $P_0\gg p_s$ (§11c). Its kill tests passed. In Run 23 a lone clock's self-dip fell as $p_s^{-0.94}$, and β → 1 once $P_0/p_s\gtrsim256$. In Run 24 clocks of different make converged as $p_s^{-0.85}$. Real clocks need $p_s\gtrsim4\times10^5$ and about 10⁹ units per place (extrapolated).
 
 **The arrow of time (Run 29).**
 - The engine's bottom is one-way: commitments absolutely, and the vacuum's wandering too (the global tick acting on the ratio rule).
 - A clock's time-averaged record loses most of the order, falling as 1/T. Over long windows the record becomes the sum of what it read. Averaging over space does not remove the order; averaging over time does.
-- This is Allen's coarse-graining claim, instantiated in his own engine. It is not a test of nature: the leak goes as c/T, and c and the tick length are unknown at physical scales.
+- This is ED's coarse-graining claim, instantiated in ED's own engine. It is not a test of nature: the leak goes as c/T, and c and the tick length are unknown at physical scales.
 
 **Sourcing (Run 30).** A body's pull is its count of matter × its local clock rate. That is exactly the rest-mass term of GR's Tolman mass (ζ₂ = 2(β − 1)). It overturns Attempt 03's F2 reading, which used the proper density. How moving matter and stress source gravity is still open.
 
@@ -7032,34 +7703,34 @@ With one added rule, matter occupying the same fraction of bandwidth for hopping
 - ED needs a rule for how the field changes:
   - a deficit carried as a wave (the static limit unchanged, changes at c)
   - places that move with matter, so relative motion is shear (Run 11b)
-  - Allen's screened-wake split, which needs a second channel the engine lacks
+  - ED's screened-wake split, which needs a second channel the engine lacks
 
-**Horizons (Run 32).** None. A static body's draw is its ticking, so its own well throttles it, and the clock rate outside matter never reaches zero. In the engine at 128 commitments per pair, shell means are 7.2 or more and the lowest place outside the pairs holds 0.35. The idealised zero-clock surface is cold (κ = 0). ED's radiation papers need κ > 0, so they do not apply to static engine solutions. This matches Attempt B's B-39 and Attempt C's C-O39. *Under the provisional option 3 with ED's medium (Run 67): a static hole's clock stops at the same kind of cold surface, where GR's lapse would be p_s/P∞, just outside GR's horizon. There is no event horizon, and κ = 0, so the hole does not radiate at Hawking's temperature; that conflicts with the ruling that black holes evaporate. Run 68 confirms it for a collapse: a transient of about 8M ln(P∞/p_s), then nothing (for Allen's ruling).*
+**Horizons (Run 32).** None. A static body's draw is its ticking, so its own well throttles it, and the clock rate outside matter never reaches zero. In the engine at 128 commitments per pair, shell means are 7.2 or more and the lowest place outside the pairs holds 0.35. The idealised zero-clock surface is cold (κ = 0). ED's radiation papers need κ > 0, so they do not apply to static engine solutions. This matches Attempt B's B-39 and Attempt C's C-O39. *Under the provisional option 3 with ED's medium (Run 67): a static hole's clock stops at the same kind of cold surface, where GR's lapse would be p_s/P∞, just outside GR's horizon. There is no event horizon, and κ = 0, so the hole does not radiate at Hawking's temperature; that conflicts with the ruling that black holes evaporate. Run 68 confirms it for a collapse: a transient of about 8M ln(P∞/p_s), then nothing (for the ruling).*
 
 **Preferred frame and frame dragging (Run 34).**
 - A clock field fixed each tick with no current field gives α₁ = −8, α₂ = −1 and no frame dragging: excluded. The engine as built, with its wake, is not of PPN form, but it has no frame dragging either way, since its flow is a gradient.
 - With patterns riding possibility's flow, conservation gives α₂ = 0 (given two stated premises).
 - α₁ = 0, and with it frame dragging (the same coefficient), needs moving matter's momentum to source a circulating current at strength 4 (λ_J = 4, to 2×10⁻⁵). α₃ = 0 needs Run 33's R-b weight. Both are input. Whether they are one piece of motion physics, as they are in GR (the boost), is a hypothesis.
 - No derived candidate passes; the registered kill rule could not fire because it accepted candidates put in.
-- **Allen's rulings (19 October).** Adopted: the clock field fixed each tick and patterns riding possibility's flow. The tick is not physical time. The input chosen is Lorentz invariance at first post-Newtonian order (a moving body's field is its boosted rest field, up to relabelling the tick), the same input as Run 18's. It gives α₁ = α₃ = 0 and GR's frame dragging, and with the derived ζ₁ = ξ = α₂ = 0 and Run 30's ζ₂ the Earth–Moon test is met in full: $\eta_N=\tfrac{10}{3}(\beta-1)$.
+- **The rulings (19 October).** Adopted: the clock field fixed each tick and patterns riding possibility's flow. The tick is not physical time. The input chosen is Lorentz invariance at first post-Newtonian order (a moving body's field is its boosted rest field, up to relabelling the tick), the same input as Run 18's. It gives α₁ = α₃ = 0 and GR's frame dragging, and with the derived ζ₁ = ξ = α₂ = 0 and Run 30's ζ₂ the Earth–Moon test is met in full: $\eta_N=\tfrac{10}{3}(\beta-1)$.
 
 **The engine on the adopted rules (Run 35).** The clock field fixed each tick builds as the wander rule's stationary law, drawn afresh each tick. The static draw matches the earlier engine to 0.1%, and a moving body keeps its well and draw at both speeds tried. With no memory in the medium, the clock record's long one-way tail vanishes, so Run 29's tail needed the medium's memory. Derived: the vacuum is then in detailed balance, so the arrow lives in commitment, the inflow to matter, and clocks.
 
-**Pattern energy (Runs 33, 36).** Allen ruled that a pattern's rest energy draws, so the adopted rule counts energy plus momentum flux. On the engine it beats energy-only but does not count binding once: +13% with the standard compact matter, 0.4–2.6% with weak-field matter. Part of the cause is that bodies held on fixed places respond to outside wells with weight 1/(1 + U_self) instead of 1.
+**Pattern energy (Runs 33, 36).** It was ruled that a pattern's rest energy draws, so the adopted rule counts energy plus momentum flux. On the engine it beats energy-only but does not count binding once: +13% with the standard compact matter, 0.4–2.6% with weak-field matter. Part of the cause is that bodies held on fixed places respond to outside wells with weight 1/(1 + U_self) instead of 1.
 
 **Bodies and binding (Runs 40–40c).** A body that keeps its proper size responds to outside wells with weight 1 in an unbounded medium. With it, at weak field, a bound pattern pulls by ħω, binding counted once; energy alone misses by two bindings. At strong field the count misses by about one binding, a second-order departure from GR.
 
 **The strong field with spin (Run 41).** Both rotating exteriors of the adopted metric fail GW250114's ringdown at the remnant's spin. The strong field is now the adopted rules' main disagreement with data.
 
-**Binding inside bodies (Run 42).** A pattern inside a body pulls by ħω, binding counted once at weak field, only if the body's internal stress draws, with weight 1 per direction (Tolman's 3p). Without it the count misses by most of a binding. So the Lorentz input must cover a body's stresses as well as its patterns' momentum flux: the whole source transforms together. Adopted by Allen (19 October).
+**Binding inside bodies (Run 42).** A pattern inside a body pulls by ħω, binding counted once at weak field, only if the body's internal stress draws, with weight 1 per direction (Tolman's 3p). Without it the count misses by most of a binding. So the Lorentz input must cover a body's stresses as well as its patterns' momentum flux: the whole source transforms together. Adopted (19 October).
 
-**ED's core under option A (Run 43).** With Kerr's exterior as a tracked input (Allen, 19 October), the core replaces the horizon. It must absorb at least a few tenths of a percent of what reaches it, or spinning remnants go unstable. "What reaches the core commits" (total absorption) passes everything and leaves no echo; partial absorption would leave echoes spaced by at least 29 ms for GW250114's remnant. *Under option 3 with ED's medium (Run 67) a static hole's core surface is at infinite tortoise distance, so it absorbs without a ruling, and an infaller meets a curvature singularity there (ED's "commits", consistent with the ruling, not derived).*
+**ED's core under option A (Run 43).** With Kerr's exterior as a tracked input (19 October), the core replaces the horizon. It must absorb at least a few tenths of a percent of what reaches it, or spinning remnants go unstable. "What reaches the core commits" (total absorption) passes everything and leaves no echo; partial absorption would leave echoes spaced by at least 29 ms for GW250114's remnant. *Under option 3 with ED's medium (Run 67) a static hole's core surface is at infinite tortoise distance, so it absorbs without a ruling, and an infaller meets a curvature singularity there (ED's "commits", consistent with the ruling, not derived).*
 
 **Binding inside bodies, refined (Run 44).** On a grid twice as fine the pass holds, and what remains goes to zero with the body's own field: a second-order term, ≈ −1.25 U_self·b. It is negligible for ordinary bodies; for neutron stars it is a potential falsifier, the next thing to test.
 
 **Neutron stars and the pattern rule (Run 45).** At neutron-star strength the body's own binding pulls once and falls within what the engine resolves. A bound pattern's binding falls with the wrong weight at first order, because the engine's massive patterns are coded as flat-space waves with a redshifted mass. The adopted pattern rule is worded for all patterns but was never written for massive ones. Read as the wave equation in −N²dt² + N⁻²dx², it removes most of the defect (post hoc; Run 46 to test). The pulsar triple also tightens the scale bound to P₀/p_s ≳ 10⁵.
 
-**The full pattern rule (Runs 46–46c).** Written for massive patterns as the wave equation in −N²dt² + N⁻²dx², with the Tolman/Komar draw, it removes Run 45's first-order failure. At neutron-star strength, with a converged medium table (Run 46c), a bound pattern falls like its energy to a few ×10⁻⁴ by its frequency, and by its far field to within about 2×10⁻³ if the leading grid error is h². Run 48 made the dilation argument exact: in a scale-free medium the fall defect vanishes in the continuum. The body's own fall passes as registered. No registered fall test was falsified. Weak-field binding still counts once. The second-order pull miss of 4% at neutron-star compactness came mostly from the stress rule's weight (Run 49, post hoc). **Adopted by Allen (20 October) as the engine's rule for massive patterns.**
+**The full pattern rule (Runs 46–46c).** Written for massive patterns as the wave equation in −N²dt² + N⁻²dx², with the Tolman/Komar draw, it removes Run 45's first-order failure. At neutron-star strength, with a converged medium table (Run 46c), a bound pattern falls like its energy to a few ×10⁻⁴ by its frequency, and by its far field to within about 2×10⁻³ if the leading grid error is h². Run 48 made the dilation argument exact: in a scale-free medium the fall defect vanishes in the continuum. The body's own fall passes as registered. No registered fall test was falsified. Weak-field binding still counts once. The second-order pull miss of 4% at neutron-star compactness came mostly from the stress rule's weight (Run 49, post hoc). **Adopted (20 October) as the engine's rule for massive patterns.**
 
 **The fall, exact apart from the medium (Run 48).** In a scale-free medium an outside potential is exactly a finer grid, so bound matter falls exactly like its energy in the continuum, at any strength. The fall at neutron-star strength now depends on ED's medium (how far it departs from scale-free across a star), not on the engine's resolution.
 
@@ -7072,7 +7743,7 @@ $$
 - So adding a quantum raises a star's far field by exactly ħω, as in GR. The 4% was the old stress and size rules.
 - In a medium that is not scale-free, the engine's draw lacks a factor (1 + g) and is not variational at order Δg.
 
-**Rule correction, 20 October 2026 (Allen: "go ahead as you recommend", after Runs 49–50).** A body is matter in exact hydrostatic balance:
+**Rule correction, 20 October 2026 (after Runs 49–50).** A body is matter in exact hydrostatic balance:
 $$
 N\,h(n)=\tilde\mu ,\qquad h=1+\epsilon+p/n ,
 $$
@@ -7109,7 +7780,7 @@ $$
 - **One tie, in the engine:** Għ/(c³ℓ_ED²) ≈ κ/p_s, with κ ≈ 0.15–1 set by the phase per renewal, which ED does not fix.
 - **ED's P-G-Closure with ℓ_ED = ℓ_P** (G = c³ℓ_P²/ħ, coefficient one) would need p_s ≲ 0.6, which the engine's clocks exclude (Run 24).
 - **So either ED's hop is about 10^2.5–10^3 Planck lengths, or the corpus carries two scales under one name** (Paper_027's falsifier F-P).
-- **Decision (Allen, 20 October: "do as you recommend"): track it as an open tension.** The engine's results are all ratios, so the hop length changes none of them. The engine uses the hop as a free unit fixed by G, ℓ_ED ≈ √(p_s/κ) ℓ_P. The corpus's P08 (ℓ_ED = ℓ_P) and P-G-Closure are left untouched until the tie is tested further; the tie rests on one clock design (each renewal takes one unit from each place).
+- **Decision (20 October): track it as an open tension.** The engine's results are all ratios, so the hop length changes none of them. The engine uses the hop as a free unit fixed by G, ℓ_ED ≈ √(p_s/κ) ℓ_P. The corpus's P08 (ℓ_ED = ℓ_P) and P-G-Closure are left untouched until the tie is tested further; the tie rests on one clock design (each renewal takes one unit from each place).
   - A possible later reading, not adopted: the Planck area is the unit of capacity, not the hop, so a place spans about p_s/κ Planck areas and the area-law count is kept.
 
 **The maximum neutron-star mass (Runs 57, 59).** ED's static equations, ∇²U = −4π(e + 3p)e^{2U} with matter in balance, hold about 0.75–0.8 of GR's maximum mass. The source's e^{2U} reaches 5–6 at the centre of the heaviest star.
@@ -7125,20 +7796,20 @@ $$
   - So ED's interior equations survive, but only at the edge: dense matter as stiff as causality allows from about 2 n_s, symmetric-matter pressure at the top of the heavy-ion range, and a stiff symmetry energy. It is the tightest constraint on them so far, and it does not depend on gravity.
 - **Beyond first order (Run 63, a derivation).** ED's exterior gives GR's test-mass binding energy at 1PN and a different one at 2PN. Comparing ED with gravitational-wave phase tests needs rulings on (i) option A's scope for binaries, (ii) the two-body field beyond first order, (iii) motion in it, (iv) radiation beyond the quadrupole and (v) a conserved binary energy (§9zzj).
   - So, with ED's interior equations binding, ED needs dense matter like chiral EFT to about 2 n_s and then c_s² ≈ 0.7–1 up to about 3 n_s. That is a prediction about nuclear matter, testable without gravity.
-- **Option A's GR input covers black-hole exteriors only.** Whether it could ever extend to neutron-star interiors decided whether tests of this kind bind ED. Allen has ruled that they bind (below).
+- **Option A's GR input covers black-hole exteriors only.** Whether it could ever extend to neutron-star interiors decided whether tests of this kind bind ED. It has been ruled that they bind (below).
 
-**Ontology decision, 20 October 2026 (Allen, after Runs 57–59): ED's interior equations bind for neutron stars.** Allen: "let's go with they bind."
-- Option A's tracked GR input stays limited to black holes (with ED's core inside); on 20 October Allen extended it to whole black-hole systems (binaries included), still not to neutron stars (below).
+**Ontology decision, 20 October 2026 (after Runs 57–59): ED's interior equations bind for neutron stars.**
+- Option A's tracked GR input stays limited to black holes (with ED's core inside); on 20 October it was extended to whole black-hole systems (binaries included), still not to neutron stars (below).
 - Neutron-star interiors are governed by ED's own static equations (∇²U = −4π(e + 3p)e^{2U}, matter in balance), so their tests bind the engine's rules: the maximum mass (Runs 57, 59, 60) and the strong-equivalence-principle prediction (Runs 55, 57).
 - A failure there cannot be absorbed by extending option A.
 
-**Ontology decisions, 20 October 2026 (Allen, after Run 63): binaries beyond first order.** Allen: "for 1, go with reading 2. use your recommendations for 2-5."
+**Ontology decisions, 20 October 2026 (after Run 63): binaries beyond first order.**
 1. **Option A covers whole black-hole systems.** Wherever all the compact objects are black holes, GR's vacuum behaviour holds outside the cores: inspiral, merger, radiation and ringdown. Neutron stars keep ED's own equations.
    - The tracked GR input grows from "a settled hole's exterior" to "GR's vacuum dynamics around black holes".
    - Binary-black-hole tests (GWTC) then test nothing in ED except the cores (no echoes).
    - A neutron star orbiting a black hole is not covered yet.
    - A side prediction: a neutron star and a black hole of equal mass have slightly different exteriors (about 1% apart at r = 10M).
-2. **The two-body field beyond first order (Claude's recommendation, adopted).**
+2. **The two-body field beyond first order (adopted).**
    - The Lorentz input holds at every order: a moving body's field is its boosted rest field, and for accelerating bodies the conservative near-zone field is the time-symmetric one. "The field fixed each tick" is the engine's first-order implementation of this.
    - The cadence field U is sourced by the bodies' redshifted Tolman draws only; the vacuum draws nothing.
    - The metric is exponential in the total field: g₀₀ = −e^{−2U}, and g_ij = e^{2U}δ_ij plus the shear of relations.
@@ -7146,8 +7817,8 @@ $$
    - The shear is sourced, as in Run 11b, by matter's momentum flux and by the tension of the relations that bind it. Two default choices were recorded with this ruling:
      - (c2) the binding tension is spread through the medium in proportion to the cadence gradient, t_ij = (∂_iU∂_jU − ½δ_ij|∇U|²)/4π, the local form that momentum conservation fixes; Run 11b's line between the bodies had the same integral;
      - (c3) the tension acts back on U (action and reaction), so the whole field has an action.
-   - **(c2) and (c3) are suspended pending Allen's ruling (§9zzk).** Writing them out showed that (c2) also puts a static shear around every single body. That changes ED's exponential exterior at second order, which Runs 57–63 used, so it is a decision about ED's statics, not a default.
-   - **Ruled provisionally (Allen, 21 October): option 3** (§9zzk). All binding tension shears space and acts back on the cadence field, in GR's form; through second order, a static exterior is then GR's (k = 0). Allen: "let's chose 3, provisionally."
+   - **(c2) and (c3) are suspended pending the ruling (§9zzk).** Writing them out showed that (c2) also puts a static shear around every single body. That changes ED's exponential exterior at second order, which Runs 57–63 used, so it is a decision about ED's statics, not a default.
+   - **Ruled provisionally (21 October): option 3** (§9zzk). All binding tension shears space and acts back on the cadence field, in GR's form; through second order, a static exterior is then GR's (k = 0).
      - Going back: every run that depends on this ruling is listed in the record and in its pre-registration, and its code takes the option as a switch, so it can be rerun under option 1 or 2.
      - Grounds for going back, set in advance:
        - option 3 cannot be written to all orders as one consistent theory (an action, local, Lorentz invariant);
@@ -7158,17 +7829,17 @@ $$
      - **What Runs 66–67 found under it.**
        - Option 3 is ED's own statics with the medium's space curved by stress. The strong-equivalence-principle formula carries over with Run 65's C, and P∞/p_s ≳ 1.6–1.9×10⁵ (Run 66).
        - A static hole's clock stops where GR's lapse would be p_s/P∞, at a cold surface (κ = 0) at infinite tortoise distance, with no event horizon. It absorbs waves, and an infaller meets a curvature singularity there in finite proper time: ED's "commits", consistent with the ruling, not derived. κ = 0 conflicts with the ruling that black holes evaporate, to be checked (Run 67).
-     - **Ruled on Claude's recommendation (21 October; Allen: "go ahead as recommended"): option 3 covers the current field too.** The current field g₀ᵢ and its back-reaction take GR's nonlinear form, replacing "g₀ᵢ from the boosted draws" beyond first order (they agree at first order).
+     - **Ruled (21 October): option 3 covers the current field too.** The current field g₀ᵢ and its back-reaction take GR's nonlinear form, replacing "g₀ᵢ from the boosted draws" beyond first order (they agree at first order).
        - Then a rotating hole's far exterior is Kerr to O(p_s/P∞).
        - *Corrected by the check on Runs 66–67:* near the hole the structure is open, so "Kerr by uniqueness" was not justified.
          - The medium's clock N(φ) enters the stationary equations (through the twist coupling e^{4U}), so they form a modified sigma model that no uniqueness theorem covers. Where N → 0 the corrections are of order 1, not p_s/P∞.
          - Which clock the medium follows in a rotating spacetime is not fixed by the rules. The Killing norm (places held fixed) would put P = 0 at the ergosurface, outside the horizon: r = 2M on the equator, just inside GW250114's prograde light ring (about 2.05M at a = 0.68). The ZAMO lapse would keep it at the horizon, as in Run 67.
        - So option A is no longer an input for a rotating hole's far exterior. Its near zone, where the ringdown is set, needed a ruling on the medium's clock in rotation (below: reading Z, Run 69), under which it is Kerr's to O(ε/α) outside the horizon and GW250114 is matched to that order.
        - Runs 39 and 41, which built ED's own rotating exteriors (first-order boosted draws; the engine's linear rule; the Newman–Janis completion), are superseded under option 3 for the far exterior only. They stand as written under option 1.
-       - **Flagged for Allen:** this was adopted on my recommendation, not by a choice of yours. It goes back with option 3, and it can be reversed on its own (option 3 for statics, ED's boosted-draw current field for rotation), at the cost of option A for rotating holes becoming an input again.
-     - **Confirmed by Allen (21 October, 09:04):** "for 3, the 'natural reading' seems right, but I defer to you." Option 3 covers the current field, provisionally.
-     - **Ruled on Claude's recommendation after Run 69 (21 October; Allen: "as with most rulings, im not sure and any choice would be provisional"): around a spinning body, the medium's clock is the ZAMO lapse α (reading Z), the clock of observers moving with the frame dragging.**
-       - **Premise, ruled by Allen on my recommendation (21 October, 12:50: "help me out on 2, please - use what you recommend"): the input current field is a flow of possibility.** The Lorentz input's g₀ᵢ (frame dragging, Run 34) is read as possibility itself circulating around a spinning body and carrying patterns along (C1: g₀ᵢ = −uᵢ). So the medium's frame is the zero-angular-momentum frame, and its clock is α.
+       - **Flagged:** this ruling is separate from the choice of option 3. It goes back with option 3, and it can be reversed on its own (option 3 for statics, ED's boosted-draw current field for rotation), at the cost of option A for rotating holes becoming an input again.
+     - **Confirmed (21 October).** Option 3 covers the current field, provisionally.
+     - **Ruled after Run 69 (21 October): around a spinning body, the medium's clock is the ZAMO lapse α (reading Z), the clock of observers moving with the frame dragging.**
+       - **Premise, ruled 21 October: the input current field is a flow of possibility.** The Lorentz input's g₀ᵢ (frame dragging, Run 34) is read as possibility itself circulating around a spinning body and carrying patterns along (C1: g₀ᵢ = −uᵢ). So the medium's frame is the zero-angular-momentum frame, and its clock is α.
          - Why: it is what ED already says for moving bodies (patterns ride possibility's flow); it adds no new structure, only a reading of an input already in the record; and it gives the reading the data favour.
          - Cost: it is an interpretation of an input, not a derivation. ED's adopted rules do not imply it. The engine's possibility flow is a gradient and vanishes around a stationary rotating body (Run 34), so the engine's medium, which only diffuses, cannot carry the circulation. When rotation is built into the engine, possibility's flow needs a part that moving matter drags around (a curl part), equal to the input's g₀ᵢ (§11, item 19).
          - The alternative not taken: the input is a separate field on a medium at rest. The medium's occupancy is then per place held fixed, which points to reading K.
@@ -7176,7 +7847,7 @@ $$
        - Then a rotating hole is Kerr outside the horizon to O(ε/α), at most about 4×10⁻⁴ at the light ring and ISCO for a ≤ 0.999. Its zero-clock surface sits just outside the horizon, and GW250114's ringdown is Kerr's to that order. The near-horizon shell and option 3's stationary equations with the medium are not computed.
        - Going back: if ED's dynamics, once written, cannot carry a circulating flow of possibility (its flow stays a gradient), so the occupancy is fixed to places held fixed; or if Z fails a test that K passes. K's consequences are recorded in Run 69.
        - With rotation, "the vacuum draws nothing" no longer holds for the clock equation: rotation adds a vacuum source in either reading. That ruling-2 clause is a statement about statics.
-     - **Ruled by Allen after Run 68 (21 October, 12:50): ED's holes are stable.** Allen: "ED's holes are stable, which is my recommendation because it follows from the rules with nothing added." This replaces his ruling of 19 October that black holes evaporate.
+     - **Ruled after Run 68 (21 October, 12:50): ED's holes are stable.** It follows from the rules with nothing added. This replaces the ruling of 19 October that black holes evaporate.
        - What Run 68 found: under option 3 with ED's medium, a hole formed by collapse emits GR's Hawking flux until its clock falls to about e·p_s/P∞, for 8M[ln(P∞/p_s) − 1] − 1.6M (at least about 86M at the pulsar bound), about one quantum, then nothing. It assumed a smooth collapse endpoint and an absorbing zero-clock surface. Run 71 found the endpoint is a power law, not smooth, and for dust the switch-off still holds; for matter with pressure it found a bounce (below).
        - Consequences:
          - what falls in stays, as record, and nothing comes back out, so nothing is lost and nothing needs to be carried out;
@@ -7185,19 +7856,19 @@ $$
          - black-hole thermodynamics (S = A/4, T = κ/2π) does not carry over without a new argument;
          - ED's radiation papers (039, 047, 050, 052) do not describe ED's holes beyond the transient. Whether their surface-correlation account describes other horizons (Rindler, acoustic) is not checked.
        - The tracked assumptions of 19 October (the core acts on quantum fields as a horizon would; its pull drops while its record stays) are withdrawn, and the endpoint question (Planck-mass remnant or full evaporation) lapses.
-       - **Run 71 (a collapse, with its check) qualifies this.** In Run 67's exterior, held fixed, the medium's stress carries a falling shell through the throat. Dust then creeps toward the zero-clock surface for ever, and its radiation switches off: no evaporation. But any pressure turns the matter back where the medium holds about (1 + w)p_s per place, and it comes back out after about 45M/w² (at ε = 5×10⁻⁶). The collapse is reversible. Observed black holes persist, so the ruling needs matter to commit before the bounce.
-       - **Ruled by Allen (21 October, 14:00), on my recommendation: "(a) is my choice too." Infalling matter commits where the medium's possibility per place falls to about 2p_s.**
+       - **Run 71 (a collapse, with its check) qualifies this.** In Run 67's exterior, held fixed, the medium's stress carries a falling shell through the throat. Dust then creeps toward the zero-clock surface for ever, and its radiation switches off: no evaporation. But any pressure turns the matter back where the medium holds about w·p_s per place, and it comes back out after about 45M/w² (at ε = 5×10⁻⁶). The collapse is reversible. Observed black holes persist, so the ruling needs matter to commit before the bounce.
+       - **Ruled 21 October: infalling matter commits where the medium's possibility per place falls to about 2p_s.**
          - The choices were: (a) this; (b) at the throat; (c) no added rule, leaving it to the exterior's own dynamics, not yet written.
          - What it is: the location of the 19 October rule ("the core commits what reaches it"), not a new principle. ED's core is where possibility runs out, and this places it at the medium's own crossover scale p_s.
-         - Where it sits: in the mean field P/P∞ = (N + ε)/(1 + ε), so P = 2p_s is where the medium's clock has fallen to about p_s/P∞ (N ≈ ε). That is deep inside the throat (N ≈ (ε/2)^{1/3}), just outside the zero-clock surface (P ≈ p_s), and just inside where the Hawking-like burst of a dust collapse switches off (N ≈ 1.5ε at the shell).
-         - What it does: matter with pressure turns back at P ≈ (1 + w)p_s (Run 71's check), so for w ≤ 1 it commits before it can turn. The collapse is then one-way, as the stable-holes ruling needs, and what falls in becomes record.
-         - The margin is thin at the causal limit: the check's turning points sit at N = 1.00–1.14 wε for w ≤ ½, so matter with w close to 1 may turn at about 2.1–2.3p_s. The number "about 2p_s" is to be refined if a stiff-matter case turns above it.
-         - Not modelled: what commitment does to the geometry and to the radiation after it (the flux at and after commitment); the shell model ends there.
+         - Where it sits: the clock is the occupancy, N = P/P∞ (Runs 66–67), so P = 2p_s is where the medium's clock has fallen to 2p_s/P∞ (N = 2ε). That is deep inside the throat (N ≈ (ε/2)^{1/3}) and outside the zero-clock surface (P = 0), after a dust collapse's Hawking-like burst has delivered its energy (Run 74). The core's areal radius there is 2m(k + 1)/k = 3m (Run 74, corrected). *(Corrected after the check on Run 73: the clock is the medium's occupancy, N = P/P∞, so P/p_s = N/ε. An earlier version used (N + ε)/(1 + ε), which is GR's lapse, and overstated P by about p_s.)*
+         - What it does: matter with pressure turns back at P ≈ (1.0–1.27)·w·p_s (Runs 71, 73 and their checks), so all causal matter (w ≤ 1) commits before it can turn, with a margin of 2/1.27 ≈ 1.6. The collapse is then one-way, as the stable-holes ruling needs, and what falls in becomes record.
+         - ~~The margin is thin at the causal limit~~ *Run 73 (corrected by its check): the stiffest causal matter turns at most at 1.27p_s, so 2p_s holds with room; only acausal matter (w ≳ 1.6) would escape it.*
+         - ~~Not modelled: what commitment does to the geometry and to the radiation after it (the flux at and after commitment); the shell model ends there.~~ *Run 74 (registered; recomputed post hoc at the true 2p_s after Run 73's check): the core's areal radius is 2m(k + 1)/k = 3m; the Hawking-like burst is at least 99.8% complete by energy when matter commits (its flux is still 5% of Hawking's); a cold core then gives one flash of about ħ/δu, spread over frequencies, and silence; continuation gives Run 71's faint negative tail. Open: δu and the core's quantum state. "No echoes" now rests on the total-absorber ruling: a reflecting core at N = 2ε would echo after about 95M (29 ms for GW250114's remnant).*
        - Going back: if the exterior's own dynamics, once written, give a bounce or a commitment rule that conflicts with this one; if matter is found that turns back above 2p_s; if the discrete regime below one unit per place re-emits; or if an evaporating primordial black hole is seen.
      - **Its costs, recorded (revised by Run 66):**
        - ~~ruling 2's "the vacuum draws nothing" and "g₀₀ = −e^{−2U}" hold only at first order~~ *withdrawn: on the medium's space γ̃ = N²g both hold to all orders, and so does the pattern rule c = N² (§9zzm)*;
        - ~~the engine's medium cannot carry it as built~~ *withdrawn: it carries option 3 as built (logarithmic outflow, exponential clock, p_s, the variational draw) if it hops on γ̃ instead of a flat lattice (§9zzo)*;
-       - **what remains:** the medium's space is dynamical, curved by stress, R̃_ij = 2∂_iU∂_jU − 16πp e^{2U}γ̃_ij. The engine has no such lattice yet, and the dynamical completion with the medium's scale is not written. Whether the medium's own field (Run 66's choice) or U curves γ̃ is a choice, and it sets β − 1 (−ε/2 or 0). Clock universality on a curved γ̃ is expected; it is not shown directly. Runs 70 and 72 show that clocks follow the zero-range theory on lattices with imposed curved-space conductances: Run 72 on equal-volume places at both signs of curvature, to about 1–2%. The theory's design-dependent part is non-local, about 0.01·R̃·h·ℓ_c, roughly 10⁻³⁹ for a neutron star.
+       - **what remains:** the medium's space is dynamical, curved by stress, R̃_ij = 2∂_iU∂_jU − 16πp e^{2U}γ̃_ij. The engine carries it in planar symmetry (Run 77); the dynamical completion with the medium's scale is not written. Whether the medium's own field (Run 66's choice) or U curves γ̃ is a choice, and it sets β − 1 (−ε/2 or 0). Clock universality on a curved γ̃ is expected; it is not shown directly. Runs 70 and 72 show that clocks follow the zero-range theory on lattices with imposed curved-space conductances: Run 72 on equal-volume places at both signs of curvature, to about 1–2%; Run 72b settled the design-gap contrast at 5.1σ, matching the theory to 0.5σ. The theory itself underestimates these clocks' own dips by about 0.25% (design 1) and 0.5–0.6% (design 2), the same on every lattice within errors (Runs 75–76). A lattice curved by the medium's own stress can be built exactly in planar symmetry (§9zzz), and Run 77 ran it: the engine's medium carries the flux the lattice was built with, to about 0.2%, and clocks read the medium's equation of state to 10⁻⁴. The bending itself was imposed from option 3's formula. With option 3's clock the planar solution is flat (Rindler) spacetime. With one global hop rate on a regular equal-place lattice, a self-consistent lattice exists only while the source's draw times the distance to the reservoir stays small; within that bound γ̃ can stretch far. That limit belongs to the representation: it disappears if clocks slow with the hops, and isotropic cells or a local tick would avoid it. Spherical symmetry is untested. The theory's design-dependent part is non-local, about 0.01·R̃·h·ℓ_c, roughly 10⁻³⁹ for a neutron star.
      - **Under option 3, ED's distinct content in classical gravity** is:
        - the medium's scale ε = p_s/P∞, which sets every static departure from GR: the strong-equivalence-principle violation (Δ = εC/(1 + ε)), β − 1 ≈ −ε/2, and where a hole's clock stops (Runs 66–67);
        - what happens where P ≲ p_s: inside a hole's throat, down to the zero-clock surface where what falls in commits (Run 67);
@@ -7208,7 +7879,7 @@ $$
 4. **Radiation.** Only the shear radiates (retarded, travelling at c), sourced by matter and the binding tension (Run 11b). There is no breathing or dipole channel.
 5. **Energy.** The binary's conserved energy is the Noether energy of the two-body Lagrangian that (2)–(3) give. Radiation balances its loss.
 
-**Ontology decision, 20 October 2026 (Allen, after Runs 52–54): the variational draw.** Allen: "adopt the variational draw." Every source draws
+**Ontology decision, 20 October 2026 (after Runs 52–54): the variational draw.** Every source draws
 $$
 d=T\,(1+g),\qquad g=c\,\frac{d\ln R}{dz}-1 ,
 $$
@@ -7218,7 +7889,7 @@ where T is its Tolman/Komar draw. Field, matter and patterns are then the Euler�
 - The rejected alternative was to keep d = T and make the field linear in U, which takes the medium out of gravity.
 - Inertia = E_H was settled by the ruling below.
 
-**Ontology decision, 20 October 2026 (Allen, after Run 55's check): inertia = total energy.** Allen: "agreed, inertia = total energy." The Lorentz input of 19 October (first post-Newtonian order: a moving body's field is its boosted rest field) is extended to the complete dynamics, including strongly self-gravitating bodies.
+**Ontology decision, 20 October 2026 (after Run 55's check): inertia = total energy.** The Lorentz input of 19 October (first post-Newtonian order: a moving body's field is its boosted rest field) is extended to the complete dynamics, including strongly self-gravitating bodies.
 - **What it gives (von Laue).** A static closed system with a conserved total energy–momentum tensor has a total stress that integrates to zero, so its energy and momentum form a four-vector:
 $$
 m_{\rm inertial}=E_H=W_f+k_0\sum\nu N(1+\varepsilon)+\kappa\omega .
@@ -7232,20 +7903,20 @@ $$
 
 **The 4% pull and pulsar timing (Run 47).** If a neutron star's passive and inertial masses are equal, Newtonian timing measures only its active mass, so the 4% only relabels the star's mass. *Corrected after Run 55's check:* this paragraph said "if inertia follows the far field, as the boosted-field input suggests". That was wrong. The boosted far field carries active momentum, not inertia, and with the ruling above inertia is E_H. The old body model's 4% was in any case gone for a balanced star (Run 53). Two tests could still reach it: ED's post-Newtonian two-body law against the double pulsar (about 10⁻⁴), and a neutron star's binding energy (J0737−3039B, model-dependent). Part of it may come from the body model.
 
-**ED's radiation papers (§9zn).** Under option A they fit "the core commits" (radiation comes from correlations at the surface, nothing from the core) and apply with GR's κ, if the core is assumed to act on quantum fields as a horizon would. They add no signal beyond standard Hawking radiation. Allen ruled that they evaporate (two tracked assumptions); the endpoint is open. *Superseded 21 October: Allen ruled that ED's holes are stable (Run 68), so the papers do not describe ED's holes beyond a transient of about one quantum.*
+**ED's radiation papers (§9zn).** Under option A they fit "the core commits" (radiation comes from correlations at the surface, nothing from the core) and apply with GR's κ, if the core is assumed to act on quantum fields as a horizon would. They add no signal beyond standard Hawking radiation. It was ruled that they evaporate (two tracked assumptions); the endpoint is open. *Superseded 21 October: it was ruled that ED's holes are stable (Run 68), so the papers do not describe ED's holes beyond a transient of about one quantum.*
 
-**Ontology decisions, 19 October 2026 (Allen, after Runs 42–43).**
+**Ontology decisions, 19 October 2026 (after Runs 42–43).**
 - **Stress pulls**, with weight 1 per direction, as part of the Lorentz input: every part of a source draws by $\alpha(T^{00}+\sum_iT^{ii})$.
-- **The core commits** what reaches it. A commitment is not undone, so nothing comes back out: the core is a total absorber, and what falls in becomes record. *Located 21 October (Allen, after Run 71): infalling matter commits where the medium's possibility per place falls to about 2p_s (§10).*
+- **The core commits** what reaches it. A commitment is not undone, so nothing comes back out: the core is a total absorber, and what falls in becomes record. *Located 21 October (after Run 71): infalling matter commits where the medium's possibility per place falls to about 2p_s (§10).*
 - **What they buy:** internal binding pulls like rest mass at weak field (Run 42), and option A passes every bound on the core (Run 43).
-- **Black holes evaporate** (Allen, 19 October, after §9zn): the committing core is assumed to act on quantum fields as a horizon would, and its pull to drop while its record stays. The endpoint (a Planck-mass remnant or full evaporation) is not ruled; Allen leans toward full evaporation. *Superseded (Allen, 21 October): ED's holes are stable (Run 68, above).*
+- **Black holes evaporate** (19 October, after §9zn): the committing core is assumed to act on quantum fields as a horizon would, and its pull to drop while its record stays. The endpoint (a Planck-mass remnant or full evaporation) is not ruled. *Superseded (21 October): ED's holes are stable (Run 68, above).*
 - **What they cost:** both are inputs or rules chosen to match, not derived.
 
-**Ontology decision, 20 October 2026 (Allen, after Runs 45–46b): the full pattern rule for massive patterns.** The pattern rule of 17 October (c = N²) is written for massive patterns as the wave equation in the metric it gives light:
+**Ontology decision, 20 October 2026 (after Runs 45–46b): the full pattern rule for massive patterns.** The pattern rule of 17 October (c = N²) is written for massive patterns as the wave equation in the metric it gives light:
 $$
 -N^4\nabla^2\psi+m^2N^2\psi=\omega^2\psi ,
 $$
-with the covariant Tolman/Komar draw $d=\kappa(4\omega^2N^{-4}-2m^2N^{-2})\psi^2$. It removes the first-order fall defect of the earlier code (Run 45) and keeps weak-field binding counted once (Run 46). Allen: "Yes, adopt the full pattern rule." Outside compact objects ED now makes no prediction that differs from GR; its differences there are inside the core, and in whether committed record is ever re-emitted.
+with the covariant Tolman/Komar draw $d=\kappa(4\omega^2N^{-4}-2m^2N^{-2})\psi^2$. It removes the first-order fall defect of the earlier code (Run 45) and keeps weak-field binding counted once (Run 46). Outside compact objects ED now makes no prediction that differs from GR; its differences there are inside the core, and in whether committed record is ever re-emitted.
 
 **The clock record's tail (Run 37).** Ambient fluctuations of possibility carried Run 29's long tail, not each clock's own hole.
 
@@ -7294,15 +7965,15 @@ with the covariant Tolman/Komar draw $d=\kappa(4\omega^2N^{-4}-2m^2N^{-2})\psi^2
    - knots built from engine commitments rather than a field equation
    - whether ED's event layer charges twist across ticks (the rule is now adopted provisionally; see §10)
 12. **Matter digging its own well; how wells combine (Run 19).** *Done.* Active mass is the redshifted draw. The engine's wells are linear in their sources (β = ½), which with γ = 1 puts Mercury at 50.1″ and η = −2. What remains open:
-   - **the clock rule's response** ($1-\delta$ against $e^{-\delta}$), Allen's decision, and Runs 15–18 re-checked under any change
+   - **the clock rule's response** ($1-\delta$ against $e^{-\delta}$), a ruling, and Runs 15–18 re-checked under any change
    - ~~a direct measurement~~ *done in Run 20: β = 0.47 ± 0.03*
    - the options for β = 1 are in §11c
    - the strong equivalence principle with the knot in the full adopted metric (pattern rule), once β is settled
 13. **Candidate A for β = 1 (Runs 21–22).** *Tested.* Its medium gives β inside Mercury's band from 64 per place upward (an ideal clock), but its clocks break universality (designs 4–6% apart; the self-dip barely shrinks from 8 to 32 per place). Judged excluded as built. What remains open:
-   - ~~Allen's decision on the options in §11c~~ *Candidate A′ chosen; its kill tests passed (Run 23): lone clocks' self-dip ∝ $p_s^{-0.94}$, β → 1 at $P_0/p_s\gtrsim256$*
+   - ~~a ruling on the options in §11c~~ *Candidate A′ chosen; its kill tests passed (Run 23): lone clocks' self-dip ∝ $p_s^{-0.94}$, β → 1 at $P_0/p_s\gtrsim256$*
    - ~~the clock check at large $p_s$~~ *done in Run 24 (uniform form, tied to the well at $p_s$ = 1): the design gap falls as $p_s^{-0.85}$*
    - ~~a well where Mercury's band holds~~ *passed in Run 25*
-   - ~~Allen's decision~~ *adopted provisionally on 18 October (§10)*
+   - ~~a ruling~~ *adopted provisionally on 18 October (§10)*
    - Nordtvedt: *only the β part met in Run 25 (−4.2×10⁻⁴). ED_Attempt_01 (C207–C208) found that a linear counting budget fails the sourcing terms by 10⁴. Run 30: the engine's static sourcing is GR's (Tolman), ζ₂ = 2(β − 1), which needs $P_0/p_s\gtrsim2.3\times10^4$. **Still open:** ζ₁ (moving matter must draw 1 + 2v² times its ticking rate) and the preferred-frame terms α₁, α₂ (ξ is static and zero in the engine)*
    - ~~Run 19's active mass under the new rules~~ *Run 26: wells multiply (f = 1.12 ± 0.19, two seeds), each follows its draw in ln N, draws redshift each other as predicted (to 0.2–0.8%)*
    - ~~the pattern fall in deep wells~~ *Run 27: passes at 18 out in box 60; closer in, a steep-well protocol (shorter window, or ray-traced prediction) is needed*
@@ -7314,50 +7985,50 @@ with the covariant Tolman/Komar draw $d=\kappa(4\omega^2N^{-4}-2m^2N^{-2})\psi^2
 
 14. **Arrow of time (Run 29).** *Done.* The event layer is one-way, and time-averaged clock records lose most of the order, falling as 1/T. What remains open:
    - the arrow in wells, where the steady inflow of possibility (an average that keeps its order) lives
-   - Allen's Result 22 "age" residue, re-run under the current rules
+   - ED's Result 22 "age" residue, re-run under the current rules
    - ~~whether possibility's wandering should be tick-free~~ *answered by the adopted rules (Run 35; derived): the vacuum relaxes each tick to a law in detailed balance, so it is two-way and the arrow is in commitments, the inflow to matter, and clocks*
    - a statistic that could tell ED's arrow from time-symmetric micro-laws at physical scales; it needs the medium's memory (c) at physical $P_0$, $p_s$
    - a larger box, to see whether the leak turns into the diffusive $T^{-1/2}$ tail (under the adopted rules the window statistic falls as $T^{-1/2}$ to T ≈ 100, then 1/T, for a different reason: a clock fed independent presence, Run 35)
    - which memory carried Run 29's tail: ambient fluctuations or the clock's own reservation hole (Run 29's engine with the reservation drawn from the whole box would separate them)
 15. **Sourcing weights (Run 30).** *Rest mass in a potential: done (GR's weight).* What remains open:
    - ~~a rule for moving matter~~ *by input (Run 34): the Lorentz input gives the motion weight*
-   - whether stress pulls with weight 3 (bodies held by rule cannot say): *Run 42: needed for internal binding; adopted by Allen (19 October) as the Lorentz input's full form*
+   - whether stress pulls with weight 3 (bodies held by rule cannot say): *Run 42: needed for internal binding; adopted (19 October) as the Lorentz input's full form*
    - ~~the preferred-frame terms α₁, α₂~~ *α₂ derived given C1, α₁ by input (Run 34)*
    - whether a pattern's energy ($E=\hbar\omega$) is draw, i.e. whether quantum energy pulls as measured
 
-16. **The field's dynamics (Run 31).** *Decided and built.* Allen adopted the clock field fixed each tick (19 October; the alternatives were a wave-carried deficit or places moving with matter). On the engine (Run 35) the static draw matches the earlier engine to 0.1% (deficits within 0.4–4% at r = 4–13), the moving ball's asymmetry is −0.002 (from 0.67), and its extra draw is gone (0.999 of static, from 1.085). Still open: β and the clock designs re-measured on the relaxed medium (§11b; expected unchanged, since both are steady-state results)
+16. **The field's dynamics (Run 31).** *Decided and built.* The clock field fixed each tick was adopted (19 October; the alternatives were a wave-carried deficit or places moving with matter). On the engine (Run 35) the static draw matches the earlier engine to 0.1% (deficits within 0.4–4% at r = 4–13), the moving ball's asymmetry is −0.002 (from 0.67), and its extra draw is gone (0.999 of static, from 1.085). Still open: β and the clock designs re-measured on the relaxed medium (§11b; expected unchanged, since both are steady-state results)
 17. **Horizons and radiation (Run 32).** *No horizon from a static body; the idealised surface is cold.* Open:
    - ~~the surface-glow constraint at very large redshift~~ *met under option A with the core committing (Run 43, §9zn)*
    - collapse dynamics, after the field-dynamics rule (item 16); Barceló et al.'s quasi-Hawking radiation needs an exponentially growing redshift, and B-39 found a power law
    - ~~whether ED's radiation papers should be re-based or withdrawn~~ *under option A they apply with Kerr's κ (borrowed), fit "the core commits", and give no ED-specific signal (§9zn)*
-   - ~~do ED's black holes evaporate?~~ **Run 68, under option 3 with ED's medium: no. A collapse emits GR's Hawking flux for about 8M ln(P∞/p_s), about one quantum, then nothing. Allen ruled (21 October): ED's holes are stable**, replacing his 19 October ruling that they evaporate (its tracked assumptions are withdrawn)
+   - ~~do ED's black holes evaporate?~~ **Run 68, under option 3 with ED's medium: no. A collapse emits GR's Hawking flux for about 8M ln(P∞/p_s), about one quantum, then nothing. Ruled (21 October): ED's holes are stable**, replacing the 19 October ruling that they evaporate (its tracked assumptions are withdrawn)
    - ~~a mechanism for the core's pull to drop while its record stays; whether the radiation carries out the information about what fell in; the endpoint (Planck-mass remnant or full evaporation)~~ *lapsed with the 21 October ruling: nothing is carried out, and there is no endpoint*
    - ~~information from matter falling in after the horizon forms~~ *kept as record and never re-emitted (21 October ruling)*; the units of 052_5's mobility lag
-   - ~~whether a collapse reaches the zero-clock surface with a smooth ray map, and whether that surface absorbs~~ *Run 71: the medium's stress carries matter through the throat. Dust creeps for ever with a power-law endpoint and no evaporation; any pressure turns the matter back at P ≈ (1 + w)p_s and it comes out again; tension absorbs*
-   - ~~where matter commits~~ *ruled by Allen (21 October, on my recommendation): where the medium holds about 2p_s per place (Run 71)*
-   - what commitment does to the geometry and to the radiation after it; a collapse with the exterior's own dynamics (back-reaction); whether matter near the causal limit turns back above 2p_s
+   - ~~whether a collapse reaches the zero-clock surface with a smooth ray map, and whether that surface absorbs~~ *Run 71: the medium's stress carries matter through the throat. Dust creeps for ever with a power-law endpoint and no evaporation; any pressure turns the matter back at P ≈ w·p_s and it comes out again; tension absorbs*
+   - ~~where matter commits~~ *ruled 21 October: where the medium holds about 2p_s per place (Run 71)*
+   - ~~what commitment does to the geometry and to the radiation after it~~ *Run 74: core at 3m; burst complete by energy; then one flash of about ħ/δu (cold core) or a faint tail (continuation)*; how long commitment takes (δu) and the core's quantum state (Run 74); a collapse with the exterior's own dynamics (back-reaction); ~~whether matter near the causal limit turns back above 2p_s~~ *Run 73: none does (at most 1.27p_s)*
    - black-hole thermodynamics without evaporation: what S = A/4 means in ED, if anything
-18. **Pattern energy (Runs 33, 36, 40).** *Ruled (D30: patterns draw).* Bodies keep their proper size (tracked input); at weak field binding is counted once (Run 40c). The canonical mass reading is DSR-4 (my choice at Allen's instruction). Open:
+18. **Pattern energy (Runs 33, 36, 40).** *Ruled (D30: patterns draw).* Bodies keep their proper size (tracked input); at weak field binding is counted once (Run 40c). The canonical mass reading is DSR-4 (a tracked choice). Open:
    - ~~patterns inside bodies at weak field~~ *Run 42: counted once only if the body's stress draws (item 22)*
    - stress-bearing bodies: an ED rule for how a body's stress draws (the input would replace it)
    - whether a superposed pattern draws by its average energy or only on commitment
 19. **Current field and frame dragging (Run 34).** *Calculated; decided 19 October.*
-   - Allen adopted the clock field fixed each tick and patterns riding possibility's flow, and ruled that the tick is not physical time. That removes the conflict between the boosted-field route and part 1, and makes the dropped steady inflow pure coordinates.
+   - Adopted: the clock field fixed each tick and patterns riding possibility's flow, and ruled that the tick is not physical time. That removes the conflict between the boosted-field route and part 1, and makes the dropped steady inflow pure coordinates.
    - Input chosen: Lorentz invariance at first post-Newtonian order (one input; the same as Run 18's). It fixes λ_J = 4 and the motion weight together.
    - Built on the engine (Run 35).
    - Open: frame dragging on a pattern near a rotating body; an ED rule that makes physics independent of the lattice's rest frame, which would replace this input and Run 18's; whether the constraint can signal beyond first post-Newtonian order
-   - **Ruled 21 October (Allen, on my recommendation): the input current field is a flow of possibility.** When rotation is built into the engine, possibility's flow needs a part that moving matter drags around (a curl part), equal to the input's g₀ᵢ; the engine's diffusing medium has none (Run 34)
+   - **Ruled 21 October: the input current field is a flow of possibility.** When rotation is built into the engine, possibility's flow needs a part that moving matter drags around (a curl part), equal to the input's g₀ᵢ; the engine's diffusing medium has none (Run 34)
 20. **The engine on the adopted rules (Run 35).** *Built; D35 passed.* Frame dragging on patterns: done as a construction check (Run 38). Pattern energy: Run 36 (item 18). Run 29's tail: ambient memory (Run 37).
 21. **The strong field with spin (Runs 39, 41).** *Both rotating exteriors fail GW250114 at the remnant's spin.* Open:
-   - *Decided (Allen, 19 October): option A, GR's (Kerr's) exterior as a tracked input, with ED's core instead of a horizon; deriving it is the long-term goal (option B)*
+   - *Decided (19 October): option A, GR's (Kerr's) exterior as a tracked input, with ED's core instead of a horizon; deriving it is the long-term goal (option B)*
    - ~~the core's own tests~~ *Run 43: the core must absorb at least a few tenths of a percent of what reaches it (item 23)*
    - ED's gravitational (not scalar) modes; a joint fit of inspiral and ringdown; the overtone or (4,4) mode to test the Newman–Janis case independently of the spin
 22. **Binding at strong field and inside bodies (Runs 40b, 42).** The adopted rules miss a bound pattern's binding by about one binding at strong field. Inside a body at weak field it is counted once if the body's stress draws (Run 42). Open:
-   - ~~Allen's ruling on "stress pulls"~~ *adopted 19 October, as part of the Lorentz input*
+   - ~~the ruling on "stress pulls"~~ *adopted 19 October, as part of the Lorentz input*
    - ~~the −0.085 b residual~~ *Run 44: second order (≈ −1.25 U_self·b, intercept −0.005 b), and the pass holds on a grid twice as fine*
    - ~~neutron stars~~ *Run 45: the body's own binding passes what the engine resolves; a bound pattern fails (K45c) because the massive-pattern code carries only the clock half of the pattern rule*
    - ~~Run 46~~ *done: the full rule removes the first-order failure; K46a passes; the fall test is undecided (lookup-table noise)*
-   - ~~Allen's ruling on the full pattern rule~~ *adopted 20 October: "Yes, adopt the full pattern rule"*
+   - ~~the ruling on the full pattern rule~~ *adopted 20 October: "Yes, adopt the full pattern rule"*
    - ~~Run 46b~~ *done: undecided as registered (table not converged; the q = 2 fit 0.15×10⁻³ from the falsification line); post hoc within about 1.5×10⁻³ of zero; Runs 45 and 40c stand*
    - ~~Run 46c~~ *done: the table converged; K46b″ undecided (limit not determined: −2.1 to +0.4×10⁻³ with a leading h² error), K46c″ passes, ω-based within a few ×10⁻⁴ robustly; the fall line is closed at the engine's resolution, not falsified*
    - ~~the pulsar triple's 2×10⁻⁶ level~~ *Run 48: the dilation identity is exact; the fall defect vanishes in the continuum with a scale-free medium; the triple bounds the medium's change of log-slope across a star*
@@ -7369,11 +8040,11 @@ with the covariant Tolman/Komar draw $d=\kappa(4\omega^2N^{-4}-2m^2N^{-2})\psi^2
    - ~~Γ = 3 (stalled twice)~~ *Run 56: converges with flags and a time cap; first law to 2×10⁻¹⁰ (Simpson); far-field misses within surface scatter (single stars)*; weak field done (−0.013 b, one star)
    - ~~the far-field first law's continuum value to better than 1% of κω~~ *Run 58: five grids, K58a PASS (c₀ = −0.003 ± 0.004 b); holds to about 0.5% of κω; h vs h² still undecided (Δχ² = 1.0)*
    - ~~the draw with and without (1 + g)~~ *Runs 52, 54: the variational draw is self-consistent; the medium's equivalence-principle violation is Δ ≈ ḡ − g_bg under it; the engine's draw has no conserved energy*
-   - ~~Allen's decision on the draw~~ *adopted 20 October: the variational draw, T(1 + g)*
+   - ~~a ruling on the draw~~ *adopted 20 October: the variational draw, T(1 + g)*
    - ~~ED's actual g_bg and s, against the pulsar triple~~ *Run 55: ED's medium has g = (p_s − b)/P, s = 1 to 10⁻⁵; Δ ≈ C p_s/P₀*
    - ~~what fixes P₀/p_s in ED~~ *§9zzc: nothing in ED's papers; tracked inputs. The engine's G ties p_s to the hop (ℓ_ED ~ 10^2.5–10^3 ℓ_P if the engine stands)*
    - ~~the pulsar's C with a realistic equation of state; the Γ = 2 fold~~ *Run 57: C = 0.40–0.49, P₀/p_s ≳ 1.7–2.1×10⁵; the fold at U_s = 0.238 (continuum)*
-   - **the maximum neutron-star mass (Runs 57, 59):** ED needs matter near the causal limit above about 2 n_sat (or v_s² ≈ 0.33 from 1.1 n_sat) to hold J0740. Open: ~~(a) set ED's required matter against nuclear theory's gravity-independent bands~~ *Run 60: K60a, K60b PASS; ED needs c_s² ≥ 0.33 from 1.1 n_s or ≥ 0.8 from 2 n_s; QCD does not bind*; ~~(a′) rerun K60b with a softer chiral-EFT base~~ *Run 61: K61a PASS (c_s² = 0.10 to 2 n_s, then ≥ 0.8)*; the β-equilibrium check of route (a) is moot, since GW170817 excludes route (a); ~~(d) derive ED's exterior to O(U²) and its tidal Love numbers, then test radii and tidal deformability~~ *Run 61: K61b PASS for route (b) only (Λ(1.362) = 374–658); route (a) excluded*; ~~(e) set route (b)'s pressure at 2–4 n_s against laboratory bounds~~ *Run 62: K62a, K62b PASS as registered; with the β-equilibrium cap ED reaches 2.08 M☉ only at 2σ with L ≳ 95 MeV*; (e′) register a rerun with the β-equilibrium cap, the DLL band's edges above 2 n₀ (digitized), a joint (not edge-by-edge) treatment of the heavy-ion inputs, and an optimisation over c_s² paths; ~~(f) ED's merger dynamics~~ *Run 63 (derivation): ED's inspiral differs from GR's at 2PN; rulings (i)–(v) in §9zzj are needed before any gravitational-wave phase comparison*; ~~(g) rule whether a body's own binding tension shears space~~ *ruled provisionally: option 3; Run 65: ED's statics become GR's, so the neutron-star chain's GR columns are option 3's*; (h) under option 3: ~~re-derive the strong-equivalence-principle formula (Δ, C) from option 3's action~~ *Run 66: it carries over, Δ = εC/(1 + ε), P∞/p_s ≳ 1.6–1.9×10⁵*; ~~state whether the current field g₀ᵢ takes GR's nonlinear form~~ *ruled 21 October on my recommendation: yes (a rotating hole's far exterior is Kerr to O(p_s/P∞); its near zone is open)*; ~~examine the near-horizon shell where P ≲ p_s~~ *Run 67: the clock stops where GR's lapse is ε/(1 + ε), a cold absorbing surface where infallers meet a curvature singularity, inside a throat at (ε/2)^{1/3}*; ~~sketch how the engine's medium would carry option 3 and re-check β = 1, clock universality and the role of p_s~~ *§9zzo: as built, hopping on the medium's space γ̃; β = 1 carries over by calculation, the other two by locality (not shown on a curved lattice)*; (h′) ~~check whether κ = 0 means ED's holes do not evaporate~~ *Run 68: they do not (a transient of about 8M ln(P∞/p_s)); Allen's ruling on evaporation is needed*; ~~rule which clock the medium follows in rotating spacetimes~~ *Run 69: reading Z (the ZAMO lapse) adopted provisionally; K disfavoured by X-ray spins*; ~~build the stress-curved lattice (γ̃) in the engine and re-check clock universality there~~ *Run 70: on a lattice whose link conductances follow an imposed conformal factor, clocks follow the zero-range theory (0.94 ± 0.15 of the predicted 3–7% change); universality on an equal-place, stress-curved lattice is not yet tested; the effect scales as about 0.01·R̃·h·ℓ_c, about 10⁻³⁹ for a neutron star*; (h″) ~~model a collapse through the throat~~ *Run 71: the medium's stress carries matter through; dust creeps, pressure bounces, tension absorbs; Allen ruled that matter commits where the medium holds about 2p_s per place*; the rotating near-horizon shell under reading Z; ~~an equal-place curved lattice~~ *Run 72: on equal-volume places, both signs of curvature, clocks follow the theory to about 1–2%; the gap contrast is at 2.5σ (more seeds would settle it)*; a lattice whose curvature is solved from the medium's own stress; write the dynamical completion with the medium's scale (waves, moving bodies); re-read the strong-field engine numbers (Runs 45–56) where they feed a stated prediction; ~~(b) Allen's ruling on option A for neutron-star interiors~~ *ruled 20 October: ED's interior equations bind*; (c) redo NICER/tidal inferences with ED's equations
+   - **the maximum neutron-star mass (Runs 57, 59):** ED needs matter near the causal limit above about 2 n_sat (or v_s² ≈ 0.33 from 1.1 n_sat) to hold J0740. Open: ~~(a) set ED's required matter against nuclear theory's gravity-independent bands~~ *Run 60: K60a, K60b PASS; ED needs c_s² ≥ 0.33 from 1.1 n_s or ≥ 0.8 from 2 n_s; QCD does not bind*; ~~(a′) rerun K60b with a softer chiral-EFT base~~ *Run 61: K61a PASS (c_s² = 0.10 to 2 n_s, then ≥ 0.8)*; the β-equilibrium check of route (a) is moot, since GW170817 excludes route (a); ~~(d) derive ED's exterior to O(U²) and its tidal Love numbers, then test radii and tidal deformability~~ *Run 61: K61b PASS for route (b) only (Λ(1.362) = 374–658); route (a) excluded*; ~~(e) set route (b)'s pressure at 2–4 n_s against laboratory bounds~~ *Run 62: K62a, K62b PASS as registered; with the β-equilibrium cap ED reaches 2.08 M☉ only at 2σ with L ≳ 95 MeV*; (e′) register a rerun with the β-equilibrium cap, the DLL band's edges above 2 n₀ (digitized), a joint (not edge-by-edge) treatment of the heavy-ion inputs, and an optimisation over c_s² paths; ~~(f) ED's merger dynamics~~ *Run 63 (derivation): ED's inspiral differs from GR's at 2PN; rulings (i)–(v) in §9zzj are needed before any gravitational-wave phase comparison*; ~~(g) rule whether a body's own binding tension shears space~~ *ruled provisionally: option 3; Run 65: ED's statics become GR's, so the neutron-star chain's GR columns are option 3's*; (h) under option 3: ~~re-derive the strong-equivalence-principle formula (Δ, C) from option 3's action~~ *Run 66: it carries over, Δ = εC/(1 + ε), P∞/p_s ≳ 1.6–1.9×10⁵*; ~~state whether the current field g₀ᵢ takes GR's nonlinear form~~ *ruled 21 October: yes (a rotating hole's far exterior is Kerr to O(p_s/P∞); its near zone is open)*; ~~examine the near-horizon shell where P ≲ p_s~~ *Run 67: the clock stops where GR's lapse is ε/(1 + ε), a cold absorbing surface where infallers meet a curvature singularity, inside a throat at (ε/2)^{1/3}*; ~~sketch how the engine's medium would carry option 3 and re-check β = 1, clock universality and the role of p_s~~ *§9zzo: as built, hopping on the medium's space γ̃; β = 1 carries over by calculation, the other two by locality (not shown on a curved lattice)*; (h′) ~~check whether κ = 0 means ED's holes do not evaporate~~ *Run 68: they do not (a transient of about 8M ln(P∞/p_s)); the ruling on evaporation is needed*; ~~rule which clock the medium follows in rotating spacetimes~~ *Run 69: reading Z (the ZAMO lapse) adopted provisionally; K disfavoured by X-ray spins*; ~~build the stress-curved lattice (γ̃) in the engine and re-check clock universality there~~ *Run 70: on a lattice whose link conductances follow an imposed conformal factor, clocks follow the zero-range theory (0.94 ± 0.15 of the predicted 3–7% change); universality on an equal-place, stress-curved lattice is not yet tested; the effect scales as about 0.01·R̃·h·ℓ_c, about 10⁻³⁹ for a neutron star*; (h″) ~~model a collapse through the throat~~ *Run 71: the medium's stress carries matter through; dust creeps, pressure bounces, tension absorbs; it was ruled that matter commits where the medium holds about 2p_s per place*; the rotating near-horizon shell under reading Z; ~~an equal-place curved lattice~~ *Run 72: on equal-volume places, both signs of curvature, clocks follow the theory to about 1–2%; the gap contrast is at 2.5σ (more seeds would settle it)*; ~~settle the gap contrast~~ *Run 72b: +0.0107 ± 0.0021 against the theory's +0.0096 (5.1σ from zero)*; ~~why the theory's design-2 error (about 1%) vanishes at negative curvature~~ *Run 75: not the clocks' outer links (K75a FAIL, about 8:1); the negative-curvature cell is now about 2.5σ after correction and weakening*; ~~replicate the s = −1 lattice with fresh seeds~~ *Run 76: UNDECIDED (−0.37 ± 0.22%, half the first size); line closed unless a later result depends on it (a 3σ answer would take 230–440 runs)*; more flat-control seeds if row-level tests matter; ~~a lattice whose curvature is solved from the medium's own stress~~ *design note §9zzz: exact in planar symmetry with a reservoir boundary*; ~~run it~~ *Run 77: K77a–e PASS; the medium carries the flux the lattice was built with; the hop-rate limit is on draw × reservoir distance and belongs to the representation (the design note's B² ≲ 10 withdrawn)*; if the limit matters, decide how the lattice represents γ̃ (clocks slowed with hops, isotropic cells, or a local tick) before any further run; a spherical self-bent lattice; two readings of how the medium's space curves, both to be tested (22 October): (A) space is the pattern of relations, so curving it means relations form, dissolve or rewire (in the engine: shells whose place counts follow option 3's areas, all relations equal); (B) relations are fixed and space is a reading of the medium's state across them, as time is read from commitment and light's geometry from the pattern rule (in the engine: the medium's hop across a relation depends on its own state, directionally, since stress is directional; this needs a ruling, and must avoid Run 17's freezing); whether ED's papers let relations form or dissolve decides whether (A) is open; write the dynamical completion with the medium's scale (waves, moving bodies); re-read the strong-field engine numbers (Runs 45–56) where they feed a stated prediction; ~~(b) the ruling on option A for neutron-star interiors~~ *ruled 20 October: ED's interior equations bind*; (c) redo NICER/tidal inferences with ED's equations
    - the hop size (§9zzc): *decided 20 October: tracked as an open tension (P08's ℓ_ED = ℓ_P against the engine's ℓ_ED ≈ √(p_s/κ) ℓ_P); revisit if the clock design changes or a scale is fixed independently of G (Paper_027's F-P)*
    - ~~inertia = energy (E_H)~~ *ruled 20 October as an input (§10); a moving or boosted body would test it*
    - avoid calibrating to integer radii (kinks); report one-sided falls at kinks
@@ -7381,8 +8052,8 @@ with the covariant Tolman/Komar draw $d=\kappa(4\omega^2N^{-4}-2m^2N^{-2})\psi^2
    - the scale bound: the pulsar triple needs P₀/p_s ≳ 10⁵ at first order (Run 45, Part 1); *under the variational draw and inertia = energy, 1.7–2.1×10⁵ with realistic equations of state (Run 57)*
    - the strong-field miss (Run 40b); under option A it matters only inside compact objects
 23. **ED's core under option A (Run 43).** *Calculated.* Open:
-   - ~~Allen's ruling on the core~~ *ruled 19 October: it commits (a total absorber; no echoes)*
-   - ~~if the core re-emits (ED's radiation papers), the surface-glow bound limits how much comes back out as thermal light~~ *it does not re-emit: ED's holes are stable (Allen, 21 October)*
+   - ~~the ruling on the core~~ *ruled 19 October: it commits (a total absorber; no echoes)*
+   - ~~if the core re-emits (ED's radiation papers), the surface-glow bound limits how much comes back out as thermal light~~ *it does not re-emit: ED's holes are stable (21 October)*
    - ~~whether lapse = P/P₀ holds at P ~ p_s, which sets where the core sits~~ *Run 67, under option 3: with the exact medium the clock stops where GR's lapse is ε/(1 + ε), to 0.0035/p_s; the surface is at infinite tortoise distance, not a reflecting wall*
 
 ## 11b. Standing checks for any rule change
@@ -7410,9 +8081,9 @@ with the covariant Tolman/Komar draw $d=\kappa(4\omega^2N^{-4}-2m^2N^{-2})\psi^2
 
 **Strong field (Run 28):** the exponential metric has no horizon (a throat at areal e M). Its shadow is 4.6% larger than GR's (allowed by EHT at 2σ). Its static ringdown frequency is about 4% below Kerr's, about 5σ from GW250114 if that estimate carries over to spinning remnants and ED's own waves.
 
-## 11c. Options for β = 1 (for Allen's decision)
+## 11c. Options for β = 1 (for a ruling)
 
-*17 October 2026, for Allen's decision. Nothing here is built or adopted.*
+*17 October 2026, for a ruling. Nothing here is built or adopted.*
 
 ### The target
 
@@ -7469,7 +8140,7 @@ $$
 
 ### Candidate B: keep everything, make the clock read the passing count exponentially
 
-Clock rate $=\exp(\text{passing}/\lambda_0-1)$. This works mathematically. **I found no natural counting mechanism for it.** The nearest is "every combination of passing units counts toward the hold", which is exotic. Listed for completeness, not recommended.
+Clock rate $=\exp(\text{passing}/\lambda_0-1)$. This works mathematically. **No natural counting mechanism for it was found.** The nearest is "every combination of passing units counts toward the hold", which is exotic. Listed for completeness, not recommended.
 
 ### Candidate C: keep β = ½
 
@@ -7485,7 +8156,7 @@ Test Candidate A, pre-registered against the full standing checks (first and sec
 - **β:** passed, as §11c anticipated. Counting noise left β short of 1 at 8 per place (0.943), the shortfall §11c warned of. It is not a correction to fight. It *is* the equation of state, and β follows from it exactly: $\beta=1+y''/(2y'^2)$ with $y=\ln\langle P\rangle$ as a function of the outflow. For a clock reading the ambient possibility, β is inside Mercury's band from 64 units per place upward.
 - **Clocks:** failed, from a risk §11c did not list. A presence clock reads its own places, and its own draw lowers them (about 19% for a lone clock at $p_s$ = 1), almost the same at 8 and 32 per place. The medium refills them only logarithmically, so near matter clocks that draw more slow less.
 
-### Candidate A′: a large crossover $p_s$ (kill tests passed in Runs 23–24; for Allen's decision)
+### Candidate A′: a large crossover $p_s$ (kill tests passed in Runs 23–24; for a ruling)
 
 Keep Candidate A's two rules, but let a place's outflow stay *linear* up to a large holding $p_s$ and turn logarithmic only above it:
 
@@ -7518,7 +8189,7 @@ That last condition is also gravity's weakness: matter is light compared with th
 
 ### Other options, briefly
 
-- **A clock that reads ambient presence** (excluding its own draw's effect) would fix T2 by construction. I found no counting mechanism for "excluding its own effect", so it would be a relabel.
+- **A clock that reads ambient presence** (excluding its own draw's effect) would fix T2 by construction. No counting mechanism was found for "excluding its own effect", so it would be a relabel.
 - **Keep the 15–16 October rules and leave the β problem open.** Candidate C's β = ½ is excluded, so this means living with a known failure until a better rule is found.
 
 ---
@@ -7541,7 +8212,7 @@ That last condition is also gravity's weakness: matter is light compared with th
 | 11b | 171³, absorbing edge 30, six strain components | leapfrog, $dt = 0.5$; lock-in at $2\omega$ over 12 whole periods; C/OpenMP kernel | flux independent of sphere radius (40/50/60) to 0.16%; ω⁶ slope 5.98–5.99; body-size factor; polarisation shares against the angular integrals to ±0.002; tension-off control 0.241 against 0.25; pre-registered |
 | 12 | 64³–128³ periodic, h = 0.2 and 0.1 | FIRE on the sphere (step cap 0.02), then projected gradient flow; C/OpenMP kernel | gradient = finite differences to 6×10⁻⁷; Hopf charge with 4th-order FFT; grid refinement h = 0.2 → 0.1; spectrum against Sutcliffe 2007 |
 | 13 | random graphs of 0.1–1.0 M places (box 9.6–14), periodic | the same relaxations on graphs; C kernels for corner and loop Str | the graph code reproduces Run 12's cubic energies to 10⁻¹⁴; gradients checked by finite differences; P06 instruments (triangles, squares per link, ball growth, walk return, bridges, isotropy); 3 random complexes for the disorder spread |
-| 14 | 30³ and 60³ periodic, ED's event-layer engine (`run_event_layer.py`, unmodified) | ED's discrete tick; arm V skips vacuum commitment | subclass bit-identical to the engine with additions off; Allen's own benchmark reproduced exactly; matched controls; 2 seeds; pre-registered |
+| 14 | 30³ and 60³ periodic, ED's event-layer engine (`run_event_layer.py`, unmodified) | ED's discrete tick; arm V skips vacuum commitment | subclass bit-identical to the engine with additions off; ED's own benchmark reproduced exactly; matched controls; 2 seeds; pre-registered |
 | 15 | 30³ periodic, ED's event-layer engine (unmodified), arm V | ED's discrete tick; matter's hold in ticks (old) or in passing possibility (flow) | old rule with Run 14's probes reproduces Run 14 bit for bit; matched controls; 2 seeds; 96 probes in two designs; bootstrap errors; pre-registered |
 | 16 | source: 60³ periodic, ED's engine with the adopted rules; pattern: Klein–Gordon on the same lattice | engine: ED's tick; pattern: leapfrog, δt = 0.1 tick | charge conserved to 10⁻¹⁶; group velocity matched to 5 digits; synthetic 1/r well (0.987–0.989 at every mass); fit-window, smoothing and tracked-centroid diagnostics; 2 seeds; pre-registered, with a dated note before density 32 |
 | 17 | engine: 60³, adopted rules plus hops slowed by the place's clock (unstable); patterns: general static-field Klein–Gordon in the Run 16 field | engine: ED's tick; patterns: leapfrog δt = 0.1 | rule-off engine bit-identical to Runs 15–16; four-variant stability diagnostic; synthetic-field code checks for bending, delay and fall; coupling-C subtraction; ray tracing at full strength; pre-registered, with an amendment before any engine-field pattern ran |
@@ -7563,7 +8234,7 @@ That last condition is also gravity's weakness: matter is light compared with th
 | 32 | Run 22's engine (unchanged), 40³, $p_s$ = 1, $P_0$ = 64, ED's radius-3 ball with 8, 32, 128 commitments per pair; analytic exterior metric | ED's discrete tick | zero-range theory (Run 22's, self-consistent) fixed beforehand; it reproduces Run 26's k = 1 draw (8.55 against 8.54); pre-registered with a kill rule |
 | 33 | — (decision memo) | — | repo search; post-Newtonian bookkeeping as in Run 30 |
 | 34 | calculation: coefficient matching to Will's standard-gauge PPN metric; free-space grid consistency checks | — | linear system solved directly against the closed forms; $\chi_{,0i}=V_i-W_i$ to 2% (consistency only; the far-field W was not checked); criteria hashed beforehand; algebra, gauge, bounds and GP-B figures re-derived by an independent agent, whose eight corrections to the statement are applied |
-| 35 | engine35: the wander rule's stationary law (zero-range product measure) drawn each tick at the self-consistent fugacity, conserved total; presence clocks unchanged; 40³ (ball) and 30³ (125 clocks), $p_s$ = 1, $P_0$ = 64 | ED's discrete tick (not physical time, per Allen) | predictions (zero-range steady state; an independent integrate-and-fire clock model) hashed with the code and analysis before any registered run; smoke tests on other seeds disclosed; pattern–flow coupling checked on given flows (deterministic) |
+| 35 | engine35: the wander rule's stationary law (zero-range product measure) drawn each tick at the self-consistent fugacity, conserved total; presence clocks unchanged; 40³ (ball) and 30³ (125 clocks), $p_s$ = 1, $P_0$ = 64 | ED's discrete tick (not physical time, by ruling) | predictions (zero-range steady state; an independent integrate-and-fire clock model) hashed with the code and analysis before any registered run; smoke tests on other seeds disclosed; pattern–flow coupling checked on given flows (deterministic) |
 | 36 | the A″ relaxed medium's mean field (Run 35), box 60; the ball self-consistent; Run 16's pattern ground state by LOBPCG, iterated with the field to 10⁻¹¹ | ED's discrete tick | registration hashed before any run with the pattern's draw; R-b density's total checked against ω + K/ω to 10⁻¹⁵; test-pattern limit checked (doubling κ: 10⁻⁵); diagnostics post hoc; independent agent |
 | 37 | Run 29's engine with one change (the renewal's units drawn from the whole box), 30³, 2 seeds × 240,000 ticks | ED's discrete tick | registered thresholds; lag29's estimator, Run 29 recomputed by the same code |
 | 38 | A″ mean field, box 40, a ring of 32 pairs; the input's current field by Poisson; Run 35's convective pattern | — | construction check: no-well drift 0.998 of the flow; in-well excess closed by the ⟨k_y⟩ integral |
@@ -7580,7 +8251,7 @@ That last condition is also gravity's weakness: matter is light compared with th
 | 47 | Newtonian N-body with separate active, passive and inertial masses; DOP853 at rtol 10⁻¹³; two-body (e = 0.6) and a J0337+1715-shaped triple | — | registration hashed with the code before the run; K47a confirms the algebra (A and B are the same equations); SEP-violation control, refitted by the checker (7.5×10⁻⁹ residual, `check/k47b_absorb.py`); independent agent |
 | 48 | the engine of Runs 46c in an exactly scale-free medium, R(z) = p_s e^{z/c}; any grid spacing h (R₀ = 3/h, edge 0.7/h, 108 s/h occupants, m ∝ h); the identity at h = ½, ε = 0.01; fall defects by centred differences in ln h (±0.01) at h = 1 … ⅕ | — | registration hashed with every imported module; one code check disclosed; false start disclosed; identity to 10⁻¹⁶; independent agent (line-by-line check of the identity; re-extrapolation in Δg) |
 | 49 | Run 48's engine at h = ½, ⅓; bodies A, H, E (EOS ε = K n^{Γ−1}, Γ = 2, 3; homologous re-settling by virial balance; K and s calibrated); weak field at h = ½ | — | registration hashed with every imported module; one code check disclosed; independent agent (exact-hydrostatics weight; slope of the engine's energy at the virial point reproduces E − H to 10⁻³) |
-| 50 | the scale-free engine; a Γ = 2 polytrope in exact hydrostatic balance (N h = μ̃ cell by cell, count fixed), Anderson-mixed fixed point; calibrated at h = ½ (U_self 0.2178, radius 4.0), the same physical star at ⅓, ¼, ⅕; the full-rule pattern in it | — | registration hashed with every imported module and the code check; the derivation checked independently; discrete first law ≤ 5×10⁻⁸; post hoc radius scans (h = ⅓, ¼ mine; ⅕ the checker's) |
+| 50 | the scale-free engine; a Γ = 2 polytrope in exact hydrostatic balance (N h = μ̃ cell by cell, count fixed), Anderson-mixed fixed point; calibrated at h = ½ (U_self 0.2178, radius 4.0), the same physical star at ⅓, ¼, ⅕; the full-rule pattern in it | — | registration hashed with every imported module and the code check; the derivation checked independently; discrete first law ≤ 5×10⁻⁸; post hoc radius scans (h = ⅓, ¼ added; ⅕ the checker's) |
 | 51 | Run 48's engine at h = ⅓ in media R = p_s(e^{z/c} − α), direct U_ext = ±0.005; and a 120-cell box (G120, the same Green's-function code) | — | registration hashed; control reproduces Run 48 to 5×10⁻⁸; independent agent |
 | 52 | Run 50's star (recalibrated to the same U_self and radius) in g = αp_s/P media, draw rules T and T(1 + g); falls from U_ext = ±0.005; h = ½, ⅓ | — | registration hashed; code check disclosed; the h = ½ calibration sits on a kink (shifts robust); independent agent (Hellmann–Feynman, Maxwell relation, probes) |
 | 53 | Run 50's star with K × f (9 points) at h = ⅕, ⅙; weighted c₀ + ah² over the scan means | — | registration hashed; the h = ¼ scan is Run 50's post hoc one; independent agent (quadrature: κ × 1, 3, 10 and dense κ) |
@@ -7603,6 +8274,12 @@ That last condition is also gravity's weakness: matter is light compared with th
 | 70 | Run 24's engine with a weighted hop rule (link conductance Ω = e^σ, else stay) on a periodic, conformally curved 36³ lattice (R̃ = 12λ at each clock); the zero-range theory with the weighted lattice's Green's function, fixed beforehand | engine21's zero-range medium, 20,000 ticks; conjugate gradients | λ = 0 against Run 24; uniformity with no clocks; exact conservation in every run; registration hashed with the theory's output; independent agent |
 | 71 | Run 67's exterior held fixed; a thin shell (dust; post hoc, surface pressure) with a flat interior under Israel's two junction conditions, which exchange energy with the medium's effective stress; the 1+1 flux at infinity from the ray map through the regular centre, Schwarzians by Taylor-mode arithmetic | DOP853, rtol 10⁻¹² | GR controls (late flux = Hawking's to 10⁻⁶); the exchange identity to 10⁻¹¹; registration hashed with copies kept; independent agent (own code, analytic horn reduction, shells with pressure and tension) |
 | 72 | Run 70's engine on an equal-place lattice: γ̃ = B⁻⁴dx² + B²(dy² + dz²), conductances B⁴ (x) and B⁻² (y, z), one normalisation c_n for every lattice; clocks at both signs of curvature; the zero-range theory fixed beforehand | engine21's zero-range medium, p_s = 1, 20,000 ticks, 50 runs; conjugate gradients | flat control against theory; uniformity with no clocks; exact conservation in every run; registration hashed with the theory's output; resume after the task limit disclosed; independent agent (own solver, Christoffel–Ricci curvature, seed-level statistics) |
+| 72b | Run 72's engine, lattices, theory and analysis, with 40 new seeds; the contrast from seed-paired gaps | as Run 72: p_s = 1, 20,000 ticks; two batches with skip-existing | registration hashed before any new run (run files post-date it); exact conservation in every run; verdicts on new seeds and on all seeds; independent agent (own reproduction, full covariance, flat-control offset) |
+| 73 | Run 71b's thin shell with surface pressure p = wσ (Israel's two conditions, [K^τ_τ] = (1 + 2w)M_s/R²) in Run 67's fixed exterior; a grid in w, ε, R₀ and γ₀; turning points by event detection | DOP853, rtol 10⁻¹² | a known case reproduced (w = 0.01); registration hashed (one syntax amendment disclosed); independent agent (own code; marginal-crosser supremum; the conversion correction) |
+| 74 | Run 71/71b's shell committing at N_c = kε; the ray map's slope and redshift at commitment from Taylor-mode derivatives; the flash from a tanh transition to the static vacuum, by quadrature | DOP853, rtol 10⁻¹²; quad | flash integral against its closed form; registration hashed; corrected run post hoc; independent agent (own reproduction, Bogoliubov count, tortoise distance) |
+| 75 | Run 72's engine on Run 72's flat lattice with only the outer x-links (midpoints x = 2.5, 4.5 mod 6) scaled by e^∓1; Run 72's zero-range theory fixed beforehand | as Run 72: p_s = 1, high medium, 20,000 ticks, 20 seeds per lattice, two batches | registration hashed before any clock-reading run; exact conservation; independent agent (own lattice and solver, theory to 10⁻¹², post hoc five-lattice comparison with look-elsewhere correction) |
+| 76 | Run 72's engine and s = −1 lattice, unchanged, 40 fresh seeds; Run 72's theory fixed beforehand; baseline fixed before the runs | as Run 72: p_s = 1, high medium, 20,000 ticks, two batches | registration hashed before any run (header time corrected and re-hashed once, before any run); exact conservation; independent agent (own reproduction, seed-block trend, pooled scatter, random-effects spread, cost of a 3σ answer) |
+| 77 | Run 72's engine on a 36³ lattice with option 3's planar conductances (x-links c_n·B², y/z-links c_n/B, B² = 1 + 4Fξ with ξ the distance from the sheet, c_n at the one-hop cap), a 648-pair sheet at x = 0 and released units returned over x = 18; theory (planar mean field, fixed points, rebuild sequence) fixed beforehand | p_s = 1, about 64 units per place, 25,000 ticks (read over the last 15,000), warm starts; 9 runs, the k = 2 rebuild steps built from the previous step's measured flux | registration hashed before any run (Amendment 1: driver filter fixed and re-hashed before any run); exact conservation; stationarity checked by halves; independent agent (own reproduction and solver, construction and curvature checked numerically, two cold-start runs, fixed points against reservoir distance and sheet-clock bookkeeping) |
 
 Units are lattice units throughout. Wave speed $v=1$. Cluster masses: $M=0.8\pi$ (A = 0.1) for Runs 3–6, and $M_A=0.25$, $M_B=0.5$ for Runs 7–8, chosen so the cadence deficit stays a few percent.
 
@@ -7681,3 +8358,9 @@ The code and data for each run were delivered as separate bundles:
 | 70 | `curve70_run.zip` | 70_curved |
 | 71 | `collapse71_run.zip` | 71_collapse |
 | 72 | `curve72_run.zip` | 72_equalplace |
+| 72b | `curve72_run.zip` (with 72b) | 72b_gapcontrast |
+| 73 | `stiff73_run.zip` | 73_stiff |
+| 74 | `commit74_run.zip` | 74_commit |
+| 75 | `outer75_run.zip` | 75_outerlinks |
+| 76 | `rep76_run.zip` | 76_replication |
+| 77 | `sheet77_run.zip` | 77_sheet |

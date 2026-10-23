@@ -1,6 +1,6 @@
 ## 9zzh. Run 61: ED's neutron stars against tidal deformability (GW170817) and radii (NICER)
 
-*20 October 2026. Allen: "do as you recommend". The steps:*
+*20 October 2026. The steps:*
 1. *derive ED's exterior beyond first order and its tidal Love numbers, then use GW170817 and the NICER radii;*
 2. *tighten K60b with a softer chiral-EFT base;*
 3. *track the hop as an open tension (§10, §11).*
@@ -98,7 +98,7 @@ Radii are areal, in km; the GR-equivalent radius in brackets is the one with the
 4. **Provenance.** The current files match the amendment's hashes, and the registration text is unchanged apart from the added amendment section. The original `star61.py` was not kept, so that only `cs2` changed rests on this record rather than on a hash. The analytic sound speed it now uses is correct (c_s² = KΓn^{Γ−1}/h = Γp/(e + p) for a polytropic piece).
 
 **Reading.**
-1. **ED survives the tidal and radius tests on one route only.** With ED's interior equations binding (Allen's ruling), the heaviest pulsars, nuclear theory, QCD and GW170817 together leave ED one kind of dense matter:
+1. **ED survives the tidal and radius tests on one route only.** With ED's interior equations binding (the ruling), the heaviest pulsars, nuclear theory, QCD and GW170817 together leave ED one kind of dense matter:
    - like chiral EFT up to about 2 n_s (c_s² ≈ 0.03–0.17);
    - then a sharp stiffening, to c_s² of at least 0.7–0.9 (depending on the base below), from about 2 n_s up to the centres of the heaviest stars (2.5–3.4 n_s).
    - Route (a), stiff from 1.1 n_s, is excluded by GW170817 and disfavoured by J0437.

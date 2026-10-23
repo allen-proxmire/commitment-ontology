@@ -1,6 +1,6 @@
 ## 9y. Run 32: can the adopted rules make a horizon? (and do ED's radiation papers apply?)
 
-*19 October 2026. Pre-registered and hashed before any run (`horizon/PREREG_32.md`, 05:47 UTC), with a kill rule. Allen: "do the recommended steps" (step 2: whether the surface where possibility runs out is a horizon).*
+*19 October 2026. Pre-registered and hashed before any run (`horizon/PREREG_32.md`, 05:47 UTC), with a kill rule. (step 2: whether the surface where possibility runs out is a horizon).*
 
 **Prior record (checked first).** Much of this was already found in other ED models. This run puts it on the adopted rules.
 - **Attempt B, B-39** (O165, W103, W104): the body's slowing clock cuts its own draw. "The brake wins by a factor of ~30… the bandwidth seal OPENS". The clock slows as a power law, $t^{-0.55}$ to $t^{-0.67}$; "nothing freezes."
@@ -25,7 +25,7 @@ $$
   - the proper distance to the surface grows as ln(1/ε), so it is infinite
   - the areal radius r/N diverges
   - a radial light ray reaches it at finite affine parameter
-- This is an extremal-type end with infinite area and zero temperature, the same verdict as Allen's acoustic-metric arc.
+- This is an extremal-type end with infinite area and zero temperature, the same verdict as ED's acoustic-metric arc.
 
 (b) **A static body cannot make that surface.**
 - Its draw is its ticking (presence clock). For a thin shell of bare compactness μ (the U it would make if its clocks did not slow), the shell's clock rate solves

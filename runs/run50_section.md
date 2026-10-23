@@ -1,11 +1,11 @@
 ## 9zv. Run 50: a star in exact hydrostatic balance — does a quantum raise its far field by exactly ħω?
 
-*20 October 2026. Allen: "go ahead as you recommend". Registered and hashed with every imported module before the run (`firstlaw/PREREG_50.md`, 07:43 UTC; the main run started seconds later). Disclosures:*
+*20 October 2026. Registered and hashed with every imported module before the run (`firstlaw/PREREG_50.md`, 07:43 UTC; the main run started seconds later). Disclosures:*
 - *One code check ran before registering, at h = 1, which is not a registered grid. Its numbers are in the registration (`check50.json`, hashed).*
 - *Run 49's check motivated the run.*
 - *The radius scans (`posthoc50.py`; the checker's h = ⅕ scan in `check5051/`) are post hoc, made after K50b came out undecided.*
 - *The reported extras did not finish (below).*
-- *The derivation is mine; an independent agent checked it, and its corrections are included.*
+- *An independent agent checked the derivation, and its corrections are included.*
 
 **Question.** With the body model of Runs 42–46c, a bound pattern's pull at neutron-star strength was 4% short of its energy. That model had three parts: a stress sized by the virial with the rest draw as weight, a proper-size rule, and a fixed homologous shape. Post hoc, Run 49 traced most of the 4% to the stress weight.
 

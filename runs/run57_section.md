@@ -1,6 +1,6 @@
 ## 9zzd. Run 57: realistic neutron-star equations of state, in ED's continuum equations
 
-*20 October 2026. Allen: "do as you recommend" (step 2). Registered and hashed before the run (`eos57/PREREG_57.md`, 15:37 UTC). An independent agent checked the run; its corrections are included.*
+*20 October 2026. (step 2). Registered and hashed before the run (`eos57/PREREG_57.md`, 15:37 UTC). An independent agent checked the run; its corrections are included.*
 
 **Question.** Run 55 left the pulsar's coefficient C spread over 0.33–0.49, from its unmeasured radius and two polytropes. With a realistic equation of state, the star of the pulsar's measured mass has a definite compactness. What are its C and U_s in ED's own equations? And, as reported (not registered as a test), what is ED's maximum neutron-star mass?
 
@@ -58,4 +58,4 @@ $$
 **Reading.**
 1. **With realistic equations of state, the pulsar's coefficient is C ≈ 0.40–0.49,** and the triple requires P₀/p_s ≳ 1.7–2.1×10⁵ (red noise) or 2.7–3.3×10⁵ (the planet model). This replaces Run 55's range of 1.4–2.9×10⁵. The remaining spread is the equation of state.
 2. **ED's static strong field holds less mass than GR's.** The source term (e + 3p)e^{2U} grows deep in the well (e^{2U} ≈ 5.5–6 at the centre of a maximum-mass star), so stars turn over sooner. **With SLy, APR4 or MPA1 as they are, ED cannot hold the measured 2 M☉ pulsars.** Whether any allowed equation of state can is Run 59.
-3. **Scope.** Option A (§9zm: "outside a compact object the field is GR's") covers black-hole exteriors only. The neutron-star interiors here are ED's own static equations. Whether a failure here could be absorbed by extending that tracked input to neutron-star interiors was put to Allen. He ruled (20 October) that ED's interior equations bind (§10).
+3. **Scope.** Option A (§9zm: "outside a compact object the field is GR's") covers black-hole exteriors only. The neutron-star interiors here are ED's own static equations. Whether a failure here could be absorbed by extending that tracked input to neutron-star interiors was put up for a ruling. It was ruled (20 October) that ED's interior equations bind (§10).

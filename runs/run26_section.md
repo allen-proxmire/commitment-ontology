@@ -33,15 +33,15 @@ $$
 
 | test | registered | measured | verdict |
 |---|---|---|---|
-| W1 | $a_A/a_B=1.00\pm0.02$, with $g$ per unit draw and prediction $a=0.695$ | as written: $a_A/a_B$ = 0.588; depth per unit draw: ratio **1.001** (halves 1.017, 0.986), each 0.69 | **specification self-contradictory (my error); see below** |
+| W1 | $a_A/a_B=1.00\pm0.02$, with $g$ per unit draw and prediction $a=0.695$ | as written: $a_A/a_B$ = 0.588; depth per unit draw: ratio **1.001** (halves 1.017, 0.986), each 0.69 | **specification self-contradictory (a registration error); see below** |
 | W2 (kill) | f ≥ 0.8; prediction 1.00 ± 0.10 | **f = 0.91 ± 0.07** (halves 1.00, 0.88). That error is understated: see the second seed below, where both seeds give 1.12 ± 0.19 | **pass** |
 | W3 (reported) | $s$ measured against predicted | 0.976 / 0.975 (A), 0.986 / 0.987 (B) | **agrees to 0.2%** |
 
 **W1, as registered, cannot be scored cleanly.**
-- **The flaw.** I defined $g$ "per unit draw". That makes the fitted $a$ equal to $y'\times D$, so the registered prediction ($a$ = 0.695 for both bodies) and the registered pass mark ($a_A/a_B$ = 1) could not both hold.
+- **The flaw.** $g$ was defined "per unit draw". That makes the fitted $a$ equal to $y'\times D$, so the registered prediction ($a$ = 0.695 for both bodies) and the registered pass mark ($a_A/a_B$ = 1) could not both hold.
 - **As literally written,** $a_A/a_B$ = 0.588 is a fail.
 - **The consistent reading** is $a/D$, the standing check's "A ÷ draw the same for every body". Then the two bodies agree to 0.1%, and both match the medium's measured slope (0.695) to 0.8%.
-- I record W1 as a registration error with that consistent result beside it, not as a pass.
+- W1 is recorded as a registration error with that consistent result beside it, not as a pass.
 
 **W3's registered solver** (plain fixed-point iteration) oscillated for B. The same equation solved by bisection gives the values in the table.
 

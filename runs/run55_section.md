@@ -1,9 +1,9 @@
 ## 9zza. Run 55: ED's medium and the pulsar triple, under the variational draw
 
-*20 October 2026. Allen: "adopt the variational draw. proceed as you recommend" (steps 2–3). Registered and hashed before the run (`medium55/PREREG_55.md`, 12:40 UTC). An independent agent checked the run. Its corrections change the reported pulsar numbers but no registered verdict. Disclosed:*
+*20 October 2026. (steps 2–3). Registered and hashed before the run (`medium55/PREREG_55.md`, 12:40 UTC). An independent agent checked the run. Its corrections change the reported pulsar numbers but no registered verdict. Disclosed:*
 - *The registered star at U_self = 0.30 failed (its calibration hit an invalid value). The star table was extended post hoc by continuation (`posthoc55b.py`, `posthoc55c.py`). A first retry (`posthoc55_failed.py`) started from a count 16% too large, a scaling slip, and was stopped.*
 - *The registered mapping of the pulsar's radius to its surface potential was wrong, and the registered analysis clamped C at the table's end instead of extrapolating. Both were corrected post hoc (`posthoc55_pulsar.py`).*
-- *During the run Allen ruled that inertia = total energy (§10).*
+- *During the run it was ruled that inertia = total energy (§10).*
 
 **Question.** Under the adopted variational draw, a body's equivalence-principle violation is (Runs 52, 54)
 $$
@@ -85,7 +85,7 @@ rising to about 2.1×10⁵ (3.2×10⁵) if the Γ = 2 star at 12 km is included.
   - only the trace is shown (a full proof needs ∫T^{xx} = 0 along the boost; the trace gives it for spherical or cubic bodies);
   - any equilibrium of a covariant theory satisfies the identity, so it adds no evidence;
   - the adopted Lorentz input covered first post-Newtonian order only.
-- **So inertia = E_H needed an input,** and Allen supplied it: the Lorentz input extended to the complete dynamics (§10). The boosted far field carries the active momentum M_far·v, and the difference from E_H·v is the Nordtvedt effect, as in Brans–Dicke-type theories.
+- **So inertia = E_H needed an input,** and a ruling supplied it: the Lorentz input extended to the complete dynamics (§10). The boosted far field carries the active momentum M_far·v, and the difference from E_H·v is the Nordtvedt effect, as in Brans–Dicke-type theories.
 
 ![Runs 55–56](figures/55_56.png)
 

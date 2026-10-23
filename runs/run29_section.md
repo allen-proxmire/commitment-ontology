@@ -3,9 +3,8 @@
 *18 October 2026.*
 - *Pre-registered and hashed before any run (`arrow/PREREG_29.md`, 20:47 UTC), together with the engine, the analysis and the theory scripts.*
 - *An independent agent re-ran the analysis, reproduced it exactly, and checked every verdict. Its corrections are included.*
-- *Allen: "do the recommended steps".*
 
-**Question.** Allen's papers say GR and QM are averages of a one-way process, and that averaging removes the order:
+**Question.** ED's papers say GR and QM are averages of a one-way process, and that averaging removes the order:
 > "averages are permutation-invariant: a sum does not remember the order of its terms… Its reversibility is ignorance of order, formalized." (`Paper_HowTheoryCoarseGrainReality.md`)
 
 His falsifiers include "substrate-level dynamics is genuinely time-reversal-symmetric" (T18 §10). A search of the three repos found no earlier numerical test of time-reversal asymmetry, so this is the first. In the engine the claim has three parts:
@@ -73,8 +72,8 @@ $$
    - The forward/backward asymmetry of a clock's record stays at 0.023–0.034 up to windows of 32 ticks. The exception is a dip to 0.005 at T = 4, from the clock's cadence.
    - From T = 64 it falls about as 1/T (slope −0.95), to 0.0013 at 1024. That is 26× below single ticks, but still 5σ from zero.
    - A 1/T fall is what any one-way record with a finite memory shows when averaged over windows much longer than that memory. The order lives within about 150 ticks of each event, and a long window dilutes it.
-   - **Allen's sentence describes what the averaged record becomes.** Over a long window a clock's completions are, to 0.999 correlation, the presence it collected divided by H. That is a sum, and a sum does not remember the order of its terms. The run shows the record becoming such a sum. It does not show that this is the cause of the 1/T fall rather than a description of it.
-3. **Averaging over space does not shrink it (T5).** Summing 125 clocks leaves the asymmetry unchanged: 0.0334 against 0.0343. Independent clocks add their asymmetries in proportion. In the engine, losing the order is what averaging over **time** does: "GR basically averages time" (Allen).
+   - **ED's sentence describes what the averaged record becomes.** Over a long window a clock's completions are, to 0.999 correlation, the presence it collected divided by H. That is a sum, and a sum does not remember the order of its terms. The run shows the record becoming such a sum. It does not show that this is the cause of the 1/T fall rather than a description of it.
+3. **Averaging over space does not shrink it (T5).** Summing 125 clocks leaves the asymmetry unchanged: 0.0334 against 0.0343. Independent clocks add their asymmetries in proportion. In the engine, losing the order is what averaging over **time** does: "GR basically averages time".
 4. **The bell curve is not what removes the order (T4 missed).**
    - Time-averaging first *raises* skewness:
      - a vacuum place: 0.32 → 0.42 at T = 256
@@ -94,8 +93,8 @@ $$
    - **One average keeps its order (exact bookkeeping, no measurement).** Possibility flows steadily into every drawing clock and is released uniformly. In a steady state the mean inflow through a sphere of radius r around one clock is $D-D_{\rm tot}V_r/V_{\rm box}$. Here D is that clock's draw and $D_{\rm tot}$ is the total draw. A current reverses under time reversal, so this average carries the arrow. Clocks and patterns read P, not the current.
 
 **What this shows and does not show.**
-- **It shows:** Allen's coarse-graining claim works in ED's own engine, in this form.
+- **It shows:** ED's coarse-graining claim works in ED's own engine, in this form.
   - A one-way event layer, including a one-way vacuum, produces clock records whose time-averages lose most of their order, falling as 1/T, while averaging over space keeps it.
-  - The bottom is not two-way, which is one of Allen's falsifiers, so that falsifier is not triggered.
+  - The bottom is not two-way, which is one of ED's falsifiers, so that falsifier is not triggered.
 - **It does not show** that nature works this way. Standard physics gets time-symmetric averages from time-symmetric micro-laws. Telling the two apart needs the leak (c/T, with c unknown at physical scales) or the arrow in fluctuations.
-- **Not tested:** wells (only lone clocks), Allen's Result 22 "age" residue, the tick length, and boxes large enough to see a diffusive tail.
+- **Not tested:** wells (only lone clocks), ED's Result 22 "age" residue, the tick length, and boxes large enough to see a diffusive tail.

@@ -24,7 +24,7 @@ A commitment holds until $\sum_{\rm ticks}(P_a+P_b)$ reaches $H=\hbar\cdot2\cdot
 - **Draws:** 7.97, 10.70 and 12.40 per tick at density 8; 8.49, 11.89 and 13.92 at density 32.
 - **The wells are deep.** The clock shortage at r = 4 is 0.41, 0.52 and 0.57 at density 8, against 0.18 for the adopted engine's ball. The medium diffuses about 6× (density 8) to 22× (density 32) more slowly, so the same draw digs a deeper well.
 - **The written β predictions missed.** `PROBE_21.md` predicted β = 0.94 ± 0.05 (density 8) and 1.00 ± 0.05 (density 32) by Run 20's method. That method gave **0.805** and **1.080**. The method is a weak-field expansion ($N=1-U+b_2U^2$) and is not valid in wells this deep: its per-shell b₂ runs from +0.33 to −0.43 at density 8, and from 0.41 to 0.64 at density 32.
-- **After seeing the data, I switched to a deep-well fit:**
+- **After the data were seen, the fit was switched to a deep-well fit:**
 
 $$
 N=(1-qU)^{1/q},\qquad \beta=1-q/2,

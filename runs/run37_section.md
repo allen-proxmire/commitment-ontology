@@ -1,6 +1,6 @@
 ## 9zd. Run 37: which memory carried Run 29's tail?
 
-*19 October 2026. Allen: "do your next steps" (step 3). Pre-registered and hashed before any registered run (`tail/PREREG_37.md`, 11:19 UTC), with registered verdict thresholds.*
+*19 October 2026. (step 3). Pre-registered and hashed before any registered run (`tail/PREREG_37.md`, 11:19 UTC), with registered verdict thresholds.*
 
 **Question.** In Run 29 a clock's record leads in time over 20–120 ticks: the mean lag asymmetry D over τ = 20–120 is +8.3×10⁻⁴. Run 35 showed this tail needs memory in the medium between ticks. Run 29's engine has two such memories:
 - **H-hole:** the clock's own reservation hole. Each renewal takes a unit from each of its two places, and the hole relaxes over tens of ticks.

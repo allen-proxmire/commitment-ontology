@@ -118,7 +118,7 @@ The density-8 misses are not explained by sub-wavelength counting noise: recompu
 
 **4. What the engine decision now is.**
 - No engine rule changed: the medium is as in Runs 15–16, and the base hop chance stays 0.99.
-- The proposal is the **pattern rule**. It is ED's statement of why light bends with γ = 1, and adopting it is Allen's decision.
+- The proposal is the **pattern rule**. It is ED's statement of why light bends with γ = 1, and adopting it needs a ruling.
 - It also leaves the old "nothing falls when stepping by paying" result standing for committed matter. The stock pile-up that might have reversed it does not happen, because the medium is unchanged.
 
 ![Run 17](figures/17_hops.png)

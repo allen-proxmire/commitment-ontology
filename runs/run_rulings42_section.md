@@ -1,6 +1,6 @@
-## 9zl. Allen's rulings on Runs 42–43 (19 October)
+## 9zl. The rulings on Runs 42–43 (19 October)
 
-*Allen, 16:25: "1: Yes — stress pulls, as part of the Lorentz input. 2: The core: commits."*
+*Ruled 19 October: stress pulls, as part of the Lorentz input; the core commits.*
 
 **1. Stress pulls (a tracked input: the Lorentz input in its full form).**
 - **The rule.** Every part of a source draws with GR's weights:

@@ -1,6 +1,6 @@
 ## 9x. Run 31: does a well form at the pattern speed, and does it follow a moving body?
 
-*19 October 2026. Pre-registered and hashed before any run (`moving/PREREG_31.md`, 05:43 UTC), with a kill rule. Allen: "do the recommended steps". Step 1 was a rule for moving matter; working it out raised this prior question. An independent agent re-checked the hashes, numbers and verdicts and re-simulated the prediction; its corrections are included.*
+*19 October 2026. Pre-registered and hashed before any run (`moving/PREREG_31.md`, 05:43 UTC), with a kill rule. Step 1 was a rule for moving matter; working it out raised this prior question. An independent agent re-checked the hashes, numbers and verdicts and re-simulated the prediction; its corrections are included.*
 
 **Question.** In the engine, the clock well around matter is a deficit of possibility, and possibility moves by random hops. In the mean, exactly,
 $$

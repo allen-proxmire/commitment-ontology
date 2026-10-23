@@ -1,6 +1,6 @@
 ## 9z. Run 33: does a pattern's energy pull? (a decision memo; no run)
 
-*19 October 2026. Allen: "do the recommended steps" (step 3: give a pattern a cadence on the event layer and measure whether it pulls by ħω). A search of the three repos found no existing ED rule that turns a pattern's energy into draw. By Allen's own rule (ED_Attempt_04, `Picture.md`: "The counting rule is fixed … **before** any weights are computed"), the rule has to be chosen first. This memo sets out the candidates and what each one gives, for that choice. Nothing is run.*
+*19 October 2026. (step 3: give a pattern a cadence on the event layer and measure whether it pulls by ħω). A search of the three repos found no existing ED rule that turns a pattern's energy into draw. By ED's own rule (ED_Attempt_04, `Picture.md`: "The counting rule is fixed … **before** any weights are computed"), the rule has to be chosen first. This memo sets out the candidates and what each one gives, for that choice. Nothing is run.*
 
 **What is measured.** Energy in every form pulls with the same weight as rest mass.
 - **Binding energy.**
@@ -34,7 +34,7 @@ Two pairs of these conflict: DSR-4 with Mass Without Mass, and §12 with D30.
 | rule | rest + binding + internal energy | moving matter (GR: weight $\tfrac32v^2$ in conserved terms) | stress (GR: 3p) | radiation | verdict before any run |
 |---|---|---|---|---|---|
 | **R-a. Cadence draw:** a pattern draws in proportion to its frequency ω = E/ħ (DSR-4 extended) | weight 1 ✓, since a bound state's ω includes its binding and internal energy | lab-frame ω = γm gives $+\tfrac12v^2$: Φ₁ coefficient 2 against GR's 4, so $\zeta_1+\alpha_3=-2$ and an Earth–Moon term of $+\tfrac43$ if it is ζ₁. If cadence means the tick rate seen in the lab (ω₀/γ), the weight is $-\tfrac12v^2$ and $\zeta_1+\alpha_3=-4$ | 0 against 3 | pulls by its energy only. That fails the radiation era if the expansion is driven by the active mass (half GR's H²). It is untested if ED has an energy-only Friedmann constraint | fails motion and stress |
-| **R-b. Cadence plus flux:** a pattern draws for its energy *and* for its momentum flux, the possibility it carries through each place, per direction | ✓ | ✓: energy gives $\tfrac12v^2$ and flux gives $v^2$, together $\tfrac32v^2$. This covers the source of $g_{00}$ only; frame dragging, α₁ and α₂ still need the field dynamics (Run 31) | ✓ (3p) | ✓ (energy, plus the pressure weight: 2E in bulk) | GR's weights at first post-Newtonian order. It is Tolman–Komar's source, so under Allen's R1 it is "consistent, not derived" unless ED gives an independent reason for the flux to draw. D30's "influence carries motion and energy" points that way |
+| **R-b. Cadence plus flux:** a pattern draws for its energy *and* for its momentum flux, the possibility it carries through each place, per direction | ✓ | ✓: energy gives $\tfrac12v^2$ and flux gives $v^2$, together $\tfrac32v^2$. This covers the source of $g_{00}$ only; frame dragging, α₁ and α₂ still need the field dynamics (Run 31) | ✓ (3p) | ✓ (energy, plus the pressure weight: 2E in bulk) | GR's weights at first post-Newtonian order. It is Tolman–Komar's source, so under ED's R1 it is "consistent, not derived" unless ED gives an independent reason for the flux to draw. D30's "influence carries motion and energy" points that way |
 | **R-c. Only commitments pull;** patterns and radiation do not (§12) | only if bound patterns *are* renewing commitments whose rate includes their binding | as R-a, via the commitments | 0 | does not pull: against the measured radiation era and against D30 | fails radiation |
 | **R-d. Mass from binding,** separate from the commitment rate (Mass Without Mass) | depends on the binding rule | — | — | — | conflicts with Run 30's identification of active mass with the draw |
 
@@ -44,7 +44,7 @@ Two pairs of these conflict: DSR-4 with Mass Without Mass, and §12 with D30.
 - The stress weight bites for self-gravitating bodies, where by the virial theorem $3\int p=-\Omega$. It bites less for bodies held by non-gravitational stresses, whose integrated stress vanishes (von Laue).
 - Every rule's motion weight is downstream of Run 31. If the engine's field cannot follow a moving body, no draw rule for moving matter can be checked on the engine as built.
 
-**Allen's decision.**
+**Needs a ruling.**
 1. Which mass reading is canonical: DSR-4 (frequency) or Mass Without Mass (binding)?
 2. Do patterns and radiation pull (D30) or not (§12)?
 3. If R-b: what in ED makes possibility in transit draw, so that it is a reason rather than Tolman restated?
@@ -53,4 +53,4 @@ Two pairs of these conflict: DSR-4 with Mass Without Mass, and §12 with D30.
 - a bound pattern (a Klein–Gordon pattern in a box well, binding a few % of its energy) whose draw follows the chosen rule. Its far field is measured against $E=\hbar\omega$, with binding counted, to 1%.
 - moving patterns against the 1 + 2v² requirement, once the field can follow them (Run 31).
 
-**Allen's ruling (19 October).** "yes to 1": a pattern's rest energy (ħω, binding included) draws, as in D30. With the Lorentz input (Run 34) its momentum flux draws too, so the adopted rule is R-b. Tested in Run 36.
+**Ruling (19 October):** a pattern's rest energy (ħω, binding included) draws, as in D30. With the Lorentz input (Run 34) its momentum flux draws too, so the adopted rule is R-b. Tested in Run 36.

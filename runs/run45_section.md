@@ -1,6 +1,6 @@
 ## 9zo. Run 45: a body at neutron-star strength — does its binding pull and fall like its energy?
 
-*19 October 2026. Allen: "run 45 please". Registered and hashed with its code before the run (`nstar/PREREG_45.md`, 16:12 UTC).*
+*19 October 2026. Registered and hashed with its code before the run (`nstar/PREREG_45.md`, 16:12 UTC).*
 
 *The first launch stopped on an array-shape bug before any result. The fix (`.ravel()`, as `body42.py` does) is disclosed and re-hashed in an amendment (16:16 UTC). Removing it reproduces the original hashes exactly.*
 
@@ -21,7 +21,7 @@ $$
 **Part 2: setup.**
 - **Medium:** Run 40c's unbounded mean-field medium, P₀ = 4096, at P₀/p_s = 64 and 256.
 - **The body:** double resolution (R₀ = 6), keeping its proper size, at U_self ≈ 0.056, 0.11 and 0.22.
-- **Stress pulls (Allen's ruling).** The body's stress holds it against its own field and against the pattern's: $S=-\sum_x s_b(x)\,(\mathbf x-\mathbf c)\cdot\nabla U_{\rm bal}(x)$, drawn at weight 1 per direction. This is the first run with stress for the body's own binding.
+- **Stress pulls (the ruling).** The body's stress holds it against its own field and against the pattern's: $S=-\sum_x s_b(x)\,(\mathbf x-\mathbf c)\cdot\nabla U_{\rm bal}(x)$, drawn at weight 1 per direction. This is the first run with stress for the body's own binding.
 - **The pattern:** Run 16's equation, as in Runs 36–44: $-\nabla^2\psi+m^2N^2\psi=\omega^2\psi$. This is a flat-space wave with its mass redshifted; the pattern keeps speed 1. The record calls it the "clock half". It is not the wave equation of a metric with only $g_{tt}$ changed, which would give half the defect found below. Its mass m = 2.5√(0.055/U) keeps its shape.
 - **Fall** is the response of the body's energy at infinity (its total draw E: z is linear in the draw, so the far field sees exactly E) to a uniform outside potential, a shift of the background P → P₀e^{−U_ext}:
 $$

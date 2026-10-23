@@ -55,7 +55,7 @@ It also tests whether the shortage stays unscreened.
 
 ### Method
 
-- **Engine:** Allen's `run_event_layer.py`, imported unmodified.
+- **Engine:** ED's `run_event_layer.py`, imported unmodified.
 - **Vacuum:** arm V of Run 14, where the vacuum never commits.
 - **Box and settings:** 30³, periodic, PHOP = 0.99. Densities 1, 2, 8 and 32 units per place; seeds 1 and 2; 12,000 ticks, read over the last 9,000.
 - **Matter:** the published ball (radius 3, 54 reserved pairs), with a matched control for every run (same seed, same probes, no ball).
@@ -140,7 +140,7 @@ That is the share of each cycle not spent waiting to pay.
 | **O2** old rule not universal (densities 1, 2) | $U_{21}$ < 0.8 | 0.61, 0.53 | **pass** (as predicted) |
 | **O3** old rule, lean media (estimate) | κ ≈ 0.7 (density 1), ≈ 0.2 (density 2) | 0.95, 0.39 | **missed** |
 
-**Why O3 missed.** My estimate took Run 14's shell-8 value. The pooled κ is weighted toward the inner shells, where the old rule responds more strongly (it is not linear: κ falls by 34–72% from shell 5 to shell 10). Twice as many probes also made the medium leaner: mean possibility was 0.79 against Run 14's 0.86. The miss does not touch any pass/fail call.
+**Why O3 missed.** The estimate took Run 14's shell-8 value. The pooled κ is weighted toward the inner shells, where the old rule responds more strongly (it is not linear: κ falls by 34–72% from shell 5 to shell 10). Twice as many probes also made the medium leaner: mean possibility was 0.79 against Run 14's 0.86. The miss does not touch any pass/fail call.
 
 ### Reading
 

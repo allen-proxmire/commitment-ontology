@@ -17,7 +17,7 @@ The pre-registration (`PREREG.md`) was written before any pattern was evolved in
 
 ### The source: ED's engine with the adopted rules
 
-- Allen's `run_event_layer.py`, imported unmodified.
+- ED's `run_event_layer.py`, imported unmodified.
 - **The vacuum never commits** (Run 14), and **matter's hold is counted in passing possibility** (Run 15).
 - The published ball (radius 3) in a 60³ periodic box. Densities 8 and 32; ball seeds 1 and 2, plus a control with no matter.
 
