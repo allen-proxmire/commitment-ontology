@@ -1,6 +1,6 @@
 # The commitment ontology, as it stands
 
-Allen Proxmire · 23 October 2026 · after Runs 1–81 (with 81b) of the lattice record
+Allen Proxmire · 23 October 2026 · after Runs 1–82 (with 81b) of the lattice record
 
 This page states, in one place, what the lattice record tests: the commitment ontology's rules as they stand today. For each rule it gives:
 - its formula;
@@ -344,6 +344,7 @@ $$
 | 65–69 | GR's clock equation in CO; option 3; static and spinning black holes; evaporation |
 | 70–80 (with 72b) | clocks on curved lattices, and how accurate the clock theory is; collapse through a hole's throat; where infalling matter commits, and what that radiates; the medium on space curved by its own field; the engine's own equation of state; a local rule for the medium's space |
 | 81, 81b | whether averaging a one-way process can give a two-way wave; a reversible control |
+| 82 | the speed of the relations' stretch waves in a well: which formulation gives light's cone (a calculation) |
 
 ---
 
@@ -388,8 +389,8 @@ $$
     - **Two routes (Note H §8, after reading GR-I–IV and KM-I–II):**
       - GR's: no extra scalar, with both constraints every tick.
       - The khronometric route of the earlier papers: a healthy fast scalar, allowed after GW170817 for ξ = 1, |α| ≲ 10⁻⁷ and 0 ≤ λ − 1 ≲ 0.1.
-    - **The speed:** the second factor of N comes if the waves ride on physical space, g = N⁻²γ̃.
-    - **First tests:** H1 (mode count) and H2 (speed).
+    - **The speed (Run 82):** stretch updates on place ticks alone give c_h = N and γ_GW − γ_EM = −1, excluded by GW170817 about 3.8×10⁶ times over. A second factor of N is required. It may sit in the space (the waves on physical space g = N⁻²γ̃), in the stiffness, or in the clock (the stretch's rate gated by ticks and free capacity, as light's is in R6); all three give light's cone. The registered numerical tolerances failed (dispersion, and second-order terms in the statistic); the physics did not.
+    - **First tests:** H1 (mode count; Run 83) and H2 (speed; Run 82).
 - Deriving the borrowed inputs: Lorentz invariance (including twist across ticks) and inertia = total energy.
 - Whether CO's event layer itself charges twist across ticks.
 - The vacuum energy's coefficient.

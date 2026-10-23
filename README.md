@@ -2,7 +2,7 @@
 
 Allen Proxmire.
 
-Tests of the Commitment Ontology against measured physics, on a lattice engine built from its rules: 81 runs (with follow-ups 72b and 81b), 15–23 October 2026.
+Tests of the Commitment Ontology against measured physics, on a lattice engine built from its rules: 82 runs (with follow-ups 72b and 81b), 15–23 October 2026.
 
 The project was formerly titled Event Density (ED). "The earlier papers" and the earlier event-layer engine refer to that work, in the `ED-generative`, `event-density` and `event-density-ontology-models` repositories. Three documents from it are kept unchanged in `runs/`: `P08_substrate_scale.md`, `Paper_BlindnessInvariant_KnotsNotCrystals.md` and `Particles_As_Knots.md`.
 
@@ -85,7 +85,7 @@ Every run in the record tests a consequence of those rules against a measurement
   - the medium's own dynamics on a stress-curved space;
   - how long commitment takes, and the core's quantum state (Run 74);
   - the size of CO's hop (the engine suggests about 10^2.5–10^3 Planck lengths);
-  - a carrier for gravitational waves built from the relations themselves. Note H, a design note in the record, sets out what it needs and the tests that would kill it.
+  - a carrier for gravitational waves built from the relations themselves. Note H, a design note in the record, sets out what it needs and the tests that would kill it. Its speed test (Run 82): the waves need a second factor of N beyond the place ticks, as light has, or they arrive with half light's Shapiro delay, which GW170817 excludes.
 
 ## Running it
 - **Requirements:** Python 3 with numpy, scipy and matplotlib.

@@ -202,6 +202,7 @@ The likeliest outcome is linearised GR on the relations, with GR's constraint st
   - Written in physical lengths, g = N⁻²γ̃ (the space with PPN γ = 1 that light sees), c_h = N·N = c.
   - So the wave must ride on physical space. That is GR-II's "single cone" principle made precise: the same N⁻² that gives light its second factor. The TT parts of γ̃ and g are equal, since they differ by a conformal factor, so §5's proposal stands, with the waves propagating on g.
   - H2 tests this; it ties H2 to H4, the static stretch.
+  - *Note added 23 October, after Run 82:* the calculation confirms that a second factor of N is required, and its check showed that the test fixes the wave's cone, not its space. The factor may sit in the space (the waves on g), in the stiffness (ξ = N²) or in the clock (K_ij = ḣ_ij/2N², the stretch's rate gated by ticks and free capacity, as light's is in R6). All three give light's speed; which one CO's rule uses is for H5.
 - **What the earlier gauge papers add.**
   - They derive no constraint. Gauge invariance is taken as a primitive or a postulate, and there is no link field with an update rule.
   - **What conservation does buy (the reader's own step, checked numerically):** if the energy is exactly invariant under sliding and matter's stress is exactly conserved, then C_i = ∂_jπ_ij + ½κT_0i is constant in time. So the momentum constraint is preserved tick to tick once it holds at the start, and stochastic updates must change π only by divergence-free amounts.
