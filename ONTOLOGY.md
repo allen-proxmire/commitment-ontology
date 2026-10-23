@@ -361,7 +361,7 @@ $$
 - How the engine should represent a strongly curved γ̃. With one global hop rate on a regular equal-place lattice, a self-consistent planar lattice exists only while the source's draw times the distance to the reservoir stays small (Run 77). Slowing clocks with the hops, isotropic cells, or a local tick would avoid that; which is right is a choice about the representation, possibly about the hop rule.
 - How the medium's space curves: two readings, both to be tested (22 October).
   - **(A) Space is the pattern of relations.** Curving it means relations form, dissolve or rewire. In the engine: shells whose place counts follow option 3's areas, with all relations equal.
-  - **(B) Relations are fixed; space is a reading of the medium's state across them,** as time is read from commitment and light's geometry from the pattern rule. In the engine: the medium's hop across a relation depends on its own state, directionally, since stress is directional. This needs a ruling, and must avoid the freezing found in Run 17. The local rule fixed by option 3's planar solution is excluded by light bending (Run 79); rules using second derivatives, or a state carried by the relations, remain.
+  - **(B) Relations are fixed; space is a reading of the medium's state across them,** as time is read from commitment and light's geometry from the pattern rule. In the engine: the medium's hop across a relation depends on its own state, directionally, since stress is directional. This needs a ruling, and must avoid the freezing found in Run 17. The local rule fixed by option 3's planar solution is excluded by light bending (Run 79); rules using second derivatives, or a state carried by the relations, remain. Note H proposes that the state is the relations' own stretch, which would also carry the waves.
   - Relations can dissolve: a dissolved link goes back to possibility, as a two-part possibility pattern (stated 22 October). So (A) is open, with 3D space assumed. A spherical hole can be built under either reading; the readings separate only in how the geometry forms (design note Note G).
 
 **Rotation**
@@ -380,6 +380,12 @@ $$
 **Foundations**
 - Signalling through the field fixed each tick, beyond first post-Newtonian order.
 - Whether CO's waves (the shear of relations, and patterns) come out two-way from the one-way layer, as GR's are. Both wave equations were adopted. Run 81: averaging a one-way process gives a two-way wave at large scales if a current is conserved; shear also needs a restoring force, which the relations' tension would have to supply (§5, item 1).
+  - **Note H (design note):**
+    - **What a carrier needs:** relations with their own stretch and an exactly conserved current, on a face-centred or triangulated relation graph (the engine's cubic relations carry only 3 of the 6 strain components), Regge's energy, and GR's two constraints enforced every tick: sliding at every moment, and isotropic stretch fixed by matter, which stability requires.
+    - **Light's speed needs a second factor of N** beyond the ticks.
+    - **What fails:** places that move (any displacement medium) and momentum fluids cannot carry the TT waves.
+    - **The proposal for testing:** the relations' stretch is option 3's γ̃, which would make it one object for the static space and the waves.
+    - **First tests:** H1 (mode count) and H2 (speed).
 - Deriving the borrowed inputs: Lorentz invariance (including twist across ticks) and inertia = total energy.
 - Whether CO's event layer itself charges twist across ticks.
 - The vacuum energy's coefficient.

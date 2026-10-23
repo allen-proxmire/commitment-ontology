@@ -84,7 +84,8 @@ Every run in the record tests a consequence of those rules against a measurement
   - the strong-field binding miss;
   - the medium's own dynamics on a stress-curved space;
   - how long commitment takes, and the core's quantum state (Run 74);
-  - the size of CO's hop (the engine suggests about 10^2.5–10^3 Planck lengths).
+  - the size of CO's hop (the engine suggests about 10^2.5–10^3 Planck lengths);
+  - a carrier for gravitational waves built from the relations themselves. Note H, a design note in the record, sets out what it needs and the tests that would kill it.
 
 ## Running it
 - **Requirements:** Python 3 with numpy, scipy and matplotlib.

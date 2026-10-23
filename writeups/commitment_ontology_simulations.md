@@ -8210,6 +8210,194 @@ $$
    - The damping values belong to the zero-line-momentum ensemble.
    - Shear, which is what GR's waves are, is untouched.
 
+### Note H (design note): can the relations carry a two-way shear wave? (calculation)
+
+*23 October 2026.*
+- *This note follows Runs 81 and 81b. It sets out what a gravitational wave needs, tests CO's possible carriers against those needs, and names the test that would kill each.*
+- *It is a calculation, and no engine run was made. The numbers come from `shearH/designH.py` (output `designH.json`); the outside results are cited.*
+- *An independent agent checked it with its own code (`shearH/checkH/`). Its corrections are included and listed at the end.*
+
+**1. Why.**
+- **The waves are the one place CO still adopts GR's equations outright.**
+  - Run 11b gave the relations a six-component strain s_ij obeying linearised GR's wave equation, s̈_ij = ∇²s_ij + 16πG T_ij.
+  - It then ruled which parts are real: "relations are all there is", so sliding places is free and isotropic stretch is set by matter. That leaves the two transverse-traceless (TT) polarisations, which give 0.98 of GR's binary-pulsar loss.
+  - The wave equation for patterns (R6) is also adopted.
+- **Runs 81 and 81b fixed two facts, shown there for longitudinal sound:**
+  - a wave averaged from one-way updates is two-way at large scales only if it carries a conserved current;
+  - once it does, averaging hides the arrow.
+
+  Here both are assumed to carry over to shear.
+- **In linearised GR only h^TT_ij obeys a wave equation** (Flanagan & Hughes 2005, §2.2). The rest is fixed by matter each moment, as CO's R4 fixes the clock field.
+
+**2. What a carrier must deliver.**
+
+| | requirement | measured bound, or reason |
+|---|---|---|
+| (a) | **two-way while travelling:** a current conserved *exactly* through its updates (Run 81) | with lattice-scale viscosity the attenuation over the path is Q⁻¹kD ≈ 10⁻¹⁹–10⁻¹⁷ for LIGO waves from 40 Mpc to 3 Gpc (ℓ_hop = 10³ ℓ_P), so the viscosity is harmless. A leak at rate r damps every scale alike, so GW170817 needs r ≲ 10⁻¹⁷ s⁻¹, about 10⁻⁵⁷ per tick |
+| (b) | **a restoring force for shear** | without one, shear only diffuses: ω = −iνk², one-way at every scale |
+| (c) | **exactly the two TT polarisations,** no breathing, longitudinal or vector waves | Run 11b: extra channels at most about 10⁻⁴ of GR's radiation (double pulsar, Kramer et al. 2021) |
+| (d) | **light's speed,** at infinity and in wells | −3×10⁻¹⁵ < Δc/c < 7×10⁻¹⁶ and −2.6×10⁻⁷ < γ_GW − γ_EM < 1.2×10⁻⁶ (GW170817 with GRB 170817A; Abbott et al. 2017, ApJL 848 L13, §§4.1 and 4.3) |
+| (e) | **sourced by matter's total conserved stress at Newton's G** | the double pulsar tests the wave coupling against the orbit's masses to about 10⁻⁴. Sliding requires the source to be conserved (∂_jT_ij = −∂_tT_0i), so the bodies' kinetic stress and the binding tension enter together, as in Run 11b |
+| (f) | **stable:** no direction in which the energy is unbounded below | a one-way update has no steady state along such a direction (§4, C2) |
+| (g) | **received:** the stretch must act on light's hops (direction-dependent, ∝ 1 + ½ n̂·h·n̂), on matter's motion and on the medium | it must act in a way that ignores sliding, or pure-sliding stretch becomes observable. Radiation reaction needs one energy shared by matter and stretch |
+
+**3. What CO's relations have now.**
+- **The structure.** Places and relations: in the engine, a cubic lattice of nearest neighbours.
+- **What relations can do.** Relations can dissolve back into a two-part possibility pattern and re-form (stated 22 October).
+- **How space curves.** Two readings remain open:
+  - **(A)** space is the pattern of relations;
+  - **(B)** relations are fixed, and space is read from a state across them.
+- **What is missing.** Nothing yet gives a relation a dynamical state that propagates. Run 11b's strain was a continuum field laid over the lattice.
+
+**4. Candidate carriers.**
+
+**C0: places that move (any displacement medium, such as an elastic solid).**
+- An isotropic elastic solid carries displacement waves, with
+$$
+c_t^2=\mu/\rho\ \ (\mathbf u\perp\mathbf k),\qquad c_l^2=(\lambda+2\mu)/\rho\ \ (\mathbf u\parallel\mathbf k).
+$$
+- **Their strain is never TT.** The strain ε_ij = ½(∂_iu_j + ∂_ju_i) is pure sliding, so its TT part is exactly zero whatever the material law (`designH.json`; the check, over 10⁴ random cases):
+  - transverse waves are purely "vector" in Run 11b's split;
+  - longitudinal waves are purely "longitudinal".
+- **So a displacement carrier radiates only in channels Run 11b bounds to about 10⁻⁴, and none in GR's.** It also contradicts "sliding places is free", since here sliding is what stores energy.
+- **Excluded by (c).**
+
+**C1: a momentum-carrying fluid of relations or possibility** (Run 81's M2).
+- Its longitudinal sound is two-way at large scales.
+- Its transverse momentum only diffuses, at ω = −iνk², and on the six-direction lattice not even that.
+- Its sound would be a scalar channel, bounded by Run 11b.
+- **Excluded by (b) and (c)** as the carrier of GR's waves.
+
+**C2: relations that carry their own stretch.**
+
+Each relation carries a stretch, a state of its own, independent of where its places sit, together with the current conjugate to it. A relation along unit vector n̂ reads the strain as δℓ/ℓ = ½ n̂_i n̂_j h_ij.
+
+- **The graph must carry a full strain tensor** (`designH.json`, reproduced by the check):
+
+  | relation graph | strain components carried | TT wave along an axis | usable as a cell complex? |
+  |---|---|---|---|
+  | the engine's cubic lattice (3 directions) | 3 of 6 | only "+" seen; "×" invisible | — |
+  | body-centred (4 directions) | 4 of 6 | only "×" seen | — |
+  | face-centred (6 directions) | **6 of 6** | both | yes: tetrahedra and octahedra; no extra modes |
+  | cubic, Kuhn triangulation (3 axes, 3 face diagonals of one orientation, 1 body diagonal) | 6 of 6 | both | yes: Roček & Williams's lattice; 1 extra mode per place; breaks cubic symmetry |
+  | cubic + all face diagonals (9), cubic + all body diagonals (7) | 6 of 6 | both | no: crossing relations, so the energy is undefined |
+
+  **On the engine's cubic relations C2 fails by counting.** The relation graph must be face-centred, or a triangulated cubic lattice.
+- **The energy.**
+  - For a three-dimensional relation graph, the curvature energy is Regge's: the relations are the hinges, and
+$$
+\int\!\sqrt{\gamma}\,R\,d^3x\;=\;2\sum_{e}\ell_e\,\varepsilon_e ,
+$$
+    with ε_e the deficit angle around relation e.
+  - **It is invariant under sliding places, but only as a sum.** That is why lattice models that keep the tensor gauge symmetry exactly, place by place, end up with curvature-squared energies and soft waves:
+    - ω ∝ k², with an extra trace mode, on a face-centred lattice (Xu 2006);
+    - ω ∝ k³ in the controlled case, with linear dispersion only argued (Gu & Wen 2012, arXiv:0907.1203).
+  - Linearised Regge calculus on a triangulated hypercubic lattice gives the free spin-2 propagator in the continuum limit, with vertex translations as gauge modes (Roček & Williams 1981, 1984).
+  - Linear dispersion is necessary, not sufficient: the wave's speed is a separate coefficient (below).
+- **Sliding places must cost nothing, at every instant.**
+  - Moving places shifts h_ij by ∂_iξ_j + ∂_jξ_i.
+  - With a current, an energy unchanged under *fixed* sliding still leaves three modes per wavevector that drift (the stretch creeping at constant current, driven by matter's momentum).
+  - To remove them, sliding must hold moment by moment. That needs a **momentum constraint**, ∂_jπ_ij equal to matter's momentum (GR's ∇²Ξ_i = −16πS_i), or equivalently a shift: K_ij = ½(ḣ_ij − ∂_iN_j − ∂_jN_i).
+  - CO's candidate for the shift is the flow of R8 and R10, g_0i = −u_i, which has no curl part yet.
+  - With the momentum constraint, sliding removes the vector and longitudinal parts.
+- **The isotropic stretch must be fixed by matter: for stability, not only to keep a wave out.**
+  - With the Regge/Einstein energy the isotropic stretch has negative gradient energy. For γ = (1 + 2ψ)δ, ∫√γR contains +2(∇ψ)², against −¼(∂h^TT)² for the TT part (the check, by finite differences).
+  - Without a ruling the scalar is a ghost or an instability; at λ = 1 it freezes. It is not a scalar wave.
+  - A one-way stochastic update has no steady state along such a direction.
+  - So Run 11b's "isotropic stretch is bound to matter", with R4's "clock field fixed each tick", is required as a constraint enforced every tick. It is the Hamiltonian constraint of GR.
+- **What the symmetry fixes, and what it does not.**
+  - **With full Lorentz invariance and linearised spacetime gauge symmetry,** the two-derivative energy is unique: the linearised Einstein form, whose only waves are the two TT polarisations (van Nieuwenhuizen 1973; Fierz & Pauli 1939 for the massive theory).
+  - **CO has a preferred tick.** Its general two-derivative theory is the infrared limit of Hořava gravity (Hořava 2009; Blas, Pujolàs & Sibiryakov 2010):
+$$
+\sqrt{\gamma}\,N\big[K_{ij}K^{ij}-\lambda K^2+\xi R+\alpha\,a_ia^i\big],\qquad a_i=\partial_i\ln N .
+$$
+    That is three coefficients beyond GR:
+    - λ, the kinetic coefficient;
+    - ξ, which sets the TT speed, c_T² = ξ, so it is requirement (d);
+    - α, which shifts Newton's constant, G_N = G/(1 − α/2), so it bears on (e).
+  - Its extra scalar is healthy only with the α term, λ > 1 and 0 < α < 2. Even then, radiation differs from GR's for Newtonian sources.
+  - **GR's structure means λ = ξ = 1, α = 0, with both constraints enforced.** In CO these are choices, unless borrowed.
+  - **A cheaper accounting.** CO already borrows Lorentz invariance at first post-Newtonian order (R7, R8). Extending that borrowing to the stretch would supply (c) and (d) as one input.
+- **The wave speed.**
+  - Updating a relation's stretch on its places' ticks gives one factor of N, so c_h = N. R6's light has two factors, ticks and free capacity, so c = N².
+  - With ticks alone the Shapiro delay of waves is ∫U dl, against light's 2∫U dl. That gives γ_GW = 0 and γ_GW − γ_EM = −1, about 4×10⁶ times outside the GW170817 bound.
+  - A second factor, analogous to R6's capacity factor, is required.
+- **What C2 would take as input:**
+  1. relations carry a stretch with its own exactly conserved current;
+  2. the relation graph is a face-centred or triangulated complex;
+  3. the energy is Regge's, first order in curvature;
+  4. the momentum constraint (or a shift) and the isotropic-stretch constraint, enforced every tick;
+  5. the wave speed: a second factor of N beyond the ticks, or borrowed Lorentz invariance;
+  6. the reception couplings, (g).
+
+**5. One object for two jobs: the relations' stretch as the medium's space.**
+
+Under option 3, CO's medium lives on a space γ̃ that stress curves (Run 66), and how γ̃ arises is open:
+- Run 66 read what remains as GR's whole spatial-geometry sector;
+- ONTOLOGY §7 lists "the dynamical completion with ε ≠ 0";
+- Run 79 excluded a rule that reads γ̃ from the local field φ alone, and left open second-derivative rules and "a state carried by the relations that builds up across space".
+
+**Proposal for testing: the relations' stretch in C2 *is* γ̃.**
+- **Static and radiating parts.** The static part of the stretch is option 3's curved space, fixed by matter and the field's tension. Its TT part is the gravitational wave.
+  - Since γ̃ = N²g differs from g only by a conformal factor, γ̃'s TT part equals GR's h^TT exactly.
+- **One G, if three conditions hold:**
+  - one coefficient for the scalar and TT parts (the Regge/Einstein form);
+  - c_h = c;
+  - the total conserved stress as source.
+
+  Then the wave equation inherits the static sector's G. That is a consequence of those choices, not automatic.
+- **A home for reading (B).** It is a state across fixed relations, one of the two classes Run 79 left open. The stretch builds up across space through the field equations, not read from φ at a point.
+- **Reading (A).** It would need the same stretch carried by the relations' pattern (formation and rewiring), which is harder.
+
+If this holds, Notes F and G, Run 79 and Run 11b are one question: the relations carry γ̃, and its TT part radiates.
+
+**6. Tests, in order** (each to be registered before it is run).
+
+| | test | kill |
+|---|---|---|
+| H1 | **Calculation.** The linearised Regge energy (2Σℓ_eε_e) for per-relation stretches on the face-centred complex and on the Kuhn-triangulated cubic complex, with conjugate currents and both constraints imposed. Count the normal modes at small k: sliding modes (3 per place), constrained modes, non-metric modes (expected 0 face-centred, 1 Kuhn), propagating modes. Registered beforehand: without the constraints, the expected ghost, instability or frozen mode | with the constraints: propagating modes other than 2; any ghost or ω² < 0; a gapless non-metric branch; ω not ∝ k; c anisotropic at leading order; drifting modes |
+| H2 | **Calculation.** The wave speed with stretch updates on place ticks, with and without a second factor of N. Registered beforehand: ticks alone give c_h = N, so γ_GW = 0 | c_h ≠ c at infinity, or γ_GW ≠ γ_EM, beyond the GW170817 bounds |
+| H3 | **Calculation.** Matter's conserved stress as source, with Run 11b's orbiting pair (conservation checked first) | radiated power off the quadrupole formula by more than 10⁻³; any scalar, vector or longitudinal radiation |
+| H4 | **Calculation.** A single static mass: the stretch's static part against option 3's γ̃, to second order. At first order γ = 1 is nearly automatic, and a spherical source has no TT part | β ≠ 1 at O(U²) (Run 79's rule gave β = 2) |
+| H5 | **Engine.** A one-way stochastic update for (stretch, current) whose average is H1's dynamics, preserving both constraints exactly every tick. A TT ripple, measured as in Run 81, with the Green–Kubo prediction (Run 81b's lesson) | overdamped at large scales; damping off its k = 0 prediction; the constraints drift |
+
+**H1 comes first.** It is cheap, and it decides whether a lattice of relations can carry GR's two polarisations, stably and with linear dispersion. H2 is cheaper still and settles the speed.
+
+**7. What would be derived, and what chosen.** If H1–H4 pass:
+- **Derived:**
+  - from sliding with the momentum constraint: no vector or longitudinal waves;
+  - from sliding: the source is the total conserved stress, so a single coupling covers all stress;
+  - the quadrupole formula's angular pattern. Its normalisation needs G_h = G and c_h = c.
+- **Chosen:**
+  - relations carry a stretch with an exactly conserved current;
+  - a face-centred or triangulated relation complex;
+  - Regge's energy;
+  - the momentum constraint (or shift) and the isotropic-stretch constraint, every tick (Run 11b's and R4's rulings, which stability requires);
+  - the Hořava coefficients λ = ξ = 1 and α = 0, or borrowed Lorentz invariance;
+  - the reception couplings.
+- **Shared with option 3 if section 5's conditions hold:** one G.
+
+The likeliest outcome is linearised GR on the relations, with GR's constraint structure chosen rather than derived. That would move the wave sector from "adopted equation" to "follows from a symmetry and two constraints, given these choices". It would not be a derivation from commitment alone.
+
+**What the check added** (`shearH/checkH/checkH.py`, independent of `designH.py`):
+1. **Reproduction.** The counting and the elastic-solid result reproduce. A displacement strain has no TT part for any material, not only isotropic ones.
+2. **Speed (corrected).** Ticks alone give c_h = N, not N². That gives γ_GW = 0, excluded by about 4×10⁶ times the bound, so a second factor is needed.
+3. **Sliding with a current.** Fixed sliding leaves three drifting modes per wavevector; a momentum constraint or shift is needed. Sliding removes the longitudinal parts as well as the vector parts.
+4. **The Hořava caveat (corrected).** There are three extra coefficients (λ, ξ, α), not one. The extra scalar is healthy only with α.
+5. **Stability (added).** The Einstein/Regge energy is unbounded below in the isotropic stretch, so the isotropic-stretch ruling is required for stability.
+6. **Requirements added:** reception, a conserved total source, and exact current conservation (in the form of the attenuation over the path).
+7. **The energy and the graphs (corrected).**
+   - In three dimensions the energy is 2Σℓ_eε_e, over relations.
+   - The 7- and 9-direction graphs are not cell complexes.
+   - The Kuhn triangulation is Roček & Williams's lattice.
+8. **Test changes.**
+   - H4 (the static mass) is decisive only at second order (β).
+   - The speed test moved forward.
+   - Kill conditions were added for ghosts, drift and constraint violation.
+9. **Wording.**
+   - Fierz & Pauli 1939 is the massive theory; massless uniqueness also needs Lorentz invariance (van Nieuwenhuizen 1973).
+   - ONTOLOGY §7's wording is quoted correctly, and Runs 81 and 81b are stated as shown for longitudinal sound.
+
 ## 3. What the record says about the ontology
 
 **Ontology decision, 15 October 2026 (after Run 14).**
@@ -8664,7 +8852,7 @@ with the covariant Tolman/Komar draw $d=\kappa(4\omega^2N^{-4}-2m^2N^{-2})\psi^2
    - ~~CO's actual g_bg and s, against the pulsar triple~~ *Run 55: CO's medium has g = (p_s − b)/P, s = 1 to 10⁻⁵; Δ ≈ C p_s/P₀*
    - ~~what fixes P₀/p_s in CO~~ *Note D: nothing in the earlier papers; tracked inputs. The engine's G ties p_s to the hop (ℓ_ED ~ 10^2.5–10^3 ℓ_P if the engine stands)*
    - ~~the pulsar's C with a realistic equation of state; the Γ = 2 fold~~ *Run 57: C = 0.40–0.49, P₀/p_s ≳ 1.7–2.1×10⁵; the fold at U_s = 0.238 (continuum)*
-   - **the maximum neutron-star mass (Runs 57, 59):** CO needs matter near the causal limit above about 2 n_sat (or v_s² ≈ 0.33 from 1.1 n_sat) to hold J0740. Open: ~~(a) set CO's required matter against nuclear theory's gravity-independent bands~~ *Run 60: K60a, K60b PASS; CO needs c_s² ≥ 0.33 from 1.1 n_s or ≥ 0.8 from 2 n_s; QCD does not bind*; ~~(a′) rerun K60b with a softer chiral-EFT base~~ *Run 61: K61a PASS (c_s² = 0.10 to 2 n_s, then ≥ 0.8)*; the β-equilibrium check of route (a) is moot, since GW170817 excludes route (a); ~~(d) derive CO's exterior to O(U²) and its tidal Love numbers, then test radii and tidal deformability~~ *Run 61: K61b PASS for route (b) only (Λ(1.362) = 374–658); route (a) excluded*; ~~(e) set route (b)'s pressure at 2–4 n_s against laboratory bounds~~ *Run 62: K62a, K62b PASS as registered; with the β-equilibrium cap CO reaches 2.08 M☉ only at 2σ with L ≳ 95 MeV*; (e′) register a rerun with the β-equilibrium cap, the DLL band's edges above 2 n₀ (digitized), a joint (not edge-by-edge) treatment of the heavy-ion inputs, and an optimisation over c_s² paths; ~~(f) CO's merger dynamics~~ *Run 63 (derivation): CO's inspiral differs from GR's at 2PN; rulings (i)–(v) in Run 63 are needed before any gravitational-wave phase comparison*; ~~(g) rule whether a body's own binding tension shears space~~ *ruled provisionally: option 3; Run 65: CO's statics become GR's, so the neutron-star chain's GR columns are option 3's*; (h) under option 3: ~~re-derive the strong-equivalence-principle formula (Δ, C) from option 3's action~~ *Run 66: it carries over, Δ = εC/(1 + ε), P∞/p_s ≳ 1.6–1.9×10⁵*; ~~state whether the current field g₀ᵢ takes GR's nonlinear form~~ *ruled 21 October: yes (a rotating hole's far exterior is Kerr to O(p_s/P∞); its near zone is open)*; ~~examine the near-horizon shell where P ≲ p_s~~ *Run 67: the clock stops where GR's lapse is ε/(1 + ε), a cold absorbing surface where infallers meet a curvature singularity, inside a throat at (ε/2)^{1/3}*; ~~sketch how the engine's medium would carry option 3 and re-check β = 1, clock universality and the role of p_s~~ *Note E: as built, hopping on the medium's space γ̃; β = 1 carries over by calculation, the other two by locality (not shown on a curved lattice)*; (h′) ~~check whether κ = 0 means CO's holes do not evaporate~~ *Run 68: they do not (a transient of about 8M ln(P∞/p_s)); the ruling on evaporation is needed*; ~~rule which clock the medium follows in rotating spacetimes~~ *Run 69: reading Z (the ZAMO lapse) adopted provisionally; K disfavoured by X-ray spins*; ~~build the stress-curved lattice (γ̃) in the engine and re-check clock universality there~~ *Run 70: on a lattice whose link conductances follow an imposed conformal factor, clocks follow the zero-range theory (0.94 ± 0.15 of the predicted 3–7% change); universality on an equal-place, stress-curved lattice is not yet tested; the effect scales as about 0.01·R̃·h·ℓ_c, about 10⁻³⁹ for a neutron star*; (h″) ~~model a collapse through the throat~~ *Run 71: the medium's stress carries matter through; dust creeps, pressure bounces, tension absorbs; it was ruled that matter commits where the medium holds about 2p_s per place*; the rotating near-horizon shell under reading Z; ~~an equal-place curved lattice~~ *Run 72: on equal-volume places, both signs of curvature, clocks follow the theory to about 1–2%; the gap contrast is at 2.5σ (more seeds would settle it)*; ~~settle the gap contrast~~ *Run 72b: +0.0107 ± 0.0021 against the theory's +0.0096 (5.1σ from zero)*; ~~why the theory's design-2 error (about 1%) vanishes at negative curvature~~ *Run 75: not the clocks' outer links (K75a FAIL, about 8:1); the negative-curvature cell is now about 2.5σ after correction and weakening*; ~~replicate the s = −1 lattice with fresh seeds~~ *Run 76: UNDECIDED (−0.37 ± 0.22%, half the first size); line closed unless a later result depends on it (a 3σ answer would take 230–440 runs)*; ~~whether the engine's parallel update explains the theory's offsets~~ *Run 78: NOT EXPLAINED as registered; the check found most of the offsets are the theory's ambient normalisation (post hoc)*; ~~a registered test of the normalised theory where the ambient shift is larger~~ *Run 80: PASS on the flat lattice with 864 clocks; the old theory excluded*; the same on a curved lattice (s = −1, dense layout), which reaches Run 76's cell; more flat-control seeds if row-level tests matter; ~~a lattice whose curvature is solved from the medium's own stress~~ *design note Note F: exact in planar symmetry with a reservoir boundary*; ~~run it~~ *Run 77: K77a–e PASS; the medium carries the flux the lattice was built with; the hop-rate limit is on draw × reservoir distance and belongs to the representation (the design note's B² ≲ 10 withdrawn)*; if the limit matters, decide how the lattice represents γ̃ (clocks slowed with hops, isotropic cells, or a local tick) before any further run; a spherical self-bent lattice; two readings of how the medium's space curves, both to be tested (22 October): (A) space is the pattern of relations, so curving it means relations form, dissolve or rewire (in the engine: shells whose place counts follow option 3's areas, all relations equal); (B) relations are fixed and space is a reading of the medium's state across them, as time is read from commitment and light's geometry from the pattern rule (in the engine: the medium's hop across a relation depends on its own state, directionally, since stress is directional; this needs a ruling, and must avoid Run 17's freezing); ~~whether relations can form or dissolve~~ *stated 22 October: a dissolved link goes back to possibility, as a two-part possibility pattern (as in entanglement); 3D space is assumed; so (A) is open (Note G)*; a spherical hole is buildable under either reading at ε ≈ 1/8–1/10 (Note G); the readings separate in how the geometry forms, which needs a rule for each; ~~the local rule fixed by option 3's planar solution~~ *Run 79: excluded (γ = 3, β = 2); rules using second derivatives, or a state carried by the relations, remain open*; write the dynamical completion with the medium's scale (waves, moving bodies); re-read the strong-field engine numbers (Runs 45–56) where they feed a stated prediction; ~~(b) the ruling on option A for neutron-star interiors~~ *ruled 20 October: CO's interior equations bind*; (c) redo NICER/tidal inferences with CO's equations
+   - **the maximum neutron-star mass (Runs 57, 59):** CO needs matter near the causal limit above about 2 n_sat (or v_s² ≈ 0.33 from 1.1 n_sat) to hold J0740. Open: ~~(a) set CO's required matter against nuclear theory's gravity-independent bands~~ *Run 60: K60a, K60b PASS; CO needs c_s² ≥ 0.33 from 1.1 n_s or ≥ 0.8 from 2 n_s; QCD does not bind*; ~~(a′) rerun K60b with a softer chiral-EFT base~~ *Run 61: K61a PASS (c_s² = 0.10 to 2 n_s, then ≥ 0.8)*; the β-equilibrium check of route (a) is moot, since GW170817 excludes route (a); ~~(d) derive CO's exterior to O(U²) and its tidal Love numbers, then test radii and tidal deformability~~ *Run 61: K61b PASS for route (b) only (Λ(1.362) = 374–658); route (a) excluded*; ~~(e) set route (b)'s pressure at 2–4 n_s against laboratory bounds~~ *Run 62: K62a, K62b PASS as registered; with the β-equilibrium cap CO reaches 2.08 M☉ only at 2σ with L ≳ 95 MeV*; (e′) register a rerun with the β-equilibrium cap, the DLL band's edges above 2 n₀ (digitized), a joint (not edge-by-edge) treatment of the heavy-ion inputs, and an optimisation over c_s² paths; ~~(f) CO's merger dynamics~~ *Run 63 (derivation): CO's inspiral differs from GR's at 2PN; rulings (i)–(v) in Run 63 are needed before any gravitational-wave phase comparison*; ~~(g) rule whether a body's own binding tension shears space~~ *ruled provisionally: option 3; Run 65: CO's statics become GR's, so the neutron-star chain's GR columns are option 3's*; (h) under option 3: ~~re-derive the strong-equivalence-principle formula (Δ, C) from option 3's action~~ *Run 66: it carries over, Δ = εC/(1 + ε), P∞/p_s ≳ 1.6–1.9×10⁵*; ~~state whether the current field g₀ᵢ takes GR's nonlinear form~~ *ruled 21 October: yes (a rotating hole's far exterior is Kerr to O(p_s/P∞); its near zone is open)*; ~~examine the near-horizon shell where P ≲ p_s~~ *Run 67: the clock stops where GR's lapse is ε/(1 + ε), a cold absorbing surface where infallers meet a curvature singularity, inside a throat at (ε/2)^{1/3}*; ~~sketch how the engine's medium would carry option 3 and re-check β = 1, clock universality and the role of p_s~~ *Note E: as built, hopping on the medium's space γ̃; β = 1 carries over by calculation, the other two by locality (not shown on a curved lattice)*; (h′) ~~check whether κ = 0 means CO's holes do not evaporate~~ *Run 68: they do not (a transient of about 8M ln(P∞/p_s)); the ruling on evaporation is needed*; ~~rule which clock the medium follows in rotating spacetimes~~ *Run 69: reading Z (the ZAMO lapse) adopted provisionally; K disfavoured by X-ray spins*; ~~build the stress-curved lattice (γ̃) in the engine and re-check clock universality there~~ *Run 70: on a lattice whose link conductances follow an imposed conformal factor, clocks follow the zero-range theory (0.94 ± 0.15 of the predicted 3–7% change); universality on an equal-place, stress-curved lattice is not yet tested; the effect scales as about 0.01·R̃·h·ℓ_c, about 10⁻³⁹ for a neutron star*; (h″) ~~model a collapse through the throat~~ *Run 71: the medium's stress carries matter through; dust creeps, pressure bounces, tension absorbs; it was ruled that matter commits where the medium holds about 2p_s per place*; the rotating near-horizon shell under reading Z; ~~an equal-place curved lattice~~ *Run 72: on equal-volume places, both signs of curvature, clocks follow the theory to about 1–2%; the gap contrast is at 2.5σ (more seeds would settle it)*; ~~settle the gap contrast~~ *Run 72b: +0.0107 ± 0.0021 against the theory's +0.0096 (5.1σ from zero)*; ~~why the theory's design-2 error (about 1%) vanishes at negative curvature~~ *Run 75: not the clocks' outer links (K75a FAIL, about 8:1); the negative-curvature cell is now about 2.5σ after correction and weakening*; ~~replicate the s = −1 lattice with fresh seeds~~ *Run 76: UNDECIDED (−0.37 ± 0.22%, half the first size); line closed unless a later result depends on it (a 3σ answer would take 230–440 runs)*; ~~whether the engine's parallel update explains the theory's offsets~~ *Run 78: NOT EXPLAINED as registered; the check found most of the offsets are the theory's ambient normalisation (post hoc)*; ~~a registered test of the normalised theory where the ambient shift is larger~~ *Run 80: PASS on the flat lattice with 864 clocks; the old theory excluded*; the same on a curved lattice (s = −1, dense layout), which reaches Run 76's cell; more flat-control seeds if row-level tests matter; ~~a lattice whose curvature is solved from the medium's own stress~~ *design note Note F: exact in planar symmetry with a reservoir boundary*; ~~run it~~ *Run 77: K77a–e PASS; the medium carries the flux the lattice was built with; the hop-rate limit is on draw × reservoir distance and belongs to the representation (the design note's B² ≲ 10 withdrawn)*; if the limit matters, decide how the lattice represents γ̃ (clocks slowed with hops, isotropic cells, or a local tick) before any further run; a spherical self-bent lattice; two readings of how the medium's space curves, both to be tested (22 October): (A) space is the pattern of relations, so curving it means relations form, dissolve or rewire (in the engine: shells whose place counts follow option 3's areas, all relations equal); (B) relations are fixed and space is a reading of the medium's state across them, as time is read from commitment and light's geometry from the pattern rule (in the engine: the medium's hop across a relation depends on its own state, directionally, since stress is directional; this needs a ruling, and must avoid Run 17's freezing); ~~whether relations can form or dissolve~~ *stated 22 October: a dissolved link goes back to possibility, as a two-part possibility pattern (as in entanglement); 3D space is assumed; so (A) is open (Note G)*; a spherical hole is buildable under either reading at ε ≈ 1/8–1/10 (Note G); the readings separate in how the geometry forms, which needs a rule for each; ~~the local rule fixed by option 3's planar solution~~ *Run 79: excluded (γ = 3, β = 2); rules using second derivatives, or a state carried by the relations, remain open*; write the dynamical completion with the medium's scale (waves, moving bodies) *(Note H: a carrier for the waves needs relations with their own stretch and an exactly conserved current, on a face-centred or triangulated relation graph, with Regge's energy and GR's two constraints every tick; on the engine's cubic relations it fails by counting; first test H1, the mode count)*; re-read the strong-field engine numbers (Runs 45–56) where they feed a stated prediction; ~~(b) the ruling on option A for neutron-star interiors~~ *ruled 20 October: CO's interior equations bind*; (c) redo NICER/tidal inferences with CO's equations
    - the hop size (Note D): *decided 20 October: tracked as an open tension (P08's ℓ_ED = ℓ_P against the engine's ℓ_ED ≈ √(p_s/κ) ℓ_P); revisit if the clock design changes or a scale is fixed independently of G (Paper_027's F-P)*
    - ~~inertia = energy (E_H)~~ *ruled 20 October as an input (§3); a moving or boosted body would test it*
    - avoid calibrating to integer radii (kinks); report one-sided falls at kinks
