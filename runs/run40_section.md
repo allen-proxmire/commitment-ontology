@@ -1,4 +1,4 @@
-## 9zg. Runs 40, 40b, 40c: Run 36 with a body that keeps its proper size
+## Runs 40, 40b, 40c: Run 36 with a body that keeps its proper size
 
 *19 October 2026. (step 1). Three registered runs, each hashed before it ran:*
 - *Run 40, in Run 36's periodic box (`adjust/PREREG_40.md`, 12:52 UTC);*

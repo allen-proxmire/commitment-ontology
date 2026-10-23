@@ -1,4 +1,4 @@
-## 9zo. Run 45: a body at neutron-star strength — does its binding pull and fall like its energy?
+## Run 45: a body at neutron-star strength — does its binding pull and fall like its energy?
 
 *19 October 2026. Registered and hashed with its code before the run (`nstar/PREREG_45.md`, 16:12 UTC).*
 
@@ -100,7 +100,7 @@ The independent check reproduced the diagnosis's ω values to 10 digits and its 
 **Reading.**
 1. **The engine's massive patterns, as coded, fail.** With a redshifted mass only, bound energy falls with the wrong weight, Δ = −2K/ω², at first order. By the same scaling argument (not run), any binding (not only gravitational) would do the same. If real matter's bound constituents obeyed this equation, laboratory tests of the equivalence principle would fail by many orders of magnitude.
 2. **The adopted rule is worded for all patterns, but its form for massive patterns was never written down.**
-   - §11 item 9 flagged the spatial half for light and fast motion. Item 10 still lists whether matter's own commitments obey the pattern rule.
+   - §4 item 9 flagged the spatial half for light and fast motion. Item 10 still lists whether matter's own commitments obey the pattern rule.
    - The wave equation in $-N^2dt^2+N^{-2}d\mathbf x^2$ used here is a reading of the rule, adopted post hoc.
    - It removes most of the defect, but has not been tested as registered, and its draw rule is not yet written.
 3. **Runs 36–44 used the coded patterns.** Their first-order pull results stand under the full rule only if its covariant draw reduces to the adopted rule R-b at first order. That is to be shown and registered in Run 46. Their second-order residuals (Run 44's −1.25 U_self·b) may change.

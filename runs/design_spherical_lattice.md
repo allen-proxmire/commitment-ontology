@@ -13,7 +13,7 @@
 - **Both stay open.** Under (A), relations around a hole can dissolve and re-form so that their pattern has option 3's shape, inside an assumed three-dimensional space. Under (B), they stay put and the medium's state across them carries the shape.
 - **A dissolved relation keeps its two ends tied.** If it leaves a two-part possibility pattern, re-forming would favour the same pair of places, or places near them. That keeps re-forming local, which (A) needs if the relational pattern is to stay three-dimensional while it reshapes.
 - **Persistence by renewal (a note of 22 October).** Matter persists by re-committing, and that renewal is what lets it be cut, moved and recombined: a commitment that persisted without renewal could never be reconfigured. The same holds for the medium's space under (A). For it to curve under option 3 its relations must be able to dissolve and re-form; for it to keep its shape, they must re-form near where they were.
-- **Precedents for (B):** relations already carry a state in the record. In Run 11b relations shear, and isotropic stretch is set by matter. In §9zzo's second picture possibility hops on physical space at the local tick rate, since √γ̃γ̃^{ij} = N√g g^{ij}.
+- **Precedents for (B):** relations already carry a state in the record. In Run 11b relations shear, and isotropic stretch is set by matter. In Note E's second picture possibility hops on physical space at the local tick rate, since √γ̃γ̃^{ij} = N√g g^{ij}.
 - Rulings and models from ED's earlier attempts (A–C) about how space forms are not relied on here.
 
 ## 2. The target: an option-3 hole with the ruled core
@@ -86,13 +86,13 @@ $$
 
 ## 5. Building it under (B): fixed relations, hops set by the medium's state
 
-The relations are those of flat space: shells at radii ρ_n = ρ_c + n holding 4πρ_n² places each. (A cubic block cannot carry radial-versus-tangential differences, §9zzz, so (B) also needs shells.) Equal places map the graph to γ̃ by ρ²dρ = h²dr. Each relation's conductance is its γ̃ cross-section over its γ̃ length:
+The relations are those of flat space: shells at radii ρ_n = ρ_c + n holding 4πρ_n² places each. (A cubic block cannot carry radial-versus-tangential differences, Note F, so (B) also needs shells.) Equal places map the graph to γ̃ by ρ²dρ = h²dr. Each relation's conductance is its γ̃ cross-section over its γ̃ length:
 $$
 W_r=\Big(\frac{h}{\rho}\Big)^{4},\qquad W_t=\Big(\frac{\rho}{h}\Big)^{2},\qquad \frac{W_t}{W_r}=\Big(\frac{\rho}{h}\Big)^{6}.
 $$
 - The inner radius ρ_c is free. Chosen to minimise the largest per-place total, the anisotropy stays at 2.0–2.1 (ε = 1/8) and 2.5–2.6 (1/10); at ε = 1/64 it reaches about 40.
 - **The hop rate.** A sphere has no square grid, so (B)'s shells must be triangulated too. Like for like with (A), c_n ≈ 0.95–1.0 (0.984 and 0.949 on real triangulations); with a 4-neighbour stencil it would be 0.91–0.95, and 0.43 at ε = 1/64.
-- **In a static run these conductances are imposed from option 3's solution,** as in Run 77. For a spherical vacuum hole, φ and |∇̃φ| fix r and m locally (and ρ³ = r³ − 3mr² + C, with C ∝ m³), so a directional rule W(φ, ∇̃φ) can reproduce the whole family of holes. For other configurations the equal-volume map is non-local and no pointwise rule gives it. A general rule for (B) would evolve the conductances by a local equation whose solution is option 3's γ̃ (§9zzo, route 2), and it must avoid the freezing found in Run 17.
+- **In a static run these conductances are imposed from option 3's solution,** as in Run 77. For a spherical vacuum hole, φ and |∇̃φ| fix r and m locally (and ρ³ = r³ − 3mr² + C, with C ∝ m³), so a directional rule W(φ, ∇̃φ) can reproduce the whole family of holes. For other configurations the equal-volume map is non-local and no pointwise rule gives it. A general rule for (B) would evolve the conductances by a local equation whose solution is option 3's γ̃ (Note E, route 2), and it must avoid the freezing found in Run 17.
 
 ## 6. Where the readings differ
 

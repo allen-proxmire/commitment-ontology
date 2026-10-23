@@ -1,4 +1,4 @@
-## 9zzx. Run 75: do the clocks' outer links carry the zero-range theory's design-2 error?
+## Run 75: do the clocks' outer links carry the zero-range theory's design-2 error?
 
 *21 October 2026. This is the follow-up to Run 72b's check. It was registered and hashed before any run that reads clocks (`outer75/PREREG_75.md`, 18:42:41 UTC). The theory's predictions were computed and hashed beforehand (`theory75.json`).*
 - *Batch B was first launched under a runner that would not have outlasted the session. It was stopped after 5 s, before any output, and restarted. The log records this.*

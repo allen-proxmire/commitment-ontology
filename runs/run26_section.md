@@ -1,4 +1,4 @@
-## 9s. Run 26: two bodies under the adopted rules (Run 19's checks, and whether wells multiply)
+## Run 26: two bodies under the adopted rules (Run 19's checks, and whether wells multiply)
 
 **Question.** Run 19 found that in the old engine a well follows its body's draw, wells combine **additively** in the clock rate (β = ½), and two bodies redshift each other's draws. Under Candidate A′, ln N should follow the draw, and two wells should **multiply**:
 

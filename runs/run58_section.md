@@ -1,4 +1,4 @@
-## 9zze. Run 58: a fifth grid for the far-field first law
+## Run 58: a fifth grid for the far-field first law
 
 *20 October 2026. (step 3, housekeeping). Registered and hashed before the run (`grid58/PREREG_58.md`, 15:37 UTC). An independent agent checked the run; its corrections are included.*
 

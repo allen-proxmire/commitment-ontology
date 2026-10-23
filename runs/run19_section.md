@@ -1,4 +1,4 @@
-## 9l. Run 19: knots that dig their own clock wells (active mass, and how ED's engine combines wells)
+## Run 19: knots that dig their own clock wells (active mass, and how ED's engine combines wells)
 
 **Question.** In Runs 16–18 every body fell in a clock well dug by ED's benchmark ball. Here a knot digs its own.
 - **Committed side:** its places hold engine commitments where its cost lives, drawing possibility from the one budget.

@@ -1,6 +1,6 @@
-## 9n. Run 21: probe of Candidate A (stability, and a first look at β)
+## Run 21: probe of Candidate A (stability, and a first look at β)
 
-**Question.** Candidate A (§11c) makes two changes:
+**Question.** Candidate A (§6) makes two changes:
 - possibility's outflow from a place grows as the logarithm of its holding
 - a clock counts possibility *present*, not passing
 
@@ -32,6 +32,6 @@ $$
 
   with q chosen so that the well's shape is the same at all three strengths. This gave **β = 1.01 ± 0.04** (density 8) and **0.96 ± 0.06** (density 32). The standard engine's Run 20 data give 0.55–0.60 by the same fit.
 
-**Reading (written after Run 22's theory; see §9o).**
+**Reading (written after Run 22's theory; see Run 22).**
 - Stability passed.
 - The deep-well fit's numbers were **partly luck**. Run 22's zero-range theory was written after this probe, so these are postdictions, not predictions. With no fitted parameter, it reproduces Run 21's wells: the draws to 1.6% and the profiles to within 0.011 at every shell from 4 to 15. On those same wells it says the deep-well fit should give 0.93 (density 8) and 1.02 (density 32). That fit summarises shape; it is not the weak-field β. Run 22 measures β properly.

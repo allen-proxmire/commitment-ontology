@@ -1,8 +1,8 @@
-## 9zzl. Run 65: ED's static field equation is GR's lapse equation; option 3's rule for space
+## Run 65: ED's static field equation is GR's lapse equation; option 3's rule for space
 
 *21 October 2026. Option 3 chosen provisionally. Registered and hashed before the run (`rule65/PREREG_65.md`, 04:44 UTC). An independent agent checked it; its corrections are included.*
 
-**Question.** Option 3 was chosen provisionally (§9zzk): all binding tension shears space and acts back on the cadence field, as in GR. What is that rule for space when written to all orders? What does it do to ED's stars and holes, and what in ED's static gravity is left of its own?
+**Question.** Option 3 was chosen provisionally (Run 64): all binding tension shears space and acts back on the cadence field, as in GR. What is that rule for space when written to all orders? What does it do to ED's stars and holes, and what in ED's static gravity is left of its own?
 
 **The identity.** Write a static metric in isotropic coordinates as ds² = −N²dt² + ψ⁴(dr² + r²dΩ²).
 - **GR's equation for the clock rate** (its R₀₀ equation) is
@@ -66,7 +66,7 @@ $$
    - The Komar mass from the lapse flux equals the mass read from ψ to 10⁻¹⁰, as static GR requires.
    - K65a's 6×10⁻¹⁶ confirms the algebra only.
 2. **ED's draw is exactly the Komar density.** ∂_i(ψ²∂_iN) = 4π(e + 3p)Nψ⁶ is the lapse equation in flux form.
-3. **Option 3 costs more than a rule for space.** Two costs, recorded in §10:
+3. **Option 3 costs more than a rule for space.** Two costs, recorded in §3:
    - **It revises ruling 2 from second order on.** Its back-reaction is the field acting on U in vacuum: in Schwarzschild U = −ln N = M/r + M³/(12r³) + …, so ∇²U ≠ 0 outside matter. Ruling 2's "the vacuum draws nothing" and "g₀₀ = −e^{−2U}" therefore hold only at first order.
    - **The engine's medium cannot carry it as built.** The medium has a curl-free flux, a flat Laplacian and an exponential clock, so it cannot produce GR's lapse at O(U³). A natural implementation (the agent's inference): possibility hops on the sheared space, with flux √γγ^{ij}∂_jP; the clock is N ∝ P; the sinks are the Komar draws. That gives D²N = 4πN(e + 3p) with no vacuum draw, and β = 1 comes from ψ rather than from the logarithmic outflow. The logarithmic medium's role, and the reason for p_s (Runs 22–24), would then have to be re-derived.
 4. **The identification is honest as disclosed, but not unique.** Deser's argument needs a first-order Lagrangian, gauge invariance and no extra fields, and the field's stress tensor is ambiguous up to superpotentials (Padmanabhan 2008).

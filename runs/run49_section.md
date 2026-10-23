@@ -1,4 +1,4 @@
-## 9zu. Run 49: is the 4% pull miss ED's, or the engine's body model?
+## Run 49: is the 4% pull miss ED's, or the engine's body model?
 
 *20 October 2026. Registered and hashed with every imported module before the run (`dilation/PREREG_49.md`; same hash file and restart note as Run 48). One code check (base grid, weak field, not a registered case) ran before registering. The post hoc runs were made after the results and after the independent check: the checker's `check4849/` and `posthoc49.py`. An independent agent checked the run; its corrections are included and change the reading.*
 

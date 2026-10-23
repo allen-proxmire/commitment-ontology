@@ -1,4 +1,4 @@
-## 9zd. Run 37: which memory carried Run 29's tail?
+## Run 37: which memory carried Run 29's tail?
 
 *19 October 2026. (step 3). Pre-registered and hashed before any registered run (`tail/PREREG_37.md`, 11:19 UTC), with registered verdict thresholds.*
 

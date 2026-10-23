@@ -1,4 +1,4 @@
-## 9z. Run 33: does a pattern's energy pull? (a decision memo; no run)
+## Run 33: does a pattern's energy pull? (a decision memo; no run)
 
 *19 October 2026. (step 3: give a pattern a cadence on the event layer and measure whether it pulls by ħω). A search of the three repos found no existing ED rule that turns a pattern's energy into draw. By ED's own rule (ED_Attempt_04, `Picture.md`: "The counting rule is fixed … **before** any weights are computed"), the rule has to be chosen first. This memo sets out the candidates and what each one gives, for that choice. Nothing is run.*
 

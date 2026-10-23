@@ -1,4 +1,4 @@
-## 9zb. Run 35: the engine on the adopted rules (a construction run)
+## Run 35: the engine on the adopted rules (a construction run)
 
 *19 October 2026. Pre-registered and hashed before any registered run (`adopted/PREREG_35.md`, 10:10 UTC), with the engine, the theory and the analysis. An independent agent re-ran the analysis (byte-identical), checked the engine against engine22 and the registration's timing, and re-derived the physics claims; its corrections are included.*
 

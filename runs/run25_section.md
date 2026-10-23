@@ -1,6 +1,6 @@
-## 9r. Run 25: the closing checks for Candidate A′ (a well where Mercury's band holds; Nordtvedt directly)
+## Run 25: the closing checks for Candidate A′ (a well where Mercury's band holds; Nordtvedt directly)
 
-**Question.** Candidate A′ was adopted provisionally (§10). Two of its open checks can be run now:
+**Question.** Candidate A′ was adopted provisionally (§3). Two of its open checks can be run now:
 - **(a)** Do matter wells obey the medium's equation of state where β is inside Mercury's band?
 - **(b)** Does the medium's β get within reach of lunar laser ranging?
 

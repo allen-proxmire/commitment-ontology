@@ -1,6 +1,6 @@
-## 9zzz2. Run 77: a flat sheet of matter on a lattice bent by its own field
+## Run 77: a flat sheet of matter on a lattice bent by its own field
 
-*22 October 2026. A registered run on a flat sheet of matter, with the possibility it releases returned at a far-away reservoir. It follows the design note (§9zzz). Registered and hashed before any engine run (`sheet77/PREREG_77.md`), with the theory's predictions computed and hashed beforehand (`theory77.json`).*
+*22 October 2026. A registered run on a flat sheet of matter, with the possibility it releases returned at a far-away reservoir. It follows the design note (Note F). Registered and hashed before any engine run (`sheet77/PREREG_77.md`), with the theory's predictions computed and hashed beforehand (`theory77.json`).*
 - *Amendment 1: the first launch ran no simulation. The driver's skip-finished-jobs filter indexed past the end of each job line, so its job list came out empty, and the rebuild steps then stopped while reading their arguments. The filter was fixed, a guard added, and everything re-hashed (05:20:06 UTC) before any run. Only the driver and the registration text changed; no data had been made.*
 - *An independent agent checked the run (below). Its findings correct several statements made when the results first came in; the corrected statements are the ones given here.*
 
@@ -101,7 +101,7 @@ $$
    - the limit disappears if the sheet's clock slows with the medium's hops (a uniform change of time unit, allowed if the tick is not physical time);
    - an irregular graph of isotropic, equal-volume cells would need no slower hop rate, and a local tick would avoid it too;
    - spherical symmetry, where the stretch peaks near the source rather than at the far boundary, is untested, so nothing here bears on holes.
-3. **This corrects the design note (§9zzz).** Its "B² ≲ 10" and its statement that the engine carries option 3 only in weak and moderate fields, not near holes, are withdrawn (corrections noted there).
+3. **This corrects the design note (Note F).** Its "B² ≲ 10" and its statement that the engine carries option 3 only in weak and moderate fields, not near holes, are withdrawn (corrections noted there).
 4. **Limits:**
    - planar symmetry only;
    - p_s = 1, ε ≈ 1/70;

@@ -1,4 +1,4 @@
-## 9zr. Run 47: can pulsar timing see a neutron star that pulls 4% less than its energy?
+## Run 47: can pulsar timing see a neutron star that pulls 4% less than its energy?
 
 *20 October 2026. Registered and hashed with its code before it was run (`apmass/PREREG_47.md`, 23:20 UTC on 19 October). A keyword name in the code was fixed before hashing; nothing was run before. An independent agent checked the run. Its corrections are included: K47a holds by construction; K47b's signal is mostly absorbed by a timing fit; the inertial mass is an assumption; the ζ₂ reading; the first-law statement; the double pulsar.*
 
@@ -17,7 +17,7 @@ $$
   - A fixed ratio m_A/m_P per body, as here, gives only a periodic wobble (below).
 - **In the engine, that variation is the gap between the draw-based and ω-based falls, Δ_draw − Δ_ω.**
   - It is −1.4 to −2.9×10⁻³ at finite grid (Run 46c) and not converged, about 100 times the bound.
-  - **So the engine leaves that test unresolved; it does not pass it.** The dilation argument (§9zs) predicts zero in the continuum.
+  - **So the engine leaves that test unresolved; it does not pass it.** The dilation argument (Run 46c) predicts zero in the continuum.
 - **At weak field**, ζ₂ = 2(β − 1) ≈ −0.9 p_s/P₀ (Run 30). The newer bound then needs P₀/p_s ≳ 7×10⁴, which is inside the triple's ≳ 10⁵ (Run 45).
 
 **The claim (analytic).** With m_P = m_I for every body, each body's acceleration in a Newtonian N-body system is
@@ -50,7 +50,7 @@ Both start from the same initial conditions, set by Kepler with the active masse
 1. **If passive and inertial mass are equal, binary-pulsar timing cannot see the engine's 4% active-mass deficit at Newtonian orbital order.** That holds in two-body and three-body systems, at any eccentricity.
    - A neutron star's measured mass is then its active mass.
    - In the engine that mass is up to about 4% below the sum of its constituents' energies at infinity.
-2. **What pulsars do test is m_P against m_I:** the triple's Δ = (+0.5 ± 1.8)×10⁻⁶. That is the fall test of Runs 45–46c. The engine resolves it only to about 10⁻³; the dilation argument (§9zs) would carry it further.
+2. **What pulsars do test is m_P against m_I:** the triple's Δ = (+0.5 ± 1.8)×10⁻⁶. That is the fall test of Runs 45–46c. The engine resolves it only to about 10⁻³; the dilation argument (Run 46c) would carry it further.
 3. **Where the deficit could still be seen:**
    - **Post-Newtonian orbital terms and radiation (the deciding open question).** The double pulsar J0737−3039A/B agrees with GR in its post-Keplerian parameters to about 10⁻⁴ (Kramer et al. 2021, Phys. Rev. X 11, 041050; arXiv:2112.06795). Suppose ED's post-Newtonian two-body law put inertial mass in one term and active mass in another. A 4% mismatch would then be about 100 times too large. The engine has no such law yet.
    - **The star's mass against its constituents.** For J0737−3039B, electron-capture supernova models give a baryonic mass of 1.358–1.375 M☉, against a gravitational mass of 1.2489 M☉ (Podsiadlowski et al. 2005, astro-ph/0506566; Newton & Li 2009, arXiv:0908.1731). That puts the binding energy at 0.11–0.126 M☉, a window of about 0.017 M☉. A 4% deficit on most of the star's mass is about 0.05 M☉.
@@ -66,4 +66,4 @@ Both start from the same initial conditions, set by Kepler with the active masse
    - The quantum's own Tolman integral is not ħω in GR either: `body46.py` gives κ(ω + 2Σ|∇ψ|²), and the star's stress response makes up the rest.
    - The engine holds the body at fixed proper size by rule, not by re-equilibrating. So part of the 4% may come from that body model rather than from ED.
 
-*Later (§9zu, post hoc): sized by exact hydrostatics, the stress turns the 4% deficit into a +0.6% excess, so the deficit analysed here may not exist. Run 50 is to settle it.*
+*Later (Run 49, post hoc): sized by exact hydrostatics, the stress turns the 4% deficit into a +0.6% excess, so the deficit analysed here may not exist. Run 50 is to settle it.*

@@ -1,10 +1,10 @@
-## 9zzn. Run 67: the near-horizon shell under option 3, with ED's medium
+## Run 67: the near-horizon shell under option 3, with ED's medium
 
 *21 October 2026. Step 4. Registered and hashed before the run (`shell67/PREREG_67.md`, 06:30 UTC). The claims were derived before registration; K67b and K67d check analytic forms numerically, while K67a and K67c are computations whose outcome was not known. Smoke tests on unregistered inputs are disclosed in the registration. An independent agent checked the run; its corrections are included.*
 
 **Question.** Under option 3 a static hole looks like Schwarzschild's until possibility runs low. Run 65's check flagged the shell where N ≲ p_s/P₀, where the medium's g = p_s/P is no longer small. What happens there, and how does it relate to Run 43's core, which was ruled to commit?
 
-**1. The static vacuum, exactly.** In vacuum the equations for (γ̃, φ) do not involve the medium (§9zzm), so they are Schwarzschild's, with a parameter m:
+**1. The static vacuum, exactly.** In vacuum the equations for (γ̃, φ) do not involve the medium (Run 66), so they are Schwarzschild's, with a parameter m:
 $$
 \tilde\gamma=dr^2+(r^2-2mr)\,d\Omega^2,\qquad \varphi=-\ln n,\qquad n\equiv N_{\rm GR}=\sqrt{1-2m/r} .
 $$
@@ -70,7 +70,7 @@ Inside it, the area grows again toward the surface.
    - That surface is at infinite tortoise distance and infinite static proper distance, absorbs everything that falls in, and tears infallers apart in finite proper time.
 2. **If this geometry forms, an infaller meets a curvature singularity at the zero-clock surface in finite proper time; in ED's terms it commits there.** That is consistent with the ruling of 19 October, not derived from it. The surface absorbs waves because it is at infinite tortoise distance. So:
    - a reflecting wall does not arise in the static vacuum solution, and the throat sends back at most 1.2×10⁻⁵ of a wave: no echoes at that level;
-   - for a spinning hole this is not computed (§10: which clock the medium follows in rotation is not ruled).
+   - for a spinning hole this is not computed (§3: which clock the medium follows in rotation is not ruled).
 3. **New:** a throat, a minimum of the area, sits where GR's lapse is (ε/2)^{1/3}, at a redshift of about 74 for ε = 5×10⁻⁶. It is 0.05% larger than GR's horizon and is invisible to waves at the 10⁻⁵ level.
 4. **Not settled.**
    - **Evaporation.** The static hole's surface is cold (κ = 0) and there is no event horizon, so it does not radiate at Hawking's temperature. That conflicts with the 19 October ruling that black holes evaporate, unless a collapse changes it; to be checked.

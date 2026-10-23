@@ -1,4 +1,4 @@
-## 9zp. Run 46: the full pattern rule for massive patterns
+## Run 46: the full pattern rule for massive patterns
 
 *19 October 2026. Registered and hashed with all its scripts, including the analysis, before the run (`fullrule/PREREG_46.md`, 17:29 UTC). Trials of the strengths in the third medium, of the body at triple resolution, and a code check on uniform fields are disclosed there. Run on two cores as two fixed case lists. The post hoc fits (`posthoc46.py`) were written after all results. An independent agent checked the run, found the source of the draw-based scatter, and its corrections are included.*
 

@@ -1,4 +1,4 @@
-## 9zzv. Run 73: does the stiffest matter commit before it turns back?
+## Run 73: does the stiffest matter commit before it turns back?
 
 *21 October 2026. The aim was to pin down the "about 2p_s" in the ruling of 14:00 (infalling matter commits where the medium's possibility per place falls to about 2p_s) with a shell of the stiffest matter. Registered and hashed before the scan (`stiff73/PREREG_73.md`, 16:06 UTC).*
 - *Amendment 1: the analysis script had a Python syntax error, fixed without changing its logic. The scan's rows had already been printed when the fix was made.*
@@ -13,7 +13,7 @@ $$
 N=\frac{P}{P_\infty}\quad\Rightarrow\quad\frac{P}{p_s}=\frac{N}{\varepsilon}.
 $$
 - The registration and the run instead used P/P∞ = (N + ε)/(1 + ε). That is GR's lapse n, not the occupancy, and it overstates P by about p_s.
-- It had been introduced in Run 71's reading and in the note on the ruling; both are corrected (§9zzs, §10).
+- It had been introduced in Run 71's reading and in the note on the ruling; both are corrected (Run 71, §3).
 - So the ruled 2p_s sits at N_c = 2ε, not N ≈ ε.
 
 **The scan.** Run 71b's model, unchanged:

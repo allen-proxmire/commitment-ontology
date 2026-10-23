@@ -1,4 +1,4 @@
-## 9w. Run 30: the sourcing weight the static engine can reach (rest mass in a potential), against GR's Tolman mass
+## Run 30: the sourcing weight the static engine can reach (rest mass in a potential), against GR's Tolman mass
 
 *18 October 2026.*
 - *This is a derivation, not a new engine run, and it was not pre-registered because no new data were taken.*

@@ -1,4 +1,4 @@
-## 9zm. Run 44: Run 42 on a grid twice as fine, and whether its residual is second order
+## Run 44: Run 42 on a grid twice as fine, and whether its residual is second order
 
 *19 October 2026. Registered and hashed with its code before the run (`fine/PREREG_44.md`, 14:31 UTC). A trial of the ball alone and the unperturbed ground state at both resolutions is disclosed there. An independent agent checked the run; its corrections and one post hoc scan are included.*
 

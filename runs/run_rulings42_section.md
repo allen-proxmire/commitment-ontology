@@ -1,4 +1,4 @@
-## 9zl. The rulings on Runs 42–43 (19 October)
+## Note B: the rulings on Runs 42–43 (19 October)
 
 *Ruled 19 October: stress pulls, as part of the Lorentz input; the core commits.*
 

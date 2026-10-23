@@ -1,4 +1,4 @@
-## 9zzp. Run 68: do ED's holes evaporate under option 3?
+## Run 68: do ED's holes evaporate under option 3?
 
 *21 October 2026. Registered and hashed before the run (`evap68/PREREG_68.md`, 07:11 UTC). The claims were derived before registration; the run checks them numerically. A smoke test at an unregistered ε is disclosed in the registration. An independent agent checked the run; its corrections are included, among them two words ("burst", "thermal") that overstated what is emitted.*
 

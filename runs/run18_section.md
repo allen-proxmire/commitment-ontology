@@ -1,4 +1,4 @@
-## 9k. Run 18: does matter fall? (a knot of commitment in the engine's clock field)
+## Run 18: does matter fall? (a knot of commitment in the engine's clock field)
 
 **Question.** Every body that has fallen so far (Runs 16–17) is a **pattern of possibility**. ED's matter is **committed**: in Runs 12–13 a particle is a knot of commitments, a director field n held together by Coh (alignment between neighbours) and Str (twist held around closed loops). ED's own record says committed matter that moves by paying for commitments is pushed away from matter. So: does a knot fall, and does it fall *like everything else*?
 

@@ -25,8 +25,8 @@ Every run in the record tests a consequence of those rules against a measurement
 - **`writeups/commitment_ontology_simulations.md`** is the full record, and the authoritative version of everything here. It holds:
   - the scorecard;
   - a section per run;
-  - §10, what the record says about the ontology, with the rulings;
-  - §11, the open questions.
+  - §3, what the record says about the ontology, with the rulings;
+  - §4, the open questions.
 - **`writeups/consilience_summary.md`** is the short version: what is reproduced, how, and what is open.
 - **`Where CO's Gravity Stands.md`** is a plain-language summary: passed, failed, open.
 - **`Gravity from Counting Commitment.md`** is the explainer.
@@ -69,7 +69,7 @@ Every run in the record tests a consequence of those rules against a measurement
 - **Clocks on a curved medium space:** on equal-volume places at both signs of curvature, clocks follow the zero-range theory to about 1–2% (Runs 70, 72).
   - The gap between two clock designs shifts with the sign of the curvature as predicted: detected at 5.1σ, matching the theory to 0.5σ (Run 72b).
   - The theory underestimates these clocks' own dips by about 0.25–0.6%, the same on every lattice within errors. An odd cell at negative curvature was not explained by the clocks' outer links (Run 75), and its replication was undecided (Run 76).
-  - A lattice curved by the medium's own stress is buildable in planar symmetry (design note in the record, §9zzz). On it the engine's medium carries the flux the lattice was built with, to about 0.2% (Run 77).
+  - A lattice curved by the medium's own stress is buildable in planar symmetry (design note in the record, Note F). On it the engine's medium carries the flux the lattice was built with, to about 0.2% (Run 77).
   - With one global hop rate, such a lattice exists only while the source's draw times the distance to the reservoir stays small. It comes from the lattice representation; ED's rules are not shown to impose it (Run 77).
 - **Open:**
   - what fixes P∞/p_s;

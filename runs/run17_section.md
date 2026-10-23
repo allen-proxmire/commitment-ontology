@@ -1,4 +1,4 @@
-## 9j. Run 17: slowing hops as well as ticks (light bending and Shapiro delay)
+## Run 17: slowing hops as well as ticks (light bending and Shapiro delay)
 
 **Question.** Run 16's test pattern carried only the clock half of gravity: its phase slowed near matter, its hops did not. So it could not bend light. Run 9 found the other half in the continuum: possibility needs free capacity to hop as well as to tick, which takes light bending from half to the full observed value. This run puts that half into ED's engine.
 

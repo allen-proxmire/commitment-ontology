@@ -1,4 +1,4 @@
-## 9zj. Run 42: a pattern inside a body, at weak field
+## Run 42: a pattern inside a body, at weak field
 
 *19 October 2026. Pre-registered and hashed with its code before the run (`inside/PREREG_42.md`, 13:51 UTC). The registration discloses a trial of the unperturbed ground states, used to choose m. An independent agent checked the run; its corrections are included.*
 
@@ -74,6 +74,6 @@ Likely sources are:
 2. **"Stress pulls" (PPN ζ₄) is therefore needed, not optional.** Measured physics requires internal binding to pull like rest mass (aluminium against iron, to 4×10⁻¹²).
    - Under the adopted rules that happens only if a body's internal stresses draw, with weight 1 per direction, just as a pattern's momentum flux does.
    - **It is the same input in a fuller form:** the Lorentz input extended from moving matter's kinetic pressure to all of a body's stresses (the whole source transforms together).
-   - **Adopted (19 October): "Yes — stress pulls, as part of the Lorentz input"** (§9zl).
+   - **Adopted (19 October): "Yes — stress pulls, as part of the Lorentz input"** (Note B).
 3. **Energy-only misses by about half a binding** even with the stress drawing. So the patterns' momentum flux is still needed, as in Run 40c.
 4. **Not settled here:** S at higher resolution, and the U_self scaling as a registered test.

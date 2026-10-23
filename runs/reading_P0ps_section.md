@@ -1,4 +1,4 @@
-## 9zzc. What fixes P₀/p_s? ED's clock and medium papers (a reading)
+## Note D: what fixes P₀/p_s? ED's clock and medium papers (a reading)
 
 *20 October 2026. The three repositories (`ed-generative`, `event-density`, `event-density-ontology-models`) were fetched; they were current (last commits 11 October, 12 September and 11 October). An agent surveyed the two large repositories for clock and medium papers, and the core ones and the ontology-models repository were read in full. Point 4 is an inference, not the corpus's. An independent agent checked the quotes against the papers and the inference against the engine's code; its corrections are included.*
 

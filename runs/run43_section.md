@@ -1,4 +1,4 @@
-## 9zk. Run 43: what option A implies for ED's core
+## Run 43: what option A implies for ED's core
 
 *19 October 2026. Option A was chosen: "take GR's black-hole exterior as a tracked input, keep ED's no-singularity core." The calculation and its reading were registered before the code was written (`core/PREREG_43.md`, 13:58 UTC). An independent agent checked the numbers and the literature; its corrections are included.*
 
@@ -52,7 +52,7 @@ How to read the table:
 
    A perfectly reflecting core would fail the instability test.
 2. **Near-total absorption is enough but not required, and it would make option A observationally silent in all three channels.** Partial absorption leaves echoes, and their spacing is set by ln(P₀/p_s): at least 29 ms for a GW250114-like remnant. That would be ED's distinctive signal under option A.
-3. **So ED needs a rule for what happens at the core.** It was ruled that it commits (19 October; §9zl). The two options were:
+3. **So ED needs a rule for what happens at the core.** It was ruled that it commits (19 October; Note B). The two options were:
    - **"A pattern or piece of matter that reaches the core commits."** It becomes record, so the core keeps it: a total absorber in ED's own terms. Infalling information goes into the record, not lost (ED's "no information loss"). It passes every bound, and leaves no echo.
    - **A partly reflecting core.** It needs an ED rule for the reflected fraction, and would predict echoes spaced by ≥ 29 ms (for this remnant) with a strength set by that fraction.
 4. **Whether the core re-emits is constrained, not ruled out.** If it radiates, as ED's "black holes radiate" papers propose, the surface-glow bound limits how much of the infalling energy comes back out as thermal light.

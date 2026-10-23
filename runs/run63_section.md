@@ -1,4 +1,4 @@
-## 9zzj. Run 63 (a derivation): ED's inspiral beyond first order, in the test-mass limit
+## Run 63 (a derivation): ED's inspiral beyond first order, in the test-mass limit
 
 *20 October 2026. (step 2: derive ED's two-body motion beyond first order, the condition for GW170817's tidal bound to apply to ED). This is a derivation, not a registered test: the numbers below are exact and were derived before any comparison was set up, so nothing here is scored. An independent agent checked it; its corrections are included.*
 
@@ -20,7 +20,7 @@ $$
 E_{\rm GR}-1=-\frac x2\Big[1-\tfrac34x-\tfrac{27}{8}x^2-\tfrac{675}{64}x^3-\dots\Big].
 $$
 - **So ED and GR agree at first order and differ at second:** ED's 2PN binding coefficient differs by −1/3 (8/81, about 10%, larger in magnitude). The 3PN coefficients differ too (−7195/576 against −6075/576). The cause is the spatial metric at O(U²): e^{2U} = 1 + 2U + 2U², against Schwarzschild's 1 + 2U + 1.5U²; g_tt also differs at O(U³).
-- **The innermost stable orbit** (as in Run 28, §9u): r = (3 + √5)M in isotropic coordinates (areal radius 6.34M, GR 6M), at MΩ = 0.0633 (GR 0.0680, 7% lower), with E = 0.9452 (GR 0.9428). It lies outside ED's neutron stars (19.5 km at 2.08 M☉), so it matters for them.
+- **The innermost stable orbit** (as in Run 28): r = (3 + √5)M in isotropic coordinates (areal radius 6.34M, GR 6M), at MΩ = 0.0633 (GR 0.0680, 7% lower), with E = 0.9452 (GR 0.9428). It lies outside ED's neutron stars (19.5 km at 2.08 M☉), so it matters for them.
 - **The light ring** (Run 28): areal radius 3.30M (GR 3M); critical impact parameter 2eM = 5.44M (GR 3√3M = 5.20M). It lies inside ED's neutron stars (areal radius about 3.8–4.1M at 2 M☉), and under option A black holes have Kerr exteriors, so it applies to neither.
 
 **What it would do to the waveform (conditional).** The gravitational-wave phase (TaylorF2) at 2PN carries φ₄ = 10 r₄, where r₄ is the v⁴ coefficient of E′(v)/F(v).

@@ -1,4 +1,4 @@
-## 9zzm. Run 66: option 3 in ED's own variables, and the strong-equivalence-principle formula under it
+## Run 66: option 3 in ED's own variables, and the strong-equivalence-principle formula under it
 
 *21 October 2026. Step 1. Registered and hashed before the run (`sep66/PREREG_66.md`, 06:25 UTC; Amendment 1 at 06:27 UTC, before any result was seen). An independent agent checked it; its corrections are included.*
 - *Disclosed: the claims were derived before registration, in working notes. Smoke tests on unregistered stars, whose results were seen, informed two thresholds (listed in the registration).*
@@ -21,7 +21,7 @@ $$
 $$
 - **balance:** hN = const.
 
-ED's original rule for space is γ̃ flat (g_ij = N⁻²δ_ij). Option 3 is γ̃ curved by stress: the field's own tension (2∂U∂U, the "binding tension" of §10's (c2)) and matter's pressure. Energy density does not curve it. So option 3 says, in ED's words, **binding tension shears the medium's space**, and that is all it changes.
+ED's original rule for space is γ̃ flat (g_ij = N⁻²δ_ij). Option 3 is γ̃ curved by stress: the field's own tension (2∂U∂U, the "binding tension" of §3's (c2)) and matter's pressure. Energy density does not curve it. So option 3 says, in ED's words, **binding tension shears the medium's space**, and that is all it changes.
 
 **What this corrects.** Run 65 recorded that, under option 3, ruling 2's "the vacuum draws nothing" and "g₀₀ = −e^{−2U}" hold only at first order. That read them with the flat Laplacian of isotropic coordinates. On γ̃ both hold to all orders: in vacuum Δ̃U = 0 exactly, and g₀₀ = −e^{−2U} by construction. The pattern rule c = N² also holds, relative to γ̃. For Schwarzschild, γ̃ = dr² + (r² − 2Mr)dΩ² and r²(1 − 2M/r)U′ = −M, so U is harmonic on γ̃.
 
@@ -95,6 +95,6 @@ $$
 1. **Option 3 is ED's own statics with one change: the medium's space is curved by stress.** ED's field equation, its exponential clock, the vacuum that draws nothing and the pattern rule all hold to all orders, on γ̃. ED's original rule was that γ̃ is flat. GR says the field's tension and matter's pressure curve it.
 2. **The two costs recorded with Run 65 are withdrawn.**
    - Ruling 2 holds to all orders on γ̃.
-   - The engine's medium carries option 3 as built (logarithmic outflow, exponential clock, the crossover p_s). It needs only to hop on γ̃ instead of a flat lattice (§9zzo).
+   - The engine's medium carries option 3 as built (logarithmic outflow, exponential clock, the crossover p_s). It needs only to hop on γ̃ instead of a flat lattice (Note E).
 3. **The strong-equivalence-principle prediction stands, now derived under option 3:** Δ = εC/(1 + ε) with C = 0.37–0.44 for the pulsar, and P∞/p_s ≳ 1.6–1.9×10⁵ (2.5–2.9×10⁵ with the planet model). Its sign (Δ > 0), growth with compactness and non-additivity carry over.
-4. **What option 3 still costs:** the medium's space becomes dynamical, curved by stress. That is GR's whole spatial-geometry sector, carried by the medium's lattice; the engine has none, and building it is the open task (§9zzo). Whether φ's or U's stress curves it is a choice (point 6 above); Run 66 took φ's, the variational one.
+4. **What option 3 still costs:** the medium's space becomes dynamical, curved by stress. That is GR's whole spatial-geometry sector, carried by the medium's lattice; the engine has none, and building it is the open task (Note E). Whether φ's or U's stress curves it is a choice (point 6 above); Run 66 took φ's, the variational one.

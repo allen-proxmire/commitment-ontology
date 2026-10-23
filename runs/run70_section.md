@@ -1,11 +1,11 @@
-## 9zzr. Run 70: clocks on a lattice with curved-space conductances
+## Run 70: clocks on a lattice with curved-space conductances
 
 *21 October 2026. Step 4: build the stress-curved lattice and re-check clock universality. Registered and hashed before any engine run (`curve70/PREREG_70.md`, 07:20 UTC), with the zero-range theory's predictions computed and hashed beforehand (`theory70.json`).*
 - *Disclosed: the theory was first run at λ = 0, 0.03 and 0.06. It was moved to 0.06 and 0.12 before any engine run, after seeing that the predicted changes are linear in λ, so 0.03 would sit inside the noise.*
 - *A 300-tick smoke test is disclosed in the registration.*
 - *An independent agent checked the run. Its corrections narrow what the run shows, and they are included: the curvature here is imposed rather than produced by stress, the measured size depends on how places are represented, and the effect is not local.*
 
-**Question.** Under option 3 the medium hops on the medium's space γ̃, which stress curves (§9zzm, §9zzo). Clock universality was shown on a flat lattice (Runs 23–24): clocks of different design agree, with a design gap falling as p_s^{−0.85}. Do the engine's clocks still follow the zero-range theory when the lattice's links carry curved-space conductances?
+**Question.** Under option 3 the medium hops on the medium's space γ̃, which stress curves (Run 66, Note E). Clock universality was shown on a flat lattice (Runs 23–24): clocks of different design agree, with a design gap falling as p_s^{−0.85}. Do the engine's clocks still follow the zero-range theory when the lattice's links carry curved-space conductances?
 
 **The engine.** Run 24's engine and protocol are unchanged except for the hop rule:
 - 36³ periodic lattice;

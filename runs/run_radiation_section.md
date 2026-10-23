@@ -1,4 +1,4 @@
-## 9zn. ED's black-hole radiation papers under option A and "the core commits" (a reading)
+## Note C: ED's black-hole radiation papers under option A and "the core commits" (a reading)
 
 *19 October 2026. (step 2: look at re-emission in the papers). An agent read the papers, the Attempt B cards, the derivation attempts and the 12 September review. A second, independent agent checked the quotes and numbers; its corrections are included.*
 

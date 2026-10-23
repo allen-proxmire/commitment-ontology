@@ -1,4 +1,4 @@
-## 9zi. Two recorded choices (19 October)
+## Note A: two recorded choices (19 October)
 
 *These two calls were made without a separate ruling. They are recorded as choices, tracked, and open to reversal.*
 

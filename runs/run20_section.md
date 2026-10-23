@@ -1,4 +1,4 @@
-## 9m. Run 20: β measured directly in ED's engine
+## Run 20: β measured directly in ED's engine
 
 **Question.** Run 10 reached Mercury's perihelion only with the multiplicative budget ($N=e^{-U}$, β = 1). Run 19 inferred, from knots of different shapes, that ED's engine as adopted makes linear wells ($N=1-U$, β = ½). This run measures β the way Run 10 measured it on its lattice, on one source shape, in the engine. Pre-registration: `PREREG_20.md` (`beta_run.zip`).
 
@@ -35,7 +35,7 @@ $$
 **Reading.**
 - **Confirmed directly: ED's engine with the adopted rules has β ≈ ½.** The well per unit of draw does not shrink as the source grows (figure, panel a); a multiplicative well would have shrunk by 7–15% at these strengths.
 - With the pattern rule (γ = 1) that puts Mercury at about 50.5″ per century (observed 42.98″) and the Nordtvedt parameter at about −2 (σ = 4.4×10⁻⁴). **Both excluded.**
-- **Where this came from:** Runs 14–15's rules were adopted on first-order evidence. Run 10's second-order requirement was never carried into those tests. §11b now makes it a standing check.
-- **Why it is structural:** while clocks count passing possibility and possibility wanders on its own, the passing count is a linear field whatever the hop rule (§11c). The fix must change what clocks read, not only how possibility wanders.
+- **Where this came from:** Runs 14–15's rules were adopted on first-order evidence. Run 10's second-order requirement was never carried into those tests. §5 now makes it a standing check.
+- **Why it is structural:** while clocks count passing possibility and possibility wanders on its own, the passing count is a linear field whatever the hop rule (§6). The fix must change what clocks read, not only how possibility wanders.
 
 ![Run 20](figures/20_beta.png)

@@ -1,4 +1,4 @@
-## 9zs. Run 46c: the fall test, settled at the engine's resolution
+## Run 46c: the fall test, settled at the engine's resolution
 
 *20 October 2026. Registered and hashed before the run, with its scripts and main dependencies (`fullrule/PREREG_46c.md`, 23:22 UTC on 19 October; the run started seconds later). Two imported helper modules, `pattern36.py` and `free40c.py`, were not hashed; both predate the registration. Run 46b and its check motivated the choices, as disclosed in the registration: the 262,144-node table, the pooled ε slope, both fit forms, and q = 2.24, which came from Run 46b's ω-based fall. One of the nine cases (P₀/p_s = 256 double) had already been run with this table in Run 46b. The post hoc analysis (`posthoc46c.py`) was written after all results. An independent agent checked the run; its corrections are included, and the dilation argument below is its.*
 
@@ -75,7 +75,7 @@ Fits, both of the form Δ = Δ_∞ + A·(p_s/P₀) + C·h^q:
 
 **The pull.**
 - The pull miss is −0.199 to −0.201 b on the finest grid in every medium. That is −0.204 b extrapolated in the grid (q = 2), about 4% of a bound pattern's energy at this compactness.
-- Run 47 shows that Newtonian-order timing cannot see this, if passive and inertial mass are equal. That is an assumption: the engine has no inertia (§9zr).
+- Run 47 shows that Newtonian-order timing cannot see this, if passive and inertial mass are equal. That is an assumption: the engine has no inertia (Run 47).
 
 **The dilation argument (from the independent check; not registered).** Take λ = e^{−U_ext}, a scale-free medium (P ≫ p_s) and the continuum. Then the outside potential changes nothing but scale.
 

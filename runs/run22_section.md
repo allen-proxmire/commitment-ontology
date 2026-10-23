@@ -1,4 +1,4 @@
-## 9o. Run 22: Candidate A against the standing checks
+## Run 22: Candidate A against the standing checks
 
 **Question.** Does Candidate A deliver β = 1 while keeping every first-order result?
 
@@ -16,7 +16,7 @@ $$
 \tfrac16\sum_{y\sim x}z_y-z_x=s_x-\bar s .
 $$
 
-**The outflow is a linear, unscreened field for any hop rule.** This is §11c's structural fact. Under the flow clock, the clock read this field directly, which is why β = ½.
+**The outflow is a linear, unscreened field for any hop rule.** This is §6's structural fact. Under the flow clock, the clock read this field directly, which is why β = ½.
 
 **What the presence clock reads.** It reads $\langle P\rangle$, a *nonlinear* function of z. If each place is in local equilibrium, it holds n units with the zero-range weights
 
@@ -108,7 +108,7 @@ The designs disagree by 6% (density 8) and 4% (density 32), against the register
   - **Its density-32 prediction:** 0.936, with "above 0.97 means the mechanism is wrong". Measured 0.961 ± 0.025, between the two, so not decisive.
 - **Direct measurement of the self-dip** (post hoc; `selfdip22.py`, in the control runs). A probe's own places sit below the surroundings by 0.32 (design 1) and 0.256 (design 2) at density 8, and by 0.305 and 0.242 at density 32.
   - **It does not fade with density:** four times the possibility per place shrinks it by only 4–6%. That is what the model claims.
-  - **Against these numbers the model's sizes look wrong:** it gives 0.214 and 0.125 at density 8 (0.202 and 0.117 at 32), and a design-2 to design-1 ratio of 0.58 against 0.80 measured. *Corrected by Run 23 (§9p):* these dips were measured against the box mean, so they include the depletion that 100 probes 2.5 apart cause together. A lone clock in Run 23 dips 0.186 (design 1) and 0.105 (design 2), a ratio of 0.56. The model matches that to 8–10%.
+  - **Against these numbers the model's sizes look wrong:** it gives 0.214 and 0.125 at density 8 (0.202 and 0.117 at 32), and a design-2 to design-1 ratio of 0.58 against 0.80 measured. *Corrected by Run 23:* these dips were measured against the box mean, so they include the depletion that 100 probes 2.5 apart cause together. A lone clock in Run 23 dips 0.186 (design 1) and 0.105 (design 2), a ratio of 0.56. The model matches that to 8–10%.
 
   **Why it does not fade (theory, consistent with the measurement).** Since $y'\to1/c$, the logarithmic outflow refills a drained place only logarithmically, so one commitment's self-dip is $D_{\rm self}\approx6(G_0+G_1)\,q/c$ at every density. In the adopted (linear) medium the same dip would be $\approx2q/P$, vanishing as P grows. That may be why Run 15's flow clocks agreed; it is untested.
 
@@ -160,7 +160,7 @@ The designs disagree by 6% (density 8) and 4% (density 32), against the register
   Real clocks of different types redshift alike to about one part per million: null-redshift comparisons of rubidium, caesium, hydrogen and dysprosium clocks bound the difference near 10⁻⁶ (Will 2014, *Living Rev. Rel.* 17, 4, §2.1.3, arXiv:1403.7377). **As built, Candidate A is judged excluded:** T2 fails as registered, and the exclusion comes from setting that failure against the 10⁻⁶ bound, not from a registered rule.
 - **The same exponential amplification does both.** It makes β = 1 ($P\propto e^{z/c}$), and it turns one commitment's small outflow deficit into an order-one dip ($\Delta\ln P=\Delta z/c$). With $c\approx1.4$, one commitment is never a small disturbance.
 
-  **Untested way out:** make c large. With $p_s\gg1$, $c=0.99/\ln(1+1/p_s)\approx0.99\,p_s$, and the self-dip should fall as $\approx6(G_0+G_1)q/p_s$ (the theory's form; Run 23 confirmed it: slope −0.94 ± 0.04 over $p_s$ = 4–64). The medium is then linear below $p_s$ (the adopted engine) and logarithmic above it, so β = 1 would need $P_0\gg p_s$. That makes matter light compared with the medium, which is also what gravity's weakness needs. It is a hypothesis for a ruling (§11c), not a result.
+  **Untested way out:** make c large. With $p_s\gg1$, $c=0.99/\ln(1+1/p_s)\approx0.99\,p_s$, and the self-dip should fall as $\approx6(G_0+G_1)q/p_s$ (the theory's form; Run 23 confirmed it: slope −0.94 ± 0.04 over $p_s$ = 4–64). The medium is then linear below $p_s$ (the adopted engine) and logarithmic above it, so β = 1 would need $P_0\gg p_s$. That makes matter light compared with the medium, which is also what gravity's weakness needs. It is a hypothesis for a ruling (§6), not a result.
 - **What survives, whatever is ruled:**
   - The β formula, $\beta=1+y''/(2y'^2)$, for a clock reading the ambient ⟨P⟩ in any zero-range medium.
   - The demonstration that the old flow clock could never reach β = 1.

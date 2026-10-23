@@ -1,4 +1,4 @@
-## 9v. Run 29: where the arrow lives (a one-way event layer, and time-averages that lose the order)
+## Run 29: where the arrow lives (a one-way event layer, and time-averages that lose the order)
 
 *18 October 2026.*
 - *Pre-registered and hashed before any run (`arrow/PREREG_29.md`, 20:47 UTC), together with the engine, the analysis and the theory scripts.*
@@ -66,7 +66,7 @@ $$
    - **Commitments are absolutely one-way.** A commitment takes a unit from each of its two places and releases two units to random places. The reversed history would need units to vanish from random places, which the rules never do, so it has probability zero.
    - **The vacuum's wandering is one-way too, far more weakly: 2.7×10⁻³ per place per tick.** It needs both the global tick and the ratio outflow.
      - Independent walkers give exactly zero (exact enumeration, and the engine's control).
-     - The continuous-time version of the same rule is a symmetric zero-range process with one-unit jumps, which is reversible with respect to its product measure. This is theory, not tested here. So if the wandering were made tick-free in that way (§11 item 8), the vacuum's arrow would go, leaving the arrow in commitments alone.
+     - The continuous-time version of the same rule is a symmetric zero-range process with one-unit jumps, which is reversible with respect to its product measure. This is theory, not tested here. So if the wandering were made tick-free in that way (§4 item 8), the vacuum's arrow would go, leaving the arrow in commitments alone.
    - **The vacuum's arrow shows in what one place holds:** its record is third-order lopsided in time (21σ).
 2. **Averaging over time shrinks the order (K29, T3).**
    - The forward/backward asymmetry of a clock's record stays at 0.023–0.034 up to windows of 32 ticks. The exception is a dip to 0.005 at T = 4, from the clock's cadence.

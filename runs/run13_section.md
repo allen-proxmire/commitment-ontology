@@ -1,4 +1,4 @@
-## 9f. Run 13: knots on a relational graph with no grid
+## Run 13: knots on a relational graph with no grid
 
 **Question.** Run 12's knots sat on a cubic grid. ED forbids a rigid lattice (Constraints: "a random web, not a grid"), and P06 now says the substrate is a graph and nothing more. Do Coh + Str knots survive when the relations are irregular, isotropic and ED-compliant?
 

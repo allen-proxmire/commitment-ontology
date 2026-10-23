@@ -1,4 +1,4 @@
-## 9zh. Run 41: ED's rotating exterior at the remnant's spin (a calculation)
+## Run 41: ED's rotating exterior at the remnant's spin (a calculation)
 
 *19 October 2026. (step 3). Exteriors, method and reading rules were fixed and hashed (`strong/PREREG_41.md`, 12:49 UTC) immediately before the code was saved. The code itself was not hashed; it was not edited after the run. An independent agent checked the metric, the numbers and the verdict; its corrections are included.*
 

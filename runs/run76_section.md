@@ -1,4 +1,4 @@
-## 9zzy. Run 76: does the negative-curvature design-2 cell replicate?
+## Run 76: does the negative-curvature design-2 cell replicate?
 
 *21–22 October 2026. This is the replication recommended by Run 75's check. It was registered and hashed before any run (`rep76/PREREG_76.md`, 21:37:16 UTC), with the baseline fixed beforehand (`baseline76.json`).*
 - *The registration's header time was corrected and the files re-hashed 5 s after a first hash, before any run.*

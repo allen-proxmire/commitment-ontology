@@ -1,4 +1,4 @@
-## 9zf. Run 39: the ringdown with the remnant's spin (a calculation)
+## Run 39: the ringdown with the remnant's spin (a calculation)
 
 *19 October 2026. (step 2). The rule, method, comparisons and reading rules were fixed and hashed before the code was written (`strong/PREREG_39.md`, 11:20 UTC). Disclosed there: the first-order frame-dragging rates at the two light rings had been estimated by hand during scoping. An independent agent checked the code, numbers and bounds; its corrections are included.*
 

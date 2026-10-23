@@ -1,9 +1,9 @@
-## 9zzh. Run 61: ED's neutron stars against tidal deformability (GW170817) and radii (NICER)
+## Run 61: ED's neutron stars against tidal deformability (GW170817) and radii (NICER)
 
 *20 October 2026. The steps:*
 1. *derive ED's exterior beyond first order and its tidal Love numbers, then use GW170817 and the NICER radii;*
 2. *tighten K60b with a softer chiral-EFT base;*
-3. *track the hop as an open tension (§10, §11).*
+3. *track the hop as an open tension (§3, §4).*
 
 *Registered and hashed before the run (`tidal61/PREREG_61.md`, 18:00 UTC). One amendment before any result (18:25 UTC; below). An independent agent reproduced the run with its own code; its corrections are included.*
 

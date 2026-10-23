@@ -1,4 +1,4 @@
-## 9zzq. Run 69: which clock does ED's medium follow around a spinning hole? Two readings compared
+## Run 69: which clock does ED's medium follow around a spinning hole? Two readings compared
 
 *21 October 2026. Registered and hashed before the run, and before any literature for its criteria was searched (`spin69/PREREG_69.md`, 07:14 UTC). The literature was compiled afterwards by the registered criteria (`lit69.json`). An independent agent checked the run.*
 - *Disclosed: some of the spin measurements were known when the criteria were set.*
@@ -79,7 +79,7 @@ $$
    - K is disfavoured by X-ray spins, formally; each object is contested.
    - K is challenged by GW231028_153006.
    - K removes the ergoregion, and with it the Blandford–Znajek jet power that the EHT's M87* models need.
-3. **Adopted provisionally (§10): reading Z.** It comes with a stated premise: the input current field (the Lorentz input's g₀ᵢ) is read as a flow of possibility, so the medium's frame is the zero-angular-momentum frame. This premise is flagged. Under Z:
+3. **Adopted provisionally (§3): reading Z.** It comes with a stated premise: the input current field (the Lorentz input's g₀ᵢ) is read as a flow of possibility, so the medium's frame is the zero-angular-momentum frame. This premise is flagged. Under Z:
    - rotating holes are Kerr outside the horizon to O(ε/α), at most about 4×10⁻⁴ at the light ring and ISCO;
    - GW250114's ringdown is Kerr's to that order;
    - the medium ends just outside the horizon.

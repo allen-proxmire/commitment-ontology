@@ -1,4 +1,4 @@
-## 9p. Run 23: does matter become light, and β stay 1, as the crossover grows? (Candidate A′)
+## Run 23: does matter become light, and β stay 1, as the crossover grows? (Candidate A′)
 
 **Question.** In Run 22 the theory traced both Candidate A's success (β = 1) and its failure (a clock's own draw dips its own places by an order-one amount) to one exponential amplification. Candidate A′ keeps both rules, but lets the medium stay linear up to a holding $p_s$ and turn logarithmic only above it:
 

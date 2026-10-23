@@ -1,4 +1,4 @@
-## 9t. Run 27: patterns falling in Candidate A′'s deep wells (was box 40 the problem?)
+## Run 27: patterns falling in Candidate A′'s deep wells (was box 40 the problem?)
 
 **Question.** In Run 22, Run 16's pattern-fall code check failed in Candidate A′'s deep wells in box 40: $a/a_{\rm pred}$ was 0.85–0.98, with masses up to 15% apart. Amendment 2 named two suspected causes, both untested:
 - **H-face:** packets 14 out reach within 6 places of the box face.

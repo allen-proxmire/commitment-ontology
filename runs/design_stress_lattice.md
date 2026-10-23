@@ -59,7 +59,7 @@ The lattice's own flux conservation, B²φ_ξ = const, is the same statement as 
    - Runs 72, 72b and 75 tested the same mechanism at imposed curvature R̃ = ±1.1, where it is large, and the theory matched to about half a percent.
    - The theory scales the effect to about 10⁻³⁹ for a neutron star.
    - So the open item "clock universality on a stress-curved lattice" can reasonably be recorded as settled by those runs plus the scaling.
-2. **A limit on "the engine carries option 3 as built"** (§9zzo), *corrected after Run 77*.
+2. **A limit on "the engine carries option 3 as built"** (Note E), *corrected after Run 77*.
    - With one global hop rate on a regular equal-place lattice, a self-consistent planar lattice exists only while the source's draw times the distance to the reservoir stays small. Within that bound γ̃ can stretch far (B² up to 229 on Run 77's box). *(The first version said only mildly stretched γ̃, B² ≲ 10.)*
    - The limit comes from slowing the medium's hops while the clocks keep their rate, which changes G. It disappears if both slow together, and an isotropic-cell graph or a local tick would avoid it (Run 77's check).
    - *Withdrawn:* "the engine carries option 3 in weak and moderate fields, not near holes." Spherical symmetry, where the stretch peaks near the source rather than at the far boundary, is untested, so this note says nothing about holes.
@@ -78,4 +78,4 @@ The lattice's own flux conservation, B²φ_ξ = const, is the same statement as 
 
 The plan: (i) now, and (ii) if a simulated demonstration of option 3 is wanted. (iii) is a question for the ontology, not a run.
 
-*After Run 77: (ii) was run (§9zzz2). The limit may need no change to the hop rule (clocks slowed with the hops, or isotropic cells), so (iii) is first a question about how the lattice represents γ̃ (the check).*
+*After Run 77: (ii) was run (Run 77). The limit may need no change to the hop rule (clocks slowed with the hops, or isotropic cells), so (iii) is first a question about how the lattice represents γ̃ (the check).*

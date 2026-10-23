@@ -1,4 +1,4 @@
-## 9zv. Run 50: a star in exact hydrostatic balance — does a quantum raise its far field by exactly ħω?
+## Run 50: a star in exact hydrostatic balance — does a quantum raise its far field by exactly ħω?
 
 *20 October 2026. Registered and hashed with every imported module before the run (`firstlaw/PREREG_50.md`, 07:43 UTC; the main run started seconds later). Disclosures:*
 - *One code check ran before registering, at h = 1, which is not a registered grid. Its numbers are in the registration (`check50.json`, hashed).*
@@ -104,4 +104,4 @@ so the far-field mass D equals E.
 5. **What carries over:**
    - every first-order result;
    - Runs 48 and 51 on the fall;
-   - the rule correction recorded in §10: bodies are matter in hydrostatic balance.
+   - the rule correction recorded in §3: bodies are matter in hydrostatic balance.

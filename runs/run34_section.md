@@ -1,4 +1,4 @@
-## 9za. Run 34: a clock field fixed each tick, plus a current field — can it pass the preferred-frame tests? (a calculation)
+## Run 34: a clock field fixed each tick, plus a current field — can it pass the preferred-frame tests? (a calculation)
 
 *19 October 2026. The criteria and candidate rules were fixed and hashed before the numerical check ran and before the record search on frame dragging was read (`vector/PREREG_34.md`, 09:21 UTC). The general relation had been sketched in conversation while scoping, and was registered as a prediction. An independent agent re-derived the matching against Will (2014, Box 2 and Table 4) and GP-B's final result. It confirmed the algebra and found eight problems in how the result was stated; all are corrected below, and listed at the end.*
 
@@ -72,7 +72,7 @@ $$
   - C1 (patterns ride possibility's flow), which makes α₂ = 0 derived, given its premises
   - a momentum channel with $k_1=-4$ to 2×10⁻⁵ (λ_J = 4), which is input
   - the motion weight $a_1=2$ to 2×10⁻²⁰ (Run 33's R-b), which is input
-- **Part 1 with no current field fails the preferred-frame tests** (α₁ = −8, α₂ = −1). The engine as built, with its diffusive wake, is not of PPN form, so its α's are not defined. What holds for it regardless is that it has no frame dragging: any $g_{0i}$ it could carry is a gradient. That is §11 item 5, now with numbers.
+- **Part 1 with no current field fails the preferred-frame tests** (α₁ = −8, α₂ = −1). The engine as built, with its diffusive wake, is not of PPN form, so its α's are not defined. What holds for it regardless is that it has no frame dragging: any $g_{0i}$ it could carry is a gradient. That is §4 item 5, now with numbers.
 - **Hypothesis: the momentum channel and R-b are one piece of physics.** Moving matter's momentum must act in two places: on the clock field's source ($\tfrac32v^2$, the Earth–Moon test) and on the current field (the 4, α₁ and frame dragging). In GR both come from the boost. Nothing in ED links them yet. ED's D30 ruling, "influence carries motion and energy", is a possible hook for both.
 - **What would make the 4 derived.** A rule in ED that fixes how strongly a moving commitment imparts momentum to possibility, with no number chosen to match, landing within 2×10⁻⁵ of 4. PinningLambdaJ's naive estimate (λ_J of order 1) shows the rule is not yet there.
 - **GR-II's falsifier** ("an additional vector mode") is not triggered by C2 if the current field is set each tick like part 1, a constraint rather than a travelling mode.

@@ -1,4 +1,4 @@
-## 9f. Run 14: the vacuum test (on ED's own event-layer engine)
+## Run 14: the vacuum test (on ED's own event-layer engine)
 
 **Question.** ED's event layer finds that a mass's clock well can have **reach** or **strength** but not both (`EVENT_LAYER.md` result 25; "the hardest open item"). The proposed cause is that every vacuum place commits and so spends possibility. That spending refills the shortage around matter and screens it. The test removes vacuum commitment and nothing else.
 

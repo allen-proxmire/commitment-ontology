@@ -1,4 +1,4 @@
-## 9k-2. Run 18b: the tick-loop knot on the fine grid, measured properly
+## Run 18b: the tick-loop knot on the fine grid, measured properly
 
 **Question.** In Run 18 the knot with Str also charged on loops that include a tick (reading T, adopted provisionally on 17 October) fell at 0.92–0.93 of the universal rate on the fine grid. That missed the registered 1.00 ± 0.03. Is the shortfall the lattice knot's own weight-to-inertia ratio, which should tend to 1 as the grid is refined, or something else?
 

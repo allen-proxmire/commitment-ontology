@@ -1,4 +1,4 @@
-## 9zw. Run 51: a controlled departure from scale-free, and a larger box
+## Run 51: a controlled departure from scale-free, and a larger box
 
 *20 October 2026. Registered and hashed with every imported module before the run (`medium51/PREREG_51.md`, 07:35 UTC; the medium run started seconds later). Code checks were limited to building the 120-cell Green's function and a syntax check. An independent agent checked the run; its corrections are included.*
 

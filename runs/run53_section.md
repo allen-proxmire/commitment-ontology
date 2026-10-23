@@ -1,4 +1,4 @@
-## 9zy. Run 53: the far-field first law, surface-averaged and registered
+## Run 53: the far-field first law, surface-averaged and registered
 
 *20 October 2026. Registered and hashed before the run (`firstlaw53/PREREG_53.md`, 11:41 UTC).*
 - *The scans started about 6 minutes after registration. A waiting loop that never fired had to be replaced first; nothing had been computed.*

@@ -1,4 +1,4 @@
-## 9zt. Run 48: the dilation argument, made exact
+## Run 48: the dilation argument, made exact
 
 *20 October 2026. Registered and hashed with every imported module before the run (`dilation/PREREG_48.md`, `PREREG_48_49.sha256`). Disclosures:*
 - *The time stamp inside the hash file (06:16 UTC) is self-reported. The file was rewritten at 06:17 to move a note out, with the hashes unchanged. Every hashed file is older than the outputs.*

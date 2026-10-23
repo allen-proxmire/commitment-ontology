@@ -1,4 +1,4 @@
-## 9i. Run 16: falling with inertia (on ED's own event-layer engine)
+## Run 16: falling with inertia (on ED's own event-layer engine)
 
 **Question.** ED's own record says **nothing falls**. A free pattern that moves by commitments, paid for by the places it lands on, is pushed *away* from matter. Matter gathers only under an added steering rule with a chosen coupling, and then it drifts rather than accelerates. The record names two missing pieces: *"a body falling through another's field"* and *"a reason the steering rule should take the form it does"*. It also says direction lives in phase. This run supplies both, with no steering rule and no coupling.
 

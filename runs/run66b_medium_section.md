@@ -1,4 +1,4 @@
-## 9zzo. How ED's medium carries option 3 (a reading, not scored)
+## Note E: how ED's medium carries option 3 (a reading, not scored)
 
 *21 October 2026. Step 3: sketch the engine's medium under option 3, and re-check β = 1, clock universality and the role of p_s. This is a reading built on Runs 66–67; nothing new was run for it. The independent agent checked it with Runs 66–67; its corrections are included.*
 
@@ -27,7 +27,7 @@ Run 65's check had sketched "flux √γγ^{ij}∂_jP with a clock linear in P". 
   - β − 1 ≈ −ε/2;
   - where a hole's clock stops, at GR's lapse ε/(1 + ε) (Run 67);
   - the throat, at GR's lapse (ε/2)^{1/3} (Run 67).
-- **G and the hop (§9zzc, point 4).** Local, so unchanged.
+- **G and the hop (Note D, point 4).** Local, so unchanged.
 
 **4. What is new: a lattice whose geometry follows stress.** The engine's flat lattice has to become one whose link weights (√γ̃γ̃^{ij}) satisfy the equation above. That is GR's whole spatial-geometry sector, with its own action term, carried by the medium's lattice: the field's self-interaction moves from U's source into the lattice's geometry (the check). In engine terms, the cadence gradient along a link (the field's tension) and the pressure of the matter on it stretch the grid. This has not been built. Three routes:
 - a simplicial (Regge-type) lattice whose edge lengths solve the discrete stress equation;

@@ -1,4 +1,4 @@
-## 9zx. Run 52: should ED's draw be the variational one?
+## Run 52: should ED's draw be the variational one?
 
 *20 October 2026. Registered and hashed with every imported module before the run (`vardraw/PREREG_52.md`, 11:40 UTC). One code check (h = 1, not a registered grid) is disclosed; it motivated recalibrating every star. The identity reading is post hoc, and the independent check sharpened it; its corrections are included.*
 

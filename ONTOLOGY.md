@@ -72,7 +72,7 @@ $$
 - **On lattices with imposed curvature,** clocks follow the zero-range theory: Run 70 at p_s = 4, Runs 72–72b at p_s = 1.
   - The gap between two clock designs shifts with the sign of the curvature by the amount the theory predicts. It is detected at 5.1σ and matches the prediction to 0.5σ (Run 72b).
   - The zero-range theory itself underestimates these clocks' own dips by about 0.25% for one design and 0.5–0.6% for the other, the same on every lattice within errors (Runs 72b, 75, 76).
-  - A lattice curved by the medium's own stress can be built exactly in planar symmetry (design note §9zzz). On it the engine's medium carries the flux the lattice was built with, to about 0.2% (Run 77). With option 3's clock the planar solution is flat (Rindler) spacetime.
+  - A lattice curved by the medium's own stress can be built exactly in planar symmetry (design note Note F). On it the engine's medium carries the flux the lattice was built with, to about 0.2% (Run 77). With option 3's clock the planar solution is flat (Rindler) spacetime.
   - With one global hop rate on a regular equal-place lattice, such a lattice exists only while the source's draw times the distance to the reservoir stays small (Run 77). It comes from the representation: it disappears if clocks slow with the hops, so ED's rules are not shown to impose it. Where large stress curvature can be carried, it sits next to a strong source, at a slow medium.
   - Universality, and the p_s^(−0.85) convergence, on a space curved by the medium's own stress are untested.
 
@@ -297,7 +297,7 @@ $$
 - How the medium's space curves: two readings, both to be tested (22 October).
   - **(A) Space is the pattern of relations.** Curving it means relations form, dissolve or rewire. In the engine: shells whose place counts follow option 3's areas, with all relations equal.
   - **(B) Relations are fixed; space is a reading of the medium's state across them,** as time is read from commitment and light's geometry from the pattern rule. In the engine: the medium's hop across a relation depends on its own state, directionally, since stress is directional. This needs a ruling, and must avoid the freezing found in Run 17.
-  - Relations can dissolve: a dissolved link goes back to possibility, as a two-part possibility pattern (stated 22 October). So (A) is open, with 3D space assumed. A spherical hole can be built under either reading; the readings separate only in how the geometry forms (design note §9zzz3).
+  - Relations can dissolve: a dissolved link goes back to possibility, as a two-part possibility pattern (stated 22 October). So (A) is open, with 3D space assumed. A spherical hole can be built under either reading; the readings separate only in how the geometry forms (design note Note G).
 
 **Rotation**
 - The rotating near-horizon shell, and option 3's stationary equations with the medium.

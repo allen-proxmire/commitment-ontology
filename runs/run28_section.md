@@ -1,4 +1,4 @@
-## 9u. Run 28: the strong field (ED's adopted metric against black-hole images and ringdowns)
+## Run 28: the strong field (ED's adopted metric against black-hole images and ringdowns)
 
 **Question.** Under the adopted rules (Candidate A′, P₀ ≫ p_s), the clock gives $N=e^{-U}$ exactly. The pattern rule gives the spatial part. Outside a static body that is the exponential metric, which has no horizon:
 

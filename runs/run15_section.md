@@ -1,4 +1,4 @@
-## 9h. Run 15: the clock rule (on ED's own event-layer engine)
+## Run 15: the clock rule (on ED's own event-layer engine)
 
 **Question.** In Run 14, ED's clocks stopped noticing a shortage wherever possibility was plentiful: at 8 units per place, probe rates read 0.2000 with and without matter. Real clocks show the full gravitational redshift in nearly empty space. This run asks which matter rule gives a clock that does that.
 

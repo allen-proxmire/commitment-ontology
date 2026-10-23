@@ -1,4 +1,4 @@
-## 9zzs. Run 71: can a collapse get through the throat?
+## Run 71: can a collapse get through the throat?
 
 *21 October 2026. Step 3 followed from Run 68: a registered collapse model through the throat. Registered and hashed before any ED trajectory was integrated (`collapse71/PREREG_71.md`, 11:23 UTC).*
 - *Disclosed: a development test of the pipeline on GR (R₀ = 7, not registered).*
@@ -100,7 +100,7 @@ $$
    - The ruling of 19 October is that the core commits what reaches it. In this model the core is never reached. Matter with pressure turns back at P ≈ (1 + w)p_s, before the zero-clock surface (P = p_s), and before the discrete regime.
    - For the ruling that ED's holes are stable to hold for ordinary matter, the commitment has to act there: **where the medium's possibility per place falls to about p_s, within a factor of about 2 (w ≤ 1)**.
    - That needed a ruling. It places ED's core at the crossover scale p_s, where possibility runs out. An alternative was exterior dynamics that are not held fixed: the shell's draw grows about 10³-fold in the horn, so the exterior mass need not stay fixed (the check).
-   - **Ruled 21 October: infalling matter commits where the medium's possibility per place falls to about 2p_s (§10).**
+   - **Ruled 21 October: infalling matter commits where the medium's possibility per place falls to about 2p_s (§3).**
 4. **Limits:**
    - the exterior is held fixed (no back-reaction);
    - a thin shell, not a star;

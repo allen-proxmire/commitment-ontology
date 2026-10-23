@@ -1,4 +1,4 @@
-## 9zzg. Run 60: can ED hold 2 M☉ with matter that nuclear theory and QCD allow?
+## Run 60: can ED hold 2 M☉ with matter that nuclear theory and QCD allow?
 
 *20 October 2026. (ED's interior equations bind for neutron stars; step 2 is the gravity-independent test). Registered and hashed before the run (`nuc60/PREREG_60.md`, 17:09 UTC). An independent agent reproduced it with its own code; its corrections are included.*
 

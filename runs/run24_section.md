@@ -1,4 +1,4 @@
-## 9q. Run 24: do clocks of different make agree once the crossover is large?
+## Run 24: do clocks of different make agree once the crossover is large?
 
 **Question.** Run 22's registered clock check failed at $p_s=1$: two clock designs (hold H and 2H) disagreed by 4–6% near matter. Run 23 showed a lone clock's self-dip falls as $p_s^{-0.94}$. Does the disagreement fall with it? This is pre-registered with a kill rule (`PREREG_24.md`, hashed before any run; `clockuni_run.zip`).
 

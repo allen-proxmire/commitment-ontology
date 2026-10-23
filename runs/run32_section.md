@@ -1,4 +1,4 @@
-## 9y. Run 32: can the adopted rules make a horizon? (and do ED's radiation papers apply?)
+## Run 32: can the adopted rules make a horizon? (and do ED's radiation papers apply?)
 
 *19 October 2026. Pre-registered and hashed before any run (`horizon/PREREG_32.md`, 05:47 UTC), with a kill rule. (step 2: whether the surface where possibility runs out is a horizon).*
 

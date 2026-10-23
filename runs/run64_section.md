@@ -1,4 +1,4 @@
-## 9zzk. Run 64 (a reading, not scored): what ED's rules leave open beyond first order
+## Run 64 (a reading, not scored): what ED's rules leave open beyond first order
 
 *20–21 October 2026. Writing ruling 2 out precisely enough to derive ED's second-order two-body dynamics showed that one choice it hides is a decision about ED's statics. This section sets out what is fixed, the decision, and what each option implies. Nothing here is scored. An independent agent checked it; its corrections are included.*
 

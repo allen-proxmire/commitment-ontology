@@ -1,4 +1,4 @@
-## 9e. Run 12: particles as knots (D14)
+## Run 12: particles as knots (D14)
 
 **Claim tested.** A particle is a knot of commitments that cannot be cut. Its mass is the cost of holding the knot.
 

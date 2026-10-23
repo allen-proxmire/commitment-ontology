@@ -1,4 +1,4 @@
-## 9zc. Run 36: does a bound pattern's energy pull, with binding counted once?
+## Run 36: does a bound pattern's energy pull, with binding counted once?
 
 *19 October 2026. Ruled: a pattern's rest energy (ħω, binding included) draws. Pre-registered and hashed before the run (`patternE/PREREG_36.md`, 11:25 UTC), with a kill rule. A trial computation of the ball alone and the unperturbed ground state at m = 0.3 was made while writing the code, and is disclosed there. The diagnostics after the kill rule fired are post hoc and labelled as such. An independent agent checked the hashes, numbers and physics; its corrections are included.*
 

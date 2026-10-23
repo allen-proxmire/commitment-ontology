@@ -1,4 +1,4 @@
-## 9d-2. Run 11b: shear of relations
+## Run 11b: shear of relations
 
 **Question.** Run 11 found that the cadence field alone radiates 1/6 of what binary pulsars lose. Its reading said the missing radiation must come from **shear**: relations stretched one way and squeezed the other, travelling at $c$. This run gives relations a full strain field and measures what an orbiting pair radiates into it. It does this under two ways of counting what is real.
 
