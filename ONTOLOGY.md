@@ -385,6 +385,10 @@ $$
     - **Light's speed needs a second factor of N** beyond the ticks.
     - **What fails:** places that move (any displacement medium) and momentum fluids cannot carry the TT waves.
     - **The proposal for testing:** the relations' stretch is option 3's γ̃, which would make it one object for the static space and the waves.
+    - **Two routes (Note H §8, after reading GR-I–IV and KM-I–II):**
+      - GR's: no extra scalar, with both constraints every tick.
+      - The khronometric route of the earlier papers: a healthy fast scalar, allowed after GW170817 for ξ = 1, |α| ≲ 10⁻⁷ and 0 ≤ λ − 1 ≲ 0.1.
+    - **The speed:** the second factor of N comes if the waves ride on physical space, g = N⁻²γ̃.
     - **First tests:** H1 (mode count) and H2 (speed).
 - Deriving the borrowed inputs: Lorentz invariance (including twist across ticks) and inertia = total energy.
 - Whether CO's event layer itself charges twist across ticks.

@@ -8216,6 +8216,7 @@ $$
 - *This note follows Runs 81 and 81b. It sets out what a gravitational wave needs, tests CO's possible carriers against those needs, and names the test that would kill each.*
 - *It is a calculation, and no engine run was made. The numbers come from `shearH/designH.py` (output `designH.json`); the outside results are cited.*
 - *An independent agent checked it with its own code (`shearH/checkH/`). Its corrections are included and listed at the end.*
+- *Section 8 was added after reading the earlier gravity and gauge papers. Its outside results are cited; the readers' own steps are marked.*
 
 **1. Why.**
 - **The waves are the one place CO still adopts GR's equations outright.**
@@ -8300,11 +8301,12 @@ $$
   - To remove them, sliding must hold moment by moment. That needs a **momentum constraint**, ∂_jπ_ij equal to matter's momentum (GR's ∇²Ξ_i = −16πS_i), or equivalently a shift: K_ij = ½(ḣ_ij − ∂_iN_j − ∂_jN_i).
   - CO's candidate for the shift is the flow of R8 and R10, g_0i = −u_i, which has no curl part yet.
   - With the momentum constraint, sliding removes the vector and longitudinal parts.
-- **The isotropic stretch must be fixed by matter: for stability, not only to keep a wave out.**
-  - With the Regge/Einstein energy the isotropic stretch has negative gradient energy. For γ = (1 + 2ψ)δ, ∫√γR contains +2(∇ψ)², against −¼(∂h^TT)² for the TT part (the check, by finite differences).
-  - Without a ruling the scalar is a ghost or an instability; at λ = 1 it freezes. It is not a scalar wave.
-  - A one-way stochastic update has no steady state along such a direction.
-  - So Run 11b's "isotropic stretch is bound to matter", with R4's "clock field fixed each tick", is required as a constraint enforced every tick. It is the Hamiltonian constraint of GR.
+- **Stability needs one of two things.**
+  - With the Regge/Einstein energy alone, the isotropic stretch has negative gradient energy. For γ = (1 + 2ψ)δ, ∫√γR contains +2(∇ψ)², against −¼(∂h^TT)² for the TT part (the check, by finite differences).
+  - Without more, the scalar is a ghost or an instability, and at λ = 1 it freezes. A one-way stochastic update has no steady state along such a direction.
+  - **Either (GR's route)** the isotropic stretch is fixed by matter every tick: Run 11b's "isotropic stretch is bound to matter", with R4's "clock field fixed each tick", GR's Hamiltonian constraint.
+  - **Or (the khronometric route, §8)** a healthy α term keeps a fast scalar as a real, stable wave.
+  - **Fixing the clock field each tick does not by itself remove the scalar.** That holds in every Hořava theory whose lapse may vary in space. The scalar goes only when the isotropic stretch is fixed too (§8).
 - **What the symmetry fixes, and what it does not.**
   - **With full Lorentz invariance and linearised spacetime gauge symmetry,** the two-derivative energy is unique: the linearised Einstein form, whose only waves are the two TT polarisations (van Nieuwenhuizen 1973; Fierz & Pauli 1939 for the massive theory).
   - **CO has a preferred tick.** Its general two-derivative theory is the infrared limit of Hořava gravity (Hořava 2009; Blas, Pujolàs & Sibiryakov 2010):
@@ -8315,8 +8317,13 @@ $$
     - λ, the kinetic coefficient;
     - ξ, which sets the TT speed, c_T² = ξ, so it is requirement (d);
     - α, which shifts Newton's constant, G_N = G/(1 − α/2), so it bears on (e).
-  - Its extra scalar is healthy only with the α term, λ > 1 and 0 < α < 2. Even then, radiation differs from GR's for Newtonian sources.
+  - Its extra scalar is healthy only with the α term: 0 < α < 2, with λ > 1 or λ < 1/3. Even then, radiation differs from GR's for Newtonian sources.
   - **GR's structure means λ = ξ = 1, α = 0, with both constraints enforced.** In CO these are choices, unless borrowed.
+  - **Observation allows more than GR's values** (§8):
+    - ξ = 1 to 10⁻¹⁵;
+    - |α| ≲ 10⁻⁷;
+    - 0 ≤ λ − 1 ≲ 0.1, from BBN.
+  - **So λ = 1 is the safe choice, not a required one.**
   - **A cheaper accounting.** CO already borrows Lorentz invariance at first post-Newtonian order (R7, R8). Extending that borrowing to the stretch would supply (c) and (d) as one input.
 - **The wave speed.**
   - Updating a relation's stretch on its places' ticks gives one factor of N, so c_h = N. R6's light has two factors, ticks and free capacity, so c = N².
@@ -8356,7 +8363,7 @@ If this holds, Notes F and G, Run 79 and Run 11b are one question: the relations
 | | test | kill |
 |---|---|---|
 | H1 | **Calculation.** The linearised Regge energy (2Σℓ_eε_e) for per-relation stretches on the face-centred complex and on the Kuhn-triangulated cubic complex, with conjugate currents and both constraints imposed. Count the normal modes at small k: sliding modes (3 per place), constrained modes, non-metric modes (expected 0 face-centred, 1 Kuhn), propagating modes. Registered beforehand: without the constraints, the expected ghost, instability or frozen mode | with the constraints: propagating modes other than 2; any ghost or ω² < 0; a gapless non-metric branch; ω not ∝ k; c anisotropic at leading order; drifting modes |
-| H2 | **Calculation.** The wave speed with stretch updates on place ticks, with and without a second factor of N. Registered beforehand: ticks alone give c_h = N, so γ_GW = 0 | c_h ≠ c at infinity, or γ_GW ≠ γ_EM, beyond the GW170817 bounds |
+| H2 | **Calculation.** The wave speed with stretch updates on place ticks, with the restoring energy written (i) in the medium's space γ̃ and (ii) in physical lengths, g = N⁻²γ̃. Registered beforehand: (i) gives c_h = N, so γ_GW = 0; (ii) gives c_h = N·N = c (§8) | c_h ≠ c at infinity, or γ_GW ≠ γ_EM, beyond the GW170817 bounds |
 | H3 | **Calculation.** Matter's conserved stress as source, with Run 11b's orbiting pair (conservation checked first) | radiated power off the quadrupole formula by more than 10⁻³; any scalar, vector or longitudinal radiation |
 | H4 | **Calculation.** A single static mass: the stretch's static part against option 3's γ̃, to second order. At first order γ = 1 is nearly automatic, and a spherical source has no TT part | β ≠ 1 at O(U²) (Run 79's rule gave β = 2) |
 | H5 | **Engine.** A one-way stochastic update for (stretch, current) whose average is H1's dynamics, preserving both constraints exactly every tick. A TT ripple, measured as in Run 81, with the Green–Kubo prediction (Run 81b's lesson) | overdamped at large scales; damping off its k = 0 prediction; the constraints drift |
@@ -8373,11 +8380,50 @@ If this holds, Notes F and G, Run 79 and Run 11b are one question: the relations
   - a face-centred or triangulated relation complex;
   - Regge's energy;
   - the momentum constraint (or shift) and the isotropic-stretch constraint, every tick (Run 11b's and R4's rulings, which stability requires);
-  - the Hořava coefficients λ = ξ = 1 and α = 0, or borrowed Lorentz invariance;
+  - the Hořava coefficients: λ = ξ = 1 and α = 0 (GR's route), or the khronometric window of §8, or borrowed Lorentz invariance;
   - the reception couplings.
 - **Shared with option 3 if section 5's conditions hold:** one G.
 
 The likeliest outcome is linearised GR on the relations, with GR's constraint structure chosen rather than derived. That would move the wave sector from "adopted equation" to "follows from a symmetry and two constraints, given these choices". It would not be a derivation from commitment alone.
+
+**8. The earlier papers' route: khronometric gravity** (added 23 October, after reading GR-I–IV, KM-I–II and the earlier gauge papers; digests in `gauge_grav_review/`)
+
+- **The same class, reached the other way.** GR-II argues that because the arrow is in the law there is a preferred foliation, so the theory is khronometric (Hořava's infrared class): GR's two tensor waves plus one scalar, the khronon, "the arrow made dynamical". §4 reached the same class from a lattice of relations with a preferred tick.
+  - The outside review of 12 September found that GR-II assumed the class rather than derived it, since the earlier corpus had no field equation for the metric.
+  - H1 would compute the mode count from an actual lattice rule, so it tests that claim directly.
+- **The scalar can be kept.** The viable khronometric theories keep a healthy, very fast scalar.
+  - **The allowed window after GW170817,** in §4's notation:
+    - ξ = 1 to 10⁻¹⁵ (Gümrükçüoğlu, Saravani & Sotiriou 2018);
+    - |α| ≲ 10⁻⁷, relaxed to about 10⁻⁵ only on the strip where the scalar moves at light's speed (Ramos & Barausse 2019);
+    - 0 ≤ λ − 1 ≲ 0.1 from BBN;
+    - health: 0 < α < 2.
+  - **The scalar's speed is then large and barely constrained.** For example, c_s² ≈ 4.7×10⁴ at λ − 1 = 0.05 and α = 10⁻⁶.
+  - **So there are two routes:**
+    - **GR's route:** λ = ξ = 1, α = 0, with the isotropic-stretch and momentum constraints every tick. This is GR's fully constrained scheme (Bonazzola et al. 2004), with no known pathology.
+    - **The khronometric route:** ξ = 1, small α > 0, small λ − 1 > 0, and a fast scalar wave. It is allowed by observation and makes predictions GR does not: a scalar polarisation, and preferred-frame effects at the bounds.
+  - **The infinitely fast corner (α = β = 0).** This is "minimal Hořava gravity", equivalent to the cuscuton. It is observationally GR, but its scalar is strongly coupled around flat and expanding backgrounds (Franchini, Herrero-Valea & Barausse 2021). Jacobson & Pulakkat (2025) find evidence that it is not a viable theory. CO's R4, the clock field fixed each tick, does not put CO in that corner by itself (§4).
+- **CO's medium energy is not the α term.**
+  - KM-I already ties the α term to the clock field: a_i = ∂_i ln N.
+  - But a positive-cost (∇ ln N)² energy has the wrong sign for a healthy α, because a healthy α lowers the static stiffness, which goes as 2ξ − α. And as the whole Newtonian coupling it would make α of order 1, against |α| ≲ 10⁻⁷.
+  - **The consistent reading:** the medium energy is the reduced static energy, (∇ ln N)²/(8πG_N), the counterpart of GR's lapse equation in maximal slicing. It fixes G_N; α ≈ 0 is then a statement about non-static physics.
+  - A vacuum-harmonic ln N gives g₀₀ = −e^{−2U}, PPN β = 1, as CO's adopted clock does.
+  - **Caution:** keeping both the medium energy and a Regge energy must not count G twice.
+- **Where the second factor of N comes from.**
+  - In N√γ[K_ijK^ij + ξR] a tensor wave moves at N√ξ/√γ, so the second factor is the inverse spatial metric in the restoring energy.
+  - Written in the medium's space γ̃, which is flat at first order, the factor is missing: c_h = N.
+  - Written in physical lengths, g = N⁻²γ̃ (the space with PPN γ = 1 that light sees), c_h = N·N = c.
+  - So the wave must ride on physical space. That is GR-II's "single cone" principle made precise: the same N⁻² that gives light its second factor. The TT parts of γ̃ and g are equal, since they differ by a conformal factor, so §5's proposal stands, with the waves propagating on g.
+  - H2 tests this; it ties H2 to H4, the static stretch.
+- **What the earlier gauge papers add.**
+  - They derive no constraint. Gauge invariance is taken as a primitive or a postulate, and there is no link field with an update rule.
+  - **What conservation does buy (the reader's own step, checked numerically):** if the energy is exactly invariant under sliding and matter's stress is exactly conserved, then C_i = ∂_jπ_ij + ½κT_0i is constant in time. So the momentum constraint is preserved tick to tick once it holds at the start, and stochastic updates must change π only by divergence-free amounts.
+  - The isotropic-stretch constraint is likewise preserved only at λ = 1.
+  - The per-relation transport matrix of MS-I and GaugeStructure is the earlier corpus's one state carried by relations rather than places. That is the kind of object C2 needs, though it carries no length and no current.
+- **What not to cite as support** (the outside review, confirmed on reading):
+  - GR-I's metric (β = 0, Mercury 57.3″ per century);
+  - GR-III's c_s = c (its own λ = 0 gives c_s = 0, and its built rule has no waves);
+  - GR-IV's α₁ and α₂ results, which rest on an underived tuning, α = λ/(1 + 2λ), and a coupling of about 10⁻⁹³ whose strong-coupling scale is about 4×10⁻¹⁹ eV;
+  - KM-I's and KM-II's stability claims, which have not been reviewed and repeat the withdrawn α₂ result.
 
 **What the check added** (`shearH/checkH/checkH.py`, independent of `designH.py`):
 1. **Reproduction.** The counting and the elastic-solid result reproduce. A displacement strain has no TT part for any material, not only isotropic ones.
