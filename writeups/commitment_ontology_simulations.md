@@ -1,7 +1,7 @@
 # Commitment Ontology: Lattice Simulation Record
 
 **Date:** 15–23 October 2026
-**Scope:** simulation Runs 1–81 (with 72b) testing whether the commitment / bandwidth ontology, written as the stability landscape Σ (Primitive 12), reproduces gravity, and where it stops working.
+**Scope:** simulation Runs 1–81 (with 72b and 81b) testing whether the commitment / bandwidth ontology, written as the stability landscape Σ (Primitive 12), reproduces gravity, and where it stops working.
 **Code and raw data:** the `*_run.zip` bundles from the session (one per run), listed in the [file index](#file-index).
 **The ontology tested, as it now stands:** stated on one page in the repository's `ONTOLOGY.md` (rules, rulings with dates, what is derived, ruled or borrowed, predictions, open questions). §3 records how each rule was reached.
 
@@ -98,7 +98,8 @@
 | 78 | Does the engine's own equation of state (its parallel update departs from the zero-range one at low P) explain the clock theory's offsets of Runs 72b–76? Measured on uniform lattices (5 link totals × 8 occupancies × 2 seeds), applied place by place to Run 72's theory, against the five lattices' existing runs (registered) | **K78a NOT EXPLAINED** for both designs: the correction removes 16% of design 1's offset (+0.238 → +0.200 ± 0.032%) and none of design 2's (+0.36 ± 0.09%). The departure itself is −0.05% to −0.24%, growing as P falls and in proportion to the link total. The check (post hoc): most of the offsets are the theory's ambient normalisation. Evaluated at the ambient the conserved total gives (64.13–64.15, not 64) and averaged place by place, they fall to +0.00 ± 0.03% and +0.07 ± 0.09%; the underestimate reported since Run 72 is withdrawn as stated. Design 2 at s = −1 stays 2.0σ off |
 | 79 | Under reading (B), does the local rule fixed by option 3's planar solution (hop weights e^{−4φ} along the field, e^{2φ} across) pass the solar-system tests for a single mass? (a calculation, registered) | **K79c RULE EXCLUDED.** It gives γ = 3, β = 2: light bending and Mercury's perihelion both doubled, 8.7×10⁴σ from Cassini. The other branch gives γ = −1, also excluded. The check: no single function of the local field reproduces option 3's space in both planar and spherical symmetry; rules also using the field's gradient and exact in planar symmetry keep γ = 3; rules using second derivatives remain open |
 | 80 | Does the clock theory with the ambient fixed by the conserved total (Run 78's check) predict new runs where the effect is larger? Run 72's flat control with the dense layout (864 clocks), 10 fresh seeds, predictions hashed before any run (registered) | **K80a PASS, K80b PASS, K80c EXCLUDED.** Ambient 64.5206 predicted, 64.5211 ± 0.0004 measured (a bookkeeping check, the check notes). Dips: +0.02 ± 0.07% and +0.21 ± 0.14% against the normalised theory; Run 72's theory as it stood is off by +0.76% (10.5σ) and +1.23% (8.6σ). The agreement rests on the level and the place-mean term: rescaling the ambient alone fails (3.4σ, 4.3σ). With the clock-place term fed back, −0.05% and −0.00%. Flat lattice only; Run 76's negative-curvature cell untested |
-| 81 | Can averaging a one-way process give a two-way wave? A density ripple in four media: CO's medium as first built (random hops), a medium that keeps momentum with one-way collisions, the same losing momentum at random, and a control with no preferred direction of rotation (registered; one amendment) | **K81a PASS, K81b PASS, K81c PASS, K81d UNDECIDED, K81e UNDECIDED.** With momentum kept, the direction-telling share Q⁻¹ = γ/ω falls as k^(1.00 ± 0.03), to 0.021 at the largest scored scale: a one-way bottom gives a wave that is two-way at large scales. CO's medium as first built is overdamped at every scale (decay rates to 1%); losing momentum at random returns the large scales to one-way. The check: this is ordinary lattice-gas (HPP) sound, which any bottom gives, so it does not locate the arrow; the control is not reversible (0.025 per place per tick); the one-way cycle shows only in the damping (Γ 0.33 against 0.50). Longitudinal sound only: GR's waves are shear |
+| 81 | Can averaging a one-way process give a two-way wave? A density ripple in four media: CO's medium as first built (random hops), a medium that keeps momentum with one-way collisions, the same losing momentum at random, and a control with no preferred direction of rotation (registered; one amendment) | **K81a PASS, K81b PASS, K81c PASS, K81d UNDECIDED, K81e UNDECIDED.** With momentum kept, the direction-telling share Q⁻¹ = γ/ω falls as k^(1.00 ± 0.03), to 0.021 at the largest scored scale: a one-way bottom gives a wave that is two-way at large scales. CO's medium as first built is overdamped at every scale (decay rates to 1%); losing momentum at random returns the large scales to one-way. The check: this is ordinary lattice-gas (HPP) sound, which any bottom gives, so it does not locate the arrow; the control is not reversible (0.025 per place per tick); the one-way cycle shows only in the damping (Γ 0.33 against 0.50; withdrawn as stated by Run 81b). Longitudinal sound only: GR's waves are shear |
+| 81b | A reversible control for Run 81: the one-way medium, Run 81's control, and an exactly reversible (heat-bath) medium, all started with no frozen sideways flow (registered) | **K81b-A FAIL, K81b-B PASS, K81b-C PASS, K81b-D UNDECIDED.** A reversible bottom gives the same large-scale wave in form: Q⁻¹ ∝ k^(1.01 ± 0.04). Γ(one-way)/Γ(reversible) = 0.676 ± 0.021 against the registered 0.610: the prediction's collision rates were mis-measured; corrected, 0.652 (T = 8 runs: 0.658 ± 0.018). The check: the wave's damping follows each rule's local collision response, reversible or not; the one-way cycle shows in that local response (Im μ = 0.289), not in the wave. Run 81's 'trace in the damping' withdrawn. Sound-speed offset gone to ≤ 0.16% |
 
 ## Where the record stands: a consilience reading
 
@@ -8089,6 +8090,7 @@ $$
 2. **This is ordinary lattice-gas sound, and the same happens with any bottom.**
    - The large-scale result does not depend on the bottom being one-way: lattice gases with reversible collisions give the same (known physics, not run here). So it does not locate the arrow, which fits §5: at large scales the averaged accounts agree.
    - The one-way cycle leaves a trace in how much the wave is damped (Γ 0.33 against 0.50), not in whether it is two-way.
+   - *Note (23 October, Run 81b): withdrawn as stated. A reversible control shows that any rule's wave is damped as its local collision response predicts; the one-way cycle shows in that local response (a rotating relaxation), not in the wave.*
    - A reversible control, to show that the leftover is the cycle's and not M2s's own irreversibility, was not run.
 3. **What it does not reach.**
    - These are longitudinal sound waves at 1/√3 of a hop per tick. GR's waves are transverse shear at light speed.
@@ -8099,6 +8101,114 @@ $$
    - So the current belongs, if anywhere, to the carriers of CO's waves (the relations' shear, and patterns), not to the well.
    - The same current is what R10's circulating flow and Run 34's momentum channel need.
    - **Next:** whether the relations can carry a conserved current with a restoring force for shear (a design note).
+
+### Run 81b: a reversible control for Run 81
+
+*23 October 2026.*
+- *Registered and hashed before any run (`wave81b/PREREG_81b.md`, 17:38:35 UTC), with the engine, the theory, the analysis and the job list. Validation runs and smoke runs made before registration are disclosed there. One of them was a ripple run on a non-registered seed whose final amplitudes were printed.*
+- *An independent agent checked the run (below).*
+
+**Why.** Run 81's check left its reading open on two points.
+1. **Its control (M2s) was not reversible,** so the claim that a two-way bottom gives the same large-scale wave was not tested.
+2. **The lower damping of the one-way medium** (Γ 0.33 against 0.50) could belong to the one-way cycle or to M2s's own irreversibility.
+
+**Question.** With a truly reversible control, and with no frozen sideways flow:
+- does a reversible bottom give the same large-scale wave?
+- is the one-way cycle's mark on the damping there, at the predicted size?
+- does M2s's irreversibility leave a mark beyond its rates?
+
+**Three media.** All on 512 × 4 × 4 places, P̄ = 64, with Run 81's ripple (A = 0.01) and 192 seeds each.
+
+| | rule | bottom |
+|---|---|---|
+| **M2** | Run 81's, bit-identical: head-on pairs rotate x → y → z → x | one-way |
+| **M2s** | Run 81's control, bit-identical: a rotating pair goes to either other axis with probability ½ | no preferred cycle, not reversible |
+| **M2r** (new) | each tick, at each place, one axis pair is chosen and the split of its head-on pairs is redrawn from the stationary law, given what the move conserves: weight ∝ 1/[h_a! (h_a + \|p_a\|)! (H − h_a)! (H − h_a + \|p_b\|)!] | **reversible:** a Gibbs (heat-bath) step, in detailed balance and symmetric under velocity reversal |
+
+**The start.** Every frozen line momentum is zero (n_y− := n_y+, n_z− := n_z+), which removes Run 81's sound-speed artefact.
+
+**The theory, fixed beforehand.** Each rule conserves count and momentum at every place and treats the axes alike up to cyclic order. So its linear collision step is fixed by how it relaxes the axis anisotropy:
+$$
+d\;\to\;(A+B\,P)\,d,\qquad \mu=A+B\,e^{2\pi i/3},\qquad \Gamma=\tfrac13\,\mathrm{Re}\,\frac{1+\mu}{2(1-\mu)},
+$$
+with P the cyclic shift. B ≠ 0 only for the one-way cycle.
+- **(A, B) were measured beforehand** on uniform lattices, from how a tilted anisotropy relaxes.
+- This gave Γ = 0.323, 0.471 and 0.530, so the predicted ratios were Γ(M2)/Γ(M2r) = **0.610 ± 0.016** and Γ(M2s)/Γ(M2r) = 0.889 ± 0.022.
+- The mean field gives 0.651 and 0.979; these were stated in the registration, not scored.
+
+**Results** (conservation exact; line momenta zero and kept, in all 576 runs).
+
+| | Γ measured | Γ registered | M2r slope of ln Q⁻¹ on ln k | frequency offset, m = 1 and 3 |
+|---|---|---|---|---|
+| M2 | 0.346 ± 0.006 | 0.323 | (M2: 0.925 ± 0.025, not scored) | +0.12 ± 0.04%, +0.05 ± 0.08% |
+| M2s | 0.501 ± 0.012 | 0.471 | | +0.07 ± 0.06%, −0.03 ± 0.12% |
+| M2r | 0.512 ± 0.009 | 0.530 | **1.009 ± 0.039** | +0.05 ± 0.07%, +0.16 ± 0.18% |
+
+| ratio | measured | registered | mean field (not scored) |
+|---|---|---|---|
+| Γ(M2)/Γ(M2r) | **0.676 ± 0.021** | 0.610 ± 0.016 | 0.651 |
+| Γ(M2s)/Γ(M2r) | 0.978 ± 0.043 | 0.889 ± 0.022 | 0.979 |
+
+![Run 81b](../figures/81b_control.png)
+
+**Verdicts as registered.**
+- **K81b-A (headline), the one-way cycle's mark at the predicted size: FAIL.** The ratio is 27σ below 1, but 10.9% above the registered 0.610, outside the limit of max(5%, 3σ) = 9.4%.
+- **K81b-B, M2s against M2r: PASS,** through its 3σ allowance (10.0% against 13.1%).
+- **K81b-C, a reversible bottom gives the same large-scale wave: PASS.** M2r's Q⁻¹ falls as k^(1.01 ± 0.04), and its damping is within 3.3 ± 2.5% of prediction.
+- **K81b-D, no frequency offset: UNDECIDED.** Five of six offsets pass at 0.15%. M2r at m = 3 (±0.18%) is too imprecise to score. Run 81's offsets were 0.4–0.6%.
+- **Bookkeeping: PASS.** M2r's rotations balance both ways.
+
+**What the check added.**
+1. **Reproduction.**
+   - All 63 hashes match. Every output follows the registration, and each of the 576 jobs ran once.
+   - Two seeds per medium re-run byte for byte, and the analysis reproduces byte for byte.
+   - M2 and M2s reproduce Run 81's registered outputs bit for bit. **All five verdicts stand as computed.**
+2. **M2r is exactly reversible.**
+   - 512,000 moves were checked against the exact conditional law, with no mismatch. Count and momenta are conserved.
+   - Its move-level entropy production is zero: the path log-ratio reduces to a state function, to 4×10⁻¹⁴. The raw estimate is (6 ± 14)×10⁻⁴ per place per tick, against M2s's 0.025.
+   - A stationary M2r history and its velocity-reversed time-reversal are equally probable.
+3. **K81b-A failed because the registered prediction was wrong, not because of the wave.** The validation that measured (A, B) had three defects:
+   - It fitted a constant offset during ticks 1–6, while the zero-line-momentum start's offset was still building up (0 to 0.20 per place by tick 10). This biases A, by more at small tilts.
+   - It assumed a single exponential, while the measured k = 0 response has a longer tail.
+   - Its 64 seeds gave M2r's A a +1.9σ fluctuation.
+
+   The full k = 0 response, summed as a Green–Kubo integral (the same at T = 8), gives:
+$$
+\Gamma=\tfrac13\Big[\tfrac12+\sum_{n\ge1}g(n)\Big]:\qquad \Gamma_{M2}=0.341,\ \ \Gamma_{M2s}=0.507,\ \ \Gamma_{M2r}=0.528 .
+$$
+   So the correct predictions were 0.645 ± 0.006, or **0.652** with the registered fit's nonlinear bias, and 0.961 for M2s.
+   - The measured 0.676 ± 0.012 is 3.6% from 0.652, within the registered rule.
+   - Independent runs at T = 8 give **0.658 ± 0.018**.
+   - The residual sits mostly in M2r's registered set, which is 4.1% low (2.5σ); two independent M2r sets are 0.0% and −1.7% from prediction.
+   - The mean field came closer only because its errors for M2 and M2r (−4.4%, −5.3%) cancel in the ratio.
+   - The verdict is also fragile: ending the m = 3 and 5 windows at 1,500 ticks would pass it.
+4. **The damping ratio is not a sign of one-wayness** (the check's main caveat).
+   - Any rule's longitudinal wave is damped as its local k = 0 collision response predicts, whether the rule is reversible or not. A reversible rule with real μ ≈ 0.32 would damp exactly like M2.
+   - What is specific to the one-way cycle is in the local response: Im μ = 0.289 ± 0.001, a rotating relaxation of the anisotropy, against 0.000 ± 0.002 for M2s and M2r.
+   - The wave shows only what that local response predicts. A forward-running and a backward-running cycle damp alike, by the y ↔ z mirror, so the wave cannot show the cycle's direction at all.
+   - **So Run 81's "the one-way cycle leaves a trace in how much the wave is damped" is withdrawn as stated.** So is the registered reading of a K81b-A failure.
+5. **K81b-B** checks that M2s's wave follows from its own local response: 1.8 ± 3.7% from the corrected 0.961. It does not test irreversibility as such.
+6. **Not predicted.**
+   - M2's longest waves (m = 3, 5) damp about 10% more than its shorter ones allow (+10.3 ± 2.4% over three independent sets), only in this 4 × 4, zero-line-momentum ensemble. The excess is absent at T = 8, with Run 81's Poisson start, and in M2r.
+   - This is the source of M2's low unscored slope, 0.925. It is likely a mode-coupling effect of the narrow geometry, and is not resolved.
+7. **Smaller corrections.**
+   - The ratio errors were computed by pairing seed groups across independent media, not in quadrature as registered: 0.012 against 0.016 for K81b-A. With quadrature, K81b-A still fails narrowly (10.9% against 10.5%) and K81b-B passes.
+   - A and B were sampled as independent in the theory error, though correlated (0.63 for M2).
+   - The zero-line-momentum state is a constrained ensemble: y and z var/mean 0.75, and the x axis holding 0.17–0.20 more per place. All of Run 81b's damping values belong to it.
+
+**Reading.**
+1. **A reversible bottom gives the same large-scale wave in form.** It carries viscous sound whose direction-telling share falls as 1/wavelength, as the one-way bottom's does. Run 81's missing control is now run: at large scales the averaged wave is two-way whatever the bottom, so the §5 statement that the accounts agree there is tested in the engine.
+2. **The averaged wave does not show the arrow.** Its damping is set by the collision step's local response, whatever the bottom.
+   - The one-way cycle shows in that local response, as a relaxation that rotates (Im μ ≠ 0). It does not show in the wave.
+   - Measured against a correct prediction, the wave agrees with its local response to 1–4%.
+   - **The arrow lives at the bottom and in the local response, and averaging to large scales hides it.** That is §5's statement, in a changing situation.
+3. **The registered headline failed on a bad prediction method.**
+   - Future registrations of this kind should predict from the full k = 0 response (the Green–Kubo sum), measured from an equilibrated start.
+   - The registered verdict stays FAIL.
+4. **Limits.**
+   - These are longitudinal sound on the six-direction HPP lattice in a narrow geometry, with an unexplained 10% long-wavelength excess for M2.
+   - The damping values belong to the zero-line-momentum ensemble.
+   - Shear, which is what GR's waves are, is untouched.
 
 ## 3. What the record says about the ontology
 
@@ -8794,6 +8904,7 @@ That last condition is also gravity's weakness: matter is light compared with th
 | 79 | a calculation: the medium's radial flux on a flat shell graph with the rule's hop weights, solved by implicit-midpoint quadrature; PPN parameters fitted in areal form | M = 1, outer boundary at ρ = 2×10⁵, step 0.25 | registration hashed before the run; the registered fit's two flaws (no constant term; mass taken as 1) disclosed and refitted post hoc; independent agent (own algebra, exact geodesic integrals, both branches, gradient rules) |
 | 80 | Run 72's engine (engine72.py, unchanged) on Run 72's flat control with the dense layout; the normalised zero-range theory with Run 78's δ, fixed beforehand | 864 clocks, high medium, p_s = 1, 20,000 ticks (burn-in 5,000), seeds 801–810 | registration with predictions hashed before any run; validation on the existing 216-clock runs disclosed; exact conservation; independent agent (own implementation of the theory, bit-for-bit reruns of two seeds, component fit of the theory's pieces, direct measurement of the clock-place term on 864 clocks) |
 | 81 | four media on periodic lattices (engine81.py): R1's wander rule (128×8×8) and a six-direction momentum medium with three collision rules (512×4×4); exact linearised one-tick maps, fixed beforehand | ripple modes m = 1–25 superposed, A = 0.01 (0.05 for M1); 128 seeds (64 for M1); 3,200–12,000 ticks | registration with predictions hashed before any run with a ripple; validation and noise-only smoke runs disclosed; one amendment (sampler table range) hashed before M1's re-run; exact conservation; independent agent (own linear maps, byte-identical reruns, nine extra run sets for the sound-speed offset, move-level entropy production) |
+| 81b | engine81b.py: M2 and M2s bit-identical to Run 81, and a heat-bath medium (512×4×4, zero line momenta); linear theory from each medium's measured k = 0 anisotropy relaxation | ripple modes m = 1–25, A = 0.01; 192 seeds per medium; 3,000 ticks | registration hashed before any run; validation (sampler χ², measured relaxation) and smoke runs disclosed; exact conservation; independent agent (exact-law check of 512,000 heat-bath moves, entropy production, Green–Kubo re-measurement of the collision response, extra runs at T = 8 and A = 0.02, fragility) |
 
 Units are lattice units throughout. Wave speed $v=1$. Cluster masses: $M=0.8\pi$ (A = 0.1) for Runs 3–6, and $M_A=0.25$, $M_B=0.5$ for Runs 7–8, chosen so the cadence deficit stays a few percent.
 
@@ -8882,3 +8993,4 @@ The code and data for each run were delivered as separate bundles:
 | 79 | `rule79_run.zip` | — |
 | 80 | `dense80_run.zip` | 80_dense |
 | 81 | `wave81_run.zip` | 81_wave |
+| 81b | `wave81b_run.zip` | 81b_control |

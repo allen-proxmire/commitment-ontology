@@ -1,6 +1,6 @@
 # The commitment ontology, as it stands
 
-Allen Proxmire · 23 October 2026 · after Runs 1–81 of the lattice record
+Allen Proxmire · 23 October 2026 · after Runs 1–81 (with 81b) of the lattice record
 
 This page states, in one place, what the lattice record tests: the commitment ontology's rules as they stand today. For each rule it gives:
 - its formula;
@@ -277,7 +277,8 @@ $$
          - In a medium whose units keep their direction of travel and swap it only in one-way, momentum-conserving collisions, Q⁻¹ falls in proportion to 1/wavelength, as k^(1.00 ± 0.03). So it is two-way at large scales, while things change.
          - CO's medium as first built (random hops) has no current and stays one-way at every scale. Losing the current at random sends the large scales back to one-way.
          - **A conserved current is needed for waves at all scales.**
-         - This is ordinary lattice-gas sound, and reversible bottoms give the same. So at large scales it does not locate the arrow, as above. The one-way cycle shows only in how much the wave is damped.
+         - This is ordinary lattice-gas sound. An exactly reversible bottom gives the same large-scale wave (Run 81b). So at large scales it does not locate the arrow, as above.
+         - **The averaged wave does not show the arrow (Run 81b).** Its damping follows each rule's local collision response, reversible or not. The one-way cycle shows in that local response, as a relaxation that rotates, not in the wave. The arrow lives at the bottom, and averaging to large scales hides it.
          - These waves are longitudinal sound. GR's are shear, which needs a restoring force as well: in CO's terms, the relations' tension. That is not shown.
          - A medium carrying sound would radiate scalar waves, which Run 11b bounds. So the current belongs to the carriers of CO's waves (the relations, patterns), not to the well.
      - **The engine's medium is itself an average** (stated 23 October). A scaleless substrate has no direct model, so the engine uses an averaged medium as its stand-in.
@@ -342,7 +343,7 @@ $$
 | 45–64 | bound matter at neutron-star strength; the first law; the strong equivalence principle; neutron-star masses, radii and nuclear matter; binaries beyond first order |
 | 65–69 | GR's clock equation in CO; option 3; static and spinning black holes; evaporation |
 | 70–80 (with 72b) | clocks on curved lattices, and how accurate the clock theory is; collapse through a hole's throat; where infalling matter commits, and what that radiates; the medium on space curved by its own field; the engine's own equation of state; a local rule for the medium's space |
-| 81 | whether averaging a one-way process can give a two-way wave |
+| 81, 81b | whether averaging a one-way process can give a two-way wave; a reversible control |
 
 ---
 

@@ -130,6 +130,7 @@ $$
 2. **This is ordinary lattice-gas sound, and the same happens with any bottom.**
    - The large-scale result does not depend on the bottom being one-way: lattice gases with reversible collisions give the same (known physics, not run here). So it does not locate the arrow, which fits §5: at large scales the averaged accounts agree.
    - The one-way cycle leaves a trace in how much the wave is damped (Γ 0.33 against 0.50), not in whether it is two-way.
+   - *Note (23 October, Run 81b): withdrawn as stated. A reversible control shows that any rule's wave is damped as its local collision response predicts; the one-way cycle shows in that local response (a rotating relaxation), not in the wave.*
    - A reversible control, to show that the leftover is the cycle's and not M2s's own irreversibility, was not run.
 3. **What it does not reach.**
    - These are longitudinal sound waves at 1/√3 of a hop per tick. GR's waves are transverse shear at light speed.

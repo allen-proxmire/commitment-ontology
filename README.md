@@ -2,7 +2,7 @@
 
 Allen Proxmire.
 
-Tests of the Commitment Ontology against measured physics, on a lattice engine built from its rules: 81 runs (with a follow-up, 72b), 15–23 October 2026.
+Tests of the Commitment Ontology against measured physics, on a lattice engine built from its rules: 81 runs (with follow-ups 72b and 81b), 15–23 October 2026.
 
 The project was formerly titled Event Density (ED). "The earlier papers" and the earlier event-layer engine refer to that work, in the `ED-generative`, `event-density` and `event-density-ontology-models` repositories. Three documents from it are kept unchanged in `runs/`: `P08_substrate_scale.md`, `Paper_BlindnessInvariant_KnotsNotCrystals.md` and `Particles_As_Knots.md`.
 
@@ -78,7 +78,7 @@ Every run in the record tests a consequence of those rules against a measurement
   - With one global hop rate, such a lattice exists only while the source's draw times the distance to the reservoir stays small. It comes from the lattice representation; CO's rules are not shown to impose it (Run 77).
 - **Time's direction:** the engine's bottom is one-way, and averaging over time removes the order at a steady state (Run 29).
   - With a medium that conserves a current, averaging a one-way bottom also gives waves whose one-way share falls as 1/wavelength: two-way at large scales while things change. CO's medium as first built has no current and stays one-way (Run 81).
-  - Reversible bottoms give the same large-scale waves, so this does not locate the arrow. GR's waves are shear, which also needs a restoring force; that is open.
+  - An exactly reversible bottom gives the same large-scale waves, and a wave's damping follows the local collision response whatever the bottom; so the averaged wave hides the arrow, which shows only in the local response (Run 81b). GR's waves are shear, which also needs a restoring force; that is open.
 - **Open:**
   - what fixes P∞/p_s;
   - the strong-field binding miss;
