@@ -166,4 +166,4 @@ The designs disagree by 6% (density 8) and 4% (density 32), against the register
   - The demonstration that the old flow clock could never reach β = 1.
   - A cheap, precise way to measure β with no matter at all.
 
-![Run 22](figures/22_candidateA.png)
+![Run 22](../figures/22_candidateA.png)

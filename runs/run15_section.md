@@ -183,7 +183,7 @@ That is the share of each cycle not spent waiting to pay.
 
 **8. Not addressed: falling.** CO's engine still has nothing that falls (EVENT_LAYER.md: free patterns step *away* from matter). A clock rule that reads the shortage correctly is the prerequisite for testing falling with inertia, since the max-count path depends on the clock rates along it.
 
-![Run 15](figures/15_clock_rule.png)
+![Run 15](../figures/15_clock_rule.png)
 
 ---
 

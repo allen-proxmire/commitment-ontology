@@ -120,4 +120,4 @@ CO's ball at (30, 30, 30) and the Q1 arm-E knot 9.5 places away, seeds 1 and 2, 
 - The β inference identifies the clock rate with the metric's lapse and assumes geodesic orbits.
 - These bodies are strong-field; the β result does not depend on that.
 
-![Run 19](figures/19_ownwell.png)
+![Run 19](../figures/19_ownwell.png)

@@ -31,7 +31,7 @@ $$
 | 10⁻⁶ | 0.99992 | 100.9 | −3.000 | 2.000 |
 | 0 (GR) | 1 for ever | unbounded: 72, 109, 146, 183 M to N = 10⁻⁴, 10⁻⁶, 10⁻⁸, 10⁻¹⁰ | — | — |
 
-![Runs 68–69](figures/68_69.png)
+![Runs 68–69](../figures/68_69.png)
 
 **Verdicts, as registered.**
 - **K68a PASSES (the transient reaches Hawking's flux):** the peak flux reaches 0.997–0.9999 of Hawking's for ε ≤ 10⁻⁴.

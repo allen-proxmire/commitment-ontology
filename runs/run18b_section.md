@@ -104,4 +104,4 @@ $$
 
 **5. Flag, unchanged.** Inertia = energy here is Lorentz invariance in lattice form. And the knot still moves by a field equation, not by the engine's commitments.
 
-![Run 18b](figures/18b_finegrid.png)
+![Run 18b](../figures/18b_finegrid.png)

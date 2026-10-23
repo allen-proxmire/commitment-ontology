@@ -37,7 +37,7 @@ $$
 
 The frequency offset's slope at a = 0 is d(δf)/da = +0.110: CO's frequency rises 0.184 per unit spin against Kerr's 0.148.
 
-![Run 39](figures/39_spin.png)
+![Run 39](../figures/39_spin.png)
 
 **Verdict (as registered): undecided.** The registered comparison is undefined at a = 0.68. Both first-order exteriors fail well before the remnant's spin:
 - Kerr's truncation loses its prograde light ring above a ≈ 0.58.

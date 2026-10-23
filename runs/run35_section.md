@@ -45,7 +45,7 @@
 - The model behind D35 is an integrate-and-fire clock fed an independent presence each tick. It shares no code with the engine's clock step.
 - C35a's 4.1021 against 4.1044 is about 4σ. It is the expected bias of the approximate conditioning on the total, about −0.06%, well inside the criterion.
 
-![Run 35](figures/35_adopted.png)
+![Run 35](../figures/35_adopted.png)
 
 **Reading.**
 1. **The build does what the rulings say.**

@@ -60,4 +60,4 @@ This is a calculation, not a simulation. Pre-registered: `PREREG_28.md`, hashed 
   3. **Mass absorption.** LVK's test fits the whole signal. CO also shifts the inspiral (its ISCO frequency is 6.9% lower), so part of a common shift could be absorbed into the inferred masses.
 - **What carries the strong field.** β and γ fix the metric only to first post-Newtonian order. Beyond that, the spatial part is set by the pattern rule's exact form ($c=N^2$, so $g_{ij}=N^{-2}\delta_{ij}$ at all orders), which was chosen to give γ = 1 at first order. The ringdown and the shadow test that choice. A different nonlinear form with the same β and γ would move both.
 
-![Run 28](figures/28_strong.png)
+![Run 28](../figures/28_strong.png)

@@ -206,7 +206,7 @@ Where the clock rate is uniform, a pattern keeps its velocity to within 0.07%: t
 - **Patterns here are much heavier per tick than real particles,** so lattice corrections are visible (the time-step factor, about 1%).
 - **Orbits are not tested:** a pattern in this box spreads before it could complete one.
 
-![Run 16](figures/16_falling.png)
+![Run 16](../figures/16_falling.png)
 
 ---
 

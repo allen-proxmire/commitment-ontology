@@ -55,7 +55,7 @@ This is 1 when s = −1, and 1/(1 + U_self) when the body is held. The independe
 | 40c | held | xy, m = 2.0 | 0.52% | 1.00032 (+0.06b) | 0.99002 (−1.90b) |
 | 40c | adjusting, self-similar / held | xy, m = 2.5 | 0.81% | 0.99929 (−0.09b) / 1.00018 (+0.02b) | 0.98381 (−2.00b) / 0.98468 (−1.89b) |
 
-![Run 40](figures/40_adjust.png)
+![Run 40](../figures/40_adjust.png)
 
 **Reading** (checked by an independent agent, whose corrections are included).
 1. **Run 40's pass did not survive.**

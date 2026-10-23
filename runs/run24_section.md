@@ -46,4 +46,4 @@ $$
   - Nordtvedt directly
   - whether CO accepts a place holding ~10⁹ units with a crossover at ~10⁵
 
-![Run 24](figures/24_clocks.png)
+![Run 24](../figures/24_clocks.png)

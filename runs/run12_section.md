@@ -120,5 +120,5 @@ A lump is a connected region where the director points more than 60° away from 
 - **Quench.** An instant quench gives no isolated particles: nothing survives if cutting is allowed, and a jammed glass forms if it is not. Whether a slow switch-on of the uncuttable rule leaves isolated knots is tested in Run 13.
 - **Grid dependence.** These runs use a cubic grid only to discretise a continuum field. An earlier forward-difference version of Str was evaded by single-site flips that cut the knot (link dot product down to −0.98). The symmetric four-corner form above is not. Run 13 repeats the test on a relational graph with no grid.
 
-![Run 12](figures/12_knots.png)
+![Run 12](../figures/12_knots.png)
 

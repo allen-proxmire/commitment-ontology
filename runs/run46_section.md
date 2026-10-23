@@ -49,7 +49,7 @@ The weak-field expansion was stated before running: at first order the total dra
 | 1024 | base / double / triple | +2.9 / +6.0 / +3.1 ×10⁻³ | +10.4 / +2.4 / +1.1 ×10⁻³ | +1.9 / −0.13 / −0.09 ×10⁻³ | −0.178 / −0.196 / −0.201 b |
 | Run 45, coded equation, 64 double | | −0.170 | −0.160 | +1.9×10⁻³ | −0.285 b |
 
-![Run 46](figures/46_fullrule.png)
+![Run 46](../figures/46_fullrule.png)
 
 **Post hoc (not registered; `posthoc46.py`).**
 - **The pattern's fall by ω converges cleanly, though its limit depends on the fit's exponent.** With q = 2 the same fit describes all nine points to rms 9×10⁻⁵ and gives Δ_∞ = −4.4×10⁻⁴. With q = 1 it is five times worse (rms 4.8×10⁻⁴) and gives −4.5×10⁻³. The successive differences fall by 6.3 in every medium (h²: 5.4; h: 3.0). With q free the best fit is q = 2.25:

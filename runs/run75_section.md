@@ -38,7 +38,7 @@ $$
 - **D₂ = +0.24 ± 0.40%** (0.6σ). The registration expected σ_D ≈ 0.3%. The measured scatter was larger, so the test had less power than planned.
 - D₁ = +0.08 ± 0.16% (reported).
 
-![Run 75](figures/75_outerlinks.png)
+![Run 75](../figures/75_outerlinks.png)
 
 **Verdict.**
 - **K75a FAILS.** D₂ is within 1σ of zero. Changing only the outer links, by twice Run 72's amount, does not move the theory's design-2 error. The hypothesis is disfavoured, by odds of about 8:1 (the check), not excluded.

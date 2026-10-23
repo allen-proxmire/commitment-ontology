@@ -35,7 +35,7 @@ At m = 5, both with the stress drawing:
 - **Held ball:** 0.99906 (−0.019 b).
 - **Energy-only:** 0.97642 (−0.48 b).
 
-![Run 42](figures/42_inside.png)
+![Run 42](../figures/42_inside.png)
 
 **Checks** (independent agent).
 - **Resolution.** The ball is only 3 cells in radius, so S depends on how it is computed.

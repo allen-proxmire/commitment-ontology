@@ -65,4 +65,4 @@ $$
 - **The within-seed errors were too small.** The two seeds differ by 0.37, about four times the error each seed gave itself (half-to-half and bin bootstrap). Those estimates miss the slow, run-level fluctuations of the wells, so the honest error on f is the seed-to-seed spread.
 - **Pooled: f = 1.12 ± 0.19.** Adding (f = 0) is excluded at about 6σ, and multiplying (f = 1) agrees within 1σ. A third seed or a longer read would tighten this.
 
-![Run 26](figures/26_twowell.png)
+![Run 26](../figures/26_twowell.png)

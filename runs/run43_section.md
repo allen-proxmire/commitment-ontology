@@ -42,7 +42,7 @@ How to read the table:
 - For a surface far closer to the horizon than CO's, that bound needs absorption κ ≪ 10⁻¹⁴. Absorption of 10⁻⁵ weakens it by about nine orders of magnitude, and near-total absorption (1 − κ ≈ 10⁻²) removes it.
 - For a core at CO's natural scale (surface compactness μ = 1 − 2M/R ≈ α_s² ≈ 2×10⁻⁹), their eq. 18 needs only κ ≳ (27/8)μ/10⁻² ≈ 6×10⁻⁷.
 
-![Run 43](figures/43_core.png)
+![Run 43](../figures/43_core.png)
 
 **Reading** (corrected by the check: the registration said "viable only if the core is a strong absorber", which overstates it).
 1. **Option A is viable if CO's core absorbs a few percent of what reaches it.**

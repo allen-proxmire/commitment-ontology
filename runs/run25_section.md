@@ -57,4 +57,4 @@ $$
 - **Untested in the engine.** Attempt 1's result is for a *linear* budget. Candidate A′ is not linear, and its sourcing ("active mass = redshifted draw", Runs 19 and 26) has not been measured against GR's weights. Whether it meets the same wall is open.
 - **The claim "Nordtvedt is met" is withdrawn as stated.** What Run 25 shows is that the β contribution to η_N is within lunar ranging's bound at $P_0/p_s$ = 4096.
 
-![Run 25](figures/25_closing.png)
+![Run 25](../figures/25_closing.png)

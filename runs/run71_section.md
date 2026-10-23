@@ -78,7 +78,7 @@ $$
   - It tests the flux pipeline through a turning point on a GR shell with pressure: Taylor-mode and finite-difference Schwarzians agree to 0.5%.
   - The flux when the matter comes back out has large positive and negative spikes (hundreds of F_H). These have not been separated from the thrown-in initial condition, so no bounce flux is reported.
 
-![Run 71](figures/71_collapse.png)
+![Run 71](../figures/71_collapse.png)
 
 **Verdicts, as registered.**
 - **K71-GR PASSES:** the GR controls' late flux is Hawking's, F/F_H = 1.000000.

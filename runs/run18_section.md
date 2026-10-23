@@ -235,4 +235,4 @@ The two failure conditions written in advance:
 - the hop half (the pattern rule) for knots; at first order it does not change the fall
 - the Nordtvedt test, which needs a knot's own gravity and is not in this model
 
-![Run 18](figures/18_matter.png)
+![Run 18](../figures/18_matter.png)

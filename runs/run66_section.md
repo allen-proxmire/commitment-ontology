@@ -74,7 +74,7 @@ $$
    the same as under option 1, because γ̃ departs from flat only at O(M²/r²). With the exact medium's g_bg = (p_s − b)/P₀ (Run 55), this gives −0.94×10⁻⁴ at p_s = 16, P₀/p_s = 4096, against Run 25's measured −1.06 ± 0.06×10⁻⁴ (its own theory: −0.98). At the bound above, |β − 1| ≲ 3×10⁻⁶.
 3. **Active = passive.** The far-field mass F/(1 + g_bg), read from the field's flux at the surface, equals the passive mass's formula to ≤ 8×10⁻¹⁰.
 
-![Runs 66–67](figures/66_67.png)
+![Runs 66–67](../figures/66_67.png)
 
 **What the check added.**
 1. **The reduction is confirmed by hand.** For a static metric R_tt = N D²N and R_ij = ³R_ij − D_iD_jN/N; a perfect fluid gives R_tt = 4π(e + 3p)N² and R_ij = 4π(e − p)g_ij. With g = e^{2U}γ̃ and N = e^{−U}, D²N = −e^{−2U}NΔ̃U, and the spatial Ricci becomes R̃_ij − 2∂_iU∂_jU − Δ̃U γ̃_ij. That gives Run 66's two equations exactly. This is the standard static reduction (Stephani et al., *Exact Solutions*, ch. 18, for vacuum; the perfect-fluid uniqueness proofs, e.g. Beig & Simon 1992, use the same rescaled metric; the agent cited both from memory).

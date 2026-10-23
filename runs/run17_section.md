@@ -121,7 +121,7 @@ The density-8 misses are not explained by sub-wavelength counting noise: recompu
 - The proposal is the **pattern rule**. It is CO's statement of why light bends with γ = 1, and adopting it needs a ruling.
 - It also leaves the old "nothing falls when stepping by paying" result standing for committed matter. The stock pile-up that might have reversed it does not happen, because the medium is unchanged.
 
-![Run 17](figures/17_hops.png)
+![Run 17](../figures/17_hops.png)
 
 ---
 

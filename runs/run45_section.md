@@ -64,7 +64,7 @@ The pattern's binding b is 0.050, 0.093 and 0.171 at the three strengths. The co
   - Read across the same way, they would also fail lunar laser ranging by about 10⁴.
   - The registration expected the missing spatial half to matter only at second order. That expectation failed: it matters at first order.
 
-![Run 45](figures/45_nstar.png)
+![Run 45](../figures/45_nstar.png)
 
 **Diagnosis (post hoc, `diag45.py`; not registered).**
 

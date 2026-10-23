@@ -61,7 +61,7 @@ $$
    - G_eff ∝ (1 + g_bg)² under V, against (1 + g_bg) under E.
    - **So Δ_SEP is not additive:** a bound quantum's violation is about 6 times its host star's. This is not a defect of V.
 
-![Runs 52–54](figures/52_54.png)
+![Runs 52–54](../figures/52_54.png)
 
 **Reading.**
 1. **Rule V is the self-consistent one.** From one action it has:

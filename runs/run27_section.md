@@ -31,4 +31,4 @@ Pre-registered: `PREREG_27.md`, hashed before any calculation; `fall60_run.zip`.
 - **Closer in, the protocol fails, not the physics as far as this shows.** With a width-4 packet fit over 16 ticks, the mass spread grows with how far the packet falls in the window: 0.8 place passes, 1.4 places misses, 2 places fails badly. In box 40 the nearby face adds to it (6.1% at a 1.1-place fall).
 - **Not tested:** whether a protocol built for steep wells (a shorter window scaled to the gradient, or a trajectory compared with a ray-traced prediction) would confirm the fall at 10–14 out.
 
-![Run 27](figures/27_fall60.png)
+![Run 27](../figures/27_fall60.png)

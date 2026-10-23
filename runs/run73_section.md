@@ -42,7 +42,7 @@ The grid is w = ⅓, ½, ⅔ and 1; ε = 10⁻², 10⁻⁴ and 10⁻⁶; shells 
   - The grid's maxima underestimate it.
 - **Harder throws do not push the turn higher:** from γ₀ = 100 to 1000 it moves by at most 0.8%.
 
-![Run 73](figures/73_stiff.png)
+![Run 73](../figures/73_stiff.png)
 
 **Verdicts.**
 - **K73a: FAIL as registered; PASS on the record's definition.**

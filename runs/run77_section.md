@@ -40,7 +40,7 @@ $$
 - **Option 3's mean-field clock formula,** N = (1+ε)e^(−φ) − ε, differs from the clocks by 0.005 (reported). That is the expected effect of fluctuations: because P fluctuates, the mean P exceeds the fluctuation-free p_s(e^{z/c} − 1) by about 2 units at every plane, and the exact R(z) differs from the formula by the same 0.005.
 - **On the k = 2 rebuild,** the hop rate the cap allows falls from 1 to 0.38 to 0.17 as the field grows.
 
-![Run 77](figures/77_sheet.png)
+![Run 77](../figures/77_sheet.png)
 
 **What the check added.**
 

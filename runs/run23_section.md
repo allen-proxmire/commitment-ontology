@@ -44,4 +44,4 @@ If the theory is right, a clock's self-dip falls as about $1/p_s$ (matter become
   - **The clock check in a well:** do two clock designs agree near matter at large $p_s$? Expected design gap ≈ the self-dip difference, about 1.2% at $p_s$ = 16 and 0.2% at 64.
   - **Real clocks** (~10⁻⁶) need a design gap of $\approx(0.1\text{–}0.2)/p_s\lesssim10^{-6}$, i.e. $p_s\gtrsim2\times10^5$, and Nordtvedt then needs $P_0/p_s\gtrsim2{,}000$. That is reachable only by extrapolating the measured scaling.
 
-![Run 23](figures/23_crossover.png)
+![Run 23](../figures/23_crossover.png)

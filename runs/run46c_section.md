@@ -71,7 +71,7 @@ Fits, both of the form Δ = Δ_∞ + A·(p_s/P₀) + C·h^q:
   - by its far field, to within about 2×10⁻³, if the leading grid error is h²;
   - the body's own binding passes as registered, to within about 6×10⁻⁴.
 
-![Run 46c](figures/46c_fall.png)
+![Run 46c](../figures/46c_fall.png)
 
 **The pull.**
 - The pull miss is −0.199 to −0.201 b on the finest grid in every medium. That is −0.204 b extrapolated in the grid (q = 2), about 4% of a bound pattern's energy at this compactness.

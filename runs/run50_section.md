@@ -83,7 +83,7 @@ so the far-field mass D equals E.
   - The scan points are samples of a quasi-periodic function, not independent draws, so the standard errors are approximate.
 - **Post hoc, c₀ lies between about −0.015 and +0.012 b across fit forms (≲ 0.3% of κω), against −0.20 b with the old body model.** A residual of +0.02 b is disfavoured at about 2σ; +0.01 b is not excluded.
 
-![Runs 50 and 51](figures/50_51.png)
+![Runs 50 and 51](../figures/50_51.png)
 
 **Reading.**
 1. **With matter in exact hydrostatic balance and a scale-free medium, the engine has an energy principle, and its discrete first law holds (K50a).**

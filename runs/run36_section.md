@@ -35,7 +35,7 @@ $$
 
 **K36 fails.** Under the adopted rule the far field overshoots ħω by 13% at m = 0.3, while energy alone undershoots by 9%. Neither counts the binding once. The cancellation fails because the ball's draw falls by only 0.058 κω, against the 0.19 κω it would need.
 
-![Run 36](figures/36_pattern_energy.png)
+![Run 36](../figures/36_pattern_energy.png)
 
 **Diagnostics (post hoc, not registered; checked by an independent agent).**
 1. **The ball under-responds to outside wells.**

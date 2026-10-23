@@ -182,7 +182,7 @@ The first term is constant, so the expected power is $(\tfrac12)^2=0.25$ of GR. 
 - That is the same square-loop structure Run 13 needed to hold knots.
 - So the natural next construction is Regge-like dynamics on the random cubical complex: shear as loop mismatch, on the same substrate that holds particles.
 
-![Run 11b](figures/11b_shear.png)
+![Run 11b](../figures/11b_shear.png)
 
 ---
 

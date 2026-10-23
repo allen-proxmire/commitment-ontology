@@ -43,7 +43,7 @@ $$
 | **pooled** | **+0.238 ± 0.032%** | **+0.200 ± 0.032% (6.2σ)** | **+0.359 ± 0.093%** | **+0.361 ± 0.093% (3.9σ)** |
 | χ² (4 dof) | 2.9 | 1.6 | 7.6 | 6.0 |
 
-![Run 78](figures/78_eos.png)
+![Run 78](../figures/78_eos.png)
 
 - **K78a, design 1: NOT EXPLAINED.** The correction removes 16% of the offset; 6.2σ remains.
 - **K78a, design 2: NOT EXPLAINED.** The correction removes none of it; 3.9σ remains.

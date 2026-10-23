@@ -34,7 +34,7 @@ $$
 | Run 72's theory at the measured ambient, no place-mean term (the check) | +0.24% (3.4σ) | +0.61% (4.3σ) |
 | Run 72's theory as it stood (ambient 64) | +0.76 ± 0.07% (10.5σ) | +1.23 ± 0.14% (8.6σ) |
 
-![Run 80](figures/80_dense.png)
+![Run 80](../figures/80_dense.png)
 
 - **K80a, the ambient level: PASS** (64.5206 predicted, 64.5211 ± 0.0004 measured).
 - **K80b, the dips against the normalised theory: PASS** (0.3σ and 1.5σ).

@@ -25,7 +25,7 @@
 
 **R = 1.118 ± 0.004: H-ambient.** Ambient fluctuations of possibility carried Run 29's long tail. Without its own hole the tail is unchanged, slightly larger and slower to fall: 3.7×10⁻⁴ against 2.1×10⁻⁴ at τ = 120.
 
-![Run 37](figures/37_tail.png)
+![Run 37](../figures/37_tail.png)
 
 **Reading.**
 1. **The long tail is the medium's ambient memory.** A clock integrates presence, and presence at a place is correlated over tens of ticks in the diffusive medium. So the record leads with that correlation's shape.

@@ -34,7 +34,7 @@ CO's stars of 2.08 and 1.94 M☉ are found with Run 57's solver, and the QCD tes
 2. **A jump in c_s² at 2 n_s is not excluded by anything gravity-independent.** p, e and n stay continuous, and the paper allows even first-order transitions.
 3. **The reproduction matches.** Centre densities and radii agree with Run 60's own numbers; s = 1 from 1.1 n_s puts the 2.08 M☉ star far down a branch that tops out at 2.91 M☉, so it is large and dilute (centre 1.3 n_s, radius 15.3 km).
 
-![Run 60](figures/60_nuclear.png)
+![Run 60](../figures/60_nuclear.png)
 
 **Reading.**
 1. **CO's interior equations survive the gravity-independent test only if dense matter is at or near the causal limit just above where nuclear theory is trusted.** That is a definite, falsifiable requirement on the equation of state, not support for CO. CO needs one of two things:

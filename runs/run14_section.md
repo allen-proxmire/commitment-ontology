@@ -101,4 +101,4 @@ Clocks are then pieces of matter, sampling the shortage where they sit.
   - "Clocks are matter" becomes a statement of the ontology.
 - **Not tested here:** whether a bigger mass reaches further (expected, since the amplitude scales with the drain while the shape stays fixed); motion ("nothing falls" is a separate question, §2.2 of the map); and any density between 2 and 8.
 
-![Run 14](figures/14_vacuum_test.png)
+![Run 14](../figures/14_vacuum_test.png)

@@ -64,4 +64,4 @@ $$
 2. **The far-field first law: zero in the continuum is analytic, and the grids are consistent with it to about 1%.** That c₀ = 0 in the continuum follows from the dilation symmetry (Run 50). The four grids neither confirm nor contradict it to better than about 1% of κω: the 2σ envelope across fit forms reaches about 0.05 b (b ≈ 0.2), and the form of convergence (h² or h) is unsettled. This supersedes Run 53's "≲ 0.3% of κω". Either way it is far from the old body model's 4% (−0.20 b).
 3. **Solver housekeeping.** Future scans should record the outer iteration count and flag any point that reaches the cap.
 
-![Runs 55–56](figures/55_56.png)
+![Runs 55–56](../figures/55_56.png)

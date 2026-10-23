@@ -32,7 +32,7 @@ $$
   - The new seeds scatter like every other lattice: 1.03% per seed, against 1.00–1.43% elsewhere (the check).
 - **Design 1 shows no deviation:** Δ = −0.05 ± 0.07% on the new seeds.
 
-![Run 76](figures/76_replication.png)
+![Run 76](../figures/76_replication.png)
 
 **Verdict.**
 - **K76a is UNDECIDED.** The fresh seeds put the cell at −0.37 ± 0.22% from the baseline: about half the deviation that first drew attention, at 1.7σ.

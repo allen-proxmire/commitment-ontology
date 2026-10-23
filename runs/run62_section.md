@@ -59,7 +59,7 @@ Every 2.08 M☉ star in the table passes the QCD test; their centres are at 2.6�
 3. **Run 61's route-(b) families against the bounds** (largest p/B between 2 n_s and the 2.08 M☉ star's centre): 0.85–1.08 under B2, 0.99–1.23 under B1, 1.15–1.42 with the soft symmetry energy. Those with s = 1 overshoot B2 slightly (by up to 8%), which the capped families avoid at little cost in mass.
 4. **GR with the same capped matter** reaches 2.55–2.72 M☉ (s = 1), so the heavy-ion bound leaves GR ample room. CO's maxima are 0.80–0.83 of GR's.
 
-![Run 62](figures/62_hic.png)
+![Run 62](../figures/62_hic.png)
 
 **How stiff must the symmetry energy be? (post hoc, reported).** A one-parameter family between DLL's two forms,
 $$

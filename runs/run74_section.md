@@ -49,7 +49,7 @@ $$
      - If commitment takes at least one hop in the shell's own frame, δu ≳ τ_h/ε. For a 10 M☉ hole and a hop of about 10³ Planck lengths (the record's estimate of CO's hop, 300–1,000 Planck lengths; an assumption here), the flash is about one quantum of order 10¹¹ GeV: E/M ~ 10⁻⁴⁸.
 6. **Afterwards, model B:** the dust tail continues, carrying −1.1% (ε = 5×10⁻⁶) to −1.7% (10⁻⁴) of the total. There is no flash.
 
-![Run 74](figures/74_commit.png)
+![Run 74](../figures/74_commit.png)
 
 **Verdicts, as registered** (for the surfaces actually modelled, at a true P of about p_s and 1.3p_s).
 - **K74a PASSES:** R_c/m matches 2k/(k − 1) to 2×10⁻⁴. That formula holds only under the wrong conversion. With the correct one, R_c = 2m(k + 1)/k is matched to 10⁻⁵.

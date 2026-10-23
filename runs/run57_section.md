@@ -53,7 +53,7 @@ $$
   - GR holds J0740 with APR4 and MPA1, and SLy is within 1σ.
 - **The registered stance:** maximum mass was reported, not tested. Run 59 tests it.
 
-![Runs 57–59](figures/57_59.png)
+![Runs 57–59](../figures/57_59.png)
 
 **Reading.**
 1. **With realistic equations of state, the pulsar's coefficient is C ≈ 0.40–0.49,** and the triple requires P₀/p_s ≳ 1.7–2.1×10⁵ (red noise) or 2.7–3.3×10⁵ (the planet model). This replaces Run 55's range of 1.4–2.9×10⁵. The remaining spread is the equation of state.

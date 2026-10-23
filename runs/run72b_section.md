@@ -43,7 +43,7 @@ with errors from the seed-to-seed scatter. The theory's contrast, fixed before R
 | **new seeds alone (K72d-R)** | 0.0869 ± 0.0022 | 0.0734 ± 0.0016 | **+0.0135 ± 0.0027** | **5.0σ** | +1.4σ |
 | **all 20 seeds per sign (K72d-C)** | 0.0850 ± 0.0017 | 0.0743 ± 0.0012 | **+0.0107 ± 0.0021** | **5.1σ** | +0.5σ |
 
-![Run 72b](figures/72b_gapcontrast.png)
+![Run 72b](../figures/72b_gapcontrast.png)
 
 **Reported on all seeds: the own-dip ratios.** These are the curved/flat ratios of each design's own dip.
 - All eight rows agree with the theory within 1.7σ; seven of the eight sit below it.

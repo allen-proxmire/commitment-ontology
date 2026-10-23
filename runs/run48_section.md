@@ -81,7 +81,7 @@ $$
    - **Consistent with zero, about 100 times tighter than Run 46c, but not at the pulsar level.**
    - The pull miss goes to −0.2046 ± 0.0001 b.
 
-![Runs 48 and 49](figures/48_49.png)
+![Runs 48 and 49](../figures/48_49.png)
 
 **Reading.**
 1. **The dilation identity is exact in the engine (K48a).** So in a scale-free medium a body's fall defect, and a bound pattern's, is the grid derivative of its energy. It vanishes in the continuum, with the box growing. Numerically it is zero to 10⁻⁵–5×10⁻⁵.

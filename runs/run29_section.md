@@ -58,7 +58,7 @@ $$
   - zero within 2σ from about τ = 160
 - From τ = 20 to 120 it falls with an e-fold of 41 ticks. So the record's one-way memory is the **medium's** relaxation around a clock, about 7 holds long, not the hold alone.
 
-![Run 29](figures/29_arrow.png)
+![Run 29](../figures/29_arrow.png)
 
 **Reading.**
 

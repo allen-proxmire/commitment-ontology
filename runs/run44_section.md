@@ -53,7 +53,7 @@ The held ball's quadratic intercepts are +0.006 b (double) and +0.020 b (base).
 
 The 2nd-order value staying at 0.0388 on both grids is a cancellation. The exact-gradient S fell 5.6% between grids, as the pattern's shape changed with the lattice.
 
-![Run 44](figures/44_fine.png)
+![Run 44](../figures/44_fine.png)
 
 **Reading.**
 1. **Run 42's pass survives the finer grid.** With the body's stress drawing, the far field counts a bound pattern's ħω once to within 0.04–0.09 of its binding on the grids and stencils run. Extrapolated to an infinitely fine grid it is about −0.07 b. At base resolution with an exact gradient it would be about −0.03 b (estimated, not run).

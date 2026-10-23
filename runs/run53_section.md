@@ -47,7 +47,7 @@ The scan points sample a quasi-periodic function, so these standard errors are u
   - The check notes that the solver returns no convergence flag, so such a scan could record a non-converged state as an equilibrium. It needs a flag and a time cap.
   - The weak-field case, run on its own afterwards with the same settings (`weak53.py`), gave U_self = 0.066, b = 0.062, first law 2×10⁻¹⁰, and a far-field miss of −0.013 b. That is a single star, not surface-averaged.
 
-![Runs 52–54](figures/52_54.png)
+![Runs 52–54](../figures/52_54.png)
 
 **Reading.**
 1. **The far-field first law holds as registered.** Adding a quantum to a star in exact hydrostatic balance at neutron-star strength raises its far-field mass by its energy.

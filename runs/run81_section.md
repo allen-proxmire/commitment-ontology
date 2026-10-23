@@ -60,7 +60,7 @@ $$
 - **M1** is overdamped at every mode: no ripple ever crosses zero, and the statistic is ≥ +4.5. Its decay rates match the theory to −1.1%, −0.3%, −0.3% and +1.0% at m = 3–15, within errors of 2–4%. At m = 25, five places per wavelength, it is −2.4% (reported).
 - **Rotations.** M2 and M3 rotate 5.33 pairs per place per tick, all one way. M2s rotates 2.667 each way, balanced to within 1.5σ.
 
-![Run 81](figures/81_wave.png)
+![Run 81](../figures/81_wave.png)
 
 **Verdicts as registered.**
 - **K81a, the headline: PASS.** M2's direction-telling share falls as k^(0.99 ± 0.03) (the weighted fit gives 1.02 ± 0.03), and Q⁻¹ = 0.021 at m = 3.

@@ -85,7 +85,7 @@ Radii are areal, in km; the GR-equivalent radius in brackets is the one with the
 5. **CO's stars deform less than GR's for the same matter:** Λ_ED(1.362) = 0.80–0.82 Λ_GR on route (b) and 0.88–0.90 on route (a). A star of given mass is more compact in CO (Run 57): at 1.4 M☉ about 0.2–0.3 km smaller.
 6. **GR does not need any of these families.** With route (b)'s matter it would give 2.6–3.0 M☉ maxima and Λ(1.362) = 462–799; the c₁ = 0.17 families would fail GW170817 in GR (794–799).
 
-![Run 61](figures/61_tidal.png)
+![Run 61](../figures/61_tidal.png)
 
 **What the check added.**
 1. **The tidal equation and Λ are confirmed.** The agent derived the ℓ = 2 equation itself (δe = (e + p)δU/c_s², δp = (e + p)δU, plus 2(e + 3p)δU from e^{2U}) and confirmed λ = b/(3a) as the quantity the leading tidal term of a waveform measures.

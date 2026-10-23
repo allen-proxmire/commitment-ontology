@@ -38,4 +38,4 @@ $$
 - **Where this came from:** Runs 14–15's rules were adopted on first-order evidence. Run 10's second-order requirement was never carried into those tests. §5 now makes it a standing check.
 - **Why it is structural:** while clocks count passing possibility and possibility wanders on its own, the passing count is a linear field whatever the hop rule (§6). The fix must change what clocks read, not only how possibility wanders.
 
-![Run 20](figures/20_beta.png)
+![Run 20](../figures/20_beta.png)

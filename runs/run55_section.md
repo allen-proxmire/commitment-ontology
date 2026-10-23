@@ -87,7 +87,7 @@ rising to about 2.1×10⁵ (3.2×10⁵) if the Γ = 2 star at 12 km is included.
   - the adopted Lorentz input covered first post-Newtonian order only.
 - **So inertia = E_H needed an input,** and a ruling supplied it: the Lorentz input extended to the complete dynamics (§3). The boosted far field carries the active momentum M_far·v, and the difference from E_H·v is the Nordtvedt effect, as in Brans–Dicke-type theories.
 
-![Runs 55–56](figures/55_56.png)
+![Runs 55–56](../figures/55_56.png)
 
 **Reading.**
 1. **CO's medium, as specified, is not scale-free.** The scale p_s, brought in after Run 22 so that clocks of different design agree, makes the medium depart from scale-free as g = (p_s − b)/P ≈ p_s/P.

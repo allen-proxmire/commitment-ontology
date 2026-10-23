@@ -133,5 +133,5 @@ Positions enter only when the graph is built and when the Hopf charge is measure
 - **Quench.** Neither an instant quench nor a slow switch-on of Str left isolated knots: both freeze one extended tangle. Separate particles would need a regime this test did not find, such as a slower ramp, noise, or expansion.
 - **What this is not.** The cubical complex was built from a random Delaunay tessellation: space was supplied (as in every CO model), not grown. Coh + Str on a cubical complex is still the Faddeev–Skyrme model, so a matching spectrum is a pass, not a prediction. The CO-specific content is the substrate condition: faces that tile, with the twist charged on closed loops.
 
-![Run 13](figures/13_graph_knots.png)
+![Run 13](../figures/13_graph_knots.png)
 

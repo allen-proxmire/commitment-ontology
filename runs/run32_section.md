@@ -52,7 +52,7 @@ $$
 - **T32b (saturation): as registered.** At k = 128 the draw is 36.5, below 45.
 - **The draw saturates.** Sixteen times the commitments (8 → 128) gives 1.8× the draw. Per commitment the draw falls from 8.5 to 2.5, 0.91 and 0.29 (figure, panel b). Inside the ball P falls toward zero, to 0.12 at the lowest place, but outside it the clock rate never reaches zero.
 
-![Run 32](figures/32_horizon.png)
+![Run 32](../figures/32_horizon.png)
 
 **Reading.**
 1. **Under the adopted rules a static body never makes a horizon.** Its draw is its ticking, so a deepening well slows the very draw that digs it. This is the Tolman self-consistency of Run 30, seen at full depth, and it matches Attempt B's B-39 and Attempt C's C-O39 on a different engine.

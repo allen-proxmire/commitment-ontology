@@ -60,7 +60,7 @@ $$
   - This is consistent with a sign-dependent theory error of about 1%, the same size as the theory's accuracy on the flat control (K72a). It is suggestive, not significant.
 - **Charge is conserved exactly** in every run.
 
-![Run 72](figures/72_equalplace.png)
+![Run 72](../figures/72_equalplace.png)
 
 **Verdicts, as registered.**
 - **K72a PASSES:** the flat control matches the theory within 0.3–1.1%, inside the registered max(3σ, 3%).

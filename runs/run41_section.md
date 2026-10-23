@@ -37,7 +37,7 @@ $$
 
 The eikonal approximation's own error at a = 0.68 is larger than the registered 'marginal' band assumed: for Kerr's (2,2) mode it is +5.0% in frequency and −6.5% in damping time, against fitted values of Mω = 0.5267 and τ = 12.17M. Comparing eikonal with eikonal cancels much of it, and no verdict changes.
 
-![Run 41](figures/41_rotating.png)
+![Run 41](../figures/41_rotating.png)
 
 **Reading.**
 1. **Under the adopted rules, in the scalar eikonal approximation, at the remnant spin LVK infers under GR, CO's spinning remnant does not ring like GW250114's.** Two independent signs:

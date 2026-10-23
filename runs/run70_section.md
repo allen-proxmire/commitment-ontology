@@ -46,7 +46,7 @@ On the flat lattice it gives own-dips of 0.0672/0.0332 (high) and 0.0424/0.0205 
 - Charge is conserved exactly in every run.
 - A single amplitude fitted to all eight rows, scaling theory's predicted excesses, is A = 0.94 ± 0.15. That is 6.3σ from zero, with χ² = 3.9 for the theory against 43.3 for no effect, over 8 degrees of freedom (the check, with the shared flat pool's covariance included).
 
-![Run 70](figures/70_curved.png)
+![Run 70](../figures/70_curved.png)
 
 **Verdicts, as registered.**
 - **K70a PASSES:** with λ = 0 the new hop rule reproduces Run 24's own-dips within 1σ (0.0671/0.0340 high, 0.0412/0.0208 low).

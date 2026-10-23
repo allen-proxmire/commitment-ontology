@@ -54,7 +54,7 @@ Inside it, the area grows again toward the surface.
 - **K67c PASSES:** max ||R_ε| − |R_GR|| = 1.2×10⁻⁵ at ε = 5×10⁻⁶ (threshold 10⁻²); flux check 3×10⁻¹⁰.
 - **K67d PASSES:** the shadow shift is 0.998 of 0.4641ε at ε = 10⁻³ (0.9998 at 10⁻⁴).
 
-![Runs 66–67](figures/66_67.png)
+![Runs 66–67](../figures/66_67.png)
 
 **What the check added.**
 1. **Confirmed with its own code:** the geometry; the boost-defect formula (for g_tt g_rr = −1, R_t̂θ̂t̂θ̂ + R_r̂θ̂r̂θ̂ = −N²R″/R, zero for Schwarzschild); the tide's growth as −2/(τ₀ − τ)², independent of L; the wave potential, with V → 0 in the horn, so the horn absorbs. Its numbers: shadow within 8.5×10⁻⁷ of the first-order form at ε = 10⁻³; the throat; infall times 5.5974, 5.5951 and 5.5949 M_K at ε = 10⁻³, 10⁻⁴ and 5×10⁻⁶; L/(4mε) = 0.998; boost-defect ratios 0.9976 and 0.9953 at ε = 10⁻³ and 10⁻⁴; the exact medium's 5.39×10⁻⁵ at p_s = 64, P∞/p_s = 10³.

@@ -44,7 +44,7 @@ GR, and every planetary and pulsar test, needs the field to follow its body to $
 | | fraction of the well formed at r = 10, 1,000 ticks after switch-on | **0.036** | −0.029 | 1 (after 10 ticks) | **pass** |
 | reported | draw, ball moving | **9.27** per tick (M1), **8.63** (M2) | — | — | static: 8.54 (Run 26), 8.49 (S, end) |
 
-![Run 31](figures/31_moving.png)
+![Run 31](../figures/31_moving.png)
 
 **Reading.**
 1. **The well is carried by diffusion, as the mean equation says (B31).**

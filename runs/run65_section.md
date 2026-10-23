@@ -44,7 +44,7 @@ $$
   - In vacuum the option-3 system gives ψ = 1 + M/2r and N = (1 − M/2r)/(1 + M/2r): Schwarzschild in isotropic coordinates. The clock rate reaches zero at r = M/2, a horizon where possibility runs out.
   - Every option-3 star's exterior matches it to 4.5×10⁻⁹.
 
-![Run 65](figures/65_space.png)
+![Run 65](../figures/65_space.png)
 
 **Reported.**
 1. **The pulsar coefficient under option 3.**

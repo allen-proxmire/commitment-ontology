@@ -301,7 +301,7 @@ $$
 
 The static part of Σ between two clusters changes as $\beta M^2/(8\pi\gamma d)$. That is Newton's potential energy, matched to 1–7% here and to 1% in later runs.
 
-![Run 1](figures/01_static_falloff.png)
+![Run 1](../figures/01_static_falloff.png)
 
 ---
 
@@ -320,7 +320,7 @@ The locked state rotates at $\Omega=\overline{c}$ and satisfies $K\,L\theta = \O
 - **Coh repels:** two lagging wells cost more phase strain when close.
 - Coh's separation dependence grows with box size: $\text{Coh}(6)-\text{Coh}(18) = -3.3,\ -7.4,\ -12.2\times10^{-3}$ for $N = 33, 49, 65$.
 
-![Run 2](figures/02_global_lock.png)
+![Run 2](../figures/02_global_lock.png)
 
 ---
 
@@ -351,7 +351,7 @@ $$
 | Separation dependence (unlocked) | no consistent sign across boxes; drift ±300 → ±10,000 links |
 | Phase vortices | appear for $K/A \le 0.1$ |
 
-![Run 3](figures/03_unlocked.png)
+![Run 3](../figures/03_unlocked.png)
 
 ---
 
@@ -397,7 +397,7 @@ $$
 - If $Q=\kappa M$ (rate ∝ mass), the net 1/d coefficient is $M^2\big[\beta/(8\pi\gamma)-\alpha\kappa^2/(4\pi K^2)\big]$. Coh only weakens Newton's constant.
 - Fast ticks (unlocked from the vacuum) leak a steady flux $q\approx1.45$ and give a box-converged, repulsive, Coulomb-like tail.
 
-![Run 4](figures/04_connection.png)
+![Run 4](../figures/04_connection.png)
 
 ---
 
@@ -445,7 +445,7 @@ Near zone ($kd\ll1$): $P/P_N = 1+\tfrac12\cos\Delta$.
 - **No pulsation:** 1.01–1.05 × Newton (finite-size effects from the ball).
 - **Sign rule:** matter *gains* from the field, as Str does, so like (in-phase) sources attract. This is the Bjerknes pulsating-sphere sign rule, the opposite of electrostatics.
 
-![Run 5](figures/05_waves.png)
+![Run 5](../figures/05_waves.png)
 
 ---
 
@@ -489,7 +489,7 @@ Identical pairs lock **in phase when $\cos kd>0$**, anti-phase when $\cos kd<0$.
 
   The shared rhythm runs 5% slow inside the group's combined well.
 
-![Run 6](figures/06_free_rhythms.png)
+![Run 6](../figures/06_free_rhythms.png)
 
 ---
 
@@ -531,7 +531,7 @@ $$
 
   So it comes from the timing drive bending each rhythm, not from the shared-rhythm idea.
 
-![Run 7](figures/07_equivalence.png)
+![Run 7](../figures/07_equivalence.png)
 
 ---
 
@@ -572,7 +572,7 @@ The body's own deficit is included. Everything starts in step. Window: 45,000 ti
 
 **Sync can only hold between things at essentially the same depth.**
 
-![Run 8](figures/08_redshift.png)
+![Run 8](../figures/08_redshift.png)
 
 ---
 
@@ -641,7 +641,7 @@ $$
 
 **Open at second order.** Free capacity gives $n=(1-\Phi)^{-2}=1+2\Phi+3\Phi^2$. In isotropic coordinates GR gives $n=(1+\Phi/2)^3/(1-\Phi/2)=1+2\Phi+\tfrac74\Phi^2$. Whether these agree depends on how $\Phi$ itself becomes nonlinear in strong fields, which is test 2 (multiplicative budget). At first order the stretched relations change none of Runs 1–8, since they enter the field equation only at order $\Phi^2$.
 
-![Run 9](figures/09_light_bending.png)
+![Run 9](../figures/09_light_bending.png)
 
 ---
 
@@ -720,7 +720,7 @@ The additive case is exactly ½ by construction, so its offset measures the shar
 - Its metric is $ds^2=-e^{-2U}dt^2+e^{2U}d\mathbf x^2$, the "exponential metric". It agrees with GR at first post-Newtonian order. It differs at second order: at $U=10^{-2}$ the precession coefficient is 1.040, against GR's 1.037. That difference is far below what Mercury can see.
 - It has **no horizon**, since $N$ never reaches zero. Strong-field gravity (black-hole images, gravitational-wave ringdowns, compact binaries) is therefore where this version of the ontology will be tested next.
 
-![Run 10](figures/10_perihelion.png)
+![Run 10](../figures/10_perihelion.png)
 
 ---
 
@@ -789,7 +789,7 @@ $$
   - Relations that can be sheared (strained differently in different directions), with that shear propagating at $c$ as its own wave, sourced by matter's flow.
   - The cadence / isotropic-stretch part bound to matter rather than radiating independently. Otherwise the total would be $\tfrac{32}{5}+\tfrac{16}{15}$, too much.
 
-![Run 11](figures/11_binary_radiation.png)
+![Run 11](../figures/11_binary_radiation.png)
 
 ---
 
@@ -977,7 +977,7 @@ The first term is constant, so the expected power is $(\tfrac12)^2=0.25$ of GR. 
 - That is the same square-loop structure Run 13 needed to hold knots.
 - So the natural next construction is Regge-like dynamics on the random cubical complex: shear as loop mismatch, on the same substrate that holds particles.
 
-![Run 11b](figures/11b_shear.png)
+![Run 11b](../figures/11b_shear.png)
 
 ---
 
@@ -1103,7 +1103,7 @@ A lump is a connected region where the director points more than 60° away from 
 - **Quench.** An instant quench gives no isolated particles: nothing survives if cutting is allowed, and a jammed glass forms if it is not. Whether a slow switch-on of the uncuttable rule leaves isolated knots is tested in Run 13.
 - **Grid dependence.** These runs use a cubic grid only to discretise a continuum field. An earlier forward-difference version of Str was evaded by single-site flips that cut the knot (link dot product down to −0.98). The symmetric four-corner form above is not. Run 13 repeats the test on a relational graph with no grid.
 
-![Run 12](figures/12_knots.png)
+![Run 12](../figures/12_knots.png)
 
 ---
 
@@ -1242,7 +1242,7 @@ Positions enter only when the graph is built and when the Hopf charge is measure
 - **Quench.** Neither an instant quench nor a slow switch-on of Str left isolated knots: both freeze one extended tangle. Separate particles would need a regime this test did not find, such as a slower ramp, noise, or expansion.
 - **What this is not.** The cubical complex was built from a random Delaunay tessellation: space was supplied (as in every CO model), not grown. Coh + Str on a cubical complex is still the Faddeev–Skyrme model, so a matching spectrum is a pass, not a prediction. The CO-specific content is the substrate condition: faces that tile, with the twist charged on closed loops.
 
-![Run 13](figures/13_graph_knots.png)
+![Run 13](../figures/13_graph_knots.png)
 
 ---
 
@@ -1349,7 +1349,7 @@ Clocks are then pieces of matter, sampling the shortage where they sit.
   - "Clocks are matter" becomes a statement of the ontology.
 - **Not tested here:** whether a bigger mass reaches further (expected, since the amplitude scales with the drain while the shape stays fixed); motion ("nothing falls" is a separate question, §2.2 of the map); and any density between 2 and 8.
 
-![Run 14](figures/14_vacuum_test.png)
+![Run 14](../figures/14_vacuum_test.png)
 
 ---
 
@@ -1538,7 +1538,7 @@ That is the share of each cycle not spent waiting to pay.
 
 **8. Not addressed: falling.** CO's engine still has nothing that falls (EVENT_LAYER.md: free patterns step *away* from matter). A clock rule that reads the shortage correctly is the prerequisite for testing falling with inertia, since the max-count path depends on the clock rates along it.
 
-![Run 15](figures/15_clock_rule.png)
+![Run 15](../figures/15_clock_rule.png)
 
 ---
 
@@ -1750,7 +1750,7 @@ Where the clock rate is uniform, a pattern keeps its velocity to within 0.07%: t
 - **Patterns here are much heavier per tick than real particles,** so lattice corrections are visible (the time-step factor, about 1%).
 - **Orbits are not tested:** a pattern in this box spreads before it could complete one.
 
-![Run 16](figures/16_falling.png)
+![Run 16](../figures/16_falling.png)
 
 ---
 
@@ -1877,7 +1877,7 @@ The density-8 misses are not explained by sub-wavelength counting noise: recompu
 - The proposal is the **pattern rule**. It is CO's statement of why light bends with γ = 1, and adopting it needs a ruling.
 - It also leaves the old "nothing falls when stepping by paying" result standing for committed matter. The stock pile-up that might have reversed it does not happen, because the medium is unchanged.
 
-![Run 17](figures/17_hops.png)
+![Run 17](../figures/17_hops.png)
 
 ---
 
@@ -2118,7 +2118,7 @@ The two failure conditions written in advance:
 - the hop half (the pattern rule) for knots; at first order it does not change the fall
 - the Nordtvedt test, which needs a knot's own gravity and is not in this model
 
-![Run 18](figures/18_matter.png)
+![Run 18](../figures/18_matter.png)
 
 ---
 
@@ -2228,7 +2228,7 @@ $$
 
 **5. Flag, unchanged.** Inertia = energy here is Lorentz invariance in lattice form. And the knot still moves by a field equation, not by the engine's commitments.
 
-![Run 18b](figures/18b_finegrid.png)
+![Run 18b](../figures/18b_finegrid.png)
 
 ---
 
@@ -2354,7 +2354,7 @@ CO's ball at (30, 30, 30) and the Q1 arm-E knot 9.5 places away, seeds 1 and 2, 
 - The β inference identifies the clock rate with the metric's lapse and assumes geodesic orbits.
 - These bodies are strong-field; the β result does not depend on that.
 
-![Run 19](figures/19_ownwell.png)
+![Run 19](../figures/19_ownwell.png)
 
 ---
 
@@ -2398,7 +2398,7 @@ $$
 - **Where this came from:** Runs 14–15's rules were adopted on first-order evidence. Run 10's second-order requirement was never carried into those tests. §5 now makes it a standing check.
 - **Why it is structural:** while clocks count passing possibility and possibility wanders on its own, the passing count is a linear field whatever the hop rule (§6). The fix must change what clocks read, not only how possibility wanders.
 
-![Run 20](figures/20_beta.png)
+![Run 20](../figures/20_beta.png)
 
 ---
 
@@ -2610,7 +2610,7 @@ The designs disagree by 6% (density 8) and 4% (density 32), against the register
   - The demonstration that the old flow clock could never reach β = 1.
   - A cheap, precise way to measure β with no matter at all.
 
-![Run 22](figures/22_candidateA.png)
+![Run 22](../figures/22_candidateA.png)
 
 ---
 
@@ -2660,7 +2660,7 @@ If the theory is right, a clock's self-dip falls as about $1/p_s$ (matter become
   - **The clock check in a well:** do two clock designs agree near matter at large $p_s$? Expected design gap ≈ the self-dip difference, about 1.2% at $p_s$ = 16 and 0.2% at 64.
   - **Real clocks** (~10⁻⁶) need a design gap of $\approx(0.1\text{–}0.2)/p_s\lesssim10^{-6}$, i.e. $p_s\gtrsim2\times10^5$, and Nordtvedt then needs $P_0/p_s\gtrsim2{,}000$. That is reachable only by extrapolating the measured scaling.
 
-![Run 23](figures/23_crossover.png)
+![Run 23](../figures/23_crossover.png)
 
 ---
 
@@ -2712,7 +2712,7 @@ $$
   - Nordtvedt directly
   - whether CO accepts a place holding ~10⁹ units with a crossover at ~10⁵
 
-![Run 24](figures/24_clocks.png)
+![Run 24](../figures/24_clocks.png)
 
 ---
 
@@ -2780,7 +2780,7 @@ $$
   - ζ₁ (motion) and the preferred-frame terms α₁, α₂ stay open. ξ is static, and zero in the engine (no Φ_W term).
 - **The claim "Nordtvedt is met" is withdrawn as stated.** What Run 25 shows is that the β contribution to η_N is within lunar ranging's bound at $P_0/p_s$ = 4096.
 
-![Run 25](figures/25_closing.png)
+![Run 25](../figures/25_closing.png)
 
 ---
 
@@ -2851,7 +2851,7 @@ $$
 - **The within-seed errors were too small.** The two seeds differ by 0.37, about four times the error each seed gave itself (half-to-half and bin bootstrap). Those estimates miss the slow, run-level fluctuations of the wells, so the honest error on f is the seed-to-seed spread.
 - **Pooled: f = 1.12 ± 0.19.** Adding (f = 0) is excluded at about 6σ, and multiplying (f = 1) agrees within 1σ. A third seed or a longer read would tighten this.
 
-![Run 26](figures/26_twowell.png)
+![Run 26](../figures/26_twowell.png)
 
 ---
 
@@ -2888,7 +2888,7 @@ Pre-registered: `PREREG_27.md`, hashed before any calculation; `fall60_run.zip`.
 - **Closer in, the protocol fails, not the physics as far as this shows.** With a width-4 packet fit over 16 ticks, the mass spread grows with how far the packet falls in the window: 0.8 place passes, 1.4 places misses, 2 places fails badly. In box 40 the nearby face adds to it (6.1% at a 1.1-place fall).
 - **Not tested:** whether a protocol built for steep wells (a shorter window scaled to the gradient, or a trajectory compared with a ray-traced prediction) would confirm the fall at 10–14 out.
 
-![Run 27](figures/27_fall60.png)
+![Run 27](../figures/27_fall60.png)
 
 ---
 
@@ -2956,7 +2956,7 @@ This is a calculation, not a simulation. Pre-registered: `PREREG_28.md`, hashed 
   3. **Mass absorption.** LVK's test fits the whole signal. CO also shifts the inspiral (its ISCO frequency is 6.9% lower), so part of a common shift could be absorbed into the inferred masses.
 - **What carries the strong field.** β and γ fix the metric only to first post-Newtonian order. Beyond that, the spatial part is set by the pattern rule's exact form ($c=N^2$, so $g_{ij}=N^{-2}\delta_{ij}$ at all orders), which was chosen to give γ = 1 at first order. The ringdown and the shadow test that choice. A different nonlinear form with the same β and γ would move both.
 
-![Run 28](figures/28_strong.png)
+![Run 28](../figures/28_strong.png)
 
 ---
 
@@ -3020,7 +3020,7 @@ $$
   - zero within 2σ from about τ = 160
 - From τ = 20 to 120 it falls with an e-fold of 41 ticks. So the record's one-way memory is the **medium's** relaxation around a clock, about 7 holds long, not the hold alone.
 
-![Run 29](figures/29_arrow.png)
+![Run 29](../figures/29_arrow.png)
 
 **Reading.**
 
@@ -3219,7 +3219,7 @@ GR, and every planetary and pulsar test, needs the field to follow its body to $
 | | fraction of the well formed at r = 10, 1,000 ticks after switch-on | **0.036** | −0.029 | 1 (after 10 ticks) | **pass** |
 | reported | draw, ball moving | **9.27** per tick (M1), **8.63** (M2) | — | — | static: 8.54 (Run 26), 8.49 (S, end) |
 
-![Run 31](figures/31_moving.png)
+![Run 31](../figures/31_moving.png)
 
 **Reading.**
 1. **The well is carried by diffusion, as the mean equation says (B31).**
@@ -3319,7 +3319,7 @@ $$
 - **T32b (saturation): as registered.** At k = 128 the draw is 36.5, below 45.
 - **The draw saturates.** Sixteen times the commitments (8 → 128) gives 1.8× the draw. Per commitment the draw falls from 8.5 to 2.5, 0.91 and 0.29 (figure, panel b). Inside the ball P falls toward zero, to 0.12 at the lowest place, but outside it the clock rate never reaches zero.
 
-![Run 32](figures/32_horizon.png)
+![Run 32](../figures/32_horizon.png)
 
 **Reading.**
 1. **Under the adopted rules a static body never makes a horizon.** Its draw is its ticking, so a deepening well slows the very draw that digs it. This is the Tolman self-consistency of Run 30, seen at full depth, and it matches Attempt B's B-39 and Attempt C's C-O39 on a different engine.
@@ -3560,7 +3560,7 @@ $$
 - The model behind D35 is an integrate-and-fire clock fed an independent presence each tick. It shares no code with the engine's clock step.
 - C35a's 4.1021 against 4.1044 is about 4σ. It is the expected bias of the approximate conditioning on the total, about −0.06%, well inside the criterion.
 
-![Run 35](figures/35_adopted.png)
+![Run 35](../figures/35_adopted.png)
 
 **Reading.**
 1. **The build does what the rulings say.**
@@ -3645,7 +3645,7 @@ $$
 
 **K36 fails.** Under the adopted rule the far field overshoots ħω by 13% at m = 0.3, while energy alone undershoots by 9%. Neither counts the binding once. The cancellation fails because the ball's draw falls by only 0.058 κω, against the 0.19 κω it would need.
 
-![Run 36](figures/36_pattern_energy.png)
+![Run 36](../figures/36_pattern_energy.png)
 
 **Diagnostics (post hoc, not registered; checked by an independent agent).**
 1. **The ball under-responds to outside wells.**
@@ -3717,7 +3717,7 @@ $$
 
 **R = 1.118 ± 0.004: H-ambient.** Ambient fluctuations of possibility carried Run 29's long tail. Without its own hole the tail is unchanged, slightly larger and slower to fall: 3.7×10⁻⁴ against 2.1×10⁻⁴ at τ = 120.
 
-![Run 37](figures/37_tail.png)
+![Run 37](../figures/37_tail.png)
 
 **Reading.**
 1. **The long tail is the medium's ambient memory.** A clock integrates presence, and presence at a place is correlated over tens of ticks in the diffusive medium. So the record leads with that correlation's shape.
@@ -3799,7 +3799,7 @@ $$
 
 The frequency offset's slope at a = 0 is d(δf)/da = +0.110: CO's frequency rises 0.184 per unit spin against Kerr's 0.148.
 
-![Run 39](figures/39_spin.png)
+![Run 39](../figures/39_spin.png)
 
 **Verdict (as registered): undecided.** The registered comparison is undefined at a = 0.68. Both first-order exteriors fail well before the remnant's spin:
 - Kerr's truncation loses its prograde light ring above a ≈ 0.58.
@@ -3873,7 +3873,7 @@ This is 1 when s = −1, and 1/(1 + U_self) when the body is held. The independe
 | 40c | held | xy, m = 2.0 | 0.52% | 1.00032 (+0.06b) | 0.99002 (−1.90b) |
 | 40c | adjusting, self-similar / held | xy, m = 2.5 | 0.81% | 0.99929 (−0.09b) / 1.00018 (+0.02b) | 0.98381 (−2.00b) / 0.98468 (−1.89b) |
 
-![Run 40](figures/40_adjust.png)
+![Run 40](../figures/40_adjust.png)
 
 **Reading** (checked by an independent agent, whose corrections are included).
 1. **Run 40's pass did not survive.**
@@ -3945,7 +3945,7 @@ $$
 
 The eikonal approximation's own error at a = 0.68 is larger than the registered 'marginal' band assumed: for Kerr's (2,2) mode it is +5.0% in frequency and −6.5% in damping time, against fitted values of Mω = 0.5267 and τ = 12.17M. Comparing eikonal with eikonal cancels much of it, and no verdict changes.
 
-![Run 41](figures/41_rotating.png)
+![Run 41](../figures/41_rotating.png)
 
 **Reading.**
 1. **Under the adopted rules, in the scalar eikonal approximation, at the remnant spin LVK infers under GR, CO's spinning remnant does not ring like GW250114's.** Two independent signs:
@@ -4037,7 +4037,7 @@ At m = 5, both with the stress drawing:
 - **Held ball:** 0.99906 (−0.019 b).
 - **Energy-only:** 0.97642 (−0.48 b).
 
-![Run 42](figures/42_inside.png)
+![Run 42](../figures/42_inside.png)
 
 **Checks** (independent agent).
 - **Resolution.** The ball is only 3 cells in radius, so S depends on how it is computed.
@@ -4126,7 +4126,7 @@ How to read the table:
 - For a surface far closer to the horizon than CO's, that bound needs absorption κ ≪ 10⁻¹⁴. Absorption of 10⁻⁵ weakens it by about nine orders of magnitude, and near-total absorption (1 − κ ≈ 10⁻²) removes it.
 - For a core at CO's natural scale (surface compactness μ = 1 − 2M/R ≈ α_s² ≈ 2×10⁻⁹), their eq. 18 needs only κ ≳ (27/8)μ/10⁻² ≈ 6×10⁻⁷.
 
-![Run 43](figures/43_core.png)
+![Run 43](../figures/43_core.png)
 
 **Reading** (corrected by the check: the registration said "viable only if the core is a strong absorber", which overstates it).
 1. **Option A is viable if CO's core absorbs a few percent of what reaches it.**
@@ -4223,7 +4223,7 @@ The held ball's quadratic intercepts are +0.006 b (double) and +0.020 b (base).
 
 The 2nd-order value staying at 0.0388 on both grids is a cancellation. The exact-gradient S fell 5.6% between grids, as the pattern's shape changed with the lattice.
 
-![Run 44](figures/44_fine.png)
+![Run 44](../figures/44_fine.png)
 
 **Reading.**
 1. **Run 42's pass survives the finer grid.** With the body's stress drawing, the far field counts a bound pattern's ħω once to within 0.04–0.09 of its binding on the grids and stencils run. Extrapolated to an infinitely fine grid it is about −0.07 b. At base resolution with an exact gradient it would be about −0.03 b (estimated, not run).
@@ -4382,7 +4382,7 @@ The pattern's binding b is 0.050, 0.093 and 0.171 at the three strengths. The co
   - Read across the same way, they would also fail lunar laser ranging by about 10⁴.
   - The registration expected the missing spatial half to matter only at second order. That expectation failed: it matters at first order.
 
-![Run 45](figures/45_nstar.png)
+![Run 45](../figures/45_nstar.png)
 
 **Diagnosis (post hoc, `diag45.py`; not registered).**
 
@@ -4487,7 +4487,7 @@ The weak-field expansion was stated before running: at first order the total dra
 | 1024 | base / double / triple | +2.9 / +6.0 / +3.1 ×10⁻³ | +10.4 / +2.4 / +1.1 ×10⁻³ | +1.9 / −0.13 / −0.09 ×10⁻³ | −0.178 / −0.196 / −0.201 b |
 | Run 45, coded equation, 64 double | | −0.170 | −0.160 | +1.9×10⁻³ | −0.285 b |
 
-![Run 46](figures/46_fullrule.png)
+![Run 46](../figures/46_fullrule.png)
 
 **Post hoc (not registered; `posthoc46.py`).**
 - **The pattern's fall by ω converges cleanly, though its limit depends on the fit's exponent.** With q = 2 the same fit describes all nine points to rms 9×10⁻⁵ and gives Δ_∞ = −4.4×10⁻⁴. With q = 1 it is five times worse (rms 4.8×10⁻⁴) and gives −4.5×10⁻³. The successive differences fall by 6.3 in every medium (h²: 5.4; h: 3.0). With q free the best fit is q = 2.25:
@@ -4729,7 +4729,7 @@ Fits, both of the form Δ = Δ_∞ + A·(p_s/P₀) + C·h^q:
   - by its far field, to within about 2×10⁻³, if the leading grid error is h²;
   - the body's own binding passes as registered, to within about 6×10⁻⁴.
 
-![Run 46c](figures/46c_fall.png)
+![Run 46c](../figures/46c_fall.png)
 
 **The pull.**
 - The pull miss is −0.199 to −0.201 b on the finest grid in every medium. That is −0.204 b extrapolated in the grid (q = 2), about 4% of a bound pattern's energy at this compactness.
@@ -4865,7 +4865,7 @@ $$
    - **Consistent with zero, about 100 times tighter than Run 46c, but not at the pulsar level.**
    - The pull miss goes to −0.2046 ± 0.0001 b.
 
-![Runs 48 and 49](figures/48_49.png)
+![Runs 48 and 49](../figures/48_49.png)
 
 **Reading.**
 1. **The dilation identity is exact in the engine (K48a).** So in a scale-free medium a body's fall defect, and a bound pattern's, is the grid derivative of its energy. It vanishes in the continuum, with the box growing. Numerically it is zero to 10⁻⁵–5×10⁻⁵.
@@ -5048,7 +5048,7 @@ so the far-field mass D equals E.
   - The scan points are samples of a quasi-periodic function, not independent draws, so the standard errors are approximate.
 - **Post hoc, c₀ lies between about −0.015 and +0.012 b across fit forms (≲ 0.3% of κω), against −0.20 b with the old body model.** A residual of +0.02 b is disfavoured at about 2σ; +0.01 b is not excluded.
 
-![Runs 50 and 51](figures/50_51.png)
+![Runs 50 and 51](../figures/50_51.png)
 
 **Reading.**
 1. **With matter in exact hydrostatic balance and a scale-free medium, the engine has an energy principle, and its discrete first law holds (K50a).**
@@ -5176,7 +5176,7 @@ $$
    - G_eff ∝ (1 + g_bg)² under V, against (1 + g_bg) under E.
    - **So Δ_SEP is not additive:** a bound quantum's violation is about 6 times its host star's. This is not a defect of V.
 
-![Runs 52–54](figures/52_54.png)
+![Runs 52–54](../figures/52_54.png)
 
 **Reading.**
 1. **Rule V is the self-consistent one.** From one action it has:
@@ -5242,7 +5242,7 @@ The scan points sample a quasi-periodic function, so these standard errors are u
   - The check notes that the solver returns no convergence flag, so such a scan could record a non-converged state as an equilibrium. It needs a flag and a time cap.
   - The weak-field case, run on its own afterwards with the same settings (`weak53.py`), gave U_self = 0.066, b = 0.062, first law 2×10⁻¹⁰, and a far-field miss of −0.013 b. That is a single star, not surface-averaged.
 
-![Runs 52–54](figures/52_54.png)
+![Runs 52–54](../figures/52_54.png)
 
 **Reading.**
 1. **The far-field first law holds as registered.** Adding a quantum to a star in exact hydrostatic balance at neutron-star strength raises its far-field mass by its energy.
@@ -5393,7 +5393,7 @@ rising to about 2.1×10⁵ (3.2×10⁵) if the Γ = 2 star at 12 km is included.
   - the adopted Lorentz input covered first post-Newtonian order only.
 - **So inertia = E_H needed an input,** and a ruling supplied it: the Lorentz input extended to the complete dynamics (§3). The boosted far field carries the active momentum M_far·v, and the difference from E_H·v is the Nordtvedt effect, as in Brans–Dicke-type theories.
 
-![Runs 55–56](figures/55_56.png)
+![Runs 55–56](../figures/55_56.png)
 
 **Reading.**
 1. **CO's medium, as specified, is not scale-free.** The scale p_s, brought in after Run 22 so that clocks of different design agree, makes the medium depart from scale-free as g = (p_s − b)/P ≈ p_s/P.
@@ -5471,7 +5471,7 @@ $$
 2. **The far-field first law: zero in the continuum is analytic, and the grids are consistent with it to about 1%.** That c₀ = 0 in the continuum follows from the dilation symmetry (Run 50). The four grids neither confirm nor contradict it to better than about 1% of κω: the 2σ envelope across fit forms reaches about 0.05 b (b ≈ 0.2), and the form of convergence (h² or h) is unsettled. This supersedes Run 53's "≲ 0.3% of κω". Either way it is far from the old body model's 4% (−0.20 b).
 3. **Solver housekeeping.** Future scans should record the outer iteration count and flag any point that reaches the cap.
 
-![Runs 55–56](figures/55_56.png)
+![Runs 55–56](../figures/55_56.png)
 
 ### Note D: what fixes P₀/p_s? The earlier clock and medium papers (a reading)
 
@@ -5606,7 +5606,7 @@ $$
   - GR holds J0740 with APR4 and MPA1, and SLy is within 1σ.
 - **The registered stance:** maximum mass was reported, not tested. Run 59 tests it.
 
-![Runs 57–59](figures/57_59.png)
+![Runs 57–59](../figures/57_59.png)
 
 **Reading.**
 1. **With realistic equations of state, the pulsar's coefficient is C ≈ 0.40–0.49,** and the triple requires P₀/p_s ≳ 1.7–2.1×10⁵ (red noise) or 2.7–3.3×10⁵ (the planet model). This replaces Run 55's range of 1.4–2.9×10⁵. The remaining spread is the equation of state.
@@ -5745,7 +5745,7 @@ CO's stars of 2.08 and 1.94 M☉ are found with Run 57's solver, and the QCD tes
 2. **A jump in c_s² at 2 n_s is not excluded by anything gravity-independent.** p, e and n stay continuous, and the paper allows even first-order transitions.
 3. **The reproduction matches.** Centre densities and radii agree with Run 60's own numbers; s = 1 from 1.1 n_s puts the 2.08 M☉ star far down a branch that tops out at 2.91 M☉, so it is large and dilute (centre 1.3 n_s, radius 15.3 km).
 
-![Run 60](figures/60_nuclear.png)
+![Run 60](../figures/60_nuclear.png)
 
 **Reading.**
 1. **CO's interior equations survive the gravity-independent test only if dense matter is at or near the causal limit just above where nuclear theory is trusted.** That is a definite, falsifiable requirement on the equation of state, not support for CO. CO needs one of two things:
@@ -5846,7 +5846,7 @@ Radii are areal, in km; the GR-equivalent radius in brackets is the one with the
 5. **CO's stars deform less than GR's for the same matter:** Λ_ED(1.362) = 0.80–0.82 Λ_GR on route (b) and 0.88–0.90 on route (a). A star of given mass is more compact in CO (Run 57): at 1.4 M☉ about 0.2–0.3 km smaller.
 6. **GR does not need any of these families.** With route (b)'s matter it would give 2.6–3.0 M☉ maxima and Λ(1.362) = 462–799; the c₁ = 0.17 families would fail GW170817 in GR (794–799).
 
-![Run 61](figures/61_tidal.png)
+![Run 61](../figures/61_tidal.png)
 
 **What the check added.**
 1. **The tidal equation and Λ are confirmed.** The agent derived the ℓ = 2 equation itself (δe = (e + p)δU/c_s², δp = (e + p)δU, plus 2(e + 3p)δU from e^{2U}) and confirmed λ = b/(3a) as the quantity the leading tidal term of a waveform measures.
@@ -5930,7 +5930,7 @@ Every 2.08 M☉ star in the table passes the QCD test; their centres are at 2.6�
 3. **Run 61's route-(b) families against the bounds** (largest p/B between 2 n_s and the 2.08 M☉ star's centre): 0.85–1.08 under B2, 0.99–1.23 under B1, 1.15–1.42 with the soft symmetry energy. Those with s = 1 overshoot B2 slightly (by up to 8%), which the capped families avoid at little cost in mass.
 4. **GR with the same capped matter** reaches 2.55–2.72 M☉ (s = 1), so the heavy-ion bound leaves GR ample room. CO's maxima are 0.80–0.83 of GR's.
 
-![Run 62](figures/62_hic.png)
+![Run 62](../figures/62_hic.png)
 
 **How stiff must the symmetry energy be? (post hoc, reported).** A one-parameter family between DLL's two forms,
 $$
@@ -6172,7 +6172,7 @@ $$
   - In vacuum the option-3 system gives ψ = 1 + M/2r and N = (1 − M/2r)/(1 + M/2r): Schwarzschild in isotropic coordinates. The clock rate reaches zero at r = M/2, a horizon where possibility runs out.
   - Every option-3 star's exterior matches it to 4.5×10⁻⁹.
 
-![Run 65](figures/65_space.png)
+![Run 65](../figures/65_space.png)
 
 **Reported.**
 1. **The pulsar coefficient under option 3.**
@@ -6295,7 +6295,7 @@ $$
    the same as under option 1, because γ̃ departs from flat only at O(M²/r²). With the exact medium's g_bg = (p_s − b)/P₀ (Run 55), this gives −0.94×10⁻⁴ at p_s = 16, P₀/p_s = 4096, against Run 25's measured −1.06 ± 0.06×10⁻⁴ (its own theory: −0.98). At the bound above, |β − 1| ≲ 3×10⁻⁶.
 3. **Active = passive.** The far-field mass F/(1 + g_bg), read from the field's flux at the surface, equals the passive mass's formula to ≤ 8×10⁻¹⁰.
 
-![Runs 66–67](figures/66_67.png)
+![Runs 66–67](../figures/66_67.png)
 
 **What the check added.**
 1. **The reduction is confirmed by hand.** For a static metric R_tt = N D²N and R_ij = ³R_ij − D_iD_jN/N; a perfect fluid gives R_tt = 4π(e + 3p)N² and R_ij = 4π(e − p)g_ij. With g = e^{2U}γ̃ and N = e^{−U}, D²N = −e^{−2U}NΔ̃U, and the spatial Ricci becomes R̃_ij − 2∂_iU∂_jU − Δ̃U γ̃_ij. That gives Run 66's two equations exactly. This is the standard static reduction (Stephani et al., *Exact Solutions*, ch. 18, for vacuum; the perfect-fluid uniqueness proofs, e.g. Beig & Simon 1992, use the same rescaled metric; the agent cited both from memory).
@@ -6376,7 +6376,7 @@ Inside it, the area grows again toward the surface.
 - **K67c PASSES:** max ||R_ε| − |R_GR|| = 1.2×10⁻⁵ at ε = 5×10⁻⁶ (threshold 10⁻²); flux check 3×10⁻¹⁰.
 - **K67d PASSES:** the shadow shift is 0.998 of 0.4641ε at ε = 10⁻³ (0.9998 at 10⁻⁴).
 
-![Runs 66–67](figures/66_67.png)
+![Runs 66–67](../figures/66_67.png)
 
 **What the check added.**
 1. **Confirmed with its own code:** the geometry; the boost-defect formula (for g_tt g_rr = −1, R_t̂θ̂t̂θ̂ + R_r̂θ̂r̂θ̂ = −N²R″/R, zero for Schwarzschild); the tide's growth as −2/(τ₀ − τ)², independent of L; the wave potential, with V → 0 in the horn, so the horn absorbs. Its numbers: shadow within 8.5×10⁻⁷ of the first-order form at ε = 10⁻³; the throat; infall times 5.5974, 5.5951 and 5.5949 M_K at ε = 10⁻³, 10⁻⁴ and 5×10⁻⁶; L/(4mε) = 0.998; boost-defect ratios 0.9976 and 0.9953 at ε = 10⁻³ and 10⁻⁴; the exact medium's 5.39×10⁻⁵ at p_s = 64, P∞/p_s = 10³.
@@ -6480,7 +6480,7 @@ $$
 | 10⁻⁶ | 0.99992 | 100.9 | −3.000 | 2.000 |
 | 0 (GR) | 1 for ever | unbounded: 72, 109, 146, 183 M to N = 10⁻⁴, 10⁻⁶, 10⁻⁸, 10⁻¹⁰ | — | — |
 
-![Runs 68–69](figures/68_69.png)
+![Runs 68–69](../figures/68_69.png)
 
 **Verdicts, as registered.**
 - **K68a PASSES (the transient reaches Hawking's flux):** the peak flux reaches 0.997–0.9999 of Hawking's for ε ≤ 10⁻⁴.
@@ -6607,7 +6607,7 @@ $$
   - pSEOBNR puts GR at the edge of its 90% region for this event, which the paper partly attributes to waveform systematics. A ringdown prediction specific to K would test it directly.
   - The other remnants are below the threshold: GW250114 at 0.68 ± 0.01; GW231123 at 0.84 (+0.07/−0.19); GW190828 at 0.76 ± 0.07.
 
-![Runs 68–69](figures/68_69.png)
+![Runs 68–69](../figures/68_69.png)
 
 **What the check added.**
 1. **The geometry is confirmed with independent code.** Light-ring and ISCO conditions were solved directly; every tabulated radius and clock agrees to 10⁻¹⁰; the shadow fractions agree to 0.003.
@@ -6687,7 +6687,7 @@ On the flat lattice it gives own-dips of 0.0672/0.0332 (high) and 0.0424/0.0205 
 - Charge is conserved exactly in every run.
 - A single amplitude fitted to all eight rows, scaling theory's predicted excesses, is A = 0.94 ± 0.15. That is 6.3σ from zero, with χ² = 3.9 for the theory against 43.3 for no effect, over 8 degrees of freedom (the check, with the shared flat pool's covariance included).
 
-![Run 70](figures/70_curved.png)
+![Run 70](../figures/70_curved.png)
 
 **Verdicts, as registered.**
 - **K70a PASSES:** with λ = 0 the new hop rule reproduces Run 24's own-dips within 1σ (0.0671/0.0340 high, 0.0412/0.0208 low).
@@ -6798,7 +6798,7 @@ $$
   - It tests the flux pipeline through a turning point on a GR shell with pressure: Taylor-mode and finite-difference Schwarzians agree to 0.5%.
   - The flux when the matter comes back out has large positive and negative spikes (hundreds of F_H). These have not been separated from the thrown-in initial condition, so no bounce flux is reported.
 
-![Run 71](figures/71_collapse.png)
+![Run 71](../figures/71_collapse.png)
 
 **Verdicts, as registered.**
 - **K71-GR PASSES:** the GR controls' late flux is Hawking's, F/F_H = 1.000000.
@@ -6891,7 +6891,7 @@ $$
   - This is consistent with a sign-dependent theory error of about 1%, the same size as the theory's accuracy on the flat control (K72a). It is suggestive, not significant.
 - **Charge is conserved exactly** in every run.
 
-![Run 72](figures/72_equalplace.png)
+![Run 72](../figures/72_equalplace.png)
 
 **Verdicts, as registered.**
 - **K72a PASSES:** the flat control matches the theory within 0.3–1.1%, inside the registered max(3σ, 3%).
@@ -6977,7 +6977,7 @@ with errors from the seed-to-seed scatter. The theory's contrast, fixed before R
 | **new seeds alone (K72d-R)** | 0.0869 ± 0.0022 | 0.0734 ± 0.0016 | **+0.0135 ± 0.0027** | **5.0σ** | +1.4σ |
 | **all 20 seeds per sign (K72d-C)** | 0.0850 ± 0.0017 | 0.0743 ± 0.0012 | **+0.0107 ± 0.0021** | **5.1σ** | +0.5σ |
 
-![Run 72b](figures/72b_gapcontrast.png)
+![Run 72b](../figures/72b_gapcontrast.png)
 
 **Reported on all seeds: the own-dip ratios.** These are the curved/flat ratios of each design's own dip.
 - All eight rows agree with the theory within 1.7σ; seven of the eight sit below it.
@@ -7103,7 +7103,7 @@ The grid is w = ⅓, ½, ⅔ and 1; ε = 10⁻², 10⁻⁴ and 10⁻⁶; shells 
   - The grid's maxima underestimate it.
 - **Harder throws do not push the turn higher:** from γ₀ = 100 to 1000 it moves by at most 0.8%.
 
-![Run 73](figures/73_stiff.png)
+![Run 73](../figures/73_stiff.png)
 
 **Verdicts.**
 - **K73a: FAIL as registered; PASS on the record's definition.**
@@ -7180,7 +7180,7 @@ $$
      - If commitment takes at least one hop in the shell's own frame, δu ≳ τ_h/ε. For a 10 M☉ hole and a hop of about 10³ Planck lengths (the record's estimate of CO's hop, 300–1,000 Planck lengths; an assumption here), the flash is about one quantum of order 10¹¹ GeV: E/M ~ 10⁻⁴⁸.
 6. **Afterwards, model B:** the dust tail continues, carrying −1.1% (ε = 5×10⁻⁶) to −1.7% (10⁻⁴) of the total. There is no flash.
 
-![Run 74](figures/74_commit.png)
+![Run 74](../figures/74_commit.png)
 
 **Verdicts, as registered** (for the surfaces actually modelled, at a true P of about p_s and 1.3p_s).
 - **K74a PASSES:** R_c/m matches 2k/(k − 1) to 2×10⁻⁴. That formula holds only under the wrong conversion. With the correct one, R_c = 2m(k + 1)/k is matched to 10⁻⁵.
@@ -7261,7 +7261,7 @@ $$
 - **D₂ = +0.24 ± 0.40%** (0.6σ). The registration expected σ_D ≈ 0.3%. The measured scatter was larger, so the test had less power than planned.
 - D₁ = +0.08 ± 0.16% (reported).
 
-![Run 75](figures/75_outerlinks.png)
+![Run 75](../figures/75_outerlinks.png)
 
 **Verdict.**
 - **K75a FAILS.** D₂ is within 1σ of zero. Changing only the outer links, by twice Run 72's amount, does not move the theory's design-2 error. The hypothesis is disfavoured, by odds of about 8:1 (the check), not excluded.
@@ -7356,7 +7356,7 @@ $$
   - The new seeds scatter like every other lattice: 1.03% per seed, against 1.00–1.43% elsewhere (the check).
 - **Design 1 shows no deviation:** Δ = −0.05 ± 0.07% on the new seeds.
 
-![Run 76](figures/76_replication.png)
+![Run 76](../figures/76_replication.png)
 
 **Verdict.**
 - **K76a is UNDECIDED.** The fresh seeds put the cell at −0.37 ± 0.22% from the baseline: about half the deviation that first drew attention, at 1.7σ.
@@ -7529,7 +7529,7 @@ $$
 - **Option 3's mean-field clock formula,** N = (1+ε)e^(−φ) − ε, differs from the clocks by 0.005 (reported). That is the expected effect of fluctuations: because P fluctuates, the mean P exceeds the fluctuation-free p_s(e^{z/c} − 1) by about 2 units at every plane, and the exact R(z) differs from the formula by the same 0.005.
 - **On the k = 2 rebuild,** the hop rate the cap allows falls from 1 to 0.38 to 0.17 as the field grows.
 
-![Run 77](figures/77_sheet.png)
+![Run 77](../figures/77_sheet.png)
 
 **What the check added.**
 
@@ -7787,7 +7787,7 @@ $$
 | **pooled** | **+0.238 ± 0.032%** | **+0.200 ± 0.032% (6.2σ)** | **+0.359 ± 0.093%** | **+0.361 ± 0.093% (3.9σ)** |
 | χ² (4 dof) | 2.9 | 1.6 | 7.6 | 6.0 |
 
-![Run 78](figures/78_eos.png)
+![Run 78](../figures/78_eos.png)
 
 - **K78a, design 1: NOT EXPLAINED.** The correction removes 16% of the offset; 6.2σ remains.
 - **K78a, design 2: NOT EXPLAINED.** The correction removes none of it; 3.9σ remains.
@@ -7926,7 +7926,7 @@ $$
 | Run 72's theory at the measured ambient, no place-mean term (the check) | +0.24% (3.4σ) | +0.61% (4.3σ) |
 | Run 72's theory as it stood (ambient 64) | +0.76 ± 0.07% (10.5σ) | +1.23 ± 0.14% (8.6σ) |
 
-![Run 80](figures/80_dense.png)
+![Run 80](../figures/80_dense.png)
 
 - **K80a, the ambient level: PASS** (64.5206 predicted, 64.5211 ± 0.0004 measured).
 - **K80b, the dips against the normalised theory: PASS** (0.3σ and 1.5σ).
@@ -8019,7 +8019,7 @@ $$
 - **M1** is overdamped at every mode: no ripple ever crosses zero, and the statistic is ≥ +4.5. Its decay rates match the theory to −1.1%, −0.3%, −0.3% and +1.0% at m = 3–15, within errors of 2–4%. At m = 25, five places per wavelength, it is −2.4% (reported).
 - **Rotations.** M2 and M3 rotate 5.33 pairs per place per tick, all one way. M2s rotates 2.667 each way, balanced to within 1.5σ.
 
-![Run 81](figures/81_wave.png)
+![Run 81](../figures/81_wave.png)
 
 **Verdicts as registered.**
 - **K81a, the headline: PASS.** M2's direction-telling share falls as k^(0.99 ± 0.03) (the weighted fit gives 1.02 ± 0.03), and Q⁻¹ = 0.021 at m = 3.
