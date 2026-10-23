@@ -23,6 +23,7 @@ The full record (`writeups/commitment_ontology_simulations.md`) holds the eviden
 - **Matter** is commitment that keeps re-making itself. Each renewal draws on the possibility around it, so matter thins the possibility near it.
 - **Clocks are matter.** A clock ticks in proportion to the possibility present where it sits, so clocks near matter run slow. That clock-rate gradient is gravity.
 - **Light and quantum matter** are patterns of possibility in transit. They hop on their place's ticks, so they bend and fall in the same field.
+- **Quantum mechanics is the study of what happens before ticking** (stated 23 October): patterns of possibility that have not committed. A pattern keeps no clock of its own; the time that elapses in its phase belongs to the committed world around it. A measurement is a pattern meeting the committed world and being forced to commit to one channel.
 - **Where possibility runs low, infalling matter commits for good.** Under the current ruling this happens at about twice the medium's crossover scale. That is the core of a black hole, where what falls in becomes record.
 
 ---
@@ -266,6 +267,12 @@ $$
    - **So primordial black holes never evaporate,** and the bounds on them that assume evaporation do not apply. A detected evaporating primordial black hole would count against ED.
    - **Black-hole thermodynamics** (S = A/4, T = κ/2π) does not carry over without a new argument.
 6. **Under ED's original rule for space only** (withdrawn under option 3), heavy neutron stars need matter near the causal limit above about twice nuclear density. Heavy-ion collisions allow this only at the edge of their bounds (Runs 57–62).
+7. **Matter over antimatter** (stated 23 October, not tested).
+   - In the beginning, commitments formed in a saturated space, with no room for a second pattern to form. So one kind of matter committed and its mirror did not.
+   - Standard cosmology instead has matter and antimatter almost entirely annihilating, leaving a small excess, by a mechanism (Sakharov's conditions) not yet identified.
+   - **To hold up, the idea has to answer two things:**
+     - why antimatter forms readily today, in accelerators and in cosmic rays;
+     - where the cosmic background's photons, about 1.6 billion per proton (η ≈ 6×10⁻¹⁰), come from, if antimatter never formed at the start.
 
 ---
 
