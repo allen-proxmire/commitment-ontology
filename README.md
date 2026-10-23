@@ -4,6 +4,8 @@ Allen Proxmire.
 
 Tests of the commitment / Event Density (ED) ontology against measured physics, on a lattice engine built from its rules: 77 runs (with a follow-up, 72b), 15–22 October 2026.
 
+**Start here: [`AT_A_GLANCE.md`](AT_A_GLANCE.md)** — what goes in, what comes out, where the ontology parts from GR and how each part could fail, on one page.
+
 ## What is being tested
 **[`ONTOLOGY.md`](ONTOLOGY.md)** states the ontology as it stands, on one page:
 - its primitives (commitment, places, possibility, matter, clocks);
