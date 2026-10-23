@@ -26,7 +26,7 @@ Six results come straight from ED's rules, with nothing chosen to match.
 
 ## Passed: building on established physics
 
-Twelve results pass by building on established physics, as every theory does, or on a rule chosen rule. They are listed as bookkeeping: places where a later derivation, or a ruling that makes one a founding postulate, could go deeper.
+Twelve results pass by building on established physics, as every theory does, or on a chosen rule. They are listed as bookkeeping: places where a later derivation, or a ruling that makes one a founding postulate, could go deeper.
 
 | What is measured | The input | Runs |
 | --- | --- | --- |
@@ -39,7 +39,7 @@ Twelve results pass by building on established physics, as every theory does, or
 | A bound system pulls by its total energy | a pattern's energy draws (ruling) and its momentum flux draws (Lorentz input) | 36, 40c |
 | Compact bodies respond normally to outside gravity | bodies keep their proper size; for static bodies, now delivered by hydrostatic balance | 40b, 46c |
 | Binding inside a body pulls once | a body's stress pulls (ruling) | 42, 44, 50 |
-| Black-hole ringdowns and images | outside compact objects the field is GR's (option A, a ruling); under option 3 it follows for static and spinning holes outside the horizon (Runs 65–69; spinning holes on the framing that frame dragging is possibility's own flow) | 41, 43, 65–69 |
+| Black-hole ringdowns and images | outside compact objects the field is GR's (option A, a ruling); under option 3 it follows for static and spinning holes outside the horizon (Runs 65–69; spinning holes on the ruling that frame dragging is possibility's own flow) | 41, 43, 65–69 |
 | Black holes stay stable, show no glow, leave no echoes | the core commits what reaches it (ruling); under option 3 a static hole's core surface absorbs without needing the ruling (Run 67), and the holes do not evaporate (Run 68; ruled stable, 21 October); a collapse keeps them because infalling matter commits before it can bounce, where the medium holds about 2p\_s per place (Run 71; ruling, 21 October) | 43, 67, 68, 71, 73, 74 |
 | Adding energy to a star raises its mass by exactly that energy (GR's first law) | matter in hydrostatic balance (standard physics), in a medium with no built-in scale; ED's rules then come from one energy principle | 50 |
 
