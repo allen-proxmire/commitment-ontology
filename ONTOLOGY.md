@@ -297,7 +297,7 @@ $$
 - How the medium's space curves: two readings, both to be tested (22 October).
   - **(A) Space is the pattern of relations.** Curving it means relations form, dissolve or rewire. In the engine: shells whose place counts follow option 3's areas, with all relations equal.
   - **(B) Relations are fixed; space is a reading of the medium's state across them,** as time is read from commitment and light's geometry from the pattern rule. In the engine: the medium's hop across a relation depends on its own state, directionally, since stress is directional. This needs a ruling, and must avoid the freezing found in Run 17.
-  - Whether ED's papers let relations form or dissolve decides whether (A) is open.
+  - Relations can dissolve: a dissolved link goes back to possibility, as a two-part possibility pattern (stated 22 October). So (A) is open, with 3D space assumed. A spherical hole can be built under either reading; the readings separate only in how the geometry forms (design note §9zzz3).
 
 **Rotation**
 - The rotating near-horizon shell, and option 3's stationary equations with the medium.
