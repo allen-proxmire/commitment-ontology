@@ -1,6 +1,6 @@
 ## Where the record stands: a consilience reading
 
-*Updated 22 October 2026, after Runs 29–77 and the rulings (including the provisional option 3; option 3 for the current field; and, on 21 October, ED's holes are stable, infalling matter commits where the medium holds about 2p_s per place, and frame dragging is possibility's own flow) on the field's dynamics (adopted: the clock field fixed each tick, patterns riding possibility's flow; the tick is not physical time; the variational draw; inertia = total energy).*
+*Updated 23 October 2026, after Runs 29–79 and the rulings (including the provisional option 3; option 3 for the current field; and, on 21 October, ED's holes are stable, infalling matter commits where the medium holds about 2p_s per place, and frame dragging is possibility's own flow) on the field's dynamics (adopted: the clock field fixed each tick, patterns riding possibility's flow; the tick is not physical time; the variational draw; inertia = total energy).*
 
 **ED's aim.** "any new ontology will necessarily reproduce everything; there is no room for new, there is only room for massive consilience."
 
