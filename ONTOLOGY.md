@@ -229,6 +229,20 @@ $$
 
 Nothing in ED's papers fixes either.
 
+### The same accounting in other programs
+
+No approach to gravity derives it from nothing. Each takes some of known physics as input, and is judged by two things: being clear about what goes in, and what comes out that was not put in.
+
+| program | what goes in | what comes out that was not put in |
+|---|---|---|
+| **Loop quantum gravity** | GR's own action, quantized. Classical GR is the starting point, not a result. | Quantum geometry: discrete spectra of area and volume (Rovelli & Smolin 1995). Getting smooth GR back out is its main open problem. Its black-hole entropy matches Hawking's only once a free parameter (the Barbero–Immirzi parameter) is set to make it match (Ashtekar, Baez, Corichi & Krasnov 1998). |
+| **Causal dynamical triangulations** | GR's action in discrete form, plus a rule that keeps causal order. | A four-dimensional universe emerges from gluing simplices, and the dimension drops toward two near the Planck scale (Ambjørn, Jurkiewicz & Loll 2004, 2005). |
+| **Causal sets** | Discreteness and causal order: "order plus number equals geometry" (Bombelli, Lee, Meyer & Sorkin 1987). | A cosmological constant of roughly the observed size, predicted by Sorkin before it was measured. Its "sequential growth" dynamics, with events added one by one, is the closest relative of commitment (Rideout & Sorkin 1999). |
+| **Spacetime thermodynamics** | Known physics: the Unruh temperature, entropy proportional to horizon area, and the Clausius relation δQ = T dS. | Einstein's equations, as an equation of state (Jacobson 1995). |
+| **This ontology** | Commitments, possibility and its outflow, the presence clock, matter's draw, the pattern rule (§3), plus the tracked borrowings in the table above. | Newton's law, redshift, universal free fall, the Tolman pull, no preferred-frame effect, and one-way time, from the rules (Runs 1, 14, 16, 22, 27, 29, 30, 34). |
+
+The comparison is one of method, not of maturity. Each program states its inputs and is held to what it gets out. Here the main borrowed input, option 3's rule for how the medium's space curves, is also the main open problem: replacing it with a rule from the ontology's own primitives (§7).
+
 ---
 
 ## 5. Where ED speaks and GR is silent (not yet tested as predictions)
