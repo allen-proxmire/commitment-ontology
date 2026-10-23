@@ -1,6 +1,6 @@
 ## Run 33: does a pattern's energy pull? (a decision memo; no run)
 
-*19 October 2026. (step 3: give a pattern a cadence on the event layer and measure whether it pulls by ħω). A search of the three repos found no existing CO rule that turns a pattern's energy into draw. By CO's own rule (ED_Attempt_04, `Picture.md`: "The counting rule is fixed … **before** any weights are computed"), the rule has to be chosen first. This memo sets out the candidates and what each one gives, for that choice. Nothing is run.*
+*19 October 2026. (step 3: give a pattern a cadence on the event layer and measure whether it pulls by ħω). A search of the earlier project's papers found no existing CO rule that turns a pattern's energy into draw. By CO's own rule (ED_Attempt_04, `Picture.md`: "The counting rule is fixed … **before** any weights are computed"), the rule has to be chosen first. This memo sets out the candidates and what each one gives, for that choice. Nothing is run.*
 
 **What is measured.** Energy in every form pulls with the same weight as rest mass.
 - **Binding energy.**
@@ -16,7 +16,7 @@
   - internal and binding energy with weight 1
   - momentum flux (pressure, and a moving body's $\rho v^2$) with weight 1 per direction
 
-**What the record says** (all quoted from the repos).
+**What the record says** (all quoted from the earlier papers).
 
 | file | says | status |
 |---|---|---|

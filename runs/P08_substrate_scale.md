@@ -1,7 +1,7 @@
 # P08 — Substrate scale $\ell_{\mathrm{ED}}$
 
 **Canonical primitive of the ED Generative System.**
-**Position paper reference:** `position-paper/paper_ED_Framework_13_Primitive_Generative_System.md` §1.4.
+**Position paper reference:** the 13-primitive generative-system position paper, §1.4.
 
 ---
 
@@ -23,4 +23,4 @@ LOAD-BEARING. Supplies the substrate UV cutoff entering trans-Planckian resoluti
 
 ## Underlying concept treatments
 
-- `concepts/thickening.md` — the process-level concept of accumulation into persistent stable structure; thickening operates at the substrate scale and produces the classical regime.
+- *Thickening* (concept note) — the process-level concept of accumulation into persistent stable structure; thickening operates at the substrate scale and produces the classical regime.

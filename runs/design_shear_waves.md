@@ -174,7 +174,7 @@ If this holds, Notes F and G, Run 79 and Run 11b are one question: the relations
 
 The likeliest outcome is linearised GR on the relations, with GR's constraint structure chosen rather than derived. That would move the wave sector from "adopted equation" to "follows from a symmetry and two constraints, given these choices". It would not be a derivation from commitment alone.
 
-**8. The earlier papers' route: khronometric gravity** (added 23 October, after reading GR-I–IV, KM-I–II and the earlier gauge papers; digests in `gauge_grav_review/`)
+**8. The earlier papers' route: khronometric gravity** (added 23 October, after reading GR-I–IV, KM-I–II and the earlier gauge papers)
 
 - **The same class, reached the other way.** GR-II argues that because the arrow is in the law there is a preferred foliation, so the theory is khronometric (Hořava's infrared class): GR's two tensor waves plus one scalar, the khronon, "the arrow made dynamical". §4 reached the same class from a lattice of relations with a preferred tick.
   - The outside review of 12 September found that GR-II assumed the class rather than derived it, since the earlier corpus had no field equation for the metric.

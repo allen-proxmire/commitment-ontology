@@ -7,7 +7,7 @@
 **Question.** the earlier papers say GR and QM are averages of a one-way process, and that averaging removes the order:
 > "averages are permutation-invariant: a sum does not remember the order of its terms… Its reversibility is ignorance of order, formalized." (`Paper_HowTheoryCoarseGrainReality.md`)
 
-His falsifiers include "substrate-level dynamics is genuinely time-reversal-symmetric" (T18 §10). A search of the three repos found no earlier numerical test of time-reversal asymmetry, so this is the first. In the engine the claim has three parts:
+His falsifiers include "substrate-level dynamics is genuinely time-reversal-symmetric" (T18 §10). A search of the earlier project's papers found no earlier numerical test of time-reversal asymmetry, so this is the first. In the engine the claim has three parts:
 1. The bottom is one-way.
 2. Averaging removes the order.
 3. Something leaks.

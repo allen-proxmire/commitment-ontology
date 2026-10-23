@@ -1,6 +1,6 @@
 ## Note D: what fixes P₀/p_s? The earlier clock and medium papers (a reading)
 
-*20 October 2026. The three repositories (`ed-generative`, `event-density`, `event-density-ontology-models`) were fetched; they were current (last commits 11 October, 12 September and 11 October). An agent surveyed the two large repositories for clock and medium papers, and the core ones and the ontology-models repository were read in full. Point 4 is an inference, not the corpus's. An independent agent checked the quotes against the papers and the inference against the engine's code; its corrections are included.*
+*20 October 2026. The earlier project's papers, working notes and event-layer models were fetched, as current on 11 October. An agent surveyed the papers and notes for clock and medium papers, and the core ones and the event-layer models were read in full. Point 4 is an inference, not the corpus's. An independent agent checked the quotes against the papers and the inference against the engine's code; its corrections are included.*
 
 **The question.** Run 55 left CO's strong-equivalence-principle prediction bounded but not sharp:
 $$
@@ -11,33 +11,33 @@ $$
 - Does anything in CO fix P₀/p_s, or either number?
 
 **1. The clock papers fix the lapse's form, never an absolute level.**
-- **GR-I** (`physics-papers/gravity/Paper_GR-I_WeakFieldEinsteinMetric.md` §4): from the null condition and a commitment rate linear in bandwidth (Γ ∝ b, P-Commitment-Linear),
+- **GR-I** (`Paper_GR-I_WeakFieldEinsteinMetric.md` §4): from the null condition and a commitment rate linear in bandwidth (Γ ∝ b, P-Commitment-Linear),
 $$
 N^2\sim b,\qquad g_{ij}\sim b^{-1},
 $$
   with "b enters as the dimensionless ratio to its asymptotic value". The 12 September outside review notes that with b harmonic this gives PPN β = 0.
 - **GR-III** (`Paper_GR-III_DynamicalRule.md` §3–4): the medium is linear diffusion with a sink, ḃ = D∇²b − κρ, with b → 1 in the vacuum. α = 1 is argued from P11, and only κ/D is fixed.
-- **The relational tick** (`substrate-evaluation/Paper_RelationalTick_v1.md`): "the vacuum event-density magnitude is robust but unpinned" (§2, on α₁), and "an order-one commitment factor that the corpus inherits everywhere and derives nowhere" (§3, on mass as memory).
-- **`primitives/concepts/commitment.md`:** Γ_commit ~ b_int/reserve, with "one unnamed rate constant".
+- **The relational tick** (`Paper_RelationalTick_v1.md`): "the vacuum event-density magnitude is robust but unpinned" (§2, on α₁), and "an order-one commitment factor that the corpus inherits everywhere and derives nowhere" (§3, on mass as memory).
+- **The commitment concept note:** Γ_commit ~ b_int/reserve, with "one unnamed rate constant".
 
 **2. The medium papers give no per-place capacity and no crossover.**
-- **P04** (`primitives/P04_bandwidth.md`): bandwidth is a dimensionless, non-negative, additive scalar. "Canonical P04 gives non-negativity, not an upper bound." Arcs that need a bound must name one; the named bounds have no values:
-  - P-Locus-Bandwidth-Bound (`soft-matter/Paper_UnifiedP04TransportBudget`);
-  - P-V5-Budget (`entanglement/Paper_065_Monogamy`).
-- **`event-density/theory/Note_Nbw_NeedsAQuantum_2026-09-07.md` §5–6:** the ratio of a place's capacity to its smallest unit, N_bw = B_max/b_min, "needs a quantum", and "the bandwidth quantum is ABSENT and UNFORCED". That ratio is the nearest thing in the corpus to P₀/p_s.
-- **`Attempt_C/Where_ED_Is_Silent.md`** (question 9) says the same. The state-of-the-ontology summary, an AI session's account, agrees: "the upper limit is not in any primitive".
+- **P04** (the bandwidth primitive): bandwidth is a dimensionless, non-negative, additive scalar. "Canonical P04 gives non-negativity, not an upper bound." Arcs that need a bound must name one; the named bounds have no values:
+  - P-Locus-Bandwidth-Bound (`Paper_UnifiedP04TransportBudget`);
+  - P-V5-Budget (`Paper_065_Monogamy`).
+- **The working note "N_bw needs a quantum" (7 September 2026), §5–6:** the ratio of a place's capacity to its smallest unit, N_bw = B_max/b_min, "needs a quantum", and "the bandwidth quantum is ABSENT and UNFORCED". That ratio is the nearest thing in the corpus to P₀/p_s.
+- **"Where ED is silent"** (question 9) says the same. The state-of-the-ontology summary, an AI session's account, agrees: "the upper limit is not in any primitive".
 - **The one per-cell number** (`Paper_112_hbar_Origin` §3.6, B_P04 ≈ 10⁹ W per cell) is a relabelling of ħ by its own disclaimer. It is also dimensionful, against P04's [b] = 1.
-- **No logarithmic outflow anywhere.** CO's saturating laws (`theory/PDE.md`, `Arc_BH_3`) are jamming forms, with no values. GR-III's medium is linear. The engine's logarithm was brought in for β = 1 (Runs 21–25).
-- **The event-layer models** (`event-density-ontology-models`, `results/EVENT_LAYER.md` result 23): possibility per place is a setting (1 to 8 units), and the one ceiling is CO's own, a place committing at most once per ħ.
-  - Their trade-off between how far a shortage reaches and how strongly clocks feel it (`papers/Gravity_As_Accounting.md` §4) comes from a vacuum that commits, which screens the shortage.
+- **No logarithmic outflow anywhere.** CO's saturating laws (the PDE notes and `Arc_BH_3`) are jamming forms, with no values. GR-III's medium is linear. The engine's logarithm was brought in for β = 1 (Runs 21–25).
+- **The event-layer models** (their results summary, result 23): possibility per place is a setting (1 to 8 units), and the one ceiling is CO's own, a place committing at most once per ħ.
+  - Their trade-off between how far a shortage reaches and how strongly clocks feel it (`Gravity_As_Accounting.md` §4) comes from a vacuum that commits, which screens the shortage.
   - **The engine's vacuum never commits,** so its shortage is unscreened whatever P₀ or p_s. The clock's response per unit of draw is set by c ≈ p_s alone, and P₀/p_s controls only the departure from scale-free. The analogy holds for p_s and for strength only.
 
 **3. Where CO does give numbers, they do not fit the engine's two scales.**
-- **Capacity at saturation:** about one degree of freedom per Planck area (`Paper_025_HolographicBound.md`, N(R) ≤ 4πR²/ℓ_ED²; `black-hole/Paper_HorizonTilingThreeCounts.md`). Read as p_s, that is p_s ~ 1, which clocks of different design exclude. Run 24 measured a 5.6% design gap directly at p_s = 1.
+- **Capacity at saturation:** about one degree of freedom per Planck area (`Paper_025_HolographicBound.md`, N(R) ≤ 4πR²/ℓ_ED²; `Paper_HorizonTilingThreeCounts.md`). Read as p_s, that is p_s ~ 1, which clocks of different design exclude. Run 24 measured a 5.6% design gap directly at p_s = 1.
 - **The vacuum's occupancy:**
-  - `foundations/Phase3_GR_Alpha1_Magnitude.md` gives ρ_event/ρ_Planck ≲ 10⁻⁹³ (from the source) down to a floor of 10⁻¹²². The 12 September review withdrew the α₁ argument built on it as "a dimensional estimate". `Phase3_GR_LambdaOfRho_Derivation.md` leaves the magnitude unpinned ("10⁻⁵? 10⁻⁴⁷?").
+  - `Phase3_GR_Alpha1_Magnitude.md` gives ρ_event/ρ_Planck ≲ 10⁻⁹³ (from the source) down to a floor of 10⁻¹²². The 12 September review withdrew the α₁ argument built on it as "a dimensional estimate". `Phase3_GR_LambdaOfRho_Derivation.md` leaves the magnitude unpinned ("10⁻⁵? 10⁻⁴⁷?").
   - These count *commitments*, which the engine puts only in matter. CO's possibility-like b is only ever normalized (b = 1), so the corpus has no per-place number for vacuum possibility.
-- **The large numbers on offer are cosmological** (10⁶¹, 10¹²², Θ_ED; `docs/Scoping_ThetaED_FirstPrinciples_2026-07-06.md`). The corpus warns against matching them: "it's easy to take a big number like 10¹²² and find matches", and "ED's 10¹²² is 1/Λ taken from observation" (`Derivation Attempts/ED_Attempt_03/Specificity_Mechanisms.md`).
+- **The large numbers on offer are cosmological** (10⁶¹, 10¹²², Θ_ED; `Scoping_ThetaED_FirstPrinciples_2026-07-06.md`). The corpus warns against matching them: "it's easy to take a big number like 10¹²² and find matches", and "ED's 10¹²² is 1/Λ taken from observation" (ED_Attempt_03, `Specificity_Mechanisms.md`).
 
 **4. One structural tie, in the engine (an inference, checked against the code).**
 - **The field.** In a scale-free medium the engine's coupling per unit of draw is set by p_s:

@@ -6,7 +6,6 @@
 
 **Series:** Event Density (ED) Generative Papers — substrate-evaluation arc (structural invariants of the certified Σ-rule)
 **Status:** Publication draft (short). A structural invariant of the certified substrate, measured across five arcs, with a sharp scope boundary: it governs correlation-based order and says nothing about topological defects. Companion to `Paper_CommonCauseNotChannel_A1` (the A1 common-cause result it generalizes) and the Bullet_Arc theory notes (whose correlation-negatives it explains and correctly bounds). Standalone; cold-reader accessible.
-**Repository target:** `physics-papers/substrate-evaluation/` (ED-Generative)
 
 ---
 
@@ -52,7 +51,7 @@ The two sides combine into one exact statement about the certified substrate: **
 
 ## 2. Why the sign structure is forced
 
-> **Naming note, added 2026-09-05.** **The certified rule's `Coh`, `Str` and `Grad` are density-level stand-ins and are *not* the substrate functionals of the same name.** The corpus already half-records this — `../event-density/theory/P12_Coherence_PhaseAlignment_Scoping.md` Step 1 calls the certified `Coh = -(ρ-ρ_*)²` *“a density-target, not a coherence measure; **arguably mislabeled**”* — but nowhere a reader would meet it. The substrate `Coh` is the phase-interference content (`Paper_PhaseCoherence_P12Coh` §2); the substrate `Str` is per-channel `P-Quadratic-Strain`. **The shared names are a tractability artifact of a single-rule-type simulator with no explicit polarity, not a claim that these are the same functionals.** `foundations/Note_SigmaC_Defined_2026-09-05.md` §3.
+> **Naming note, added 2026-09-05.** **The certified rule's `Coh`, `Str` and `Grad` are density-level stand-ins and are *not* the substrate functionals of the same name.** The corpus already half-records this — the P12 coherence scoping note (Step 1) calls the certified `Coh = -(ρ-ρ_*)²` *“a density-target, not a coherence measure; **arguably mislabeled**”* — but nowhere a reader would meet it. The substrate `Coh` is the phase-interference content (`Paper_PhaseCoherence_P12Coh` §2); the substrate `Str` is per-channel `P-Quadratic-Strain`. **The shared names are a tractability artifact of a single-rule-type simulator with no explicit polarity, not a claim that these are the same functionals.** (The Σ_C definition note of 5 September 2026, §3.)
 
 The certified Σ functional is $\Sigma = k_c\,\mathrm{Coh} - k_s\,\mathrm{Str} - k_g\,\mathrm{Grad}$, with $\mathrm{Coh} = -(\rho_v - \rho_\star)^2$ (a local density target), $\mathrm{Str} = \rho_v$ (a local density penalty), and $\mathrm{Grad} = |\rho_v - \rho_u|$ (a nearest-neighbor gradient penalty). Every term is local, and every term reads the commitment density $\rho$ and graph-local structure only. Two facts follow directly:
 

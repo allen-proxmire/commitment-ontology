@@ -4,7 +4,7 @@ Allen Proxmire.
 
 Tests of the Commitment Ontology against measured physics, on a lattice engine built from its rules: 82 runs (with follow-ups 72b and 81b), 15–23 October 2026.
 
-The project was formerly titled Event Density (ED). "The earlier papers" and the earlier event-layer engine refer to that work, in the `ED-generative`, `event-density` and `event-density-ontology-models` repositories. Three documents from it are kept unchanged in `runs/`: `P08_substrate_scale.md`, `Paper_BlindnessInvariant_KnotsNotCrystals.md` and `Particles_As_Knots.md`.
+The project was formerly titled Event Density (ED). "The earlier papers" and the earlier event-layer engine refer to that work. Three documents from it are kept in `runs/`, unchanged except that their paths to the earlier project's files were removed: `P08_substrate_scale.md`, `Paper_BlindnessInvariant_KnotsNotCrystals.md` and `Particles_As_Knots.md`.
 
 **Start here: [`AT_A_GLANCE.md`](AT_A_GLANCE.md)** — what goes in, what comes out, where the ontology parts from GR and how each part could fail, on one page.
 
@@ -91,7 +91,7 @@ Every run in the record tests a consequence of those rules against a measurement
 - **Requirements:** Python 3 with numpy, scipy and matplotlib.
 - **Running a run:** in its folder, `python3 runNN.py`, then `python3 analyseNN.py`. Some runs use an `engineNN.py` with a job list.
 - **Absolute paths.** The scripts use the absolute paths they ran with (`/home/claude/...`). Either unzip the code so the run folders sit side by side and point `/home/claude` at that folder, or edit the paths.
-- **The event-layer engines** import the `event-density-ontology-models` (`method/models`). A copy is included in the code zip under `external/`.
+- **The event-layer engines** import the earlier project's event-layer models. A copy is included in the code zip under `external/`.
 - **Checking a registration.** Each `PREREG_NN.sha256` lists the files' hashes with the paths they had when hashed, and the time of hashing. Compare the hashes with `sha256sum` on the files; `sha256sum -c` will not find the old paths.
 
 ## Status
