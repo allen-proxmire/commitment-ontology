@@ -1,6 +1,6 @@
 # The commitment ontology, as it stands
 
-Allen Proxmire · 21 October 2026 · after Runs 1–79 of the lattice record
+Allen Proxmire · 21 October 2026 · after Runs 1–80 of the lattice record
 
 This page states, in one place, what the lattice record tests: the commitment ontology's rules as they stand today. For each rule it gives:
 - its formula;
@@ -72,7 +72,7 @@ $$
   - Agreement to 10⁻⁶ needs p_s ≳ 4×10⁵, extrapolated.
 - **On lattices with imposed curvature,** clocks follow the zero-range theory: Run 70 at p_s = 4, Runs 72–72b at p_s = 1.
   - The gap between two clock designs shifts with the sign of the curvature by the amount the theory predicts. It is detected at 5.1σ and matches the prediction to 0.5σ (Run 72b).
-  - The zero-range theory's apparent underestimate of these clocks' own dips, about 0.25% for one design and 0.5–0.6% for the other (Runs 72b, 75, 76), is mostly its ambient normalisation; evaluated at the ambient the conserved total gives, the offsets fall to about zero (Run 78's check, post hoc).
+  - The zero-range theory's apparent underestimate of these clocks' own dips, about 0.25% for one design and 0.5–0.6% for the other (Runs 72b, 75, 76), is mostly its ambient normalisation; evaluated at the ambient the conserved total gives, the offsets fall to about zero (Run 78's check, post hoc). Run 80 confirmed this on the flat lattice with predictions registered beforehand.
   - A lattice curved by the medium's own stress can be built exactly in planar symmetry (design note Note F). On it the engine's medium carries the flux the lattice was built with, to about 0.2% (Run 77). With option 3's clock the planar solution is flat (Rindler) spacetime.
   - With one global hop rate on a regular equal-place lattice, such a lattice exists only while the source's draw times the distance to the reservoir stays small (Run 77). It comes from the representation: it disappears if clocks slow with the hops, so ED's rules are not shown to impose it. Where large stress curvature can be carried, it sits next to a strong source, at a slow medium.
   - Universality, and the p_s^(−0.85) convergence, on a space curved by the medium's own stress are untested.
@@ -294,7 +294,7 @@ $$
 | 39–44 | the strong field with spin; binding inside bodies; the core |
 | 45–64 | bound matter at neutron-star strength; the first law; the strong equivalence principle; neutron-star masses, radii and nuclear matter; binaries beyond first order |
 | 65–69 | GR's clock equation in ED; option 3; static and spinning black holes; evaporation |
-| 70–79 (with 72b) | clocks on curved lattices, and how accurate the clock theory is; collapse through a hole's throat; where infalling matter commits, and what that radiates; the medium on space curved by its own field; the engine's own equation of state; a local rule for the medium's space |
+| 70–80 (with 72b) | clocks on curved lattices, and how accurate the clock theory is; collapse through a hole's throat; where infalling matter commits, and what that radiates; the medium on space curved by its own field; the engine's own equation of state; a local rule for the medium's space |
 
 ---
 

@@ -2,7 +2,7 @@
 
 Allen Proxmire.
 
-Tests of the commitment / Event Density (ED) ontology against measured physics, on a lattice engine built from its rules: 79 runs (with a follow-up, 72b), 15–23 October 2026.
+Tests of the commitment / Event Density (ED) ontology against measured physics, on a lattice engine built from its rules: 80 runs (with a follow-up, 72b), 15–23 October 2026.
 
 **Start here: [`AT_A_GLANCE.md`](AT_A_GLANCE.md)** — what goes in, what comes out, where the ontology parts from GR and how each part could fail, on one page.
 
@@ -70,7 +70,7 @@ Every run in the record tests a consequence of those rules against a measurement
   - **Under ED's original rule for space only** (withdrawn under option 3): heavy neutron stars need very stiff nuclear matter, near the causal limit above about twice nuclear density. Heavy-ion collisions allow this only at the edge of their bounds (Runs 57–62).
 - **Clocks on a curved medium space:** on equal-volume places at both signs of curvature, clocks follow the zero-range theory to about 1–2% (Runs 70, 72).
   - The gap between two clock designs shifts with the sign of the curvature as predicted: detected at 5.1σ, matching the theory to 0.5σ (Run 72b).
-  - The theory's apparent underestimate of these clocks' own dips (0.25–0.6%) is mostly its ambient normalisation (Run 78's check). An odd cell at negative curvature was not explained by the clocks' outer links (Run 75), its replication was undecided (Run 76), and it stays about 2σ off after the normalisation.
+  - The theory's apparent underestimate of these clocks' own dips (0.25–0.6%) is mostly its ambient normalisation (Run 78's check; confirmed with registered predictions on the flat lattice, Run 80). An odd cell at negative curvature was not explained by the clocks' outer links (Run 75), its replication was undecided (Run 76), and it stays about 2σ off after the normalisation.
   - The local rule fixed by option 3's planar solution doubles light bending and is excluded (Run 79).
   - A lattice curved by the medium's own stress is buildable in planar symmetry (design note in the record, Note F). On it the engine's medium carries the flux the lattice was built with, to about 0.2% (Run 77).
   - With one global hop rate, such a lattice exists only while the source's draw times the distance to the reservoir stays small. It comes from the lattice representation; ED's rules are not shown to impose it (Run 77).

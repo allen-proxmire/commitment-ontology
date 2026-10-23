@@ -1,6 +1,6 @@
 # Where ED's gravity stands: passed, failed, open
 
-Oct 21, 2026 · Allen Proxmire · Runs 1–79 of the commitment-ontology lattice record
+Oct 21, 2026 · Allen Proxmire · Runs 1–80 of the commitment-ontology lattice record
 
 ## The short version
 
