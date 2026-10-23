@@ -82,6 +82,7 @@ $$
    - Skewness then falls only slowly: the count is still 0.14 at T = 2048. Meanwhile the asymmetry has fallen 26× from single ticks.
    - A bell curve would erase a *single* record's odd-order asymmetry, B, since a stationary Gaussian scalar record is time-symmetric. It would not erase the cross-asymmetry A between presence and completions: a jointly Gaussian pair can still lead and lag. So Gaussianity is neither what happens here nor enough for A.
    - For the vacuum, the bell curve does arrive with **space**-averaging: skewness 0.32 at one place, 0.03 in blocks of 125.
+   - *Note (23 October).* T4 tested one reading of the bell-curve picture: that window counts become bell-shaped. The picture as stated on 23 October is of standing at the top. At a steady state the direction-telling terms cancel, leaving only the even ones (ONTOLOGY §5, item 1). T4 does not test that reading; K29 and Run 35 bear on it.
 5. **What leaks.**
    - From T = 256 to 2048 the asymmetry left is
 $$

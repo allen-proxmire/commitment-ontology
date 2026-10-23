@@ -1,6 +1,6 @@
 # The commitment ontology, as it stands
 
-Allen Proxmire · 23 October 2026 · after Runs 1–80 of the lattice record
+Allen Proxmire · 23 October 2026 · after Runs 1–81 of the lattice record
 
 This page states, in one place, what the lattice record tests: the commitment ontology's rules as they stand today. For each rule it gives:
 - its formula;
@@ -266,12 +266,20 @@ $$
 \frac{\partial P}{\partial t}=\frac{W}{6}\,\nabla^2 z\;\approx\;D\,\nabla^2P,\qquad D=\frac{W f'(P)}{6}.
 $$
        - That is a first time-derivative, so diffusion tells forward from backward: a moving body trails its well (Run 31).
-       - R4 replaced it. The clock field is fixed afresh each tick, so its equation has no time in it, while things change as at a steady state. **This is GR's own structure for the well.** In linearised GR the potentials obey Poisson-type equations with no time derivatives of the fields, and only the shear part obeys a wave equation (Flanagan & Hughes 2005, §2.2, in units G = c = 1):
+       - R4 replaced it. The clock field is fixed afresh each tick, so its equation has no time in it, while things change as at a steady state. **This is GR's own structure for the well.** In linearised GR the potentials obey Poisson-type equations with no time derivatives of the fields, and only the shear part obeys a wave equation (Flanagan & Hughes 2005, §2.2, Eqs. 2.62–2.65, in units G = c = 1):
 $$
-\nabla^2\Theta=-8\pi\rho,\qquad \nabla^2\Phi=4\pi\big(\rho+3P-3\,\partial_tS\big),\qquad \Box\,h^{TT}_{ij}=-16\pi\,\sigma_{ij}.
+\nabla^2\Theta=-8\pi\rho,\qquad \nabla^2\Phi=4\pi\big(\rho+3P-3\,\partial_tS\big),\qquad \nabla^2\Xi_i=-16\pi S_i,\qquad \Box\,h^{TT}_{ij}=-16\pi\,\sigma_{ij}.
 $$
-       - R4 was ruled, not produced by averaging.
-       - **So the open question is the waves.** GR's gravitational waves are two-way while they travel, and so are CO's patterns. In CO both wave equations were adopted: the shear of relations (Run 11b) and the wave equation for patterns (R6, Runs 45–46). Whether averaging a one-way process gives a two-way wave is not shown.
+       - R4 was ruled, not produced by averaging. In GR the reason is the constraint (gauge) structure, not averaging, so the match is one of structure only.
+       - **So the open question is the waves.** GR's gravitational waves are two-way while they travel, and so are CO's patterns. In CO both wave equations were adopted: the shear of relations (Run 11b) and the wave equation for patterns (R6, Runs 45–46).
+       - **Run 81: averaging a one-way process can give a two-way wave, if a current is conserved.**
+         - The run's measure for a wave, a(t) ≈ C e^{−γt} cos(ωt + φ), is the direction-telling share Q⁻¹ = γ/ω: the decay tells direction, the oscillation does not.
+         - In a medium whose units keep their direction of travel and swap it only in one-way, momentum-conserving collisions, Q⁻¹ falls in proportion to 1/wavelength, as k^(1.00 ± 0.03). So it is two-way at large scales, while things change.
+         - CO's medium as first built (random hops) has no current and stays one-way at every scale. Losing the current at random sends the large scales back to one-way.
+         - **A conserved current is needed for waves at all scales.**
+         - This is ordinary lattice-gas sound, and reversible bottoms give the same. So at large scales it does not locate the arrow, as above. The one-way cycle shows only in how much the wave is damped.
+         - These waves are longitudinal sound. GR's are shear, which needs a restoring force as well: in CO's terms, the relations' tension. That is not shown.
+         - A medium carrying sound would radiate scalar waves, which Run 11b bounds. So the current belongs to the carriers of CO's waves (the relations, patterns), not to the well.
      - **The engine's medium is itself an average** (stated 23 October). A scaleless substrate has no direct model, so the engine uses an averaged medium as its stand-in.
        - The diffusion belongs to that stand-in: units hopping at random, with no memory of direction. It is not shown to belong to the substrate.
        - Which averaged medium the substrate gives while things change is open.
@@ -334,6 +342,7 @@ $$
 | 45–64 | bound matter at neutron-star strength; the first law; the strong equivalence principle; neutron-star masses, radii and nuclear matter; binaries beyond first order |
 | 65–69 | GR's clock equation in CO; option 3; static and spinning black holes; evaporation |
 | 70–80 (with 72b) | clocks on curved lattices, and how accurate the clock theory is; collapse through a hole's throat; where infalling matter commits, and what that radiates; the medium on space curved by its own field; the engine's own equation of state; a local rule for the medium's space |
+| 81 | whether averaging a one-way process can give a two-way wave |
 
 ---
 
@@ -369,7 +378,7 @@ $$
 
 **Foundations**
 - Signalling through the field fixed each tick, beyond first post-Newtonian order.
-- Whether averaging a one-way process gives CO's waves (the shear of relations, and patterns) that are two-way, as GR's are. Both wave equations were adopted (§5, item 1).
+- Whether CO's waves (the shear of relations, and patterns) come out two-way from the one-way layer, as GR's are. Both wave equations were adopted. Run 81: averaging a one-way process gives a two-way wave at large scales if a current is conserved; shear also needs a restoring force, which the relations' tension would have to supply (§5, item 1).
 - Deriving the borrowed inputs: Lorentz invariance (including twist across ticks) and inertia = total energy.
 - Whether CO's event layer itself charges twist across ticks.
 - The vacuum energy's coefficient.
