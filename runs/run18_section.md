@@ -1,6 +1,6 @@
 ## Run 18: does matter fall? (a knot of commitment in the engine's clock field)
 
-**Question.** Every body that has fallen so far (Runs 16–17) is a **pattern of possibility**. ED's matter is **committed**: in Runs 12–13 a particle is a knot of commitments, a director field n held together by Coh (alignment between neighbours) and Str (twist held around closed loops). ED's own record says committed matter that moves by paying for commitments is pushed away from matter. So: does a knot fall, and does it fall *like everything else*?
+**Question.** Every body that has fallen so far (Runs 16–17) is a **pattern of possibility**. CO's matter is **committed**: in Runs 12–13 a particle is a knot of commitments, a director field n held together by Coh (alignment between neighbours) and Str (twist held around closed loops). The earlier record says committed matter that moves by paying for commitments is pushed away from matter. So: does a knot fall, and does it fall *like everything else*?
 
 **Target, fixed in advance.** Universality of free fall for composite bodies: a body's binding and internal energy must fall exactly like the rest of its mass.
 - MICROSCOPE: titanium against platinum, η < ~10⁻¹⁵ (Touboul et al. 2022).
@@ -113,7 +113,7 @@ The bands below are left as registered.
 
 ### Method
 
-- **Field:** ED's engine with the adopted rules (Run 16 source: density 8, seed 1, box 60, the ball at the centre). It is read as $N=n/\lambda_0$ and interpolated trilinearly onto the knot grid. Knot coordinates are clipped at ±4.5 when reading N, so the knot box's periodic seam sits where the knot has almost no energy.
+- **Field:** CO's engine with the adopted rules (Run 16 source: density 8, seed 1, box 60, the ball at the centre). It is read as $N=n/\lambda_0$ and interpolated trilinearly onto the knot grid. Knot coordinates are clipped at ±4.5 when reading N, so the knot box's periodic seam sits where the knot has almost no energy.
 - **Releases:** at rest, at $r_0$ = 12 and 18 places from the ball.
   - h = 0.2: along +x, +y, +z, both readings (12 drops), 8 time units (400 steps of 0.02), cubic fit.
   - h = 0.1: along +x, both readings (4 drops), 4 time units (400 steps of 0.01), quadratic fit.
@@ -209,7 +209,7 @@ The two failure conditions written in advance:
 - $M_S=\tfrac23E_{coh}=E/3$ in the continuum, so the knot falls three times faster than a pattern beside it.
 - Every drop shows it: 2.7–3.7× at both resolutions, in both fields and with every fit.
 - The knot's binding energy (its Str) weighs without resisting. MICROSCOPE bounds such a difference at 10⁻¹⁵, and this one is of order one.
-- **With Runs 12–13's Str as written, ED's matter fails the equivalence principle.**
+- **With Runs 12–13's Str as written, CO's matter fails the equivalence principle.**
 
 **3. Charging Str also on loops that include a tick brings the knot to within about 8% of universal fall on the fine grid.**
 - A square of one relation and one tick costs twist like a square of two relations. Then $M_T=\tfrac23E_{coh}+\tfrac43E_{str}$, which equals E at the static knot (Derrick's theorem).
@@ -217,13 +217,13 @@ The two failure conditions written in advance:
 - The remaining shortfall is a lattice effect. It roughly halves as the grid spacing halves.
 - In the continuum this model is the Faddeev–Skyrme field coupled to the static metric $-N^2dt^2+d\mathbf x^2$. There a small knot follows the same path as everything else: that is a theorem of field theory, not something this run shows. **This run shows it to about 8%, not to the registered 3%.**
 
-**4. Relabelling flag.** This is the lattice form of a known result. In a Lorentz-invariant field theory a static soliton's inertia equals its energy, and in a static metric it falls universally. Nothing here derives Lorentz invariance from ED. What the run adds for ED is a requirement:
-- In ED terms: **twist held across successive ticks must cost exactly as twist held across a relation does.**
-- On Run 13's random cubical complex, Str lives on square faces. This asks that squares with one tick edge count as faces too. That fits the "squares, no triangles" contrast principle if a tick is an edge of the same standing as a relation. Whether ED's event layer works that way is not tested here.
+**4. Relabelling flag.** This is the lattice form of a known result. In a Lorentz-invariant field theory a static soliton's inertia equals its energy, and in a static metric it falls universally. Nothing here derives Lorentz invariance from CO. What the run adds for CO is a requirement:
+- In CO terms: **twist held across successive ticks must cost exactly as twist held across a relation does.**
+- On Run 13's random cubical complex, Str lives on square faces. This asks that squares with one tick edge count as faces too. That fits the "squares, no triangles" contrast principle if a tick is an edge of the same standing as a relation. Whether CO's event layer works that way is not tested here.
 
 **5. What this run is not.** The knot here moves by the lattice field equation, a Lagrangian whose costs are counted in local ticks. It does not move by the engine's commit-and-release events.
 - So this answers "does a knot of ED's Coh and Str fall in the engine's clock field?", not "does a knot built from engine commitments fall?"
-- ED's old event-layer finding, that committed matter which moves by paying for commitments is pushed away, is about a different law of motion and is untouched.
+- CO's old event-layer finding, that committed matter which moves by paying for commitments is pushed away, is about a different law of motion and is untouched.
 - Joining the two is open.
 
 **6. Adopted provisionally on 17 October 2026: Str is charged on every closed loop of the history, including loops made of a relation and a tick, with ticks and relations priced alike.** It costs nothing elsewhere in the record (Runs 12–13 used only static knots). It is required for composite matter to fall like everything else, and it is Lorentz invariance of the twist cost, flagged as such. See §10.

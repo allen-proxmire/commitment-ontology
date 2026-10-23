@@ -14,7 +14,7 @@ $$
 
 A commitment holds until $\sum_{\rm ticks}(P_a+P_b)$ reaches $H=\hbar\cdot2\cdot\text{dens}$, so its rate is ∝ P. Everything else is the adopted engine.
 
-**Method.** Box 40, seed 1, 20,000 ticks, read over the last 12,000. ED's ball at k = 1, 2, 3 commitments per pair, plus a control, at densities 8 and 32 (`engine21.py`).
+**Method.** Box 40, seed 1, 20,000 ticks, read over the last 12,000. CO's ball at k = 1, 2, 3 commitments per pair, plus a control, at densities 8 and 32 (`engine21.py`).
 
 **Results.**
 - **Stable.**

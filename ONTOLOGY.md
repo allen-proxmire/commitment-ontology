@@ -12,7 +12,7 @@ Some terms used throughout:
 - **Provisional** rulings are marked, with the grounds for going back where these were set in advance.
 - **Borrowed:** an input taken from established physics, tracked rather than derived.
 
-The full record (`writeups/commitment_ontology_simulations.md`) holds the evidence for every statement here, and the history of what was tried and dropped. The engine is a model built from these rules, not the whole of Event Density (ED).
+The full record (`writeups/commitment_ontology_simulations.md`) holds the evidence for every statement here, and the history of what was tried and dropped. The engine is a model built from these rules, not the whole ontology. The project was formerly titled Event Density.
 
 ---
 
@@ -54,7 +54,7 @@ $$
 - **Why it is provisional:**
   - it was designed to give β = 1;
   - p_s was brought in after the first version's clocks failed (Run 22);
-  - both scales are set by observational bounds, not by ED.
+  - both scales are set by observational bounds, not by CO.
 - What it achieves is surviving the independent checks that followed (Runs 23–26).
 
 ### R2. The presence clock (ruled 18 October, provisional; Runs 22–24)
@@ -74,7 +74,7 @@ $$
   - The gap between two clock designs shifts with the sign of the curvature by the amount the theory predicts. It is detected at 5.1σ and matches the prediction to 0.5σ (Run 72b).
   - The zero-range theory's apparent underestimate of these clocks' own dips, about 0.25% for one design and 0.5–0.6% for the other (Runs 72b, 75, 76), is mostly its ambient normalisation; evaluated at the ambient the conserved total gives, the offsets fall to about zero (Run 78's check, post hoc). Run 80 confirmed this on the flat lattice with predictions registered beforehand.
   - A lattice curved by the medium's own stress can be built exactly in planar symmetry (design note Note F). On it the engine's medium carries the flux the lattice was built with, to about 0.2% (Run 77). With option 3's clock the planar solution is flat (Rindler) spacetime.
-  - With one global hop rate on a regular equal-place lattice, such a lattice exists only while the source's draw times the distance to the reservoir stays small (Run 77). It comes from the representation: it disappears if clocks slow with the hops, so ED's rules are not shown to impose it. Where large stress curvature can be carried, it sits next to a strong source, at a slow medium.
+  - With one global hop rate on a regular equal-place lattice, such a lattice exists only while the source's draw times the distance to the reservoir stays small (Run 77). It comes from the representation: it disappears if clocks slow with the hops, so CO's rules are not shown to impose it. Where large stress curvature can be carried, it sits next to a strong source, at a slow medium.
   - Universality, and the p_s^(−0.85) convergence, on a space curved by the medium's own stress are untested.
 
 ### R3. The field (derived; Runs 14, 21–22)
@@ -138,16 +138,16 @@ The static metric is written on the space the medium lives on, γ̃_ij = N²g_ij
 $$
 ds^2=-N^2dt^2+N^{-2}\,\tilde\gamma_{ij}\,dx^i dx^j .
 $$
-- **ED's original rule** (option 1, with R6) kept γ̃ flat.
-  - With ED's field equation this gives the exponential metric e^(∓2U): γ = β = 1 at first post-Newtonian order, and no horizons.
+- **CO's original rule** (option 1, with R6) kept γ̃ flat.
+  - With CO's field equation this gives the exponential metric e^(∓2U): γ = β = 1 at first post-Newtonian order, and no horizons.
 - **Option 3** (ruled 21 October, provisional): binding tension curves the medium's space, in GR's form.
   - At ε = 0 (no medium scale), GR's static equations are exactly:
 $$
 \tilde\Delta U=-4\pi\,(e+3p)\,e^{2U},\qquad
 \tilde R_{ij}=2\,\partial_iU\,\partial_jU-16\pi\,p\,e^{2U}\,\tilde\gamma_{ij},\qquad hN=\text{const}.
 $$
-    The first is ED's own field equation, written on γ̃ (Run 65).
-- **With ED's medium** (Run 66), the transported field is φ = z∞ − z. It is linear on the lattice, and the clock is
+    The first is CO's own field equation, written on γ̃ (Run 65).
+- **With CO's medium** (Run 66), the transported field is φ = z∞ − z. It is linear on the lattice, and the clock is
 $$
 N=\frac{P}{P_\infty}=(1+\varepsilon)\,e^{-\varphi}-\varepsilon,\qquad \varepsilon=\frac{p_s}{P_\infty},\qquad \frac{dU}{d\varphi}=1+g,\quad g=\frac{\varepsilon}{N}.
 $$
@@ -156,7 +156,7 @@ $$
 \tilde R_{ij}=2\,\partial_i\varphi\,\partial_j\varphi-16\pi\,p\,e^{2U}\,\tilde\gamma_{ij}.
 $$
     That is a recorded choice. With U's stress instead, β = 1 exactly; with φ's, β − 1 = −ε/[2(1+ε)].
-  - **Under option 3 and that choice, ε sets every static departure from GR.** ED's static stars and holes are GR's to O(ε) (Runs 65–67).
+  - **Under option 3 and that choice, ε sets every static departure from GR.** CO's static stars and holes are GR's to O(ε) (Runs 65–67).
   - The clock stops where GR's lapse would be about ε, with no event horizon (Run 67).
 - **Going back to option 1** (grounds set in advance): if option 3 cannot be written to all orders as one consistent theory, or if it loses a result or fails data that option 1 passes.
 
@@ -165,21 +165,21 @@ $$
 - **The input current field is a flow of possibility**. Around a spinning body, possibility circulates and carries patterns along, so the medium's frame is the zero-angular-momentum frame.
   - Its clock is that frame's lapse α ("reading Z", adopted provisionally after Run 69).
   - Then spinning holes are Kerr outside the horizon to O(ε/α).
-- **Cost:** reading Z interprets an input; ED's rules do not imply it.
+- **Cost:** reading Z interprets an input; CO's rules do not imply it.
   - The engine's possibility flow is a gradient, and cannot circulate.
   - When rotation is built in, the flow needs a part that moving matter drags around (a curl part).
-- **Going back:** if ED's dynamics cannot carry a circulating flow, or if reading Z fails a test that the alternative (reading K, places held fixed) passes.
+- **Going back:** if CO's dynamics cannot carry a circulating flow, or if reading Z fails a test that the alternative (reading K, places held fixed) passes.
 
 ### R11. Black holes: option A and the core (rulings 19–21 October; Runs 28, 43, 67, 68, 71, 73, 74)
-- **Option A** (borrowed; 19 October, extended 20 October): outside black holes the field is GR's, with ED's core inside.
+- **Option A** (borrowed; 19 October, extended 20 October): outside black holes the field is GR's, with CO's core inside.
   - Option A now carries binary-black-hole inspirals and mergers.
-  - Under option 3, static holes (Runs 65–67) and spinning exteriors (Run 69) follow from ED's own equations instead.
+  - Under option 3, static holes (Runs 65–67) and spinning exteriors (Run 69) follow from CO's own equations instead.
 - **The core commits what reaches it** (19 October). It is a total absorber, so there are no echoes, and what falls in becomes record (Run 43).
 - **Where:** infalling matter commits where the medium's possibility per place falls to k·p_s, with k = 2 (21 October, 14:00). Since N = P/P∞, that is where the clock has fallen to 2ε.
   - **It catches all causal matter.** In a thin-shell model at physical ε, the stiffest causal matter turns back at most at 1.27p_s (Run 73). Ordinary dense matter (w ≲ 0.6) turns back below about 0.75p_s.
   - **Any k above about 1.34 would work.** k = 2 is twice the medium's crossover.
   - **The core's areal radius is 2m(k + 1)/k,** which is 3m at k = 2 (Run 74, computed post hoc with the corrected conversion).
-- **ED's holes are stable** (ruled 21 October: "it follows from the rules with nothing added"). This replaced the 19 October ruling that black holes evaporate (Runs 68, 71, 74; §5).
+- **CO's holes are stable** (ruled 21 October: "it follows from the rules with nothing added"). This replaced the 19 October ruling that black holes evaporate (Runs 68, 71, 74; §5).
 - **Going back:**
   - if the exterior's own dynamics, once written, give a conflicting bounce or commitment rule;
   - if matter is found that turns back above 2p_s;
@@ -190,12 +190,12 @@ $$
 
 | Rule | Status |
 |---|---|
-| The vacuum commits (ED's original event layer) | dropped 15 October (Run 14); ED's event-layer results 20–22 and 27 were obtained with it and have not been re-tested |
+| The vacuum commits (CO's original event layer) | dropped 15 October (Run 14); CO's event-layer results 20–22 and 27 were obtained with it and have not been re-tested |
 | The flow clock (16 October): a hold lasts while a fixed amount of possibility *passes* | replaced by the presence clock, 18 October |
 | Slowing possibility's own hops by the local clock | not adopted: the medium froze (Run 17) |
 | Bodies keep their proper size (19 October) | superseded for static bodies by hydrostatic balance, 20 October |
 | Defaults (c2), (c3) for binding tension | suspended, then replaced by option 3 (21 October) |
-| Black holes evaporate (19 October), with two tracked assumptions | withdrawn 21 October: ED's holes are stable |
+| Black holes evaporate (19 October), with two tracked assumptions | withdrawn 21 October: CO's holes are stable |
 
 ---
 
@@ -227,7 +227,7 @@ $$
 - p_s ≳ 4×10⁵ units per place, so that clocks agree to 10⁻⁶;
 - P∞/p_s ≳ 1.6–1.9×10⁵, from the pulsar triple PSR J0337+1715 (2.5–2.9×10⁵ with the planet model; Run 66).
 
-Nothing in ED's papers fixes either.
+Nothing in the earlier papers fixes either.
 
 ### The same accounting in other programs
 
@@ -245,7 +245,7 @@ The comparison is one of method, not of maturity. Each program states its inputs
 
 ---
 
-## 5. Where ED speaks and GR is silent (not yet tested as predictions)
+## 5. Where CO speaks and GR is silent (not yet tested as predictions)
 
 1. **Time's direction is fundamental, not a boundary condition.**
    - The engine's bottom is one-way.
@@ -277,10 +277,10 @@ $$
    - The hole has no event horizon, and it is cold (κ = 0).
 5. **Black holes do not evaporate.**
    - **A collapse emits GR's Hawking flux only as a transient,** for about 8M ln(P∞/p_s). That is about one quantum in the 1+1 model, about 10⁻² in 4D (Run 68).
-   - **When the matter commits,** a cold core gives one flash of about ħ/δu and then silence; a continued state gives a faint negative tail instead (Run 74). δu, how long commitment takes as seen from far away, is not fixed by ED's rules.
-   - **So primordial black holes never evaporate,** and the bounds on them that assume evaporation do not apply. A detected evaporating primordial black hole would count against ED.
+   - **When the matter commits,** a cold core gives one flash of about ħ/δu and then silence; a continued state gives a faint negative tail instead (Run 74). δu, how long commitment takes as seen from far away, is not fixed by CO's rules.
+   - **So primordial black holes never evaporate,** and the bounds on them that assume evaporation do not apply. A detected evaporating primordial black hole would count against CO.
    - **Black-hole thermodynamics** (S = A/4, T = κ/2π) does not carry over without a new argument.
-6. **Under ED's original rule for space only** (withdrawn under option 3), heavy neutron stars need matter near the causal limit above about twice nuclear density. Heavy-ion collisions allow this only at the edge of their bounds (Runs 57–62).
+6. **Under CO's original rule for space only** (withdrawn under option 3), heavy neutron stars need matter near the causal limit above about twice nuclear density. Heavy-ion collisions allow this only at the edge of their bounds (Runs 57–62).
 7. **Matter over antimatter** (stated 23 October, not tested).
    - In the beginning, commitments formed in a saturated space, with no room for a second pattern to form. So one kind of matter committed and its mirror did not.
    - Standard cosmology instead has matter and antimatter almost entirely annihilating, leaving a small excess, by a mechanism (Sakharov's conditions) not yet identified.
@@ -307,7 +307,7 @@ $$
 | 31–38 | the field's dynamics; horizons; whether a pattern's energy pulls; preferred-frame tests and frame dragging; the engine on the adopted rules |
 | 39–44 | the strong field with spin; binding inside bodies; the core |
 | 45–64 | bound matter at neutron-star strength; the first law; the strong equivalence principle; neutron-star masses, radii and nuclear matter; binaries beyond first order |
-| 65–69 | GR's clock equation in ED; option 3; static and spinning black holes; evaporation |
+| 65–69 | GR's clock equation in CO; option 3; static and spinning black holes; evaporation |
 | 70–80 (with 72b) | clocks on curved lattices, and how accurate the clock theory is; collapse through a hole's throat; where infalling matter commits, and what that radiates; the medium on space curved by its own field; the engine's own equation of state; a local rule for the medium's space |
 
 ---
@@ -316,7 +316,7 @@ $$
 
 **The medium and its scales**
 - What fixes p_s and P∞.
-- ED's hop: the engine needs it to be about 10^2.5–10^3 Planck lengths. That is an open tension with the corpus's P08 (ℓ_ED = ℓ_P), decided 20 October.
+- CO's hop: the engine needs it to be about 10^2.5–10^3 Planck lengths. That is an open tension with the corpus's P08 (ℓ_ED = ℓ_P), decided 20 October.
 - Whether φ's or U's stress curves the medium's space (it sets β − 1).
 
 **The medium on a stress-curved space**
@@ -345,6 +345,6 @@ $$
 **Foundations**
 - Signalling through the field fixed each tick, beyond first post-Newtonian order.
 - Deriving the borrowed inputs: Lorentz invariance (including twist across ticks) and inertia = total energy.
-- Whether ED's event layer itself charges twist across ticks.
+- Whether CO's event layer itself charges twist across ticks.
 - The vacuum energy's coefficient.
 - Particles as knots built from the engine's own commitments.

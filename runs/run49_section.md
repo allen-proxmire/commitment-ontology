@@ -1,4 +1,4 @@
-## Run 49: is the 4% pull miss ED's, or the engine's body model?
+## Run 49: is the 4% pull miss CO's, or the engine's body model?
 
 *20 October 2026. Registered and hashed with every imported module before the run (`dilation/PREREG_49.md`; same hash file and restart note as Run 48). One code check (base grid, weak field, not a registered case) ran before registering. The post hoc runs were made after the results and after the independent check: the checker's `check4849/` and `posthoc49.py`. An independent agent checked the run; its corrections are included and change the reading.*
 
@@ -67,7 +67,7 @@ $$
 - These remain homologous balls, not hydrostatic profiles. Different exact moments disagree at O(U) for a non-hydrostatic profile, so about ±0.1 b is a systematic error of the body model.
 
 **Reading.**
-1. **The 4% deficit is not ED's; it came mostly from the stress rule.**
+1. **The 4% deficit is not CO's; it came mostly from the stress rule.**
    - Runs 42–46c sized the stress by the virial with the rest draw as weight. Exact hydrostatics weights by the whole draw, stress included.
    - With that weight the held body's miss goes from −0.20 b to +0.03 b, and re-settling matter gives about the same.
    - This is post hoc. It needs a registered run before the record treats it as settled.
@@ -77,5 +77,5 @@ $$
 3. **At ordinary strengths the differences shrink.** All bodies and weights lie within −0.054 to +0.017 b at U ≈ 0.066, and the first-order results stand.
 4. **What would settle it: a body in local hydrostatic equilibrium on the lattice.** That means a non-homologous profile solved point by point from ∂p = (ρ + p)∂U with an equation of state. It needs no weight choice and no homologous approximation.
    - In GR the first law makes that answer zero for every Γ.
-   - If the engine gives zero too (to the grid), ED's static rules have GR's mass bookkeeping at strong field. If not, the miss is a genuine ED departure.
+   - If the engine gives zero too (to the grid), CO's static rules have GR's mass bookkeeping at strong field. If not, the miss is a genuine CO departure.
 5. **Run 47's discussion of a 4% active-mass deficit** (pulsar timing, J0737−3039B's binding energy) **is on hold until then.** The deficit may not exist.

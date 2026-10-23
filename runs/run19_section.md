@@ -1,6 +1,6 @@
-## Run 19: knots that dig their own clock wells (active mass, and how ED's engine combines wells)
+## Run 19: knots that dig their own clock wells (active mass, and how CO's engine combines wells)
 
-**Question.** In Runs 16–18 every body fell in a clock well dug by ED's benchmark ball. Here a knot digs its own.
+**Question.** In Runs 16–18 every body fell in a clock well dug by CO's benchmark ball. Here a knot digs its own.
 - **Committed side:** its places hold engine commitments where its cost lives, drawing possibility from the one budget.
 - **Uncommitted side:** its orientation field moves as in Run 18, falling with inertia, with twist charged on every loop.
 
@@ -20,16 +20,16 @@ This follows the rulings of 6 October (phase memory on uncommitted channels, at 
 | ÷ E(Q = 1) | 1 | 1.643 | 2.299 |
 
 **How many commitments a knot holds (two arms):**
-- **Arm E, cost-paid (an added rule, flagged).** $\mathrm{round}(\lambda E/2)$ commitments spread over the knot's links with weight $e_p+e_q$, so place p holds about $\lambda e_p$ of them. λ = 0.2023 per unit of cost, fixed so that Q = 1 holds 54, as ED's ball does. That gives 54 / 89 / 124 commitments, up to 6 on one place (an addition, flagged).
-- **Arm P, ED's current rule.** One reserved commitment per place with $e_p\ge\tau$, paired at random as ED pairs its ball. τ = 0.371 (ours) is fixed so that Q = 1 has 108 matter places. That gives 51 / 74 / 101 pairs.
+- **Arm E, cost-paid (an added rule, flagged).** $\mathrm{round}(\lambda E/2)$ commitments spread over the knot's links with weight $e_p+e_q$, so place p holds about $\lambda e_p$ of them. λ = 0.2023 per unit of cost, fixed so that Q = 1 holds 54, as CO's ball does. That gives 54 / 89 / 124 commitments, up to 6 on one place (an addition, flagged).
+- **Arm P, CO's current rule.** One reserved commitment per place with $e_p\ge\tau$, paired at random as CO pairs its ball. τ = 0.371 (ours) is fixed so that Q = 1 has 108 matter places. That gives 51 / 74 / 101 pairs.
 
-**Active mass.** A body's well about its centre, $\delta(r)=1-\langle N\rangle_r/\langle N_{\rm ctrl}\rangle_r$ for r = 7–20, fitted to ED's ball's well: $A=\sum\delta\,t/\sum t^2$. Its draw is the possibility it spends per tick.
+**Active mass.** A body's well about its centre, $\delta(r)=1-\langle N\rangle_r/\langle N_{\rm ctrl}\rangle_r$ for r = 7–20, fitted to CO's ball's well: $A=\sum\delta\,t/\sum t^2$. Its draw is the possibility it spends per tick.
 
 ### S1: does a knot's well scale with its energy? (pre-registered, `PREREG_19_S1.md`)
 
-| body | draw per tick | A (in ED balls) | A ÷ draw (×100) | holds per commitment per tick | clock rate over its cost |
+| body | draw per tick | A (in CO balls) | A ÷ draw (×100) | holds per commitment per tick | clock rate over its cost |
 |---|---|---|---|---|---|
-| ED's ball | 15.13 / 15.26 | 1.00 | 6.58 | 0.140 | 0.70 (over its places) |
+| CO's ball | 15.13 / 15.26 | 1.00 | 6.58 | 0.140 | 0.70 (over its places) |
 | Q1 E | 12.34 | 0.825 | 6.69 | 0.114 | 0.594 |
 | Q2 E | 17.33 | 1.180 | 6.81 | 0.097 | 0.534 |
 | Q3 E | 21.86 | 1.460 | 6.68 | 0.088 | 0.495 |
@@ -46,7 +46,7 @@ This follows the rulings of 6 October (phase memory on uncommitted channels, at 
 | P2: arm P, ratios = pair ratios | 1.45 ± 0.08, 1.98 ± 0.10 | 1.384 ± 0.007, 1.735 ± 0.003 | **pass for Q2, fail for Q3** |
 
 **Why both arms fall short: a body's own well slows its own commitments.**
-- These bodies dig deep wells. Weighted by where their cost sits, their own clocks run at 0.50–0.67 of the far rate (ED's ball: 0.70 over its places).
+- These bodies dig deep wells. Weighted by where their cost sits, their own clocks run at 0.50–0.67 of the far rate (CO's ball: 0.70 over its places).
 - A commitment completes as possibility passes its places, so it completes more slowly inside its own body's well. Commitments stacked on one place also share that place's possibility.
 - So a bigger body draws less per unit of cost. Draw per unit energy, ÷ Q = 1:
   - arm E: 0.855 (Q2), 0.771 (Q3)
@@ -83,12 +83,12 @@ g_{00}=-(1-U)^2=-1+2U-U^2\;\Rightarrow\;\beta=\tfrac12,\qquad g_{ij}=(1-U)^{-2}\
 $$
 
 - **Mercury.** The perihelion advance per orbit is $\frac{2+2\gamma-\beta}{3}\cdot\frac{6\pi GM}{a(1-e^2)c^2}$, so this metric gives **7/6 of GR: 50.1″ per century against the observed 42.98″.** This is Run 10's additive budget with free capacity. Run 10 reached 42.97″ only by *assuming* the multiplicative budget ($c=c_0e^{-U}$), which the engine as adopted does not produce.
-- **Nordtvedt.** $\eta=4\beta-\gamma-3=-2$, against σ(η) = 4.4×10⁻⁴ from lunar laser ranging (Williams et al. 2009). The formula is for theories without preferred-frame terms; ED's engine has a preferred frame, so other terms could add.
+- **Nordtvedt.** $\eta=4\beta-\gamma-3=-2$, against σ(η) = 4.4×10⁻⁴ from lunar laser ranging (Williams et al. 2009). The formula is for theories without preferred-frame terms; CO's engine has a preferred frame, so other terms could add.
 - **Both excluded.** The inference assumes the clock rate is the full time part of the metric and that orbits follow that metric, as Runs 16–17's patterns do. A direct orbit run on the engine field has not been done.
 
 ### S2a: two wells in one box (pre-registered, `PREREG_19_S2a.md`)
 
-ED's ball at (30, 30, 30) and the Q1 arm-E knot 9.5 places away, seeds 1 and 2, each against its solo runs.
+CO's ball at (30, 30, 30) and the Q1 arm-E knot 9.5 places away, seeds 1 and 2, each against its solo runs.
 
 | Prediction | Expected | Measured | |
 |---|---|---|---|
@@ -105,7 +105,7 @@ ED's ball at (30, 30, 30) and the Q1 arm-E knot 9.5 places away, seeds 1 and 2, 
 
 ### Reading
 
-**1. In ED's engine a body's active mass is its redshifted draw.** A bigger or denser body sits deeper in its own well, completes its commitments more slowly, and digs a well smaller than its cost. That is a binding effect, and by itself it is not a violation. Whether ED keeps the strong equivalence principle depends on its passive mass and inertia getting the same factor, and that depends on how its wells combine (point 2).
+**1. In CO's engine a body's active mass is its redshifted draw.** A bigger or denser body sits deeper in its own well, completes its commitments more slowly, and digs a well smaller than its cost. That is a binding effect, and by itself it is not a violation. Whether CO keeps the strong equivalence principle depends on its passive mass and inertia getting the same factor, and that depends on how its wells combine (point 2).
 
 **2. The engine's wells are linear in their sources (β = ½), not exponential (β = 1).** With the adopted pattern rule (γ = 1), the engine therefore predicts Mercury's perihelion at 50.1″ per century and η = −2. **Both are excluded.**
 - This is the parked "perihelion on the event layer", now answered by inference: Run 10's multiplicative budget is not what the adopted engine does.

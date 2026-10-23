@@ -1,6 +1,6 @@
 ## Run 17: slowing hops as well as ticks (light bending and Shapiro delay)
 
-**Question.** Run 16's test pattern carried only the clock half of gravity: its phase slowed near matter, its hops did not. So it could not bend light. Run 9 found the other half in the continuum: possibility needs free capacity to hop as well as to tick, which takes light bending from half to the full observed value. This run puts that half into ED's engine.
+**Question.** Run 16's test pattern carried only the clock half of gravity: its phase slowed near matter, its hops did not. So it could not bend light. Run 9 found the other half in the continuum: possibility needs free capacity to hop as well as to tick, which takes light bending from half to the full observed value. This run puts that half into CO's engine.
 
 **Target, fixed in advance.** A ray passing a mass is deflected by $\alpha=(1+\gamma)\,2GM/(bc^2)$, and the Shapiro delay also scales as $1+\gamma$.
 - GR: γ = 1. Cassini: γ − 1 = (2.1 ± 2.3)×10⁻⁵.
@@ -105,10 +105,10 @@ The density-8 misses are not explained by sub-wavelength counting noise: recompu
 
 ### Reading
 
-**1. The main result is a constraint on ED.**
+**1. The main result is a constraint on CO.**
 - The medium of possibility, which *is* the clock, cannot have its own wander timed by that clock: the feedback freezes, drains or clumps it.
 - So the slowing of hops near matter cannot belong to possibility at large. It has to belong to **patterns riding on the medium**: light, matter waves. This matches GR, where light moves through the metric without making it.
-- In ED terms: possibility at large keeps no time and is the engine's update; a pattern of possibility hops on its places' ticks and needs free capacity there.
+- In CO terms: possibility at large keeps no time and is the engine's update; a pattern of possibility hops on its places' ticks and needs free capacity there.
 
 **2. With that pattern rule, light bends toward matter about twice as much as clock slowing alone** (2.010 ± 0.003 at density 32), and the Shapiro delay also doubles where it can be measured cleanly. This holds in the engine's real field, but it is a consistency check: γ = 1 was put in by the two factors.
 
@@ -118,7 +118,7 @@ The density-8 misses are not explained by sub-wavelength counting noise: recompu
 
 **4. What the engine decision now is.**
 - No engine rule changed: the medium is as in Runs 15–16, and the base hop chance stays 0.99.
-- The proposal is the **pattern rule**. It is ED's statement of why light bends with γ = 1, and adopting it needs a ruling.
+- The proposal is the **pattern rule**. It is CO's statement of why light bends with γ = 1, and adopting it needs a ruling.
 - It also leaves the old "nothing falls when stepping by paying" result standing for committed matter. The stock pile-up that might have reversed it does not happen, because the medium is unchanged.
 
 ![Run 17](figures/17_hops.png)

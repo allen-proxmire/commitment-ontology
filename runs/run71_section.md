@@ -1,6 +1,6 @@
 ## Run 71: can a collapse get through the throat?
 
-*21 October 2026. Step 3 followed from Run 68: a registered collapse model through the throat. Registered and hashed before any ED trajectory was integrated (`collapse71/PREREG_71.md`, 11:23 UTC).*
+*21 October 2026. Step 3 followed from Run 68: a registered collapse model through the throat. Registered and hashed before any CO trajectory was integrated (`collapse71/PREREG_71.md`, 11:23 UTC).*
 - *Disclosed: a development test of the pipeline on GR (R₀ = 7, not registered).*
 - *`analyse71.py` was written after the run and is not in the hashed set. The scalings in the horn were fitted after the run (`posthoc71.py`, saved after the check began).*
 - *An independent agent checked the run. It confirmed the model and every number. It then found that the main late-time results hold only for exactly pressureless dust: with any surface pressure the shell turns back and comes out again. Its findings, and a post hoc run with pressure (Run 71b, `bounce71b.py`, not registered), are included.*
@@ -44,7 +44,7 @@ $$
 (R₀ = 10m; R₀ = 4m agrees within 1M in Δu_eff. γ is the Lorentz factor relative to static observers.)
 
 1. **The medium's stress carries the shell through the throat.**
-   - Read as GR's matter, ED's medium violates the null energy condition throughout the static exterior: ρ + p_r → −3ε/(4πr⁴) far out (the check), and about −0.03 at the throat.
+   - Read as GR's matter, CO's medium violates the null energy condition throughout the static exterior: ρ + p_r → −3ε/(4πr⁴) far out (the check), and about −0.03 at the throat.
    - A falling shell takes rest mass from that stress. At the throat its rest mass equals the throat's areal radius (M_s/R_t = 1 to 10⁻¹³). That is forced by the first condition for any finite crossing speed (the check), so the real result is that it crosses at finite speed.
    - With the exchange switched off, a shell released from rest has M_s ≈ 0.5–0.6R_t. It would meet the throat at light speed relative to static observers and could not continue.
 2. **In the horn, dust never reaches the zero-clock surface in its own time.**
@@ -96,10 +96,10 @@ $$
    - Dust creeps toward the zero-clock surface for ever and emits no sustained flux: Run 68's "no evaporation" holds for it, by a power-law endpoint.
    - Any pressure turns the matter back where the medium holds about (1 + w)p_s per place, and it comes back out after about 45M/w² (at ε = 5×10⁻⁶). The exchange is reversible: the medium returns the rest mass it gave.
    - Collapsing stellar cores have pressure. A bounce within milliseconds to seconds of formation would be plainly visible, and black holes (X-ray binaries, gravitational-wave remnants, Sgr A*) are observed to stay. So this model, as it stands, conflicts with data.
-3. **What would make ED's holes stable here: commitment before the bounce.**
+3. **What would make CO's holes stable here: commitment before the bounce.**
    - The ruling of 19 October is that the core commits what reaches it. In this model the core is never reached. Matter with pressure turns back at P ≈ (1 + w)p_s, before the zero-clock surface (P = p_s), and before the discrete regime.
-   - For the ruling that ED's holes are stable to hold for ordinary matter, the commitment has to act there: **where the medium's possibility per place falls to about p_s, within a factor of about 2 (w ≤ 1)**.
-   - That needed a ruling. It places ED's core at the crossover scale p_s, where possibility runs out. An alternative was exterior dynamics that are not held fixed: the shell's draw grows about 10³-fold in the horn, so the exterior mass need not stay fixed (the check).
+   - For the ruling that CO's holes are stable to hold for ordinary matter, the commitment has to act there: **where the medium's possibility per place falls to about p_s, within a factor of about 2 (w ≤ 1)**.
+   - That needed a ruling. It places CO's core at the crossover scale p_s, where possibility runs out. An alternative was exterior dynamics that are not held fixed: the shell's draw grows about 10³-fold in the horn, so the exterior mass need not stay fixed (the check).
    - **Ruled 21 October: infalling matter commits where the medium's possibility per place falls to about 2p_s (§3).**
 4. **Limits:**
    - the exterior is held fixed (no back-reaction);

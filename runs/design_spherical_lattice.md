@@ -14,7 +14,7 @@
 - **A dissolved relation keeps its two ends tied.** If it leaves a two-part possibility pattern, re-forming would favour the same pair of places, or places near them. That keeps re-forming local, which (A) needs if the relational pattern is to stay three-dimensional while it reshapes.
 - **Persistence by renewal (a note of 22 October).** Matter persists by re-committing, and that renewal is what lets it be cut, moved and recombined: a commitment that persisted without renewal could never be reconfigured. The same holds for the medium's space under (A). For it to curve under option 3 its relations must be able to dissolve and re-form; for it to keep its shape, they must re-form near where they were.
 - **Precedents for (B):** relations already carry a state in the record. In Run 11b relations shear, and isotropic stretch is set by matter. In Note E's second picture possibility hops on physical space at the local tick rate, since √γ̃γ̃^{ij} = N√g g^{ij}.
-- Rulings and models from ED's earlier attempts (A–C) about how space forms are not relied on here.
+- Rulings and models from the earlier attempts (A–C) about how space forms are not relied on here.
 
 ## 2. The target: an option-3 hole with the ruled core
 

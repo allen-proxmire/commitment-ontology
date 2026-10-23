@@ -52,7 +52,7 @@ Both start from the same initial conditions, set by Kepler with the active masse
    - In the engine that mass is up to about 4% below the sum of its constituents' energies at infinity.
 2. **What pulsars do test is m_P against m_I:** the triple's Δ = (+0.5 ± 1.8)×10⁻⁶. That is the fall test of Runs 45–46c. The engine resolves it only to about 10⁻³; the dilation argument (Run 46c) would carry it further.
 3. **Where the deficit could still be seen:**
-   - **Post-Newtonian orbital terms and radiation (the deciding open question).** The double pulsar J0737−3039A/B agrees with GR in its post-Keplerian parameters to about 10⁻⁴ (Kramer et al. 2021, Phys. Rev. X 11, 041050; arXiv:2112.06795). Suppose ED's post-Newtonian two-body law put inertial mass in one term and active mass in another. A 4% mismatch would then be about 100 times too large. The engine has no such law yet.
+   - **Post-Newtonian orbital terms and radiation (the deciding open question).** The double pulsar J0737−3039A/B agrees with GR in its post-Keplerian parameters to about 10⁻⁴ (Kramer et al. 2021, Phys. Rev. X 11, 041050; arXiv:2112.06795). Suppose CO's post-Newtonian two-body law put inertial mass in one term and active mass in another. A 4% mismatch would then be about 100 times too large. The engine has no such law yet.
    - **The star's mass against its constituents.** For J0737−3039B, electron-capture supernova models give a baryonic mass of 1.358–1.375 M☉, against a gravitational mass of 1.2489 M☉ (Podsiadlowski et al. 2005, astro-ph/0506566; Newton & Li 2009, arXiv:0908.1731). That puts the binding energy at 0.11–0.126 M☉, a window of about 0.017 M☉. A 4% deficit on most of the star's mass is about 0.05 M☉.
      - The comparison depends on the formation model and the equation of state.
      - It is **a possible tension, not computed**.
@@ -64,6 +64,6 @@ Both start from the same initial conditions, set by Kepler with the active masse
 5. **As theory, it is a departure from GR, perhaps partly from the body model.**
    - In GR, adding a quantum whose energy at infinity is ħω to a static star raises its total mass by ħω to first order, when the star re-equilibrates at fixed baryon number and entropy (Hartle–Sharp; Sorkin–Wald–Zhang).
    - The quantum's own Tolman integral is not ħω in GR either: `body46.py` gives κ(ω + 2Σ|∇ψ|²), and the star's stress response makes up the rest.
-   - The engine holds the body at fixed proper size by rule, not by re-equilibrating. So part of the 4% may come from that body model rather than from ED.
+   - The engine holds the body at fixed proper size by rule, not by re-equilibrating. So part of the 4% may come from that body model rather than from CO.
 
 *Later (Run 49, post hoc): sized by exact hydrostatics, the stress turns the 4% deficit into a +0.6% excess, so the deficit analysed here may not exist. Run 50 is to settle it.*

@@ -1,17 +1,17 @@
-## Run 66: option 3 in ED's own variables, and the strong-equivalence-principle formula under it
+## Run 66: option 3 in CO's own variables, and the strong-equivalence-principle formula under it
 
 *21 October 2026. Step 1. Registered and hashed before the run (`sep66/PREREG_66.md`, 06:25 UTC; Amendment 1 at 06:27 UTC, before any result was seen). An independent agent checked it; its corrections are included.*
 - *Disclosed: the claims were derived before registration, in working notes. Smoke tests on unregistered stars, whose results were seen, informed two thresholds (listed in the registration).*
 - *Amendment 1: the registered Newton tolerance (10⁻¹³) was below the solver's noise floor, and the first star stopped at 7×10⁻¹³. It was set to 10⁻¹¹; no test threshold changed. The original files and the failed log are kept.*
 
-**Question.** Run 65 found that ED's static field equation is GR's equation for the clock rate, and that option 3 changes only the rule for space. Under option 3, is the strong-equivalence-principle violation still Δ ≈ C p_s/P₀, with Run 65's C, or does the formula change? And what does the engine's medium need in order to carry option 3?
+**Question.** Run 65 found that CO's static field equation is GR's equation for the clock rate, and that option 3 changes only the rule for space. Under option 3, is the strong-equivalence-principle violation still Δ ≈ C p_s/P₀, with Run 65's C, or does the formula change? And what does the engine's medium need in order to carry option 3?
 
-**1. Option 3 in ED's own variables (an identity).** Write a static metric on the *medium's space* γ̃_ij = N²g_ij, the space whose coordinate light speed is N² (ED's pattern rule):
+**1. Option 3 in CO's own variables (an identity).** Write a static metric on the *medium's space* γ̃_ij = N²g_ij, the space whose coordinate light speed is N² (CO's pattern rule):
 $$
 ds^2=-N^2dt^2+N^{-2}\,\tilde\gamma_{ij}\,dx^idx^j,\qquad N=e^{-U}.
 $$
 GR's static equations for a perfect fluid are then exactly three statements:
-- **ED's field equation, on γ̃** (GR's R₀₀ equation):
+- **CO's field equation, on γ̃** (GR's R₀₀ equation):
 $$
 \tilde\Delta U=-4\pi\,(e+3p)\,e^{2U} ;
 $$
@@ -21,11 +21,11 @@ $$
 $$
 - **balance:** hN = const.
 
-ED's original rule for space is γ̃ flat (g_ij = N⁻²δ_ij). Option 3 is γ̃ curved by stress: the field's own tension (2∂U∂U, the "binding tension" of §3's (c2)) and matter's pressure. Energy density does not curve it. So option 3 says, in ED's words, **binding tension shears the medium's space**, and that is all it changes.
+CO's original rule for space is γ̃ flat (g_ij = N⁻²δ_ij). Option 3 is γ̃ curved by stress: the field's own tension (2∂U∂U, the "binding tension" of §3's (c2)) and matter's pressure. Energy density does not curve it. So option 3 says, in CO's words, **binding tension shears the medium's space**, and that is all it changes.
 
 **What this corrects.** Run 65 recorded that, under option 3, ruling 2's "the vacuum draws nothing" and "g₀₀ = −e^{−2U}" hold only at first order. That read them with the flat Laplacian of isotropic coordinates. On γ̃ both hold to all orders: in vacuum Δ̃U = 0 exactly, and g₀₀ = −e^{−2U} by construction. The pattern rule c = N² also holds, relative to γ̃. For Schwarzschild, γ̃ = dr² + (r² − 2Mr)dΩ² and r²(1 − 2M/r)U′ = −M, so U is harmonic on γ̃.
 
-**2. ED's medium on γ̃.** Possibility hops on γ̃. Equivalently it hops on physical space at the local tick rate, since √γ̃ γ̃^{ij} = N√γ g^{ij}. The medium carries φ linearly (field action (1/8π)|∇̃φ|², whose stress ∂_iφ∂_jφ curves γ̃). The clock is the medium's occupancy. In the mean field of f(n) = c ln(1 + n/p_s),
+**2. CO's medium on γ̃.** Possibility hops on γ̃. Equivalently it hops on physical space at the local tick rate, since √γ̃ γ̃^{ij} = N√γ g^{ij}. The medium carries φ linearly (field action (1/8π)|∇̃φ|², whose stress ∂_iφ∂_jφ curves γ̃). The clock is the medium's occupancy. In the mean field of f(n) = c ln(1 + n/p_s),
 $$
 N=\frac{P}{P_\infty}=(1+\varepsilon)\,e^{-\varphi}-\varepsilon,\qquad \varepsilon=\frac{p_s}{P_\infty},\qquad \frac{dU}{d\varphi}=1+g,\quad g=\frac{\varepsilon}{N}=\frac{p_s}{P}.
 $$
@@ -89,10 +89,10 @@ $$
    - γ̃ carries GR's whole spatial-geometry sector, with its own action term (−R̃/16π). The field's self-interaction moves from U's source into the medium's geometry.
    - Clock universality and p_s's role on a curved γ̃ are plausible, by locality, but not shown: the engine was never run there.
 6. **A choice the run made, which sets β.** For ε > 0, Run 66 lets the medium's own field φ curve γ̃ (the stress of its action, the variational completion of rule V). That gives β − 1 = −ε/(2(1 + ε)) and Δ = εC/(1 + ε). Letting U's stress curve γ̃ instead gives β = 1 exactly. It is recorded as a choice.
-7. **"The vacuum draws nothing" is not distinctive under option 3.** GR without a cosmological constant also has Δ̃U = 0 in vacuum. ED's distinct claim is that the quantum vacuum's energy does not draw, which needs its own argument.
+7. **"The vacuum draws nothing" is not distinctive under option 3.** GR without a cosmological constant also has Δ̃U = 0 in vacuum. CO's distinct claim is that the quantum vacuum's energy does not draw, which needs its own argument.
 
 **Reading.**
-1. **Option 3 is ED's own statics with one change: the medium's space is curved by stress.** ED's field equation, its exponential clock, the vacuum that draws nothing and the pattern rule all hold to all orders, on γ̃. ED's original rule was that γ̃ is flat. GR says the field's tension and matter's pressure curve it.
+1. **Option 3 is CO's own statics with one change: the medium's space is curved by stress.** CO's field equation, its exponential clock, the vacuum that draws nothing and the pattern rule all hold to all orders, on γ̃. CO's original rule was that γ̃ is flat. GR says the field's tension and matter's pressure curve it.
 2. **The two costs recorded with Run 65 are withdrawn.**
    - Ruling 2 holds to all orders on γ̃.
    - The engine's medium carries option 3 as built (logarithmic outflow, exponential clock, the crossover p_s). It needs only to hop on γ̃ instead of a flat lattice (Note E).

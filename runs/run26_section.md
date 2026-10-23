@@ -9,7 +9,7 @@ $$
 This is Run 10's multiplicative budget, now with two bodies on the event layer. Pre-registered: `PREREG_26.md`, hashed before any run (`twowell_run.zip`).
 
 **Method.**
-- **Bodies.** A is ED's ball of radius 3 (54 pairs), centred at (13, 20, 20). B is a ball of radius 4 (114 pairs), centred at (27, 20, 20). The two share no places.
+- **Bodies.** A is CO's ball of radius 3 (54 pairs), centred at (13, 20, 20). B is a ball of radius 4 (114 pairs), centred at (27, 20, 20). The two share no places.
 - **Engine.** Run 22's recording engine, unchanged, with $p_s$ = 1 and $P_0$ = 64 (measured β = 0.9996). Box 40, seed 1.
 - **Runs.** ctrl, A, B and AB; 50,000 ticks, read over the last 20,000 in two halves.
 - **Clock rate.** $N=\bar P/\langle\bar P_{\rm ctrl}\rangle$.

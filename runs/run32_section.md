@@ -1,13 +1,13 @@
-## Run 32: can the adopted rules make a horizon? (and do ED's radiation papers apply?)
+## Run 32: can the adopted rules make a horizon? (and do the earlier radiation papers apply?)
 
 *19 October 2026. Pre-registered and hashed before any run (`horizon/PREREG_32.md`, 05:47 UTC), with a kill rule. (step 2: whether the surface where possibility runs out is a horizon).*
 
-**Prior record (checked first).** Much of this was already found in other ED models. This run puts it on the adopted rules.
+**Prior record (checked first).** Much of this was already found in other CO models. This run puts it on the adopted rules.
 - **Attempt B, B-39** (O165, W103, W104): the body's slowing clock cuts its own draw. "The brake wins by a factor of ~30… the bandwidth seal OPENS". The clock slows as a power law, $t^{-0.55}$ to $t^{-0.67}$; "nothing freezes."
 - **MODEL_RESULTS, result 17:** "ED's ingredients make neither [a horizon] nor an exact permanent cut."
 - **Attempt C, C-O39:** "the draw is self-limiting… so clocks never reach zero."
 - **`ED_Acoustic_Metric_Curvature.md`:** "κ = 0… ED horizons are generically cold."
-- **ED's radiation papers** (039, 047, 050, 052; `BH_Thermal2Pi`; `ED10_Horizons`) all assume a horizon with κ > 0.
+- **The earlier radiation papers** (039, 047, 050, 052; `BH_Thermal2Pi`; `ED10_Horizons`) all assume a horizon with κ > 0.
 
 **Theory** (`theory32.py`, before any run).
 
@@ -25,7 +25,7 @@ $$
   - the proper distance to the surface grows as ln(1/ε), so it is infinite
   - the areal radius r/N diverges
   - a radial light ray reaches it at finite affine parameter
-- This is an extremal-type end with infinite area and zero temperature, the same verdict as ED's acoustic-metric arc.
+- This is an extremal-type end with infinite area and zero temperature, the same verdict as CO's acoustic-metric arc.
 
 (b) **A static body cannot make that surface.**
 - Its draw is its ticking (presence clock). For a thin shell of bare compactness μ (the U it would make if its clocks did not slow), the shell's clock rate solves
@@ -36,7 +36,7 @@ $$
 - More generally, outside matter $\tfrac16\nabla^2z=-\bar s<0$, so z is smallest on the matter and positive outside it.
 - U at the surface grows only like ln μ, toward ln(1 + Q) ≈ 10 at Q = 2.3×10⁴, and never reaches it (figure, panel a).
 
-**Engine check.** ED's radius-3 ball with k = 8, 32 and 128 commitments per pair, at $p_s$ = 1, $P_0$ = 64, box 40. Each run is 25,000 ticks, read over the last 12,000. The engine is unchanged.
+**Engine check.** CO's radius-3 ball with k = 8, 32 and 128 commitments per pair, at $p_s$ = 1, $P_0$ = 64, box 40. Each run is 25,000 ticks, read over the last 12,000. The engine is unchanged.
 
 | k | draw (theory) | mean P at the ball (theory) | lowest ball place | N at r = 4 (theory) | lowest shell P, r = 4–15 | lowest outflow outside the ball |
 |---|---|---|---|---|---|---|
@@ -56,9 +56,9 @@ $$
 
 **Reading.**
 1. **Under the adopted rules a static body never makes a horizon.** Its draw is its ticking, so a deepening well slows the very draw that digs it. This is the Tolman self-consistency of Run 30, seen at full depth, and it matches Attempt B's B-39 and Attempt C's C-O39 on a different engine.
-2. **Even the idealised end, where possibility runs out, is at zero temperature.** So ED's radiation papers, which derive $T=\kappa/2\pi$ from a horizon with κ > 0, do not apply to the engine's static solutions. A static engine body has no horizon, so standard Hawking radiation does not arise. The engine models no quantum fields, and its check ran only at Q = 64.
+2. **Even the idealised end, where possibility runs out, is at zero temperature.** So the earlier radiation papers, which derive $T=\kappa/2\pi$ from a horizon with κ > 0, do not apply to the engine's static solutions. A static engine body has no horizon, so standard Hawking radiation does not arise. The engine models no quantum fields, and its check ran only at Q = 64.
 3. **What that leaves.**
    - **An ultra-compact body with a surface at finite redshift.** For $U_b>\tfrac12$ (thin shell: μ ≳ 0.9) the exponential metric's light ring, at $r=2M$ or U = ½, lies outside the body, so Run 28's shadow (+4.6%) and ringdown (about 4% low) apply. The registration's "$U_b>2$" was wrong.
    - **The missing surface glow of Sgr A*** (Attempt 03's closure, 25× over the limit at redshift e) applies to that surface. Whether a very large redshift, with its long equilibration time, escapes the steady-state argument has not been computed. The record does not try it either.
    - **Collapse.** Barceló et al.'s horizonless (quasi-Hawking) radiation needs a surface redshift that grows exponentially in time. Attempt B's B-39 found a power law. Not run here, and on Run 31's diffusive medium a collapse would in any case run at the diffusion rate.
-4. **Information.** With no horizon there is nothing for information to be lost behind. ED's "records, not reversibility" reading is not needed for static solutions. It would matter only if a rule change brings back a horizon.
+4. **Information.** With no horizon there is nothing for information to be lost behind. CO's "records, not reversibility" reading is not needed for static solutions. It would matter only if a rule change brings back a horizon.

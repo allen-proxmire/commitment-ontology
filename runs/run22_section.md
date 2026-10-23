@@ -43,7 +43,7 @@ This is the β of an ideal clock that reads the ambient $\langle P\rangle$. **β
 
 | set | what | ticks (read) |
 |---|---|---|
-| wells | box 40, ED's ball (radius 3) stacked k = 1, 2, 3, plus control. Density 8 (seeds 2, 3), 32 (seeds 2, 3), 4 (seed 2) | 20,000 (12,000); 30,000 (15,000) at density 32, which relaxes about 4× more slowly |
+| wells | box 40, CO's ball (radius 3) stacked k = 1, 2, 3, plus control. Density 8 (seeds 2, 3), 32 (seeds 2, 3), 4 (seed 2) | 20,000 (12,000); 30,000 (15,000) at density 32, which relaxes about 4× more slowly |
 | uniform medium | box 20, no matter; ladders of 7–9 densities around P₀ = 4, 8, 16, 32, 64, 128, 512, 2048 | burn max(1500, 6(1+ρ)/c), read 5,000 |
 | clocks | control and k = 1 with 100 probe clocks (Run 15's layout; designs hold H and 2H; shells 5–14); densities 8 and 32, seeds 2 and 3 | 20,000 (12,000) |
 | patterns | Run 16's code, unchanged, in the k = 1 fields and in the theory's smooth field; released 10 and 14 out along six axes; masses 0.7–2.0 | 16 |

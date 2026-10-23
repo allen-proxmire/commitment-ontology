@@ -8,7 +8,7 @@
 - **What it does not cover:**
   - the strong-field bookkeeping: at p_s = 1 a bound pattern's binding is still not counted once (Run 40b);
   - a body's internal stresses: patterns inside a body, and internal binding of atoms and nuclei at weak field, are not yet run.
-- **What would replace it:** an ED rule that sets a body's extent from its own commitments, in proper units.
+- **What would replace it:** a CO rule that sets a body's extent from its own commitments, in proper units.
 
 **2. The canonical mass reading is DSR-4: mass is a frequency of becoming, E = ħω.**
 - **Why:**
@@ -19,7 +19,7 @@
 - **Open:** whether a superposed pattern draws by its average energy (semiclassical) or only on commitment (ontology §12). This decides gravity's response to quantum superpositions.
 
 **Not decided: the strong field (Run 41).** Both rotating completions of the adopted metric fail GW250114's ringdown at the remnant's spin. The options are:
-- a tracked input that the exterior field is GR's (Kerr's), keeping ED's possibility-limited core instead of a horizon;
+- a tracked input that the exterior field is GR's (Kerr's), keeping CO's possibility-limited core instead of a horizon;
 - or a change to the pattern rule or clock map beyond first order.
 
 This is left for a ruling.
@@ -31,7 +31,7 @@ This is left for a ruling.
 
 So the strong field is now settled by a tracked input:
 - **Outside a compact object the field is GR's (Kerr's).**
-- **Inside, where GR has a horizon and a singularity, ED has a core where possibility runs out:** no singularity, no infinity (Paper_042).
-- **Long-term goal:** derive this exterior from ED's own rules, by changing the pattern rule or the clock map beyond first order.
+- **Inside, where GR has a horizon and a singularity, CO has a core where possibility runs out:** no singularity, no infinity (Paper_042).
+- **Long-term goal:** derive this exterior from CO's own rules, by changing the pattern rule or the clock map beyond first order.
 - **What the input buys:** GW250114's ringdown and the black-hole shadows match by construction.
 - **What it opens:** tests of the core itself (Run 43).

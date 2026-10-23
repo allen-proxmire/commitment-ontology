@@ -10,7 +10,7 @@
 
 **Question.** Run 44 left a second-order term in how a bound pattern pulls, about −1.25 U_self·b. Read across naively to a neutron star (U ≈ 0.2, binding ≈ 0.12–0.15), it is a few ×10⁻². The pulsar triple PSR J0337+1715 bounds how a neutron star *falls* relative to white dwarfs: Δ = (+0.5 ± 1.8)×10⁻⁶ at 95% (Voisin et al. 2020). Does the engine make a body's binding pull and fall like its energy at that strength?
 
-**Part 1: first order (calculation).** ED's Nordtvedt parameter is η_N = (10/3)(β − 1). The record's theory for β − 1 gives about −0.45 p_s/P₀ at large p_s, so η_N ≈ −1.5 p_s/P₀ (−6.5×10⁻⁵ at P₀/p_s = 2.3×10⁴). A 1.44 M☉ neutron star's binding fraction is about 0.12, so
+**Part 1: first order (calculation).** CO's Nordtvedt parameter is η_N = (10/3)(β − 1). The record's theory for β − 1 gives about −0.45 p_s/P₀ at large p_s, so η_N ≈ −1.5 p_s/P₀ (−6.5×10⁻⁵ at P₀/p_s = 2.3×10⁴). A 1.44 M☉ neutron star's binding fraction is about 0.12, so
 $$
 |\Delta|\approx|\eta_N|\times0.12\approx0.18\,\frac{p_s}{P_0}\;\lesssim\;2\times10^{-6}\quad\Longrightarrow\quad \frac{P_0}{p_s}\gtrsim9\times10^{4}.
 $$

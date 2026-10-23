@@ -7,7 +7,7 @@
 Pre-registered with kill rules (`PREREG_25.md`, hashed before any run; `close_run.zip`).
 
 **Method.**
-- **(a) Wells.** Run 22's recording engine, unchanged, with $p_s$ set first: box 40, ED's ball, $P_0/p_s$ = 256, seed 2, 20,000 ticks, read over the last 12,000.
+- **(a) Wells.** Run 22's recording engine, unchanged, with $p_s$ set first: box 40, CO's ball, $P_0/p_s$ = 256, seed 2, 20,000 ticks, read over the last 12,000.
   - $p_s$ = 4, $P_0$ = 1024: control, k = 1 and 2.
   - $p_s$ = 16, $P_0$ = 4096: control, k = 4 and 8.
 

@@ -1,10 +1,10 @@
-## Run 69: which clock does ED's medium follow around a spinning hole? Two readings compared
+## Run 69: which clock does CO's medium follow around a spinning hole? Two readings compared
 
 *21 October 2026. Registered and hashed before the run, and before any literature for its criteria was searched (`spin69/PREREG_69.md`, 07:14 UTC). The literature was compiled afterwards by the registered criteria (`lit69.json`). An independent agent checked the run.*
 - *Disclosed: some of the spin measurements were known when the criteria were set.*
 - *The first compile missed an event that meets K69c's criterion, and the check found it. The verdict flips from "not challenged" to "challenged". The first compile is kept (`lit69_first_compile.json`).*
 - *The exclusion of the ringdown-model (pSEOBNR) spins was decided after the numbers had been seen.*
-- *The check also found that the first argument from ED's rules was wrong. Its corrections are included.*
+- *The check also found that the first argument from CO's rules was wrong. Its corrections are included.*
 
 **Question.** In a static field the medium's clock is unambiguous: N = P/P∞. Around a spinning hole two clocks are natural. The check on Runs 66–67 found that the near zone of a spinning hole, and with it GW250114, depends on which one the medium follows.
 
@@ -61,9 +61,9 @@ $$
 **What the check added.**
 1. **The geometry is confirmed with independent code.** Light-ring and ISCO conditions were solved directly; every tabulated radius and clock agrees to 10⁻¹⁰; the shadow fractions agree to 0.003.
 2. **The first argument from rule C1 was wrong.** It held that C1 (patterns ride possibility's flow, g₀ᵢ = −uᵢ) makes possibility flow with frame dragging, so the medium's own frame is the ZAMO frame. But on the record's own Run 34 analysis, possibility's flow is always a gradient, and "a stationary rotating body makes no flow at all". Kerr's g_tφ comes from the input current field (the Lorentz input's momentum channel), not from that flow. Reading Z therefore needs a ruling that the input current field is itself a flow of possibility.
-3. **ED's rules do not decide between the readings.**
+3. **CO's rules do not decide between the readings.**
    - For K: Run 34 writes g₀₀ = −N², which in stationary lattice coordinates is the Killing norm. Run 66's variables generalise to the stationary (Ernst) reduction, U = −½ ln F. And occupancy is defined per fixed place.
-   - For Z: Run 65 identified ED's field equation with GR's lapse equation, and the lapse of Kerr's natural (maximal) time slices is α. The Lorentz-input picture, in which moving clocks run slow relative to the medium, also works only if the medium's frame is orthogonal to the tick's slices.
+   - For Z: Run 65 identified CO's field equation with GR's lapse equation, and the lapse of Kerr's natural (maximal) time slices is α. The Lorentz-input picture, in which moving clocks run slow relative to the medium, also works only if the medium's frame is orthogonal to the tick's slices.
 4. **Jets are the strongest observational argument against K.**
    - Blandford–Znajek jet power needs the ergoregion, not the horizon (Komissarov 2008), and K removes the ergoregion at every spin.
    - The EHT's M87* models without spin fail on jet power (Paper V). Under K the hole's spin energy is not available to the jet, so K would sit with those failing models whatever the spin.
@@ -74,7 +74,7 @@ $$
 7. **Other readings exist.** Rigid co-rotation with the horizon would end the medium at a light cylinder (3.96M at a = 0.68), which is excluded at once.
 
 **Reading.**
-1. **ED's rules do not decide which clock the medium follows in rotation.** Run 34's g₀₀ and Run 66's variables suggest K; Run 65's lapse identification suggests Z. C1's flow vanishes for stationary rotation, so it decides nothing.
+1. **CO's rules do not decide which clock the medium follows in rotation.** Run 34's g₀₀ and Run 66's variables suggest K; Run 65's lapse identification suggests Z. C1's flow vanishes for stationary rotation, so it decides nothing.
 2. **The data favour Z.**
    - K is disfavoured by X-ray spins, formally; each object is contested.
    - K is challenged by GW231028_153006.

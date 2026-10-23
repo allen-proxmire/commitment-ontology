@@ -1,6 +1,6 @@
-## Run 16: falling with inertia (on ED's own event-layer engine)
+## Run 16: falling with inertia (on CO's own event-layer engine)
 
-**Question.** ED's own record says **nothing falls**. A free pattern that moves by commitments, paid for by the places it lands on, is pushed *away* from matter. Matter gathers only under an added steering rule with a chosen coupling, and then it drifts rather than accelerates. The record names two missing pieces: *"a body falling through another's field"* and *"a reason the steering rule should take the form it does"*. It also says direction lives in phase. This run supplies both, with no steering rule and no coupling.
+**Question.** the earlier record says **nothing falls**. A free pattern that moves by commitments, paid for by the places it lands on, is pushed *away* from matter. Matter gathers only under an added steering rule with a chosen coupling, and then it drifts rather than accelerates. The record names two missing pieces: *"a body falling through another's field"* and *"a reason the steering rule should take the form it does"*. It also says direction lives in phase. This run supplies both, with no steering rule and no coupling.
 
 **Target, fixed in advance (standard physics).**
 - **Inertia:** a free body keeps its state of motion.
@@ -15,9 +15,9 @@ $$
 
 The pre-registration (`PREREG.md`) was written before any pattern was evolved in the engine's field. A note written after the density-8 results and before the density-32 ones (`NOTE_after_d8.md`) records two problems and a revised prediction.
 
-### The source: ED's engine with the adopted rules
+### The source: CO's engine with the adopted rules
 
-- ED's `run_event_layer.py`, imported unmodified.
+- CO's `run_event_layer.py`, imported unmodified.
 - **The vacuum never commits** (Run 14), and **matter's hold is counted in passing possibility** (Run 15).
 - The published ball (radius 3) in a 60³ periodic box. Densities 8 and 32; ball seeds 1 and 2, plus a control with no matter.
 
@@ -31,7 +31,7 @@ Under the adopted rule, this is the rate of matter's clocks. Run 15 measured clo
 
 ### The test pattern
 
-A pattern of possibility carries an amplitude and a phase; ED's Born weighting already treats possibility as amplitudes √P with phases. It obeys three rules:
+A pattern of possibility carries an amplitude and a phase; CO's Born weighting already treats possibility as amplitudes √P with phases. It obeys three rules:
 - It hops at most one place per tick.
 - **Its phase is turned by the committed world's local count, never by a clock of its own.** At internal frequency $m$, it turns by $m\,N(\mathbf x)$ per tick at place $\mathbf x$.
 - It has no steering rule and no coupling.
@@ -56,7 +56,7 @@ $$
 
 **Inertia and weight come from the same $m$.** Near rest, $\Omega\approx mN+k^2/(2m)$. So $m$ sets the inertia, through the one-hop-per-tick limit $c=1$. And $mN(\mathbf x)$ is a potential that is lower where clocks run slow.
 
-**The derived steering rule.** ED's added steering rule makes each place lean toward the neighbour whose cadence lags. Here the same thing happens as interference, with no rule added:
+**The derived steering rule.** CO's added steering rule makes each place lean toward the neighbour whose cadence lags. Here the same thing happens as interference, with no rule added:
 - Where the count runs slow, the pattern's phase falls behind.
 - Its wavefronts turn toward the lag.
 - The pattern's velocity grows steadily in time (an acceleration), rather than drifting at a rate set by a chosen coupling.
@@ -71,9 +71,9 @@ $$
 - The second is the pattern's internal motion, at most 10%.
 - The third is the time step, below 1%.
 
-**Relabelling flag.** In standard terms, this is a relativistic matter wave in a weak static field; its fall is GR's Newtonian limit, as in the COW experiment. ED's own content here is:
+**Relabelling flag.** In standard terms, this is a relativistic matter wave in a weak static field; its fall is GR's Newtonian limit, as in the COW experiment. CO's own content here is:
 - which count turns the phase: the committed world's passing possibility, the same count that times matter
-- the field coming from ED's engine
+- the field coming from CO's engine
 - the steering coming out of phase alone, with no rule and no coupling
 
 ### Method
@@ -181,7 +181,7 @@ Where the clock rate is uniform, a pattern keeps its velocity to within 0.07%: t
 - It needs no steering rule and no coupling.
 - It accelerates; it does not drift.
 - Every mass falls alike, to within 0.6%.
-- This fills both gaps in ED's record: a body falls through another's field, and the steering rule has a reason. Direction lives in phase, and the phase is the committed world's count.
+- This fills both gaps in the earlier record: a body falls through another's field, and the steering rule has a reason. Direction lives in phase, and the phase is the committed world's count.
 
 **2. Inertia and falling are one rule.**
 - In a uniform clock field a pattern keeps its velocity (0.07%). Where the field varies, it falls.
@@ -189,9 +189,9 @@ Where the clock rate is uniform, a pattern keeps its velocity to within 0.07%: t
 - That is why every mass falls alike. Universality here is a consequence of the single speed limit, not a separate rule.
 
 **3. Moving by paying versus moving by phase.**
-- ED's earlier result stands: a pattern that moves by commitments paid for by the places it lands on is pushed away from matter.
+- CO's earlier result stands: a pattern that moves by commitments paid for by the places it lands on is pushed away from matter.
 - A pattern of possibility, moving as a phase, falls.
-- So in ED terms, **free fall is a property of possibility in transit, not of committed matter stepping.** That fits "possibility keeps no time; the committed world counts what passes".
+- So in CO terms, **free fall is a property of possibility in transit, not of committed matter stepping.** That fits "possibility keeps no time; the committed world counts what passes".
 
 **4. The no-matter medium is not perfectly calm, and that is physics, not a defect.** The possibility gas has slowly relaxing density ripples, and patterns fall in them exactly as they fall toward matter. The ripple forces shrink as the medium gets richer (0.39× for 4× the density).
 

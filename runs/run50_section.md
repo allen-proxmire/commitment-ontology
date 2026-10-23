@@ -89,7 +89,7 @@ so the far-field mass D equals E.
 1. **With matter in exact hydrostatic balance and a scale-free medium, the engine has an energy principle, and its discrete first law holds (K50a).**
    - The field law sourced by Tolman draws, the full pattern rule, and matter whose draw includes its internal energy and pressure are the Euler–Lagrange equations of one action.
    - The new ingredient is the matter rule, N h = μ̃. It replaces the old stress and proper-size rules.
-   - In ED's own medium, which is not exactly scale-free, the engine's draw lacks a factor (1 + g), g = c d ln R/dz − 1. So it is not variational at order Δg, the same quantity Run 51 measures.
+   - In CO's own medium, which is not exactly scale-free, the engine's draw lacks a factor (1 + g), g = c d ln R/dz − 1. So it is not variational at order Δg, the same quantity Run 51 measures.
 2. **The far field obeys the same first law as GR to within the lattice noise:** a quantum raises it by ħω to ≲ 0.3% of κω (post hoc). As registered, K50b is undecided.
    - Analytically, (iii) makes it exact in the continuum: the far-field mass equals the action's energy, as Komar = ADM does in GR.
    - **So the 4% "active-mass deficit" was the old body model.** Run 49's post hoc analysis points mainly at its stress weight.

@@ -61,7 +61,7 @@ $$
 \frac{\delta G(0)}{G(0)}\sim C\,\tilde R\,h\,\ell_c ,\qquad C\approx0.008\text{–}0.013 ,
 $$
    not from R̃h². The planned figure of 10⁻⁷² used the wrong scaling.
-4. **At physical curvature it is still negligible.** For a neutron star (R̃ ≈ 0.2/(10 km)², ℓ_c ≈ 10 km) and ED's hop (10^2.5–10^3 Planck lengths), R̃hℓ_c ≈ (1–3)×10⁻³⁷, so the self-dip changes by about 10⁻³⁹ of itself. The design-dependent part is smaller still.
+4. **At physical curvature it is still negligible.** For a neutron star (R̃ ≈ 0.2/(10 km)², ℓ_c ≈ 10 km) and CO's hop (10^2.5–10^3 Planck lengths), R̃hℓ_c ≈ (1–3)×10⁻³⁷, so the self-dip changes by about 10⁻³⁹ of itself. The design-dependent part is smaller still.
 5. **Other limits.**
    - The curvature is imposed, not produced by the medium's stress.
    - Clocks sit at maxima of Ω, so only one sign of contrast was tested.

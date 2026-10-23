@@ -110,13 +110,13 @@ A lump is a connected region where the director points more than 60° away from 
 
 ### Reading
 
-- **Particles as knots pass.** Coh (alignment) plus Str (the squared winding density) holds stable knots of every charge tried, and their energies are the known continuum spectrum. Because this is the established Faddeev–Skyrme model, the agreement is **a pass, not a prediction.** ED's specific content is that Str must be the squared winding density: the cost of holding a topological commitment.
-- **Coh alone fails, as Derrick's theorem says it must.** With cutting allowed the knot unties. With ED's uncuttable rule it collapses to the smallest scale the substrate has.
+- **Particles as knots pass.** Coh (alignment) plus Str (the squared winding density) holds stable knots of every charge tried, and their energies are the known continuum spectrum. Because this is the established Faddeev–Skyrme model, the agreement is **a pass, not a prediction.** CO's specific content is that Str must be the squared winding density: the cost of holding a topological commitment.
+- **Coh alone fails, as Derrick's theorem says it must.** With cutting allowed the knot unties. With CO's uncuttable rule it collapses to the smallest scale the substrate has.
 - **Scale.** The size and mass come from the two couplings:
 
   $$R\sim\sqrt{k_{\rm str}/k_{\rm coh}},\qquad M\sim\sqrt{k_{\rm coh}k_{\rm str}},\qquad MR\propto k_{\rm str}.$$
 
-  If Str's coupling is set by the hop (as in ED's Bullet Cluster papers, $e\sim(\kappa\ell_P^2)^{-1/2}$), knots are Planck-sized. Ordinary particles need $k_{\rm coh}\ell_P^2/k_{\rm str}\sim(m/m_P)^2\sim10^{-45}$, which is the hierarchy problem stated in ED's terms.
+  If Str's coupling is set by the hop (as in CO's Bullet Cluster papers, $e\sim(\kappa\ell_P^2)^{-1/2}$), knots are Planck-sized. Ordinary particles need $k_{\rm coh}\ell_P^2/k_{\rm str}\sim(m/m_P)^2\sim10^{-45}$, which is the hierarchy problem stated in CO's terms.
 - **Quench.** An instant quench gives no isolated particles: nothing survives if cutting is allowed, and a jammed glass forms if it is not. Whether a slow switch-on of the uncuttable rule leaves isolated knots is tested in Run 13.
 - **Grid dependence.** These runs use a cubic grid only to discretise a continuum field. An earlier forward-difference version of Str was evaded by single-site flips that cut the knot (link dot product down to −0.98). The symmetric four-corner form above is not. Run 13 repeats the test on a relational graph with no grid.
 

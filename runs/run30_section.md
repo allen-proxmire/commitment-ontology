@@ -80,12 +80,12 @@ $$
   - GR's source for moving matter, in conserved terms, is $\rho^*(1+\tfrac32v^2-U)$.
   - If a moving body's draw followed only its own time-dilated ticking, it would be $\rho^*(1-\tfrac12v^2)(1-U)$. In proper-density terms that is a Φ₁ coefficient of 0 against GR's 4, which means $\zeta_1+\alpha_3=-4$.
   - Read as ζ₁, the Earth–Moon term is $-\tfrac23\zeta_1=+\tfrac83$, about 6,000× the 1σ bound (3,000× the 2σ). Read as α₃, it is excluded by pulsar bounds at 4×10⁻²⁰.
-  - Either way, **ED's moving matter must draw more than its ticking alone gives, by a factor 1 + 2v².** The engine has no rule for moving matter yet.
+  - Either way, **CO's moving matter must draw more than its ticking alone gives, by a factor 1 + 2v².** The engine has no rule for moving matter yet.
 - **Pressure and stress (the weight 3).**
   - The engine's bodies are held by rule, not supported by stress. Their total active mass, $\int\rho^*N$, is $M^*+2\Omega$, with $\Omega=-\tfrac12\int\rho U<0$.
   - A self-supported GR body gets $M^*+E_{\rm int}+\Omega$, because its stress pulls with weight 3 and, by the virial theorem, gives back $3\!\int\!p=-\Omega$. For a monatomic gas that is $M^*+\Omega/2$.
   - GR has no static stress-free body, so the two are not like for like.
-  - Whether ED's stresses pull is open. The knots of Runs 12 and 18 satisfy $M=E$ (their stresses integrate to zero) in a field equation, not on the event layer.
+  - Whether CO's stresses pull is open. The knots of Runs 12 and 18 satisfy $M=E$ (their stresses integrate to zero) in a field equation, not on the event layer.
 - **The preferred-frame terms α₁ and α₂.** These need moving bodies or a moving frame. ξ, the preferred-location parameter, is static and zero in the engine.
 - **The η_N formula itself assumes PPN fluid bodies.** Applying it to bodies held by rule assumes a stress and motion sector the engine does not yet have.
 
@@ -99,7 +99,7 @@ $$
 \eta_N=\tfrac{10}{3}(\beta-1)-\tfrac23\zeta_1-\alpha_1+\tfrac23\alpha_2 ,
 $$
   with ζ₁, α₁ and α₂ open. At $P_0/p_s=2.3\times10^4$ the first term is −6.5×10⁻⁵.
-- **ED's exit rule (Attempt 04, R1)** records a weight that "hits … only because it restates Tolman's formula" as "consistent, not derived".
+- **CO's exit rule (Attempt 04, R1)** records a weight that "hits … only because it restates Tolman's formula" as "consistent, not derived".
   - The rule behind this result, the presence clock, was fixed on 18 October for clock reasons, before this weight was computed.
   - Its match to Tolman's rest-mass term follows from that rule, not the other way round.
   - The label needs a ruling.

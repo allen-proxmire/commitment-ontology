@@ -1,6 +1,6 @@
-## Run 15: the clock rule (on ED's own event-layer engine)
+## Run 15: the clock rule (on CO's own event-layer engine)
 
-**Question.** In Run 14, ED's clocks stopped noticing a shortage wherever possibility was plentiful: at 8 units per place, probe rates read 0.2000 with and without matter. Real clocks show the full gravitational redshift in nearly empty space. This run asks which matter rule gives a clock that does that.
+**Question.** In Run 14, CO's clocks stopped noticing a shortage wherever possibility was plentiful: at 8 units per place, probe rates read 0.2000 with and without matter. Real clocks show the full gravitational redshift in nearly empty space. This run asks which matter rule gives a clock that does that.
 
 **Target, fixed in advance (standard physics).** In a weak field, a clock runs at
 
@@ -17,7 +17,7 @@ The pre-registration (`PREREG.md` in the bundle) was written before any run of t
 
 ### Why the engine's clock saturates
 
-In ED's engine, matter is a reserved pair. Its commitment spends one unit from each place, **holds for ħ = 5 global ticks**, and renews at once if both places hold a unit. A clock is its count of completed commitments. So its rate is
+In CO's engine, matter is a reserved pair. Its commitment spends one unit from each place, **holds for ħ = 5 global ticks**, and renews at once if both places hold a unit. A clock is its count of completed commitments. So its rate is
 
 $$
 \text{rate}=\frac{1}{\hbar+\bar w},\qquad \bar w=\text{mean wait for both places to hold a unit}
@@ -55,14 +55,14 @@ It also tests whether the shortage stays unscreened.
 
 ### Method
 
-- **Engine:** ED's `run_event_layer.py`, imported unmodified.
+- **Engine:** CO's `run_event_layer.py`, imported unmodified.
 - **Vacuum:** arm V of Run 14, where the vacuum never commits.
 - **Box and settings:** 30³, periodic, PHOP = 0.99. Densities 1, 2, 8 and 32 units per place; seeds 1 and 2; 12,000 ticks, read over the last 9,000.
 - **Matter:** the published ball (radius 3, 54 reserved pairs), with a matched control for every run (same seed, same probes, no ball).
 - **Probe clocks:** 96 reserved pairs, 12 per shell at shells 5–12, at least 2.5 places apart.
   - Two designs alternate: a **short hold** (ħ ticks under the old rule, $H_1$ under the flow rule) and a **long hold** (2ħ, or $2H_1$).
   - The layout is identical in every run.
-- **Rules compared:** the old rule (ED's engine, hold in global ticks) and the flow rule. Each applies to the ball and to the probes alike.
+- **Rules compared:** the old rule (CO's engine, hold in global ticks) and the flow rule. Each applies to the ball and to the probes alike.
 - **Readings:**
   - Fractional shortage $\epsilon(r)=\Delta\mu/\mu_{\rm ctrl}$, averaged over each shell (excluding the ball's and probes' places).
   - Probe slowing $1-\text{rate}_{\rm ball}/\text{rate}_{\rm ctrl}$.
@@ -144,12 +144,12 @@ That is the share of each cycle not spent waiting to pay.
 
 ### Reading
 
-**1. With the hold counted in passing possibility, ED's clocks behave like real clocks at every richness tested.**
+**1. With the hold counted in passing possibility, CO's clocks behave like real clocks at every richness tested.**
 - They slow by the fractional shortage: 1.02–1.04 against the shell average, and 1.00 against their own neighbourhood.
 - Two different clocks agree to 1–2%.
 - The response is linear in the shortage across shells 5–10.
 
-**2. ED's original rule cannot do this, and not just where possibility is plentiful.**
+**2. CO's original rule cannot do this, and not just where possibility is plentiful.**
 - At densities 8 and 32 it does not respond at all.
 - At densities 1 and 2 it responds, but:
   - more than proportionally (κ falls 34–72% from shell 5 to 10)
@@ -157,13 +157,13 @@ That is the share of each cycle not spent waiting to pay.
 - Different atomic clocks show the same redshift, so the old rule's clock-dependent slowing would violate local position invariance at the level atomic-clock comparisons test.
 - The reason is the same in every case: only the waiting responds, and how much of a cycle is waiting depends on the clock.
 
-**3. What changes in ED's terms.** *A commitment holds for ħ ticks* becomes *a commitment holds while a fixed amount of possibility passes its places*.
+**3. What changes in CO's terms.** *A commitment holds for ħ ticks* becomes *a commitment holds while a fixed amount of possibility passes its places*.
 - The global tick then times nothing that matter does.
 - This matches the point that possibility keeps no time and the committed world counts what passes.
 - **In standard terms:** a clock's rate is proportional to the local possibility, which plays $1+U/c^2$.
 - **Relabelling check:** the proportionality is designed into the rule, not discovered. What the run shows is:
-  - that nothing else in ED's engine spoils it where possibility is plentiful
-  - that ED's original rule cannot produce it at all
+  - that nothing else in CO's engine spoils it where possibility is plentiful
+  - that CO's original rule cannot produce it at all
 
 **4. The lean-medium limit.** Where places are often empty (densities 1–2), waiting to pay adds to the response (κ = 1.1–1.25) and breaks universality by about 10% at density 1. A clock that has to wait to pay responds extra, and by an amount that depends on the clock. **So real clocks must never wait to pay:** the places they sit in must be rich compared with what a commitment costs.
 
@@ -177,11 +177,11 @@ That is the share of each cycle not spent waiting to pay.
 **6. The vacuum decision's gain survives.** The shortage still fits the unscreened solution, to 0.6–2.4%.
 
 **7. Costs, if adopted:**
-- One of ED's event-layer rules changes.
+- One of CO's event-layer rules changes.
 - Result 26's bookkeeping (clock rate = committed share ÷ (ħ − 1)) has to be re-derived. Under the flow rule, a clock's rate is passing possibility ÷ H.
 - The global tick still drives possibility's wandering (PHOP per tick). It is the last background clock in the engine. Whether wandering can be made tick-free (asynchronous updates) is the next relational question.
 
-**8. Not addressed: falling.** ED's engine still has nothing that falls (EVENT_LAYER.md: free patterns step *away* from matter). A clock rule that reads the shortage correctly is the prerequisite for testing falling with inertia, since the max-count path depends on the clock rates along it.
+**8. Not addressed: falling.** CO's engine still has nothing that falls (EVENT_LAYER.md: free patterns step *away* from matter). A clock rule that reads the shortage correctly is the prerequisite for testing falling with inertia, since the max-count path depends on the clock rates along it.
 
 ![Run 15](figures/15_clock_rule.png)
 

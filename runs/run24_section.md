@@ -44,6 +44,6 @@ $$
   **Not yet tested:**
   - a well at large $p_s$ and $P_0/p_s\gtrsim256$, where Mercury's band holds
   - Nordtvedt directly
-  - whether ED accepts a place holding ~10⁹ units with a crossover at ~10⁵
+  - whether CO accepts a place holding ~10⁹ units with a crossover at ~10⁵
 
 ![Run 24](figures/24_clocks.png)

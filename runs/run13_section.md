@@ -1,8 +1,8 @@
 ## Run 13: knots on a relational graph with no grid
 
-**Question.** Run 12's knots sat on a cubic grid. ED forbids a rigid lattice (Constraints: "a random web, not a grid"), and P06 now says the substrate is a graph and nothing more. Do Coh + Str knots survive when the relations are irregular, isotropic and ED-compliant?
+**Question.** Run 12's knots sat on a cubic grid. CO forbids a rigid lattice (Constraints: "a random web, not a grid"), and P06 now says the substrate is a graph and nothing more. Do Coh + Str knots survive when the relations are irregular, isotropic and CO-compliant?
 
-**ED's requirements on the graph:**
+**CO's requirements on the graph:**
 - P06: three-dimensional in the discrete sense, no preferred direction.
 - Contrast principle (models R18): no triangles, and no two short loops sharing more than one link.
 - Particles step across squares (Attempt C, C-O20).
@@ -47,7 +47,7 @@ Positions enter only when the graph is built and when the Hopf charge is measure
 | Random graph with triangles | Delaunay links of Poisson points (forbidden by the contrast principle; reference) | 13.5 per place | — | 15.5 | 0.3% | 0 |
 | **Random cubical complex** | Each tetrahedron of a random Delaunay tessellation split into four hexahedra. Places are points, edge midpoints, face centres and cell centres; links join neighbouring dimensions; **every face is a square** | **0** | **3.90** | 5.1 mean (4 to 15.5) | 0.6% | **0** |
 
-**The cubical complex meets ED's conditions:**
+**The cubical complex meets CO's conditions:**
 - Contrast principle: no triangles, and two squares share at most one link.
 - Every link lies on at least three squares.
 - It is irregular, with no grid.
@@ -125,13 +125,13 @@ Positions enter only when the graph is built and when the Hopf charge is measure
 
 ### Reading
 
-- **On ED's own kind of substrate, particle-knots need one more structural fact.** The relations must close up into faces that tile space: every short loop a face, every face a square. And the twist must be charged on those closed loops, not at open corners.
+- **On CO's own kind of substrate, particle-knots need one more structural fact.** The relations must close up into faces that tile space: every short loop a face, every face a square. And the twist must be charged on those closed loops, not at open corners.
   - A random triangle-free graph, even one that passes P06's instruments, lets a knot's twist hide in its uncharged longer cycles, and the knot unties.
-  - A random **cubical complex** has none of these gaps. It satisfies both clauses of ED's contrast principle, and it holds knots with no cutting rule.
-- **This turns "uncuttable" from a rule into a consequence.** On a cubical complex with loop Str, cutting a knot means some square's loop must enclose half the sphere ($\Omega=\pm2\pi$). That costs $(2\pi)^2$ in loop-Str units, so the protection is an energy barrier. ED's reservation rule (K2) is then not needed for knots built this way. The barrier was measured at 2×10⁻⁴ in (c), so the rule never acted.
-- **It ties to ED's own record.** ED's particle line already found that "a particle needs two things from its medium: no single-link doors, and squares" (C-O20). This run adds a third: **the squares must tile, so that every loop is a face.** ED's grown glass has near-cubic local order (R18), which is the right local structure; its long-range maze is the open problem.
+  - A random **cubical complex** has none of these gaps. It satisfies both clauses of CO's contrast principle, and it holds knots with no cutting rule.
+- **This turns "uncuttable" from a rule into a consequence.** On a cubical complex with loop Str, cutting a knot means some square's loop must enclose half the sphere ($\Omega=\pm2\pi$). That costs $(2\pi)^2$ in loop-Str units, so the protection is an energy barrier. CO's reservation rule (K2) is then not needed for knots built this way. The barrier was measured at 2×10⁻⁴ in (c), so the rule never acted.
+- **It ties to the earlier record.** CO's particle line already found that "a particle needs two things from its medium: no single-link doors, and squares" (C-O20). This run adds a third: **the squares must tile, so that every loop is a face.** CO's grown glass has near-cubic local order (R18), which is the right local structure; its long-range maze is the open problem.
 - **Quench.** Neither an instant quench nor a slow switch-on of Str left isolated knots: both freeze one extended tangle. Separate particles would need a regime this test did not find, such as a slower ramp, noise, or expansion.
-- **What this is not.** The cubical complex was built from a random Delaunay tessellation: space was supplied (as in every ED model), not grown. Coh + Str on a cubical complex is still the Faddeev–Skyrme model, so a matching spectrum is a pass, not a prediction. The ED-specific content is the substrate condition: faces that tile, with the twist charged on closed loops.
+- **What this is not.** The cubical complex was built from a random Delaunay tessellation: space was supplied (as in every CO model), not grown. Coh + Str on a cubical complex is still the Faddeev–Skyrme model, so a matching spectrum is a pass, not a prediction. The CO-specific content is the substrate condition: faces that tile, with the twist charged on closed loops.
 
 ![Run 13](figures/13_graph_knots.png)
 

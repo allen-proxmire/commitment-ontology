@@ -20,7 +20,7 @@ GR, and every planetary and pulsar test, needs the field to follow its body to $
 - **No file tested a moving body on the adopted engine, or estimated how long a well takes to form at astronomical distances.** MovingBinarySim asks for the engine test.
 
 **Runs.**
-- **Rules and body.** The adopted rules, $p_s$ = 1, $P_0$ = 64, box 40. ED's radius-3 ball (Run 26's body A, 54 pairs) through engine22's World22, unchanged. Code check: bit-identical to Run 26's engine over 300 ticks.
+- **Rules and body.** The adopted rules, $p_s$ = 1, $P_0$ = 64, box 40. CO's radius-3 ball (Run 26's body A, 54 pairs) through engine22's World22, unchanged. Code check: bit-identical to Run 26's engine over 300 ticks.
 - **Burn-in and switch-on.** 5,000 ticks of the medium alone, then the ball is switched on.
 - **The runs:**
   - **M1:** the ball steps +1 in x every 667 ticks ($w=1.5\times10^{-3}$), for 90,000 ticks, read over the last 50,000 in the ball's frame. It moved 134 places.

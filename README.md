@@ -2,7 +2,9 @@
 
 Allen Proxmire.
 
-Tests of the commitment / Event Density (ED) ontology against measured physics, on a lattice engine built from its rules: 80 runs (with a follow-up, 72b), 15–23 October 2026.
+Tests of the Commitment Ontology against measured physics, on a lattice engine built from its rules: 80 runs (with a follow-up, 72b), 15–23 October 2026.
+
+The project was formerly titled Event Density (ED). "The earlier papers" and the earlier event-layer engine refer to that work, in the `ED-generative`, `event-density` and `event-density-ontology-models` repositories. Three documents from it are kept unchanged in `runs/`: `P08_substrate_scale.md`, `Paper_BlindnessInvariant_KnotsNotCrystals.md` and `Particles_As_Knots.md`.
 
 **Start here: [`AT_A_GLANCE.md`](AT_A_GLANCE.md)** — what goes in, what comes out, where the ontology parts from GR and how each part could fail, on one page.
 
@@ -52,34 +54,34 @@ Every run in the record tests a consequence of those rules against a measurement
   - clocks of different design agreeing;
   - frame dragging;
   - GR's field outside black holes.
-- **ED's static field equation is GR's equation for the clock rate.** ED differed only in how space curves (Run 65).
-  - Under the provisional "option 3", space curves as in GR, and ED's stars and static black holes become GR's.
-  - Written on the space the medium lives on, this keeps ED's field equation, its clock and its "vacuum draws nothing" rule; stress curves that space (Run 66).
+- **CO's static field equation is GR's equation for the clock rate.** CO differed only in how space curves (Run 65).
+  - Under the provisional "option 3", space curves as in GR, and CO's stars and static black holes become GR's.
+  - Written on the space the medium lives on, this keeps CO's field equation, its clock and its "vacuum draws nothing" rule; stress curves that space (Run 66).
 - **Black holes under option 3:**
   - A static hole's clock stops just outside where GR's horizon would be, at a cold surface with no event horizon (Run 67).
   - A collapse emits Hawking's flux only briefly, about 8M ln(P∞/p_s), then nothing (Runs 68, 71).
   - **Rulings (21 October):**
-    - ED's holes are stable.
+    - CO's holes are stable.
     - Infalling matter commits where the medium's possibility per place falls to about 2p_s. This comes before any matter can turn back: without it, matter with pressure turns back and comes out again (Run 71).
       - Every causal kind of matter reaches 2p_s first: the stiffest turns back at most at 1.27p_s (Run 73).
       - The core then sits at areal radius 3m. By then the Hawking-like burst is over; a cold core gives one flash of about ħ/δu, then silence (Run 74).
     - Around a spinning hole, frame dragging is possibility's own flow, so spinning holes are Kerr outside the horizon (Run 69).
 - **Predictions:**
-  - **Compact stars slightly break the strong equivalence principle,** Δ = εC/(1 + ε) > 0 with ε = p_s/P∞. GR gives zero. The pulsar triple bounds it, P∞/p_s ≳ 1.6–1.9×10⁵ (Run 66); ED does not yet fix its size.
-  - **Primordial black holes never evaporate.** The bounds on them that assume evaporation do not apply, so a detected evaporating primordial hole would count against ED.
-  - **Under ED's original rule for space only** (withdrawn under option 3): heavy neutron stars need very stiff nuclear matter, near the causal limit above about twice nuclear density. Heavy-ion collisions allow this only at the edge of their bounds (Runs 57–62).
+  - **Compact stars slightly break the strong equivalence principle,** Δ = εC/(1 + ε) > 0 with ε = p_s/P∞. GR gives zero. The pulsar triple bounds it, P∞/p_s ≳ 1.6–1.9×10⁵ (Run 66); CO does not yet fix its size.
+  - **Primordial black holes never evaporate.** The bounds on them that assume evaporation do not apply, so a detected evaporating primordial hole would count against CO.
+  - **Under CO's original rule for space only** (withdrawn under option 3): heavy neutron stars need very stiff nuclear matter, near the causal limit above about twice nuclear density. Heavy-ion collisions allow this only at the edge of their bounds (Runs 57–62).
 - **Clocks on a curved medium space:** on equal-volume places at both signs of curvature, clocks follow the zero-range theory to about 1–2% (Runs 70, 72).
   - The gap between two clock designs shifts with the sign of the curvature as predicted: detected at 5.1σ, matching the theory to 0.5σ (Run 72b).
   - The theory's apparent underestimate of these clocks' own dips (0.25–0.6%) is mostly its ambient normalisation (Run 78's check; confirmed with registered predictions on the flat lattice, Run 80). An odd cell at negative curvature was not explained by the clocks' outer links (Run 75), its replication was undecided (Run 76), and it stays about 2σ off after the normalisation.
   - The local rule fixed by option 3's planar solution doubles light bending and is excluded (Run 79).
   - A lattice curved by the medium's own stress is buildable in planar symmetry (design note in the record, Note F). On it the engine's medium carries the flux the lattice was built with, to about 0.2% (Run 77).
-  - With one global hop rate, such a lattice exists only while the source's draw times the distance to the reservoir stays small. It comes from the lattice representation; ED's rules are not shown to impose it (Run 77).
+  - With one global hop rate, such a lattice exists only while the source's draw times the distance to the reservoir stays small. It comes from the lattice representation; CO's rules are not shown to impose it (Run 77).
 - **Open:**
   - what fixes P∞/p_s;
   - the strong-field binding miss;
   - the medium's own dynamics on a stress-curved space;
   - how long commitment takes, and the core's quantum state (Run 74);
-  - the size of ED's hop (the engine suggests about 10^2.5–10^3 Planck lengths).
+  - the size of CO's hop (the engine suggests about 10^2.5–10^3 Planck lengths).
 
 ## Running it
 - **Requirements:** Python 3 with numpy, scipy and matplotlib.
@@ -89,4 +91,4 @@ Every run in the record tests a consequence of those rules against a measurement
 - **Checking a registration.** Each `PREREG_NN.sha256` lists the files' hashes with the paths they had when hashed, and the time of hashing. Compare the hashes with `sha256sum` on the files; `sha256sum -c` will not find the old paths.
 
 ## Status
-Not peer reviewed. The engine is a model built from the ontology's rules, not ED's full theory.
+Not peer reviewed. The engine is a model built from the ontology's rules, not CO's full theory.

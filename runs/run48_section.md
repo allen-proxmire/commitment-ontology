@@ -88,11 +88,11 @@ $$
    - In plain terms: at neutron-star strength the full pattern rule makes bound matter fall exactly like its energy. What was left in Runs 45–46c is the grid and the medium, not the rule.
    - For body A this is partly built in: the proper-size rule is what makes the body's size follow the potential.
 2. **The registered medium attribution is undecided.** The post hoc analysis supports it with the right variable: the leftover is the medium's change of log-slope across the body, not p_s/P₀.
-3. **The pulsar triple now tests ED's medium, not the engine.**
+3. **The pulsar triple now tests CO's medium, not the engine.**
    - Published 95% bounds: |Δ| < 2.6×10⁻⁶ (Archibald et al. 2018) and |Δ| < 1.5–2.3×10⁻⁶ (Voisin et al. 2024).
    - Per unit Δg at 0.8P₀, A′ = 1.63, 1.26 and 0.53 (far field, frequency, body).
    - So the triple needs |Δg| ≲ 1.4×10⁻⁶ ÷ (the share of the star's energy in bound patterns) and |Δg| ≲ 4×10⁻⁶ from the body's own binding, whose share is 1.
-   - In the engine's toy medium, Δg includes a part that does not depend on p_s. So this constrains ED only if that toy is ED's medium and nothing else breaks the dilation.
+   - In the engine's toy medium, Δg includes a part that does not depend on p_s. So this constrains CO only if that toy is CO's medium and nothing else breaks the dilation.
    - The coefficients were measured only at U ≈ 0.22, and the triple compares a neutron star with a white dwarf, not one body with nothing.
-   - **ED's prediction is an equivalence-principle violation whose size is set by how far its medium departs from scale-free across a star's depth.**
-4. **The fall line is no longer limited by the engine's resolution.** It is now a question about ED's medium.
+   - **CO's prediction is an equivalence-principle violation whose size is set by how far its medium departs from scale-free across a star's depth.**
+4. **The fall line is no longer limited by the engine's resolution.** It is now a question about CO's medium.

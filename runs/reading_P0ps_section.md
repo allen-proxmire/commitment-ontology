@@ -1,14 +1,14 @@
-## Note D: what fixes P₀/p_s? ED's clock and medium papers (a reading)
+## Note D: what fixes P₀/p_s? The earlier clock and medium papers (a reading)
 
 *20 October 2026. The three repositories (`ed-generative`, `event-density`, `event-density-ontology-models`) were fetched; they were current (last commits 11 October, 12 September and 11 October). An agent surveyed the two large repositories for clock and medium papers, and the core ones and the ontology-models repository were read in full. Point 4 is an inference, not the corpus's. An independent agent checked the quotes against the papers and the inference against the engine's code; its corrections are included.*
 
-**The question.** Run 55 left ED's strong-equivalence-principle prediction bounded but not sharp:
+**The question.** Run 55 left CO's strong-equivalence-principle prediction bounded but not sharp:
 $$
 \Delta\simeq C\,\frac{p_s}{P_0},\qquad \frac{P_0}{p_s}\gtrsim(1.7\text{–}2.1)\times10^5\ \ \text{(the pulsar triple, Run 57)} .
 $$
 - p_s is the medium's crossover: a place's outflow is linear below it and logarithmic above it, f(n) = c ln(1 + n/p_s).
 - P₀ is the vacuum's possibility per place.
-- Does anything in ED fix P₀/p_s, or either number?
+- Does anything in CO fix P₀/p_s, or either number?
 
 **1. The clock papers fix the lapse's form, never an absolute level.**
 - **GR-I** (`physics-papers/gravity/Paper_GR-I_WeakFieldEinsteinMetric.md` §4): from the null condition and a commitment rate linear in bandwidth (Γ ∝ b, P-Commitment-Linear),
@@ -27,16 +27,16 @@ $$
 - **`event-density/theory/Note_Nbw_NeedsAQuantum_2026-09-07.md` §5–6:** the ratio of a place's capacity to its smallest unit, N_bw = B_max/b_min, "needs a quantum", and "the bandwidth quantum is ABSENT and UNFORCED". That ratio is the nearest thing in the corpus to P₀/p_s.
 - **`Attempt_C/Where_ED_Is_Silent.md`** (question 9) says the same. The state-of-the-ontology summary, an AI session's account, agrees: "the upper limit is not in any primitive".
 - **The one per-cell number** (`Paper_112_hbar_Origin` §3.6, B_P04 ≈ 10⁹ W per cell) is a relabelling of ħ by its own disclaimer. It is also dimensionful, against P04's [b] = 1.
-- **No logarithmic outflow anywhere.** ED's saturating laws (`theory/PDE.md`, `Arc_BH_3`) are jamming forms, with no values. GR-III's medium is linear. The engine's logarithm was brought in for β = 1 (Runs 21–25).
-- **The event-layer models** (`event-density-ontology-models`, `results/EVENT_LAYER.md` result 23): possibility per place is a setting (1 to 8 units), and the one ceiling is ED's own, a place committing at most once per ħ.
+- **No logarithmic outflow anywhere.** CO's saturating laws (`theory/PDE.md`, `Arc_BH_3`) are jamming forms, with no values. GR-III's medium is linear. The engine's logarithm was brought in for β = 1 (Runs 21–25).
+- **The event-layer models** (`event-density-ontology-models`, `results/EVENT_LAYER.md` result 23): possibility per place is a setting (1 to 8 units), and the one ceiling is CO's own, a place committing at most once per ħ.
   - Their trade-off between how far a shortage reaches and how strongly clocks feel it (`papers/Gravity_As_Accounting.md` §4) comes from a vacuum that commits, which screens the shortage.
   - **The engine's vacuum never commits,** so its shortage is unscreened whatever P₀ or p_s. The clock's response per unit of draw is set by c ≈ p_s alone, and P₀/p_s controls only the departure from scale-free. The analogy holds for p_s and for strength only.
 
-**3. Where ED does give numbers, they do not fit the engine's two scales.**
+**3. Where CO does give numbers, they do not fit the engine's two scales.**
 - **Capacity at saturation:** about one degree of freedom per Planck area (`Paper_025_HolographicBound.md`, N(R) ≤ 4πR²/ℓ_ED²; `black-hole/Paper_HorizonTilingThreeCounts.md`). Read as p_s, that is p_s ~ 1, which clocks of different design exclude. Run 24 measured a 5.6% design gap directly at p_s = 1.
 - **The vacuum's occupancy:**
   - `foundations/Phase3_GR_Alpha1_Magnitude.md` gives ρ_event/ρ_Planck ≲ 10⁻⁹³ (from the source) down to a floor of 10⁻¹²². The 12 September review withdrew the α₁ argument built on it as "a dimensional estimate". `Phase3_GR_LambdaOfRho_Derivation.md` leaves the magnitude unpinned ("10⁻⁵? 10⁻⁴⁷?").
-  - These count *commitments*, which the engine puts only in matter. ED's possibility-like b is only ever normalized (b = 1), so the corpus has no per-place number for vacuum possibility.
+  - These count *commitments*, which the engine puts only in matter. CO's possibility-like b is only ever normalized (b = 1), so the corpus has no per-place number for vacuum possibility.
 - **The large numbers on offer are cosmological** (10⁶¹, 10¹²², Θ_ED; `docs/Scoping_ThetaED_FirstPrinciples_2026-07-06.md`). The corpus warns against matching them: "it's easy to take a big number like 10¹²² and find matches", and "ED's 10¹²² is 1/Λ taken from observation" (`Derivation Attempts/ED_Attempt_03/Specificity_Mechanisms.md`).
 
 **4. One structural tie, in the engine (an inference, checked against the code).**
@@ -47,14 +47,14 @@ $$
   so a body drawing S units per tick has U → 3S/(2πc r), with r counted in hops (`zrp35.py`: the traffic equation gives Δz = 6(s − s̄)).
 - **The draw.** A reserved pair renews at rate (P_a + P_b)/H, each renewal takes one unit from each of its places, and H = 2ħ_t P₀. So a pair draws S = 2/ħ_t per tick.
 - **Light speed.** Light crosses ħ_t hops per vacuum hold. That is a ratio of counts, so the ruling that the tick is not physical time does not enter.
-- **The energy.** ED says mass is a rate of becoming, so the pair's rest energy is E = aħ/T_hold.
+- **The energy.** CO says mass is a rate of becoming, so the pair's rest energy is E = aħ/T_hold.
 - **The result.** Equating U to GE/(c⁴r):
 $$
-\frac{G\hbar}{c^3\ell_{ED}^2}=\frac{3}{\pi a\,c}\approx\frac{\kappa}{p_s},\qquad \kappa=\frac{3}{0.99\,\pi a}=0.15\ (a=2\pi),\ \ 0.97\ (a=1).
+\frac{G\hbar}{c^3\ell_{CO}^2}=\frac{3}{\pi a\,c}\approx\frac{\kappa}{p_s},\qquad \kappa=\frac{3}{0.99\,\pi a}=0.15\ (a=2\pi),\ \ 0.97\ (a=1).
 $$
-  ED fixes a nowhere. The event-layer harness's 0.1 rad per blink would give κ ≈ 9.6.
+  CO fixes a nowhere. The event-layer harness's 0.1 rad per blink would give κ ≈ 9.6.
 - **P₀ cancels,** through H ∝ P₀. So:
-  - **ED's P-G-Closure** (`Paper_027_Newtons_G.md` §2: the coefficient in G = c³ℓ_ED²/ħ "is unity … labelled here rather than absorbed", together with ℓ_ED = ℓ_P) would need
+  - **CO's P-G-Closure** (`Paper_027_Newtons_G.md` §2: the coefficient in G = c³ℓ_ED²/ħ "is unity … labelled here rather than absorbed", together with ℓ_ED = ℓ_P) would need
 $$
 p_s=\big(e^{0.99\pi a/3}-1\big)^{-1}\approx0.0015\text{–}0.55 .
 $$
@@ -64,7 +64,7 @@ $$
   - **This bears on p_s only, not on P₀/p_s.** It is the kind of conflict Paper_027's revised falsifier F-P anticipates: a scale fixed independently of G that disagrees with √(ħG/c³).
 
 **Reading.**
-1. **Nothing in ED fixes P₀/p_s, or either number.** The corpus's own position is that per-place budget numbers are not in any primitive. P₀ and p_s stay tracked inputs, like Θ_ED in the corpus.
+1. **Nothing in CO fixes P₀/p_s, or either number.** The corpus's own position is that per-place budget numbers are not in any primitive. P₀ and p_s stay tracked inputs, like Θ_ED in the corpus.
 2. **So the strong-equivalence-principle prediction stays bounded, not sharp:** a sign (Δ > 0), a growth with compactness and a non-additivity, with its size limited by the pulsar triple.
 3. **The engine and the corpus differ in three places:**
    - the lapse (the engine's N = P/P₀ against GR-I's N² ∼ b);
@@ -72,4 +72,4 @@ $$
    - where the vacuum sits (far above its crossover in the engine; far below saturation in the corpus).
 
    These record where the engine departed from the corpus to pass β = 1 and clock universality.
-4. **The engine's G ties p_s to the hop.** P-G-Closure with ℓ_ED = ℓ_P is incompatible with the engine's clocks. If the engine stands, ED's hop is about 10^2.5–10^3 Planck lengths, or the corpus is carrying two scales under one name (Paper_027's F-P).
+4. **The engine's G ties p_s to the hop.** P-G-Closure with ℓ_ED = ℓ_P is incompatible with the engine's clocks. If the engine stands, CO's hop is about 10^2.5–10^3 Planck lengths, or the corpus is carrying two scales under one name (Paper_027's F-P).

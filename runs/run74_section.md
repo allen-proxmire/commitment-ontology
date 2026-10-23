@@ -13,7 +13,7 @@
 
 **The model.** Run 71/71b's shell, in Run 67's exterior held fixed, with a flat interior.
 - **The shell commits** when its clock reaches N_c = kε, i.e. P = k·p_s, since N = P/P∞.
-- **After commitment** the region it bounded is the core. Outgoing modes then leave the core boundary, and ED's rules do not fix their state. Two models bound it:
+- **After commitment** the region it bounded is the core. Outgoing modes then leave the core boundary, and CO's rules do not fix their state. Two models bound it:
   - **(A) A cold, static core (the cold-absorber extreme):** the modes are in the static (Killing) vacuum, so the flux at infinity is zero afterwards. Joining the two maps takes a transition of duration δu (in retarded time at infinity), and that transition carries a flash:
 $$
 E_{\rm flash}=\frac{1}{24\pi}\int\Big[\tfrac12\big((\ln p')'\big)^2-(\ln p')''\Big]du\;\simeq\;\frac{\Delta^2}{144\pi\,\delta u},\qquad \Delta=-\ln p'(u_c).
@@ -44,9 +44,9 @@ $$
 \frac{dN}{d\ln\omega}\approx\frac{\Delta-2}{4\pi^2}\approx0.5,
 $$
      from ω ≈ 0.1/M up to about 2/δu. So the energy is carried by about half a quantum near 2/δu, on top of a soft logarithmic tail.
-   - **Its size depends on δu, which ED's rules do not fix.**
+   - **Its size depends on δu, which CO's rules do not fix.**
      - At δu = 1M it carries about 34 times the Hawking-like transient's energy.
-     - If commitment takes at least one hop in the shell's own frame, δu ≳ τ_h/ε. For a 10 M☉ hole and a hop of about 10³ Planck lengths (the record's estimate of ED's hop, 300–1,000 Planck lengths; an assumption here), the flash is about one quantum of order 10¹¹ GeV: E/M ~ 10⁻⁴⁸.
+     - If commitment takes at least one hop in the shell's own frame, δu ≳ τ_h/ε. For a 10 M☉ hole and a hop of about 10³ Planck lengths (the record's estimate of CO's hop, 300–1,000 Planck lengths; an assumption here), the flash is about one quantum of order 10¹¹ GeV: E/M ~ 10⁻⁴⁸.
 6. **Afterwards, model B:** the dust tail continues, carrying −1.1% (ε = 5×10⁻⁶) to −1.7% (10⁻⁴) of the total. There is no flash.
 
 ![Run 74](figures/74_commit.png)
@@ -74,7 +74,7 @@ $$
    - R_c = 3m equals the light ring's areal radius, but the two surfaces are on opposite sides of the throat.
 
 **Reading.**
-1. **A forming ED hole radiates about one Hawking-like quantum, then its matter commits at 2p_s.**
+1. **A forming CO hole radiates about one Hawking-like quantum, then its matter commits at 2p_s.**
    - With a cold core it then gives one flash, about ħ/δu of energy spread over frequencies, and is silent for ever.
    - With the other extreme, it carries on with Run 71's faint negative tail.
    - Either way, this agrees with Run 68 and with the stable-holes ruling.

@@ -1,8 +1,8 @@
-## Run 52: should ED's draw be the variational one?
+## Run 52: should CO's draw be the variational one?
 
 *20 October 2026. Registered and hashed with every imported module before the run (`vardraw/PREREG_52.md`, 11:40 UTC). One code check (h = 1, not a registered grid) is disclosed; it motivated recalibrating every star. The identity reading is post hoc, and the independent check sharpened it; its corrections are included.*
 
-**Question.** Run 50's energy principle holds exactly only in a scale-free medium. ED's field is linear in z, φ = z₀ − z = 6G∗d, and matter feels it through N = R(z)/P₀. So
+**Question.** Run 50's energy principle holds exactly only in a scale-free medium. CO's field is linear in z, φ = z₀ − z = 6G∗d, and matter feels it through N = R(z)/P₀. So
 $$
 \frac{dU}{d\phi}=\frac{1+g}{c},\qquad g=c\,\frac{d\ln R}{dz}-1 .
 $$
@@ -10,7 +10,7 @@ The draw that makes field, matter and pattern the Euler–Lagrange equations of 
 $$
 d_V=T\,(1+g),
 $$
-where T is the Tolman/Komar draw. The engine's rule is d_E = T. Which should ED use?
+where T is the Tolman/Komar draw. The engine's rule is d_E = T. Which should CO use?
 
 **Setup.**
 - **Star and pattern:** Run 50's star in exact hydrostatic balance (Γ = 2) and its pattern, at h = ½ and ⅓.
@@ -72,7 +72,7 @@ $$
 
    Rule E breaks the first law at about 0.7 g.
 2. **The medium's equivalence-principle violation is physics of the medium's scale, well defined only under V:** Δ_SEP = M_far/E_H − 1 ≈ ḡ − g_bg. It is not additive (point 5).
-   - The pulsar triple (|Δ| ≲ 2.3×10⁻⁶) with Δ ≈ 0.25 g_bg for a star like this one gives g_bg ≲ 9×10⁻⁶, i.e. P₀/(αp_s) ≳ 10⁵ in this toy medium: ED's stated range.
+   - The pulsar triple (|Δ| ≲ 2.3×10⁻⁶) with Δ ≈ 0.25 g_bg for a star like this one gives g_bg ≲ 9×10⁻⁶, i.e. P₀/(αp_s) ≳ 10⁵ in this toy medium: CO's stated range.
 3. **Recommendation, as registered: adopt V, on consistency grounds.** The check adds a condition, and the choice needs a ruling:
    - V assumes the field stays linear in z;
    - a second self-consistent option keeps E's draw and makes the field linear in U instead, which takes the medium out of gravity altogether;

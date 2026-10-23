@@ -1,8 +1,8 @@
-## Run 68: do ED's holes evaporate under option 3?
+## Run 68: do CO's holes evaporate under option 3?
 
 *21 October 2026. Registered and hashed before the run (`evap68/PREREG_68.md`, 07:11 UTC). The claims were derived before registration; the run checks them numerically. A smoke test at an unregistered ε is disclosed in the registration. An independent agent checked the run; its corrections are included, among them two words ("burst", "thermal") that overstated what is emitted.*
 
-**Question.** Run 67's static hole, under option 3 with ED's medium, has a cold zero-clock surface (κ = 0) and no event horizon. It was ruled on 19 October, under option A with Kerr's surface gravity borrowed, that black holes evaporate. Does a hole formed by collapse in this geometry radiate as Hawking's does, and for how long?
+**Question.** Run 67's static hole, under option 3 with CO's medium, has a cold zero-clock surface (κ = 0) and no event horizon. It was ruled on 19 October, under option A with Kerr's surface gravity borrowed, that black holes evaporate. Does a hole formed by collapse in this geometry radiate as Hawking's does, and for how long?
 
 **Method.** The exterior is Run 67's (m = 1):
 $$
@@ -49,7 +49,7 @@ $$
 $$
 \Delta u_{\rm eff}=8M_K\big[\ln(1/\varepsilon)-1\big]-1.617\,M_K .
 $$
-  This is GR's thermal flux cut off when the clock falls to N = eε, where the local possibility is P ≈ 2.7 p_s. It is the same law Harada, Cardoso & Miyata (2019) found for a surface at 1 − 2M/R = ε², which is where ED's zero-clock surface sits.
+  This is GR's thermal flux cut off when the clock falls to N = eε, where the local possibility is P ≈ 2.7 p_s. It is the same law Harada, Cardoso & Miyata (2019) found for a surface at 1 − 2M/R = ε², which is where CO's zero-clock surface sits.
 - **At the pulsar-triple bound** (ε ≤ 3.4–6×10⁻⁶) the transient lasts Δu_eff ≥ 86–91 M:
   - ≥ 4.3 ms for a 10 M☉ hole;
   - ≥ 27 ms for a GW250114-mass remnant (that remnant spins, so it is only a scale);
@@ -80,19 +80,19 @@ $$
    - The hole absorbs and never emits, so it grows slowly in the cosmic microwave background.
 
 **Reading.**
-1. **On Run 67's static exterior, the collapse's in-state emits GR's Hawking flux until the clock falls to N ≈ eε, then nothing. ED's holes do not evaporate.**
+1. **On Run 67's static exterior, the collapse's in-state emits GR's Hawking flux until the clock falls to N ≈ eε, then nothing. CO's holes do not evaporate.**
    - The thermal-equivalent duration is 8M_K[ln(1/ε) − 1] − 1.6 M_K, at least about 86 M at the pulsar bound.
    - After that the flux falls as u⁻³: zero temperature.
    - The transient carries about one quantum per field in the radial sector, about 10⁻² in 4D.
-   - In ED's terms: possibility runs out (P ≈ 2.7 p_s) before the redshift can keep growing exponentially, and Hawking's flux needs that growth.
+   - In CO's terms: possibility runs out (P ≈ 2.7 p_s) before the redshift can keep growing exponentially, and Hawking's flux needs that growth.
    - **Assumed:** a smooth collapse ray map at the endpoint; an absorbing zero-clock surface; p_s ≫ 1; a non-rotating hole; test fields. The collapse, including its passage through the throat, is not modelled.
 2. **This conflicts with the ruling of 19 October that black holes evaporate.** That ruling was made under option A, with Kerr's surface gravity borrowed. The choices:
-   - **(i) Revise it:** ED's holes are stable. What falls in stays as record, so "no information loss" holds trivially. This follows from the adopted rules with no new input.
-   - **(ii) Keep evaporation as a tracked input**, by a mechanism outside the static mean-field medium: the core's own radiation in ED's papers 039–052, or the discrete regime below one unit per place.
+   - **(i) Revise it:** CO's holes are stable. What falls in stays as record, so "no information loss" holds trivially. This follows from the adopted rules with no new input.
+   - **(ii) Keep evaporation as a tracked input**, by a mechanism outside the static mean-field medium: the core's own radiation in the earlier papers 039–052, or the discrete regime below one unit per place.
 3. **What would tell.** For astrophysical holes the difference from GR is unobservable either way. For primordial black holes it is not:
    - in GR, primordial holes below about 5×10¹⁴ g have evaporated by now, and evaporation bounds limit them up to about 10¹⁷ g;
-   - under (i) none of them evaporate, so those bounds lapse, and a detected evaporating primordial hole would count against option 3 with ED's medium;
-   - black-hole thermodynamics (S = A/4) would need a new argument in ED.
+   - under (i) none of them evaporate, so those bounds lapse, and a detected evaporating primordial hole would count against option 3 with CO's medium;
+   - black-hole thermodynamics (S = A/4) would need a new argument in CO.
 4. **Limits.**
    - The 1+1 radial sector only; greybody factors change the flux, not when it switches off.
    - The collapse itself is not modelled in this modified theory; the static exterior stands in for its late stages.

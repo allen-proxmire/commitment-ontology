@@ -35,7 +35,7 @@ $$
 $$
    with Δg = g(0.8P₀) − g(P₀). At U ≈ 0.22, A′ ≈ 1.67, 1.28 and 0.54 (far field, frequency, body), 2.5% above Run 48's estimate. So Δg at 0.8P₀ is a universal variable only to about 3%.
 2. **Only one family of departures was tested.** For it, Δg, g(P₀) and p_s/P₀ are proportional, so "only through Δg" is not yet distinguished from those alternatives. A second family, for example g ∝ 1/P², would test it.
-3. **The fall test at neutron-star strength now measures ED's medium.**
+3. **The fall test at neutron-star strength now measures CO's medium.**
    - In the scale-free part, bound matter falls exactly like its energy.
    - The pulsar triple bounds how far the medium departs from scale-free across a star.
    - The coefficients A′ were measured with the old body model. Run 50's check also notes that in a non-scale-free medium the engine's draw is not variational (it lacks a factor 1 + g). The Δg fall defect may partly be that.

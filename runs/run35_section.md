@@ -56,7 +56,7 @@
      - Run 35's deficit is 2–4% deeper at r = 7–13, and about 10% at r = 15, where it is under one unit
      - The difference may be Run 26 not quite reaching the steady state at box scale (relaxation time about 10⁴ ticks), or the two media's slightly different single-place laws (var/mean 4.10 against 3.98). The run does not separate them.
    - A moving body keeps its well and its draw at both speeds. Run 31's wake and its 8.5% excess draw are gone, at about 167 times Run 31's speed as well.
-   - All of this follows from the rules by construction. The run checks the build, not ED.
+   - All of this follows from the rules by construction. The run checks the build, not CO.
 2. **What D35 shows about Run 29's tail.**
    - With presence drawn independently each tick, D(τ ≥ 2) = 0 is what an integrate-and-fire clock must give. So D35b mainly confirms that the build's presence is independent, and that the clock alone carries no long tail.
    - It follows that Run 29's tail needed memory in the medium between ticks. Two such memories were present in Run 29:

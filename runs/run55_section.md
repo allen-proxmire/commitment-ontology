@@ -1,4 +1,4 @@
-## Run 55: ED's medium and the pulsar triple, under the variational draw
+## Run 55: CO's medium and the pulsar triple, under the variational draw
 
 *20 October 2026. (steps 2–3). Registered and hashed before the run (`medium55/PREREG_55.md`, 12:40 UTC). An independent agent checked the run. Its corrections change the reported pulsar numbers but no registered verdict. Disclosed:*
 - *The registered star at U_self = 0.30 failed (its calibration hit an invalid value). The star table was extended post hoc by continuation (`posthoc55b.py`, `posthoc55c.py`). A first retry (`posthoc55_failed.py`) started from a count 16% too large, a scaling slip, and was stopped.*
@@ -9,9 +9,9 @@
 $$
 \Delta=\frac{M_{\rm far}}{E_H}-1\;\approx\;\bar g-g_{\rm bg},\qquad g=c\,\frac{d\ln R}{dz}-1 ,
 $$
-given inertia = E_H. What does that predict for ED's own medium, the A″ mean field, and how does it compare with the pulsar triple PSR J0337+1715?
+given inertia = E_H. What does that predict for CO's own medium, the A″ mean field, and how does it compare with the pulsar triple PSR J0337+1715?
 
-**1. ED's medium is not scale-free (K55a: PASS).** Computed from the medium's exact mean occupancy (f(n) = c ln(1 + n/p_s), π(n) ∝ zⁿ/∏f(k); Run 35):
+**1. CO's medium is not scale-free (K55a: PASS).** Computed from the medium's exact mean occupancy (f(n) = c ln(1 + n/p_s), π(n) ∝ zⁿ/∏f(k); Run 35):
 
 | p_s | P/p_s = 16 | 64 | 256 | 1024 |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ given inertia = E_H. What does that predict for ED's own medium, the A″ mean f
 $$
 g=\frac{p_s-b}{P},\qquad b=\tfrac12\ln\!\Big(1+\frac{P}{p_s}\Big)-\tfrac12,\qquad s\equiv-\frac{d\ln g}{d\ln P}\approx1+\frac{1}{2p_s}.
 $$
-- At ED's physical scales (p_s ≳ 4×10⁵, P₀/p_s ≳ 10⁵), g·P/p_s = 1 − b/p_s ≈ 1 − 1.4×10⁻⁵ and s − 1 ≈ 1.3×10⁻⁶. *Correction:* the registration's "to better than 10⁻⁵" is slightly too strong. The medium is Run 51's controlled medium with α = 1, to about 10⁻⁵.
+- At CO's physical scales (p_s ≳ 4×10⁵, P₀/p_s ≳ 10⁵), g·P/p_s = 1 − b/p_s ≈ 1 − 1.4×10⁻⁵ and s − 1 ≈ 1.3×10⁻⁶. *Correction:* the registration's "to better than 10⁻⁵" is slightly too strong. The medium is Run 51's controlled medium with α = 1, to about 10⁻⁵.
 - With s = 1 the violation becomes one number per star:
 $$
 \bar g-g_{\rm bg}=g_{\rm bg}\,C,\qquad C=\Big\langle\frac{P_0}{P}\Big\rangle_T-1,\qquad \Delta\simeq C\,\frac{p_s}{P_0}.
@@ -90,11 +90,11 @@ rising to about 2.1×10⁵ (3.2×10⁵) if the Γ = 2 star at 12 km is included.
 ![Runs 55–56](figures/55_56.png)
 
 **Reading.**
-1. **ED's medium, as specified, is not scale-free.** The scale p_s, brought in after Run 22 so that clocks of different design agree, makes the medium depart from scale-free as g = (p_s − b)/P ≈ p_s/P.
-2. **With inertia = total energy, ED predicts a strong-equivalence-principle violation for compact bodies:**
+1. **CO's medium, as specified, is not scale-free.** The scale p_s, brought in after Run 22 so that clocks of different design agree, makes the medium depart from scale-free as g = (p_s − b)/P ≈ p_s/P.
+2. **With inertia = total energy, CO predicts a strong-equivalence-principle violation for compact bodies:**
 $$
 \Delta=\frac{m_{\rm grav}}{m_{\rm inertial}}-1\;\simeq\;C\,\frac{p_s}{P_0}>0 .
 $$
    - It is negligible for light bodies, grows with compactness (C ≈ 0.33–0.49 for the pulsar, Γ = 3 to Γ = 2), and is not additive.
    - GR predicts exactly zero.
-3. **Its size is not predicted.** ED does not yet fix P₀/p_s. The pulsar triple requires P₀/p_s ≳ 1.4–2.9×10⁵, tighter than, and consistent with, the first-order bound of Run 45 (10⁵). If ED fixed P₀/p_s, this would become a definite number for pulsar timing, with a definite sign.
+3. **Its size is not predicted.** CO does not yet fix P₀/p_s. The pulsar triple requires P₀/p_s ≳ 1.4–2.9×10⁵, tighter than, and consistent with, the first-order bound of Run 45 (10⁵). If CO fixed P₀/p_s, this would become a definite number for pulsar timing, with a definite sign.

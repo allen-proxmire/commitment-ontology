@@ -7,7 +7,7 @@
 Pre-registered: `PREREG_27.md`, hashed before any calculation; `fall60_run.zip`.
 
 **Method (no engine runs; Run 22's T4′ already showed the engine's noise does not matter).**
-- **The well.** The theory's smooth Candidate A′ well for ED's ball (radius 3, k = 1) at $p_s$ = 1, $P_0$ = 64, built in box 40 and in box 60.
+- **The well.** The theory's smooth Candidate A′ well for CO's ball (radius 3, k = 1) at $p_s$ = 1, $P_0$ = 64, built in box 40 and in box 60.
 - **The releases.** Run 16's `release`, code unchanged: width 4, a 16-tick fit, released at rest at 10, 14 and 18 places out along six axes, masses 0.7–2.0.
 - **The test.** Run 16's code check: median $a/a_{\rm pred}$ in 0.96–1.00, and the masses alike to 1%.
 

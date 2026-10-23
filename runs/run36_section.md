@@ -49,7 +49,7 @@ $$
    - **In GR the response is exactly 1, and the reason makes this testable.**
      - The static lapse equation $D^2N=4\pi N(\rho+\sum p)$ is homogeneous in N, so a uniform outside potential rescales a body's Tolman mass by exactly the lapse, at any compactness.
      - In these (isotropic) coordinates the body also shrinks by $e^{-U_{\rm ext}}$.
-     - Within ED's own law, the self-coefficient k goes as 1/R. A body whose size and draw both scale by $e^{-U_{\rm ext}}$ keeps kD fixed, and so responds with exactly 1.
+     - Within CO's own law, the self-coefficient k goes as 1/R. A body whose size and draw both scale by $e^{-U_{\rm ext}}$ keeps kD fixed, and so responds with exactly 1.
      - The engine's ball is held on fixed places and cannot shrink.
 2. **The under-response is only part of the failure.**
    - Rescale the ball's change to a response of 1 (dividing by 0.526) and keep the flux term. That gives 1.082 at m = 0.3, 1.032 at m = 0.2 and 1.057 at m = 0.4. K36 still fails.
@@ -70,12 +70,12 @@ $$
 
 **Reading.**
 - **The kill rule fired. The engine, under the adopted rules, does not count a bound pattern's binding energy once.** Under the adopted rule its far field overshoots ħω by 13% at the registered setting, and by 0.4–2.6% with weak-field matter.
-- **Part of the cause is identified, post hoc.** A body held on fixed places, whose draw is its ticking, responds to outside wells with weight 1/(1 + U_self), not GR's 1. GR's bodies shrink in these coordinates, which keeps the response at 1. ED's law would do the same for a body that shrank, so a body that can adjust is the fix to try. The rest of the gap is unresolved.
+- **Part of the cause is identified, post hoc.** A body held on fixed places, whose draw is its ticking, responds to outside wells with weight 1/(1 + U_self), not GR's 1. GR's bodies shrink in these coordinates, which keeps the response at 1. CO's law would do the same for a body that shrank, so a body that can adjust is the fix to try. The rest of the gap is unresolved.
 - **The chosen pattern rule is closer to measured physics than energy-only at every setting**, but this run does not show it to be right.
 - **This sharpens an open item already on the list:** bodies held by rule, not supported (Run 30, "whether stress pulls").
   - At physical scales $U_{\rm self}$ combines each clock's own dip (about 0.3/p_s ≈ 10⁻⁶ at p_s ≈ 4×10⁵) with a body's own potential: Earth 7×10⁻¹⁰, Sun 2×10⁻⁶, a neutron star about 0.2.
   - **Extrapolating from a ball held on lattice places** (not computed for any real body), a neutron star's active mass would respond to outside wells about 17% weakly. Strong-field pulsar tests bound related effects far below that. The PSR J0337+1715 triple bounds the passive-mass analogue to about 2×10⁻⁶.
-  - So if ED's bodies really cannot adjust, that would very likely be excluded. A body that adjusts as GR's does avoids it.
+  - So if CO's bodies really cannot adjust, that would very likely be excluded. A body that adjusts as GR's does avoids it.
 - **Next, to register:**
   - the same test with a ball whose size scales with the outside well (shrinking by $e^{-U_{\rm ext}}$), to see whether that restores a response of 1 and closes the gap;
   - then a supported body, with stresses.

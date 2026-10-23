@@ -1,4 +1,4 @@
-## Run 67: the near-horizon shell under option 3, with ED's medium
+## Run 67: the near-horizon shell under option 3, with CO's medium
 
 *21 October 2026. Step 4. Registered and hashed before the run (`shell67/PREREG_67.md`, 06:30 UTC). The claims were derived before registration; K67b and K67d check analytic forms numerically, while K67a and K67c are computations whose outcome was not known. Smoke tests on unregistered inputs are disclosed in the registration. An independent agent checked the run; its corrections are included.*
 
@@ -60,20 +60,20 @@ Inside it, the area grows again toward the surface.
 1. **Confirmed with its own code:** the geometry; the boost-defect formula (for g_tt g_rr = −1, R_t̂θ̂t̂θ̂ + R_r̂θ̂r̂θ̂ = −N²R″/R, zero for Schwarzschild); the tide's growth as −2/(τ₀ − τ)², independent of L; the wave potential, with V → 0 in the horn, so the horn absorbs. Its numbers: shadow within 8.5×10⁻⁷ of the first-order form at ε = 10⁻³; the throat; infall times 5.5974, 5.5951 and 5.5949 M_K at ε = 10⁻³, 10⁻⁴ and 5×10⁻⁶; L/(4mε) = 0.998; boost-defect ratios 0.9976 and 0.9953 at ε = 10⁻³ and 10⁻⁴; the exact medium's 5.39×10⁻⁵ at p_s = 64, P∞/p_s = 10³.
 2. **Added: no event horizon**, and **the tide is already large at the throat** (above). There the defect is three times Schwarzschild's horizon tide, multiplied by (E/N)² ≈ 1/n*², so an infaller into a stellar-mass hole is torn apart near the throat, before it reaches P = 0.
 3. **Two phrases were overstated and are reworded.**
-   - "Commits as a consequence": the geometry gives a curvature singularity reached in finite proper time; "commits" is ED's reading of it. Formation is not computed, and under option 3 Buchdahl's bound (R > 9M/4) keeps static stars out of this region, so the shell describes the end state of a collapse that has not been modelled. At P → 0 matter's pairs cannot renew, so whether matter commits or dissolves is a reading, not a result.
+   - "Commits as a consequence": the geometry gives a curvature singularity reached in finite proper time; "commits" is CO's reading of it. Formation is not computed, and under option 3 Buchdahl's bound (R > 9M/4) keeps static stars out of this region, so the shell describes the end state of a collapse that has not been modelled. At P → 0 matter's pairs cannot renew, so whether matter commits or dissolves is a reading, not a result.
    - "Run 43's first echo row superseded": rather, a reflecting wall does not arise in the static vacuum solution. The throat reflects weakly (|R| changes by at most 1.2×10⁻⁵ at ε = 5×10⁻⁶), with a tortoise delay of about 16.8 M from the light ring to the throat.
 4. **A conflict with the ruling that black holes evaporate.** The static hole has κ = 0 and no event horizon, so its Hawking temperature is zero. The agent's rough estimate, not computed: after a collapse, thermal emission would last only about (4/3)M ln(1/ε), a few tens of M. The 19 October ruling borrowed Kerr's κ under option A. This needs its own check.
 
 **Reading.**
-1. **Under option 3, ED's hole is Schwarzschild outside, to O(ε), and ends where possibility runs out.**
+1. **Under option 3, CO's hole is Schwarzschild outside, to O(ε), and ends where possibility runs out.**
    - Its clock stops not at GR's horizon but where GR's lapse would be ε/(1 + ε), about 2mε² further out.
    - That surface is at infinite tortoise distance and infinite static proper distance, absorbs everything that falls in, and tears infallers apart in finite proper time.
-2. **If this geometry forms, an infaller meets a curvature singularity at the zero-clock surface in finite proper time; in ED's terms it commits there.** That is consistent with the ruling of 19 October, not derived from it. The surface absorbs waves because it is at infinite tortoise distance. So:
+2. **If this geometry forms, an infaller meets a curvature singularity at the zero-clock surface in finite proper time; in CO's terms it commits there.** That is consistent with the ruling of 19 October, not derived from it. The surface absorbs waves because it is at infinite tortoise distance. So:
    - a reflecting wall does not arise in the static vacuum solution, and the throat sends back at most 1.2×10⁻⁵ of a wave: no echoes at that level;
    - for a spinning hole this is not computed (§3: which clock the medium follows in rotation is not ruled).
 3. **New:** a throat, a minimum of the area, sits where GR's lapse is (ε/2)^{1/3}, at a redshift of about 74 for ε = 5×10⁻⁶. It is 0.05% larger than GR's horizon and is invisible to waves at the 10⁻⁵ level.
 4. **Not settled.**
    - **Evaporation.** The static hole's surface is cold (κ = 0) and there is no event horizon, so it does not radiate at Hawking's temperature. That conflicts with the 19 October ruling that black holes evaporate, unless a collapse changes it; to be checked.
-   - The mean field fails where a place holds less than one unit (N ≲ 1/P∞), so the singularity's last stretch is in ED's discrete regime.
+   - The mean field fails where a place holds less than one unit (N ≲ 1/P∞), so the singularity's last stretch is in CO's discrete regime.
    - Whether a collapse ends in this vacuum is not computed. A static body cannot make it: GR's Buchdahl limit applies under option 3.
    - The scalar field stands in for gravitational waves, whose equations under the medium are not derived.

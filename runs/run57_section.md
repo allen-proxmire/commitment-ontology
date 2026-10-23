@@ -1,8 +1,8 @@
-## Run 57: realistic neutron-star equations of state, in ED's continuum equations
+## Run 57: realistic neutron-star equations of state, in CO's continuum equations
 
 *20 October 2026. (step 2). Registered and hashed before the run (`eos57/PREREG_57.md`, 15:37 UTC). An independent agent checked the run; its corrections are included.*
 
-**Question.** Run 55 left the pulsar's coefficient C spread over 0.33–0.49, from its unmeasured radius and two polytropes. With a realistic equation of state, the star of the pulsar's measured mass has a definite compactness. What are its C and U_s in ED's own equations? And, as reported (not registered as a test), what is ED's maximum neutron-star mass?
+**Question.** Run 55 left the pulsar's coefficient C spread over 0.33–0.49, from its unmeasured radius and two polytropes. With a realistic equation of state, the star of the pulsar's measured mass has a definite compactness. What are its C and U_s in CO's own equations? And, as reported (not registered as a test), what is CO's maximum neutron-star mass?
 
 **Method: the engine's static equations in the continuum.** For a spherical star in the scale-free medium (G = c = 1):
 $$
@@ -35,19 +35,19 @@ $$
   - M₀ and M_far peak at the same star, and the check found why: along every sequence dM_far/dM₀ = e^{−U_s} to 10⁻⁶. That is Run 50's first law plus the virial identity.
   - The coincidence also confirms the draw factors, since a wrong factor would break it.
 
-**Reported: the pulsar and ED's maximum mass.**
+**Reported: the pulsar and CO's maximum mass.**
 
-| equation of state | ED: the 1.438 M☉ star (U_s, R, C) | P₀/p_s ≥ (2.3×10⁻⁶ / 1.5×10⁻⁶) | ED M_max | GR M_max |
+| equation of state | CO: the 1.438 M☉ star (U_s, R, C) | P₀/p_s ≥ (2.3×10⁻⁶ / 1.5×10⁻⁶) | CO M_max | GR M_max |
 |---|---|---|---|---|
 | SLy | 0.244, 11.11 km, **0.474** | 2.1×10⁵ / 3.2×10⁵ | **1.65 M☉** | 2.05 |
 | APR4 | 0.254, 10.77 km, **0.492** | 2.1×10⁵ / 3.3×10⁵ | **1.69 M☉** | 2.19 |
 | MPA1 | 0.219, 12.06 km, **0.400** | 1.7×10⁵ / 2.7×10⁵ | **1.91 M☉** | 2.46 |
 
-- In ED a star of given mass is more compact than in GR: for SLy at 1.4 M☉, 11.2 km against 11.7 km.
+- In CO a star of given mass is more compact than in GR: for SLy at 1.4 M☉, 11.2 km against 11.7 km.
 - **The check reproduced every number** with its own equation-of-state code and an independent shooting solver, to a few parts in 10⁵. It also confirmed the continuum equations from `star50.draws`: they are the Euler–Lagrange equations of the engine's action at fixed count.
 - **No heavier static star exists for these equations of state.** M_far along the sequence is a damped spiral; for SLy it goes 1.646 at the peak, then 1.29, 0.99, 1.14 and 1.09 at h_c = 3, 10, 30 and 100. So "no static, spherical, cold equilibrium heavier than M_max" needs no stability criterion.
-- ED's maximum-mass stars are causal at the centre (v_s² = 0.72, 0.94, 0.82).
-- **ED's maximum mass is about 0.78 of GR's, and with all three standard equations of state ED fails PSR J0740+6620** (2.08 ± 0.07 M☉). All three maxima are below Run 59's FAIL line of 1.94.
+- CO's maximum-mass stars are causal at the centre (v_s² = 0.72, 0.94, 0.82).
+- **CO's maximum mass is about 0.78 of GR's, and with all three standard equations of state CO fails PSR J0740+6620** (2.08 ± 0.07 M☉). All three maxima are below Run 59's FAIL line of 1.94.
   - SLy and APR4 also fail PSR J0348+0432 (2.01 ± 0.04).
   - Only MPA1 holds PSR J1614−2230 (1.908 ± 0.016), at 1.911.
   - GR holds J0740 with APR4 and MPA1, and SLy is within 1σ.
@@ -57,5 +57,5 @@ $$
 
 **Reading.**
 1. **With realistic equations of state, the pulsar's coefficient is C ≈ 0.40–0.49,** and the triple requires P₀/p_s ≳ 1.7–2.1×10⁵ (red noise) or 2.7–3.3×10⁵ (the planet model). This replaces Run 55's range of 1.4–2.9×10⁵. The remaining spread is the equation of state.
-2. **ED's static strong field holds less mass than GR's.** The source term (e + 3p)e^{2U} grows deep in the well (e^{2U} ≈ 5.5–6 at the centre of a maximum-mass star), so stars turn over sooner. **With SLy, APR4 or MPA1 as they are, ED cannot hold the measured 2 M☉ pulsars.** Whether any allowed equation of state can is Run 59.
-3. **Scope.** Option A (Run 44: "outside a compact object the field is GR's") covers black-hole exteriors only. The neutron-star interiors here are ED's own static equations. Whether a failure here could be absorbed by extending that tracked input to neutron-star interiors was put up for a ruling. It was ruled (20 October) that ED's interior equations bind (§3).
+2. **CO's static strong field holds less mass than GR's.** The source term (e + 3p)e^{2U} grows deep in the well (e^{2U} ≈ 5.5–6 at the centre of a maximum-mass star), so stars turn over sooner. **With SLy, APR4 or MPA1 as they are, CO cannot hold the measured 2 M☉ pulsars.** Whether any allowed equation of state can is Run 59.
+3. **Scope.** Option A (Run 44: "outside a compact object the field is GR's") covers black-hole exteriors only. The neutron-star interiors here are CO's own static equations. Whether a failure here could be absorbed by extending that tracked input to neutron-star interiors was put up for a ruling. It was ruled (20 October) that CO's interior equations bind (§3).

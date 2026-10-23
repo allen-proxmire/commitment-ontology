@@ -162,7 +162,7 @@ The first term is constant, so the expected power is $(\tfrac12)^2=0.25$ of GR. 
 - Either one alone already takes the total to 1.15 of GR, which is excluded.
 - **What works is a constraint.** These fields are set by where matter is at each moment, not by a wave equation of their own. GR works the same way: in its gauge-invariant split (Flanagan & Hughes 2005), only the TT part obeys a wave equation. The scalar parts, the Newtonian potential and the isotropic spatial stretch, obey Poisson-type equations tied to matter.
 - Light bending (Run 9) and the perihelion (Run 10) use only the static profiles, so they are untouched.
-- **Open question for ED's event layer:** how does the capacity shortage follow moving matter without being a wave?
+- **Open question for CO's event layer:** how does the capacity shortage follow moving matter without being a wave?
   - A Planck-step random walk is far too slow to keep up.
   - Ballistic spreading at $c$ radiates.
 
@@ -170,12 +170,12 @@ The first term is constant, so the expected power is $(\tfrac12)^2=0.25$ of GR. 
 
 **5. What this is and is not.**
 - **Is not:** a new prediction. This is linearised GR, so the run shows that the ontology *can* carry it, and which readings of the ontology cannot.
-- **Is (the ED content):**
+- **Is (the CO content):**
   - sliding places is free, which follows from "space is who relates to whom"
   - isotropic stretch and capacity are bound to matter, with no waves of their own
   - binding tension in the relations
 
-**6. Saddles.** ED's earlier saddle-shaped geometry was tidal: the Hessian of a scalar, i.e. second derivatives of capacity. That is a static stretch-and-squeeze around a mass. It is not this shear, which is a travelling wave of its own.
+**6. Saddles.** CO's earlier saddle-shaped geometry was tidal: the Hessian of a scalar, i.e. second derivatives of capacity. That is a static stretch-and-squeeze around a mass. It is not this shear, which is a travelling wave of its own.
 
 **7. Pointer forward.**
 - The physical part of shear, what survives relabelling, is curvature: the mismatch accumulated going around a closed loop of relations.
