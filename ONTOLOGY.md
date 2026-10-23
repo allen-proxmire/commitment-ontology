@@ -236,6 +236,15 @@ Nothing in ED's papers fixes either.
    - The engine's bottom is one-way.
    - A clock's time-averaged record loses most of the order, falling as 1/T. What leaks goes as 1/T times a coefficient that is unknown at physical scales.
    - So this is an instance of the ontology's coarse-graining claim, not yet a test of nature (Run 29).
+   - **The beginning, and the past hypothesis** (stated 23 October).
+     - Standard physics explains the arrow by a very special low-entropy start. Penrose put the chance of starting that smooth at 1 in 10^(10^123), measured against every state the universe could have started in.
+     - The ontology removes the menu. The beginning is a timeless, scaleless whole of uncommitted possibility, fully in step: "the One Being".
+     - Before any commitment there is nothing differentiated to choose between. So a smooth, ordered start is not a lucky draw: it is the only state with zero becoming.
+     - **The low-entropy start stops being improbable, because there was nothing else it could have been.**
+     - This matches where Penrose's number comes from. It is gravitational entropy: the early universe is special because gravity had not yet clumped anything. In the ontology gravity is clock-rate gradients, and a state fully in step has none.
+     - **Open:**
+       - why the One Being begins to commit;
+       - why the first commitments leave near-uniform ripples, about one part in 10⁵, with the measured spectrum.
 2. **The quantum vacuum's energy does not draw,** because the vacuum never commits.
    - That is in line with how small the cosmological constant is. Its coefficient is not computed.
    - The classical vacuum drawing nothing is not distinctive: GR without Λ has it too.
