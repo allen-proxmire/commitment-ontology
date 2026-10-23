@@ -158,6 +158,8 @@ If this holds, Notes F and G, Run 79 and Run 11b are one question: the relations
 
 **H1 comes first.** It is cheap, and it decides whether a lattice of relations can carry GR's two polarisations, stably and with linear dispersion. H2 is cheaper still and settles the speed.
 
+*Notes added 23 October, after Runs 82 and 83.* **H2 (Run 82):** a second factor of N is required, as §4 said; it may sit in the space, the stiffness or the clock. **H1 (Run 83, Kuhn lattice):** the counting works. Both routes carry exactly two TT modes at c² = 1, isotropically, and the khronometric route's long wavelengths are the continuum's, with the non-metric mode gapped at ω² = 6. Stability does not: with the per-tetrahedron DeWitt kinetic form, the khronon is unstable at finite k for every λ > 1, and GR's route fails at long wavelengths with the end-average lapse coupling (a tuned weighting removes that, post hoc). The kinetic form is now the open choice; the face-centred complex is still untested.
+
 **7. What would be derived, and what chosen.** If H1–H4 pass:
 - **Derived:**
   - from sliding with the momentum constraint: no vector or longitudinal waves;
