@@ -139,7 +139,7 @@ ds^2=-N^2dt^2+N^{-2}\,\tilde\gamma_{ij}\,dx^i dx^j .
 $$
 - **ED's original rule** (option 1, with R6) kept γ̃ flat.
   - With ED's field equation this gives the exponential metric e^(∓2U): γ = β = 1 at first post-Newtonian order, and no horizons.
-- **Option 3** (Allen, 21 October, provisional): binding tension curves the medium's space, in GR's form.
+- **Option 3** (ruled 21 October, provisional): binding tension curves the medium's space, in GR's form.
   - At ε = 0 (no medium scale), GR's static equations are exactly:
 $$
 \tilde\Delta U=-4\pi\,(e+3p)\,e^{2U},\qquad
@@ -178,7 +178,7 @@ $$
   - **It catches all causal matter.** In a thin-shell model at physical ε, the stiffest causal matter turns back at most at 1.27p_s (Run 73). Ordinary dense matter (w ≲ 0.6) turns back below about 0.75p_s.
   - **Any k above about 1.34 would work.** k = 2 is twice the medium's crossover.
   - **The core's areal radius is 2m(k + 1)/k,** which is 3m at k = 2 (Run 74, computed post hoc with the corrected conversion).
-- **ED's holes are stable** (Allen, 21 October: "it follows from the rules with nothing added"). This replaced his 19 October ruling that black holes evaporate (Runs 68, 71, 74; §5).
+- **ED's holes are stable** (ruled 21 October: "it follows from the rules with nothing added"). This replaced the 19 October ruling that black holes evaporate (Runs 68, 71, 74; §5).
 - **Going back:**
   - if the exterior's own dynamics, once written, give a conflicting bounce or commitment rule;
   - if matter is found that turns back above 2p_s;

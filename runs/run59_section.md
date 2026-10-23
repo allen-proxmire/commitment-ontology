@@ -1,6 +1,6 @@
 ## 9zzf. Run 59: can ED's stars reach the measured 2 M☉ pulsars?
 
-*20 October 2026. It follows the conditional recommendation after Run 57. Registered and hashed before the run (`mmax59/PREREG_59.md`, 15:46 UTC). An independent agent checked the run; its corrections are included.*
+*20 October 2026. It follows the conditional next step set out after Run 57. Registered and hashed before the run (`mmax59/PREREG_59.md`, 15:46 UTC). An independent agent checked the run; its corrections are included.*
 
 **Question.** In ED's static equations the standard equations of state give maximum masses of 1.65–1.91 M☉ (Run 57). PSR J0740+6620 is 2.08 ± 0.07 M☉. The equation of state above about twice nuclear density is uncertain. Can **any** matter that respects causality and nuclear theory hold 2.08 M☉ in ED?
 

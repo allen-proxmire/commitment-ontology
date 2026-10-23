@@ -1,6 +1,6 @@
 ## 9zzz2. Run 77: a flat sheet of matter on a lattice bent by its own field
 
-*22 October 2026. Allen (07:09): "lets do a registered run on a flat sheet of matter, with possibility returned at a far-away reservoir". This follows the design note (§9zzz). Registered and hashed before any engine run (`sheet77/PREREG_77.md`), with the theory's predictions computed and hashed beforehand (`theory77.json`).*
+*22 October 2026. A registered run on a flat sheet of matter, with the possibility it releases returned at a far-away reservoir. It follows the design note (§9zzz). Registered and hashed before any engine run (`sheet77/PREREG_77.md`), with the theory's predictions computed and hashed beforehand (`theory77.json`).*
 - *Amendment 1: the first launch ran no simulation. The driver's skip-finished-jobs filter indexed past the end of each job line, so its job list came out empty, and the rebuild steps then stopped while reading their arguments. The filter was fixed, a guard added, and everything re-hashed (05:20:06 UTC) before any run. Only the driver and the registration text changed; no data had been made.*
 - *An independent agent checked the run (below). Its findings correct several statements made when the results first came in; the corrected statements are the ones given here.*
 

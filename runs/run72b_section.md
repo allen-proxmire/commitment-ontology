@@ -1,6 +1,6 @@
 ## 9zzu. Run 72b: doubled seeds for Run 72's design-gap contrast
 
-*21 October 2026. The recommendation, after Run 72's check, was to double the seeds for both signs of curvature so the design-gap contrast could reach the registered bar. Registered and hashed before any new engine run (`curve72/PREREG_72b.md`, 16:05:50 UTC). The engine, geometry, theory and its output are Run 72's files, unchanged and hashed again.*
+*21 October 2026. After Run 72's check, the next step was to double the seeds for both signs of curvature so the design-gap contrast could reach the registered bar. Registered and hashed before any new engine run (`curve72/PREREG_72b.md`, 16:05:50 UTC). The engine, geometry, theory and its output are Run 72's files, unchanged and hashed again.*
 - *The registration's header says 18:10 local; it was hashed at 18:05:50 local (16:05:50 UTC). The first new run finished at 16:12:58 UTC.*
 - *The 40 runs were made in two batches, to stay inside the session's two-hour task limit. The runner skipped any job whose output already existed.*
 - *An independent agent checked the run (below).*

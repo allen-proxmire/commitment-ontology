@@ -1,6 +1,6 @@
 ## 9zzv. Run 73: does the stiffest matter commit before it turns back?
 
-*21 October 2026. The recommendation was to pin down the "about 2p_s" in the ruling of 14:00 (infalling matter commits where the medium's possibility per place falls to about 2p_s) with a shell of the stiffest matter. Registered and hashed before the scan (`stiff73/PREREG_73.md`, 16:06 UTC).*
+*21 October 2026. The aim was to pin down the "about 2p_s" in the ruling of 14:00 (infalling matter commits where the medium's possibility per place falls to about 2p_s) with a shell of the stiffest matter. Registered and hashed before the scan (`stiff73/PREREG_73.md`, 16:06 UTC).*
 - *Amendment 1: the analysis script had a Python syntax error, fixed without changing its logic. The scan's rows had already been printed when the fix was made.*
 - *The registration's header says 18:15 local; it was hashed at 18:06 (16:06 UTC).*
 - *An independent agent checked the run. It reproduced every turning point, and found that the run converted the clock to possibility per place with the wrong formula. The correction reverses the registered verdict on the ruling's number. Both are recorded below.*

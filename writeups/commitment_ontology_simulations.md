@@ -2898,7 +2898,7 @@ $$
 
 What does it predict where gravity is strong, and do current observations allow it?
 
-**Prior record (added after it was pointed out: "we've been here before, 4% and no horizon").** This calculation repeats ED_Attempt_03, note 5 (`Full_Locus_Strong_Field.md`, 15 September 2026, C26–C35). That note found the same metric, the same light ring at 2GM/c², the same 4.6% larger shadow, and the same 1.4σ and 1.0σ from EHT's Sgr A*. It went further on horizons:
+**Prior record (added later: "we've been here before, 4% and no horizon").** This calculation repeats ED_Attempt_03, note 5 (`Full_Locus_Strong_Field.md`, 15 September 2026, C26–C35). That note found the same metric, the same light ring at 2GM/c², the same 4.6% larger shadow, and the same 1.4σ and 1.0σ from EHT's Sgr A*. It went further on horizons:
 - Sgr A*'s missing surface glow (any surface emits less than 0.4% of the accretion power) and quiet X-ray binaries put a horizonless object in strong tension.
 - An escape check, under an exit rule fixed first, found at least 10% of the infalling energy escapes, 25 times the limit.
 - **ED's strong-field line was closed** (C33–C34).
@@ -5654,7 +5654,7 @@ $$
 
 *Note (21 October): these ED results use ED's original rule for space. Under the provisional option 3 (Run 65, §9zzl) ED's stars and exterior are GR's; the results here stand if option 3 is reversed.*
 
-*20 October 2026. It follows the conditional recommendation after Run 57. Registered and hashed before the run (`mmax59/PREREG_59.md`, 15:46 UTC). An independent agent checked the run; its corrections are included.*
+*20 October 2026. It follows the conditional next step set out after Run 57. Registered and hashed before the run (`mmax59/PREREG_59.md`, 15:46 UTC). An independent agent checked the run; its corrections are included.*
 
 **Question.** In ED's static equations the standard equations of state give maximum masses of 1.65–1.91 M☉ (Run 57). PSR J0740+6620 is 2.08 ± 0.07 M☉. The equation of state above about twice nuclear density is uncertain. Can **any** matter that respects causality and nuclear theory hold 2.08 M☉ in ED?
 
@@ -6927,7 +6927,7 @@ $$
 
 ## 9zzu. Run 72b: doubled seeds for Run 72's design-gap contrast
 
-*21 October 2026. The recommendation, after Run 72's check, was to double the seeds for both signs of curvature so the design-gap contrast could reach the registered bar. Registered and hashed before any new engine run (`curve72/PREREG_72b.md`, 16:05:50 UTC). The engine, geometry, theory and its output are Run 72's files, unchanged and hashed again.*
+*21 October 2026. After Run 72's check, the next step was to double the seeds for both signs of curvature so the design-gap contrast could reach the registered bar. Registered and hashed before any new engine run (`curve72/PREREG_72b.md`, 16:05:50 UTC). The engine, geometry, theory and its output are Run 72's files, unchanged and hashed again.*
 - *The registration's header says 18:10 local; it was hashed at 18:05:50 local (16:05:50 UTC). The first new run finished at 16:12:58 UTC.*
 - *The 40 runs were made in two batches, to stay inside the session's two-hour task limit. The runner skipped any job whose output already existed.*
 - *An independent agent checked the run (below).*
@@ -7054,7 +7054,7 @@ with errors from the seed-to-seed scatter. The theory's contrast, fixed before R
 
 ## 9zzv. Run 73: does the stiffest matter commit before it turns back?
 
-*21 October 2026. The recommendation was to pin down the "about 2p_s" in the ruling of 14:00 (infalling matter commits where the medium's possibility per place falls to about 2p_s) with a shell of the stiffest matter. Registered and hashed before the scan (`stiff73/PREREG_73.md`, 16:06 UTC).*
+*21 October 2026. The aim was to pin down the "about 2p_s" in the ruling of 14:00 (infalling matter commits where the medium's possibility per place falls to about 2p_s) with a shell of the stiffest matter. Registered and hashed before the scan (`stiff73/PREREG_73.md`, 16:06 UTC).*
 - *Amendment 1: the analysis script had a Python syntax error, fixed without changing its logic. The scan's rows had already been printed when the fix was made.*
 - *The registration's header says 18:15 local; it was hashed at 18:06 (16:06 UTC).*
 - *An independent agent checked the run. It reproduced every turning point, and found that the run converted the clock to possibility per place with the wrong formula. The correction reverses the registered verdict on the ruling's number. Both are recorded below.*
@@ -7124,7 +7124,7 @@ The grid is w = ⅓, ½, ⅔ and 1; ε = 10⁻², 10⁻⁴ and 10⁻⁶; shells 
 
 ## 9zzw. Run 74: what commitment at P = k·p_s does to the radiation
 
-*21 October 2026. The recommendation was to model what commitment at 2p_s does to the geometry and to the radiation afterwards. Registered and hashed before the run (`commit74/PREREG_74.md`, 16:10 UTC).*
+*21 October 2026. The aim was to model what commitment at 2p_s does to the geometry and to the radiation afterwards. Registered and hashed before the run (`commit74/PREREG_74.md`, 16:10 UTC).*
 - *The registration used the same wrong conversion between the clock and the occupancy that the check on Run 73 found. So its "k = 2" and "k = 2.3" cases committed at a true P of about p_s and 1.3p_s, not at the ruled 2p_s.*
 - *The results for the ruled threshold (N_c = 2ε) and for k = 1.34 were computed afterwards with the corrected conversion (`commit74c.py`, post hoc). Both sets are recorded below.*
 - *The registration's header says 18:25 local; it was hashed at 18:10 (16:10 UTC).*
@@ -7475,13 +7475,13 @@ The lattice's own flux conservation, B²φ_ξ = const, is the same statement as 
 | (ii) As (i), plus a registered planar run with reservoir release (σ ≈ 0.02, ξ_r = 6–12) | shows the engine's medium gives option 3's planar field on its self-curved lattice | an engine change to the release step (a boundary condition); about 2 hours |
 | (iii) Lift the hop cap (several hops per tick, or a local tick) so strong fields can be carried | the engine near holes | a rule-level change to the hop rule, which needs a ruling |
 
-The recommendation is (i) now, and (ii) if a simulated demonstration of option 3 is wanted. (iii) is a question for the ontology, not a run.
+The plan: (i) now, and (ii) if a simulated demonstration of option 3 is wanted. (iii) is a question for the ontology, not a run.
 
 *After Run 77: (ii) was run (§9zzz2). The limit may need no change to the hop rule (clocks slowed with the hops, or isotropic cells), so (iii) is first a question about how the lattice represents γ̃ (the check).*
 
 ## 9zzz2. Run 77: a flat sheet of matter on a lattice bent by its own field
 
-*22 October 2026. Allen (07:09): "lets do a registered run on a flat sheet of matter, with possibility returned at a far-away reservoir". This follows the design note (§9zzz). Registered and hashed before any engine run (`sheet77/PREREG_77.md`), with the theory's predictions computed and hashed beforehand (`theory77.json`).*
+*22 October 2026. A registered run on a flat sheet of matter, with the possibility it releases returned at a far-away reservoir. It follows the design note (§9zzz). Registered and hashed before any engine run (`sheet77/PREREG_77.md`), with the theory's predictions computed and hashed beforehand (`theory77.json`).*
 - *Amendment 1: the first launch ran no simulation. The driver's skip-finished-jobs filter indexed past the end of each job line, so its job list came out empty, and the rebuild steps then stopped while reading their arguments. The filter was fixed, a guard added, and everything re-hashed (05:20:06 UTC) before any run. Only the driver and the registration text changed; no data had been made.*
 - *An independent agent checked the run (below). Its findings correct several statements made when the results first came in; the corrected statements are the ones given here.*
 

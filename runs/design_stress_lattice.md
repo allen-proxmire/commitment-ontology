@@ -76,6 +76,6 @@ The lattice's own flux conservation, B²φ_ξ = const, is the same statement as 
 | (ii) As (i), plus a registered planar run with reservoir release (σ ≈ 0.02, ξ_r = 6–12) | shows the engine's medium gives option 3's planar field on its self-curved lattice | an engine change to the release step (a boundary condition); about 2 hours |
 | (iii) Lift the hop cap (several hops per tick, or a local tick) so strong fields can be carried | the engine near holes | a rule-level change to the hop rule, which needs a ruling |
 
-The recommendation is (i) now, and (ii) if a simulated demonstration of option 3 is wanted. (iii) is a question for the ontology, not a run.
+The plan: (i) now, and (ii) if a simulated demonstration of option 3 is wanted. (iii) is a question for the ontology, not a run.
 
 *After Run 77: (ii) was run (§9zzz2). The limit may need no change to the hop rule (clocks slowed with the hops, or isotropic cells), so (iii) is first a question about how the lattice represents γ̃ (the check).*

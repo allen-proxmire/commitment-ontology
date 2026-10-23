@@ -50,7 +50,7 @@
 **A reading that could be ED's own (untested):**
 - **The rule would be:** dimension equals **the number of independent kinds of relation** that can coexist without interfering.
 - **It fits ED's "relations among different things are richer"** (A1 D16): different kinds need room to differ.
-- **It fits his timing too:** dimension would be set by the rules of relation, *before or with* space, not after.
+- **It fits the idea's timing too:** dimension would be set by the rules of relation, *before or with* space, not after.
 - **The poke:** it would still need a reason for *three* kinds. Counting ED's three channels, or the three gauge forces, and calling it three dimensions is the kind of match the ledger treats as a hint (A2 D5), not evidence.
 
 ## What it means (C42)

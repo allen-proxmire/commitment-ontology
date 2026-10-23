@@ -1,6 +1,6 @@
 ## 9zzw. Run 74: what commitment at P = k·p_s does to the radiation
 
-*21 October 2026. The recommendation was to model what commitment at 2p_s does to the geometry and to the radiation afterwards. Registered and hashed before the run (`commit74/PREREG_74.md`, 16:10 UTC).*
+*21 October 2026. The aim was to model what commitment at 2p_s does to the geometry and to the radiation afterwards. Registered and hashed before the run (`commit74/PREREG_74.md`, 16:10 UTC).*
 - *The registration used the same wrong conversion between the clock and the occupancy that the check on Run 73 found. So its "k = 2" and "k = 2.3" cases committed at a true P of about p_s and 1.3p_s, not at the ruled 2p_s.*
 - *The results for the ruled threshold (N_c = 2ε) and for k = 1.34 were computed afterwards with the corrected conversion (`commit74c.py`, post hoc). Both sets are recorded below.*
 - *The registration's header says 18:25 local; it was hashed at 18:10 (16:10 UTC).*
