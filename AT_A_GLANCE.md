@@ -4,7 +4,9 @@ What goes in, what comes out, and where it parts from general relativity, on one
 
 ## The idea
 
-The world is made of **commitments**: irreversible updates at places, never undone. Time at a place is the count of its commitments, so time runs one way at the bottom. Between commitments, places hold **possibility**, a conserved stuff that hops between related places. **Matter** is commitment that keeps renewing itself, drawing on the possibility around it. **Clocks are matter**, and they tick in proportion to the possibility present, so clocks near matter run slow. That clock-rate gradient is gravity. Light and quantum matter are patterns of possibility that hop on their places' ticks, so they fall and bend in the same field.
+**Matter persists by re-committing. Each re-commitment is a tick of time. GR should follow from that.**
+
+The world is made of **commitments**: irreversible updates at places, never undone. Time at a place is the count of its commitments, so time runs one way at the bottom. Between commitments, places hold **possibility**, a conserved stuff that hops between related places. **Matter** is commitment that keeps renewing itself, and each renewal draws on the possibility around it. **Clocks are matter**, and they tick in proportion to the possibility present, so clocks near matter run slow. That clock-rate gradient is gravity. Light and quantum matter are patterns of possibility that hop on their places' ticks, so they fall and bend in the same field. How far GR follows from this layer is what the runs test; the sections below say which parts are derived, which were chosen, and which are still taken from GR.
 
 ## What goes in
 
