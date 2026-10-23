@@ -1,6 +1,6 @@
 ## 9zzf. Run 59: can ED's stars reach the measured 2 M☉ pulsars?
 
-*20 October 2026. It follows the conditional recommendation after Run 57, under Allen's standing "do as you recommend". Registered and hashed before the run (`mmax59/PREREG_59.md`, 15:46 UTC). An independent agent checked the run; its corrections are included.*
+*20 October 2026. It follows the conditional next step set out after Run 57. Registered and hashed before the run (`mmax59/PREREG_59.md`, 15:46 UTC). An independent agent checked the run; its corrections are included.*
 
 **Question.** In ED's static equations the standard equations of state give maximum masses of 1.65–1.91 M☉ (Run 57). PSR J0740+6620 is 2.08 ± 0.07 M☉. The equation of state above about twice nuclear density is uncertain. Can **any** matter that respects causality and nuclear theory hold 2.08 M☉ in ED?
 
@@ -44,4 +44,4 @@ This is the standard maximum-mass construction (Rhoades & Ruffini 1974; Koranda,
    - **The gravity-independent test is nuclear theory itself:** chiral effective field theory up to about 1.1–2 n_sat, causality, and perturbative QCD carried down from high density. ED's required pressures (for example about 55 MeV/fm³ at 2 n_sat on the softer route) can be set against those bands directly. That has not been done yet.
    - **K59a's PASS rules out only a causal-limit falsification.** It is not support for ED.
 3. **Stability.** Failure-type statements need no stability criterion: along each sequence M_far is a damped spiral, so no static equilibrium is heavier than the turning point (the check). Pass-type statements use the turning point as the stability limit, as in GR, because ED's statics come from one action. Stability beyond it is not derived.
-4. **Scope.** These are ED's own interior equations. Option A's GR input covers black-hole exteriors only (§9zm), and Allen ruled (20 October) that ED's interior equations bind for neutron stars (§10).
+4. **Scope.** These are ED's own interior equations. Option A's GR input covers black-hole exteriors only (§9zm), and it was ruled (20 October) that ED's interior equations bind for neutron stars (§10).

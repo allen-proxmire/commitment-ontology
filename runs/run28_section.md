@@ -8,7 +8,7 @@ $$
 
 What does it predict where gravity is strong, and do current observations allow it?
 
-**Prior record (added after Allen pointed it out: "we've been here before, 4% and no horizon").** This calculation repeats ED_Attempt_03, note 5 (`Full_Locus_Strong_Field.md`, 15 September 2026, C26–C35). That note found the same metric, the same light ring at 2GM/c², the same 4.6% larger shadow, and the same 1.4σ and 1.0σ from EHT's Sgr A*. It went further on horizons:
+**Prior record (added later: "we've been here before, 4% and no horizon").** This calculation repeats ED_Attempt_03, note 5 (`Full_Locus_Strong_Field.md`, 15 September 2026, C26–C35). That note found the same metric, the same light ring at 2GM/c², the same 4.6% larger shadow, and the same 1.4σ and 1.0σ from EHT's Sgr A*. It went further on horizons:
 - Sgr A*'s missing surface glow (any surface emits less than 0.4% of the accretion power) and quiet X-ray binaries put a horizonless object in strong tension.
 - An escape check, under an exit rule fixed first, found at least 10% of the infalling energy escapes, 25 times the limit.
 - **ED's strong-field line was closed** (C33–C34).
@@ -19,7 +19,7 @@ Attempt 1 had chosen the rate laws behind this metric (clocks $e^{-U}$, motion $
 - Candidate A′ *derives* the $e^{-U}$ clock from counting rules on the engine, where attempts 1 and 3 had matched it. But it arrives at the same metric, so it inherits attempt 3's closure.
 - The only new strong-field number here is the ringdown comparison with GW250114.
 - **One difference that is unchecked:** attempt 3's capped core stopped the redshift at e. Candidate A′'s possibility instead runs out where $U\approx\ln(P_0/p_s)\approx8$, where clocks stop. Whether that deeper core escapes attempt 3's surface-glow argument has not been computed.
-- **The check that should have come first:** I ran this without searching Allen's earlier attempts.
+- **The check that should have come first:** This was run without first searching the earlier attempts.
 
 This is a calculation, not a simulation. Pre-registered: `PREREG_28.md`, hashed after the calculation and before any bound except Sgr A*'s was looked up (disclosed); `strong_run.zip`.
 

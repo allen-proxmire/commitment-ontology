@@ -1,6 +1,6 @@
 ## 9zx. Run 52: should ED's draw be the variational one?
 
-*20 October 2026. Allen: "for 1, im not sure, so if you have a run to compare, that is best." Registered and hashed with every imported module before the run (`vardraw/PREREG_52.md`, 11:40 UTC). One code check (h = 1, not a registered grid) is disclosed; it motivated recalibrating every star. The identity reading is post hoc, and the independent check sharpened it; its corrections are included.*
+*20 October 2026. Registered and hashed with every imported module before the run (`vardraw/PREREG_52.md`, 11:40 UTC). One code check (h = 1, not a registered grid) is disclosed; it motivated recalibrating every star. The identity reading is post hoc, and the independent check sharpened it; its corrections are included.*
 
 **Question.** Run 50's energy principle holds exactly only in a scale-free medium. ED's field is linear in z, φ = z₀ − z = 6G∗d, and matter feels it through N = R(z)/P₀. So
 $$
@@ -54,7 +54,7 @@ $$
    - The rules disagree for a bound quantum by a factor of about 2.
 3. **Under E there is no stationary energy.** ∂ℰ/∂φ ≠ 0, so E_H's derivative is not a passive mass, and comparing identities under E is empty.
 4. **Active/passive are definitions in the code, not measurements.** Action = reaction under V is analytic only; no two-body run was made.
-   - My earlier claim that E would make binaries self-accelerate is **wrong at Newtonian order**: the centre of mass only wobbles (about 6 cm/s for a neutron star with a white dwarf).
+   - The earlier claim that E would make binaries self-accelerate is **wrong at Newtonian order**: the centre of mass only wobbles (about 6 cm/s for a neutron star with a white dwarf).
    - A secular effect arises only at first post-Newtonian order, ζ₂-like and of size ~g_bg, marginal against |ζ₂| < 1.3×10⁻⁵. It is not a strong argument for V.
 5. **Why the ω fall doubles under V.** V has a Maxwell relation, ∂ω/∂U = −∂M_far/∂κ. So a bound quantum's ω fall is its own passive/inertial − 1, equal to b × its far-field miss (6.19 / 5.99 against 6.17 / 5.88 ×10⁻³).
    - Its shift is the g-weighting of the draw the quantum adds, including the star's restructuring: about 2.5 g_bg.
@@ -73,7 +73,7 @@ $$
    Rule E breaks the first law at about 0.7 g.
 2. **The medium's equivalence-principle violation is physics of the medium's scale, well defined only under V:** Δ_SEP = M_far/E_H − 1 ≈ ḡ − g_bg. It is not additive (point 5).
    - The pulsar triple (|Δ| ≲ 2.3×10⁻⁶) with Δ ≈ 0.25 g_bg for a star like this one gives g_bg ≲ 9×10⁻⁶, i.e. P₀/(αp_s) ≳ 10⁵ in this toy medium: ED's stated range.
-3. **Recommendation, as registered: adopt V, on consistency grounds.** The check adds a condition, and the choice is Allen's:
+3. **Recommendation, as registered: adopt V, on consistency grounds.** The check adds a condition, and the choice needs a ruling:
    - V assumes the field stays linear in z;
    - a second self-consistent option keeps E's draw and makes the field linear in U instead, which takes the medium out of gravity altogether;
    - inertia = E_H remains an assumption.

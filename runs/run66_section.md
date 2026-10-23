@@ -1,7 +1,7 @@
 ## 9zzm. Run 66: option 3 in ED's own variables, and the strong-equivalence-principle formula under it
 
-*21 October 2026. Allen: "go ahead as recommended" (08:02), step 1. Registered and hashed before the run (`sep66/PREREG_66.md`, 06:25 UTC; Amendment 1 at 06:27 UTC, before any result was seen). An independent agent checked it; its corrections are included.*
-- *Disclosed: the claims were derived before registration, in my own working. Smoke tests on unregistered stars, whose results I saw, informed two thresholds (listed in the registration).*
+*21 October 2026. Step 1. Registered and hashed before the run (`sep66/PREREG_66.md`, 06:25 UTC; Amendment 1 at 06:27 UTC, before any result was seen). An independent agent checked it; its corrections are included.*
+- *Disclosed: the claims were derived before registration, in working notes. Smoke tests on unregistered stars, whose results were seen, informed two thresholds (listed in the registration).*
 - *Amendment 1: the registered Newton tolerance (10⁻¹³) was below the solver's noise floor, and the first star stopped at 7×10⁻¹³. It was set to 10⁻¹¹; no test threshold changed. The original files and the failed log are kept.*
 
 **Question.** Run 65 found that ED's static field equation is GR's equation for the clock rate, and that option 3 changes only the rule for space. Under option 3, is the strong-equivalence-principle violation still Δ ≈ C p_s/P₀, with Run 65's C, or does the formula change? And what does the engine's medium need in order to carry option 3?
@@ -35,7 +35,7 @@ The variational draw (rule V, adopted 20 October) is T(1 + g), with T the Komar 
 $$
 E=\int\!\Big[\frac{|\tilde\nabla\varphi|^2}{8\pi}-\frac{\tilde R}{16\pi}+\frac{e}{N^2}\Big]\sqrt{\tilde\gamma}\,d^3x=\int T,
 $$
-which is the ADM mass when ε = 0. Inertia = E (Allen's ruling of 20 October). An outside potential enters only through the background, so by Hellmann–Feynman the passive mass is m_p = −dE/dU_ext = ∫(1 + g)T/(1 + g_bg), equal to the far-field mass. Hence
+which is the ADM mass when ε = 0. Inertia = E (the ruling of 20 October). An outside potential enters only through the background, so by Hellmann–Feynman the passive mass is m_p = −dE/dU_ext = ∫(1 + g)T/(1 + g_bg), equal to the far-field mass. Hence
 $$
 \Delta=\frac{m_p}{E}-1=\frac{1+\bar g}{1+g_{\rm bg}}-1=\frac{\varepsilon\,C}{1+\varepsilon},\qquad C=\Big\langle\frac1N\Big\rangle_{T}-1 ,
 $$

@@ -1,8 +1,8 @@
 ## 9zzp. Run 68: do ED's holes evaporate under option 3?
 
-*21 October 2026. Allen: "let's see if BHs do evaporate" (09:04). Registered and hashed before the run (`evap68/PREREG_68.md`, 07:11 UTC). The claims were derived before registration; the run checks them numerically. A smoke test at an unregistered ε is disclosed in the registration. An independent agent checked the run; its corrections are included, among them two words ("burst", "thermal") that overstated what is emitted.*
+*21 October 2026. Registered and hashed before the run (`evap68/PREREG_68.md`, 07:11 UTC). The claims were derived before registration; the run checks them numerically. A smoke test at an unregistered ε is disclosed in the registration. An independent agent checked the run; its corrections are included, among them two words ("burst", "thermal") that overstated what is emitted.*
 
-**Question.** Run 67's static hole, under option 3 with ED's medium, has a cold zero-clock surface (κ = 0) and no event horizon. Allen ruled on 19 October, under option A with Kerr's surface gravity borrowed, that black holes evaporate. Does a hole formed by collapse in this geometry radiate as Hawking's does, and for how long?
+**Question.** Run 67's static hole, under option 3 with ED's medium, has a cold zero-clock surface (κ = 0) and no event horizon. It was ruled on 19 October, under option A with Kerr's surface gravity borrowed, that black holes evaporate. Does a hole formed by collapse in this geometry radiate as Hawking's does, and for how long?
 
 **Method.** The exterior is Run 67's (m = 1):
 $$
@@ -86,7 +86,7 @@ $$
    - The transient carries about one quantum per field in the radial sector, about 10⁻² in 4D.
    - In ED's terms: possibility runs out (P ≈ 2.7 p_s) before the redshift can keep growing exponentially, and Hawking's flux needs that growth.
    - **Assumed:** a smooth collapse ray map at the endpoint; an absorbing zero-clock surface; p_s ≫ 1; a non-rotating hole; test fields. The collapse, including its passage through the throat, is not modelled.
-2. **This conflicts with Allen's ruling of 19 October that black holes evaporate.** That ruling was made under option A, with Kerr's surface gravity borrowed. The choices:
+2. **This conflicts with the ruling of 19 October that black holes evaporate.** That ruling was made under option A, with Kerr's surface gravity borrowed. The choices:
    - **(i) Revise it:** ED's holes are stable. What falls in stays as record, so "no information loss" holds trivially. This follows from the adopted rules with no new input.
    - **(ii) Keep evaporation as a tracked input**, by a mechanism outside the static mean-field medium: the core's own radiation in ED's papers 039–052, or the discrete regime below one unit per place.
 3. **What would tell.** For astrophysical holes the difference from GR is unobservable either way. For primordial black holes it is not:

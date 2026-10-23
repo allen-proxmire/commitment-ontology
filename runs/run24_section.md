@@ -2,7 +2,7 @@
 
 **Question.** Run 22's registered clock check failed at $p_s=1$: two clock designs (hold H and 2H) disagreed by 4–6% near matter. Run 23 showed a lone clock's self-dip falls as $p_s^{-0.94}$. Does the disagreement fall with it? This is pre-registered with a kill rule (`PREREG_24.md`, hashed before any run; `clockuni_run.zip`).
 
-**Why a uniform-media test, not a well.** I had proposed a well test at $p_s$ = 4 and 16. Working out its resolution before registering showed it could not work: with Run 22's layout the design ratio in a well carries about ±0.02 per 2 hours, against expected gaps of 0.024 and 0.007.
+**Why a uniform-media test, not a well.** A well test had been proposed at $p_s$ = 4 and 16. Working out its resolution before registering showed it could not work: with Run 22's layout the design ratio in a well carries about ±0.02 per 2 hours, against expected gaps of 0.024 and 0.007.
 
 Near matter a clock mostly just sits in less possibility, and Run 22's T1b showed the wells obey the uniform medium's equation of state. So the same clocks are compared in two uniform media, with check C tying the result to Run 22's well.
 

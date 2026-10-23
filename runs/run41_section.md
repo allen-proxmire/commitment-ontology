@@ -1,6 +1,6 @@
 ## 9zh. Run 41: ED's rotating exterior at the remnant's spin (a calculation)
 
-*19 October 2026. Allen: "do as you recommend" (step 3). Exteriors, method and reading rules were fixed and hashed (`strong/PREREG_41.md`, 12:49 UTC) immediately before the code was saved. The code itself was not hashed; it was not edited after the run. An independent agent checked the metric, the numbers and the verdict; its corrections are included.*
+*19 October 2026. (step 3). Exteriors, method and reading rules were fixed and hashed (`strong/PREREG_41.md`, 12:49 UTC) immediately before the code was saved. The code itself was not hashed; it was not edited after the run. An independent agent checked the metric, the numbers and the verdict; its corrections are included.*
 
 **Question.** Run 39 could not reach GW250114's remnant spin (a = 0.68) because it cut ED's rotating exterior at first order. Two exteriors exist at all spins. What does each give for the (2,2) ringdown at a = 0.68?
 
@@ -52,4 +52,4 @@ The eikonal approximation's own error at a = 0.68 is larger than the registered 
 4. **What would remove it.** A strong-field input in the spirit of the others:
    - "outside matter, the field is GR's (Kerr's)", which keeps ED's possibility-limited core in place of a horizon (Paper_042: no singularity);
    - or a derivation that changes the pattern rule or the clock map beyond first order.
-   - **This is Allen's call.** Bodies whose surface sits just outside the would-be horizon (horizonless compact objects) ring like Kerr at first, and differ through late echoes, which have their own bounds.
+   - **This needs a ruling.** Bodies whose surface sits just outside the would-be horizon (horizonless compact objects) ring like Kerr at first, and differ through late echoes, which have their own bounds.

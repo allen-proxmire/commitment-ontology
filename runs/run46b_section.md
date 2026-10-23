@@ -1,6 +1,6 @@
 ## 9zq. Run 46b: the fall test with a finer medium table
 
-*20 October 2026. Allen: "do 46b". Registered and hashed with its scripts and dependencies before the run (`fullrule/PREREG_46b.md`, 21:09 UTC on 19 October). Code checks (building the finer tables) are disclosed there. The registration said no case had been computed before. In fact the checker's pre-registration test had computed one of the nine cases, P₀/p_s = 256 double at 65,536 nodes, and its numbers match the registered case to 10⁻⁹. The post hoc fits (`posthoc46b.py`) were written after all results. An independent agent checked the run; its corrections are included.*
+*20 October 2026. Registered and hashed with its scripts and dependencies before the run (`fullrule/PREREG_46b.md`, 21:09 UTC on 19 October). Code checks (building the finer tables) are disclosed there. The registration said no case had been computed before. In fact the checker's pre-registration test had computed one of the nine cases, P₀/p_s = 256 double at 65,536 nodes, and its numbers match the registered case to 10⁻⁹. The post hoc fits (`posthoc46b.py`) were written after all results. An independent agent checked the run; its corrections are included.*
 
 **Question.** Run 46's registered fall test was undecided because the draw-based measure scattered. The check traced the scatter to the medium's piecewise-linear table R(z) (4096 nodes). With a finer table, does the full pattern rule make a bound pattern's binding fall like its energy at neutron-star strength?
 

@@ -1,6 +1,6 @@
 ## 9r. Run 25: the closing checks for Candidate A′ (a well where Mercury's band holds; Nordtvedt directly)
 
-**Question.** Allen adopted Candidate A′ provisionally (§10). Two of its open checks can be run now:
+**Question.** Candidate A′ was adopted provisionally (§10). Two of its open checks can be run now:
 - **(a)** Do matter wells obey the medium's equation of state where β is inside Mercury's band?
 - **(b)** Does the medium's β get within reach of lunar laser ranging?
 
@@ -42,7 +42,7 @@ The wells are shallower than Run 22's (0.15–0.25 against 0.41–0.57). The med
 - **Nordtvedt is met in the engine at $P_0/p_s$ = 4096.**
   - At $p_s$ = 16, β − 1 = −1.06×10⁻⁴, as the theory said beforehand (−0.98×10⁻⁴). That gives η = −4.2×10⁻⁴, about 1σ from lunar laser ranging's zero.
   - At $p_s$ = 4, |β − 1| is already 6×10⁻⁵ at 2048 and 4096, η = −2.5×10⁻⁴.
-- **The registered fail at $p_s$ = 4 is in my kill rule, not in the medium.** The "falls at every step" clause cannot be met once the deviation is below the measurement error: the 2048 and 4096 values agree, with a difference of 0.5 ± 4.7 ×10⁻⁵. Both are well inside the bound. It stays a fail as registered.
+- **The registered fail at $p_s$ = 4 is in the kill rule as written, not in the medium.** The "falls at every step" clause cannot be met once the deviation is below the measurement error: the 2048 and 4096 values agree, with a difference of 0.5 ± 4.7 ×10⁻⁵. Both are well inside the bound. It stays a fail as registered.
 - **For large $p_s$ the trend is the theory's** $\beta-1\approx-0.45\,p_s/P_0$. Nordtvedt at 2σ then needs $P_0/p_s\gtrsim2000$, which is what the adoption's constraint assumed.
 
 **Correction (18 October, after Run 28): only the β part of Nordtvedt was tested.** The full Nordtvedt parameter, as set out in ED_Attempt_01 (C206), is

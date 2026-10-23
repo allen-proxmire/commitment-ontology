@@ -1,6 +1,6 @@
 ## 9zu. Run 49: is the 4% pull miss ED's, or the engine's body model?
 
-*20 October 2026. Allen: "do as recommended". Registered and hashed with every imported module before the run (`dilation/PREREG_49.md`; same hash file and restart note as Run 48). One code check (base grid, weak field, not a registered case) ran before registering. The post hoc runs were made after the results and after the independent check: the checker's `check4849/` and my `posthoc49.py`. An independent agent checked the run; its corrections are included and change the reading.*
+*20 October 2026. Registered and hashed with every imported module before the run (`dilation/PREREG_49.md`; same hash file and restart note as Run 48). One code check (base grid, weak field, not a registered case) ran before registering. The post hoc runs were made after the results and after the independent check: the checker's `check4849/` and `posthoc49.py`. An independent agent checked the run; its corrections are included and change the reading.*
 
 **Question.** At neutron-star strength a bound pattern's pull falls 4% short of κω: the miss is −0.20 b (Runs 46–46c). In GR, adding a quantum of Killing energy ħω to a static star raises its mass by ħω to first order. That holds for any equation of state, because an equilibrium star is a stationary point of its mass at fixed baryon number and entropy (Hartle–Sharp).
 

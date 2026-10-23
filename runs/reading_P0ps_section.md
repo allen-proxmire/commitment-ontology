@@ -1,6 +1,6 @@
 ## 9zzc. What fixes P₀/p_s? ED's clock and medium papers (a reading)
 
-*20 October 2026. Allen: "do as you recommend. check the repo and read any clock and medium papers". The three repositories (`ed-generative`, `event-density`, `event-density-ontology-models`) were fetched; they were current (last commits 11 October, 12 September and 11 October). An agent surveyed the two large repositories for clock and medium papers, and I read the core ones and the ontology-models repository myself. Point 4 is my inference, not the corpus's. An independent agent checked the quotes against the papers and the inference against the engine's code; its corrections are included.*
+*20 October 2026. The three repositories (`ed-generative`, `event-density`, `event-density-ontology-models`) were fetched; they were current (last commits 11 October, 12 September and 11 October). An agent surveyed the two large repositories for clock and medium papers, and the core ones and the ontology-models repository were read in full. Point 4 is an inference, not the corpus's. An independent agent checked the quotes against the papers and the inference against the engine's code; its corrections are included.*
 
 **The question.** Run 55 left ED's strong-equivalence-principle prediction bounded but not sharp:
 $$
@@ -39,14 +39,14 @@ $$
   - These count *commitments*, which the engine puts only in matter. ED's possibility-like b is only ever normalized (b = 1), so the corpus has no per-place number for vacuum possibility.
 - **The large numbers on offer are cosmological** (10⁶¹, 10¹²², Θ_ED; `docs/Scoping_ThetaED_FirstPrinciples_2026-07-06.md`). The corpus warns against matching them: "it's easy to take a big number like 10¹²² and find matches", and "ED's 10¹²² is 1/Λ taken from observation" (`Derivation Attempts/ED_Attempt_03/Specificity_Mechanisms.md`).
 
-**4. One structural tie, in the engine (my inference, checked against the code).**
+**4. One structural tie, in the engine (an inference, checked against the code).**
 - **The field.** In a scale-free medium the engine's coupling per unit of draw is set by p_s:
 $$
 U=\frac{6}{c}\,G_{\rm lat}\!*s,\qquad c=\frac{0.99}{\ln(1+1/p_s)}\approx0.99\,p_s ,
 $$
   so a body drawing S units per tick has U → 3S/(2πc r), with r counted in hops (`zrp35.py`: the traffic equation gives Δz = 6(s − s̄)).
 - **The draw.** A reserved pair renews at rate (P_a + P_b)/H, each renewal takes one unit from each of its places, and H = 2ħ_t P₀. So a pair draws S = 2/ħ_t per tick.
-- **Light speed.** Light crosses ħ_t hops per vacuum hold. That is a ratio of counts, so Allen's ruling that the tick is not physical time does not enter.
+- **Light speed.** Light crosses ħ_t hops per vacuum hold. That is a ratio of counts, so the ruling that the tick is not physical time does not enter.
 - **The energy.** ED says mass is a rate of becoming, so the pair's rest energy is E = aħ/T_hold.
 - **The result.** Equating U to GE/(c⁴r):
 $$

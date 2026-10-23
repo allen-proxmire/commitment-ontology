@@ -1,6 +1,6 @@
 ## 9zz. Run 54: a second family of media, both draw rules
 
-*20 October 2026. Allen: "go ahead with that and the other recommendations if applicable after the comparison". Registered and hashed before the run (`family54/PREREG_54.md`, 11:49 UTC). Run 52's results motivated it, and the identity it tests was post hoc in Run 52. An independent agent checked the run; its corrections are included and retract two of my draft's readings.*
+*20 October 2026. Registered and hashed before the run (`family54/PREREG_54.md`, 11:49 UTC). Run 52's results motivated it, and the identity it tests was post hoc in Run 52. An independent agent checked the run; its corrections are included and retract two of the draft's readings.*
 
 **Question.** Run 52, in one family of media (g ∝ 1/P), suggested two things:
 - under the variational draw (V), a body's equivalence-principle violation is M_far/E_H − 1 ≈ Δḡ;

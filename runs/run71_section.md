@@ -1,9 +1,9 @@
 ## 9zzs. Run 71: can a collapse get through the throat?
 
-*21 October 2026. Allen (12:50): "then run 3 and 4". Step 3 was my recommendation after Run 68: a registered collapse model through the throat. Registered and hashed before any ED trajectory was integrated (`collapse71/PREREG_71.md`, 11:23 UTC).*
+*21 October 2026. Step 3 followed from Run 68: a registered collapse model through the throat. Registered and hashed before any ED trajectory was integrated (`collapse71/PREREG_71.md`, 11:23 UTC).*
 - *Disclosed: a development test of the pipeline on GR (R₀ = 7, not registered).*
 - *`analyse71.py` was written after the run and is not in the hashed set. The scalings in the horn were fitted after the run (`posthoc71.py`, saved after the check began).*
-- *An independent agent checked the run. It confirmed the model and every number. It then found that the main late-time results hold only for exactly pressureless dust: with any surface pressure the shell turns back and comes out again. Its findings, and a post-hoc run of mine with pressure (Run 71b, `bounce71b.py`, not registered), are included.*
+- *An independent agent checked the run. It confirmed the model and every number. It then found that the main late-time results hold only for exactly pressureless dust: with any surface pressure the shell turns back and comes out again. Its findings, and a post hoc run with pressure (Run 71b, `bounce71b.py`, not registered), are included.*
 
 **Question.** Run 67's static hole has a throat, a minimal areal radius at redshift about 74, just outside the cold zero-clock surface. Between the throat and that surface the areal radius grows without bound: the horn.
 - Run 68 found the hole does not evaporate, assuming a collapse reaches the zero-clock surface with a smooth ray map.
@@ -73,10 +73,10 @@ $$
   - about 4.5×10⁵ M for w = 0.01.
 - **Robustness.** Starting radius (R₀ = 50) and throwing the shell in (γ₀ = 10, 100) do not change these outcomes.
 - **A null shell** crosses on kinematics alone and reaches N = 0 at finite affine parameter; its energy exchange was not computed.
-- **Run 71b (mine, post hoc, not registered):**
+- **Run 71b (post hoc, not registered):**
   - It reproduces the turn at N = 1.012wε for w = 0.01 at ε = 10⁻⁴.
   - It tests the flux pipeline through a turning point on a GR shell with pressure: Taylor-mode and finite-difference Schwarzians agree to 0.5%.
-  - The flux when the matter comes back out has large positive and negative spikes (hundreds of F_H). I have not separated these from the thrown-in initial condition, so no bounce flux is reported.
+  - The flux when the matter comes back out has large positive and negative spikes (hundreds of F_H). These have not been separated from the thrown-in initial condition, so no bounce flux is reported.
 
 ![Run 71](figures/71_collapse.png)
 
@@ -87,7 +87,7 @@ $$
 - **K71c UNDECIDED, recorded on the stricter reading.**
   - There is no sustained flux, and neither failure condition is met.
   - The energy after switch-off is negative: −1.2% at ε = 5×10⁻⁶ and −1.7% at 10⁻⁴.
-  - It passes the clause "less than 1% of the total" only as signed energy; read as a magnitude it does not. I had meant the clause as a magnitude.
+  - It passes the clause "less than 1% of the total" only as signed energy; read as a magnitude it does not. The clause was meant as a magnitude.
 - **K71d UNDECIDED:** for dust, U′(u) ∝ u^(−1/2) is still falling, but slower than 1/u, so U grows without bound. The check: within the model the outcome is set by the equation of state. Pressure reflects (the matter itself returns), tension absorbs, and dust is the marginal case.
 
 **Reading.**
@@ -97,10 +97,10 @@ $$
    - Any pressure turns the matter back where the medium holds about (1 + w)p_s per place, and it comes back out after about 45M/w² (at ε = 5×10⁻⁶). The exchange is reversible: the medium returns the rest mass it gave.
    - Collapsing stellar cores have pressure. A bounce within milliseconds to seconds of formation would be plainly visible, and black holes (X-ray binaries, gravitational-wave remnants, Sgr A*) are observed to stay. So this model, as it stands, conflicts with data.
 3. **What would make ED's holes stable here: commitment before the bounce.**
-   - Allen's ruling of 19 October is that the core commits what reaches it. In this model the core is never reached. Matter with pressure turns back at P ≈ (1 + w)p_s, before the zero-clock surface (P = p_s), and before the discrete regime.
+   - The ruling of 19 October is that the core commits what reaches it. In this model the core is never reached. Matter with pressure turns back at P ≈ (1 + w)p_s, before the zero-clock surface (P = p_s), and before the discrete regime.
    - For the ruling that ED's holes are stable to hold for ordinary matter, the commitment has to act there: **where the medium's possibility per place falls to about p_s, within a factor of about 2 (w ≤ 1)**.
-   - That was for Allen to rule. It places ED's core at the crossover scale p_s, where possibility runs out. An alternative was exterior dynamics that are not held fixed: the shell's draw grows about 10³-fold in the horn, so the exterior mass need not stay fixed (the check).
-   - **Allen ruled (21 October, 14:00), on my recommendation: "(a) is my choice too." Infalling matter commits where the medium's possibility per place falls to about 2p_s (§10).**
+   - That needed a ruling. It places ED's core at the crossover scale p_s, where possibility runs out. An alternative was exterior dynamics that are not held fixed: the shell's draw grows about 10³-fold in the horn, so the exterior mass need not stay fixed (the check).
+   - **Ruled 21 October: infalling matter commits where the medium's possibility per place falls to about 2p_s (§10).**
 4. **Limits:**
    - the exterior is held fixed (no back-reaction);
    - a thin shell, not a star;

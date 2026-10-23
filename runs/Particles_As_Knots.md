@@ -2,7 +2,7 @@
 
 *ED_Attempt_04, note 8. 2026-09-15 (RD8, D12, D13). Ledger: C36–C42. Literature and reasoning; nothing computed.*
 
-## Allen's stance for this road (D12)
+## The stance for this road (D12)
 
 > "i expect that most of physics is known. ED doesnt argue, the experiments remain the same. But the issues still remain."
 
@@ -27,9 +27,9 @@
 
 **The trap Kelvin's program also shows: matching knot tables to particle tables is tempting, and easy to overdo.** If ED ever pairs specific knots with specific particles, that pairing has to be fixed before looking.
 
-**So R5-Q1 is a genuine meaning question.** Allen would be deciding that commitment-knots can't be cut *by what a commitment is*. Physics doesn't supply that; it's what would make the idea ED's own.
+**So R5-Q1 is a genuine meaning question.** A ruling would decide that commitment-knots can't be cut *by what a commitment is*. Physics doesn't supply that; it's what would make the idea ED's own.
 
-## Allen's idea: forces set the dimension (D13)
+## The idea: forces set the dimension (D13)
 
 > "if you imagine an x, y, z grid ... i imagine putting the forces in that and only 3 fit without 'overlap'. like its geometry. ... if you had 4 forces, they would somehow cancel or overlap. so we get 3."
 
@@ -49,25 +49,25 @@
 
 **A reading that could be ED's own (untested):**
 - **The rule would be:** dimension equals **the number of independent kinds of relation** that can coexist without interfering.
-- **It fits Allen's "relations among different things are richer"** (A1 D16): different kinds need room to differ.
-- **It fits his timing too:** dimension would be set by the rules of relation, *before or with* space, not after.
+- **It fits ED's "relations among different things are richer"** (A1 D16): different kinds need room to differ.
+- **It fits the idea's timing too:** dimension would be set by the rules of relation, *before or with* space, not after.
 - **The poke:** it would still need a reason for *three* kinds. Counting ED's three channels, or the three gauge forces, and calling it three dimensions is the kind of match the ledger treats as a hint (A2 D5), not evidence.
 
 ## What it means (C42)
 
 - **Particles as knots is an old idea with a mixed record.** It failed as vortex atoms, where the knots weren't stable. It works in modern field theory, where topology protects them. It fails in real fluids, where knots get cut.
-- **ED's version is only different if "commitments can't be cut" is part of what a commitment *is*.** That makes R5-Q1 a meaning decision for Allen, now informed by that history.
+- **ED's version is only different if "commitments can't be cut" is part of what a commitment *is*.** That makes R5-Q1 a meaning decision still to make, now informed by that history.
 - **Forces set the dimension:**
   - **Known physics:** forces come *with* extra dimensions, not by filling ordinary ones.
   - **The math it does touch:** three axes, three rotations, and the weak force's three generators.
   - **A possible ED reading:** dimension as the number of independent kinds of relation. It would need its own reason for three.
 
-## Next steps (Allen decides)
+## Next steps (open)
 
 | | step | why |
 |---|---|---|
 | **(a)** | **Decide R5-Q1:** is a particle a knot of commitments that, by what a commitment is, can't be cut? | Kelvin's failure and the water experiments show this is the load-bearing meaning |
-| **(b)** | **R5-Q2, as an idea to shape first:** is dimension the number of independent kinds of relation? What would count as a reason for three, fixed before counting anything? | Allen's forces idea in an ED form, with its circularity risk stated |
+| **(b)** | **R5-Q2, as an idea to shape first:** is dimension the number of independent kinds of relation? What would count as a reason for three, fixed before counting anything? | The forces idea in an ED form, with its circularity risk stated |
 | **(c)** | **Pause R5** | Two meaning questions are now open |
 
 **Proposal: (a).** If yes, the paper argument (knots of uncuttable commitments are permanent only in three dimensions) gets its exit rule and is written out.
@@ -81,4 +81,4 @@
 | C38 | Kleckner, Irvine, "Creation and dynamics of knotted vortices", *Nature Physics* 9, 253 (2013); "Topologically protected vortex knots and links", arXiv:2204.03612; vortex knots in a Bose–Einstein condensate, arXiv:1110.5757; helicity, arXiv:1706.03257 | Search listings |
 | C39 | Kaluza–Klein theory: "Kaluza, Klein and their story of a fifth dimension" (plus.maths.org); "Kaluza–Klein theory in perspective", arXiv:hep-th/9410046 | Search listings |
 
-**Update:** Allen decided R5-Q1: a particle is a knot of commitments that can't be cut (D14). The argument is in [Knot_Argument.md](Knot_Argument.md) (note 9).
+**Update:** R5-Q1 decided: a particle is a knot of commitments that can't be cut (D14). The argument is in [Knot_Argument.md](Knot_Argument.md) (note 9).

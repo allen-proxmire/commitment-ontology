@@ -1,6 +1,6 @@
 ## 9zzi. Run 62: the dense matter ED needs, against heavy-ion collisions
 
-*20 October 2026. Allen: "do as you recommend" (step 1: set route (b)'s pressure at 2–4 n_s against the heavy-ion collision bounds, which come from collision experiments, not gravity). Registered and hashed before the run (`hic62/PREREG_62.md`, 19:09 UTC). An independent agent checked it; its corrections are included.*
+*20 October 2026. (step 1: set route (b)'s pressure at 2–4 n_s against the heavy-ion collision bounds, which come from collision experiments, not gravity). Registered and hashed before the run (`hic62/PREREG_62.md`, 19:09 UTC). An independent agent checked it; its corrections are included.*
 
 **Question.** Runs 60–61 leave ED one kind of neutron-star matter: like chiral EFT up to about 2 n_s, then a sharp stiffening (c_s² ≳ 0.7–0.9) up to the centres of the heaviest stars. Gold-nucleus collisions compress nuclear matter to 2–4.5 n_s in the laboratory, and the flow of the debris measures its pressure, with no theory of gravity involved. Do they allow the matter ED needs?
 

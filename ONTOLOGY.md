@@ -1,6 +1,6 @@
 # The commitment ontology, as it stands
 
-Allen Proxmire · 21 October 2026 · after Runs 1–74 of the lattice record
+Allen Proxmire · 21 October 2026 · after Runs 1–77 of the lattice record
 
 This page states, in one place, what the lattice record tests: the commitment ontology's rules as they stand today. For each rule it gives:
 - its formula;
@@ -69,7 +69,11 @@ $$
 - **Clocks of different design agree only if p_s is large.**
   - A clock depletes its own places. Their disagreement falls as p_s^(−0.85) (Run 24).
   - Agreement to 10⁻⁶ needs p_s ≳ 4×10⁵, extrapolated.
-- **On lattices with imposed curvature,** clocks follow the zero-range theory: Run 70 at p_s = 4, Run 72 at p_s = 1.
+- **On lattices with imposed curvature,** clocks follow the zero-range theory: Run 70 at p_s = 4, Runs 72–72b at p_s = 1.
+  - The gap between two clock designs shifts with the sign of the curvature by the amount the theory predicts. It is detected at 5.1σ and matches the prediction to 0.5σ (Run 72b).
+  - The zero-range theory itself underestimates these clocks' own dips by about 0.25% for one design and 0.5–0.6% for the other, the same on every lattice within errors (Runs 72b, 75, 76).
+  - A lattice curved by the medium's own stress can be built exactly in planar symmetry (design note §9zzz). On it the engine's medium carries the flux the lattice was built with, to about 0.2% (Run 77). With option 3's clock the planar solution is flat (Rindler) spacetime.
+  - With one global hop rate on a regular equal-place lattice, such a lattice exists only while the source's draw times the distance to the reservoir stays small (Run 77). It comes from the representation: it disappears if clocks slow with the hops, so ED's rules are not shown to impose it. Where large stress curvature can be carried, it sits next to a strong source, at a slow medium.
   - Universality, and the p_s^(−0.85) convergence, on a space curved by the medium's own stress are untested.
 
 ### R3. The field (derived; Runs 14, 21–22)
@@ -135,7 +139,7 @@ ds^2=-N^2dt^2+N^{-2}\,\tilde\gamma_{ij}\,dx^i dx^j .
 $$
 - **ED's original rule** (option 1, with R6) kept γ̃ flat.
   - With ED's field equation this gives the exponential metric e^(∓2U): γ = β = 1 at first post-Newtonian order, and no horizons.
-- **Option 3** (Allen, 21 October, provisional): binding tension curves the medium's space, in GR's form.
+- **Option 3** (ruled 21 October, provisional): binding tension curves the medium's space, in GR's form.
   - At ε = 0 (no medium scale), GR's static equations are exactly:
 $$
 \tilde\Delta U=-4\pi\,(e+3p)\,e^{2U},\qquad
@@ -174,7 +178,7 @@ $$
   - **It catches all causal matter.** In a thin-shell model at physical ε, the stiffest causal matter turns back at most at 1.27p_s (Run 73). Ordinary dense matter (w ≲ 0.6) turns back below about 0.75p_s.
   - **Any k above about 1.34 would work.** k = 2 is twice the medium's crossover.
   - **The core's areal radius is 2m(k + 1)/k,** which is 3m at k = 2 (Run 74, computed post hoc with the corrected conversion).
-- **ED's holes are stable** (Allen, 21 October: "it follows from the rules with nothing added"). This replaced his 19 October ruling that black holes evaporate (Runs 68, 71, 74; §5).
+- **ED's holes are stable** (ruled 21 October: "it follows from the rules with nothing added"). This replaced the 19 October ruling that black holes evaporate (Runs 68, 71, 74; §5).
 - **Going back:**
   - if the exterior's own dynamics, once written, give a conflicting bounce or commitment rule;
   - if matter is found that turns back above 2p_s;
@@ -274,7 +278,7 @@ $$
 | 39–44 | the strong field with spin; binding inside bodies; the core |
 | 45–64 | bound matter at neutron-star strength; the first law; the strong equivalence principle; neutron-star masses, radii and nuclear matter; binaries beyond first order |
 | 65–69 | GR's clock equation in ED; option 3; static and spinning black holes; evaporation |
-| 70–74 | clocks on curved lattices; collapse through a hole's throat; where infalling matter commits, and what that radiates |
+| 70–77 (with 72b) | clocks on curved lattices, and how accurate the clock theory is; collapse through a hole's throat; where infalling matter commits, and what that radiates; the medium on space curved by its own field |
 
 ---
 
@@ -287,8 +291,13 @@ $$
 
 **The medium on a stress-curved space**
 - The medium's dynamics there: the dynamical completion with ε ≠ 0.
-- A lattice whose curvature comes from the medium's own stress, and clock universality on it.
-- The seeds for Run 72's design-gap contrast (Run 72b, running).
+- Clock universality on a lattice whose curvature comes from the medium's own stress. The planar lattice is built and self-consistent (Run 77); spherical symmetry is untested.
+- Whether the clock theory's error depends on the lattice. A replication was undecided (Run 76); up to about 0.8% is not excluded.
+- How the engine should represent a strongly curved γ̃. With one global hop rate on a regular equal-place lattice, a self-consistent planar lattice exists only while the source's draw times the distance to the reservoir stays small (Run 77). Slowing clocks with the hops, isotropic cells, or a local tick would avoid that; which is right is a choice about the representation, possibly about the hop rule.
+- How the medium's space curves: two readings, both to be tested (22 October).
+  - **(A) Space is the pattern of relations.** Curving it means relations form, dissolve or rewire. In the engine: shells whose place counts follow option 3's areas, with all relations equal.
+  - **(B) Relations are fixed; space is a reading of the medium's state across them,** as time is read from commitment and light's geometry from the pattern rule. In the engine: the medium's hop across a relation depends on its own state, directionally, since stress is directional. This needs a ruling, and must avoid the freezing found in Run 17.
+  - Whether ED's papers let relations form or dissolve decides whether (A) is open.
 
 **Rotation**
 - The rotating near-horizon shell, and option 3's stationary equations with the medium.

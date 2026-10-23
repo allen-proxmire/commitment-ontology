@@ -1,6 +1,6 @@
 ## 9zf. Run 39: the ringdown with the remnant's spin (a calculation)
 
-*19 October 2026. Allen: "do your next steps" (step 2). The rule, method, comparisons and reading rules were fixed and hashed before the code was written (`strong/PREREG_39.md`, 11:20 UTC). Disclosed there: while scoping I had estimated by hand the first-order frame-dragging rates at the two light rings. An independent agent checked the code, numbers and bounds; its corrections are included.*
+*19 October 2026. (step 2). The rule, method, comparisons and reading rules were fixed and hashed before the code was written (`strong/PREREG_39.md`, 11:20 UTC). Disclosed there: the first-order frame-dragging rates at the two light rings had been estimated by hand during scoping. An independent agent checked the code, numbers and bounds; its corrections are included.*
 
 **Question.** Run 28 found that a static body under the adopted metric rings 4.4% below Schwarzschild (eikonal). GW250114 allows $\delta\hat f_{220}=+0.02^{+0.02}_{-0.02}$ and $\delta\hat\tau_{220}=-0.01^{+0.10}_{-0.09}$ at 90% (pSEOBNR, arXiv:2509.08099). Its remnant spins: χ_f = 0.68 ± 0.01, M_f = 62.7 (+1.0/−1.1) M☉ in the source frame (arXiv:2509.08054). The adopted rules now give a current field. What does ED's rotating exterior, at the order the rules define it, do to the ringdown?
 

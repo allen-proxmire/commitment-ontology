@@ -1,8 +1,8 @@
 ## 9zn. ED's black-hole radiation papers under option A and "the core commits" (a reading)
 
-*19 October 2026. Allen: "do as you recommend" (step 2: look at re-emission in the papers). An agent read the papers, the Attempt B cards, the derivation attempts and the 12 September review. A second, independent agent checked the quotes and numbers; its corrections are included.*
+*19 October 2026. (step 2: look at re-emission in the papers). An agent read the papers, the Attempt B cards, the derivation attempts and the 12 September review. A second, independent agent checked the quotes and numbers; its corrections are included.*
 
-**Question.** Allen ruled that the core commits what reaches it, and a commitment is never undone. ED's radiation papers (039, 047, 047_5, 050, 052) say black holes radiate. Do the two fit together, and does either give a signal that differs from GR?
+**Question.** It was ruled that the core commits what reaches it, and a commitment is never undone. ED's radiation papers (039, 047, 047_5, 050, 052) say black holes radiate. Do the two fit together, and does either give a signal that differs from GR?
 
 **What the papers say.**
 
@@ -39,7 +39,7 @@
    - **The Planck remnant** matters only for primordial black holes.
    - **The Page time** is inherited.
    - **The merger lag (052_5)** predicts only that a lag exists, and is not a signal of the core. It should not be cited as one until its τ_V5 and units are fixed.
-4. **One question needs a ruling: do ED's black holes evaporate?** 039 has the black hole lose mass ($dM/dt<0$). 042 has the core's record only grow, and Allen's ruling makes it permanent. Two readings are consistent with the ruling:
+4. **One question needs a ruling: do ED's black holes evaporate?** 039 has the black hole lose mass ($dM/dt<0$). 042 has the core's record only grow, and the ruling makes it permanent. Two readings are consistent with the ruling:
    - **(a) Yes, they evaporate.** This needs two assumptions:
      - the committing core acts on quantum fields as a horizon would (item 1);
      - the pull, which in the engine is the core's ticking (Run 30), can be lowered by emission at the surface while the record stays. Run 30 allows this but does not supply a mechanism, and the engine has none yet.
@@ -47,18 +47,18 @@
      This keeps 039 and 047. If 050's postulates are also adopted, they return the same information to the radiation that the record keeps. That counts it twice, unless the record is classical.
    - **(b) No, they never evaporate.** Nothing lowers the core's pull, and no new mechanism is needed. 039, 047 and 050 do not apply to black holes under option A.
    - **The two differ observably only for small primordial black holes.** Bounds on those from the gamma-ray background assume they evaporate.
-   - **This is Allen's call.**
+   - **This needs a ruling.**
 
-   **Allen ruled (19 October): "my assumption is BHs evaporate."** That is reading (a). Its two assumptions are now tracked:
+   **Ruled (19 October): black holes evaporate.** That is reading (a). Its two assumptions are now tracked:
    - the committing core acts on quantum fields as a horizon would;
    - its pull (its ticking) drops by emission at the surface, while its record stays.
 
-   **Allen's framing (19 October): "the precise way to say it is near-max commitment… max commitment is probably an unreachable limit."** A black hole is a core at near-maximum commitment, not a singularity.
+   **The framing (19 October): "the precise way to say it is near-max commitment… max commitment is probably an unreachable limit."** A black hole is a core at near-maximum commitment, not a singularity.
    - This matches the engine: a body's draw throttles itself, so its clock slows but never stops (Run 32; Attempt B: "approaching but never reaching zero return").
    - It also matches Run 43, where the core's surface sits at a small, nonzero clock rate.
    - Strictly, then, there is no true horizon, only a surface very near where one would be. The two working assumptions apply to that surface: it absorbs everything (no echoes), and it radiates as a horizon would.
 
-   **The endpoint is not ruled.** Paper 039's Planck-mass remnant ($M_\star=M_P\approx2.18\times10^{-8}$ kg) came from an earlier session. Allen leans toward full evaporation as simpler, "not committing to it".
+   **The endpoint is not ruled.** Paper 039's Planck-mass remnant ($M_\star=M_P\approx2.18\times10^{-8}$ kg) came from an earlier session. Full evaporation is favoured as simpler, without committing to it.
    - **The question both endpoints share** is whether the radiation carries out the information about what fell in. Paper 050 says it does, through correlations (the Page curve), by two postulates. That is open in mainstream physics too: the black-hole information problem.
    - **A Planck-mass remnant** must hold whatever the radiation does not carry out. If the radiation were purely thermal, that would be everything that ever fell in, an unbounded amount in a Planck mass: the known problem with remnants. If 050 holds, the remnant need hold only a residue (052).
    - **Full evaporation** has no leftover object to fill. "Kept as record" then means kept in the history (the commitments happened), which is what the record already is in ED.

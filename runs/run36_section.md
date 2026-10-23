@@ -1,6 +1,6 @@
 ## 9zc. Run 36: does a bound pattern's energy pull, with binding counted once?
 
-*19 October 2026. Allen: "yes to 1": a pattern's rest energy (ħω, binding included) draws. Pre-registered and hashed before the run (`patternE/PREREG_36.md`, 11:25 UTC), with a kill rule. A trial computation of the ball alone and the unperturbed ground state at m = 0.3 was made while writing the code, and is disclosed there. The diagnostics after the kill rule fired are post hoc and labelled as such. An independent agent checked the hashes, numbers and physics; its corrections are included.*
+*19 October 2026. Ruled: a pattern's rest energy (ħω, binding included) draws. Pre-registered and hashed before the run (`patternE/PREREG_36.md`, 11:25 UTC), with a kill rule. A trial computation of the ball alone and the unperturbed ground state at m = 0.3 was made while writing the code, and is disclosed there. The diagnostics after the kill rule fired are post hoc and labelled as such. An independent agent checked the hashes, numbers and physics; its corrections are included.*
 
 **Question.** Energy in every form pulls with the same weight as rest mass. Materials with different binding fractions pull alike: the Moon's aluminium and iron agree in their active-to-passive mass ratio to 4×10⁻¹² (Bartlett & van Buren 1986). And a bound system's mass is its total energy, with binding counted once. Under the adopted rules, does the far field of the ball plus a pattern bound in its clock well equal the ball's own far field plus the pattern's ħω?
 
@@ -71,7 +71,7 @@ $$
 **Reading.**
 - **The kill rule fired. The engine, under the adopted rules, does not count a bound pattern's binding energy once.** Under the adopted rule its far field overshoots ħω by 13% at the registered setting, and by 0.4–2.6% with weak-field matter.
 - **Part of the cause is identified, post hoc.** A body held on fixed places, whose draw is its ticking, responds to outside wells with weight 1/(1 + U_self), not GR's 1. GR's bodies shrink in these coordinates, which keeps the response at 1. ED's law would do the same for a body that shrank, so a body that can adjust is the fix to try. The rest of the gap is unresolved.
-- **The pattern rule Allen chose is closer to measured physics than energy-only at every setting**, but this run does not show it to be right.
+- **The chosen pattern rule is closer to measured physics than energy-only at every setting**, but this run does not show it to be right.
 - **This sharpens an open item already on the list:** bodies held by rule, not supported (Run 30, "whether stress pulls").
   - At physical scales $U_{\rm self}$ combines each clock's own dip (about 0.3/p_s ≈ 10⁻⁶ at p_s ≈ 4×10⁵) with a body's own potential: Earth 7×10⁻¹⁰, Sun 2×10⁻⁶, a neutron star about 0.2.
   - **Extrapolating from a ball held on lattice places** (not computed for any real body), a neutron star's active mass would respond to outside wells about 17% weakly. Strong-field pulsar tests bound related effects far below that. The PSR J0337+1715 triple bounds the passive-mass analogue to about 2×10⁻⁶.

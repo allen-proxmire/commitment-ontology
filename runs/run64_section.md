@@ -1,6 +1,6 @@
 ## 9zzk. Run 64 (a reading, not scored): what ED's rules leave open beyond first order
 
-*20–21 October 2026. Allen: "for 1, go with reading 2. use your recommendations for 2-5." Writing ruling 2 out precisely enough to derive ED's second-order two-body dynamics showed that one choice it hides is a decision about ED's statics. This section sets out what is fixed, the decision, and what each option implies. Nothing here is scored. An independent agent checked it; its corrections are included.*
+*20–21 October 2026. Writing ruling 2 out precisely enough to derive ED's second-order two-body dynamics showed that one choice it hides is a decision about ED's statics. This section sets out what is fixed, the decision, and what each option implies. Nothing here is scored. An independent agent checked it; its corrections are included.*
 
 **What the rulings fix.**
 - **First order is GR's, for any masses.** ED's g₀₀ = −e^{−2U_T}, where each body draws by its redshifted Tolman draw, gives

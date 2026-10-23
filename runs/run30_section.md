@@ -1,6 +1,6 @@
 ## 9w. Run 30: the sourcing weight the static engine can reach (rest mass in a potential), against GR's Tolman mass
 
-*18 October 2026. Allen: "do the recommended steps".*
+*18 October 2026.*
 - *This is a derivation, not a new engine run, and it was not pre-registered because no new data were taken.*
 - *Its engine check is Run 26's W3, measured before this derivation existed.*
 - *An independent agent checked the algebra against Will (2014) and Tolman, and its corrections are included.*
@@ -99,8 +99,8 @@ $$
 \eta_N=\tfrac{10}{3}(\beta-1)-\tfrac23\zeta_1-\alpha_1+\tfrac23\alpha_2 ,
 $$
   with ζ₁, α₁ and α₂ open. At $P_0/p_s=2.3\times10^4$ the first term is −6.5×10⁻⁵.
-- **Allen's exit rule (Attempt 04, R1)** records a weight that "hits … only because it restates Tolman's formula" as "consistent, not derived".
+- **ED's exit rule (Attempt 04, R1)** records a weight that "hits … only because it restates Tolman's formula" as "consistent, not derived".
   - The rule behind this result, the presence clock, was fixed on 18 October for clock reasons, before this weight was computed.
   - Its match to Tolman's rest-mass term follows from that rule, not the other way round.
-  - Allen decides the label.
+  - The label needs a ruling.
 - **Next, if pursued:** a rule for moving matter, checked against the 1 + 2v² requirement before it is adopted. That is Attempt 04's "action = reaction" in engine form.

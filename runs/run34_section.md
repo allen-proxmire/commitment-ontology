@@ -1,6 +1,6 @@
 ## 9za. Run 34: a clock field fixed each tick, plus a current field — can it pass the preferred-frame tests? (a calculation)
 
-*19 October 2026. The criteria and candidate rules were fixed and hashed before the numerical check ran and before the record search on frame dragging was read (`vector/PREREG_34.md`, 09:21 UTC). The general relation had been sketched in conversation while scoping, and was registered as a prediction. Allen: "go ahead as you say". An independent agent re-derived the matching against Will (2014, Box 2 and Table 4) and GP-B's final result. It confirmed the algebra and found eight problems in how the result was stated; all are corrected below, and listed at the end.*
+*19 October 2026. The criteria and candidate rules were fixed and hashed before the numerical check ran and before the record search on frame dragging was read (`vector/PREREG_34.md`, 09:21 UTC). The general relation had been sketched in conversation while scoping, and was registered as a prediction. An independent agent re-derived the matching against Will (2014, Box 2 and Table 4) and GP-B's final result. It confirmed the algebra and found eight problems in how the result was stated; all are corrected below, and listed at the end.*
 
 **Question.** Run 31 showed the engine's field is carried by diffusion. The proposed fix has three parts:
 1. The clock field is fixed fresh each tick: possibility relaxes completely between commitments, so the field is the steady state for the current draws.
@@ -9,7 +9,7 @@
 
 Part 1 keeps every static result and removes the wake. The question here is what part 2 must be for the preferred-frame tests to pass, and whether anything in ED supplies it.
 
-**Prior record (checked after the registration, before writing up).** Much of this is already in Allen's Phase-3 GR notes. Run 34 puts numbers to it and adds one derived piece.
+**Prior record (checked after the registration, before writing up).** Much of this is already in ED's Phase-3 GR notes. Run 34 puts numbers to it and adds one derived piece.
 - **`Phase3_GR_PPN_RouteB_EtaCrossCheck.md`:** "The scalar rule `ḃ = D∇²b − κρ`, by itself, sources no physical `g_{0i}`", because its current is curl-free, and "the conservative skeleton leans `α_1=O(1)`". Run 34 gives the number: α₁ = −8, α₂ = −1.
 - **`Phase3_GR_DirectedFluxSector.md`:** a directed flux, $D\nabla^2A^i=\kappa_J\rho w^i$ with $g_{0i}=A_i$ and $\kappa_J=\lambda_J\kappa$, "kept symbolic". That is candidate C2.
 - **`Phase3_GR_PinningLambdaJ.md`:** boosting the static metric gives $g'_{0i}=4w_iU$, so "α₁ = 0 ⟺ λ_J = 4". It adds that "ED's rule is not boost-covariant" and that the naive estimate is λ_J ~ O(1), "not computed". Run 34's $k_1=-4$ is the same condition.
@@ -73,20 +73,19 @@ $$
   - a momentum channel with $k_1=-4$ to 2×10⁻⁵ (λ_J = 4), which is input
   - the motion weight $a_1=2$ to 2×10⁻²⁰ (Run 33's R-b), which is input
 - **Part 1 with no current field fails the preferred-frame tests** (α₁ = −8, α₂ = −1). The engine as built, with its diffusive wake, is not of PPN form, so its α's are not defined. What holds for it regardless is that it has no frame dragging: any $g_{0i}$ it could carry is a gradient. That is §11 item 5, now with numbers.
-- **Hypothesis: the momentum channel and R-b are one piece of physics.** Moving matter's momentum must act in two places: on the clock field's source ($\tfrac32v^2$, the Earth–Moon test) and on the current field (the 4, α₁ and frame dragging). In GR both come from the boost. Nothing in ED links them yet. Allen's D30 ruling, "influence carries motion and energy", is a possible hook for both.
+- **Hypothesis: the momentum channel and R-b are one piece of physics.** Moving matter's momentum must act in two places: on the clock field's source ($\tfrac32v^2$, the Earth–Moon test) and on the current field (the 4, α₁ and frame dragging). In GR both come from the boost. Nothing in ED links them yet. ED's D30 ruling, "influence carries motion and energy", is a possible hook for both.
 - **What would make the 4 derived.** A rule in ED that fixes how strongly a moving commitment imparts momentum to possibility, with no number chosen to match, landing within 2×10⁻⁵ of 4. PinningLambdaJ's naive estimate (λ_J of order 1) shows the rule is not yet there.
 - **GR-II's falsifier** ("an additional vector mode") is not triggered by C2 if the current field is set each tick like part 1, a constraint rather than a travelling mode.
 
-**Allen's rulings (19 October, after this run) and the input chosen.**
+**The rulings (19 October, after this run) and the input chosen.**
 
-Allen: "input is what's needed. the ontology is obviously not complete; needs more. if we gotta input and hand-write things to move on, its OK. then we can use future learning to reassess what we hand to plug in."
 
 - **Adopted:** part 1 (the clock field is fixed each tick) and C1 (patterns ride possibility's flow).
-- **The tick is not physical time** (Allen). Physical time is what clocks read, which is commitments; the tick only orders updates. Consequences:
+- **The tick is not physical time** (ruled 19 October). Physical time is what clocks read, which is commitments; the tick only orders updates. Consequences:
   - Relabelling the tick, $t\to t+\lambda\chi_{,0}$, is a choice of coordinates, not a change of physics.
   - C3 no longer conflicts with part 1. Its boosted field, relabelled by $t\to t-\tfrac12\chi_{,0}$, is part 1's field with $k_2=\tfrac12$, $k_1=-4$ and $a_1=2$. So C2 (with R-b) and C3 become one candidate.
   - The steady inflow that C1's derivation dropped is a static gradient, which a relabelling removes. It is pure coordinates.
-- **The input chosen** (Allen: "you chose"). One input, not two numbers: **Lorentz invariance at first post-Newtonian order. A moving body's field is its boosted rest field, up to relabelling the tick.**
+- **The input chosen**. One input, not two numbers: **Lorentz invariance at first post-Newtonian order. A moving body's field is its boosted rest field, up to relabelling the tick.**
   - It fixes $k_1=-4$ (λ_J = 4) and $a_1=2$ together and exactly, so the tolerances are met by construction.
   - It is the input already tracked for Run 18 (twist charged on loops that include a tick), so the ledger gains no new kind of input.
   - It makes correction 8's hypothesis true by input: the momentum channel and the motion weight come from one source, as in GR.

@@ -2,11 +2,11 @@
 
 **Question.** In Run 18 the knot with Str also charged on loops that include a tick (reading T, adopted provisionally on 17 October) fell at 0.92–0.93 of the universal rate on the fine grid. That missed the registered 1.00 ± 0.03. Is the shortfall the lattice knot's own weight-to-inertia ratio, which should tend to 1 as the grid is refined, or something else?
 
-The pre-registration is `PREREG_18b.md` in `matter_run.zip`. It was written after the diagnostics below and before any registered drop, and it lists everything I had already seen.
+The pre-registration is `PREREG_18b.md` in `matter_run.zip`. It was written after the diagnostics below and before any registered drop, and it lists everything already seen.
 
 ### What the diagnostics found first
 
-**1. My first suspect was wrong.** I had said that twist across a tick and twist across a relation use different lattice formulas. They don't: both build each square face from its corners in the same way. A tick is simply taken as infinitely short. The literal alternative, a tick of finite length h priced exactly like a relation, is unstable on a cubic grid at one hop per tick.
+**1. The first suspect was wrong.** The first diagnosis was that twist across a tick and twist across a relation use different lattice formulas. They don't: both build each square face from its corners in the same way. A tick is simply taken as infinitely short. The literal alternative, a tick of finite length h priced exactly like a relation, is unstable on a cubic grid at one hop per tick.
 
 **2. Run 18's inertia estimate was too crude.** It boosted the knot with central differences. A smooth rigid boost uses the exact derivative of the knot's band-limited field, projected onto the sphere's tangent plane:
 

@@ -99,7 +99,7 @@ Linear field $N=1-g\,x$ with g = 0.004 per unit, flattened beyond ±4.5. Measure
 | (S) | 3.22 (3.36) | 3.40 (3.36) | 3.30 (3.37) | 3.16 (3.10) | 3.08 (3.10) |
 | (T) | 0.845 (0.982) | 0.774 (0.982) | 0.938 (1.003) | 1.00 (0.989) | **0.916** (0.989) |
 
-The pre-registered checks had two problems. Both were found after the engine drops, when I went looking for why they missed. Both errors are mine.
+The pre-registered checks had two problems. Both were found after the engine drops, while looking for why they missed. Both are errors in the registration.
 
 - **The wrong fit window.** The h = 0.2 bands for M1–M3 came from the first column, fitted over 4 time units. The engine drops were fitted over 8 time units with a cubic, as the pre-registration itself says. On the coarse grid the fitted value depends on the fit by up to 12%, because the knot's acceleration is not constant as it crosses grid cells.
 - **A measurement bug at h = 0.1.** The knot's centre is the centroid of its Coh energy, taken with the minimal-image convention about a reference point.
@@ -198,7 +198,7 @@ The two failure conditions written in advance:
 - *"M1 fails: the spatial-only knot falls universally."* It does not. Every spatial-only drop, at both resolutions, in both fields and with every fit, falls 2.7–3.7× faster than universal.
 - *"M2 fails beyond the lattice factor: even space-time Str does not make matter fall like patterns."*
   - Not triggered as written. In the engine's field the knot falls as it does in a clean field on the same lattice with the same fit: on the fine grid 0.919 and 0.929 against 0.916.
-  - But the lattice factor I registered at h = 0.1 (≈ 1.00) was inflated by the measurement bug. The real one is 0.93 of E/M.
+  - But the lattice factor registered at h = 0.1 (≈ 1.00) was inflated by the measurement bug. The real one is 0.93 of E/M.
   - So this run puts reading T **within about 8% of universal fall on the fine grid, not within the 3% registered.** The patterns beside it fall at 0.99.
 
 ### Reading
@@ -226,7 +226,7 @@ The two failure conditions written in advance:
 - ED's old event-layer finding, that committed matter which moves by paying for commitments is pushed away, is about a different law of motion and is untouched.
 - Joining the two is open.
 
-**6. Adopted provisionally by Allen on 17 October 2026: Str is charged on every closed loop of the history, including loops made of a relation and a tick, with ticks and relations priced alike.** It costs nothing elsewhere in the record (Runs 12–13 used only static knots). It is required for composite matter to fall like everything else, and it is Lorentz invariance of the twist cost, flagged as such. See §10.
+**6. Adopted provisionally on 17 October 2026: Str is charged on every closed loop of the history, including loops made of a relation and a tick, with ticks and relations priced alike.** It costs nothing elsewhere in the record (Runs 12–13 used only static knots). It is required for composite matter to fall like everything else, and it is Lorentz invariance of the twist cost, flagged as such. See §10.
 
 **Open:**
 - a smaller grid spacing (h = 0.05) or a better time–space discretisation, to see reading T's lattice factor reach 1

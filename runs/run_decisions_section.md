@@ -1,6 +1,6 @@
-## 9zi. Two choices made at Allen's instruction (19 October)
+## 9zi. Two recorded choices (19 October)
 
-*Allen: "do as you recommend". These two calls were left to me. They are recorded as mine, tracked, and open to his veto.*
+*These two calls were made without a separate ruling. They are recorded as choices, tracked, and open to reversal.*
 
 **1. Bodies keep their proper size (a tracked input, the strong equivalence principle for bodies).**
 - A body's extent is set in proper units. In a well its coordinate size shrinks by $e^{-U_{\rm ext}}$, as a GR body's does in isotropic coordinates.
@@ -12,7 +12,7 @@
 
 **2. The canonical mass reading is DSR-4: mass is a frequency of becoming, E = ħω.**
 - **Why:**
-  - Allen ruled that a pattern's ħω draws.
+  - It was ruled that a pattern's ħω draws.
   - Run 30 found active mass equals draw equals ticking.
   - Run 40c found that at weak field a bound pattern pulls by ħω, binding counted once to 5% of itself, when its momentum flux draws. Energy alone misses by two bindings.
 - **What becomes of the other reading.** Mass Without Mass's "mass comes from binding" is read as how binding sets the frequency (binding lowers ω), not as a second, separate source of mass. Its simulator result (V5) stands as a statement about how binding shapes ω.
@@ -22,9 +22,9 @@
 - a tracked input that the exterior field is GR's (Kerr's), keeping ED's possibility-limited core instead of a horizon;
 - or a change to the pattern rule or clock map beyond first order.
 
-This is left for Allen.
+This is left for a ruling.
 
-**Allen's answers (19 October, 15:48).**
+**Rulings (19 October).**
 - "1: A — take GR's black-hole exterior as a tracked input, keep ED's no-singularity core; B is the long-term goal."
 - "2: Yes, run it" (Run 42).
 - "3: Keep both" (bodies keep their proper size; DSR-4).

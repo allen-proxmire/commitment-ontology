@@ -1,6 +1,6 @@
 ## 9zr. Run 47: can pulsar timing see a neutron star that pulls 4% less than its energy?
 
-*20 October 2026. Allen: "Do 1, then 46c". Registered and hashed with its code before it was run (`apmass/PREREG_47.md`, 23:20 UTC on 19 October). A keyword name in the code was fixed before hashing; nothing was run before. An independent agent checked the run. Its corrections are included: K47a holds by construction; K47b's signal is mostly absorbed by a timing fit; the inertial mass is an assumption; the ζ₂ reading; the first-law statement; the double pulsar.*
+*20 October 2026. Registered and hashed with its code before it was run (`apmass/PREREG_47.md`, 23:20 UTC on 19 October). A keyword name in the code was fixed before hashing; nothing was run before. An independent agent checked the run. Its corrections are included: K47a holds by construction; K47b's signal is mostly absorbed by a timing fit; the inertial mass is an assumption; the ζ₂ reading; the first-law statement; the double pulsar.*
 
 **Question.** At neutron-star compactness (U_self ≈ 0.22), a bound pattern's draw, its **active** mass, is 4% short of its energy at infinity κω (Runs 46–46c).
 - Its fall, by ω, is consistent with zero. So its **passive** mass, taken as the Killing energy's response to a potential, is κω.

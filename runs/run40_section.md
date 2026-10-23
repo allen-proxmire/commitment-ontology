@@ -1,6 +1,6 @@
 ## 9zg. Runs 40, 40b, 40c: Run 36 with a body that keeps its proper size
 
-*19 October 2026. Allen: "do as you recommend" (step 1). Three registered runs, each hashed before it ran:*
+*19 October 2026. (step 1). Three registered runs, each hashed before it ran:*
 - *Run 40, in Run 36's periodic box (`adjust/PREREG_40.md`, 12:52 UTC);*
 - *Run 40b, in an unbounded medium, after an independent check found Run 40's pass depended on the body model (`adjust/free/PREREG_40b.md`, 13:06 UTC);*
 - *Run 40c, the same at weak field (`adjust/free/PREREG_40c.md`, 13:15 UTC).*

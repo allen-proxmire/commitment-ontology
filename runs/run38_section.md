@@ -1,6 +1,6 @@
 ## 9ze. Run 38: frame dragging on the engine (a construction check)
 
-*19 October 2026. Allen: "do your next steps" (step 4). This is a construction check, not registered. The script's docstring set a 3% criterion, which the in-well releases miss (1.068). The no-well releases and the diagnostic were added after that in-well result was seen. The strength of frame dragging is the Lorentz input (Run 34), so nothing here can test ED. It checks that the engine carries a pattern with the current field.*
+*19 October 2026. (step 4). This is a construction check, not registered. The script's docstring set a 3% criterion, which the in-well releases miss (1.068). The no-well releases and the diagnostic were added after that in-well result was seen. The strength of frame dragging is the Lorentz input (Run 34), so nothing here can test ED. It checks that the engine carries a pattern with the current field.*
 
 **Setup** (`drag/run38.py`).
 - A ring of 32 committed pairs, radius 8, in the plane z = 20 of box 40, on Candidate A″'s relaxed medium (mean field). It draws 8.48 per tick.

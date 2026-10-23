@@ -1,8 +1,8 @@
 ## 9zzl. Run 65: ED's static field equation is GR's lapse equation; option 3's rule for space
 
-*21 October 2026. Allen: "let's chose 3, provisionally" (06:36), then "go ahead" (06:41). Registered and hashed before the run (`rule65/PREREG_65.md`, 04:44 UTC). An independent agent checked it; its corrections are included.*
+*21 October 2026. Option 3 chosen provisionally. Registered and hashed before the run (`rule65/PREREG_65.md`, 04:44 UTC). An independent agent checked it; its corrections are included.*
 
-**Question.** Allen provisionally chose option 3 (§9zzk): all binding tension shears space and acts back on the cadence field, as in GR. What is that rule for space when written to all orders? What does it do to ED's stars and holes, and what in ED's static gravity is left of its own?
+**Question.** Option 3 was chosen provisionally (§9zzk): all binding tension shears space and acts back on the cadence field, as in GR. What is that rule for space when written to all orders? What does it do to ED's stars and holes, and what in ED's static gravity is left of its own?
 
 **The identity.** Write a static metric in isotropic coordinates as ds² = −N²dt² + ψ⁴(dr² + r²dΩ²).
 - **GR's equation for the clock rate** (its R₀₀ equation) is
