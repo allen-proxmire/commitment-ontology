@@ -2,7 +2,7 @@
 
 Allen Proxmire.
 
-Tests of the Commitment Ontology against measured physics, on a lattice engine built from its rules: 83 runs (with follow-ups 72b and 81b), 15–23 October 2026.
+Tests of the Commitment Ontology against measured physics, on a lattice engine built from its rules: 84 runs (with follow-ups 72b and 81b), 15–24 October 2026.
 
 The project was formerly titled Event Density (ED). "The earlier papers" and the earlier event-layer engine refer to that work. Three documents from it are kept in `runs/`, unchanged except that their paths to the earlier project's files were removed: `P08_substrate_scale.md`, `Paper_BlindnessInvariant_KnotsNotCrystals.md` and `Particles_As_Knots.md`.
 
@@ -84,7 +84,7 @@ Every run in the record tests a consequence of those rules against a measurement
   - the medium's own dynamics on a stress-curved space;
   - how long commitment takes, and the core's quantum state (Run 74);
   - the size of CO's hop (the engine suggests about 10^2.5–10^3 Planck lengths);
-  - a carrier for gravitational waves built from the relations themselves. Note H, a design note in the record, sets out what it needs and the tests that would kill it. Its speed test (Run 82): the waves need a second factor of N beyond the place ticks, as light has, or they arrive with half light's Shapiro delay, which GW170817 excludes. Its mode count (Run 83): on a triangulated lattice the relations carry exactly GR's two polarisations at light's speed, but the kinetic form tried leaves a short-wavelength instability for λ > 1, so what the relations' current is remains open.
+  - a carrier for gravitational waves built from the relations themselves. Note H, a design note in the record, sets out what it needs and the tests that would kill it. Its speed test (Run 82): the waves need a second factor of N beyond the place ticks, as light has, or they arrive with half light's Shapiro delay, which GW170817 excludes. Its mode count (Run 83): on a triangulated lattice the relations carry exactly GR's two polarisations at light's speed, but the kinetic form tried leaves a short-wavelength instability for λ > 1. Its kinetic form (Run 84): with the DeWitt form of the metric read from the relations arriving at a place, GR's route carries exactly the two polarisations, with ω² = Σ4sin²(k_a/2) at every wavelength, and the khronometric route is healthy exactly when the continuum's is (α < 2ξ). That is linear, around flat space; whether it survives at second order is the next question.
 
 ## Running it
 - **Requirements:** Python 3 with numpy, scipy and matplotlib.

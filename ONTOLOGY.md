@@ -1,6 +1,6 @@
 # The commitment ontology, as it stands
 
-Allen Proxmire · 23 October 2026 · after Runs 1–83 (with 81b) of the lattice record
+Allen Proxmire · 24 October 2026 · after Runs 1–84 (with 81b) of the lattice record
 
 This page states, in one place, what the lattice record tests: the commitment ontology's rules as they stand today. For each rule it gives:
 - its formula;
@@ -78,7 +78,7 @@ Everything that goes in, and what each input buys. Rules and rulings are inputs 
 | input | kind, date | what it buys |
 |---|---|---|
 | A cubic lattice, nearest-neighbour relations, one global hop rate | engine | most runs |
-| Note H's carrier: a Kuhn-triangulated lattice with Regge's energy, a kinetic form for the relations' stretch, and a lapse coupling | engine, Runs 83–84 | the relations' waves |
+| Note H's carrier: a Kuhn-triangulated lattice with Regge's energy, the corner-metric kinetic form for the relations' stretch, and Regge's end-average lapse coupling | construction, Runs 83–84 | GR's two polarisations, healthy at the linear level (Run 84) |
 
 **Not yet used by any run**
 
@@ -364,7 +364,7 @@ $$
          - **A conserved current is needed for waves at all scales.**
          - This is ordinary lattice-gas sound. An exactly reversible bottom gives the same large-scale wave (Run 81b). So at large scales it does not locate the arrow, as above.
          - **The averaged wave does not show the arrow (Run 81b).** Its damping follows each rule's local collision response, reversible or not. The one-way cycle shows in that local response, as a relaxation that rotates, not in the wave. The arrow lives at the bottom, and averaging to large scales hides it.
-         - These waves are longitudinal sound. GR's are shear, which needs a restoring force as well: in CO's terms, the relations' tension. That is not shown.
+         - These waves are longitudinal sound. GR's are shear, which needs a restoring force as well: in CO's terms, the relations' tension. Relations with Regge's energy supply it: they carry GR's two shear polarisations at light's speed, healthy at the linear level (Runs 83–84).
          - A medium carrying sound would radiate scalar waves, which Run 11b bounds. So the current belongs to the carriers of CO's waves (the relations, patterns), not to the well.
      - **The engine's medium is itself an average** (stated 23 October). A scaleless substrate has no direct model, so the engine uses an averaged medium as its stand-in.
        - The diffusion belongs to that stand-in: units hopping at random, with no memory of direction. It is not shown to belong to the substrate.
@@ -435,6 +435,7 @@ $$
 | 81, 81b | whether averaging a one-way process can give a two-way wave; a reversible control |
 | 82 | the speed of the relations' stretch waves in a well: which formulation gives light's cone (a calculation) |
 | 83 | the normal modes of a lattice of relations carrying their own stretch: mode count, speed and stability on both routes (a calculation) |
+| 84 | a kinetic form for the relations that keeps GR's constraint structure exactly: both routes healthy at the linear level (a calculation) |
 
 ---
 
@@ -470,7 +471,7 @@ $$
 
 **Foundations**
 - Signalling through the field fixed each tick, beyond first post-Newtonian order.
-- Whether CO's waves (the shear of relations, and patterns) come out two-way from the one-way layer, as GR's are. Both wave equations were adopted. Run 81: averaging a one-way process gives a two-way wave at large scales if a current is conserved; shear also needs a restoring force, which the relations' tension would have to supply (§5, item 1).
+- Whether CO's waves (the shear of relations, and patterns) come out two-way from the one-way layer, as GR's are. Both wave equations were adopted. Run 81: averaging a one-way process gives a two-way wave at large scales if a current is conserved; shear also needs a restoring force, which Regge's energy on the relations supplies (Runs 83–84; §5, item 1).
   - **Note H (design note):**
     - **What a carrier needs:** relations with their own stretch and an exactly conserved current, on a face-centred or triangulated relation graph (the engine's cubic relations carry only 3 of the 6 strain components), Regge's energy, and GR's two constraints enforced every tick: sliding at every moment, and isotropic stretch fixed by matter, which stability requires.
     - **Light's speed needs a second factor of N** beyond the ticks.
@@ -483,9 +484,16 @@ $$
     - **The mode count (Run 83, Kuhn-triangulated lattice, Regge's energy, a per-tetrahedron DeWitt kinetic form):**
       - **The counting works.** On both routes the relations carry exactly two TT modes at c² = 1, isotropically. On the khronometric route the long wavelengths are the continuum's: the scalar at its continuum speed, and the extra non-metric mode gapped at ω² = 6 and healthy.
       - **Stability does not.** For every λ > 1 the khronon is unstable above |k| ≈ √(2(λ−1)/μ_L), at wavelengths of about 2.1/√(λ−1) spacings. Only λ < 1/3 is healthy throughout, and observation excludes it.
-      - **GR's route** fails at long wavelengths with the lapse averaged over each relation's ends. The fault is that coupling's non-metric part, and a tuned local weighting removes it (post hoc).
-      - **The common root is the kinetic form.** Its longitudinal-shift term carries a k⁴ correction (μ_L ≠ 0). What the relations' current is, the kinetic form, is the open choice now.
+      - **GR's route** fails at long wavelengths with the lapse averaged over each relation's ends. A tuned local weighting removes most of it (post hoc). Run 84 showed that the same end-average coupling is exactly right once the kinetic form meets the criterion, so the fault was the kinetic form's.
+      - **The common root is the kinetic form.** Its longitudinal-shift term carries a k⁴ correction (μ_L ≠ 0).
       - All seven registered tests failed, partly because the registered solver lost precision at small k.
+    - **The kinetic form (Run 84, the corner metric: the DeWitt form of the metric read from the six relations arriving at a place):**
+      - **GR's route works at the linear level.** With no inertia for the body diagonal (N0), the relations carry exactly the two TT modes, with ω² = |δ|², |δ|² = Σ4sin²(k_a/2), at every k: the continuum's linear theory with forward differences. The Hamiltonian constraint is first class, and the lapse coupling is Regge's own end-average coupling.
+      - **The khronometric route is healthy exactly when α < 2ξ,** as in the continuum, for every λ > 1 tested (1 + 10⁻⁶ to 2). An exact Regge identity, q_w†Vq_w = −4|δ|², decides it.
+      - **Run 83's failures were its kinetic form's:** the two runs share the potential and the lapse coupling exactly.
+      - Giving the body diagonal its own inertia (N1) fails on a closed curve near the zone corners, where that inertia vanishes and the extra mode's frequency diverges. N0 is the version to carry forward.
+      - The kinetic form is constructed, not derived, and it breaks lattice inversion (mirrors are kept). Everything is linear, around flat space.
+      - **Next:** whether the linear gauge symmetry survives at second order (the cubic action), where Regge-type lattices are known to fail; a parity-even construction; then H3 (the source), H4 (β) and H5 (a one-way engine).
 - Deriving the borrowed inputs: Lorentz invariance (including twist across ticks) and inertia = total energy.
 - Whether CO's event layer itself charges twist across ticks.
 - What sources Λ. Under R5 the rules give Λ = 0, while Λ is observed to be small and positive; it is taken from data as an input.

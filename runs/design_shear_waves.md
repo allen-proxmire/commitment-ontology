@@ -160,6 +160,8 @@ If this holds, Notes F and G, Run 79 and Run 11b are one question: the relations
 
 *Notes added 23 October, after Runs 82 and 83.* **H2 (Run 82):** a second factor of N is required, as §4 said; it may sit in the space, the stiffness or the clock. **H1 (Run 83, Kuhn lattice):** the counting works. Both routes carry exactly two TT modes at c² = 1, isotropically, and the khronometric route's long wavelengths are the continuum's, with the non-metric mode gapped at ω² = 6. Stability does not: with the per-tetrahedron DeWitt kinetic form, the khronon is unstable at finite k for every λ > 1, and GR's route fails at long wavelengths with the end-average lapse coupling (a tuned weighting removes that, post hoc). The kinetic form is now the open choice; the face-centred complex is still untested.
 
+*Note added 24 October, after Run 84.* **H1 (Run 84, Kuhn lattice, the corner-metric kinetic form):** passes at the linear level. With N0, GR's route carries exactly the two TT modes with ω² = |δ|² at every k, |δ|² = Σ4sin²(k_a/2), and the Hamiltonian constraint is first class; the khronometric route is healthy exactly when α < 2ξ, as in the continuum. The lapse coupling is Regge's own end-average coupling. The open questions move to second order (whether the linear gauge symmetry survives in the cubic action), a parity-even construction, and H3–H5. The face-centred complex is no longer needed at the linear level.
+
 **7. What would be derived, and what chosen.** If H1–H4 pass:
 - **Derived:**
   - from sliding with the momentum constraint: no vector or longitudinal waves;
