@@ -25,7 +25,7 @@ The world is made of **commitments**: irreversible updates at places. Time at a 
 - **inertia = total energy** for compact bodies (20 October; Runs 52, 55);
 - **option A:** GR's exterior for merging black holes (19–20 October).
 
-**Choices where the rules are silent:**
+**Rules and choices not in the original ontology** (added when the runs raised questions the original rules did not address):
 - infalling matter commits where possibility falls to about 2p_s per place (Runs 71, 73–74);
 - frame dragging is possibility's own flow (Run 69);
 - black holes are stable (Run 68);
