@@ -508,22 +508,23 @@ $$
     - **Second order, {H, D} and {D, D} (Run 86):**
       - **Both close, with one local sliding.** With the body diagonal fixed by its N = 1 equation (N0′), a field-dependent sliding D[u] = Σπ·(Γu + S_u h) closes both brackets at first order in the fields:
 $$
-\{H[N],D[u]\}=-H[L(u,N)],\qquad\{D[u],D[v]\}=D\big[[u,v]\big],
+\{H[N],D[u]\}=-H[L(u,N)],\qquad\{D[u],D[v]\}=D\big[[u,v]\big].
 $$
-        with L → u·∇N and [u, v] → the Lie bracket. S couples u and h within one place of each other in every direction. The residual is at rounding level (10⁻¹⁵–10⁻¹²) on held-out wavevectors. The axis-only stencil fails, already for {H, D} alone.
-      - **Against the registered expectation,** which leaned toward failure.
-      - **Order by order in the lattice spacing (post hoc):** the conditions are solvable through three orders beyond the continuum for any local sliding, so the closure is not an artefact of the stencil.
-      - **What it rests on.**
+        - S couples u and h within one place of each other in every direction (the box(1) stencil).
+        - The check verified the closure in real space with explicit Poisson brackets: {H, D} to 3×10⁻¹³, {D, D} to 5×10⁻¹⁶.
+        - The axis-only stencil fails, with an O(a²) defect already in {H, D}.
+      - **GR's structure is forced, not chosen.** The basis-independent leading-order content of the structure functions is GR's: L → u·∇N and [u, v] → the Lie bracket. The equations force it. What remains free is a choice of basis, plus one O(a) parameter in [u, v].
+      - **The sliding is not unique:** it is one member of a large family, and it has not been identified with a geometric action.
+      - **What is new beyond Runs 84–85:** the local closure of {D, D}'s two TT components jointly with {H, D}. The rest was guaranteed by the linear structure (the check).
+      - **Against the registered expectation,** which leaned toward failure. That expectation's rationale does not apply at this order: near flat space Regge's diffeomorphism symmetry breaks quadratically in the curvature (Bahr & Dittrich 2009), i.e. at field order 2.
+      - **Two structural facts.**
         - The lapse coupling to the body diagonal vanishes identically, so N0′'s nonlinear part drops out at this order.
-        - The kinetic form does not enter: the result is a property of Regge's energy with the end-average lapse.
-        - L's leading form is forced. [u, v] is fixed only up to redefinitions of the sliding's parameter, as in the continuum.
-      - **So GR's route passes the first nonlinear test that Run 84 does not decide.** With Run 85, all three brackets close at this order with GR's structure. The khronometric route stays a fallback.
-      - **Not yet tested (field order 2):**
-        - the momentum-squared part of {H, D}, which needs the kinetic metric's dependence on h (not yet defined);
+        - The kinetic form does not enter at this order.
+      - **So GR's route passes the first nonlinear test that Run 84 does not decide.** With Run 85, all three brackets close at field order 1. The khronometric route stays a fallback.
+      - **Not yet tested (field order 2), where the literature puts the breaking:**
+        - the momentum-squared part of {H, D}, which needs the kinetic metric's dependence on h;
         - Regge's third-order energy;
-        - {H, H} at second order.
-
-        Regge-type lattices are known to break diffeomorphism symmetry somewhere beyond linear order (Bahr & Dittrich 2009). On this lattice it has not appeared through the first nonlinear order.
+        - {D, D} and {H, H} at order πh.
 - Deriving the borrowed inputs: Lorentz invariance (including twist across ticks) and inertia = total energy.
 - Whether CO's event layer itself charges twist across ticks.
 - What sources Λ. Under R5 the rules give Λ = 0, while Λ is observed to be small and positive; it is taken from data as an input.

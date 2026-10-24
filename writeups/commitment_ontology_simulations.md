@@ -104,7 +104,7 @@
 | 83 | The normal modes of a lattice of relations that carry their own stretch (Note H, test H1): Kuhn-triangulated cubic lattice, Regge's energy, per-tetrahedron DeWitt kinetic form, shift and lapse; GR's route (both constraints per place) and the khronometric route (healthy α), with health boundaries (a calculation; registered) | **K83a–g all FAIL as registered**; the registered solver lost precision at small k and leaked spurious shift solutions (K83d, e, g fail only on that). Physics (the check's 50-digit spectra): both routes carry exactly two TT modes at c² = 1 in all 16 directions; the khronometric route's long wavelengths are the continuum's (scalar at Hořava's speed; non-metric mode gapped at ω² = 6, healthy), but for λ > 1 the khronon is unstable above |k| ≈ √(2(λ−1)/μ_L), wavelengths ≈ 2.1/√(λ−1) spacings; λ < 1/3 healthy throughout. GR's route fails at long wavelengths off a cone of directions, from the end-average lapse coupling's non-metric content; a tuned local lapse weighting removes that (post hoc). The kinetic form (μ_L ≠ 0) is the common root |
 | 84 | A kinetic form that keeps GR's constraint structure exactly on the lattice (Note H, test H1, second attempt): Kuhn lattice, Regge's energy, the corner-metric DeWitt form (the metric of the relations arriving at a place), Regge's end-average lapse coupling; GR's route and the khronometric route, without (N0) and with (N1) inertia for the body diagonal, health boundaries, and Run 83's form with the Run 83 check's tuned lapse (a calculation; registered) | **K84a–c (GR's route, N0 and N1) PASS; K84d–e (khronometric) PASS; K84f–h PASS; K84i FAIL, as expected.** The check: N0 is exact, ω² = c²\|δ\|² for every branch at every k, with \|δ\|² = Σ4sin²(k_a/2); the lapse coupling equals Regge's end-average coupling exactly; an exact Regge identity, q_w†Vq_w = −4\|δ\|², makes the khronometric route healthy exactly when α < 2ξ, as in the continuum; first class in the full linear Dirac sense. N1's body-diagonal inertia vanishes on a closed curve at \|k\| ≥ 4 (4 → 3 modes, the gapped mode's ω² → ∞, nothing negative). K84c, K84f and the C0 clause of K84h hold by construction |
 | 85 | GR's constraint algebra at the first nonlinear order on Run 84's lattice (Note H, second order): the bracket {H[N], H[M]} of Run 84's GR route (N0, λ = 1) in vertex-metric variables, for three natural ways the lapse multiplies the kinetic energy (D1–D3) and any local way within one or two spacings (G1, G2) (a calculation; registered) | **K85a–c (D1, D2, D3) FAIL** (ρ ∝ \|k\|, an O(ka) defect); **K85d–e: a closing local dressing EXISTS** (against the registered expectation). Post hoc and the check: the dressing is unique up to canonical transformations (D4: each shear term timed by the lapse averaged along its face diagonal), and the bracket is {H[N], H[M]} = D[ξU], U_a = N(x)M(x+e_a) − M(x)N(x+e_a), from an exact twisted Leibniz rule. The check: on this kinetic form at λ = 1 this closure is equivalent to Run 84's linear first-class structure, so it adds no independent evidence; N0's body diagonal is ill-defined beyond first order (use N0′); at O(∇N), Regge's second-order energy transforms as a scalar density. The decisive test is {H, D} with {D, D} |
-| 86 | {H, D} and {D, D} together at the first nonlinear order (Note H, the joint test): one field-dependent sliding D[u] = Σπ·(Γu + S_u h) with local structure functions L(u, N) and [u, v], in N0′ at λ = 1, Regge's second-order energy with the end-average lapse; least-squares existence over radius-1 stencils J1 (axis offsets) and J2 (all pairs within one place), with GR's first moments imposed or free (a calculation; registered) | **K86a, K86c (J1) FAIL** (residual about 0.3; J1 cannot close even {H, D} alone); **K86b, K86d (J2) PASS**, against the registered expectation: residual 10⁻¹⁵–10⁻¹² on every held-out set, L → u·∇N (forced), [u, v] → the Lie bracket when imposed (other brackets close too: the redefinition freedom). Overall PASS. Post hoc: order by order in the lattice spacing the conditions are solvable through degree 5 for any local sliding; the body diagonal's lapse coupling vanishes identically, so N0′'s nonlinear β drops out. The independent check is in progress. |
+| 86 | {H, D} and {D, D} together at the first nonlinear order (Note H, the joint test): one field-dependent sliding D[u] = Σπ·(Γu + S_u h) with local structure functions L(u, N) and [u, v], in N0′ at λ = 1, Regge's second-order energy with the end-average lapse; least-squares existence over radius-1 stencils J1 (axis offsets) and J2 (all pairs within one place), with GR's first moments imposed or free (a calculation; registered) | **K86a, K86c (J1) FAIL** (residual about 0.3; J1 cannot close even {H, D} alone); **K86b, K86d (J2) PASS**, against the registered expectation: residual 10⁻¹⁵–10⁻¹² on every held-out set, L → u·∇N (forced), [u, v] → the Lie bracket when imposed (other brackets close too: the redefinition freedom). Overall PASS. The check (own real-space construction, explicit Poisson brackets): closure verified end to end ({H, D} 3×10⁻¹³, {D, D} 5×10⁻¹⁶); K86b ⇔ K86d, since GR's leading-order L and [u, v] are forced, not imposed (J2-free's bracket differs by a constant redefinition); the sliding is one member of a 700-dimensional family, with one O(a) free parameter in [u, v]; J1's failure is an O(a²) defect already in {H, D}. New beyond Runs 84–85: the local closure of {D, D}'s TT components jointly with {H, D}. Post hoc: solvable order by order at the origin through degree 5; the body diagonal's lapse coupling vanishes identically. Field order 2 is untested |
 
 ## Where the record stands: a consilience reading
 
@@ -8380,7 +8380,7 @@ If this holds, Notes F and G, Run 79 and Run 11b are one question: the relations
 
 *Note added 24 October, after Run 85.* **Second order, {H, H} (Run 85):** at the first nonlinear order the Hamiltonian constraints close onto the momentum constraints, {H[N], H[M]} = D[ξU] with U_a = N(x)M(x+e_a) − M(x)N(x+e_a), once each shear term's kinetic energy is timed by the lapse averaged along its face diagonal (D4). The check showed that on this kinetic form at λ = 1 that closure is equivalent to Run 84's linear first-class structure, so it adds no independent evidence. The decisive test is {H, D} with {D, D}: one local field-dependent sliding for both. It needs N0′ (the body diagonal fixed by its N = 1 equation).
 
-*Note added 24 October, after Run 86.* **Second order, {H, D} and {D, D} (Run 86):** in N0′, one local field-dependent sliding D[u] = Σπ·(Γu + S_u h), reaching one place in every direction, closes both brackets at first order in the fields, with L → u·∇N and [u, v] → the Lie bracket. The residual is at rounding level on held-out wavevectors. Order by order in the lattice spacing the conditions are solvable for any local sliding (post hoc, through degree 5). With Run 85, all three brackets close at the first nonlinear order. Field order 2 is untested: the kinetic metric's h-dependence in {H, D}, Regge's third-order energy, and {H, H} at second order.
+*Note added 24 October, after Run 86.* **Second order, {H, D} and {D, D} (Run 86):** in N0′, one local field-dependent sliding D[u] = Σπ·(Γu + S_u h) on the box(1) stencil closes both brackets at first order in the fields; the check verified it in real space. The leading-order structure functions, L → u·∇N and [u, v] → the Lie bracket, are forced by the equations, not imposed. The sliding is not unique (a large family, with one O(a) free parameter in [u, v]). New beyond Runs 84–85: the local closure of {D, D}'s two TT components jointly with {H, D}. With Run 85, all three brackets close at the first nonlinear order. Field order 2 is untested: the kinetic metric's h-dependence in {H, D}, Regge's third-order energy, and {H, H} at second order.
 
 **7. What would be derived, and what chosen.** If H1–H4 pass:
 - **Derived:**
@@ -9060,7 +9060,8 @@ $$
   - *planted and negative toys for the solver.*
 
   *Two dry runs' outputs were deleted unread.*
-- *An independent agent is checking the run (below).*
+- *After the run, post hoc probes described the closing slidings; they are labelled post hoc.*
+- *An independent agent checked the run with its own real-space construction (below). Its corrections are adopted.*
 
 **Question.** Run 85 closed {H, H} at the first nonlinear order. Its check showed that, on this kinetic form, that closure follows from Run 84's linear result, and named the decisive next test: **does one local field-dependent sliding close {H, D} and {D, D} together at the same order?** In GR the momentum constraint generates spatial diffeomorphisms, and the algebra reads
 $$
@@ -9123,33 +9124,35 @@ $$
 | diagnostic | J1-GR, unreduced | 6,972 | 0.31 | 0.10 / 0.64 | 0.075 / 0.63 | NOT FOUND |
 | diagnostic | J2, {H, D} alone | 8,036 | 1.5×10⁻¹⁵ | 4×10⁻¹⁶ / 1.8×10⁻¹² | (not fitted: 0.24) | EXISTS |
 
-**Overall (registered): PASS.** One local sliding closes {H, D} and {D, D} together at the first nonlinear order, with GR's structure functions.
+**Overall (registered): PASS.** One local sliding on the box(1) stencil (|r|∞, |r′|∞, |r − r′|∞ ≤ 1) closes {H, D} and {D, D} together at first order in the fields.
 - **The maxima** come from the "small" held-out set (wavevectors scaled by 0.1).
-- **Along rays toward k = 0, J2's residual rises from 7×10⁻¹⁶ to 2×10⁻¹⁰.** This is rounding: each term falls as s³ while the stencil sums do not. J1's residual instead tends to 1 there, because its best fit gets even the continuum limit wrong.
-- **The registered expectation** was NOT FOUND for J1 (right) and "leaning NOT FOUND" for J2 (wrong).
+- **Along rays toward k = 0, J2's residual rises from 7×10⁻¹⁶ to 2×10⁻¹⁰.** This is floating-point cancellation, not a defect (the check). The terms fall as s³, while |M̂(−q, q)Ĝ(q)| sits at 2×10⁻¹⁴, and the rise is identical for all three J2 solutions.
+- **The registered expectation** was NOT FOUND for J1 (right) and "leaning NOT FOUND" for J2 (wrong). Its rationale does not apply at this order (the check). Bahr & Dittrich find that Regge's would-be gauge modes near flat space lose their symmetry *quadratically* in the curvature, i.e. at field order 2.
+- **The registered dichotomy between GR and free moments is void at J2 (the check):** K86b ⇔ K86d.
+  - Of the 38 GR moment constraints, 28 are implied by the equations themselves.
+  - The other 10 are a constant redefinition of the sliding's parameter, n(u, h)_c = A_caj u_a h_j, which fits J2's stencils.
 
 ![Run 86](../figures/86_joint.png)
 
-**What the closing sliding is.**
-1. **Its size.**
-   - J2's sliding uses pairs of places (r, r′) within one step of x and of each other: u at x + r, h at x + r′.
-   - Its coefficients are of order one (largest 0.47, norm 4.9), so there are no large cancellations.
-   - J1's axis-only offsets cannot close even {H, D} alone. Run 85's sliding Γ itself reaches x − e_a − e_b, which J1 lacks.
-2. **The structure functions.**
-   - **L.** It comes out as u·∇N to leading order even when left free: the first moment of l equals δ_ad exactly in J2-free. This is forced by the O(k) part of {H, D} (validation V3, and the Run 85 check).
-   - **[u, v].** It is GR's Lie bracket when that is imposed (J2-GR), but other brackets also close (J2-free: 0.86 away from the Lie bracket at |k| ~ 10⁻³).
-   - **Why [u, v] is not unique.** At this order, redefining the sliding's parameter, u → u + n(u, h) with n local, changes S by Γ∘n and [u, v] by n(u, Γv) − n(v, Γu). That change has one derivative, like the Lie bracket. So [u, v] is fixed only up to such redefinitions, as in the continuum, where it depends on whether D is smeared with ξ^a or ξ_a.
-   - **Beyond leading order (post hoc).** L also differs between solutions: 3% median relative difference at generic wavevectors between J2-GR and J2-free. [u, v] differs by 40%.
-3. **The solution family is large.** The reduced null space has 700 dimensions (J2-GR) and 710 (J2-free). It includes these redefinitions and the canonical transformations generated by Σπ·Γw(h, h).
-4. **Not stencil-specific (post hoc, `posthoc/ph86_taylor.py`).**
-   - **The method.** Every symbol is expanded in homogeneous powers of the wavevectors. The knowns M̂, Ĝ and Ĉ are expanded exactly; checked against the full symbols to 10⁻¹⁵. The unknowns' moments are left completely free, which is what an arbitrarily large local stencil allows.
-   - **The result.** The joint conditions are solvable order by order through degree 5: (HD) to degree 5, (DD) to degree 4, residuals 10⁻¹⁵–10⁻¹⁰. That is three orders in the lattice spacing beyond the continuum's degree 3.
-   - **Solver checks.** Planted solutions are recovered to 10⁻¹⁶, and a negative toy is rejected (ρ ≈ 1).
-   - So the closure is not an artefact of J2's stencil, and J1's failure is a stencil-size limit, not an obstruction.
-5. **A structural fact.** The lapse coupling to the body diagonal vanishes identically. So N0′'s nonlinear β drops out at this order, and the conditions involve only Regge's second-order energy, Run 85's sliding and the lapse coupling.
-   - **The kinetic form does not enter at field order 1.** The result is a property of Regge's energy with the end-average lapse. To the order tested, it transforms as a scalar density under a local lattice diffeomorphism whose algebra closes.
+**The independent check.** The check used its own real-space construction, sharing no code with the run: its own Kuhn lattice, a third dihedral formula (from the adjugate of the vertex Gram matrix), an exact β solve, and the gauge map as the exact derivative of the embedding-to-metric map.
+1. **Hashes.** 9/9 OK. The registration precedes the run, and the stored solutions reproduce every registered held-out statistic exactly.
+2. **The conditions, re-derived.** (HD) and (DD) are complete at field order 1, with the signs confirmed. The π² terms and E⁽³⁾ are field order 2. The body coupling vanishes (3×10⁻¹⁶), so β₂ never enters.
+3. **Regge's second-order energy, recomputed independently.** It agrees with the stencil M to 5×10⁻¹⁴ – 6×10⁻¹² for five lapse fields on 6³ and 7³ lattices.
+4. **The brackets, end to end in real space,** with explicit Poisson brackets on a 5³ lattice:
+   - J2-GR closes {H, D} to 3×10⁻¹³, limited by the differentiation, and {D, D} to 5×10⁻¹⁶;
+   - {D[u], D[v]} equals D[[u, v]] to every printed digit;
+   - the Fourier rows match real space to 10⁻¹³ even where they do not vanish (J1, random unknowns).
+5. **Fresh special loci** (k, q, p or q + q′ → 0; zone corners): the J2 solutions close to ≤ 7×10⁻¹¹.
+6. **J1, re-solved with LAPACK** (SVD and pivoted QR, no normal equations): the registered fits are reproduced exactly, and are robust to rcond, row scaling, a fresh seed and the S3 reduction.
+   - **J1's defect is of order a², and it is already in {H, D}.** Fitted with wavevectors scaled by s, J1's best residual falls as s²: 0.32, 1.2×10⁻², 1.2×10⁻⁴ and 1.1×10⁻⁵ at s = 1, 0.1, 0.01 and 0.003.
+   - The registered J1 rays, which tend to 1, describe the uniform-zone fit, not the stencil.
+7. **What the sliding needs (the check's probes, with LAPACK).**
+   - {H, D} alone closes once either slot of S is enlarged beyond J1's axis offsets: the shift in box(1) (P1) or the metric in box(1) (P2).
+   - The joint closure also needs the bracket stencil larger than B₁ × B₁. P2 closes with J2's bracket stencil (1.8×10⁻¹⁴), but not with J1's (0.13).
+   - At no stencil size do (HD) and (DD) contradict each other.
+   - Run 86's own post hoc probes (table below) agree: with J2's L and [u, v] stencils, P2 closes and P1, P3 and P4 do not.
 
-**Which offsets the sliding needs (post hoc, `posthoc/ph86_family.py`).** Each probe uses the same samples and decision rule as the registered run, with GR's moments; L and [u, v] keep J2's stencils.
+**Which offsets the sliding needs (post hoc, `posthoc/ph86_family.py`).** Each probe uses the registered samples and decision rule, with GR's moments, and keeps J2's stencils for L and [u, v].
 
 | probe | S: u at x + r, h at x + r′ | S pairs | held-out max ρ: {H, D}, {D, D} | |
 |---|---|---|---|---|
@@ -9158,31 +9161,69 @@ $$
 | P3 | both in the "diagonal cone" {0, ±e_a, ±(e_a+e_b), ±(1,1,1)}, within one step | 151 | 0.017, 0.009 | not found |
 | P4 | r = r′ (one place per term) | 27 | 0.61, 0.53 | not found |
 
-So within these probes, the sliding has to read the metric across the whole 3×3×3 box around x. The shift u is needed only at x and its six axis neighbours.
+**What was guaranteed, and what was tested (the check).**
+- **Guaranteed before the run:**
+  1. {H, H} at this order (Run 85: equivalent to linear first class).
+  2. {H, D} alone, at some finite radius. Ĉ's components generate the ideal of functions vanishing to second order at k = 0, and the O(k) part of term 1 is exactly −iĈ(q)(k·U).
+  3. The Ĉ-direction of (DD), given (HD).
+  4. L for affine lapses.
+  5. A *non-local* joint solution, which always exists. It would have poles where the output wavevector vanishes.
+- **Tested, and not implied by any of these:** whether the two remaining components of (DD) per wavevector (the TT directions) close *locally* together with (HD).
+  - They do, at box(1).
+  - Neither the exact vertex-translation symmetry of flat Regge configurations nor Run 84 implies it. The flat-embedding sliding is not a local function of h, because it depends on the rotation part of the displacement.
+- **The post hoc Taylor expansion** (below) works at the origin of momentum space only. So it does not settle locality on the loci k = 0, p = 0 or Q = 0 at finite other momenta; the J2 result does.
 
-**The independent check.** In progress; its report will be added here.
+**The structure functions: what is forced, and what is a choice (the check).**
+- **L.** Its affine-lapse part is forced at every q, L̂(0, q) = 0 and ∂_kL̂(0, q) = i·1. That is L = u·∇N. Every other change of L across the solution family lies in m²_k, a redefinition.
+- **[u, v] at leading order.** The basis-independent part (its zeroth moment, and the part of its first moment antisymmetric in the derivative and the second slot) equals the Lie bracket's, ½(δ_adδ_cb − δ_abδ_cd), to 8×10⁻¹⁶ in both J2 solutions.
+  - J2-free's "0.86 from the Lie bracket" is exactly a constant redefinition u → u + n(u, h), residual 1.2×10⁻¹⁵. It is not a deformation.
+  - **So the GR content of L and [u, v] at leading order is forced by (HD) and (DD), not imposed.**
+- **Beyond leading order.** One genuine free parameter κ appears in [u, v] at degree 2 (order a): no local redefinition removes it.
+  - The registered J2-GR member carries an O(a) deformation of this kind.
+  - The family also contains slidings whose bracket is the Lie bracket up to redefinitions through degree 4.
+- **The family.** The null space has 710 dimensions (free moments) with a clean gap, or 700 with GR's moments. Of the 710:
+  - 390 are redefinitions u → u + n(u, h);
+  - 4 are D[u] → D[u] + H[m(u, π)];
+  - 17 more change neither structure function on pure-gauge h;
+  - the other 299 are unidentified. They are consistent with, but not proved to be, canonical point transformations h → h + g(h, h).
+
+**Order by order at the origin of momentum space (post hoc, `posthoc/ph86_taylor.py`).**
+- **The method.** Every symbol is expanded in homogeneous powers of the two wavevectors. The knowns M̂, Ĝ and Ĉ are expanded exactly, checked against the full symbols to 10⁻¹⁵. The unknowns' moments are left completely free.
+- **The result.** The joint conditions are solvable through degree 5: (HD) to degree 5, (DD) to degree 4. Every block's residual is at rounding level. (Blocks whose terms are all at rounding are measured against 10⁻⁶ of the largest block, which gives ≤ 10⁻¹⁰.)
+- **Solver checks.** Planted solutions are recovered to 10⁻¹⁶, and a negative toy is rejected (ρ ≈ 1).
+- **The limit.** This settles the expansion at the origin only (above).
+
+**A structural fact.** The lapse coupling to the body diagonal vanishes identically. Hence:
+- N0′'s nonlinear β drops out at this order;
+- the conditions involve only Regge's second-order energy, the sliding and the lapse coupling;
+- the kinetic form does not enter at field order 1, and neither does λ.
 
 **Reading.**
-1. **The first test at this order not fixed by Run 84 passes.** With Run 85, all three brackets of GR's constraint algebra close at the first nonlinear order on this lattice, with local generators and GR's structure functions in the continuum limit:
+1. **The first test at this order that Run 84 does not decide passes.**
+   - The two TT components of {D, D}, together with {H, D}, close with a local sliding on the box(1) stencil.
+   - With Run 85, all three brackets close at field order 1 on this lattice, with local structure functions:
 $$
 \{H[N],H[M]\}=D[\xi U],\qquad\{H[N],D[u]\}=-H[L(u,N)],\qquad\{D[u],D[v]\}=D\big[[u,v]\big].
 $$
-   - Here L → u·∇N, [u, v] → u·∇v − v·∇u, and U → N∇M − M∇N.
-   - For this order, it is the realisation of hypersurface deformations that Bonzom & Dittrich (2013) found only in 3D or in flat and homogeneously curved 4D sectors. It applies here to perturbations of flat 3D space with lapse and shift.
-   - Regge-type breaking of diffeomorphism symmetry (Bahr & Dittrich 2009), if present on this lattice, must appear at a higher order: field order 2 or beyond.
-2. **What field order 1 does not test:**
-   - the π² part of {H, D}, which needs the kinetic metric's h-dependence (not yet defined), together with the sliding S found here;
-   - Regge's third-order energy;
-   - {H, H} at second order, which brings in γ^{ij}(h), √γ and N0′'s β at second order.
-3. **The khronometric route** stays a fallback, not the operative reading: GR's route has not failed.
+   - Their basis-independent continuum content is GR's: U → N∇M − M∇N, L → u·∇N (exact for affine N), and [u, v] → u·∇v − v·∇u. This content is forced by the equations, not imposed.
+2. **What it does not show (the check):**
+   - an exact or fully nonlinear diffeomorphism symmetry;
+   - a unique sliding. The sliding found is one member of a large family and has not been identified with a geometric action;
+   - anything at field order 2.
+3. **Consistent with the literature, not a surprise.** Near flat space, Regge's diffeomorphism symmetry is broken quadratically in the curvature (Bahr & Dittrich 2009). That is field order 2, which this record has not reached.
+4. **For the routes.** GR's route survives the first nonlinear order, so the khronometric fallback is not triggered. The free parts of the sliding (the family, and κ in [u, v]) are what field order 2 must fix or rule out.
 
 **Limits.**
-- First nonlinear order, field order 1 only.
+- Field order 1 only. Untested:
+  - the π² part of {H, D}, which needs the kinetic metric's h-dependence;
+  - Regge's third-order energy;
+  - {D, D} at order πh;
+  - {H, H} at order πh.
 - N0′, a flat background and one triangulation.
 - The lapse coupling is fixed at Run 84's end average.
 - The structure functions are local and bilinear, and L does not depend on h.
-- λ does not enter at this order.
-- The solution family is large. Which member continues to field order 2 is open.
+- The sliding is not unique; which member, if any, continues to field order 2 is open.
+- The registered reading's sentence "that sliding is the lattice's nonlinear diffeomorphism at this order" is not supported (the check). The same applies to the reading string in `analyse86.json`.
 
 ## 3. What the record says about the ontology
 
@@ -9890,7 +9931,7 @@ That last condition is also gravity's weakness: matter is light compared with th
 | 83 | lattice83.py: Kuhn tetrahedra, Regge Hessian by complex-step dihedral Jacobians, per-tet DeWitt kinetic form, P1 lapse gradients, Fourier assembly; solver83.py: gauge quotient, constraint restriction, generalised-eigenvalue pencil with the shift kept | 16 directions × |k| = 0.004–0.032; Brillouin zone 12³ grid + 2000 random k; nine cases | registration hashed with code, theory and validation (structural identities; solver on the continuum system; dry run deleted unread); post hoc Hamiltonian reduction; independent agent (own implementation to 10⁻¹⁴, 50-digit spectra, solver error budget, zone scans, lapse-weighting probes, closed forms for the gap, b(k̂) and μ_L, literature) |
 | 84 | lattice84.py: the corner metric M_h (6×7), the DeWitt form with the arriving trace, N1 inertia ν = −(1/14)v†DAD, c_G = ξG₁gδ, κ = \|δ\|²; Regge Hessian and gauge vectors from lattice83; solver84.py: shift eliminated by Schur complement with the zero-kinetic direction dropped, constraints and the auxiliary eliminated exactly, eigh on (U, K); 'ham' (W = Q†G⁻¹Q, first-class-safe Dirac step) for Run 83's form | 255 directions × \|k\| = 0.005–0.04; zone: 12³ grid + 2000 random k + shells 0.05–0.8 (5002 points); 17 cases | registration hashed with code, theory and validation (structural identities; the solver against Run 83's 50-digit spectra and the continuum; blind comparisons, 'lag' against 'ham' and float64 against 50 digits, printing only discrepancies; dry run deleted unread); independent agent (own construction from the arriving vertex metric, own Dirac reduction, 50-digit Cholesky and Jacobi spectra, 3,552 directions, 22,031 zone points, 75,204 inertia points, the ν₇ = 0 curve, a near-miss construction, symmetries, literature) |
 | 85 | lattice85.py: periodic Kuhn lattice in real space, deficit angles by complex step, the vertex-metric map, the lapse-coupling and sliding stencils; theory85.py: the bracket symbol B(k,k′), the residual off range Ĝ, the dressings D1–D3, least squares over local dressings | 2000 random pairs, 300 at k′ = −k, 300 near it, rays at \|k\| = 0.01–0.32 (100 directions), 500 fresh; λ = 1, N0 | registration hashed with code and validation (agreement with Run 84's objects; linear gauge and time-reparametrisation relations; real-space check of the bracket formula on an unregistered dressing; the continuum analog; a toy with a known answer; dry run deleted unread); post hoc: the family of closing dressings, a sparse member D4, its structure function, λ and coupling probes; independent agent (own fully nonlinear construction with √γ, γ⁻¹ and three body-diagonal treatments, explicit Poisson brackets, the identities C†N = KΓ(Δ⁺N) and the twisted Leibniz rule, the canonical-transformation family, the equivalence with linear first class, the N0 auxiliary beyond first order, a first {H, D} probe, literature) |
-| 86 | regge86.py: hyper-dual (exact) dihedral Hessians, the per-place second-order Regge stencil M(y, y′) in vertex-metric variables with the body diagonal eliminated (N0′); joint86.py: the (HD) and (DD) rows in Fourier, S3 orbit reduction, exact moment constraints by null-space elimination, batched normal equations with an eigendecomposition pseudo-inverse and iterative refinement, independent residual evaluators | fit: 700 + 350 (J1) and 900 + 450 (J2) wavevector pairs; held out: 300 + 150 uniform, 100 + 50 at 0.1 scale, 100 + 50 mixed; 30 rays to s = 6×10⁻³; λ = 1, N0′ | registration hashed with code and validation (exact Regge energy against the stencil to 5×10⁻¹⁰, Run 84's potential to 10⁻¹⁴, hyper-dual against finite differences, the O(k) term of {H, D}, the continuum Lie bracket's sign, S3 covariance, row assembly, planted and negative toys; dry runs deleted unread); post hoc: order-by-order expansion with free moments to degree 5, the structure functions across solutions, intermediate stencils; independent agent (in progress) |
+| 86 | regge86.py: hyper-dual (exact) dihedral Hessians, the per-place second-order Regge stencil M(y, y′) in vertex-metric variables with the body diagonal eliminated (N0′); joint86.py: the (HD) and (DD) rows in Fourier, S3 orbit reduction, exact moment constraints by null-space elimination, batched normal equations with an eigendecomposition pseudo-inverse and iterative refinement, independent residual evaluators | fit: 700 + 350 (J1) and 900 + 450 (J2) wavevector pairs; held out: 300 + 150 uniform, 100 + 50 at 0.1 scale, 100 + 50 mixed; 30 rays to s = 6×10⁻³; λ = 1, N0′ | registration hashed with code and validation (exact Regge energy against the stencil to 5×10⁻¹⁰, Run 84's potential to 10⁻¹⁴, hyper-dual against finite differences, the O(k) term of {H, D}, the continuum Lie bracket's sign, S3 covariance, row assembly, planted and negative toys; dry runs deleted unread); post hoc: order-by-order expansion with free moments to degree 5, the structure functions across solutions, intermediate stencils; independent agent (own real-space construction with a third dihedral formula and an exact β solve, independent E⁽²⁾, explicit Poisson brackets on 5³, LAPACK re-solves of J1, fresh special loci, the null space and its redefinition directions, the structure-function invariants) |
 
 Units are lattice units throughout. Wave speed $v=1$. Cluster masses: $M=0.8\pi$ (A = 0.1) for Runs 3–6, and $M_A=0.25$, $M_B=0.5$ for Runs 7–8, chosen so the cadence deficit stays a few percent.
 
