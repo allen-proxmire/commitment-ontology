@@ -295,8 +295,10 @@ $$
        - why the One Being begins to commit;
        - why the first commitments leave near-uniform ripples, about one part in 10⁵, with the measured spectrum;
        - whether the universe also ends at the One Being.
-2. **The quantum vacuum's energy does not draw,** because the vacuum never commits.
-   - That is in line with how small the cosmological constant is. Its coefficient is not computed.
+2. **The quantum vacuum's energy need not draw.**
+   - The vacuum carries no commitment, and under R5 the undisturbed medium draws nothing.
+   - If the undisturbed vacuum's zero-point energy is likewise ruled not to draw, quantum field theory's vacuum energies (about 10¹²⁰ times too large) never enter gravity, as in unimodular gravity. Changes that matter makes to the vacuum's zero-point energy (the Lamb shift, binding energies) must still draw: equivalence-principle tests show that they do (Polchinski 2006). That ruling is open (§7).
+   - This removes the old cosmological-constant problem but not the new one: the rules as they stand give Λ = 0, while Λ is observed to be positive (Ω_Λ ≈ 0.69). What sources Λ in CO is open.
    - The classical vacuum drawing nothing is not distinctive: GR without Λ has it too.
    - With rotation, the clock equation gains a vacuum source (Run 69).
 3. **Compact bodies slightly break the strong equivalence principle.** A neutron star's gravitational mass exceeds its inertia:
@@ -400,5 +402,5 @@ $$
       - All seven registered tests failed, partly because the registered solver lost precision at small k.
 - Deriving the borrowed inputs: Lorentz invariance (including twist across ticks) and inertia = total energy.
 - Whether CO's event layer itself charges twist across ticks.
-- The vacuum energy's coefficient.
+- What sources Λ: the rules as they stand give Λ = 0, while Λ is observed to be small and positive. And the ruling on whether the undisturbed vacuum's zero-point energy draws (changes that matter makes to it must draw, by the equivalence-principle tests).
 - Particles as knots built from the engine's own commitments.

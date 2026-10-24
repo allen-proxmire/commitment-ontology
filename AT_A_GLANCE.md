@@ -57,7 +57,7 @@ The world is made of **commitments**: irreversible updates at places, never undo
    - This rests on option 3 and on the 2p_s choice.
 3. **Compact bodies slightly break the strong equivalence principle** (Runs 55, 66): Δ = εC/(1 + ε) > 0, where GR gives zero, growing with compactness. Its size waits on ε, which pulsar timing bounds.
 4. **β − 1 = −ε/[2(1 + ε)]** (Run 66), below current reach at the bound on ε.
-5. **The vacuum's energy does not pull,** because the vacuum never commits. Its size has not been computed.
+5. **The quantum vacuum's energy need not pull.** The vacuum carries no commitment, and the undisturbed medium draws nothing. If the undisturbed vacuum's zero-point energy is ruled not to draw, quantum field theory's vacuum energy (about 10¹²⁰ times too large) never enters gravity. That leaves Λ itself unexplained: the rules as they stand give Λ = 0, while Λ is observed to be small and positive.
 
 The sizes in items 2–4 all depend on ε, which the ontology does not yet fix.
 
