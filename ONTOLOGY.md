@@ -1,6 +1,6 @@
 # The commitment ontology, as it stands
 
-Allen Proxmire · 24 October 2026 · after Runs 1–86 (with 81b) of the lattice record
+Allen Proxmire · 25 October 2026 · after Runs 1–87 (with 81b) of the lattice record
 
 This page states, in one place, what the lattice record tests: the commitment ontology's rules as they stand today. For each rule it gives:
 - its formula;
@@ -79,7 +79,7 @@ Everything that goes in, and what each input buys. The primitives, the inputs ad
 | input | kind, date | what it buys |
 |---|---|---|
 | A cubic lattice, nearest-neighbour relations, one global hop rate | engine | most runs |
-| Note H's carrier: a Kuhn-triangulated lattice with Regge's energy, the corner-metric kinetic form for the relations' stretch, and Regge's end-average lapse coupling; at the first nonlinear order, each shear term's kinetic energy timed by the lapse averaged along its face diagonal, and a field-dependent sliding reaching one place in every direction | construction, Runs 83–86 | GR's two polarisations, healthy at the linear level (Run 84); GR's constraint algebra, all three brackets, at the first nonlinear order (Runs 85–86) |
+| Note H's carrier: a Kuhn-triangulated lattice with Regge's energy, the corner-metric kinetic form for the relations' stretch, and Regge's end-average lapse coupling; at the first nonlinear order, each shear term's kinetic energy timed by the lapse averaged along its face diagonal, and a field-dependent sliding reaching one place in every direction | construction, Runs 83–87 | GR's two polarisations, healthy at the linear level (Run 84); GR's constraint algebra, all three brackets, at the first nonlinear order (Runs 85–86); at field order 2, GR's algebra exactly at the continuum degree, and at the first lattice correction only in a changed constraint basis (Run 87, the basis post hoc) |
 
 **Not yet used by any run**
 
@@ -439,6 +439,7 @@ $$
 | 84 | a kinetic form for the relations that keeps GR's constraint structure exactly: both routes healthy at the linear level (a calculation) |
 | 85 | GR's constraint algebra at the first nonlinear order on that lattice: how the lapse must multiply the kinetic energy (a calculation) |
 | 86 | the rest of that algebra, {H, D} and {D, D}, at the same order: whether one local field-dependent sliding closes both (a calculation) |
+| 87 | the whole algebra at field order 2, order by order in the lattice spacing: whether the sliding, the kinetic metric and the structure functions extend so that all three brackets still close (a calculation) |
 
 ---
 
@@ -517,15 +518,29 @@ $$
       - **GR's structure is forced, not chosen.** The basis-independent leading-order content of the structure functions is GR's: L → u·∇N and [u, v] → the Lie bracket. The equations force it. What remains free is a choice of basis, plus one O(a) parameter in [u, v].
       - **The sliding is not unique:** it is one member of a large family, and it has not been identified with a geometric action.
       - **What is new beyond Runs 84–85:** the local closure of {D, D}'s two TT components jointly with {H, D}. The rest was guaranteed by the linear structure (the check).
-      - **Against the registered expectation,** which leaned toward failure. That expectation's rationale does not apply at this order: near flat space Regge's diffeomorphism symmetry breaks quadratically in the curvature (Bahr & Dittrich 2009), i.e. at field order 2.
+      - **Against the registered expectation,** which leaned toward failure. That expectation's rationale does not apply at this order: near flat space Regge's diffeomorphism symmetry breaks quadratically in the curvature (Bahr & Dittrich 2009). That enters the action at fourth order in the fields, so the constraint algebra would show it at field order 3 (Run 87's check).
       - **Two structural facts.**
         - The lapse coupling to the body diagonal vanishes identically, so N0′'s nonlinear part drops out at this order.
         - The kinetic form does not enter at this order.
       - **So GR's route passes the first nonlinear test that Run 84 does not decide.** With Run 85, all three brackets close at field order 1. The khronometric route stays a fallback.
-      - **Not yet tested (field order 2), where the literature puts the breaking:**
-        - the momentum-squared part of {H, D}, which needs the kinetic metric's dependence on h;
-        - Regge's third-order energy;
-        - {D, D} and {H, H} at order πh.
+      - **Field order 2:** Run 87, below.
+    - **Field order 2, all three brackets (Run 87):**
+      - **The test.** Regge's third-order energy (with N0′'s second-order body diagonal), the kinetic metric's dependence on h, a second-order sliding and h-dependent structure functions, solved order by order in the wavevectors with free moments. Two truncations: the continuum degree (D0) and the first lattice correction (D1, order a).
+      - **At the continuum degree, GR's algebra exactly (K87a PASS).** The solution found is GR's own continuum constraint algebra, to 1.5×10⁻¹⁴ (the check), and its kinetic part is unique. This confirms Regge's third-order energy, the body diagonal's second-order term and the DeWitt kinetic metric. It was expected once the lattice's continuum limit is GR's, so it is not evidence of a lattice gauge symmetry.
+      - **At order a, as registered: FAIL (K87b).** The kinetic sector, {H, D} at order π² with {H, H} at order πh, has no solution with structure functions independent of π. The check certified this: the sector is linear, and LAPACK finds the same inconsistency with a clean rank gap. The potential sector closes.
+      - **What fails is the constraint basis, not the algebra (post hoc, confirmed by the check).** In the basis
+$$
+\tilde H[N]=H[N]-D[X(N;\pi)],\qquad X_a=\tfrac14N\,(2\pi_{aa}-\operatorname{tr}\pi)=\tfrac14\dot h_{aa},
+$$
+        all three brackets close at order a with structure functions that depend on h only. X is unique. The change is triangular, so the constraint surface and the first-class property are the same, and Runs 85–86 stand. The registered reading, that GR's algebra breaks at order a and the khronometric route becomes operative, is not supported.
+      - **A geometric reading (a heuristic).** Each place's metric is read from its links; as an axis link lengthens, the point it measures moves by half the change, ¼ḣ_aa. The GR-form basis subtracts that drift. Why the face diagonals contribute nothing is not explained.
+      - **What field order 2 fixes.** Run 86's free O(a) bracket parameter is fixed at the Lie value. The first-order family shrinks from 87 directions to 20, all trivial redefinitions. The kinetic metric's continuum h-dependence is forced to be DeWitt's; its order-a part is not the simple lattice DeWitt form.
+      - **The constraint basis that closes is not a D4 dressing.** Its momentum-squared part couples neighbouring places, outside Run 85's class of dressings.
+      - **So GR's route survives field order 2 through order a,** with a changed constraint basis. Formal: at the origin of momentum space only.
+      - **Not yet tested:**
+        - higher lattice orders, with the basis change part of the registered ansatz;
+        - locality where one momentum vanishes;
+        - field order 3, where Bahr–Dittrich-type breaking would enter.
 - Deriving the borrowed inputs: Lorentz invariance (including twist across ticks) and inertia = total energy.
 - **Whether any of the added inputs, the rules and choices adopted after the original ontology, can be derived after all,** from the primitives or from the other added inputs, so that the list of inputs shrinks (stated 24 October). More rulings are likely as the runs continue. Candidates so far:
   - the undisturbed vacuum draws nothing (R5), from the earlier added input that the vacuum never commits;
