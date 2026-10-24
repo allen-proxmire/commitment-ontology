@@ -68,7 +68,6 @@ Every run in the record tests a consequence of those rules against a measurement
     - Around a spinning hole, frame dragging is possibility's own flow, so spinning holes are Kerr outside the horizon (Run 69).
 - **Predictions:**
   - **Compact stars slightly break the strong equivalence principle,** Δ = εC/(1 + ε) > 0 with ε = p_s/P∞. GR gives zero. The pulsar triple bounds it, P∞/p_s ≳ 1.6–1.9×10⁵ (Run 66); CO does not yet fix its size.
-  - **Primordial black holes never evaporate.** The bounds on them that assume evaporation do not apply, so a detected evaporating primordial hole would count against CO.
   - **Under CO's original rule for space only** (withdrawn under option 3): heavy neutron stars need very stiff nuclear matter, near the causal limit above about twice nuclear density. Heavy-ion collisions allow this only at the edge of their bounds (Runs 57–62).
 - **Clocks on a curved medium space:** on equal-volume places at both signs of curvature, clocks follow the zero-range theory to about 1–2% (Runs 70, 72).
   - The gap between two clock designs shifts with the sign of the curvature as predicted: detected at 5.1σ, matching the theory to 0.5σ (Run 72b).
