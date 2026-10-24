@@ -8,7 +8,7 @@ This page states, in one place, what the lattice record tests: the commitment on
 - the runs behind it.
 
 Some terms used throughout:
-- **Rulings** are choices made where the rules alone do not decide. Each is dated.
+- **Rulings** are rules and choices not in the original ontology. Each was added, with a date, when a run raised a question the original rules did not address. Whether any can be derived after all, from the primitives or the other rules, is open (§7, Foundations).
 - **Provisional** rulings are marked, with the grounds for going back where these were set in advance.
 - **Borrowed:** an input taken from established physics, tracked rather than derived.
 
@@ -18,7 +18,7 @@ The full record (`writeups/commitment_ontology_simulations.md`) holds the eviden
 
 ## Inputs, in one list
 
-Everything that goes in, and what each input buys. Rules and rulings are inputs as much as the borrowed pieces are: each is a choice that could have been made differently. What comes out is in §4.
+Everything that goes in, and what each input buys. The original primitives and rules, the rulings added along the way, and the borrowed pieces are all inputs: each could have been made differently. What comes out is in §4.
 
 **The ontology**
 
@@ -526,6 +526,10 @@ $$
         - Regge's third-order energy;
         - {D, D} and {H, H} at order πh.
 - Deriving the borrowed inputs: Lorentz invariance (including twist across ticks) and inertia = total energy.
+- **Whether any of the rulings, the rules and choices added after the original ontology, can be derived after all,** from the primitives or from the other rules, so that the list of inputs shrinks (stated 24 October). More rulings are likely as the runs continue. Candidates so far:
+  - the undisturbed vacuum draws nothing (R5), from the earlier ruling that the vacuum never commits;
+  - holes are stable (R11), from "commitments are never undone" together with a cold core (the core's state is open, §5);
+  - infalling matter commits at about 2p_s (R11), from the presence clock (R2).
 - Whether CO's event layer itself charges twist across ticks.
 - What sources Λ. Under R5 the rules give Λ = 0, while Λ is observed to be small and positive; it is taken from data as an input.
 - Whether the universe as a whole has finitely many places (the no-infinities principle, §1, read globally). If it does, space closes on itself, and searches of the CMB for repeated patterns bound how small it can be.

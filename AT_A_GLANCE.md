@@ -31,6 +31,8 @@ The world is made of **commitments**: irreversible updates at places. Time at a 
 - black holes are stable (Run 68);
 - the undisturbed vacuum draws nothing, and energy is measured from it (24 October).
 
+Whether any of these can be derived after all, from the primitives or the other rules, is an open question ([`ONTOLOGY.md`](ONTOLOGY.md) §7).
+
 **Scales and constants set by data, not by the ontology:** p_s ≳ 4×10⁵ units per place, and P∞/p_s ≳ 1.6–1.9×10⁵, the second from the pulsar triple PSR J0337+1715 (Runs 24, 66); and Λ, since the rules give Λ = 0.
 
 The full list, with what each input buys, is at the top of [`ONTOLOGY.md`](ONTOLOGY.md).

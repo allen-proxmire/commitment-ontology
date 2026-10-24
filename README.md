@@ -23,7 +23,7 @@ Every run in the record tests a consequence of those rules against a measurement
 - **Verdicts are reported as registered:** PASS / FAIL / UNDECIDED. Post hoc work is labelled as such.
 - **An independent agent re-checks every run,** often with its own code. Its corrections go in the record, even when they overturn a result.
 - **Inputs borrowed from standard physics are tracked,** not hidden.
-- **Rulings are recorded where they are made,** with what they buy, what they cost, and what would send them back.
+- **Rulings, the rules and choices added after the original ontology when a run raised a question it did not address, are recorded where they are made,** with what they buy, what they cost, and what would send them back. Whether any can be derived after all, from the primitives or the other rules, is an open question.
 
 ## Where things are
 - **`writeups/commitment_ontology_simulations.md`** is the full record, and the authoritative version of everything here. It holds:
