@@ -162,6 +162,8 @@ If this holds, Notes F and G, Run 79 and Run 11b are one question: the relations
 
 *Note added 24 October, after Run 84.* **H1 (Run 84, Kuhn lattice, the corner-metric kinetic form):** passes at the linear level. With N0, GR's route carries exactly the two TT modes with ω² = |δ|² at every k, |δ|² = Σ4sin²(k_a/2), and the Hamiltonian constraint is first class; the khronometric route is healthy exactly when α < 2ξ, as in the continuum. The lapse coupling is Regge's own end-average coupling. The open questions move to second order (whether the linear gauge symmetry survives in the cubic action), a parity-even construction, and H3–H5. The face-centred complex is no longer needed at the linear level.
 
+*Note added 24 October, after Run 85.* **Second order, {H, H} (Run 85):** at the first nonlinear order the Hamiltonian constraints close onto the momentum constraints, {H[N], H[M]} = D[ξU] with U_a = N(x)M(x+e_a) − M(x)N(x+e_a), once each shear term's kinetic energy is timed by the lapse averaged along its face diagonal (D4). The check showed that on this kinetic form at λ = 1 that closure is equivalent to Run 84's linear first-class structure, so it adds no independent evidence. The decisive test is {H, D} with {D, D}: one local field-dependent sliding for both. It needs N0′ (the body diagonal fixed by its N = 1 equation).
+
 **7. What would be derived, and what chosen.** If H1–H4 pass:
 - **Derived:**
   - from sliding with the momentum constraint: no vector or longitudinal waves;

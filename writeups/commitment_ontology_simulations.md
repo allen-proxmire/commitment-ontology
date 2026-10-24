@@ -1,7 +1,7 @@
 # Commitment Ontology: Lattice Simulation Record
 
 **Date:** 15–24 October 2026
-**Scope:** simulation Runs 1–84 (with 72b and 81b) testing whether the commitment / bandwidth ontology, written as the stability landscape Σ (Primitive 12), reproduces gravity, and where it stops working.
+**Scope:** simulation Runs 1–85 (with 72b and 81b) testing whether the commitment / bandwidth ontology, written as the stability landscape Σ (Primitive 12), reproduces gravity, and where it stops working.
 **Code and raw data:** the `*_run.zip` bundles from the session (one per run), listed in the [file index](#file-index).
 **The ontology tested, as it now stands:** stated on one page in the repository's `ONTOLOGY.md` (rules, rulings with dates, what is derived, ruled or borrowed, predictions, open questions). §3 records how each rule was reached.
 
@@ -103,6 +103,7 @@
 | 82 | The speed of the relations' stretch waves in a well (Note H, test H2): the TT wave equation from N√γ[K_ijK^ij + ξR] with the restoring energy written in the medium's space γ̃ (i) or in physical space g = N⁻²γ̃ (ii), against light's (R6), by Shapiro delay (a calculation; registered) | **K82a FAIL, K82b FAIL, K82c FAIL, K82d FAIL** on their 10⁻³ tolerances: leapfrog dispersion (+1.9%, post hoc → 0 as (kΔx)²) and second-order U² terms in the registered statistic (0.004–0.015 at M/b = 0.02, a design error). Physics as predicted: (i) carries half light's delay, γ_GW − γ_EM = −1, excluded by GW170817 (3.8×10⁶ times the bound); (ii) is light's equation, Δγ = 0. The check: the test fixes the cone, not the space; the second factor of N may sit in the space, the stiffness (ξ = N²) or the clock (K = ḣ/2N², gated by ticks and free capacity as light is) |
 | 83 | The normal modes of a lattice of relations that carry their own stretch (Note H, test H1): Kuhn-triangulated cubic lattice, Regge's energy, per-tetrahedron DeWitt kinetic form, shift and lapse; GR's route (both constraints per place) and the khronometric route (healthy α), with health boundaries (a calculation; registered) | **K83a–g all FAIL as registered**; the registered solver lost precision at small k and leaked spurious shift solutions (K83d, e, g fail only on that). Physics (the check's 50-digit spectra): both routes carry exactly two TT modes at c² = 1 in all 16 directions; the khronometric route's long wavelengths are the continuum's (scalar at Hořava's speed; non-metric mode gapped at ω² = 6, healthy), but for λ > 1 the khronon is unstable above |k| ≈ √(2(λ−1)/μ_L), wavelengths ≈ 2.1/√(λ−1) spacings; λ < 1/3 healthy throughout. GR's route fails at long wavelengths off a cone of directions, from the end-average lapse coupling's non-metric content; a tuned local lapse weighting removes that (post hoc). The kinetic form (μ_L ≠ 0) is the common root |
 | 84 | A kinetic form that keeps GR's constraint structure exactly on the lattice (Note H, test H1, second attempt): Kuhn lattice, Regge's energy, the corner-metric DeWitt form (the metric of the relations arriving at a place), Regge's end-average lapse coupling; GR's route and the khronometric route, without (N0) and with (N1) inertia for the body diagonal, health boundaries, and Run 83's form with the Run 83 check's tuned lapse (a calculation; registered) | **K84a–c (GR's route, N0 and N1) PASS; K84d–e (khronometric) PASS; K84f–h PASS; K84i FAIL, as expected.** The check: N0 is exact, ω² = c²\|δ\|² for every branch at every k, with \|δ\|² = Σ4sin²(k_a/2); the lapse coupling equals Regge's end-average coupling exactly; an exact Regge identity, q_w†Vq_w = −4\|δ\|², makes the khronometric route healthy exactly when α < 2ξ, as in the continuum; first class in the full linear Dirac sense. N1's body-diagonal inertia vanishes on a closed curve at \|k\| ≥ 4 (4 → 3 modes, the gapped mode's ω² → ∞, nothing negative). K84c, K84f and the C0 clause of K84h hold by construction |
+| 85 | GR's constraint algebra at the first nonlinear order on Run 84's lattice (Note H, second order): the bracket {H[N], H[M]} of Run 84's GR route (N0, λ = 1) in vertex-metric variables, for three natural ways the lapse multiplies the kinetic energy (D1–D3) and any local way within one or two spacings (G1, G2) (a calculation; registered) | **K85a–c (D1, D2, D3) FAIL** (ρ ∝ \|k\|, an O(ka) defect); **K85d–e: a closing local dressing EXISTS** (against the registered expectation). Post hoc and the check: the dressing is unique up to canonical transformations (D4: each shear term timed by the lapse averaged along its face diagonal), and the bracket is {H[N], H[M]} = D[ξU], U_a = N(x)M(x+e_a) − M(x)N(x+e_a), from an exact twisted Leibniz rule. The check: on this kinetic form at λ = 1 this closure is equivalent to Run 84's linear first-class structure, so it adds no independent evidence; N0's body diagonal is ill-defined beyond first order (use N0′); at O(∇N), Regge's second-order energy transforms as a scalar density. The decisive test is {H, D} with {D, D} |
 
 ## Where the record stands: a consilience reading
 
@@ -8376,6 +8377,8 @@ If this holds, Notes F and G, Run 79 and Run 11b are one question: the relations
 
 *Note added 24 October, after Run 84.* **H1 (Run 84, Kuhn lattice, the corner-metric kinetic form):** passes at the linear level. With N0, GR's route carries exactly the two TT modes with ω² = |δ|² at every k, |δ|² = Σ4sin²(k_a/2), and the Hamiltonian constraint is first class; the khronometric route is healthy exactly when α < 2ξ, as in the continuum. The lapse coupling is Regge's own end-average coupling. The open questions move to second order (whether the linear gauge symmetry survives in the cubic action), a parity-even construction, and H3–H5. The face-centred complex is no longer needed at the linear level.
 
+*Note added 24 October, after Run 85.* **Second order, {H, H} (Run 85):** at the first nonlinear order the Hamiltonian constraints close onto the momentum constraints, {H[N], H[M]} = D[ξU] with U_a = N(x)M(x+e_a) − M(x)N(x+e_a), once each shear term's kinetic energy is timed by the lapse averaged along its face diagonal (D4). The check showed that on this kinetic form at λ = 1 that closure is equivalent to Run 84's linear first-class structure, so it adds no independent evidence. The decisive test is {H, D} with {D, D}: one local field-dependent sliding for both. It needs N0′ (the body diagonal fixed by its N = 1 equation).
+
 **7. What would be derived, and what chosen.** If H1–H4 pass:
 - **Derived:**
   - from sliding with the momentum constraint: no vector or longitudinal waves;
@@ -8891,6 +8894,154 @@ $$
    - **H3:** the source, matter's conserved stress radiating through this lattice, against the quadrupole formula. **H4:** the static field to second order (β). **H5:** a one-way stochastic engine whose average is this dynamics and which keeps both constraints every tick.
    - The face-centred complex no longer answers an open question at the linear level.
 7. **Run 83's tuned lapse fails, as registered.** The repair had to be in the kinetic form.
+
+### Run 85: GR's constraint algebra at the first nonlinear order on Run 84's lattice (Note H, second order; a calculation)
+
+*24 October 2026.*
+- *Registered and hashed before the run (`modes85/PREREG_85.md`, with the code and the validation outputs; 11:40:05 UTC).*
+- *Validation beforehand was structural:*
+  - *agreement with Run 84's objects;*
+  - *the linear gauge and time-reparametrisation relations;*
+  - *the bracket formula, checked in real space on an unregistered dressing;*
+  - *the continuum analog;*
+  - *the least-squares search, on a toy with a known answer.*
+
+  *A dry run's outputs were deleted unread.*
+- *After the run, a post hoc analysis described the closing dressings and probed the test's sensitivity; it is labelled post hoc.*
+- *An independent agent checked the run with its own fully nonlinear construction (below). Its corrections are adopted.*
+
+**Question.** Run 84 gave GR's route a healthy linear realisation on the Kuhn lattice, with the Hamiltonian constraint first class at linear order. In the continuum, what singles out GR is that the constraints keep closing beyond linear order:
+$$
+\{H[N],H[M]\}=D\big[\gamma^{ij}(N\partial_jM-M\partial_jN)\big].
+$$
+On lattices this generically fails (Bahr & Dittrich 2009). **At the first nonlinear order, does the bracket of two smeared Hamiltonian constraints of Run 84's GR route (N0, λ = 1) close onto the momentum constraints?**
+
+**The canonical form.**
+- **Variables.** The vertex metric h(x) and its momentum π(x), six of each per place. h(x) is read from the six relations arriving at x:
+$$
+h_{aa}(x)=2q_a(x-e_a),\qquad h_{ab}(x)=q_{ab}(x-e_a-e_b)-q_a(x-e_a)-q_b(x-e_b).
+$$
+  - The map from relations is local and invertible.
+  - In N0 the body diagonal is auxiliary.
+  - In these variables Run 84's kinetic energy is ultralocal: T = Σ_x ½ḣᵀKḣ = Σ_x ¼[ḣ:ḣ − (tr ḣ)²].
+- **The smeared Hamiltonian constraint:**
+$$
+H[N]=\sum_x\tfrac12\sum_{kl}\pi_k\pi_l\,(\Omega_{kl}N)(x)\;-\;\xi\sum_e\bar N_e\,2\ell_e\varepsilon_e,\qquad(\Omega_{kl}N)(x)=\sum_rw_{kl}(r)\,N(x+r),\qquad\sum_rw(r)=K^{-1}.
+$$
+  - The potential term is Regge's energy with Run 84's end-average lapse.
+  - **The dressing** w, how the lapse multiplies the kinetic energy, is the one new choice at this order. At N = 1 every dressing gives Run 84's theory.
+- **The bracket at the first nonlinear order.** With N = e^{ik·x} and M = e^{ik′·x}, to first order in the fields:
+$$
+\{H[N],H[M]\}=-\xi\sum_x\pi(x)\cdot B(k,k')\,e^{i(k+k')\cdot x},\qquad B(k,k')=\hat\Omega(k')\hat C(k)-\hat\Omega(k)\hat C(k').
+$$
+  - Ĉ is the lapse coupling's symbol in h.
+  - The bracket closes onto the linear momentum constraints D[u] = Σπ·δh(u) exactly when B(k, k′) lies in range Ĝ(k + k′), the symbol of sliding.
+  - At k′ = −k that range is {0}, so B(k, −k) must vanish.
+- **The residual:**
+$$
+\rho=\frac{\|P_\perp B\|}{\|K^{-1}\|_2\,\big(\|\hat C(k)\|+\|\hat C(k')\|\big)},
+$$
+  with P⊥ the projector onto the complement of range Ĝ.
+
+**The dressings.**
+- **D1:** the lapse at the place of the vertex metric (GR's ultralocal form).
+- **D2:** Run 84's literal per-place density, with the lapse at its place.
+- **D3:** each kinetic monomial with the lapse averaged over the places its relations touch.
+- **G1 and G2:** any local dressing within one or two spacings (546 and 2604 free parameters), fitted by least squares on 1,900 pairs and tested on 1,200 held-out pairs.
+
+**Point sets and kill rules.**
+- **Pairs:**
+  - 2000 random pairs;
+  - 300 with k′ = −k;
+  - 300 with k′ near −k (10⁻³–10⁻¹);
+  - rays at |k|, |k′| = 0.01–0.32, along 50 direction pairs, and along 50 directions with k′ = −k;
+  - 500 fresh pairs.
+- **A fixed dressing closes** if max ρ ≤ 10⁻⁹.
+- **A local dressing exists** if the fitted one gives max ρ ≤ 10⁻⁸ on both the fit set and the held-out sets.
+
+**Verdicts.**
+
+| test | prediction | registered result | physics (the check) |
+|---|---|---|---|
+| **K85a, D1** | FAIL: at k′ = −k, B = 2iK⁻¹ Im Ĉ(k) ≠ 0, because h reads the relations *arriving* at a place | **FAIL.** max ρ = 0.34; ρ ∝ s^1.00. The k′ = −k identity holds exactly | **FAIL.** The defect is the shear lapse, offset by half a plaquette diagonal |
+| **K85b, D2** | FAIL | **FAIL.** max ρ = 0.56; ρ ∝ s^1.00 | **FAIL** |
+| **K85c, D3** | no prediction | **FAIL.** max ρ = 0.25; ρ ∝ s^1.00 | **FAIL** |
+| **K85d, G1 (radius 1)** | NOT FOUND (held loosely) | **EXISTS.** ρ ≤ 1.0×10⁻¹⁵ on the fit set, 8.8×10⁻¹⁶ held out | **EXISTS.** Its bracket is identical to D4's (below) |
+| **K85e, G2 (radius 2)** | NOT FOUND (held loosely) | **EXISTS** | **EXISTS**, the same bracket |
+
+The registered expectation for G1 and G2 was wrong. It rested on the no-go theorem for lattice Leibniz rules (Kato, Sakamoto & So 2008). That theorem does not cover the *twisted* rule used here.
+
+![Run 85](../figures/85_algebra.png)
+
+**The closing dressing (post hoc, confirmed by the check).**
+1. **D4.**
+   - Products of the axis stretches (π_aaπ_bb, π_aa²) take the lapse at x.
+   - Each shear term π_ab² takes the lapse averaged over the two ends of its face diagonal, ½[N(x) + N(x − e_a − e_b)].
+
+   In the Lagrangian, at λ = 1:
+$$
+T=\sum_x\Big[-\frac{1}{2N(x)}\sum_{a<b}\dot h_{aa}\dot h_{bb}+\sum_{a<b}\frac{\dot h_{ab}^2}{N(x)+N(x-e_a-e_b)}\Big]+O(n^2).
+$$
+   D4 closes on 3,000 fresh pairs, including pairs with k′ within 10⁻⁶ of −k, to 1.3×10⁻¹⁵.
+2. **It is the only one, up to canonical transformations (the check).**
+   - The closing dressings in the radius-1 box form a 56-dimensional family. 56 = dim Sym³(ℝ⁶): the family is D4's orbit under the ultralocal canonical transformations generated by Σ_x ⅙T_klj π_kπ_lπ_j.
+   - Every member gives the same bracket. The registered G1 is D4 plus such terms, to 6×10⁻¹⁵.
+3. **Why it exists: two exact identities (the check).**
+   - The lapse coupling is a lattice Hessian. With (Δ⁺N)_a(x) = N(x + e_a) − N(x):
+$$
+C^\dagger N=K\,\Gamma(\Delta^+N).
+$$
+     Here Γ is sliding, so 𝓗 = ΓΔ⁺ is the second-difference operator. Each diagonal second difference is centred at x; each shear difference is a plaquette centred at x − (e_a + e_b)/2. This is the vertex-metric form of Run 84's c_G = Ggδ = c_ends.
+   - A twisted discrete Leibniz rule, exact:
+$$
+\Gamma(U)=(\mathcal AN)\,\mathcal HM-(\mathcal AM)\,\mathcal HN,\qquad U_a(x)=N(x)M(x+e_a)-M(x)N(x+e_a),
+$$
+     where 𝒜 places the lapse at the centre of each second difference. D4 is Ω = 𝒜K⁻¹.
+   - So, with GR's sign and a local structure function:
+$$
+\{H[N],H[M]\}=D[\xi U],\qquad U\to\xi\,(N\nabla M-M\nabla N).
+$$
+4. **What the test discriminates.**
+   - **On Run 84's kinetic form at λ = 1, first-order {H, H} closure is equivalent to the Hamiltonian constraint being first class at linear order (the check).**
+     - Setting M = 1 gives B(k, 0) = K⁻¹Ĉ(k) ∈ range Ĝ(k), which is Run 84's linear condition.
+     - Conversely, linear first-class structure forces Ĉ = φĈ₀ with φ local, and D4 composed with φ closes it.
+   - **So K85d–e follow from Run 84. They are not independent evidence of nonlinear consistency.**
+   - **λ ≠ 1:** no dressing of any range closes the algebra (residual about 0.03 at λ = 1.1, 4×10⁻⁴ at λ = 1.001). The reason is linear: the shift has no zero-kinetic direction.
+   - **The other two probes are trivial.**
+     - A smeared coupling is closed by D4 with the lapse relabelled.
+     - A randomly perturbed, non-gauge-invariant coupling closes only because Ĉ(0) ≠ 0, which permits a dressing with B ≡ 0. Such a coupling already fails {H, D} at zeroth order.
+
+**What else the check found.**
+1. **The bracket formula holds in a fully nonlinear construction.** The check's construction has √γ and γ⁻¹ in the kinetic term, two different lapse completions, Regge's full energy and three treatments of the body diagonal. Poisson brackets computed explicitly at small random fields agree with the formula to 10⁻¹²–10⁻¹⁶. The bracket's second-order part is present and of order one, and it differs between completions, as expected.
+2. **N0's body diagonal is fine at this order but ill-defined beyond it.**
+   - Its own equation depends on the lapse. The eight corner conditions on one body diagonal have rank 5, and the equation is singular when the lapse contrast inside a cube exceeds 5/3.
+   - Higher orders need **N0′**, the body diagonal fixed by its N = 1 equation, β := β₁(h); or N1.
+3. **A first probe of {H, D}.**
+   - **At first order in lapse gradients,** Regge's second-order energy with the end-average lapse transforms exactly as a scalar density, with GR's coefficient and no lattice phase:
+     $$\delta_uE^{(2)}_N=-E^{(1)}_{u\cdot\nabla N}+O(\nabla^2N).$$
+     That is the part no local field-dependent sliding could repair.
+   - **The O(∇²N) remainder** lies in the ideal generated by Ĉ, so a local field-dependent sliding exists that closes {H, D} on its own.
+   - **Whether one sliding also closes {D, D}** is open. Thirteen natural candidates close neither.
+4. **Literature.**
+   - Discrete hypersurface-deformation algebras are known for 3D gravity, and for flat or homogeneously curved 4D sectors (Bonzom & Dittrich 2013).
+   - Diffeomorphism symmetry of generic discretisations breaks at higher orders (Bahr & Dittrich 2009; Dittrich & Höhn 2013; Höhn 2014).
+   - Shifted Leibniz rules become order-dependent for products of several fields (Bruckmann, Catterall & de Kok 2006), which bears on the next order.
+   - Not found in any source checked: a Regge-type metric lattice closing {H, H} at first nonlinear order through a lapse dressing.
+
+**Reading.**
+1. **GR's route passes the first nonlinear test on this lattice, but the test turns out to add nothing to Run 84.**
+   - The natural dressings fail at O(ka).
+   - D4, which times each shear term by the lapse averaged along its face diagonal, closes the algebra exactly, with GR's structure function in lattice form.
+   - On this kinetic form that closure is guaranteed by Run 84's linear result. Run 85 therefore establishes the lattice's *form* at this order: which dressing, and why (a twisted Leibniz rule). It does not supply new evidence of consistency.
+2. **The decisive test is {H, D} and {D, D} together,** in N0′.
+   - Does one local field-dependent sliding close both brackets, with structure functions tending to −u·∇N and the Lie bracket?
+   - The O(∇N) part of {H, D} already passes exactly. What remains are two components per wavevector of {D, D}.
+   - This is the first test at this order whose outcome Run 84 does not fix. Failure is possible: Regge-type gauge symmetries are known to break beyond linear order.
+   - If it fails, the khronometric route becomes the operative one. That route needs only one global time and sliding, not {H, H} closure.
+3. **What is chosen, not derived.**
+   - D4's shear timing echoes the potential's end-average lapse, but CO's rules do not yet pick it.
+   - N0′'s body diagonal is a definition.
+4. **Limits.** One bracket, at the first nonlinear order, around a flat background, on one triangulation. The lapse coupling is fixed at Run 84's.
 
 ## 3. What the record says about the ontology
 
@@ -9597,6 +9748,7 @@ That last condition is also gravity's weakness: matter is light compared with th
 | 82 | speed82.py: 1D leapfrog for ∂_t(a u_t) = ∂_x(β u_x), with (a, β) for light (R6), (i), (ii) and γ_s = 0, 0.5, 1 in U = M/√(x² + b²), M = 1, b = 50; Δx = 0.25, CFL 0.4 | Gaussian packet k = 1, σ = 12 over ±2000; delay from the envelope peak against a flat run; post hoc: five resolutions, kΔx 0.25–0.031 | registration and script hashed before the run; independent agent (bit-for-bit rerun, exact eikonal integrals, discrete group-slowness prediction of every delay to 9×10⁻⁵, estimator bias tests, finite-difference check of the action reduction, the GW170817 bounds) |
 | 83 | lattice83.py: Kuhn tetrahedra, Regge Hessian by complex-step dihedral Jacobians, per-tet DeWitt kinetic form, P1 lapse gradients, Fourier assembly; solver83.py: gauge quotient, constraint restriction, generalised-eigenvalue pencil with the shift kept | 16 directions × |k| = 0.004–0.032; Brillouin zone 12³ grid + 2000 random k; nine cases | registration hashed with code, theory and validation (structural identities; solver on the continuum system; dry run deleted unread); post hoc Hamiltonian reduction; independent agent (own implementation to 10⁻¹⁴, 50-digit spectra, solver error budget, zone scans, lapse-weighting probes, closed forms for the gap, b(k̂) and μ_L, literature) |
 | 84 | lattice84.py: the corner metric M_h (6×7), the DeWitt form with the arriving trace, N1 inertia ν = −(1/14)v†DAD, c_G = ξG₁gδ, κ = \|δ\|²; Regge Hessian and gauge vectors from lattice83; solver84.py: shift eliminated by Schur complement with the zero-kinetic direction dropped, constraints and the auxiliary eliminated exactly, eigh on (U, K); 'ham' (W = Q†G⁻¹Q, first-class-safe Dirac step) for Run 83's form | 255 directions × \|k\| = 0.005–0.04; zone: 12³ grid + 2000 random k + shells 0.05–0.8 (5002 points); 17 cases | registration hashed with code, theory and validation (structural identities; the solver against Run 83's 50-digit spectra and the continuum; blind comparisons, 'lag' against 'ham' and float64 against 50 digits, printing only discrepancies; dry run deleted unread); independent agent (own construction from the arriving vertex metric, own Dirac reduction, 50-digit Cholesky and Jacobi spectra, 3,552 directions, 22,031 zone points, 75,204 inertia points, the ν₇ = 0 curve, a near-miss construction, symmetries, literature) |
+| 85 | lattice85.py: periodic Kuhn lattice in real space, deficit angles by complex step, the vertex-metric map, the lapse-coupling and sliding stencils; theory85.py: the bracket symbol B(k,k′), the residual off range Ĝ, the dressings D1–D3, least squares over local dressings | 2000 random pairs, 300 at k′ = −k, 300 near it, rays at \|k\| = 0.01–0.32 (100 directions), 500 fresh; λ = 1, N0 | registration hashed with code and validation (agreement with Run 84's objects; linear gauge and time-reparametrisation relations; real-space check of the bracket formula on an unregistered dressing; the continuum analog; a toy with a known answer; dry run deleted unread); post hoc: the family of closing dressings, a sparse member D4, its structure function, λ and coupling probes; independent agent (own fully nonlinear construction with √γ, γ⁻¹ and three body-diagonal treatments, explicit Poisson brackets, the identities C†N = KΓ(Δ⁺N) and the twisted Leibniz rule, the canonical-transformation family, the equivalence with linear first class, the N0 auxiliary beyond first order, a first {H, D} probe, literature) |
 
 Units are lattice units throughout. Wave speed $v=1$. Cluster masses: $M=0.8\pi$ (A = 0.1) for Runs 3–6, and $M_A=0.25$, $M_B=0.5$ for Runs 7–8, chosen so the cadence deficit stays a few percent.
 
@@ -9689,3 +9841,4 @@ The code and data for each run were delivered as separate bundles:
 | 82 | `speed82_run.zip` | 82_speed |
 | 83 | `modes83_run.zip` | 83_modes |
 | 84 | `modes84_run.zip` | 84_corner |
+| 85 | `modes85_run.zip` | 85_algebra |

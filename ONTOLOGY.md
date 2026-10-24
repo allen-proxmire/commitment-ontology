@@ -1,6 +1,6 @@
 # The commitment ontology, as it stands
 
-Allen Proxmire · 24 October 2026 · after Runs 1–84 (with 81b) of the lattice record
+Allen Proxmire · 24 October 2026 · after Runs 1–85 (with 81b) of the lattice record
 
 This page states, in one place, what the lattice record tests: the commitment ontology's rules as they stand today. For each rule it gives:
 - its formula;
@@ -78,7 +78,7 @@ Everything that goes in, and what each input buys. Rules and rulings are inputs 
 | input | kind, date | what it buys |
 |---|---|---|
 | A cubic lattice, nearest-neighbour relations, one global hop rate | engine | most runs |
-| Note H's carrier: a Kuhn-triangulated lattice with Regge's energy, the corner-metric kinetic form for the relations' stretch, and Regge's end-average lapse coupling | construction, Runs 83–84 | GR's two polarisations, healthy at the linear level (Run 84) |
+| Note H's carrier: a Kuhn-triangulated lattice with Regge's energy, the corner-metric kinetic form for the relations' stretch, and Regge's end-average lapse coupling; at the first nonlinear order, each shear term's kinetic energy timed by the lapse averaged along its face diagonal | construction, Runs 83–85 | GR's two polarisations, healthy at the linear level (Run 84); GR's constraint algebra at the first nonlinear order (Run 85) |
 
 **Not yet used by any run**
 
@@ -436,6 +436,7 @@ $$
 | 82 | the speed of the relations' stretch waves in a well: which formulation gives light's cone (a calculation) |
 | 83 | the normal modes of a lattice of relations carrying their own stretch: mode count, speed and stability on both routes (a calculation) |
 | 84 | a kinetic form for the relations that keeps GR's constraint structure exactly: both routes healthy at the linear level (a calculation) |
+| 85 | GR's constraint algebra at the first nonlinear order on that lattice: how the lapse must multiply the kinetic energy (a calculation) |
 
 ---
 
@@ -494,6 +495,15 @@ $$
       - Giving the body diagonal its own inertia (N1) fails on a closed curve near the zone corners, where that inertia vanishes and the extra mode's frequency diverges. N0 is the version to carry forward.
       - The kinetic form is constructed, not derived, and it breaks lattice inversion (mirrors are kept). Everything is linear, around flat space.
       - **Next:** whether the linear gauge symmetry survives at second order (the cubic action), where Regge-type lattices are known to fail; a parity-even construction; then H3 (the source), H4 (β) and H5 (a one-way engine).
+    - **Second order, the {H, H} bracket (Run 85):**
+      - At the first nonlinear order the Hamiltonian constraints close onto the momentum constraints,
+$$
+\{H[N],H[M]\}=D[\xi U],\qquad U_a(x)=N(x)M(x+e_a)-M(x)N(x+e_a)\;\to\;\xi\,(N\nabla M-M\nabla N),
+$$
+        once each shear term's kinetic energy is timed by the lapse averaged along its face diagonal. The three natural timings fail at O(ka). The closing one is unique up to canonical transformations, and works through an exact twisted Leibniz rule.
+      - **It adds no independent evidence (the check):** on this kinetic form at λ = 1, this closure is equivalent to Run 84's linear first-class structure. No timing closes it at λ ≠ 1.
+      - N0's body diagonal is ill-defined beyond first order; higher orders need it fixed by its N = 1 equation (N0′), or N1.
+      - **Next, the decisive test:** whether one local field-dependent sliding closes both {H, D} and {D, D} at this order. Regge's second-order energy already transforms as a scalar density at first order in the lapse's gradient (the check). If no sliding works, the khronometric route, which needs only one global time and sliding, is the consistent nonlinear form on this lattice.
 - Deriving the borrowed inputs: Lorentz invariance (including twist across ticks) and inertia = total energy.
 - Whether CO's event layer itself charges twist across ticks.
 - What sources Λ. Under R5 the rules give Λ = 0, while Λ is observed to be small and positive; it is taken from data as an input.
