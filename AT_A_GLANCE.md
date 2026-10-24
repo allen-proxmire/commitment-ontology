@@ -10,8 +10,8 @@ The world is made of **commitments**: irreversible updates at places. Time at a 
 
 ## What goes in
 
-**The ontology's own rules,** in the forms chosen for the engine:
-- commitments are never undone, and the vacuum never commits (15 October; Run 14);
+**Added to the primitives: the rules, in the forms chosen for the engine:**
+- the vacuum never commits (15 October; Run 14). That commitments are never undone is the primitive itself;
 - no infinities: every physical quantity is finite (stated 23 October, adopted 24 October);
 - possibility's outflow is f(P) = c ln(1 + P/p_s), linear below a crossover p_s and comparing ratios above it (18 October; chosen so that β = 1; Runs 21–26);
 - the presence clock: a commitment holds until a fixed amount of possibility has been present at its places (18 October; Runs 22–24);
@@ -25,13 +25,13 @@ The world is made of **commitments**: irreversible updates at places. Time at a 
 - **inertia = total energy** for compact bodies (20 October; Runs 52, 55);
 - **option A:** GR's exterior for merging black holes (19–20 October).
 
-**Rules and choices not in the original ontology** (added when the runs raised questions the original rules did not address):
+**Added later, when the runs raised questions the rules above did not address:**
 - infalling matter commits where possibility falls to about 2p_s per place (Runs 71, 73–74);
 - frame dragging is possibility's own flow (Run 69);
 - black holes are stable (Run 68);
 - the undisturbed vacuum draws nothing, and energy is measured from it (24 October).
 
-Whether any of these can be derived after all, from the primitives or the other rules, is an open question ([`ONTOLOGY.md`](ONTOLOGY.md) §7).
+None of these added inputs is in the original ontology. Whether any can be derived after all, from the primitives or the other added inputs, is an open question ([`ONTOLOGY.md`](ONTOLOGY.md) §7).
 
 **Scales and constants set by data, not by the ontology:** p_s ≳ 4×10⁵ units per place, and P∞/p_s ≳ 1.6–1.9×10⁵, the second from the pulsar triple PSR J0337+1715 (Runs 24, 66); and Λ, since the rules give Λ = 0.
 

@@ -8,8 +8,9 @@ This page states, in one place, what the lattice record tests: the commitment on
 - the runs behind it.
 
 Some terms used throughout:
-- **Rulings** are rules and choices not in the original ontology. Each was added, with a date, when a run raised a question the original rules did not address. Whether any can be derived after all, from the primitives or the other rules, is open (§7, Foundations).
-- **Provisional** rulings are marked, with the grounds for going back where these were set in advance.
+- **Primitives** are the original ontology (§2): commitments, places and relations, possibility, matter, clocks, patterns and the record.
+- **Added** inputs are everything adopted after the primitives, whether called a rule or a ruling: rules and choices not in the original ontology, each added, with a date, when a run raised a question the primitives did not answer. The record calls the act of adding one a ruling. Whether any can be derived after all, from the primitives or the other added inputs, is open (§7, Foundations).
+- **Provisional** added inputs are marked, with the grounds for going back where these were set in advance.
 - **Borrowed:** an input taken from established physics, tracked rather than derived.
 
 The full record (`writeups/commitment_ontology_simulations.md`) holds the evidence for every statement here, and the history of what was tried and dropped. The engine is a model built from these rules, not the whole ontology. The project was formerly titled Event Density.
@@ -18,7 +19,7 @@ The full record (`writeups/commitment_ontology_simulations.md`) holds the eviden
 
 ## Inputs, in one list
 
-Everything that goes in, and what each input buys. The original primitives and rules, the rulings added along the way, and the borrowed pieces are all inputs: each could have been made differently. What comes out is in §4.
+Everything that goes in, and what each input buys. The primitives, the inputs added along the way, and the borrowed pieces are all inputs: each could have been made differently. What comes out is in §4.
 
 **The ontology**
 
@@ -27,30 +28,30 @@ Everything that goes in, and what each input buys. The original primitives and r
 | Commitments: irreversible updates at places; time at a place is their count | primitive | one-way time; clocks (Runs 29, 35, 37) |
 | Places and relations; sliding places costs nothing | primitive | space as who relates to whom; places can be relabelled freely |
 | Possibility: conserved, held at places, hopping between related places | primitive | Newton's unscreened 1/r² (Runs 1, 14) |
-| The vacuum never commits | ruling, 15 October (Run 14) | an unscreened field; the arrow lives in matter |
-| Clocks are matter | ruling, 15 October | redshift, with R2 |
-| No infinities | principle, stated 23 October, adopted 24 October | finite counts everywhere; no point of infinite density (§5, item 4) |
+| The vacuum never commits | added, 15 October (Run 14) | an unscreened field; the arrow lives in matter |
+| Clocks are matter | added, 15 October | redshift, with R2 |
+| No infinities | added (a principle), stated 23 October, adopted 24 October | finite counts everywhere; no point of infinite density (§5, item 4) |
 | Three dimensions of space | assumed | the lattice; where they come from is open (§7) |
 
 **The rules (§3)**
 
 | input | kind, date | what it buys |
 |---|---|---|
-| R1: outflow f(P) = c ln(1 + P/p_s) | rule, 18 October, provisional | β = 1, which it was designed for (Runs 21–26) |
-| R2: the presence clock, N = P/P∞ | rule, 18 October, provisional | gravitational redshift (Run 22) |
-| R4: the clock field fixed each tick; patterns ride possibility's flow | ruling, 19 October | a moving body keeps its well (Run 31); no preferred-frame effect from the flow (Run 34) |
-| R5: the variational draw, d = T(1 + g), T = (e + 3p)N√γ | rule, 19–20 October | the first law and passive = active mass (Runs 52–54); the Tolman pull is derived (Run 30) |
-| R5: a pattern's energy draws | ruling, 19 October | a bound system pulls by its energy (Runs 33, 36) |
-| R5: a body is in exact hydrostatic balance, N h(n) = μ̃ | rule correction, 20 October | static stars (Runs 49–50) |
-| R5: the undisturbed vacuum draws nothing; energy is measured from it | ruling, 24 October | quantum field theory's vacuum energy never enters gravity |
-| R6: a pattern hops on its place's ticks and needs free capacity there, so c = N² | rule, 17 October, provisional | γ = 1, put in by the rule's two factors (Runs 9, 17, 46) |
-| R6: massive patterns obey −N⁴∇²ψ + m²N²ψ = ω²ψ | rule, 20 October | quantum matter falls and draws as in GR (Runs 45–46) |
-| R8: bodies move as point particles, with action −m∫dτ | ruling, 20 October | orbits; binaries beyond first order (Run 63) |
-| R8: relations shear, and only the shear radiates | reading fixed in advance | binary-pulsar energy loss (Run 11b) |
-| R9: φ's stress, not U's, curves the medium's space | choice, Run 66 | β − 1 = −ε/[2(1 + ε)] |
-| R10: frame dragging is possibility's own flow (reading Z) | ruling, 21 October, provisional | Kerr outside spinning holes (Run 69) |
-| R11: the core commits what reaches it, where P = 2p_s | rulings, 19 and 21 October | no echoes; no singularity; a core at areal radius 3m (Runs 43, 73–74) |
-| R11: holes are stable | ruling, 21 October: "it follows from the rules with nothing added" | no evaporation (Runs 68, 71, 74) |
+| R1: outflow f(P) = c ln(1 + P/p_s) | added, 18 October, provisional | β = 1, which it was designed for (Runs 21–26) |
+| R2: the presence clock, N = P/P∞ | added, 18 October, provisional | gravitational redshift (Run 22) |
+| R4: the clock field fixed each tick; patterns ride possibility's flow | added, 19 October | a moving body keeps its well (Run 31); no preferred-frame effect from the flow (Run 34) |
+| R5: the variational draw, d = T(1 + g), T = (e + 3p)N√γ | added, 19–20 October | the first law and passive = active mass (Runs 52–54); the Tolman pull is derived (Run 30) |
+| R5: a pattern's energy draws | added, 19 October | a bound system pulls by its energy (Runs 33, 36) |
+| R5: a body is in exact hydrostatic balance, N h(n) = μ̃ | added (a correction), 20 October | static stars (Runs 49–50) |
+| R5: the undisturbed vacuum draws nothing; energy is measured from it | added, 24 October | quantum field theory's vacuum energy never enters gravity |
+| R6: a pattern hops on its place's ticks and needs free capacity there, so c = N² | added, 17 October, provisional | γ = 1, put in by the rule's two factors (Runs 9, 17, 46) |
+| R6: massive patterns obey −N⁴∇²ψ + m²N²ψ = ω²ψ | added, 20 October | quantum matter falls and draws as in GR (Runs 45–46) |
+| R8: bodies move as point particles, with action −m∫dτ | added, 20 October | orbits; binaries beyond first order (Run 63) |
+| R8: relations shear, and only the shear radiates | added (a reading fixed in advance) | binary-pulsar energy loss (Run 11b) |
+| R9: φ's stress, not U's, curves the medium's space | added, Run 66 | β − 1 = −ε/[2(1 + ε)] |
+| R10: frame dragging is possibility's own flow (reading Z) | added, 21 October, provisional | Kerr outside spinning holes (Run 69) |
+| R11: the core commits what reaches it, where P = 2p_s | added, 19 and 21 October | no echoes; no singularity; a core at areal radius 3m (Runs 43, 73–74) |
+| R11: holes are stable | added, 21 October: "it follows from the rules with nothing added" | no evaporation (Runs 68, 71, 74) |
 
 **Borrowed from GR or standard physics**
 
@@ -284,7 +285,7 @@ $$
 
 ---
 
-## 4. What is derived, what is ruled, what is borrowed
+## 4. What is derived, what is added, what is borrowed
 
 | Observed | How the ontology gets it | Runs |
 |---|---|---|
@@ -295,18 +296,18 @@ $$
 | Rest mass in a well pulls by its clock rate (Tolman) | **derived:** a body's pull is its ticking | 30 |
 | No preferred-frame effect from the flow (α₂ = ζ₁ = ξ = 0) | **derived** from conservation, given R4 and R8 | 34 |
 | Time runs one way; time-averaging shrinks the order | **derived:** commitments are never undone. Order in a clock's record falls about as 1/T, 26× down but not zero | 29, 35, 37 |
-| Light bending, Shapiro delay (γ = 1) | **ruled:** the pattern rule (R6) | 9, 17, 46 |
-| Mercury; β = 1; wells multiply | **ruled:** the medium and clock (R1–R2), designed for β = 1 | 22–26 |
+| Light bending, Shapiro delay (γ = 1) | **added:** the pattern rule (R6) | 9, 17, 46 |
+| Mercury; β = 1; wells multiply | **added:** the medium and clock (R1–R2), designed for β = 1 | 22–26 |
 | Clocks of different design agree; ζ₂; the pulsar triple | **scales chosen within data bounds:** p_s ≳ 4×10⁵, P∞/p_s ≳ 1.6–1.9×10⁵ | 23, 24, 30, 45, 48, 55, 57, 66 |
 | Bound and composite matter fall alike (MICROSCOPE) | **borrowed:** twist on loops that include a tick (R7), plus the full pattern rule | 18, 18b, 46–48, 52, 54 |
 | α₁, α₃, frame dragging, the Earth–Moon test | **borrowed:** the Lorentz input | 34 |
-| At weak field a bound system pulls by its total energy | **ruled** (pattern energy draws) **and borrowed** (momentum flux draws) | 36, 40c |
+| At weak field a bound system pulls by its total energy | **added** (pattern energy draws) **and borrowed** (momentum flux draws) | 36, 40c |
 | Internal binding pulls like rest mass (ζ₄) | **borrowed:** the Lorentz input in full form (stress pulls) | 42, 44, 49, 50 |
 | A compact body's inertia is its total energy | **borrowed** | 52, 55 |
-| Binary-pulsar energy loss | **ruled:** relations shear (a reading fixed in advance) | 11b |
-| Static black holes and neutron stars as GR's; ringdowns, shadows | **ruled:** option 3, plus reading Z for spin; before that, option A | 28, 39, 41, 65–67, 69 |
+| Binary-pulsar energy loss | **added:** relations shear (a reading fixed in advance) | 11b |
+| Static black holes and neutron stars as GR's; ringdowns, shadows | **added:** option 3, plus reading Z for spin; before that, option A | 28, 39, 41, 65–67, 69 |
 | Binary-black-hole inspirals and mergers | **borrowed:** option A | 63 (the ruling) |
-| Holes absorb, leave no echoes, are stable | **ruled:** the core commits, at 2p_s | 43, 67, 68, 71, 73, 74 |
+| Holes absorb, leave no echoes, are stable | **added:** the core commits, at 2p_s | 43, 67, 68, 71, 73, 74 |
 
 **The two scales are bounds from data, not predictions:**
 - p_s ≳ 4×10⁵ units per place, so that clocks agree to 10⁻⁶;
@@ -526,8 +527,8 @@ $$
         - Regge's third-order energy;
         - {D, D} and {H, H} at order πh.
 - Deriving the borrowed inputs: Lorentz invariance (including twist across ticks) and inertia = total energy.
-- **Whether any of the rulings, the rules and choices added after the original ontology, can be derived after all,** from the primitives or from the other rules, so that the list of inputs shrinks (stated 24 October). More rulings are likely as the runs continue. Candidates so far:
-  - the undisturbed vacuum draws nothing (R5), from the earlier ruling that the vacuum never commits;
+- **Whether any of the added inputs, the rules and choices adopted after the original ontology, can be derived after all,** from the primitives or from the other added inputs, so that the list of inputs shrinks (stated 24 October). More rulings are likely as the runs continue. Candidates so far:
+  - the undisturbed vacuum draws nothing (R5), from the earlier added input that the vacuum never commits;
   - holes are stable (R11), from "commitments are never undone" together with a cold core (the core's state is open, §5);
   - infalling matter commits at about 2p_s (R11), from the presence clock (R2).
 - Whether CO's event layer itself charges twist across ticks.
