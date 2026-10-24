@@ -1,6 +1,6 @@
 # The commitment ontology, as it stands
 
-Allen Proxmire · 24 October 2026 · after Runs 1–85 (with 81b) of the lattice record
+Allen Proxmire · 24 October 2026 · after Runs 1–86 (with 81b) of the lattice record
 
 This page states, in one place, what the lattice record tests: the commitment ontology's rules as they stand today. For each rule it gives:
 - its formula;
@@ -78,7 +78,7 @@ Everything that goes in, and what each input buys. Rules and rulings are inputs 
 | input | kind, date | what it buys |
 |---|---|---|
 | A cubic lattice, nearest-neighbour relations, one global hop rate | engine | most runs |
-| Note H's carrier: a Kuhn-triangulated lattice with Regge's energy, the corner-metric kinetic form for the relations' stretch, and Regge's end-average lapse coupling; at the first nonlinear order, each shear term's kinetic energy timed by the lapse averaged along its face diagonal | construction, Runs 83–85 | GR's two polarisations, healthy at the linear level (Run 84); GR's constraint algebra at the first nonlinear order (Run 85) |
+| Note H's carrier: a Kuhn-triangulated lattice with Regge's energy, the corner-metric kinetic form for the relations' stretch, and Regge's end-average lapse coupling; at the first nonlinear order, each shear term's kinetic energy timed by the lapse averaged along its face diagonal, and a field-dependent sliding reaching one place in every direction | construction, Runs 83–86 | GR's two polarisations, healthy at the linear level (Run 84); GR's constraint algebra, all three brackets, at the first nonlinear order (Runs 85–86) |
 
 **Not yet used by any run**
 
@@ -437,6 +437,7 @@ $$
 | 83 | the normal modes of a lattice of relations carrying their own stretch: mode count, speed and stability on both routes (a calculation) |
 | 84 | a kinetic form for the relations that keeps GR's constraint structure exactly: both routes healthy at the linear level (a calculation) |
 | 85 | GR's constraint algebra at the first nonlinear order on that lattice: how the lapse must multiply the kinetic energy (a calculation) |
+| 86 | the rest of that algebra, {H, D} and {D, D}, at the same order: whether one local field-dependent sliding closes both (a calculation) |
 
 ---
 
@@ -503,7 +504,26 @@ $$
         once each shear term's kinetic energy is timed by the lapse averaged along its face diagonal. The three natural timings fail at O(ka). The closing one is unique up to canonical transformations, and works through an exact twisted Leibniz rule.
       - **It adds no independent evidence (the check):** on this kinetic form at λ = 1, this closure is equivalent to Run 84's linear first-class structure. No timing closes it at λ ≠ 1.
       - N0's body diagonal is ill-defined beyond first order; higher orders need it fixed by its N = 1 equation (N0′), or N1.
-      - **Next, the decisive test:** whether one local field-dependent sliding closes both {H, D} and {D, D} at this order. Regge's second-order energy already transforms as a scalar density at first order in the lapse's gradient (the check). If no sliding works, the khronometric route, which needs only one global time and sliding, is the consistent nonlinear form on this lattice.
+      - The check named the decisive test: whether one local field-dependent sliding closes both {H, D} and {D, D} at this order (Run 86).
+    - **Second order, {H, D} and {D, D} (Run 86):**
+      - **Both close, with one local sliding.** With the body diagonal fixed by its N = 1 equation (N0′), a field-dependent sliding D[u] = Σπ·(Γu + S_u h) closes both brackets at first order in the fields:
+$$
+\{H[N],D[u]\}=-H[L(u,N)],\qquad\{D[u],D[v]\}=D\big[[u,v]\big],
+$$
+        with L → u·∇N and [u, v] → the Lie bracket. S couples u and h within one place of each other in every direction. The residual is at rounding level (10⁻¹⁵–10⁻¹²) on held-out wavevectors. The axis-only stencil fails, already for {H, D} alone.
+      - **Against the registered expectation,** which leaned toward failure.
+      - **Order by order in the lattice spacing (post hoc):** the conditions are solvable through three orders beyond the continuum for any local sliding, so the closure is not an artefact of the stencil.
+      - **What it rests on.**
+        - The lapse coupling to the body diagonal vanishes identically, so N0′'s nonlinear part drops out at this order.
+        - The kinetic form does not enter: the result is a property of Regge's energy with the end-average lapse.
+        - L's leading form is forced. [u, v] is fixed only up to redefinitions of the sliding's parameter, as in the continuum.
+      - **So GR's route passes the first nonlinear test that Run 84 does not decide.** With Run 85, all three brackets close at this order with GR's structure. The khronometric route stays a fallback.
+      - **Not yet tested (field order 2):**
+        - the momentum-squared part of {H, D}, which needs the kinetic metric's dependence on h (not yet defined);
+        - Regge's third-order energy;
+        - {H, H} at second order.
+
+        Regge-type lattices are known to break diffeomorphism symmetry somewhere beyond linear order (Bahr & Dittrich 2009). On this lattice it has not appeared through the first nonlinear order.
 - Deriving the borrowed inputs: Lorentz invariance (including twist across ticks) and inertia = total energy.
 - Whether CO's event layer itself charges twist across ticks.
 - What sources Λ. Under R5 the rules give Λ = 0, while Λ is observed to be small and positive; it is taken from data as an input.
