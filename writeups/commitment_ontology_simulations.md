@@ -216,13 +216,12 @@ $$
 ### Where CO speaks and GR is silent (not yet tested as predictions)
 
 - **Time's direction is fundamental, not a boundary condition.** In the engine it leaks into a clock's time-averaged record as c/T, with c unknown at physical scales. It stays whole in the steady inflow of possibility to matter, which clocks do not read (Run 29).
-- **The vacuum never commits, so the undisturbed vacuum draws nothing.** If its zero-point energy is also ruled not to draw (changes that matter makes to it must still draw, as equivalence-principle tests require), quantum field theory's vacuum energy, too large by about 10¹²⁰, never enters gravity, as in unimodular gravity.
-  - That removes the old cosmological-constant problem, not the new one: the rules as they stand give Λ = 0, while Λ is observed to be small and positive. What sources Λ is open.
+- **The quantum vacuum's energy does not draw (the ruling, 24 October).** The vacuum never commits, and neither the undisturbed medium nor the undisturbed vacuum's zero-point energy draws; changes that matter makes to that energy still draw, as equivalence-principle tests require. So quantum field theory's vacuum energy, too large by about 10¹²⁰, never enters gravity, as in unimodular gravity.
+  - That removes the old cosmological-constant problem, not the new one: the rules give Λ = 0, while Λ is observed to be small and positive. Λ is taken from data as an input; what sources it is open.
   - *Withdrawn 24 October:* the earlier lines here reframed the small value as (cosmic rate ÷ Planck rate)², "the same scaling as Sorkin's" everpresent Λ, with a coefficient "target near −162". The identity Λℓ_P² = 3Ω_Λ(H₀t_P)² ≈ 2.9×10⁻¹²² restates the observed value; it is not Sorkin's mechanism, which counts spacetime elements (about 10²⁴⁴) and takes Λ ~ 1/√N. The −162 was the observed Ω_Λ converted through a₀ = cH₀/2π.
 - **Possibility per place is finite, so a well ends where it runs out:** no point of infinite density (Paper_042). *Run 67, under option 3: the mean-field geometry ends where possibility runs out, at a surface where an infaller's tides grow without bound; its last stretch, below one unit per place, is in CO's discrete regime and is not computed.*
 - **Black holes do not evaporate (Run 68; the ruling, 21 October).** Under option 3 with CO's medium, a hole's clock runs out before its redshift can grow exponentially, so a collapse emits GR's Hawking flux for only about 8M ln(P∞/p_s), about one quantum, then nothing. GR with quantum fields says every hole evaporates.
   - For astrophysical holes the difference is unobservable: the microwave background is far warmer than their Hawking temperature, so they absorb more than they emit either way.
-  - For primordial black holes it is the whole story. In GR those below about 5×10¹⁴ g have evaporated by now, and the products of evaporation bound them up to about 10¹⁷ g. In CO none evaporate, so those bounds do not apply, and a detected evaporating primordial black hole would count against CO.
   - Black-hole thermodynamics (S = A/4, T = κ/2π) does not carry over without a new argument.
   - Run 71 confirms the switch-off for a collapsing dust shell. With pressure the shell would bounce; it was ruled that matter commits first, where the medium holds about 2p_s per place.
   - Run 73: every causal kind of matter reaches 2p_s before it can turn back (the stiffest turns at most at 1.27p_s, in a thin-shell model at physical ε). Run 74: when it commits, the Hawking-like burst is over by energy; the core's areal radius is 2m(k + 1)/k = 3m; a cold core then gives one flash of about ħ/δu and silence, and continuation gives Run 71's faint negative tail. δu, how long commitment takes as seen from afar, is not fixed by CO's rules.
@@ -9020,7 +9019,7 @@ $$
        - the medium's scale ε = p_s/P∞, which sets every static departure from GR: the strong-equivalence-principle violation (Δ = εC/(1 + ε)), β − 1 ≈ −ε/2, and where a hole's clock stops (Runs 66–67);
        - what happens where P ≲ p_s: inside a hole's throat, down to the zero-clock surface where what falls in commits (Run 67);
        - the arrow of time;
-       - the quantum vacuum's energy not drawing (the cosmological constant), if the undisturbed vacuum's zero-point energy is ruled not to draw. That removes the 10¹²⁰ mismatch, not Λ itself: the rules as they stand give Λ = 0 (note of 24 October). The classical vacuum drawing nothing is not distinctive under option 3: GR without Λ has it too (the check).
+       - the quantum vacuum's energy not drawing (the cosmological constant): under the ruling of 24 October the undisturbed vacuum's zero-point energy does not draw. That removes the 10¹²⁰ mismatch, not Λ itself: the rules give Λ = 0, and Λ is taken from data. The classical vacuum drawing nothing is not distinctive under option 3: GR without Λ has it too (the check).
    - At linear order this is linearized GR in harmonic gauge. CO differs from GR only in its nonlinear terms: the exponential map, the redshifted draw, and no self-source for U or the current field.
 3. **Motion.** Each body moves as a point particle, with action −m∫dτ in the total metric, minus its own field (geodesics; inertia = total energy).
 4. **Radiation.** Only the shear radiates (retarded, travelling at c), sourced by matter and the binding tension (Run 11b). There is no breathing or dipole channel.
@@ -9064,6 +9063,13 @@ $$
 -N^4\nabla^2\psi+m^2N^2\psi=\omega^2\psi ,
 $$
 with the covariant Tolman/Komar draw $d=\kappa(4\omega^2N^{-4}-2m^2N^{-2})\psi^2$. It removes the first-order fall defect of the earlier code (Run 45) and keeps weak-field binding counted once (Run 46). Outside compact objects CO now makes no prediction that differs from GR; its differences there are inside the core, and in whether committed record is ever re-emitted.
+
+**Ontology decisions, 24 October 2026.**
+- **The undisturbed vacuum draws nothing; energy is measured from it** (added to R5).
+  - A body or pattern draws by its energy above the undisturbed vacuum, including any change it makes to the vacuum's zero-point energy (the Lamb shift, binding energies). Equivalence-principle tests show such changes must draw (Polchinski 2006).
+  - What it buys: quantum field theory's vacuum energy, about 10¹²⁰ times the observed value, never enters gravity, as in unimodular gravity.
+  - What it costs: Λ becomes an input. The rules give Λ = 0, and the observed value is taken from data, $\Lambda\ell_P^2=3\Omega_\Lambda(H_0t_P)^2\approx2.9\times10^{-122}$. What sources it is open.
+- **No infinities** (stated 23 October, adopted 24 October). Every physical quantity is finite: counts, densities, energies, and the number of places in any finite region. Continuum mathematics is an approximation to finite counts. Whether the universe as a whole has finitely many places is open.
 
 **The clock record's tail (Run 37).** Ambient fluctuations of possibility carried Run 29's long tail, not each clock's own hole.
 

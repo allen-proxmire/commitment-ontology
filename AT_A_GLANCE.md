@@ -6,12 +6,13 @@ What goes in, what comes out, and where it parts from general relativity, on one
 
 **Matter persists by re-committing. Each re-commitment is a tick of time. GR should follow from that.**
 
-The world is made of **commitments**: irreversible updates at places, never undone. Time at a place is the count of its commitments, so time runs one way at the bottom. Between commitments, places hold **possibility**, a conserved stuff that hops between related places. **Matter** is commitment that keeps renewing itself, and each renewal draws on the possibility around it. **Clocks are matter**, and they tick in proportion to the possibility present, so clocks near matter run slow. That clock-rate gradient is gravity. Light and quantum matter are patterns of possibility that hop on their places' ticks, so they fall and bend in the same field. How far GR follows from this layer is what the runs test; the sections below say which parts are derived, which were chosen, and which are still taken from GR.
+The world is made of **commitments**: irreversible updates at places. Time at a place is the count of its commitments, so time runs one way at the bottom. Between commitments, places hold **possibility**, a conserved stuff that hops between related places. **Matter** is commitment that keeps renewing itself, and each renewal draws on the possibility around it. **Clocks are matter**, and they tick in proportion to the possibility present, so clocks near matter run slow. That clock-rate gradient is gravity. Light and quantum matter are patterns of possibility that hop on their places' ticks, so they fall and bend in the same field. How far GR follows from this layer is what the runs test; the sections below say which parts are derived, which were chosen, and which are still taken from GR.
 
 ## What goes in
 
 **The ontology's own rules,** in the forms chosen for the engine:
 - commitments are never undone, and the vacuum never commits (15 October; Run 14);
+- no infinities: every physical quantity is finite (stated 23 October, adopted 24 October);
 - possibility's outflow is f(P) = c ln(1 + P/p_s), linear below a crossover p_s and comparing ratios above it (18 October; chosen so that β = 1; Runs 21–26);
 - the presence clock: a commitment holds until a fixed amount of possibility has been present at its places (18 October; Runs 22–24);
 - matter draws possibility, by the variational draw (20 October; Runs 52–55);
@@ -27,9 +28,12 @@ The world is made of **commitments**: irreversible updates at places, never undo
 **Choices where the rules are silent:**
 - infalling matter commits where possibility falls to about 2p_s per place (Runs 71, 73–74);
 - frame dragging is possibility's own flow (Run 69);
-- black holes are stable (Run 68).
+- black holes are stable (Run 68);
+- the undisturbed vacuum draws nothing, and energy is measured from it (24 October).
 
-**Scales set by data, not by the ontology:** p_s ≳ 4×10⁵ units per place, and P∞/p_s ≳ 1.6–1.9×10⁵, the second from the pulsar triple PSR J0337+1715 (Runs 24, 66).
+**Scales and constants set by data, not by the ontology:** p_s ≳ 4×10⁵ units per place, and P∞/p_s ≳ 1.6–1.9×10⁵, the second from the pulsar triple PSR J0337+1715 (Runs 24, 66); and Λ, since the rules give Λ = 0.
+
+The full list, with what each input buys, is at the top of [`ONTOLOGY.md`](ONTOLOGY.md).
 
 ## What comes out
 
@@ -50,14 +54,14 @@ The world is made of **commitments**: irreversible updates at places, never undo
 
 ## Where it parts from GR, and how each could fail
 
-1. **Black holes never evaporate** (Run 68). A detected evaporating primordial black hole would count against the ontology.
+1. **Black holes never evaporate** (Run 68).
 2. **A hole has no singularity and no event horizon** (Runs 67, 73–74):
    - its clock stops where GR's lapse would be about ε = p_s/P∞, just outside GR's horizon, behind a throat;
    - infalling matter commits first, at areal radius 3m.
    - This rests on option 3 and on the 2p_s choice.
 3. **Compact bodies slightly break the strong equivalence principle** (Runs 55, 66): Δ = εC/(1 + ε) > 0, where GR gives zero, growing with compactness. Its size waits on ε, which pulsar timing bounds.
 4. **β − 1 = −ε/[2(1 + ε)]** (Run 66), below current reach at the bound on ε.
-5. **The quantum vacuum's energy need not pull.** The vacuum carries no commitment, and the undisturbed medium draws nothing. If the undisturbed vacuum's zero-point energy is ruled not to draw, quantum field theory's vacuum energy (about 10¹²⁰ times too large) never enters gravity. That leaves Λ itself unexplained: the rules as they stand give Λ = 0, while Λ is observed to be small and positive.
+5. **The quantum vacuum's energy does not pull** (ruled 24 October). The vacuum carries no commitment, and neither the undisturbed medium nor the undisturbed vacuum's zero-point energy draws, so quantum field theory's vacuum energy (about 10¹²⁰ times too large) never enters gravity. Changes that matter makes to that energy still pull, as equivalence-principle tests require. That leaves Λ itself unexplained: the rules give Λ = 0, so the observed Λ is taken from data.
 
 The sizes in items 2–4 all depend on ε, which the ontology does not yet fix.
 

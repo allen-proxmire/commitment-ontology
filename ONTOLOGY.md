@@ -16,6 +16,79 @@ The full record (`writeups/commitment_ontology_simulations.md`) holds the eviden
 
 ---
 
+## Inputs, in one list
+
+Everything that goes in, and what each input buys. Rules and rulings are inputs as much as the borrowed pieces are: each is a choice that could have been made differently. What comes out is in §4.
+
+**The ontology**
+
+| input | kind, date | what it buys |
+|---|---|---|
+| Commitments: irreversible updates at places; time at a place is their count | primitive | one-way time; clocks (Runs 29, 35, 37) |
+| Places and relations; sliding places costs nothing | primitive | space as who relates to whom; places can be relabelled freely |
+| Possibility: conserved, held at places, hopping between related places | primitive | Newton's unscreened 1/r² (Runs 1, 14) |
+| The vacuum never commits | ruling, 15 October (Run 14) | an unscreened field; the arrow lives in matter |
+| Clocks are matter | ruling, 15 October | redshift, with R2 |
+| No infinities | principle, stated 23 October, adopted 24 October | finite counts everywhere; no point of infinite density (§5, item 4) |
+| Three dimensions of space | assumed | the lattice; where they come from is open (§7) |
+
+**The rules (§3)**
+
+| input | kind, date | what it buys |
+|---|---|---|
+| R1: outflow f(P) = c ln(1 + P/p_s) | rule, 18 October, provisional | β = 1, which it was designed for (Runs 21–26) |
+| R2: the presence clock, N = P/P∞ | rule, 18 October, provisional | gravitational redshift (Run 22) |
+| R4: the clock field fixed each tick; patterns ride possibility's flow | ruling, 19 October | a moving body keeps its well (Run 31); no preferred-frame effect from the flow (Run 34) |
+| R5: the variational draw, d = T(1 + g), T = (e + 3p)N√γ | rule, 19–20 October | the first law and passive = active mass (Runs 52–54); the Tolman pull is derived (Run 30) |
+| R5: a pattern's energy draws | ruling, 19 October | a bound system pulls by its energy (Runs 33, 36) |
+| R5: a body is in exact hydrostatic balance, N h(n) = μ̃ | rule correction, 20 October | static stars (Runs 49–50) |
+| R5: the undisturbed vacuum draws nothing; energy is measured from it | ruling, 24 October | quantum field theory's vacuum energy never enters gravity |
+| R6: a pattern hops on its place's ticks and needs free capacity there, so c = N² | rule, 17 October, provisional | γ = 1, put in by the rule's two factors (Runs 9, 17, 46) |
+| R6: massive patterns obey −N⁴∇²ψ + m²N²ψ = ω²ψ | rule, 20 October | quantum matter falls and draws as in GR (Runs 45–46) |
+| R8: bodies move as point particles, with action −m∫dτ | ruling, 20 October | orbits; binaries beyond first order (Run 63) |
+| R8: relations shear, and only the shear radiates | reading fixed in advance | binary-pulsar energy loss (Run 11b) |
+| R9: φ's stress, not U's, curves the medium's space | choice, Run 66 | β − 1 = −ε/[2(1 + ε)] |
+| R10: frame dragging is possibility's own flow (reading Z) | ruling, 21 October, provisional | Kerr outside spinning holes (Run 69) |
+| R11: the core commits what reaches it, where P = 2p_s | rulings, 19 and 21 October | no echoes; no singularity; a core at areal radius 3m (Runs 43, 73–74) |
+| R11: holes are stable | ruling, 21 October: "it follows from the rules with nothing added" | no evaporation (Runs 68, 71, 74) |
+
+**Borrowed from GR or standard physics**
+
+| input | kind, date | what it buys |
+|---|---|---|
+| R9: option 3, binding tension curves the medium's space in GR's form | borrowed, 21 October, provisional | static stars and holes as GR's (Runs 65–67) |
+| R8: the Lorentz input, a moving body's field is its boosted rest field; in R5, stress pulls with weight 1 per direction | borrowed, 19 October | α₁ = α₃ = 0 and frame dragging (Run 34); binding pulls like rest mass (Runs 42, 44) |
+| R7: twist charged on every closed loop, ticks priced like relations | borrowed, 17 October | composite bodies fall alike, as MICROSCOPE requires (Runs 18, 18b) |
+| R8: inertia = total energy | borrowed, 20 October | compact bodies' inertia (Runs 52, 55) |
+| R11: option A, GR's exterior for merging holes | borrowed, 19–20 October | inspirals and mergers |
+| Matter's content: particle masses and charges, nuclear equations of state | borrowed | stars and neutron stars (Runs 45–64) |
+
+**Scales and constants**
+
+| input | kind, date | what it buys |
+|---|---|---|
+| p_s ≳ 4×10⁵ units per place | from data, Run 24 | clocks of different design agree to 10⁻⁶ |
+| P∞/p_s ≳ 1.6–1.9×10⁵ | from data, Run 66 | the pulsar triple PSR J0337+1715 |
+| The hop, about 10^2.5–10^3 Planck lengths | from the engine | an open tension with ℓ_ED = ℓ_P (§7) |
+| G, c and ħ | measured | the draw's strength, light's speed far from matter, a hold's length |
+| Λ, with Λℓ_P² = 3Ω_Λ(H₀t_P)² ≈ 2.9×10⁻¹²² | from data, 24 October (R5) | the observed acceleration; the rules give Λ = 0 |
+
+**The engine** (choices about the model, not claims about nature)
+
+| input | kind, date | what it buys |
+|---|---|---|
+| A cubic lattice, nearest-neighbour relations, one global hop rate | engine | most runs |
+| Note H's carrier: a Kuhn-triangulated lattice with Regge's energy, a kinetic form for the relations' stretch, and a lapse coupling | engine, Runs 83–84 | the relations' waves |
+
+**Not yet used by any run**
+
+| input | kind, date | what it would buy |
+|---|---|---|
+| The beginning: the One Being, fully in step | stated 23 October | the low-entropy start (§5, item 1) |
+| The ripples' size (about 10⁻⁵) and spectrum | from data | any cosmological run |
+
+---
+
 ## 1. The picture in one paragraph
 
 - **Commitments.** The world is made of commitments: irreversible updates that happen at **places**. Time at a place is the count of commitments there, so at the bottom time runs one way.
@@ -25,6 +98,7 @@ The full record (`writeups/commitment_ontology_simulations.md`) holds the eviden
 - **Light and quantum matter** are patterns of possibility in transit. They hop on their place's ticks, so they bend and fall in the same field.
 - **Quantum mechanics is the study of what happens before ticking** (stated 23 October): patterns of possibility that have not committed. A pattern keeps no clock of its own; the time that elapses in its phase belongs to the committed world around it. A measurement is a pattern meeting the committed world and being forced to commit to one channel.
 - **Where possibility runs low, infalling matter commits for good.** Under the current ruling this happens at about twice the medium's crossover scale. That is the core of a black hole, where what falls in becomes record.
+- **No infinities** (stated 23 October; adopted 24 October). Every physical quantity is finite: counts, densities, energies, and the number of places in any finite region. Continuum mathematics is an approximation to finite counts. Whether the universe as a whole has finitely many places is open (§7).
 
 ---
 
@@ -32,13 +106,13 @@ The full record (`writeups/commitment_ontology_simulations.md`) holds the eviden
 
 | Primitive | What it is |
 |---|---|
-| **Commitment (event)** | One irreversible update. Time at a place is the count of commitments there. A commitment is never undone. |
+| **Commitment (event)** | One irreversible update. Time at a place is the count of commitments there. |
 | **Place, relation** | Space is who relates to whom. Sliding places costs nothing. In the engine, places form a 3D lattice with nearest-neighbour relations. |
 | **Possibility** | A conserved quantity held at places, P units per place. It hops between related places. **The vacuum carries no commitment** (ruled 15 October, after Run 14). |
 | **Matter** | Commitment that keeps re-making itself. In the engine it is a reserved pair of places that takes one unit from each, holds, and renews. Mass is the upkeep. |
 | **Clock** | Matter that counts its own commitments (**clocks are matter**, ruled 15 October). What a clock reads was ruled on 18 October (R2). |
 | **Pattern** | A pattern of possibility in transit: light, and quantum matter. |
-| **Record** | What has been committed: the history. It is kept, never undone. |
+| **Record** | What has been committed: the history. It is kept. |
 
 ---
 
@@ -86,7 +160,11 @@ The clock reads P = R(z), the medium's equation of state, not z itself. The seco
 $$
 \beta=1+\frac{y''}{2y'^2},\qquad y(z)=\ln R(z),
 $$
-- β → 1 once P∞/p_s ≳ 256 (Runs 22–23).
+- With R1's outflow, y''/(2y'²) = −1/[2(1 + P/p_s)]. So at large p_s
+$$
+\beta-1=-\frac{\varepsilon}{2(1+\varepsilon)},\qquad \varepsilon=\frac{p_s}{P_\infty},
+$$
+  and β is inside Mercury's band (|β − 1| ≤ 0.003) once P∞/p_s ≳ 166 (Runs 22–23).
 - Two bodies' wells multiply (f = 1.12 ± 0.19, Run 26).
 
 ### R4. The field's dynamics (ruled 19 October; Runs 31, 34, 35)
@@ -94,7 +172,7 @@ $$
 - **Patterns ride possibility's flow.**
 - **The engine's tick is not physical time.**
 
-### R5. What draws (rulings 19–20 October; Runs 30, 33, 36, 40–42, 49–55)
+### R5. What draws (rulings 19–20 and 24 October; Runs 30, 33, 36, 40–42, 49–55)
 Every source draws by its redshifted Tolman/Komar weight, times a factor that makes the theory variational in a medium with a scale:
 $$
 d=T\,(1+g),\qquad T=(e+3p)\,N\sqrt\gamma,\qquad g=c\,\frac{d\ln R}{dz}-1\;\approx\;\frac{p_s}{P}.
@@ -108,6 +186,14 @@ N\,h(n)=\tilde\mu,\qquad h=1+\epsilon_{\rm int}+p/n ,
 $$
   where ε_int is the internal energy per unit rest mass.
 - **The variational draw d = T(1 + g)** (ruled 20 October, after Runs 52–54). Field, matter and patterns are then the Euler–Lagrange equations of one action, so the first law and passive = active mass hold exactly.
+- **The undisturbed vacuum draws nothing; energy is measured from it** (ruled 24 October).
+  - A body or pattern draws by its energy above the undisturbed vacuum. That includes any change it makes to the vacuum's zero-point energy (the Lamb shift, binding energies), which equivalence-principle tests show must draw (Polchinski 2006).
+  - So quantum field theory's vacuum energy, about 10¹²⁰ times the observed value, never enters gravity, as in unimodular gravity.
+  - **Λ is then an input.** The rules give Λ = 0, and the observed value is taken from data:
+$$
+\Lambda\,\ell_P^2=3\,\Omega_\Lambda\,(H_0t_P)^2\approx2.9\times10^{-122}.
+$$
+    Unimodular gravity takes Λ the same way, as a constant of integration.
 
 ### R6. The pattern rule (ruled 17 October, provisional; full form 20 October; Runs 9, 17, 45–46)
 A pattern hops on its place's ticks and needs free capacity there. So light's coordinate speed is N², which gives γ = 1.
@@ -183,8 +269,7 @@ $$
 - **Going back:**
   - if the exterior's own dynamics, once written, give a conflicting bounce or commitment rule;
   - if matter is found that turns back above 2p_s;
-  - if the discrete regime below one unit per place re-emits;
-  - if an evaporating primordial black hole is seen.
+  - if the discrete regime below one unit per place re-emits.
 
 ### Withdrawn or superseded
 
@@ -239,7 +324,7 @@ No approach to gravity derives it from nothing. Each takes some of known physics
 | **Causal dynamical triangulations** | GR's action in discrete form, plus a rule that keeps causal order. | A four-dimensional universe emerges from gluing simplices, and the dimension drops toward two near the Planck scale (Ambjørn, Jurkiewicz & Loll 2004, 2005). |
 | **Causal sets** | Discreteness and causal order: "order plus number equals geometry" (Bombelli, Lee, Meyer & Sorkin 1987). | A cosmological constant of roughly the observed size, predicted by Sorkin before it was measured. Its "sequential growth" dynamics, with events added one by one, is the closest relative of commitment (Rideout & Sorkin 1999). |
 | **Spacetime thermodynamics** | Known physics: the Unruh temperature, entropy proportional to horizon area, and the Clausius relation δQ = T dS. | Einstein's equations, as an equation of state (Jacobson 1995). |
-| **This ontology** | Commitments, possibility and its outflow, the presence clock, matter's draw, the pattern rule (§3), plus the tracked borrowings in the table above. | Newton's law, redshift, universal free fall, the Tolman pull, no preferred-frame effect, and one-way time, from the rules (Runs 1, 14, 16, 22, 27, 29, 30, 34). |
+| **This ontology** | Commitments, possibility and its outflow, the presence clock, matter's draw, the pattern rule (§3), plus the tracked borrowings in the table above; every input is listed at the top of this page. | Newton's law, redshift, universal free fall, the Tolman pull, no preferred-frame effect, and one-way time, from the rules (Runs 1, 14, 16, 22, 27, 29, 30, 34). |
 
 The comparison is one of method, not of maturity. Each program states its inputs and is held to what it gets out. Here the main borrowed input, option 3's rule for how the medium's space curves, is also the main open problem: replacing it with a rule from the ontology's own primitives (§7).
 
@@ -294,11 +379,13 @@ $$
      - **Open:**
        - why the One Being begins to commit;
        - why the first commitments leave near-uniform ripples, about one part in 10⁵, with the measured spectrum;
+         - **One proposal** (stated 23 October): the first commitments happen at virtually the same moment at every place of the One Being, rather than spreading from one seed. A single seed would give the universe a centre, and the CMB shows none.
+         - The ripples would then be the small offsets in when places first commit. Standard cosmology has the same reading in the time-delay picture of inflation, where the curvature ripple is the local delay of the start, ζ ≈ H δt (Guth & Pi 1982).
+         - What sets the offsets' size and their nearly scale-free spectrum (n_s ≈ 0.965) is not worked out.
        - whether the universe also ends at the One Being.
-2. **The quantum vacuum's energy need not draw.**
-   - The vacuum carries no commitment, and under R5 the undisturbed medium draws nothing.
-   - If the undisturbed vacuum's zero-point energy is likewise ruled not to draw, quantum field theory's vacuum energies (about 10¹²⁰ times too large) never enter gravity, as in unimodular gravity. Changes that matter makes to the vacuum's zero-point energy (the Lamb shift, binding energies) must still draw: equivalence-principle tests show that they do (Polchinski 2006). That ruling is open (§7).
-   - This removes the old cosmological-constant problem but not the new one: the rules as they stand give Λ = 0, while Λ is observed to be positive (Ω_Λ ≈ 0.69). What sources Λ in CO is open.
+2. **The quantum vacuum's energy does not draw** (R5, ruled 24 October).
+   - The vacuum carries no commitment. Under R5 neither the undisturbed medium nor the undisturbed vacuum's zero-point energy draws, so quantum field theory's vacuum energies (about 10¹²⁰ times too large) never enter gravity, as in unimodular gravity. Changes that matter makes to the zero-point energy still draw, as equivalence-principle tests show they must (Polchinski 2006).
+   - This removes the old cosmological-constant problem but not the new one: the rules give Λ = 0, while Λ is observed to be positive (Ω_Λ ≈ 0.69). Λ is taken from data as an input; what sources it in CO is open.
    - The classical vacuum drawing nothing is not distinctive: GR without Λ has it too.
    - With rotation, the clock equation gains a vacuum source (Run 69).
 3. **Compact bodies slightly break the strong equivalence principle.** A neutron star's gravitational mass exceeds its inertia:
@@ -308,14 +395,13 @@ $$
    - GR gives zero.
    - The sign is fixed (Δ > 0), the effect grows with compactness, and it is not additive. Its size waits on ε.
    - This depends on inertia = total energy (borrowed) and on Run 66's choice that φ curves γ̃ (Runs 52, 55, 57, 65, 66).
-4. **No point of infinite density is reached.**
+4. **No point of infinite density is reached,** as the no-infinities principle requires (§1).
    - The mean-field geometry is singular at P = 0 (Run 67).
    - Under the ruling, matter commits first, at P = 2p_s and areal radius 3m (Runs 73–74).
    - The hole has no event horizon, and it is cold (κ = 0).
 5. **Black holes do not evaporate.**
    - **A collapse emits GR's Hawking flux only as a transient,** for about 8M ln(P∞/p_s). That is about one quantum in the 1+1 model, about 10⁻² in 4D (Run 68).
    - **When the matter commits,** a cold core gives one flash of about ħ/δu and then silence; a continued state gives a faint negative tail instead (Run 74). δu, how long commitment takes as seen from far away, is not fixed by CO's rules.
-   - **So primordial black holes never evaporate,** and the bounds on them that assume evaporation do not apply. A detected evaporating primordial black hole would count against CO.
    - **Black-hole thermodynamics** (S = A/4, T = κ/2π) does not carry over without a new argument.
 6. **Under CO's original rule for space only** (withdrawn under option 3), heavy neutron stars need matter near the causal limit above about twice nuclear density. Heavy-ion collisions allow this only at the edge of their bounds (Runs 57–62).
 7. **Matter over antimatter** (stated 23 October, not tested).
@@ -402,5 +488,7 @@ $$
       - All seven registered tests failed, partly because the registered solver lost precision at small k.
 - Deriving the borrowed inputs: Lorentz invariance (including twist across ticks) and inertia = total energy.
 - Whether CO's event layer itself charges twist across ticks.
-- What sources Λ: the rules as they stand give Λ = 0, while Λ is observed to be small and positive. And the ruling on whether the undisturbed vacuum's zero-point energy draws (changes that matter makes to it must draw, by the equivalence-principle tests).
+- What sources Λ. Under R5 the rules give Λ = 0, while Λ is observed to be small and positive; it is taken from data as an input.
+- Whether the universe as a whole has finitely many places (the no-infinities principle, §1, read globally). If it does, space closes on itself, and searches of the CMB for repeated patterns bound how small it can be.
+- Where three dimensions come from. The engine assumes them. Stated 23 October: dimension comes from how commitments relate, and the first commitments, all blinking at the same rate, together with an early inflation, set the lattice and the hop.
 - Particles as knots built from the engine's own commitments.
