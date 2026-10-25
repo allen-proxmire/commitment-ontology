@@ -133,3 +133,5 @@ of degree 2. HH1 ({H, H} at order π) is kept, with U⁰ free.
 - N0′, λ = 1, a flat background and one triangulation.
 - The report step's X analysis was computed at a fit that does not close, and carries no information about a closing basis.
 - Control NC3 was scaled against that fit's inflated block, so it is weak evidence; NC1 and NC2 are the informative controls.
+
+*Note added 25 October, after Run 89.* Run 89 registered the freedoms listed above as post hoc or untested. With a non-ultralocal a² dressing and the order-a² lapse couplings of both energies, the kinetic sector closes at a² (certified by its check), and the first-order energy's lapse coupling is what closes {H, H}. Reading 1 stands, for the registered Hamiltonian; reading 2's "not first class" is superseded once that coupling is free; reading 3's statement of the khronometric route is incomplete (that route proper has λ > 1 and an α term, and {H, H} still supplies its lapse equation; Run 89's check); and reading 7's modest count toward reading (A) is withdrawn at this order. The closing Hamiltonian's graviton dispersion is forced to be relativistic through a² (ω²_TT = s² + O(s⁵)).

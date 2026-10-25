@@ -1,6 +1,6 @@
 # The commitment ontology, as it stands
 
-Allen Proxmire · 25 October 2026 · after Runs 1–88 (with 81b) of the lattice record
+Allen Proxmire · 25 October 2026 · after Runs 1–89 (with 81b) of the lattice record
 
 This page states, in one place, what the lattice record tests: the commitment ontology's rules as they stand today. For each rule it gives:
 - its formula;
@@ -79,7 +79,7 @@ Everything that goes in, and what each input buys. The primitives, the inputs ad
 | input | kind, date | what it buys |
 |---|---|---|
 | A cubic lattice, nearest-neighbour relations, one global hop rate | engine | most runs |
-| Note H's carrier: a Kuhn-triangulated lattice with Regge's energy, the corner-metric kinetic form for the relations' stretch, and Regge's end-average lapse coupling; at the first nonlinear order, each shear term's kinetic energy timed by the lapse averaged along its face diagonal, and a field-dependent sliding reaching one place in every direction | construction, Runs 83–88 | GR's two polarisations, healthy at the linear level (Run 84); GR's constraint algebra, all three brackets, at the first nonlinear order (Runs 85–86); at field order 2, GR's algebra exactly at the continuum degree, and at the first lattice correction only in a changed constraint basis (Run 87, the basis post hoc); at the second lattice correction, no closure of the kinetic sector in any basis (Run 88) |
+| Note H's carrier: a Kuhn-triangulated lattice with Regge's energy, the corner-metric kinetic form for the relations' stretch, and Regge's end-average lapse coupling; at the first nonlinear order, each shear term's kinetic energy timed by the lapse averaged along its face diagonal, and a field-dependent sliding reaching one place in every direction; at the second lattice correction, a kinetic term coupling neighbouring places and an order-a² change of the first-order energy's lapse coupling (Run 89; fixed only in part) | construction, Runs 83–89 | GR's two polarisations, healthy at the linear level (Run 84); GR's constraint algebra, all three brackets, at the first nonlinear order (Runs 85–86); at field order 2, GR's algebra exactly at the continuum degree, and at the first lattice correction only in a changed constraint basis (Run 87, the basis post hoc); at the second lattice correction, no closure of the kinetic sector in any basis for Run 85's dressing (Run 88), and closure once the a² kinetic term and lapse coupling are free, with the graviton dispersion then forced to be relativistic through a² (Run 89) |
 
 **Not yet used by any run**
 
@@ -441,6 +441,7 @@ $$
 | 86 | the rest of that algebra, {H, D} and {D, D}, at the same order: whether one local field-dependent sliding closes both (a calculation) |
 | 87 | the whole algebra at field order 2, order by order in the lattice spacing: whether the sliding, the kinetic metric and the structure functions extend so that all three brackets still close (a calculation) |
 | 88 | the kinetic part of that algebra at the second lattice correction, in any constraint basis: whether it is first class at order a² (a calculation) |
+| 89 | the same, with the theory's own a² freedoms: whether a kinetic term coupling neighbouring places, and a² changes of the energies' lapse couplings, make the kinetic sector first class at order a² (a calculation) |
 
 ---
 
@@ -549,16 +550,37 @@ $$
 W^{(1)}(N;\Gamma u)=S_u\Omega(N)+\Omega(N)S_u^\dagger-\Omega(L^0)+\big(\Gamma Y+(\Gamma Y)^\dagger\big)
 $$
         has no solution once the first-order conditions fix the sliding. {H, H} with the first order alone still closes.
-      - **What removes part of it (post hoc, the check).** A non-ultralocal order-a² dressing, coupling π at neighbouring places beyond D4, closes the spatial-covariance part exactly. {H, H} at order πh then fails under every freedom tested, including the general a² lapse coupling of Regge's second-order energy; 0.43–0.50 of the obstruction remains.
+      - **What removes part of it (post hoc, the check).** A non-ultralocal order-a² dressing, coupling π at neighbouring places beyond D4, closes the spatial-covariance part exactly. {H, H} at order πh then fails under every freedom tested, including the general a² lapse coupling of Regge's second-order energy; 0.43–0.50 of the obstruction remains. The freedom left untested, the first-order energy's a² lapse coupling, is what closes it (Run 89, below).
       - **Reading.**
-        - Within the tested family, this lattice can be made spatially covariant at a², but not first class.
-        - The khronometric route, which does not need {H, H}, faces the same obstruction as registered. With the dressing change its kinetic sector closes, but that change has to be registered first.
+        - Within the tested family, this lattice can be made spatially covariant at a², but not first class. (Superseded by Run 89: with the first-order energy's a² lapse coupling free, it is first class in the kinetic sector.)
+        - The khronometric route, which does not need {H, H}, faces the same obstruction as registered. With the dressing change its kinetic sector closes, but that change has to be registered first. (Run 89's check: this statement of the route is incomplete. The route proper has λ > 1 and an α term in the lapse gradient, and {H, H} still supplies its lapse equation.)
         - The breaking is of relative order (ak)², far below measurement. It bears on the theory's consistency (extra modes), not on a direct observable.
         - It is consistent with the literature: discrete constraint algebras generically fail to close in 4D away from flat and homogeneous sectors.
-        - It counts, modestly, toward reading (A) of how space curves (relations that form and dissolve) over Note H's fixed-relation carrier.
+        - It counts, modestly, toward reading (A) of how space curves (relations that form and dissolve) over Note H's fixed-relation carrier. (Withdrawn at this order after Run 89.)
+      - **The freedoms registered:** Run 89, below.
+    - **Field order 2, the kinetic sector at order a², with the theory's freedoms (Run 89):**
+      - **The test.** Run 88's first-class form, with freedoms of the theory added at order a²:
+        - a kinetic term coupling neighbouring places, the general symmetric local π² term linear in N,
+$$
+\Omega_2(k,s)_{il}=P(k,s)_{il}+P(k,-k-s)_{li},
+$$
+          with U⁰'s matching change;
+        - in the full form, the a² lapse couplings of both energies: δM for Regge's second-order energy, and δC for the first-order energy, with δC(k)·G(−k) = 0. Together they are an energy change E → E − Σ∂N·V(h).
+      - **Both close (K89a, K89b PASS; certified by the check).** The spatial-covariance sector with {H, H} at order π closes with the dressing alone; the full kinetic sector closes with the lapse couplings too (against the registered expectation). The first-order energy's lapse coupling δC is what closes {H, H}: without it the fit stalls at 1.9×10⁻².
+      - **What closure forces.** At constant lapse the closing Hamiltonian's graviton waves obey
+$$
+\omega^2_{TT}=s^2+O(s^5)\qquad\text{instead of Run 84's}\qquad \omega^2=s^2-\tfrac1{12}\textstyle\sum_a s_a^4+O(s^6).
+$$
+        The lattice's a² anisotropy is removed exactly; the dressing's forced coefficients are the ±1/24 that cancel it. With the spatial sector only, the a² dispersion is birefringent, and that form cannot keep Run 84's dispersion (post hoc).
+      - **Why (the check's interpretation, not proved).** GR's algebra contains the boost relation {H[1], H[x^a]} = D[e_a]. At field order 2 it holds only for Lorentz-invariant linear dynamics, so first-class closure at a² requires an order-a² (Symanzik-type) improvement of the graviton dispersion. This ties the waves' Lorentz invariance to GR's constraint algebra, which is imposed here; it does not derive it from the primitives.
+      - **Reading.**
+        - GR's route survives in the kinetic sector at a², for a changed lattice Hamiltonian: a non-ultralocal kinetic term, an a² lapse coupling of the first-order energy, and a π-linear D[Y] at a². The solution is a family; only part of it is fixed, and no simple geometric identification of the dressing was found.
+        - The khronometric route proper (λ > 1, with its α term in the lapse gradient) is untested; at λ = 1 the spatial sector closes with direction-dependent waves.
+        - The effects are of relative order (as)², far below measurement.
       - **Not yet tested:**
-        - the dressing change as a registered test, and the full kinetic sector with it;
-        - the potential sector at a², which needs a sparse engine;
+        - the dispersion mechanism as a registered statement (closure ⇔ ω²_TT = s² + O(a³));
+        - the potential sector at a², the decisive test for GR's route, which needs a sparse engine;
+        - the khronometric route proper;
         - locality where one momentum vanishes;
         - field order 3.
 - Deriving the borrowed inputs: Lorentz invariance (including twist across ticks) and inertia = total energy.

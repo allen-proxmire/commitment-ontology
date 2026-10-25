@@ -1,7 +1,7 @@
 # Commitment Ontology: Lattice Simulation Record
 
 **Date:** 15–25 October 2026
-**Scope:** simulation Runs 1–88 (with 72b and 81b) testing whether the commitment / bandwidth ontology, written as the stability landscape Σ (Primitive 12), reproduces gravity, and where it stops working.
+**Scope:** simulation Runs 1–89 (with 72b and 81b) testing whether the commitment / bandwidth ontology, written as the stability landscape Σ (Primitive 12), reproduces gravity, and where it stops working.
 **Code and raw data:** the `*_run.zip` bundles from the session (one per run), listed in the [file index](#file-index).
 **The ontology tested, as it now stands:** stated on one page in the repository's `ONTOLOGY.md` (rules, rulings with dates, what is derived, ruled or borrowed, predictions, open questions). §3 records how each rule was reached.
 
@@ -107,6 +107,7 @@
 | 86 | {H, D} and {D, D} together at the first nonlinear order (Note H, the joint test): one field-dependent sliding D[u] = Σπ·(Γu + S_u h) with local structure functions L(u, N) and [u, v], in N0′ at λ = 1, Regge's second-order energy with the end-average lapse; least-squares existence over radius-1 stencils J1 (axis offsets) and J2 (all pairs within one place), with GR's first moments imposed or free (a calculation; registered) | **K86a, K86c (J1) FAIL** (residual about 0.3; J1 cannot close even {H, D} alone); **K86b, K86d (J2) PASS**, against the registered expectation: residual 10⁻¹⁵–10⁻¹² on every held-out set, L → u·∇N (forced), [u, v] → the Lie bracket when imposed (other brackets close too: the redefinition freedom). Overall PASS. The check (own real-space construction, explicit Poisson brackets): closure verified end to end ({H, D} 3×10⁻¹³, {D, D} 5×10⁻¹⁶); K86b ⇔ K86d, since GR's leading-order L and [u, v] are forced, not imposed (J2-free's bracket differs by a constant redefinition); the sliding is one member of a 700-dimensional family, with one O(a) free parameter in [u, v]; J1's failure is an O(a²) defect already in {H, D}. New beyond Runs 84–85: the local closure of {D, D}'s TT components jointly with {H, D}. Post hoc: solvable order by order at the origin through degree 5; the body diagonal's lapse coupling vanishes identically. Field order 2 is untested |
 | 87 | GR's constraint algebra at field order 2 (Note H, the next order): Regge's third-order energy with N0′'s β₂, the kinetic metric's h-dependence W⁽¹⁾, a second-order sliding T and h-dependent structure functions; all six conditions solved order by order in the wavevectors with free moments, at the continuum degree (D0) and the first lattice correction (D1), in N0′ at λ = 1 with D4 (a calculation; registered) | **K87a (D0) PASS; K87b (D1) FAIL**: all three starts stall at weighted cost 1.42; the kinetic sector ({H, D} at π² with {H, H} at πh) is inconsistent, and the check certified it with LAPACK (linear, 0.091 of the residual, clean rank gap); the potential sector closes. Overall FAIL. The check: the D0 solution is GR's own continuum algebra (to 1.5×10⁻¹⁴; kinetic part unique), so K87a confirms Regge's third-order energy, β₂ and the DeWitt kinetic metric. What fails at D1 is the ansatz (structure functions independent of π, in the D4 basis), not the algebra. Post hoc, confirmed by the check: in the constraint basis H̃ = H − D[X], X_a = ¼N(2π_aa − tr π) = ¼ḣ_aa (unique), all six conditions close at D1 (blocks with content ≤ 1.1×10⁻¹⁵). The registered reading ("GR's algebra breaks at order a") is not supported. Field order 2 cuts Run 86's family from 87 directions to 20 (all redefinitions), fixes its O(a) bracket parameter κ at the Lie value, and forces the kinetic metric's continuum part to be DeWitt's. Formal, at the origin of momentum space; field order 3, where Bahr–Dittrich-type breaking would enter, is untested |
 | 88 | The kinetic sector of the field-order-2 algebra (HD1, DD1, A, B) at the second lattice correction (order a²; Note H), with the constraint basis part of the ansatz: (K88a) first class with the π-linear structure functions time reversal allows; (K88b) a slide basis H̃ = H − D[X], X through degree 1 (a calculation; registered) | **K88a FAIL, K88b FAIL** (NOT FOUND; controls rejected as required). The check certified K88a with LAPACK on exact coefficient equations (linear, rank 3,743, clean gap, inconsistency 0.052), showed the solver closes planted D2 problems, and found the test complete for the registered Hamiltonian (a field-dependent lapse redefinition adds no direction); K88b's FAIL follows from K88a's. The obstruction begins in {H, D} at order π² (the D4 dressing's covariance at a²): HD1 + DD1 + B closes, HD1 + DD1 + A does not. Post hoc (the check): a non-ultralocal order-a² dressing closes that part exactly, but {H, H} at order πh then fails under every freedom tested (0.43–0.50 of the obstruction remains). Reading: this lattice Hamiltonian has no local first-class closure at a² in the kinetic sector; the registered "khronometric route becomes operative" is not supported until the dressing change is registered. Consistent with the literature on discrete constraint algebras; of relative order (ak)² |
+| 89 | The kinetic sector at order a² again (Note H, field order 2), with freedoms of the theory added to Run 88's first-class form: a non-ultralocal order-a² kinetic dressing Ω₂ = P + P† with U⁰'s change Q; (K89a) the spatial-covariance sector with {H, H} at order π (HD1, DD1, A, HH1); (K89b) the full kinetic sector, adding the order-a² lapse couplings of both energies (δM, δC with δC·G = 0) (a calculation; registered) | **K89a PASS, K89b PASS** (EXISTS: non-floored 1.1×10⁻¹⁵ and 1.2×10⁻¹⁵ held out; K89b against the expectation; controls NOT FOUND). Overall FIRST-CLASS. The check certified both by independent degree extraction on fresh points (5.9×10⁻¹⁴, 4.9×10⁻¹⁴) and exact SVD (ranks 3,042 and 3,910, clean gaps); the closures are genuine balances, and random terms lie 35–100% outside the Jacobian's range. What closes {H, H} is the first-order energy's a² lapse coupling δC (without it the fit stalls at 1.9×10⁻²). **The closing Hamiltonians change the graviton dispersion** at N = 1: K89b's gives ω²_TT = s² + O(s⁵), removing Run 84's −Σs_a⁴/12 exactly (the forced coefficients are the ±1/24 that cancel it); K89a's is birefringent at a²; form (i) cannot keep Run 84's dispersion (minimum 0.61, post hoc). The check's interpretation: {H, H} contains the boost relation, so first-class closure at a² requires a Symanzik-type O(a²) improvement making the waves relativistic. Corrections adopted (the report's tangent-space minimum, NC2 weak as run, the khronometric statement incomplete: λ > 1 and the α term untested). The potential sector at a² is untested |
 
 ## Where the record stands: a consilience reading
 
@@ -7751,6 +7752,8 @@ The plan: (0) first, since it is cheap and every later theory needs it. (iii) is
 
 *Note added 25 October, after Run 88.* **A bearing on the two readings from Note H.** Note H's wave carrier has fixed relations, reading (B)'s kind of lattice. Run 88 found that its constraint algebra does not close at order a²; the part caused by the hand-placed kinetic dressing is removable (post hoc), and what remains is the generic failure of fixed-connectivity lattices to close {H, H} (the literature finds the same). That counts, modestly, toward reading (A), where relations form and dissolve and relabelling is built in; relational approaches have their own known cost, recovering local smooth physics (an emergence problem in place of a symmetry problem).
 
+*Note added 25 October, after Run 89.* **That bearing withdrawn at this order.** Run 89 found that the kinetic sector of the same carrier is first class at order a² once the kinetic term may couple neighbouring places and the first-order energy's lapse coupling may change at a² (certified by the check). The {H, H} failure that Run 88's note counted toward reading (A) came from hand-placed choices, not from fixed connectivity as such. Whether a fixed-relation lattice suffices remains open: the potential sector at a², field order 3 and curved backgrounds are untested.
+
 ### Run 78: does the engine's own equation of state explain the clock theory's offsets?
 
 *23 October 2026. Step (0) of the spherical design note (Note G). Registered and hashed before any registered run (`eos78/PREREG_78.md`, 10:22:52 UTC). The raw offsets were already known from Runs 72b–76, and a rough expectation (that the correction would be too small for design 2) was stated in the registration. An independent agent checked the run (below).*
@@ -8389,6 +8392,8 @@ If this holds, Notes F and G, Run 79 and Run 11b are one question: the relations
 *Note added 25 October, after Run 87.* **Field order 2 (Run 87):** order by order in the wavevectors, the three brackets close at the continuum degree, exactly with GR's own algebra (Regge's third-order energy with β₂, the DeWitt kinetic metric). At the first lattice correction they fail as registered (FAIL), in the kinetic sector, because the D4 constraint basis is not the GR-form basis at order a. Post hoc, confirmed by the check: in the basis H̃ = H − D[X], X_a = ¼N(2π_aa − tr π), all three brackets close at that order with h-dependent structure functions, so no breaking of the algebra is shown. Field order 2 fixes Run 86's free O(a) bracket parameter at the Lie value and leaves 20 redefinition directions of the sliding. Untested: higher lattice orders (with X in the ansatz), locality on the loci where one momentum vanishes, and field order 3, where Bahr–Dittrich-type breaking would enter.
 
 *Note added 25 October, after Run 88.* **Field order 2, order a² (Run 88, the kinetic sector):** no local first-class closure exists at the second lattice correction for the registered lattice Hamiltonian (D4's dressing, Regge's energy with the end-average lapse), with every π-linear structure function allowed and in any slide basis (certified by the check). The failure begins in {H, D} at order π², the kinetic dressing's covariance. Post hoc (the check), a non-ultralocal order-a² dressing removes that part, and {H, H} at order πh is then what fails under every freedom tested. Next: register the dressing change for the spatial-covariance sector, and the full kinetic sector with it; state which brackets the khronometric route needs; the potential sector at a² needs a sparse engine. Breaking of Regge's own gauge symmetry is still expected at field order 3; other discreteness effects, like this one, appear at field order 2.
+
+*Note added 25 October, after Run 89.* **Field order 2, order a², with the theory's freedoms registered (Run 89, the kinetic sector):** the kinetic sector is first class at the second lattice correction once the kinetic term may couple neighbouring places at a² (Ω₂ = P + P†) and the order-a² lapse couplings of both energies may change (δM, and δC with δC·G = 0); the spatial-covariance sector with {H, H} at order π closes with the dressing alone (both certified by the check). The first-order energy's lapse coupling is what closes {H, H}. The closing Hamiltonian changes the waves at constant lapse: with the full kinetic sector, ω²_TT = s² + O(s⁵), so the lattice's a² anisotropy (−Σs_a⁴/12) is removed exactly; with the spatial sector only, the a² dispersion is birefringent. The check's reading: {H, H} contains the boost relation, so first-class closure at a² requires relativistic graviton dispersion through that order (a Symanzik-type improvement); this is imposed through GR's algebra, not derived. Next: register the dispersion mechanism (Run 90); the potential sector at a² with a sparse engine, the decisive test for GR's route; the khronometric route proper (λ > 1, the α term), untested.
 
 **7. What would be derived, and what chosen.** If H1–H4 pass:
 - **Derived:**
@@ -9550,6 +9555,145 @@ of degree 2. HH1 ({H, H} at order π) is kept, with U⁰ free.
 - The report step's X analysis was computed at a fit that does not close, and carries no information about a closing basis.
 - Control NC3 was scaled against that fit's inflated block, so it is weak evidence; NC1 and NC2 are the informative controls.
 
+*Note added 25 October, after Run 89.* Run 89 registered the freedoms listed above as post hoc or untested. With a non-ultralocal a² dressing and the order-a² lapse couplings of both energies, the kinetic sector closes at a² (certified by its check), and the first-order energy's lapse coupling is what closes {H, H}. Reading 1 stands, for the registered Hamiltonian; reading 2's "not first class" is superseded once that coupling is free; reading 3's statement of the khronometric route is incomplete (that route proper has λ > 1 and an α term, and {H, H} still supplies its lapse equation; Run 89's check); and reading 7's modest count toward reading (A) is withdrawn at this order. The closing Hamiltonian's graviton dispersion is forced to be relativistic through a² (ω²_TT = s² + O(s⁵)).
+
+### Run 89: the kinetic sector at order a², with the kinetic dressing and the lapse couplings freed (Note H, field order 2; a calculation)
+
+*25 October 2026.*
+- *Registered and hashed before the run (`modes89/PREREG_89.md`, with the code and the validation outputs; 17:43:41 UTC).*
+- *Validation beforehand:*
+  - *the coefficient-mode solver reproduces Run 88 (closes at D1, fails at D2 with Run 88's rank);*
+  - *the new terms against explicit real-space Poisson brackets (the dressing and U⁰'s change) and against direct substitution (the lapse couplings);*
+  - *the Jacobians;*
+  - *planted and negative toys at D2.*
+
+  *A dry run at D1 and two disclosed fixes (a results-file save, a report degree) preceded the registration.*
+- *An independent agent checked the run (below), and its corrections are adopted here.*
+
+**Why.** Run 88 found no local first-class closure of the kinetic sector at order a² for the registered lattice Hamiltonian. The failure began in {H, D} at order π², the D4 dressing's covariance. Post hoc, the Run 88 check found that a non-ultralocal a² dressing closes that part, while {H, H} still failed under every freedom it tested. It recommended registering both, and it listed the first-order energy's a² lapse coupling as untested.
+
+**Question.** At order a², does the kinetic sector close once these freedoms of the *theory* are added?
+- (i) the kinetic term may couple neighbouring places;
+- (ii) in addition, both energies' lapse couplings may change.
+
+**The freedoms** (added to Run 88's 'wide' form, which already contains every triangular change of constraint basis):
+- **The order-a² kinetic dressing, non-ultralocal.** Ω → Ω_D4 + Ω₂, with
+$$
+\Omega_2(k,s)_{il}=P(k,s)_{il}+P(k,-k-s)_{li},
+$$
+  the general symmetric local π² term linear in N (real space: Σπ·P(N)π). With it, U⁰'s change: U⁰ → U⁰ + Q(k₁,k₂) − Q(k₂,k₁).
+- **In form (ii), the order-a² lapse coupling of Regge's second-order energy.** The general change vanishing for constant lapse:
+$$
+\delta M(p,q)_{in}=\sum_b i(p+q)_b\big[Z(p,q)_{bin}+Z(q,p)_{bni}\big].
+$$
+- **In form (ii), the order-a² lapse coupling of the first-order energy:** C → C + δC (degree 4), keeping E⁽¹⁾'s gauge invariance, δC(k)·G(−k) = 0.
+
+Together, δM and δC are an energy change E → E − Σ∂N·V(h) (the check).
+
+**The forms:**
+
+| form | conditions | brackets |
+|---|---|---|
+| (i) | HD1, DD1, A, HH1 | the spatial covariance of the λ = 1 kinetic sector, with {H, H} at order π |
+| (ii) | HD1, DD1, A, B, HH1, CG | the full kinetic sector |
+
+The truncation is D2 (order a²); there are 4,558 (i) and 6,146 (ii) reduced unknowns.
+
+**The solver** works on exact monomial coefficients, as the Run 88 check recommended. Each block's rows give its exact polynomial coefficients, so solvability does not depend on the point set; a held-out point set gives the coefficients a second time.
+
+**Decision:**
+- **EXISTS** if, on both point sets, non-floored max ρ ≤ 10⁻⁸ and floored |residual| ≤ 10⁻¹² of the largest block;
+- **NOT FOUND** if every start has held-out max ρ ≥ 10⁻⁴.
+
+**Controls.** NC1 and NC2 are random top-degree terms, which must be NOT FOUND for a PASS to stand.
+
+**Result (registered).**
+
+| rule | form | starts | final cost | held-out max ρ: non-floored | verdict |
+|---|---|---|---|---|---|
+| **K89a** | (i) | 1 of 3 (closed at start 0) | 2.7×10⁻²² | 1.1×10⁻¹⁵ | **PASS** (as expected) |
+| **K89b** | (ii) | 1 of 3 (closed at start 0) | 6.7×10⁻²⁷ | 1.2×10⁻¹⁵ | **PASS** (against the expectation) |
+| NC1, NC2 | controls | | | 0.70, 1.0 | NOT FOUND |
+
+**Overall (registered): FIRST-CLASS.**
+
+![Run 89](../figures/89_first_class_a2.png)
+
+**The independent check.** Its certifying computations were:
+- Cauchy-integral degree extraction of the full-symbol residual of the stored solutions, realised as finite stencils, on fresh points;
+- LAPACK SVD on the exact S3-reduced coefficient systems;
+- exact eigenvalues for the dispersion.
+
+The findings:
+1. **Hashes and time order.** 23/23 OK at the start and the end. The registration precedes every run output, and every stored solution reproduces every logged block exactly.
+2. **Both closures are certified.**
+   - Independent extraction gives non-floored max ρ 5.9×10⁻¹⁴ (K89a) and 4.9×10⁻¹⁴ (K89b).
+   - The ranks match the engine's (3,042 and 3,910), with clean gaps.
+   - The closures are genuine balances. In A3, for example, the dressing terms cancel a base-term sum of 7.85; in B4, five groups of terms of size 9–67 cancel to rounding.
+   - Random symmetric terms in every block lie 35–100% outside the Jacobian's range, so the freedom does not absorb anything.
+3. **What closes {H, H} is the first-order energy's a² lapse coupling δC.**
+   - Without it, the fit from the K89b solution stalls at cost 1.9×10⁻², with the residual in B4 and HD15, as in the Run 88 check's probes.
+   - Of δC's six gauge-invariant degree-4 directions, two are lapse relabellings (the basis change H[N] → H[N + a²DN]), and two are fixed at the solution.
+   - Only about 7% of the stored δC is essential; the rest is relabelling.
+4. **The solution's large norms are almost all free directions.** The part that cannot change has norms (reduced): dressing 0.11, Z 0.03, δC 0.15, W⁽¹⁾ 0.43.
+   - The π-linear term V can be removed.
+   - A π-linear D[Y] term at a² is needed in this basis.
+   - δC's essential part, read as a lapse-gradient term, is about 27% of Regge's own order-a² coupling C₄.
+   - **No simple geometric identification (post hoc).** None of the candidates tested lies in the allowed set: D4 itself, any ultralocal dressing (so no re-averaging of the lapse), a smoothing of π, or π paired at the two ends of each relation (distances 0.15–0.55 of D4's own a² part).
+5. **The closing Hamiltonians change the ordinary dynamics, and this is the main physical result.** At constant lapse (N = 1) the linear graviton (TT) waves of Run 84's lattice obey
+$$
+\omega^2=|\delta|^2=s^2-\tfrac1{12}\sum_a s_a^4+O(s^6),
+$$
+   which has a small direction-dependent error at order a².
+   - **K89b's closing Hamiltonian gives ω²_TT = s² + O(s⁵).** The a² lattice anisotropy is removed exactly, in all 30 directions tested, with no splitting between the two polarisations at a². The coefficients that the family cannot change are exactly the ±1/24 that cancel the −s_c⁴/12:
+$$
+\Omega_2(0,s)_{ij}\ni K^{-1}_{ij}\,s_c^2/12\qquad(i,j\ \text{in the plane}\perp c).
+$$
+     A polarisation splitting of about ±0.019 s⁵ appears at order a³, beyond the truncation.
+   - **K89a's closing Hamiltonian gives an anisotropic, birefringent a² dispersion,** with a polarisation splitting of up to 0.17 s⁴.
+   - In both cases the dispersion is effectively fixed: it barely changes along the solution family.
+   - Form (i) has no closure that keeps Run 84's dispersion. By variable projection, the minimum residual is 0.61 at every sliding sampled, against 10⁻¹³ without that restriction (post hoc).
+6. **Why (the check's interpretation, not proved as a theorem here).** GR's algebra contains the Poincaré algebra: {H[1], H[x^a]} = D[e_a] is the boost relation.
+   - At field order 2, on the lattice, (B) and {H, H} at order π carry it, and closing them requires Lorentz-invariant linear dynamics through the order of the truncation.
+   - The constant-lapse energy is fixed (δM and δC vanish there), so only the dressing's constant-lapse part can supply the a² improvement.
+   - This explains Run 88's (A)–(B) incompatibility, why δM alone could not help, and the exact ±1/24.
+   - In lattice language, first-class closure at a² requires an order-a² (Symanzik-type) improvement of the graviton dispersion.
+
+**Corrections adopted (the check).**
+- **The report's "minimum-norm P over the solution set"** is a first-order (tangent-space) minimum, and not itself a solution. The supported size statement is the forced part of the dressing: 0.41 and 0.39 of D4's own order-a² part.
+- **The report's "contains pure-s² terms, so it changes the kinetic term at constant lapse"** does not follow, since slides also contain such terms and act trivially. The valid statement is the dispersion in item 5.
+- **NC2's NOT FOUND, as run, is weak.** Its Gauss–Newton diverged, because the solver accepts any step once the step size falls below 10⁻³. A linear test at the K89b solution supports it: 60% of the NC2 term lies outside the Jacobian's range.
+- **The registration's khronometric statement was incomplete.** The khronometric route proper has λ > 1 and an α term in the lapse gradient a = ∂ln N. That term is nonlinear in N, so it lies outside the H[N] = ∫N·H framework, and without it the non-projectable theory is inconsistent (Henneaux, Kleinschmidt and Lucena Gómez 2010). {H, H} also supplies the coefficients of the lapse equation. K89a tests the spatial covariance of the λ = 1 kinetic sector, which a khronometric theory also needs, not the khronometric route itself.
+- **The projectable case is untested, not "empty".** With constant lapse the kinetic sector has no source, but the sliding is then fixed by the potential sector.
+- **The registered reading "GR's route survives at this order in the kinetic sector"** holds with these qualifications:
+  - the closing Hamiltonian has different constant-lapse dynamics (ω² = s², not |δ|²), and this is effectively forced;
+  - it needs the first-order energy's a² lapse coupling and a π-linear D[Y] at a²;
+  - the potential sector at a² and field order 3 are untested.
+- **The registered expectation for K89b** ("no specific reason to expect δC to supply what (B) needs") was wrong: δC is what closes (B).
+- **The sizes table's "δC: 44"** counts every degree. The effective freedom is the six gauge-invariant degree-4 directions of item 3.
+- **The rank drop at the K89b solution** was 4,258 (iteration 2) to 3,910 (iteration 3). It is not a degenerate point: the 389 extra null directions have singular values that vanish as the iterate approaches the solution set.
+- **A latent bug in the report's residual share by condition** (used only for a form that does not close, so not triggered): it strips digits from block names.
+
+**Reading.**
+1. **The kinetic sector is first class at order a²,** but only for a different lattice Hamiltonian. The changes are:
+   - a non-ultralocal order-a² kinetic term, whose constant-lapse part makes the graviton dispersion relativistic through a²;
+   - an order-a² change of the first-order energy's lapse coupling, equivalent to a lapse-gradient term −Σ∂N·V(h);
+   - a π-linear D[Y] structure function at a².
+
+   Run 88's FAIL concerned the registered choices: the ultralocal dressing, the constant-lapse kinetic term and E⁽¹⁾'s lapse coupling.
+2. **Requiring GR's constraint structure at order a² fixes part of the lattice's dynamics.** Gravitational waves must travel at exactly the same speed in every direction through that order. The choices made by hand in Runs 84–85 are thereby partly replaced by a requirement. This does not derive Lorentz invariance: GR's constraint algebra, imposed here, contains it.
+3. **For the routes.**
+   - GR's route survives in the kinetic sector at a², with relativistic waves.
+   - A preferred-frame Hamiltonian can close the spatial brackets with direction-dependent waves (K89a). The khronometric route proper (λ > 1, with its α term) is untested.
+4. **Bearing on the two readings of how space curves (Note G).** Run 88's modest count toward reading (A) rested on {H, H} failing on a fixed-connectivity lattice. In the kinetic sector at a² that failure came from hand-placed choices, and a corrected kinetic term and lapse coupling remove it, so the count is withdrawn at this order. The literature's expectation of failure away from flat space, and the potential sector, remain untested here.
+5. **Size.** The effects are of relative order (as)², far below any measurement at CO's hop. They bear on consistency, i.e. which lattice dynamics is admissible.
+
+**Limits.**
+- The kinetic sector only. The decisive open test for GR's route is the potential sector at a² (conditions C and D at D2, where Regge's third-order energy, δM and δC all enter); it needs a sparse solver.
+- Formal, at the origin of momentum space; through a²; at field order 2.
+- The solution is a family, not a unique Hamiltonian. The dressing's forced part is small, and most of its freedom is unfixed.
+- N0′, λ = 1, a flat background, one triangulation.
+
 ## 3. What the record says about the ontology
 
 **Ontology decision, 15 October 2026 (after Run 14).**
@@ -10259,6 +10403,7 @@ That last condition is also gravity's weakness: matter is light compared with th
 | 86 | regge86.py: hyper-dual (exact) dihedral Hessians, the per-place second-order Regge stencil M(y, y′) in vertex-metric variables with the body diagonal eliminated (N0′); joint86.py: the (HD) and (DD) rows in Fourier, S3 orbit reduction, exact moment constraints by null-space elimination, batched normal equations with an eigendecomposition pseudo-inverse and iterative refinement, independent residual evaluators | fit: 700 + 350 (J1) and 900 + 450 (J2) wavevector pairs; held out: 300 + 150 uniform, 100 + 50 at 0.1 scale, 100 + 50 mixed; 30 rays to s = 6×10⁻³; λ = 1, N0′ | registration hashed with code and validation (exact Regge energy against the stencil to 5×10⁻¹⁰, Run 84's potential to 10⁻¹⁴, hyper-dual against finite differences, the O(k) term of {H, D}, the continuum Lie bracket's sign, S3 covariance, row assembly, planted and negative toys; dry runs deleted unread); post hoc: order-by-order expansion with free moments to degree 5, the structure functions across solutions, intermediate stencils; independent agent (own real-space construction with a third dihedral formula and an exact β solve, independent E⁽²⁾, explicit Poisson brackets on 5³, LAPACK re-solves of J1, fresh special loci, the null space and its redefinition directions, the structure-function invariants) |
 | 87 | regge87.py: truncated Taylor jets to third order, Regge's per-place third-order stencil T₃ with N0′'s β₂, D4; taylor87.py: every symbol expanded in homogeneous powers of its wavevectors, free moments for the unknowns, S3 orbits, phase-correct real blocks per degree; conds87.py: the six conditions term by term; Gauss–Newton with an eigendecomposition pseudo-inverse, line halving and block weights; Amendment 1's resume script (identical code, seeds and draws) | D0 (1,128 unknowns) and D1 (5,862) after S3 reduction; unit-sphere points with 1.3× oversampling, fit seeds 87001/87002, held out 87011/87012; 5 starts (D0), 3 (D1); λ = 1, N0′ | registration hashed with code and validation (T₃ against exact Regge energies, jets against hyper-dual derivatives, U⁰'s sign, Run 86's moments in the new engine, the Taylor machinery and Jacobian, S3 covariance, every condition against explicit real-space Poisson brackets, planted and negative toys; a dry run deleted unread); Amendment 1 hashed before the resumed steps; post hoc: subsystem fits, the wider ansatz with π-linear structure functions, the basis-change form; independent agent (own real-space Regge construction with a fourth dihedral formula, an exact β solve and Cauchy Taylor coefficients; GR's continuum algebra in the engine's conventions; LAPACK and MINPACK re-solves; the kinetic sector's rank and inconsistency; real-space brackets with realised stencils on 12³–32³; negative controls; equation counts; the basis change derived and solved independently; the first-order family, κ and the DeWitt form) |
 | 88 | taylor88.py: Run 87's engine extended to terms with any number of factors and to fixed polynomial symbols; conds88.py: the kinetic sector in three forms (d4, wide with V and Y, htilde with Ω̃ and Ũ⁰); run88_core.py: Run 87's procedure, block statistics with non-floored and floored blocks reported separately, spectral-gap certification; one process per step | D2 (HD1 ≤ 5, DD1 ≤ 4, A ≤ 3, B ≤ 4): 4,324 (wide) and 3,772 (htilde) reduced unknowns, 93,330 fit rows (seed 88002), 45,090 held out (88012); htilde starts 0–3 (X⁰ from validation, X = 0, two random); controls NC1–3 (seeds 8811–8813) | registration hashed with code and validation (the engine against Run 87's, the three-factor Jacobians, HH1 as an identity, every new formula against real-space Poisson brackets, Run 87's D1 results reproduced, planted and negative toys, control symmetry; a timing run on the d4 form and a D1 dry run disclosed); independent agent (TSQR, exact S3-invariant coefficient equations with gesdd and gelsd, LSQR; planted D2 problems; Cauchy degree extraction; completeness of the criterion, including H[N + Z]; anatomy by sub-system; post hoc probes of the dressing and the lapse coupling at a²) |
+| 89 | taylor89.py: coefficient mode (every block converted to its exact monomial coefficients, so solvability does not depend on the point set), a momentum-factor symbol; conds89.py: forms i and ii with the dressing P, U⁰'s change Q, the lapse couplings Z (δM) and δC, and the condition CG, by automatic term substitution; run89_core.py: Run 88's procedure in coefficient mode, warm-started by degree; one process per step | D2 (HD1 ≤ 5, DD1 ≤ 4, A ≤ 3, B ≤ 4, HH1 ≤ 4, CG ≤ 5): 4,558 (i) and 6,146 (ii) reduced unknowns; fit seed 89002, held out 89012; starts 8901/8902 (i) and 8911/8912 (ii), only start 0 run (closed); controls NC1, NC2 (8921, 8922) | registration hashed with code and validation (coefficient mode reproduces Run 88 at D1 and D2; Jacobians against Richardson differences; P and Q against real-space Poisson brackets, Z and δC by direct substitution; planted and negative toys; a D1 dry run and two fixes disclosed); independent agent (Cauchy degree extraction on fresh points, exact SVD of the S3-reduced coefficient systems, linear absorption of random terms, δC removed, forced parts of every unknown, exact TT eigenvalues at N = 1, variable projection for form (i) with Run 84's dispersion, geometric candidates for Ω₂) |
 
 Units are lattice units throughout. Wave speed $v=1$. Cluster masses: $M=0.8\pi$ (A = 0.1) for Runs 3–6, and $M_A=0.25$, $M_B=0.5$ for Runs 7–8, chosen so the cadence deficit stays a few percent.
 
@@ -10355,3 +10500,4 @@ The code and data for each run were delivered as separate bundles:
 | 86 | `modes86_run.zip` | 86_joint |
 | 87 | `modes87_run.zip` | 87_order2 |
 | 88 | `modes88_run.zip` | 88_kinetic_a2 |
+| 89 | `modes89_run.zip` | 89_first_class_a2 |
