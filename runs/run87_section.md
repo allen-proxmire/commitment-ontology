@@ -167,7 +167,7 @@ $$
 1. **At field order 2, the lattice's continuum limit is GR's constraint algebra exactly.** This covers Regge's third-order energy with β₂, D4's DeWitt kinetic metric and Run 85's U⁰.
 2. **At the first lattice correction, the algebra still closes.** It closes in the constraint basis H̃ = H − D[X], X_a = ¼N(2π_aa − tr π), with π-independent structure functions (post hoc, confirmed independently). The registered FAIL is a FAIL of the registered ansatz.
 3. **For the routes.** The registered rule triggered the khronometric fallback, but the evidence does not show GR's algebra breaking. GR's route survives through order a at field order 2, with a changed constraint basis.
-4. **Where breaking is expected (the check).** Bahr and Dittrich's breaking is quadratic in the background curvature. It enters the action at fourth order in the fields, so it would appear in the algebra at field order 3, not 2. Run 86's "that is field order 2" should be read that way.
+4. **Where breaking is expected (the check; qualified 25 October by Run 88's check).** Bahr and Dittrich's breaking is quadratic in the background curvature. It enters the action at fourth order in the fields, so breaking *of Regge's own vertex-displacement symmetry* would appear in the algebra at field order 3, not 2. Run 86's "that is field order 2" should be read that way. Other discreteness effects can appear at field order 2: Run 88 found one at order a² (the kinetic dressing's covariance).
 
 **Limits.**
 - Formal only: order by order at the origin of momentum space, through the first lattice correction. Not shown:

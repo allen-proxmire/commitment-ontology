@@ -1,6 +1,6 @@
 # The commitment ontology, as it stands
 
-Allen Proxmire · 25 October 2026 · after Runs 1–87 (with 81b) of the lattice record
+Allen Proxmire · 25 October 2026 · after Runs 1–88 (with 81b) of the lattice record
 
 This page states, in one place, what the lattice record tests: the commitment ontology's rules as they stand today. For each rule it gives:
 - its formula;
@@ -79,7 +79,7 @@ Everything that goes in, and what each input buys. The primitives, the inputs ad
 | input | kind, date | what it buys |
 |---|---|---|
 | A cubic lattice, nearest-neighbour relations, one global hop rate | engine | most runs |
-| Note H's carrier: a Kuhn-triangulated lattice with Regge's energy, the corner-metric kinetic form for the relations' stretch, and Regge's end-average lapse coupling; at the first nonlinear order, each shear term's kinetic energy timed by the lapse averaged along its face diagonal, and a field-dependent sliding reaching one place in every direction | construction, Runs 83–87 | GR's two polarisations, healthy at the linear level (Run 84); GR's constraint algebra, all three brackets, at the first nonlinear order (Runs 85–86); at field order 2, GR's algebra exactly at the continuum degree, and at the first lattice correction only in a changed constraint basis (Run 87, the basis post hoc) |
+| Note H's carrier: a Kuhn-triangulated lattice with Regge's energy, the corner-metric kinetic form for the relations' stretch, and Regge's end-average lapse coupling; at the first nonlinear order, each shear term's kinetic energy timed by the lapse averaged along its face diagonal, and a field-dependent sliding reaching one place in every direction | construction, Runs 83–88 | GR's two polarisations, healthy at the linear level (Run 84); GR's constraint algebra, all three brackets, at the first nonlinear order (Runs 85–86); at field order 2, GR's algebra exactly at the continuum degree, and at the first lattice correction only in a changed constraint basis (Run 87, the basis post hoc); at the second lattice correction, no closure of the kinetic sector in any basis (Run 88) |
 
 **Not yet used by any run**
 
@@ -440,6 +440,7 @@ $$
 | 85 | GR's constraint algebra at the first nonlinear order on that lattice: how the lapse must multiply the kinetic energy (a calculation) |
 | 86 | the rest of that algebra, {H, D} and {D, D}, at the same order: whether one local field-dependent sliding closes both (a calculation) |
 | 87 | the whole algebra at field order 2, order by order in the lattice spacing: whether the sliding, the kinetic metric and the structure functions extend so that all three brackets still close (a calculation) |
+| 88 | the kinetic part of that algebra at the second lattice correction, in any constraint basis: whether it is first class at order a² (a calculation) |
 
 ---
 
@@ -518,7 +519,7 @@ $$
       - **GR's structure is forced, not chosen.** The basis-independent leading-order content of the structure functions is GR's: L → u·∇N and [u, v] → the Lie bracket. The equations force it. What remains free is a choice of basis, plus one O(a) parameter in [u, v].
       - **The sliding is not unique:** it is one member of a large family, and it has not been identified with a geometric action.
       - **What is new beyond Runs 84–85:** the local closure of {D, D}'s two TT components jointly with {H, D}. The rest was guaranteed by the linear structure (the check).
-      - **Against the registered expectation,** which leaned toward failure. That expectation's rationale does not apply at this order: near flat space Regge's diffeomorphism symmetry breaks quadratically in the curvature (Bahr & Dittrich 2009). That enters the action at fourth order in the fields, so the constraint algebra would show it at field order 3 (Run 87's check).
+      - **Against the registered expectation,** which leaned toward failure. That expectation's rationale does not apply at this order: near flat space Regge's diffeomorphism symmetry breaks quadratically in the curvature (Bahr & Dittrich 2009). That enters the action at fourth order in the fields, so breaking of Regge's own vertex-displacement symmetry would show in the constraint algebra at field order 3 (Run 87's check). Other discreteness effects can appear at field order 2 (Run 88).
       - **Two structural facts.**
         - The lapse coupling to the body diagonal vanishes identically, so N0′'s nonlinear part drops out at this order.
         - The kinetic form does not enter at this order.
@@ -537,10 +538,29 @@ $$
       - **What field order 2 fixes.** Run 86's free O(a) bracket parameter is fixed at the Lie value. The first-order family shrinks from 87 directions to 20, all trivial redefinitions. The kinetic metric's continuum h-dependence is forced to be DeWitt's; its order-a part is not the simple lattice DeWitt form.
       - **The constraint basis that closes is not a D4 dressing.** Its momentum-squared part couples neighbouring places, outside Run 85's class of dressings.
       - **So GR's route survives field order 2 through order a,** with a changed constraint basis. Formal: at the origin of momentum space only.
+      - **The next lattice order:** Run 88, below.
+    - **Field order 2, the kinetic sector at order a² (Run 88):**
+      - **The test.** The four kinetic conditions ({H, D} at orders h and π², {D, D} at order π, {H, H} at order πh) at the second lattice correction, in two forms:
+        - first class, with the π-linear structure functions that time reversal allows (V in {H, H}, Y in {H, D}). Any triangular change of constraint basis produces these, so this form fixes no basis;
+        - a slide basis H̃ = H − D[X], X free through order a.
+      - **Both fail (K88a, K88b FAIL; certified by the check).** For the registered lattice Hamiltonian (D4's dressing, Regge's energy with the end-average lapse), no local first-class closure exists at order a² in the kinetic sector. The check found the test complete for that Hamiltonian, and the solver able to close planted D2 problems.
+      - **Where it breaks.** In {H, D} at order π², i.e. the kinetic dressing's covariance under the sliding at order a²:
+$$
+W^{(1)}(N;\Gamma u)=S_u\Omega(N)+\Omega(N)S_u^\dagger-\Omega(L^0)+\big(\Gamma Y+(\Gamma Y)^\dagger\big)
+$$
+        has no solution once the first-order conditions fix the sliding. {H, H} with the first order alone still closes.
+      - **What removes part of it (post hoc, the check).** A non-ultralocal order-a² dressing, coupling π at neighbouring places beyond D4, closes the spatial-covariance part exactly. {H, H} at order πh then fails under every freedom tested, including the general a² lapse coupling of Regge's second-order energy; 0.43–0.50 of the obstruction remains.
+      - **Reading.**
+        - Within the tested family, this lattice can be made spatially covariant at a², but not first class.
+        - The khronometric route, which does not need {H, H}, faces the same obstruction as registered. With the dressing change its kinetic sector closes, but that change has to be registered first.
+        - The breaking is of relative order (ak)², far below measurement. It bears on the theory's consistency (extra modes), not on a direct observable.
+        - It is consistent with the literature: discrete constraint algebras generically fail to close in 4D away from flat and homogeneous sectors.
+        - It counts, modestly, toward reading (A) of how space curves (relations that form and dissolve) over Note H's fixed-relation carrier.
       - **Not yet tested:**
-        - higher lattice orders, with the basis change part of the registered ansatz;
+        - the dressing change as a registered test, and the full kinetic sector with it;
+        - the potential sector at a², which needs a sparse engine;
         - locality where one momentum vanishes;
-        - field order 3, where Bahr–Dittrich-type breaking would enter.
+        - field order 3.
 - Deriving the borrowed inputs: Lorentz invariance (including twist across ticks) and inertia = total energy.
 - **Whether any of the added inputs, the rules and choices adopted after the original ontology, can be derived after all,** from the primitives or from the other added inputs, so that the list of inputs shrinks (stated 24 October). More rulings are likely as the runs continue. Candidates so far:
   - the undisturbed vacuum draws nothing (R5), from the earlier added input that the vacuum never commits;
