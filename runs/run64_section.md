@@ -28,7 +28,7 @@ $$
 
 **A single number carries the physics (the check).** For circular orbits only g₀₀ and the areal radius R matter. Writing g₀₀ against Y = M/R as A = 1 − 2Y + kY³ + …, the test-mass second-order binding coefficient is exactly
 $$
-e_2=-rac{27}{8}+k .
+e_2=-\frac{27}{8}+k .
 $$
 CO fixes g₀₀ = e^{−2U} with U = M/r in lattice coordinates, so where the shear is added on the lattice is physical. In GR the same freedom would be a choice of coordinates. The static shear is not pure gauge: removing its anisotropy with a radial coordinate shift leaves a residual −½U²δ_ij and changes g₀₀ at O(U³).
 

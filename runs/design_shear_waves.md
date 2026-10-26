@@ -172,6 +172,19 @@ If this holds, Notes F and G, Run 79 and Run 11b are one question: the relations
 
 *Note added 25 October, after Run 89.* **Field order 2, order a², with the theory's freedoms registered (Run 89, the kinetic sector):** the kinetic sector is first class at the second lattice correction once the kinetic term may couple neighbouring places at a² (Ω₂ = P + P†) and the order-a² lapse couplings of both energies may change (δM, and δC with δC·G = 0); the spatial-covariance sector with {H, H} at order π closes with the dressing alone (both certified by the check). The first-order energy's lapse coupling is what closes {H, H}. The closing Hamiltonian changes the waves at constant lapse: with the full kinetic sector, ω²_TT = s² + O(s⁵), so the lattice's a² anisotropy (−Σs_a⁴/12) is removed exactly; with the spatial sector only, the a² dispersion is birefringent. The check's reading: {H, H} contains the boost relation, so first-class closure at a² requires relativistic graviton dispersion through that order (a Symanzik-type improvement); this is imposed through GR's algebra, not derived. Next: register the dispersion mechanism (Run 90); the potential sector at a² with a sparse engine, the decisive test for GR's route; the khronometric route proper (λ > 1, the α term), untested.
 
+*Note added 26 October, after Run 90.* **Field order 2: does closure at a² force relativistic waves? (Run 90, the kinetic sector):**
+- **Yes, within the full kinetic sector without an order-a constant-lapse kinetic change.**
+  - With no dispersion imposed, the closure exists and its constant-lapse TT waves are relativistic to rounding, ω² = s² + O(s⁵).
+  - The solution family cannot move the dispersion.
+  - Run 84's dispersion and an isotropic, non-relativistic one are not found: three starts each, and variable projection along the family. This is not certified globally.
+- **The spatial sector alone** ({H, H} at order π, no a² lapse coupling) admits neither Run 84's dispersion nor the relativistic one (certified at D2). It keeps a birefringent part and one free isotropic s⁴ coefficient.
+- **Post hoc (the check):** the first-order energy's a² lapse coupling is what lets {H, H} at order π accept relativistic waves.
+- **Next:**
+  - isolate (B);
+  - allow an order-a constant-lapse kinetic change;
+  - the potential sector at a² with a sparse engine;
+  - the khronometric route proper.
+
 **7. What would be derived, and what chosen.** If H1–H4 pass:
 - **Derived:**
   - from sliding with the momentum constraint: no vector or longitudinal waves;

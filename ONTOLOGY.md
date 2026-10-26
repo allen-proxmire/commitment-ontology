@@ -1,6 +1,6 @@
 # The commitment ontology, as it stands
 
-Allen Proxmire · 25 October 2026 · after Runs 1–89 (with 81b) of the lattice record
+Allen Proxmire · 26 October 2026 · after Runs 1–90 (with 81b) of the lattice record
 
 This page states, in one place, what the lattice record tests: the commitment ontology's rules as they stand today. For each rule it gives:
 - its formula;
@@ -79,7 +79,7 @@ Everything that goes in, and what each input buys. The primitives, the inputs ad
 | input | kind, date | what it buys |
 |---|---|---|
 | A cubic lattice, nearest-neighbour relations, one global hop rate | engine | most runs |
-| Note H's carrier: a Kuhn-triangulated lattice with Regge's energy, the corner-metric kinetic form for the relations' stretch, and Regge's end-average lapse coupling; at the first nonlinear order, each shear term's kinetic energy timed by the lapse averaged along its face diagonal, and a field-dependent sliding reaching one place in every direction; at the second lattice correction, a kinetic term coupling neighbouring places and an order-a² change of the first-order energy's lapse coupling (Run 89; fixed only in part) | construction, Runs 83–89 | GR's two polarisations, healthy at the linear level (Run 84); GR's constraint algebra, all three brackets, at the first nonlinear order (Runs 85–86); at field order 2, GR's algebra exactly at the continuum degree, and at the first lattice correction only in a changed constraint basis (Run 87, the basis post hoc); at the second lattice correction, no closure of the kinetic sector in any basis for Run 85's dressing (Run 88), and closure once the a² kinetic term and lapse coupling are free, with the graviton dispersion then forced to be relativistic through a² (Run 89) |
+| Note H's carrier: a Kuhn-triangulated lattice with Regge's energy, the corner-metric kinetic form for the relations' stretch, and Regge's end-average lapse coupling; at the first nonlinear order, each shear term's kinetic energy timed by the lapse averaged along its face diagonal, and a field-dependent sliding reaching one place in every direction; at the second lattice correction, a kinetic term coupling neighbouring places and an order-a² change of the first-order energy's lapse coupling (Run 89; fixed only in part) | construction, Runs 83–90 | GR's two polarisations, healthy at the linear level (Run 84); GR's constraint algebra, all three brackets, at the first nonlinear order (Runs 85–86); at field order 2, GR's algebra exactly at the continuum degree, and at the first lattice correction only in a changed constraint basis (Run 87, the basis post hoc); at the second lattice correction, no closure of the kinetic sector in any basis for Run 85's dressing (Run 88), and closure once the a² kinetic term and lapse coupling are free, with the graviton dispersion then forced to be relativistic through a² (Run 89), and rigidly so: Run 84's dispersion and an isotropic non-relativistic one are not found (Run 90) |
 
 **Not yet used by any run**
 
@@ -442,6 +442,7 @@ $$
 | 87 | the whole algebra at field order 2, order by order in the lattice spacing: whether the sliding, the kinetic metric and the structure functions extend so that all three brackets still close (a calculation) |
 | 88 | the kinetic part of that algebra at the second lattice correction, in any constraint basis: whether it is first class at order a² (a calculation) |
 | 89 | the same, with the theory's own a² freedoms: whether a kinetic term coupling neighbouring places, and a² changes of the energies' lapse couplings, make the kinetic sector first class at order a² (a calculation) |
+| 90 | whether that closure forces relativistic gravitational waves: the closure with the constant-lapse dispersion imposed as Run 84's, relativistic, or isotropic but non-relativistic (a calculation) |
 
 ---
 
@@ -571,16 +572,43 @@ $$
 $$
 \omega^2_{TT}=s^2+O(s^5)\qquad\text{instead of Run 84's}\qquad \omega^2=s^2-\tfrac1{12}\textstyle\sum_a s_a^4+O(s^6).
 $$
-        The lattice's a² anisotropy is removed exactly; the dressing's forced coefficients are the ±1/24 that cancel it. With the spatial sector only, the a² dispersion is birefringent, and that form cannot keep Run 84's dispersion (post hoc).
+        The lattice's a² anisotropy is removed exactly; the dressing's forced coefficients are the ±1/24 that cancel it. With the spatial sector only, the a² dispersion is birefringent, with one free isotropic s⁴ coefficient, and that form cannot keep Run 84's dispersion (post hoc; certified by Run 90's check).
       - **Why (the check's interpretation, not proved).** GR's algebra contains the boost relation {H[1], H[x^a]} = D[e_a]. At field order 2 it holds only for Lorentz-invariant linear dynamics, so first-class closure at a² requires an order-a² (Symanzik-type) improvement of the graviton dispersion. This ties the waves' Lorentz invariance to GR's constraint algebra, which is imposed here; it does not derive it from the primitives.
       - **Reading.**
         - GR's route survives in the kinetic sector at a², for a changed lattice Hamiltonian: a non-ultralocal kinetic term, an a² lapse coupling of the first-order energy, and a π-linear D[Y] at a². The solution is a family; only part of it is fixed, and no simple geometric identification of the dressing was found.
         - The khronometric route proper (λ > 1, with its α term in the lapse gradient) is untested; at λ = 1 the spatial sector closes with direction-dependent waves.
         - The effects are of relative order (as)², far below measurement.
+      - **The mechanism, registered:** Run 90, below.
+    - **Field order 2: does closure at a² force relativistic waves? (Run 90):**
+      - **The test.** The full kinetic sector at a², with no order-a constant-lapse kinetic change (so that the a² dispersion is linear in the dressing). The constant-lapse TT dispersion is imposed exactly, as one of:
+        - Run 84's, ω² = s² − Σs_a⁴/12;
+        - the relativistic one, ω² = s² + O(s⁵);
+        - an isotropic, non-relativistic one, ω² = s² − s⁴/20.
+
+        The isotropic case is the discriminating one: every lattice symmetry allows it, and only the boost relation forbids it.
+      - **Result (registered: LORENTZ FORCED; checked).**
+        - With no dispersion imposed, the closure exists, and its waves are relativistic to rounding:
+$$
+\omega^2_{TT}=s^2+O(s^5)\qquad(\text{to }8\times10^{-14}).
+$$
+        - The solution family cannot move the dispersion, to first order or at finite distance.
+        - Run 84's and the isotropic dispersions are not found: three starts each, and variable projection along the family. This is not certified globally.
+      - **The spatial sector alone** ({H, H} at order π, without the a² lapse coupling) admits neither Run 84's dispersion nor the relativistic one. Both verdicts are certified at D2. Its waves keep a fixed birefringent part plus one free isotropic s⁴ coefficient.
+      - **What admits relativistic waves (post hoc, the check).** At constant lapse, {H, H} at order π ties the dispersion to the first-order energy's a² lapse coupling δC:
+        - without δC it excludes relativistic waves;
+        - with δC it admits them, and the rest of the conditions then fix the isotropic part.
+
+        This fits the boost-relation reading, but (B) has not been isolated as the cause.
+      - **Reading.**
+        - On this lattice, GR's constraint structure at a² fixes the gravitational waves' linear dynamics to be relativistic. In lattice language this is a Symanzik-type improvement that the algebra demands.
+        - It ties the waves' Lorentz invariance to GR's algebra, which is imposed here. It does not derive it from the primitives.
+        - The Run 89 check's form-(i) result (minimum 0.61) stands. Run 90's registration doubted it, and the check showed that doubt was wrong.
       - **Not yet tested:**
-        - the dispersion mechanism as a registered statement (closure ⇔ ω²_TT = s² + O(a³));
+        - a test that isolates (B);
+        - an order-a constant-lapse kinetic change (nonlinear in the dispersion);
+        - a global certificate for the full sector;
         - the potential sector at a², the decisive test for GR's route, which needs a sparse engine;
-        - the khronometric route proper;
+        - the khronometric route proper (λ > 1, the α term, a form without {H, H});
         - locality where one momentum vanishes;
         - field order 3.
 - Deriving the borrowed inputs: Lorentz invariance (including twist across ticks) and inertia = total energy.
@@ -593,3 +621,22 @@ $$
 - Whether the universe as a whole has finitely many places (the no-infinities principle, §1, read globally). If it does, space closes on itself, and searches of the CMB for repeated patterns bound how small it can be.
 - Where three dimensions come from. The engine assumes them. Stated 23 October: dimension comes from how commitments relate, and the first commitments, all blinking at the same rate, together with an early inflation, set the lattice and the hop.
 - Particles as knots built from the engine's own commitments.
+- **When a pattern commits** (Note I, a design note, 26 October): the requirements any commitment rule must meet, with today's bounds; candidate readings of "internal complexity" with their scales; and the target of one parameter bounded by both gravity and interferometry. Tests I1–I4 are proposed, not run.
+- **What survives coarse-graining** (stated 26 October).
+  - **The idea.** GR may be the knowable, continuous coarse-graining of a discrete system whose details averaging mostly hides. Some of what lies underneath may not be knowable from the smooth level.
+  - **The parallel in number theory.** The primes have a smooth law plus an oscillating part that the smooth law cannot see. The explicit formula separates the two:
+$$
+\psi(x)=x-\sum_{\rho}\frac{x^{\rho}}{\rho}-\log 2\pi-\tfrac12\log\!\left(1-x^{-2}\right).
+$$
+    - The x is the prime number theorem. The sum runs over the zeros ρ of the zeta function.
+    - The wheel of residues never closes: each new prime lengthens its period before the period fills, and the surviving density falls as ∏_{p≤x}(1 − 1/p) ~ e^{−γ}/ln x (Mertens).
+  - **The parity barrier.** Sieve methods use only averages over residue classes, and they cannot see the sign λ(n) = (−1)^{Ω(n)}: whether n has an even or an odd number of prime factors (Selberg). Averages see only the even information. §5, item 1 makes the same claim about time: at a steady state, averaging cancels the terms odd in time, and the averaged wave does not show the arrow (Run 81b).
+  - **In physics this is universality.** Many microscopic theories flow to the same smooth law at large scales. GR, read as an effective theory, cannot fix what is underneath it.
+  - **The barrier is not absolute.** It limits one method, and it has been passed with information that is not an average: Friedlander and Iwaniec for primes of the form x² + y⁴; Matomäki and Radziwiłł for λ(n) in short intervals. CO's analogues are the leftovers that survive coarse-graining:
+    - terms suppressed by (a/L)², such as the order-a² dispersion of Runs 89–90;
+    - the strong-equivalence violation Δ = εC/(1 + ε) (§5, item 3).
+
+    **Open:** which of CO's signatures are of that kind, and how large they are.
+  - **Two cautions.**
+    - Calculus does not inherit unknowability from the primes. The real numbers are built from the integers, but nothing about how primes are distributed affects analysis.
+    - The parallel is one of structure, not of mechanism.

@@ -134,3 +134,8 @@ $$
 - Formal, at the origin of momentum space; through a²; at field order 2.
 - The solution is a family, not a unique Hamiltonian. The dressing's forced part is small, and most of its freedom is unfixed.
 - N0′, λ = 1, a flat background, one triangulation.
+
+*Note added 26 October, after Run 90.* Run 90's check corrects and confirms parts of this section:
+- **"In both cases the dispersion is effectively fixed" is too strong for K89a.** Its birefringent anisotropic part is fixed, but one isotropic s⁴ coefficient is free along its family. K89b's dispersion is fixed, and exactly relativistic (to 8×10⁻¹⁴).
+- **"Form (i) has no closure that keeps Run 84's dispersion (0.61)" stands, and is now certified** (Run 90's K90d). The check's rows coincide with the exact ones at every form-(i) closure.
+- **The boost-relation interpretation is supported** within the full kinetic sector without an order-a constant-lapse kinetic change: Run 84's dispersion and an isotropic non-relativistic one are not found there.
