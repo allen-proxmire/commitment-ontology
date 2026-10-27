@@ -167,7 +167,7 @@ The rate is the operator κ_bĤ/ħ with κ_b = 1/(aP∞). The ⁸⁸Sr tweezer c
 
 1. **Route (a) is amended.** A record is made only when committed matter keeps path-dependent (which-path) information.
 2. **The hold statement covers route (b) only.** Route-(a) records are filled by the committed matter's possibility, as R2 is written.
-3. **A route-(a) commitment and its deposit are made at the interaction.** (R-a3) waits on I3.
+3. **A route-(a) commitment and its deposit are made at the interaction.** (R-a3) waits on I3. *Closed 27 October (Reading I3 §5, ruled): (R-a3) is a two-place commitment of the excluded (T2) type, since the molecule's deposit would land when a distant party chooses to absorb the photon. It is excluded, and the record is made at the interaction.*
 4. **Route (a)'s rate in bulk is per unit, from its interactions** (reading (i)), so the lunar-laser-ranging bound of §5 applies.
 5. **Route (b) is symmetrised GRW-type.**
 6. **Q7 counts an electron's energy,** with its orbital energy.

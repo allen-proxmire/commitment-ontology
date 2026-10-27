@@ -251,6 +251,7 @@ If a rule derived and registered beforehand gave this combination, the window wo
   - Derive the centre-of-mass heating and the spontaneous radiation for the rule's channels, as a function of the coarseness length.
   - Compare them with the underground germanium and xenon detectors (Majorana 2022; XENONnT 2026) and with LISA Pathfinder.
   - Register the coarseness length's origin in the rules before computing its value.
+  - *Covered, 27 October: Runs 92–94 computed route (b)'s spontaneous radiation (XENONnT, B1), centre-of-mass heating (LISA Pathfinder, B2), bulk and intergalactic heating (B7, B8), deuteron break-up (B10) and gravity's back-action, all as functions of r_C; Reading I5 ruled r_C a primitive scale. Majorana's germanium bound is of the same kind as XENONnT's and was not added.*
   - **Kill:** heating or radiation above Q2's bounds at the length the rules give; or no length in the rules that meets them.
 - **I3. Bell from a dissolved relation** (an engine run).
   - Model a two-part pattern from one dissolved relation, committed at two distant places.
@@ -258,6 +259,9 @@ If a rule derived and registered beforehand gave this combination, the window wo
   - Then show the singlet correlation E(a, b) = −cos(a − b), hence CHSH = 2√2, with each side's marginals independent of the other's setting.
   - An engine that simply encodes a tensor-product state with Born-rule joint outcomes reproduces the earlier papers' route. What would be new is the two-place commitment rule.
   - **Kill:** CHSH ≤ 2; CHSH > 2√2; or signalling.
+  - **Reading I3 (27 October; checked independently;** [`../quantum runs/reading_I3_two_place_commitment.md`](../quantum%20runs/reading_I3_two_place_commitment.md)**).** Bell excludes a local commitment; reproducing QM everywhere excludes one that travels at a finite speed (Bancal et al. 2012, four parties); no-signalling, with the local stamp, (C) and M3, excludes committing both places at once, since a stamp or deposit at the distant part would let the other party signal.
+    - Ruled 27 October: **a commitment of one part updates the whole pattern at once, with Born weights, and commits only that part** (T1); the distant part gets no record, stamp or deposit; the engine's global tick fixes the update's moment, recorded nowhere; deposits branch by branch, the hold per unit, the rate operator per unit; the instantaneous field excluded from I3 (R4's open item); Reading I1's (R-a3) excluded; two-part patterns from ordinary entangling evolution, so the singlet is an input; the Born rule borrowed.
+    - I3 is to be run as a registered engine run with the rival rules and nonlinear controls detected as failing, since (T1)'s correlations are QM's by construction.
 - **I4. The rate** (a calculation; it was the threshold before the 27 October rulings).
   - From the hold rule (R2: a commitment holds until the possibility present at its places, summed over ticks, reaches H = 2ħ_tP∞) and the pattern rule, derive route (b)'s rate λ and coarseness r_C for an isolated pattern.
   - Register which combination of scales it gives before computing its value.
@@ -296,7 +300,7 @@ If a rule derived and registered beforehand gave this combination, the window wo
 - Which patterns share one (λ, r_C): photons, neutrinos and isolated massive patterns alike, or not.
 - What in CO's rules sets route (b)'s rate λ and coarseness length r_C, and whether either is a scale gravity also uses. *27 October: the rate is κ_b = 1/(aP∞) (Reading I4). Reading I5 found that no length in the record lies in the window, and that a rule r_C = ℓP∞ⁿ would fit only as dimensional analysis (n about 0.44–2.1 with the engine's hop). Ruled: r_C is a primitive scale for now, bounded by the window; one r_C for every species; no test of the family without a mechanism that fixes n.*
 - Whether one scale sets both the threshold and the channels' coarseness.
-- How a nonlocal two-place commitment is defined in CO's foliation, and whether it keeps no-signalling.
+- How a nonlocal two-place commitment is defined in CO's foliation, and whether it keeps no-signalling. *Ruled 27 October (Reading I3): one part's commitment updates the whole pattern in the engine's foliation and commits only that part; no-signalling needs deposits branch by branch, the hold and rate per unit, and is shown for the Bell statistics. Whether the foliation is the cosmic frame, and whether this makes the tick physical, stay open.*
 - What fixes δu (Run 74), and whether it is the same scale.
 
 **Appendix A. Cautions from a reading of the earlier papers against established physics** (reading of 25 October, corrected 26–27 October). Each point is a constraint any commitment rule must meet, whoever proposes it. None of the earlier papers' constructions is a starting point here.
