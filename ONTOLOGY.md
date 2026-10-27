@@ -1,6 +1,6 @@
 # The commitment ontology, as it stands
 
-Allen Proxmire · 27 October 2026 · after Runs 1–91 (with 81b) of the lattice record, and Runs 92–93 of the quantum sector
+Allen Proxmire · 27 October 2026 · after Runs 1–91 (with 81b) of the lattice record, and Runs 92–94 of the quantum sector
 
 This page states, in one place, what the lattice record tests: the commitment ontology's rules as they stand today. For each rule it gives:
 - its formula;
@@ -73,7 +73,7 @@ Everything that goes in, and what each input buys. The primitives, the inputs ad
 | The hop, about 10^2.5–10^3 Planck lengths | from the engine | an open tension with ℓ_ED = ℓ_P (§7) |
 | G, c and ħ | measured | the draw's strength, light's speed far from matter, a hold's length |
 | Λ, with Λℓ_P² = 3Ω_Λ(H₀t_P)² ≈ 2.9×10⁻¹²² | from data, 24 October (R5) | the observed acceleration; the rules give Λ = 0 |
-| Route (b)'s κ_b and r_C: bounded, not fixed. At r_C = 100 nm, for example, 2.6×10⁻⁵⁶ < κ_b < 9.0×10⁻⁴⁶. r_C is a primitive input (Reading I5); with κ_b = 1/(aP∞), 3.7×10²⁴ ≲ a·P∞ ≲ 4×10⁹² | from data, Runs 92–93 | radiation and isolated patterns draw, unseen in the laboratory |
+| Route (b)'s κ_b and r_C: bounded, not fixed. At r_C = 100 nm, for example, 2.6×10⁻⁵⁶ < κ_b < 9.0×10⁻⁴⁶. r_C is a primitive input (Reading I5); with κ_b = 1/(aP∞), 3.7×10²⁴ ≲ a·P∞ ≲ 4×10⁹², and a·P∞ ≳ 2×10²⁷ for r_C above about 4×10¹⁵ m (Run 94) | from data, Runs 92–94 | radiation and isolated patterns draw, unseen in the laboratory |
 
 **The engine** (choices about the model, not claims about nature)
 
@@ -474,6 +474,7 @@ $$
 | 91 | whether the whole field-order-2 algebra closes at a², kinetic and potential sectors together: with Regge's third-order energy as registered, with its lapse coupling changed at orders a and a², or with its general change (a calculation) |
 | 92 | the window for route (b)'s rate and coarseness under the rulings of 26–27 October: every current bound on spontaneous localisation, with gravity sourced by the records (a calculation, quantum runs) |
 | 93 | that window under the rulings after Readings I1 and I4: lunar laser ranging, Q7, the CMB ceiling and a stricter radiation-gravity edge added (a calculation, quantum runs) |
+| 94 | that window with a prestellar core's self-gravity (B15), under the ruling that interstellar gas's collisions are route-(a) records (a calculation, quantum runs) |
 
 ---
 
@@ -702,7 +703,7 @@ $$
   - route (a)'s ruling needs a which-path condition, and the hold statement must exempt route (a);
   - if route-(a) rates in bulk depend on the material, lunar laser ranging caps κ_b at ≲ 3×10⁻²⁶–3×10⁻²² wherever Run 92's window would allow more, which is for r_C above about 10⁹–10¹¹ m.
 
-  Ruled 27 October: the which-path amendment; route (a) exempt from the hold statement; GRW-type symmetrisation; per-unit bulk rates; Q7 with an electron's energy. Run 93 (registered; checked) recomputed the window with these: **K93 PASS**. It is open from 2.3×10⁻¹⁰ m, with lunar laser ranging capping κ_b at 2.7×10⁻²⁵ above 3×10⁹ m. So under κ_b = 1/(aP∞), a·P∞ ≳ 3.7×10²⁴ at every r_C. A gas self-gravity bound, checked independently and resting on the ruling that interstellar gas is committed matter (G1, 27 October), would cap κ_b at about 9×10⁻²⁹ for r_C ≥ 3.7×10¹⁵ m (prestellar cores); it is to be registered in the next run. Reading I5 (27 October; checked) found nothing in the record that sets r_C; ruled a primitive scale for now, bounded by the window. Tests I2–I3 are proposed, not run; I1's, I4's and I5's are the readings.
+  Ruled 27 October: the which-path amendment; route (a) exempt from the hold statement; GRW-type symmetrisation; per-unit bulk rates; Q7 with an electron's energy. Run 93 (registered; checked) recomputed the window with these: **K93 PASS**. It is open from 2.3×10⁻¹⁰ m, with lunar laser ranging capping κ_b at 2.7×10⁻²⁵ above 3×10⁹ m. So under κ_b = 1/(aP∞), a·P∞ ≳ 3.7×10²⁴ at every r_C. A gas self-gravity bound, checked independently and resting on the ruling that interstellar gas is committed matter (G1, 27 October), was registered in Run 94 (checked before and after): **K94 PASS**. A prestellar core's self-gravity caps κ_b at 9.0×10⁻²⁸ at its radius and 4.2×10⁻²⁸ well above it, from r_C = 1.71×10¹⁵ m, so a·P∞ ≳ 2×10²⁷ there. Reading I5 (27 October; checked) found nothing in the record that sets r_C; ruled a primitive scale for now, bounded by the window. Tests I2–I3 are proposed, not run; I1's, I4's and I5's are the readings.
 - **What survives coarse-graining** (stated 26 October).
   - **The idea.** GR may be the knowable, continuous coarse-graining of a discrete system whose details averaging mostly hides. Some of what lies underneath may not be knowable from the smooth level.
   - **The parallel in number theory.** The primes have a smooth law plus an oscillating part that the smooth law cannot see. The explicit formula separates the two:

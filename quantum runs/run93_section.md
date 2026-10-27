@@ -104,6 +104,6 @@ $$
 
 **Carried forward:**
 - a rule for r_C;
-- the gas self-gravity bound, registered as B15 (core leg, A ≥ 0.2, under G1), with its virial factor and threshold checked first;
+- the gas self-gravity bound, registered as B15 (core leg, A ≥ 0.2, under G1), with its virial factor and threshold checked first; *done in Run 94 (27 October): K94 PASS, κ_b ≲ 4.2×10⁻²⁸ well above a core's radius, with the cross-sections corrected to the total ones (about 6× the draft's);*
 - Singh et al.'s composition contrast;
-- `B14_q7` for 'com' in later runs.
+- `B14_q7` for 'com' in later runs. *Done in Run 94.*
