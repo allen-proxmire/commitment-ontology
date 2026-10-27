@@ -35,6 +35,7 @@ Every run in the record tests a consequence of those rules against a measurement
 - **`Where CO's Gravity Stands.md`** is a plain-language summary: passed, failed, open.
 - **`Gravity from Counting Commitment.md`** is the explainer.
 - **`runs/`** holds each run's write-up section. These are snapshots taken when each run was written; later notes live in the full record.
+- **`quantum runs/`** will hold the quantum-sector runs' write-up sections. None has been made yet; the design note is Note I, in `runs/`.
 - **`figures/`** holds one figure per run or group of runs.
 - **The latest release** has two zips:
   - every run's code, pre-registration (`PREREG_NN.md`), hash file (`PREREG_NN.sha256`), logs and JSON results;
