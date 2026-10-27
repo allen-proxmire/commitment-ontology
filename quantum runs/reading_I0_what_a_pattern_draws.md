@@ -101,12 +101,12 @@ $$
 How each bound fared:
 - **Bound 1, read per population.** The deposits of all rarely recorded neutrinos, at their current positions, add up to the right draw, so only their shot noise is bounded: κ_b ≳ 10⁻¹⁰⁰.
   - Read per pattern, as written above, it needs κ_b ≳ 10⁻²⁷. The window then exists only for r_C ≳ 2×10⁸–10⁹ m, as anticipated here.
-  - The ceiling on r_C is set by horizon entry of the measured modes, not by the sound horizon: r_C ≲ 1.5×10¹⁸ m (post hoc).
+  - The ceiling on r_C is set by horizon entry of the measured modes, not by the sound horizon: r_C ≲ 1.5×10¹⁸ m (found by the post-run check; ruled 27 October).
 - **Bound 2.** Photons commit at κ_b ω, and the bound is Run 92's B5.
 - **Bound 3.** Through decoherence the back-action gives no lower bound on λ, since each record costs at most two units of coherence.
 - **The lower edge at laboratory r_C** comes instead from the validity of Newtonian gravity from records: κ_b > ℓ_P²/r_C².
 
-Result: K92 PASS, with the window open for r_C from 2.3×10⁻¹⁰ m to about 1.5×10¹⁸ m.
+Result: K92 PASS, with the window open for r_C from 2.3×10⁻¹⁰ m to 1.5×10¹⁸ m.
 
 **What changes in Note I.**
 - A6: patterns draw (ruled 19 October); the ψ² density is R6's (20 October), for single stationary patterns; how a superposition draws is ruled (C) on 27 October, with the two sub-rulings.

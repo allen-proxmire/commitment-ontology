@@ -112,8 +112,12 @@ Everything that goes in, and what each input buys. The primitives, the inputs ad
   - each record deposits the pattern's draw E_TK/λ_tot at the recorded place, smeared at r_C, so the mean draw is exact whatever the rate;
   - its units are electrons and nucleons, each committing on its own;
   - radiation's gravity follows the radiation per population: the deposits of all rarely recorded matter add up to the draw, and only their shot noise is bounded.
+- **After Run 92** (ruled 27 October):
+  - the rate is an operator, κ_b Ĥ/ħ, so each branch of an energy superposition commits at its own rate and the dynamics stays linear;
+  - r_C lies below 1.5×10¹⁸ m, where relic neutrinos' smeared draw would erase the CMB modes up to ℓ = 2000;
+  - whether route (b) is symmetrised CSL-type or GRW-type is deferred to Test I1.
 
-  Run 92 found a window: for r_C from 2.3×10⁻¹⁰ m to about 1.5×10¹⁸ m, κ_b lies between the validity of Newtonian gravity from records (κ_b > ℓ_P²/r_C²) and, at laboratory r_C, SNO's deuteron break-up (κ_b < 9×10⁻³² r_C²). What fixes κ_b and r_C is open (§7).
+  Run 92 found a window: for r_C from 2.3×10⁻¹⁰ m to 1.5×10¹⁸ m, κ_b lies between the validity of Newtonian gravity from records (κ_b > ℓ_P²/r_C²) and, at laboratory r_C, SNO's deuteron break-up (κ_b < 9×10⁻³² r_C²). What fixes κ_b and r_C is open (§7).
 - **The medium holds no branches** (ruled 27 October). Its count N = P/P∞ has one value at each place; patterns carry amplitudes and phases, the medium does not. With the previous ruling this makes gravity unable to entangle masses: if a test of gravitationally mediated entanglement finds it, these rulings fail.
 - **Where possibility runs low, infalling matter commits for good.** Under the current ruling this happens at about twice the medium's crossover scale. That is the core of a black hole, where what falls in becomes record.
 - **No infinities** (stated 23 October; adopted 24 October). Every physical quantity is finite: counts, densities, energies, and the number of places in any finite region. Continuum mathematics is an approximation to finite counts. Whether the universe as a whole has finitely many places is open (§7).
@@ -671,14 +675,14 @@ $$
 - Particles as knots built from the engine's own commitments.
 - **When a pattern commits** (Note I, a design note, 26 October; revised 27 October after two independent checks): the requirements any commitment rule must meet, with today's bounds; candidate readings of "internal complexity"; and a consistency window for one parameter bounded below by gravity and, under a hypothetical rule, above by interferometry. The checks found that the argument for energy-projector channels conflicts with Run 16's local count, and that the commitment rule itself must be nonlocal in Bell's sense. The local stamp was then ruled (26 October), so the channels are position-like. Restructured 27 October to start from CO's own primitives, with every assumption audited by source. The record had left open how a superposed pattern draws. Reading I0 (`quantum runs/`, checked independently) set out the readings: by its average (Schrödinger–Newton, which signals once commitment is added), branch by branch (Penrose's E_G), or only through its records. The last was ruled on 27 October, with records from both routes and a medium that holds no branches. So route (b) is a rate, and the first calculation is the window for its rate λ and coarseness r_C, between radiation's gravity, photon coherence on long baselines, gravity's back-action, interference and heating.
 
-  **Run 92 (27 October; registered; checked before and after) computed it: PASS.** The window is open for r_C from 2.3×10⁻¹⁰ m to about 1.5×10¹⁸ m, a ceiling found post hoc.
+  **Run 92 (27 October; registered; checked before and after) computed it: PASS.** The window is open for r_C from 2.3×10⁻¹⁰ m to 1.5×10¹⁸ m, a ceiling from the CMB that the post-run check found, ruled 27 October.
   - It rests on reading radiation's gravity per population (ruled 27 October). Read per pattern, the window exists only above about 2×10⁸ m.
   - Above 1.6×10¹⁶ m the window is conditional on route (a)'s rate.
 
   Open from it:
   - what fixes κ_b and r_C;
-  - whether route (b) is symmetrised CSL-type or GRW-type;
-  - what E means in λ = κ_b E/ħ for a superposition of energies (Note I's Q7);
+  - whether route (b) is symmetrised CSL-type or GRW-type (deferred to Test I1, ruled 27 October);
+  - Q7, now that the rate is the operator κ_b Ĥ/ħ (ruled 27 October). A strontium clock gives κ_b < 1.8×10⁻¹¹ if an electron's rate includes its orbital energy (estimated after the run). That would cut the window above 2.5×10¹⁶ m. It is to be registered with Test I1;
   - whether the rate is per radian in the cosmic frame or along the worldline;
   - whether its units are quarks or nucleons.
 

@@ -99,7 +99,7 @@ $$
 $$
   - The CMB sees them through their gravity at horizon entry, k = aH/c. The scale that matters is therefore the Hubble radius when the measured modes enter the horizon, not the sound horizon at recombination.
   - For ℓ ≤ 2000 at a 10% loss, r_C ≤ 0.459 c/H(entry) = **1.5×10¹⁸ m**. The values are 6.2×10¹⁸ m for ℓ = 1000 and 9.6×10¹⁷ m for ℓ = 2500.
-  - So W's physical upper end is 1.5×10¹⁸ m. The "widest window" at 10²¹ m and the candidate ε (inside W only above 1.6×10¹⁹ m) fall away.
+  - So W's physical upper end is 1.5×10¹⁸ m. The "widest window" at 10²¹ m and the candidate ε (inside W only above 1.6×10¹⁹ m) fall away. **Ruled 27 October:** the ceiling is 1.5×10¹⁸ m (ℓ ≤ 2000, a 10% loss).
 - **Above 1.56×10¹⁶ m, route (b) outpaces phonon rates** at W's upper edge, and electronic rates above 1.56×10¹⁷ m. There, bulk matter's draw is no longer laid down mostly at route (a)'s fine resolution. So W above 1.56×10¹⁶ m is conditional on route (a)'s rate, which Test I1 is to define.
 - **B11 (self-kick heating of dark matter) is withdrawn.**
   - Where it was said to bite, one self-kick (5.6×10⁷ m s⁻¹ at 2.3×10⁻¹⁰ m) far exceeds a dwarf galaxy's escape speed, so a recorded particle is ejected.
@@ -118,7 +118,7 @@ $$
   - The ⁸⁸Sr tweezer clock (ΔE = 1.775 eV, coherence 48 s; Young et al. 2020) then gives:
     - κ_b < 1.8×10⁻¹¹ if an electron's rate counts its orbital energy ('indep'), which cuts W above 2.5×10¹⁶ m;
     - κ_b < 2.9×10⁻⁶ for 'com', which cuts W above 10¹⁹ m.
-  - What E means for a superposition of energies is not ruled. If the rate is set by the mean energy instead, the dynamics is nonlinear and needs Note I's no-signalling check (Q4).
+  - **Ruled 27 October:** the rate is the operator κ_b Ĥ/ħ, so each branch commits at its own rate. This keeps the dynamics linear; a rate set by the mean energy would be nonlinear and need Note I's no-signalling check (Q4). So Q7 applies. The estimate above, if an electron's rate includes its orbital energy, cuts W above 2.5×10¹⁶ m. It is to be registered with Test I1.
 - **The lower edge, more strictly.**
   - **Per population:** the same shot-noise criterion at the CMB damping tail, and at horizon entry for ℓ = 3000, gives κ_b ≳ 7×10⁻⁹⁵ to 3×10⁻⁹³. The check also estimated, without recomputation here, about 10⁻⁹⁸ to 10⁻⁹⁶ from dwarf galaxies and 10⁻⁸⁷ to 10⁻⁸⁴ from pulsar timing, both if dark matter is particulate. None of these closes W: the per-population edge governs only above about 10¹¹–10¹⁵ m, where κ_hi ≥ 3×10⁻²⁴.
   - **Per pattern,** evaluated when the measured modes enter the horizon: κ_b ≥ 8.7×10⁻²⁷ to 2.6×10⁻²⁶. The per-pattern window then opens at 5.5–9.6×10⁸ m, still below the ceiling.
@@ -141,11 +141,11 @@ $$
 | ℓ_P/r_C | 5.6×10⁻² m to 1.5×10¹⁸ m |
 | 1/P∞² (data limit) | 9.2×10¹⁰ m to 1.5×10¹⁸ m |
 | p_s/P∞² | 5.8×10¹³ m to 1.5×10¹⁸ m |
-| 1/P∞, ε² | 2.3–3.7×10¹⁶ m to 1.5×10¹⁸ m, wholly in the conditional region (and cut by Q7 if the rate is branch-dependent) |
+| 1/P∞, ε² | 2.3–3.7×10¹⁶ m to 1.5×10¹⁸ m, wholly in the conditional region, and above Q7's cut (2.5×10¹⁶ m) under the rate operator |
 | ε | none |
 
 **Reading.**
-- **Under the rulings, route (b) is viable.** A rate λ = κ_b E/ħ and a coarseness r_C exist that every current bound allows, for r_C from 2.3×10⁻¹⁰ m to about 1.5×10¹⁸ m. Above about 1.6×10¹⁶ m this is conditional on route (a)'s rate.
+- **Under the rulings, route (b) is viable.** A rate λ = κ_b E/ħ and a coarseness r_C exist that every current bound allows, for r_C from 2.3×10⁻¹⁰ m to 1.5×10¹⁸ m (the ceiling ruled after the run). Above about 1.6×10¹⁶ m this is conditional on route (a)'s rate, and Q7 (estimated) cuts it above 2.5×10¹⁶ m.
 - **This rests on M5,** reading radiation's gravity per population, as M3's deposit implies. Under Reading I0's per-pattern criterion, route (b) survives only with r_C ≳ 2×10⁸–10⁹ m. It is then invisible in any laboratory, as Reading I0 anticipated.
 - **At laboratory r_C, the window is set from above by SNO's deuteron break-up, and from below by the weak field of rarely recorded matter's deposits.** These meet at 2.3×10⁻¹⁰ m. At 100 nm, for example:
 $$
@@ -154,10 +154,11 @@ $$
 - **The run sets a target, not a value.** CO's rules produce neither κ_b nor r_C, and no dimensional candidate lands in W at laboratory r_C.
 
 **Carried forward:**
-- **Rulings:**
-  - re-rule M6's ceiling at 1.5×10¹⁸ m (ℓ ≤ 2000, 10%);
-  - which symmetrisation route (b) takes, CSL-type or GRW-type;
-  - what E means in M2 for a superposition of energies, and Q7 with it;
+- **Ruled after the run (27 October):**
+  - the ceiling is 1.5×10¹⁸ m (ℓ ≤ 2000, a 10% loss);
+  - the rate is the operator κ_b Ĥ/ħ, so Q7 applies, to be registered with Test I1;
+  - whether route (b) is symmetrised CSL-type or GRW-type is deferred to Test I1.
+- **Rulings still open:**
   - whether the rate is per radian in the cosmic frame or along the worldline (along the worldline, photons and massless neutrinos would not commit);
   - quarks or nucleons as units.
 - **Calculations:**

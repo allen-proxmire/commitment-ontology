@@ -225,8 +225,8 @@ If a rule derived and registered beforehand gave this combination, the window wo
     - **Two edges found:**
       - SNO's deuteron break-up, κ_b < 9×10⁻³² r_C², bounds the window from above at laboratory scales;
       - the validity of Newtonian gravity from records, κ_b > ℓ_P²/r_C², bounds it from below.
-    - **Result:** the window is open for r_C from 2.3×10⁻¹⁰ m to about 1.5×10¹⁸ m (a CMB ceiling found post hoc). Above 1.6×10¹⁶ m it is conditional on route (a)'s rate (I1).
-    - **Q7 not yet tested:** energy superpositions decohere if the rate is branch-dependent, which is unruled; under that reading Q7 would add an upper bound.
+    - **Result:** the window is open for r_C from 2.3×10⁻¹⁰ m to 1.5×10¹⁸ m (a CMB ceiling found by the post-run check, ruled 27 October). Above 1.6×10¹⁶ m it is conditional on route (a)'s rate (I1).
+    - **Q7:** the rate was ruled an operator, κ_b Ĥ/ħ (27 October), so energy superpositions decohere branch by branch. A strontium clock gives κ_b < 1.8×10⁻¹¹ (estimated after the run), to be registered with I1.
 - **I1. Route (a) as decoherence** (a calculation).
   - Model a pattern meeting committed matter in CO's terms (gas collisions), and derive the coherence loss.
   - Include a control in which the matter keeps no which-path record (Bragg reflection, a material grating).
