@@ -10505,7 +10505,7 @@ with the covariant Tolman/Komar draw $d=\kappa(4\omega^2N^{-4}-2m^2N^{-2})\psi^2
    - ~~a rule for moving matter~~ *by input (Run 34): the Lorentz input gives the motion weight*
    - whether stress pulls with weight 3 (bodies held by rule cannot say): *Run 42: needed for internal binding; adopted (19 October) as the Lorentz input's full form*
    - ~~the preferred-frame terms α₁, α₂~~ *α₂ derived given C1, α₁ by input (Run 34)*
-   - whether a pattern's energy ($E=\hbar\omega$) is draw, i.e. whether quantum energy pulls as measured
+   - ~~whether a pattern's energy ($E=\hbar\omega$) is draw, i.e. whether quantum energy pulls as measured~~ *ruled 19 October (Run 33): it draws; how a superposition draws, ruled 27 October (Reading I0): only through its records*
 
 16. **The field's dynamics (Run 31).** *Decided and built.* The clock field fixed each tick was adopted (19 October; the alternatives were a wave-carried deficit or places moving with matter). On the engine (Run 35) the static draw matches the earlier engine to 0.1% (deficits within 0.4–4% at r = 4–13), the moving ball's asymmetry is −0.002 (from 0.67), and its extra draw is gone (0.999 of static, from 1.085). Still open: β and the clock designs re-measured on the relaxed medium (§5; expected unchanged, since both are steady-state results)
 17. **Horizons and radiation (Run 32).** *No horizon from a static body; the idealised surface is cold.* Open:

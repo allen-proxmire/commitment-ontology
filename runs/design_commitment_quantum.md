@@ -1,6 +1,6 @@
 ## Note I (design note): when does a pattern commit? CO's quantum sector (calculation outline)
 
-*26 October 2026; revised 27 October after two independent checks, after the 26 October ruling that a commitment is stamped with the local count (§5), and restructured 27 October to start from CO's own primitives: the earlier papers' material is now an appendix of cautions, and §3 audits every assumption the sector rests on.*
+*26 October 2026; revised 27 October after two independent checks, after the 26 October ruling that a commitment is stamped with the local count (§5), and restructured 27 October to start from CO's own primitives: the earlier papers' material is now an appendix of cautions, and §3 audits every assumption the sector rests on. Updated 27 October after Reading I0 (`quantum runs/`) and the rulings it led to: a pattern draws only through its records (C), records come from both routes, and the medium holds no branches.*
 
 *The two checks:*
 - *one of its sources, bounds and arithmetic, against the primary papers;*
@@ -85,20 +85,28 @@ $$
 | A3 | a commitment is stamped with the local count | ruled 26 October | CO's own |
 | A4 | a pattern's phase is turned by the local count, m N per tick, and never by a clock of its own | Run 16 (exploratory) | CO's own, consistent with R4 |
 | A5 | possibility carries amplitudes √P with phases, weighted by the Born rule | Run 16's test pattern; Run 14's withdrawn event layer | adopted, not derived: the Born rule is borrowed |
-| A6 | a pattern's energy draws, d ∝ ψ² (R5, R6) | ruled 19 October | CO's own. **Consequence:** an uncommitted pattern draws as one source, spread over all its branches, not as separate branches (below) |
-| A7 | the trigger's quantity is Penrose's E_G, the difference of the branches' self-energies | Penrose; the earlier papers | **not CO-native** under A6. §6(ii)–(iii) use it only as borrowed forms |
+| A6 | patterns draw; one stationary pattern by its Tolman–Komar density, d ∝ ψ² (R5; R6's full form, 20 October) | ruled 19 October | CO's own. How a superposition draws was open in the record; **ruled 27 October: only through its records (C)**, with records from both routes and a medium that holds no branches (Reading I0) |
+| A7 | the trigger's quantity is Penrose's E_G, the difference of the branches' self-energies | Penrose; the earlier papers | belongs to the branch-wise reading (B), which the 27 October rulings exclude. **Not CO-native.** §6(ii)–(iii) use it only as borrowed forms |
 | A8 | commitment acts like a Markovian channel of Lindblad form | standard open-system theory | **borrowed,** for heating estimates (Appendix A, point 3) only. CO's rule need not have this form |
 | A9 | commitment channels are energy projectors | the earlier papers | withdrawn by A3 |
 | A10 | the commitment rule is nonlocal in Bell's sense, and no-signalling | Bell's theorem with experiment (Appendix A, point 4) | a requirement, not an assumption |
 | A11 | the draw is Newtonian at weak field | Runs 30 onward | CO's own, derived |
 
-**What A6 implies, taken at face value.**
-- If an uncommitted pattern draws by ψ², spread over its branches, then a pattern that has not committed moves in its own field. Its phase is turned by the local count (A4), and the local count is lowered by its own draw.
-- At weak field that is the **Schrödinger–Newton** self-interaction, a nonlinear equation. Penrose's two separate branch fields would be a different thing.
-- Schrödinger–Newton is not standard QM, and it is testable. The self-gravity inhibits a wavepacket's dispersion from about 10¹⁰ u (Giulini and Großardt 2011).
-- Being nonlinear, it must be checked against no-signalling (Q4; Bahrami et al. 2014).
-- Page and Geilker (1981) found a gravitational field that follows a measured outcome, not the average. Under A2(a) that is consistent: the detector had committed.
-- **This is the sector's first CO-native consequence, and the first thing to check.** Does R6's draw (ψ², with ψ real for the engine's Klein–Gordon pattern; |ψ|² for a complex amplitude) apply before commitment, and does it hold for a superposition at all? That has to be read from the rules before anything is built on it (§10; test I0).
+**How a superposition draws (Reading I0; rulings of 27 October).**
+- The record left the superposed case open. Reading I0 sets out four readings:
+  - **(S)** by its average, which gives a Schrödinger–Newton self-interaction, and signals once commitment is added;
+  - **(B)** each branch its own field (Penrose's E_G);
+  - **(C)** only through its records;
+  - **(H)**, which is the same as (S).
+- **Ruled (C).** Records come from both routes:
+  - route (a), at the surroundings' resolution;
+  - route (b), a random "commit and continue" of an isolated pattern at a rate λ, localising with a coarseness length r_C.
+- **The medium holds no branches.**
+- **Consequences:**
+  - an uncommitted pattern has no self-interaction;
+  - route (b) is a rate, not a threshold;
+  - gravity cannot entangle masses. If a test of gravitationally mediated entanglement finds it, these rulings fail (§8);
+  - the first calculation is the (λ, r_C) window (§8, I0).
 
 **4. What any commitment rule must satisfy.**
 
@@ -130,17 +138,18 @@ $$
 $$
   - **What it rules out.** Energy-projector channels and their automatic immunity from the heating bounds. A global stamp could only sort branches by energy; it would make the engine's tick physical; and it would add nothing a laboratory could test beyond route (a).
   - **What it implies.** Branches at different places carry different records, so a commitment can tell them apart by where they are: the channels are position-like. Two requirements follow, and they are now the sector's targets.
-    - **A self-sourced trigger.** Branches at different heights in an external field also differ in ∫N dt, and interferometers keep them coherent (Appendix A, point 1; Q6). So the trigger cannot read the local count itself; it must read what the pattern's own draw does to it.
-      - Under A6 the pattern draws as one source, so the CO-native quantity is its own draw's effect on the local count at its places: the Schrödinger–Newton-type self-interaction of §3.
-      - It is not Penrose's difference of separate branch fields (A7).
-      - Which of the two CO actually gives is decided by A6's check (test I0).
-    - **A coarseness length.** Position-like channels heat matter (Appendix A, point 3, under the borrowed A8). Staying under Q2 (XENONnT 2026; LISA Pathfinder) needs a coarseness length well above the hop: §6(iii) excludes the hop by more than twenty-two orders. CO's rules do not yet supply one. If the same scale sets both the threshold and the coarseness, that is the consilience target (§1).
+    - **No trigger read from the local count.** Branches at different heights in an external field also differ in ∫N dt, and interferometers keep them coherent (Appendix A, point 1; Q6), so commitment cannot be triggered by the local count itself.
+      - Under the 27 October rulings an uncommitted pattern has no self-interaction either, so there is no self-sourced quantity to read.
+      - Route (b) is therefore a rate: an isolated pattern commits at random, at a rate λ, with coarseness r_C (§3).
+    - **A coarseness length.** Position-like channels heat matter (Appendix A, point 3, under the borrowed A8). Staying under Q2 (XENONnT 2026; LISA Pathfinder) needs a coarseness length well above the hop: §6(iii) excludes the hop by more than twenty-two orders. CO's rules do not yet supply one. Under the rulings r_C is route (b)'s coarseness, and Reading I0's bounds suggest it may have to be very large (photon coherence on long baselines points to 10⁶–10⁸ m or more). If one scale sets both λ and r_C, and also appears in gravity, that is the consilience target (§1).
   - **What it leaves open.**
     - Route (a) still needs Q5's rates and coherences.
     - Q7 stays as a requirement: a position-like rule must not decohere energy superpositions where coherence is seen.
     - The energy-projector conjecture of the checks' revision is withdrawn by this ruling.
 
 **6. Candidate readings of "internal complexity", each with its scale.**
+
+*Under the 27 October rulings route (b) is a rate, and an uncommitted pattern has no self-interaction. So the threshold readings (i)–(iv) below have no CO-native quantity to read; they are kept for the record and for the constraints their exclusions give. Reading (viii), a stochastic rate, is the form the rulings select.*
 
 *All estimates are order of magnitude.*
 - **(i) Possibility load per place: commitment when a pattern's own draw lowers the possibility at its places by about p_s.**
@@ -163,7 +172,7 @@ $$
   - Any natural n (1, or a few) commits every superposition at once, and Q1 excludes that.
   - A large n would be put in by hand. This reading is excluded unless the count is fixed by something else.
 - **(iii) A Diósi–Penrose rule, regularised at the hop (a borrowed form, A7).**
-  - If each branch drew separately, CO's draw, which is Newtonian at weak field, would give Penrose's E_G as the branches' difference self-energy. Under A6 the pattern draws as one source, so this reading is not CO-native. It is kept because its exclusion constrains any position-coupled rule.
+  - If each branch drew separately, CO's draw, which is Newtonian at weak field, would give Penrose's E_G as the branches' difference self-energy. It belongs to the branch-wise reading (B), which the rulings exclude, so it is not CO-native. It is kept because its exclusion constrains any position-coupled rule.
   - With the hop, about 10⁻³² m, as regulator, R₀ is more than twenty-two orders of magnitude below the current bound R₀ > 4.5×10⁻¹⁰ m (XENONnT 2026). **Excluded for position-coupled channels.** The earlier papers reached the same result at their own short scale.
   - A coarse regulator would need a length CO's rules do not yet supply. Combinations of the hop with P∞, built as (iv) builds masses (ℓP∞² ≳ 0.2–0.7 Å, for example), are not excluded by this argument. They are dimensional analysis too.
   - With the local stamp (§5) the channels are position-like, so this exclusion applies directly: the coarseness length has to come from elsewhere in the rules.
@@ -187,7 +196,7 @@ $$
   - **(viii) A stochastic rate.** For example the write-up's rate ∝ |amplitude|² × local bandwidth. All of (i)–(iv) are thresholds.
   - **(ix) R11 applied literally,** which needs near-black-hole compactness.
 
-**7. A consistency window, and what would test it.** Suppose a derived rule gave m_c = m_P/P∞, with patterns heavier than m_c committing by route (b).
+**7. A consistency window, and what would test it.** *(Under the 27 October rulings route (b) is a rate, so this threshold window applies only if a rate rule turns out to carry a mass scale.)* Suppose a derived rule gave m_c = m_P/P∞, with patterns heavier than m_c committing by route (b).
 - **Quantum side.** Q1 needs m_c > 1.7×10⁵ Da, so P∞ < 7.7×10¹³ units per place.
 - **Gravity side.** The pulsar triple and clock agreement give P∞ ≳ 6.4×10¹⁰ (Runs 24, 66). That bound rests on p_s's extrapolation, on Run 66's φ/U choice and on the borrowed inertia. With Mercury alone, P∞ ≳ 6.6×10⁷.
 - **The window.** 6.4×10¹⁰ ≲ P∞ ≲ 7.7×10¹³ is three decades. One parameter is bounded below by gravity and, under this hypothetical rule, above by interferometry. That is a consistency window, not consilience: two one-sided bounds are not two determinations.
@@ -198,20 +207,24 @@ $$
 
 If a rule derived and registered beforehand gave this combination, the window would test it. No such rule exists yet, so this is a target, not an output.
 
-**8. The tests, in order (each to be registered with a kill rule).** I0 comes first, since its answer decides what I2 and I4 compute.
-- **I0. What an uncommitted pattern draws** (a reading of the rules, then a calculation).
-  - From R5, R6 and the hold rule, settle whether a pattern draws before it commits, and whether a superposition draws as one source (A6) or as separate branches.
-  - If it draws as one source, derive the weak-field self-interaction it implies, and compare it with the Schrödinger–Newton equation.
-  - **Kill**, for A6 as the account of uncommitted matter:
-    - a self-interaction that inhibits dispersion where interference is seen (Q1);
-    - signalling (Q4).
+**8. The tests, in order (each to be registered with a kill rule).**
+- **Standing kill condition (the 27 October rulings).** If a test of gravitationally mediated entanglement (Bose et al. 2017; Marletto and Vedral 2017) finds entanglement, the rulings fail: (C), and a medium that holds no branches. With them goes CO's account of how quantum matter draws.
+- **I0. The (λ, r_C) window for route (b)** (a calculation; its reading half is Reading I0).
+  - Under (C), with records from both routes, compute the bounds on route (b)'s rate λ and coarseness r_C from five requirements:
+    1. radiation's gravity: λ ≫ 7×10⁻¹⁴ s⁻¹, and r_C below the sub-Mpc acoustic scales;
+    2. photon coherence on long baselines: r_C ≳ √N D/2π;
+    3. gravity's back-action decoherence for isolated mesoscopic masses (Tilloy and Diósi 2016; Tilloy 2018; Oppenheim et al. 2023): a lower bound on λ;
+    4. interference (Q1);
+    5. heating (Q2).
+  - Register which patterns share one (λ, r_C) before computing.
+  - **Kill:** no window left open, at the registered sharing.
 - **I1. Route (a) as decoherence** (a calculation).
   - Model a pattern meeting committed matter in CO's terms (gas collisions), and derive the coherence loss.
   - Include a control in which the matter keeps no which-path record (Bragg reflection, a material grating).
   - Decoherence by emitted thermal photons, which are patterns in CO and not committed matter, needs its own account.
   - **Kill:** a rate outside the measured one's stated uncertainty, in either direction; or decoherence predicted where the matter keeps no which-path record.
 - **I2. Heating from the local stamp** (a calculation).
-  - With the local stamp ruled (§5), the channels are position-like.
+  - With the local stamp ruled (§5), the channels are position-like. Under (C) the heating comes from route (b)'s localisations at rate λ and coarseness r_C, and from gravity's back-action.
   - Derive the centre-of-mass heating and the spontaneous radiation for the rule's channels, as a function of the coarseness length.
   - Compare them with the underground germanium and xenon detectors (Majorana 2022; XENONnT 2026) and with LISA Pathfinder.
   - Register the coarseness length's origin in the rules before computing its value.
@@ -222,8 +235,8 @@ If a rule derived and registered beforehand gave this combination, the window wo
   - Then show the singlet correlation E(a, b) = −cos(a − b), hence CHSH = 2√2, with each side's marginals independent of the other's setting.
   - An engine that simply encodes a tensor-product state with Born-rule joint outcomes reproduces the earlier papers' route. What would be new is the two-place commitment rule.
   - **Kill:** CHSH ≤ 2; CHSH > 2√2; or signalling.
-- **I4. The threshold** (a calculation).
-  - From the hold rule (R2: a commitment holds until the possibility present at its places, summed over ticks, reaches H = 2ħ_tP∞) and the pattern rule, derive when an isolated pattern must commit.
+- **I4. The rate** (a calculation; it was the threshold before the 27 October rulings).
+  - From the hold rule (R2: a commitment holds until the possibility present at its places, summed over ticks, reaches H = 2ħ_tP∞) and the pattern rule, derive route (b)'s rate λ and coarseness r_C for an isolated pattern.
   - Register which combination of scales it gives before computing its value.
   - **Kill:**
     - commitment predicted inside any (mass, separation, time) where interference is seen (Q1);
@@ -244,8 +257,10 @@ If a rule derived and registered beforehand gave this combination, the window wo
 **10. Open questions.**
 - What "internal complexity" means in CO's terms. The 170 kDa clusters' more than 7,000 atoms do not commit their centre of mass, so it is not a count of constituents below about 7,000 atoms.
 - What is matter and what is pattern. Matter is commitment that keeps re-making itself, yet a cluster's centre of mass interferes.
-- Whether an uncommitted pattern draws, and as one source or as separate branches (A6; test I0). This comes first: it decides whether the trigger's quantity is a Schrödinger–Newton self-interaction or Penrose's E_G.
-- What in CO's rules sets the coarseness length that the local stamp needs (§5), and whether it is the same scale as the threshold.
+- ~~Whether an uncommitted pattern draws, and as one source or as separate branches.~~ *Ruled 27 October: only through its records (C); records from both routes; the medium holds no branches (Reading I0).*
+- What a free pattern's "commit and continue" leaves behind, and what each commitment deposits (the full Tolman–Komar weight, normalised by 1/λ, with the momentum current).
+- Which patterns share one (λ, r_C): photons, neutrinos and isolated massive patterns alike, or not.
+- What in CO's rules sets route (b)'s rate λ and coarseness length r_C, and whether either is a scale gravity also uses.
 - Whether one scale sets both the threshold and the channels' coarseness.
 - How a nonlocal two-place commitment is defined in CO's foliation, and whether it keeps no-signalling.
 - What fixes δu (Run 74), and whether it is the same scale.
@@ -314,3 +329,6 @@ $$
 - D. Giulini and A. Großardt, "Gravitationally induced inhibitions of dispersion according to the Schrödinger–Newton equation", *Class. Quantum Grav.* 28, 195026 (2011); [arXiv:1105.1921](https://arxiv.org/abs/1105.1921).
 - M. Bahrami, A. Großardt, S. Donadi and A. Bassi, "The Schrödinger–Newton equation and its foundations", *New J. Phys.* 16, 115007 (2014); [arXiv:1407.4370](https://arxiv.org/abs/1407.4370).
 - D. N. Page and C. D. Geilker, "Indirect evidence for quantum gravity", *Phys. Rev. Lett.* 47, 979 (1981).
+- A. Tilloy and L. Diósi, "Sourcing semiclassical gravity from spontaneously localized quantum matter", *Phys. Rev. D* 93, 024026 (2016); [arXiv:1509.08705](https://arxiv.org/abs/1509.08705). A. Tilloy, *Phys. Rev. D* 97, 021502 (2018); [arXiv:1709.03809](https://arxiv.org/abs/1709.03809).
+- J. Oppenheim et al., *Nat. Commun.* 14, 7910 (2023); [arXiv:2203.01982](https://arxiv.org/abs/2203.01982).
+- S. Bose et al., *Phys. Rev. Lett.* 119, 240401 (2017); C. Marletto and V. Vedral, *Phys. Rev. Lett.* 119, 240402 (2017).
