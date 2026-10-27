@@ -1755,6 +1755,7 @@ Where the clock rate is uniform, a pattern keeps its velocity to within 0.07%: t
 - A pattern that loses coherence stops falling coherently.
 - For real particles the rate per Planck tick is tiny ($m t_{\rm P}\sim10^{-19}$ for a proton), so this does not conflict with experiment unless possibility per place is small.
 - But it ties possibility per place to the coherence of heavy matter waves. Matter-wave interferometry with large molecules could bound it.
+- *Note (27 October; Reading I4 §6, with its independent check): the live count would also heat matter. Its noise, independent from place to place, kicks a phase at the hop scale, giving about 10²¹ W per nucleon against Earth's heat-flow limit of about 10⁻³⁸ W, unless P∞ ≳ 10⁷⁰. So of the two arms, only the time-averaged count (the registered one) is viable. The remark above considered dephasing only.*
 
 **6. What this does not show.**
 - **Only the clock half of gravity is in this test pattern.** Its hops are not slowed, so it cannot bend light (Run 9's spatial half). Its fall for fast motion is not GR's. A full test would include the hop slowing that Run 9 found necessary.

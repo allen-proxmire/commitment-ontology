@@ -252,6 +252,11 @@ If a rule derived and registered beforehand gave this combination, the window wo
     - a rule that decoheres externally imposed clock-rate differences (Q6);
     - heating above Q2;
     - signalling for any state (Q4).
+  - **Reading I4 (27 October; checked independently;** [`../quantum runs/reading_I4_hold_rule.md`](../quantum%20runs/reading_I4_hold_rule.md)**).**
+    - R2 as written gives a rate per hold, λ = c/(ħ_tℓ), which conflicts with M2.
+    - With the statement that a pattern's commitment is filled by the possibility it carries (Allen, 27 October), and that stock counted in proportion to energy, the hold gives κ_b = 1/(aP∞), per radian.
+    - No value follows. W needs a·P∞ ≳ 1/κ_hi(r_C), for example ≳ 10⁴⁵ at 100 nm, or the gravity limit only for r_C ≳ 10¹⁶ m.
+    - It becomes a test once a rule fixes r_C.
 
 **9. What would count as remarkable, and what would not.**
 - **Remarkable:**
