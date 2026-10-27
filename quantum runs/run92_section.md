@@ -123,7 +123,7 @@ $$
   - The ⁸⁸Sr tweezer clock (ΔE = 1.775 eV, coherence 48 s; Young et al. 2020) then gives:
     - κ_b < 1.8×10⁻¹¹ if an electron's rate counts its orbital energy ('indep'), which caps κ_b in W for r_C above 2.5×10¹⁶ m;
     - κ_b < 2.9×10⁻⁶ for 'com', which would cap κ_b above 10¹⁹ m, beyond the ceiling.
-  - **Ruled 27 October:** the rate is the operator κ_b Ĥ/ħ, so each branch commits at its own rate. This keeps the dynamics linear; a rate set by the mean energy would be nonlinear and need Note I's no-signalling check (Q4). So Q7 applies. The estimate above, if an electron's rate includes its orbital energy, cuts W above 2.5×10¹⁶ m. It is to be registered with Test I1.
+  - **Ruled 27 October:** the rate is the operator κ_b Ĥ/ħ, so each branch commits at its own rate. This keeps the dynamics linear; a rate set by the mean energy would be nonlinear and need Note I's no-signalling check (Q4). So Q7 applies. The estimate above, if an electron's rate includes its orbital energy, caps κ_b in W for r_C above 2.5×10¹⁶ m. It is to be registered with Test I1.
 - **The lower edge, more strictly.**
   - **Per population:** the same shot-noise criterion at the CMB damping tail, and at horizon entry for ℓ = 3000, gives κ_b ≳ 7×10⁻⁹⁵ to 3×10⁻⁹³. The check also estimated, without recomputation here, about 10⁻⁹⁸ to 10⁻⁹⁶ from dwarf galaxies and 10⁻⁸⁷ to 10⁻⁸⁴ from pulsar timing, both if dark matter is particulate. None of these closes W: the per-population edge governs only above about 10¹¹–10¹⁵ m, where κ_hi ≥ 3×10⁻²⁴.
   - **Per pattern,** evaluated when the measured modes enter the horizon: κ_b ≥ 8.7×10⁻²⁷ to 2.6×10⁻²⁶. The per-pattern window then opens at 5.5–9.6×10⁸ m, still below the ceiling.
