@@ -151,7 +151,7 @@ $$
   - **What it leaves open.**
     - Route (a) still needs Q5's rates and coherences.
     - Q7 stays as a requirement: a position-like rule must not decohere energy superpositions where coherence is seen.
-    - The energy-projector conjecture of 27 October's revision is withdrawn by this ruling.
+    - The energy-projector conjecture of the checks' revision is withdrawn by this ruling.
 
 **6. Candidate readings of "internal complexity", each with its scale.**
 
@@ -179,7 +179,7 @@ $$
   - CO's draw is Newtonian at weak field, so the branches' difference self-energy is Penrose's E_G.
   - With the hop, about 10⁻³² m, as regulator, R₀ is more than twenty-two orders of magnitude below the current bound R₀ > 4.5×10⁻¹⁰ m (XENONnT 2026). **Excluded for position-coupled channels.** The earlier papers reached the same result at their own short scale.
   - A coarse regulator would need a length CO's rules do not yet supply. Combinations of the hop with P∞, built as (iv) builds masses (ℓP∞² ≳ 0.2–0.7 Å, for example), are not excluded by this argument. They are dimensional analysis too.
-  - With §5's energy channels, (iii) would localise nothing.
+  - With the local stamp (§5) the channels are position-like, so this exclusion applies directly: the coarseness length has to come from elsewhere in the rules.
 - **(iv) A mass threshold from CO's scales.** CO's dimensionless scales combine with the Planck mass m_P = 1.31×10¹⁹ Da into masses:
 
 | combination | bound (from the gravity bounds; the hop from the engine) |
