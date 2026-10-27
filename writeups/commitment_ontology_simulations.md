@@ -1,7 +1,7 @@
 # Commitment Ontology: Lattice Simulation Record
 
 **Date:** 15–26 October 2026
-**Scope:** simulation Runs 1–90 (with 72b and 81b) testing whether the commitment / bandwidth ontology, written as the stability landscape Σ (Primitive 12), reproduces gravity, and where it stops working.
+**Scope:** simulation Runs 1–91 (with 72b and 81b) testing whether the commitment / bandwidth ontology, written as the stability landscape Σ (Primitive 12), reproduces gravity, and where it stops working.
 **Code and raw data:** the `*_run.zip` bundles from the session (one per run), listed in the [file index](#file-index).
 **The ontology tested, as it now stands:** stated on one page in the repository's `ONTOLOGY.md` (rules, rulings with dates, what is derived, ruled or borrowed, predictions, open questions). §3 records how each rule was reached.
 
@@ -109,6 +109,7 @@
 | 88 | The kinetic sector of the field-order-2 algebra (HD1, DD1, A, B) at the second lattice correction (order a²; Note H), with the constraint basis part of the ansatz: (K88a) first class with the π-linear structure functions time reversal allows; (K88b) a slide basis H̃ = H − D[X], X through degree 1 (a calculation; registered) | **K88a FAIL, K88b FAIL** (NOT FOUND; controls rejected as required). The check certified K88a with LAPACK on exact coefficient equations (linear, rank 3,743, clean gap, inconsistency 0.052), showed the solver closes planted D2 problems, and found the test complete for the registered Hamiltonian (a field-dependent lapse redefinition adds no direction); K88b's FAIL follows from K88a's. The obstruction begins in {H, D} at order π² (the D4 dressing's covariance at a²): HD1 + DD1 + B closes, HD1 + DD1 + A does not. Post hoc (the check): a non-ultralocal order-a² dressing closes that part exactly, but {H, H} at order πh then fails under every freedom tested (0.43–0.50 of the obstruction remains). Reading: this lattice Hamiltonian has no local first-class closure at a² in the kinetic sector; the registered "khronometric route becomes operative" is not supported until the dressing change is registered. Consistent with the literature on discrete constraint algebras; of relative order (ak)² |
 | 89 | The kinetic sector at order a² again (Note H, field order 2), with freedoms of the theory added to Run 88's first-class form: a non-ultralocal order-a² kinetic dressing Ω₂ = P + P† with U⁰'s change Q; (K89a) the spatial-covariance sector with {H, H} at order π (HD1, DD1, A, HH1); (K89b) the full kinetic sector, adding the order-a² lapse couplings of both energies (δM, δC with δC·G = 0) (a calculation; registered) | **K89a PASS, K89b PASS** (EXISTS: non-floored 1.1×10⁻¹⁵ and 1.2×10⁻¹⁵ held out; K89b against the expectation; controls NOT FOUND). Overall FIRST-CLASS. The check certified both by independent degree extraction on fresh points (5.9×10⁻¹⁴, 4.9×10⁻¹⁴) and exact SVD (ranks 3,042 and 3,910, clean gaps); the closures are genuine balances, and random terms lie 35–100% outside the Jacobian's range. What closes {H, H} is the first-order energy's a² lapse coupling δC (without it the fit stalls at 1.9×10⁻²). **The closing Hamiltonians change the graviton dispersion** at N = 1: K89b's gives ω²_TT = s² + O(s⁵), removing Run 84's −Σs_a⁴/12 exactly (the forced coefficients are the ±1/24 that cancel it); K89a's is birefringent at a²; form (i) cannot keep Run 84's dispersion (minimum 0.61, post hoc). The check's interpretation: {H, H} contains the boost relation, so first-class closure at a² requires a Symanzik-type O(a²) improvement making the waves relativistic. Corrections adopted (the report's tangent-space minimum, NC2 weak as run, the khronometric statement incomplete: λ > 1 and the α term untested). The potential sector at a² is untested |
 | 90 | Does first-class closure at order a² force relativistic gravitational waves? The full kinetic sector at D2 with Run 89's freedoms and no order-a constant-lapse kinetic change (form iii), with the constant-lapse TT dispersion imposed exactly as Run 84's (K90a), relativistic (K90b) or isotropic non-relativistic ω² = s² − s⁴/20 (K90c); with none imposed (K90z); and the spatial sector alone with Run 84's (K90d) or relativistic (K90e). A solver that never accepts a cost increase; CG and the constraints imposed exactly (a calculation; registered) | **All six PASS; overall LORENTZ FORCED.** K90z closes with ω²_TT = s² + O(s⁵) to rounding (8×10⁻¹⁴), and its family (1,678 directions) cannot move the dispersion, to first order or at finite distance; K90b closes; K90a and K90c are NOT FOUND (three starts each, substantive ρ 1.6×10⁻³–1.8×10⁻²; variable projection along the family: supported, not certified globally); K90d and K90e are NOT FOUND and certified at D2 (exact reductions; minimum residuals 2.1×10⁻² and 0.53). Controls NOT FOUND. The check: the Run 89 check's 0.61 stands (its rows are exact at every form-(i) closure; the registration's doubt was wrong); post hoc, {H, H} at order π admits relativistic waves only with the first-order energy's a² lapse coupling; form (i) keeps one free isotropic s⁴ coefficient. Reading: GR's constraint structure at a² fixes the waves' linear dynamics to be relativistic on this lattice (a Symanzik-type improvement the algebra demands); tied to GR's imposed algebra, not derived from the primitives |
+| 91 | Does the whole field-order-2 algebra close at order a², kinetic and potential sectors together? All eight conditions (Run 89's kinetic sector in Run 90's form iii, with O₁ held; Run 87's C and D with δM and δC carried in) solved jointly at D2 by sparse exact-coefficient Gauss–Newton, with the third-order energy (a) as registered, (b) with its lapse coupling changed at orders a and a² (Z₃, zero at constant lapse), (c) with its general change; (u) form c with O₁ free if none closed (a calculation; registered) | **CLOSES WITH A LAPSE COUPLING: K91 PASS, K91r FAIL.** Form (a) NOT FOUND (three starts, stagnant; substantive ρ 1.9×10⁻², 2.1×10⁻³, 2.0×10⁻³, 96% of the residual in C); form (b) EXISTS at its first start (held-out non-floored 3.1×10⁻¹⁴; controls in C5 and D4 failing, 64–76% outside the Jacobian's range); (c) and (u) not run. The waves stay relativistic (to rounding) at the joint closure, a consistency check of Run 90. The check: the closure is real and non-trivial (Regge's energy closes the constant-lapse slice by itself; Z₃ supplies only the lapse-momentum part); form (a)'s stops were solver-limited (σ ≈ 10⁻²), but a post hoc damped solve keeps substantive ρ at 1.2×10⁻³; δT₃ is about 1% of Regge's order-a part and 12–16% of its a² part; Regge's h³ vertex is kept (not shown forced) while the ππh vertex W⁽¹⁾ changes; (D) omits Run 88's ν, immaterial. Reading: GR's route survives the whole field-order-2 algebra through a² on this lattice, with the lapse couplings of all three energies and the kinetic dressing changed; the gravity sector's lattice-algebra line at field order 2 is complete (the cut-off of 26 October) |
 
 ## Where the record stands: a consilience reading
 
@@ -8409,6 +8410,19 @@ If this holds, Notes F and G, Run 79 and Run 11b are one question: the relations
   - the potential sector at a² with a sparse engine;
   - the khronometric route proper.
 
+*Note added 27 October, after Run 91.* **Field order 2, the whole algebra at order a² (Run 91, kinetic and potential sectors together):**
+- **It closes once the third-order energy's lapse coupling may change at orders a and a²** (zero at constant lapse). With Regge's third-order energy as registered it was not found to close from three starts (substantive ρ about 2×10⁻³, mostly in {H, D} at order h²).
+- **So on this lattice GR's route survives the whole of field order 2 through a²,** with four lattice-level changes beyond Regge's construction: the kinetic dressing and the lapse couplings of all three energies. Only the dressing acts at constant lapse.
+- Regge's h³ vertex is kept at constant lapse (not shown forced); the ππh vertex W⁽¹⁾ changes at a and a². The waves stay relativistic at the joint closure.
+- **This completes the lattice-algebra line at field order 2, the cut-off agreed on 26 October.** Carried forward:
+  - field order 3;
+  - a global certificate;
+  - form (a) with a stationarity-certified solver;
+  - the khronometric route proper;
+  - an order-a constant-lapse kinetic change;
+  - isolating (B);
+  - deriving ε.
+
 **7. What would be derived, and what chosen.** If H1–H4 pass:
 - **Derived:**
   - from sliding with the momentum constraint: no vector or longitudinal waves;
@@ -9887,6 +9901,199 @@ $$
 - The stopping rule was added after validation V3a–c; V3d was rerun with it.
 - K90c2 was first launched by mistake as a detached process, killed within about 2 s, and its header-only log deleted before the registered launch. The step is deterministic; the check found K90c2's log consistent with this but could not verify the deleted launch.
 
+### Run 91: does the whole field-order-2 algebra close at order a²? (Note H, field order 2; a calculation)
+
+*26–27 October 2026.*
+- *Registered and hashed before the run (`modes91/PREREG_91.md`, with the code, the validation outputs and a dry run; 63 files; 20:52:30 UTC on 26 October).*
+- *Validation beforehand:*
+  - *the sparse Jacobian's exactness at D2 for every form;*
+  - *the joint solve at order a, with and without the O₁ hold;*
+  - *a planted toy at D2;*
+  - *negative controls at order a;*
+  - *a timing build;*
+  - *a dry run at order a.*
+- *An independent agent checked the run (below), and its corrections are adopted here.*
+
+**Why.** At field order 2, the record so far has the algebra closing:
+- at the continuum degree and at order a (Run 87);
+- at order a², in the kinetic sector, once the theory may change three things there (Run 89): the kinetic dressing P, the second-order energy's lapse coupling δM and the first-order energy's lapse coupling δC;
+- with relativistic waves forced within form (iii) (Run 90).
+
+The potential sector at order a² is the remaining part of field order 2:
+- (C), {H, D} at order h², where Regge's third-order energy T₃ enters;
+- (D), {D, D} at order πh.
+
+It is the decisive test for GR's route at field order 2, and the agreed cut-off for the gravity sector (stated 26 October).
+
+**The design changed before registration.** The first design held the kinetic sector at Run 90's solution K90z0 and solved the potential sector alone, as a linear least-squares problem. Its validation showed that this cannot work. Even at order a, where Run 87 found closure, the potential sector on K90z0's kinetic Hamiltonian leaves a certified substantive residual (ρ = 7.5×10⁻³ in C4).
+
+K90z0 is one member of a kinetic solution family with 1,678 null directions, and the potential sector selects among the members. So Run 91 solves all eight conditions together. At order a the joint solve closes from K90z0, with or without the O₁ hold, which reproduces Run 87.
+
+**Question.** With the kinetic sector in Run 90's form (iii), so that the order-a constant-lapse kinetic change O₁ is held at zero, does the whole system close at D2:
+- **(a)** with T₃ as registered (Regge's, with N0′'s β₂ and the end-average lapse);
+- **(b)** with, in addition, T₃'s lapse coupling changed at orders a and a²;
+- **(c)** with T₃'s general change at those orders, the waves' cubic vertex included?
+- And only if none closes, **(u)**: does (c) close with O₁ free?
+
+Form (b)'s change vanishes for constant lapse:
+$$
+\delta T_3(p_1,p_2,p_3)_{xyn}=\tfrac16\sum_{\text{perms}} i(p_1+p_2+p_3)_b\,Z_3(\text{perm})_{b\,\text{perm}},\qquad Z_3\ \text{at degrees }2\text{–}3 .
+$$
+Form (c)'s is the general change, at degrees 3–4:
+$$
+\delta T_3=\tfrac16\sum_{\text{perms}}\Delta T_3 .
+$$
+
+**The system** (`conds91.py`, `joint91.py`). The kinetic sector is Run 89's form (ii) with Run 90's O₁ hold. The potential sector is Run 87's
+$$
+\text{(C)}\quad T_3\cdot G+M\cdot S\,(\times2)+C\cdot T+M\cdot L^0+\Lambda\cdot C\,(\times2)=0,\qquad
+\text{(D)}\quad S\cdot S\,(\times2)+T\cdot G\,(\times2)-S\cdot B^0-G\cdot B=0,
+$$
+with M → M + δM and C → C + δC carried in as in the kinetic sector. The unknowns, all solved together through the D2 degrees:
+- the kinetic sector's S, L⁰, B⁰, W⁽¹⁾, U⁽¹⁾, V, Y, P, Q, Z and δC;
+- the potential sector's T (the sliding's h² part), Λ (the h-dependence of L) and B (the h-dependence of [u, v]), through degree 3.
+
+CG (δC·G = 0) and O₁ = 0 are imposed exactly, through an orthonormal kernel basis.
+
+| form | reduced unknowns | free columns | coefficient rows | Jacobian non-zeros |
+|---|---|---|---|---|
+| (a) | 25,078 | 24,505 | 518,460 | 59.6 million |
+| (b) | 48,966 | 47,297 | 518,460 | 64.3 million |
+| (c) | 51,102 | 48,497 | 518,460 | 61.4 million |
+
+**The method** (`sparse91.py`, `joint91.py`).
+- **Residual and Jacobian.** The residual is the vector c(z) of exact monomial coefficients (Run 89's coefficient mode). It is quadratic in z. Its Jacobian is built term by term and stored sparse, and it is exact: central differences agree to 1.4–1.8×10⁻¹⁴.
+- **The step.** Gauss–Newton with Run 90's never-increase rule: LSMR on the row-weighted, column-scaled system, truncated at 5,000 iterations. A step must lower the cost, by halving down to 2⁻¹⁰ or by damped LSMR; otherwise the start stops ("stalled").
+- **Stopping:**
+  - cost below 10⁻²⁰ of the start;
+  - a relative decrease at most 10⁻⁸ ("slow");
+  - two consecutive steps each lowering the cost by less than 1% ("stagnant");
+  - 16 iterations, or 8 for controls.
+
+  Checkpoints let a start resume after the 90-minute process budget.
+- **The rules.** A start *closes* if, on both point sets, non-floored max ρ ≤ 10⁻⁸ and floored max |r|/largest ≤ 10⁻¹². It is *failing* if it does not close, its held-out substantive max ρ (blocks with ≥ 10⁻² of the largest content) is ≥ 10⁻⁴, and it stopped progressing.
+- **The verdicts.** A form EXISTS if a start closes and both controls fail. A form is NOT FOUND if all three starts fail.
+
+**Validation (before registration).**
+
+| item | result |
+|---|---|
+| V5: Jacobian exactness at D2, forms (a)–(c) | central differences agree to 1.4×10⁻¹⁴, 1.6×10⁻¹⁴ and 1.8×10⁻¹⁴; peak memory about 3 GB |
+| V6: order a, joint, from K90z0 | closes in 5 iterations, with O₁ held (\|O₁\| = 1.4×10⁻¹⁹) and with it free (\|O₁\| = 0.070); held-out 1.1×10⁻¹⁵ |
+| V7: planted toy at D2 (a known exact solution 0.1‖K90z0‖ away) | converged in 4 full steps (cost ratio 1.5×10⁻²⁶; largest block 38.7 → 4.3×10⁻¹²); the truncation does not stop convergence |
+| V8: random terms in C4 and D3, order a | both failing (substantive ρ 0.13 and 0.063), with the iterate norm growing from 16 to 161 and 381 |
+| V9: timing at D2 | Jacobian 101 s; LSMR 0.15 s per iteration |
+| dry run, order a | every step exits 0; at order a it reproduces Run 87 (closes; both controls failing) |
+
+**Result (registered).**
+
+| step | form | start | iterations, end | weighted cost | held-out max ρ: substantive; non-floored | outcome |
+|---|---|---|---|---|---|---|
+| K91a0 | (a) | K90z0 | 8, stagnant | 2,556 → 9.72 | 1.9×10⁻² (D4); 0.28 | failing |
+| K91a1 | (a) | K90z0 perturbed (seed 9111) | 4, stagnant | 2,541 → 0.0544 | 2.1×10⁻³ (D4); 0.63 | failing |
+| K91a2 | (a) | K90z0 perturbed (seed 9112) | 4, stagnant | 2,662 → 0.0548 | 2.0×10⁻³ (D4); 0.66 | failing |
+| **K91b0** | **(b)** | K91a2's solution | 4, slow (at rounding) | 0.0584 → 2.7×10⁻²⁰ | **1.0×10⁻¹⁵; 3.1×10⁻¹⁴** (floored 2.1×10⁻¹⁶) | **closes** |
+| NC-C | (b) + a random C5 term | K91b0's solution | 6, stagnant | 2,405 → 1,553 | 4.3×10⁻² (C4); 0.80 | failing, as required |
+| NC-D | (b) + a random D4 term | K91b0's solution | 3, stagnant | 249 → 103 | 6.0×10⁻² (D4); 0.77 | failing, as required |
+
+- Form (a): **NOT FOUND**.
+- Form (b): **EXISTS**.
+- Forms (c) and (u) were not run, as registered.
+
+**Overall (registered): CLOSES WITH A LAPSE COUPLING.** K91 (GR's route survives field order 2 through a²) **PASSES**. K91r (Regge's third-order energy needs no change at a²) **FAILS**: by the check's reading, Regge's third-order energy as registered was not found to close from three starts.
+
+**The registered report.**
+- **Form (a)'s residual.** At the best start (K91a2):
+  - 96% of the held-out residual is in (C), 2.8% in (D), and under 1% in the kinetic conditions;
+  - the substantive ρ is 10⁻⁴–10⁻³ throughout, largest in D4 (2.0×10⁻³), DD14, C5 and D3.
+- **The change that closes it.** δT₃ vanishes exactly at constant lapse. The registered measure gives it as 6.7% of Regge's own T₃ at degrees 3–4. That figure mixes the two degrees at one momentum scale; the check corrects it below. It is about 1% of Regge's order-a part and 12–16% of its order-a² part, for this member of the Z₃ family, which is not a minimised change.
+- **The kinetic sector.** At K91b0 it differs from K90z0 by 0.86‖K90z0‖. Most of that, 0.82, was already present at K91a2's iterate: its random start plus its own steps. K91b0's own steps moved it by 0.13.
+  - The movement sits at the top degrees: W⁽¹⁾ at degree 2, U⁽¹⁾ and S at degree 3, Z at degree 3.
+  - The continuum parts are unchanged, apart from drift inherited from the random start.
+  - The dressing P barely moves (cosine 0.97), and nor does δC (0.995).
+- **The waves stay relativistic** at K91b0.
+  - The `lorentz` dispersion rows hold to 4.2×10⁻¹⁵.
+  - The registered Richardson estimate agrees to 6.2×10⁻⁶. That is the estimate's own error: the check's exact extraction gives the ε⁴ coefficient to 4×10⁻¹³ and the splitting to ≤ 2×10⁻⁸, so Lorentz to rounding.
+  - |O₁| = 4.9×10⁻¹⁷.
+  - The failing form-(a) iterates are not relativistic: their ε⁴ coefficient is off by about 6×10⁻³.
+
+![Run 91](../figures/91_lapse_coupling.png)
+
+**The independent check.** All 62 hash lines verified at the start and at the end, and the files of Runs 85–91 were unchanged throughout. Its findings:
+1. **K91b0's closure is real.**
+   - On fresh points (seed 91777) it gives non-floored max ρ 3.1×10⁻¹⁴, floored 2.1×10⁻¹⁶ and substantive 1.0×10⁻¹⁵.
+   - Constraints and holds are met to rounding: |O₁| 4.9×10⁻¹⁷, CG 1.5×10⁻¹⁵, and all 1,650 held coordinates are exactly 0.
+   - In coefficient mode the "held-out" points check the exact extraction of coefficients; they are not an independent sample.
+2. **Z₃ is a lapse coupling, and the closure is not trivial.**
+   - Z₃'s terms vanish exactly at zero lapse momentum and at zero shift momentum, at every degree. They reach only C4 (rank 734) and C5.
+   - At K91b0, form (a)'s own C, with no Z₃, closes on the constant-lapse slice to 6×10⁻¹³. So Regge's energy closes the constant-lapse part by itself once the other unknowns adjust, and Z₃ supplies only the part that depends on the lapse momentum.
+   - Z₃'s range misses 64–79% of form (a)'s own C residual at K91a2, so Z₃ alone does not fix form (a): the joint solve moved the other unknowns too.
+   - Form (b)'s whole Jacobian misses 76% of NC-C's term and 64% of NC-D's. The controls' failures are linear facts.
+3. **Form (a)'s NOT FOUND holds by the registered rule, but its stops were solver-limited.**
+   - 25 of the run's 29 steps hit the LSMR truncation. Form (a)'s steps were accepted at λ = 1/32–1/64. Its three "stagnant" ends had stationarity σ = 0.7–1.3×10⁻², against about 1.4×10⁻³ for a random residual.
+   - **Post hoc**, from K91a2:
+     - the potential sector solved exactly with the kinetic sector fixed lowers the cost by 33%;
+     - eight Levenberg–Marquardt steps with untruncated solves reach a near-stationary point (σ ≈ 10⁻⁴) 34% lower in cost.
+   - At that point the substantive residual is still 1.2×10⁻³ (DD14, C5, D4), 12× the threshold. So this basin's failure is robust, and the registered stop was not stationary. NOT FOUND rests on three basins.
+4. **The Jacobian.** Its non-zeros fall from 63.8 million at K91b0's start to 44.9 million at the solution. The coordinates the conditions force to zero sit at 10⁻¹¹–10⁻⁴ at a non-closing iterate and at 10⁻¹⁵ at the closure, so their products fall under the drop rule. At the solution J is exact: central differences agree to 2.5×10⁻¹⁴. Closure is judged on the exact residual, so the drop rule bears only on the steps.
+5. **The restart.** Every step's starting cost equals the previous step's final cost bitwise, the resumes included. The final iterates equal the last checkpoints.
+6. **The conditions are what they claim to be.**
+   - Run 87's C and Run 89's HD1, B and HH1, evaluated with dressed knowns (M + δM, C + δC, T₃ + δT₃), match the swapped conditions to 2–3×10⁻¹⁶. So the same δM and δC enter both sectors, and nothing else changes.
+   - δT₃ is symmetric over its legs to 3×10⁻¹⁶.
+   - **One gap:** (D) is Run 87's narrow form, without Run 88's third π-linear structure function ν in {D, D}. That cannot affect the closure. At K91a2, adding ν (post hoc) leaves the substantive residual at 1.4×10⁻³, because form (a)'s residual sits in C, which ν cannot reach.
+7. **The vertex.** Regge's h³ vertex is kept at constant lapse, but the ππh vertex W⁽¹⁾ is free in every form, and it changes:
+   - at k = 0 it differs from K90z0's by 14% at order a and 112% at order a²;
+   - its continuum part is unchanged to 2×10⁻¹⁵.
+
+   The on-shell cubic interaction was not computed.
+
+**Corrections adopted (the check).**
+- **The dispersion accuracy** is rounding, not 6.2×10⁻⁶ (finding 7 of Run 90's check, again).
+- **δT₃'s size** is about 1% of Regge's order-a part and 12–16% of its order-a² part, not a single 6.7%. The order-a part is not shown necessary: form (a) closes at order a (V6), and a form with Z₃ at degree 3 only was not tested.
+- **K91r reads** "Regge's third-order energy as registered was not found to close from three starts". It does not read "needs a change".
+- **The registration's limit** "a NOT FOUND rests on three starts per form, each ending stationary" is false as worded. The starts ended stagnant under truncated steps; post hoc, a damped solve reaches a near-stationary point 34% lower in cost, where the substantive ρ is still 1.2×10⁻³.
+- **"The waves' cubic vertex is unchanged"** becomes: Regge's h³ vertex is kept, not shown forced, since (c) was not run; and the ππh vertex W⁽¹⁾ changes at a and a².
+- **The kinetic movement** is mostly inherited from K91a2's random start (0.82 of the 0.86).
+- **Disclosed:** a line was added by hand to `run91_K91a2.log` to record the restart, and `run91_chain.txt` lists one K91a1 line twice for a single process.
+
+
+**Reading.**
+1. **On this lattice, a Hamiltonian exists for which GR's constraint algebra closes at field order 2 through order a², kinetic and potential sectors together.** So GR's route survives field order 2.
+   - Beyond Regge's construction, it needs:
+     - the kinetic dressing;
+     - the lapse couplings of the first- and second-order energies (Run 89);
+     - the lapse coupling of the third-order energy (here).
+   - Every one of these except the dressing vanishes at constant lapse.
+   - This is one solution, from one start: a formal closure at the origin of momentum space, not a global certificate.
+2. **Regge's third-order energy as registered was not found to close** from three starts. The residual is substantive: about 2×10⁻³, and 1.2×10⁻³ at a post hoc near-stationary point.
+   - Allowing its lapse coupling to change at orders a and a² closes the system.
+   - The change is about 1% of Regge's order-a part and 12–16% of its order-a² part, for this member of the family. Its order-a part is not shown necessary.
+   - It is the counterpart, one order higher in the fields, of Run 89's δM for the second-order energy.
+3. **At constant lapse, Regge's h³ vertex is kept.** Form (c), which could change it, was not needed, so keeping it is possible; it is not shown forced. The ππh vertex W⁽¹⁾ is free in every form, and it does change at a and a², so the waves' full cubic interaction at a² is not Regge's. The on-shell amplitude was not computed.
+4. **The waves stay relativistic at the joint closure.** That is a consistency check of Run 90's result within form (iii), not new information. What is new is a far member of the family: 0.86‖K90z0‖ from K90z0, most of it inherited from the perturbed start.
+5. **What is not derived.** GR's constraint algebra is imposed here, not derived from CO's primitives. The changes are the theory's lattice-level freedoms, found, not predicted.
+
+**Limits.**
+- **Formal:** at the origin of momentum space; through a²; at field order 2.
+- **Form (a)'s NOT FOUND** rests on three starts that ended stagnant under truncated steps, not at stationary points. A post hoc damped solve from the best one keeps the substantive residual at 1.2×10⁻³. It is not a global certificate.
+- **(D) is Run 87's narrow form,** without Run 88's structure function ν. That cannot affect the closure, and post hoc it does not help form (a).
+- **The closure is constructive and controlled** (two random terms not absorbed).
+- **O₁ is held** (form (iii)). Closures with an order-a constant-lapse kinetic change are untested.
+- **Field order 3,** where Regge's own vertex symmetry is expected to break (Bahr and Dittrich), is untested.
+- **The setting:** N0′, λ = 1, a flat background, one triangulation.
+
+**Disclosed.**
+- **The design change before registration,** with the first design's validation (V1–V4) kept.
+- **The solver changed three times during validation,** each time on a negative control at order a, which is not a registered system:
+  - LSMR truncated at 5,000 iterations, after one untruncated step took 15,266 iterations;
+  - the stagnant rule added, with its threshold raised from 10⁻³ to 10⁻²;
+  - the controls' cap set to 8.
+
+  A drafted stationarity threshold for failing starts was dropped before registration.
+- **A container restart interrupted K91a2** after its iteration-1 checkpoint. It resumed from the checkpoint at the checkpointed cost, and every registered file's hash verified afterwards.
+- **No Gauss–Newton step on a registered D2 system was taken before registration.**
+- **Two log artefacts:** a line was added by hand to `run91_K91a2.log` to record the restart, and `run91_chain.txt` lists one K91a1 line twice for a single process.
+
 ## 3. What the record says about the ontology
 
 **Ontology decision, 15 October 2026 (after Run 14).**
@@ -10598,6 +10805,7 @@ That last condition is also gravity's weakness: matter is light compared with th
 | 88 | taylor88.py: Run 87's engine extended to terms with any number of factors and to fixed polynomial symbols; conds88.py: the kinetic sector in three forms (d4, wide with V and Y, htilde with Ω̃ and Ũ⁰); run88_core.py: Run 87's procedure, block statistics with non-floored and floored blocks reported separately, spectral-gap certification; one process per step | D2 (HD1 ≤ 5, DD1 ≤ 4, A ≤ 3, B ≤ 4): 4,324 (wide) and 3,772 (htilde) reduced unknowns, 93,330 fit rows (seed 88002), 45,090 held out (88012); htilde starts 0–3 (X⁰ from validation, X = 0, two random); controls NC1–3 (seeds 8811–8813) | registration hashed with code and validation (the engine against Run 87's, the three-factor Jacobians, HH1 as an identity, every new formula against real-space Poisson brackets, Run 87's D1 results reproduced, planted and negative toys, control symmetry; a timing run on the d4 form and a D1 dry run disclosed); independent agent (TSQR, exact S3-invariant coefficient equations with gesdd and gelsd, LSQR; planted D2 problems; Cauchy degree extraction; completeness of the criterion, including H[N + Z]; anatomy by sub-system; post hoc probes of the dressing and the lapse coupling at a²) |
 | 89 | taylor89.py: coefficient mode (every block converted to its exact monomial coefficients, so solvability does not depend on the point set), a momentum-factor symbol; conds89.py: forms i and ii with the dressing P, U⁰'s change Q, the lapse couplings Z (δM) and δC, and the condition CG, by automatic term substitution; run89_core.py: Run 88's procedure in coefficient mode, warm-started by degree; one process per step | D2 (HD1 ≤ 5, DD1 ≤ 4, A ≤ 3, B ≤ 4, HH1 ≤ 4, CG ≤ 5): 4,558 (i) and 6,146 (ii) reduced unknowns; fit seed 89002, held out 89012; starts 8901/8902 (i) and 8911/8912 (ii), only start 0 run (closed); controls NC1, NC2 (8921, 8922) | registration hashed with code and validation (coefficient mode reproduces Run 88 at D1 and D2; Jacobians against Richardson differences; P and Q against real-space Poisson brackets, Z and δC by direct substitution; planted and negative toys; a D1 dry run and two fixes disclosed); independent agent (Cauchy degree extraction on fresh points, exact SVD of the S3-reduced coefficient systems, linear absorption of random terms, δC removed, forced parts of every unknown, exact TT eigenvalues at N = 1, variable projection for form (i) with Run 84's dispersion, geometric candidates for Ω₂) |
 | 90 | disp90.py: the constant-lapse TT dispersion exactly (eigenvalues of −Ω̂M̂) and through a² as linear rows on the dressing's degree-2 part (first-order degenerate perturbation theory with left and right eigenvectors), the O₁ rows; solver90.py: coefficient-mode Gauss–Newton that never accepts a cost increase (halving, then Levenberg–Marquardt, else stop), exact affine constraints (z_F = z_p + Ey), warm starts; run90_core.py: forms i, ii and iii, CG imposed exactly, the NOT FOUND guard; one process per step | D2 as Run 89; 48 dispersion directions (seed 9001); form iii 6,146 reduced unknowns (5,573 allowed; 5,563 with a target); form i 4,558 (4,510; 4,500); fit points 89002, held out 89012; starts: warm from K89b0, K89a0 or K90z0, Run 89's procedure, and random additions (seeds 9012–9062); controls NC90 (9071), NC89r (8922) | registration hashed with code, validation and dry runs (rows against exact eigenvalues; O₁ rows; solver on negative, planted and warm-start problems at D2; timing; two dry runs, the first leading to exact CG and the guard); independent agent (Cauchy degree extraction on fresh points; exact SVD; exact dispersion by a Cauchy integral in ε; constraints rebuilt independently; variable projection along the family; exact reductions certifying form (i); the Run 89 check's rows against HH1 at constant lapse) |
+| 91 | conds91.py: Run 87's C and D with Run 89's δM and δC substituted, forms a (Regge's T₃), b (+ the lapse coupling Z₃), c (+ the general ΔT₃); sparse91.py: the exact coefficient residual and its sparse Jacobian, built term by term in coefficient space; joint91.py: all eight conditions together, CG and O₁ imposed exactly through a kernel basis, Gauss–Newton with LSMR (column-scaled, truncated at 5,000 iterations, two threads), the never-increase rule, a stagnant stop, checkpoints; control91.py: random S3-covariant terms in C and D; one process per step, resumable | D2 (kinetic as Run 89; C ≤ 5, D ≤ 4): 25,078 (a), 48,966 (b), 51,102 (c) reduced unknowns; 24,505, 47,297, 48,497 free columns; 518,460 coefficient rows; Jacobians of 41–64 million non-zeros; fit points 91002, held out 91012; starts K90z0 or the best earlier form's solution, and perturbed starts (seeds 9111–9142); controls 9151 (C5), 9152 (D4) | registration hashed with code, validation and a dry run (the first, fixed-kinetic design and its failure at order a; Jacobian exactness at D2 by central differences; joint closure at order a with and without the O₁ hold; a planted toy at D2; negative controls at order a, which led to three disclosed solver changes; timing; a D1 dry run); independent agent (fresh-point residuals; Z₃'s structure and range; linear range tests of the controls; post hoc exact and damped solves from form (a)'s best start; the Jacobian at the solution; the restart; exact dispersion by a Cauchy integral; the conditions by direct substitution) |
 
 Units are lattice units throughout. Wave speed $v=1$. Cluster masses: $M=0.8\pi$ (A = 0.1) for Runs 3–6, and $M_A=0.25$, $M_B=0.5$ for Runs 7–8, chosen so the cadence deficit stays a few percent.
 
@@ -10696,3 +10904,4 @@ The code and data for each run were delivered as separate bundles:
 | 88 | `modes88_run.zip` | 88_kinetic_a2 |
 | 89 | `modes89_run.zip` | 89_first_class_a2 |
 | 90 | `modes90_run.zip` | 90_lorentz_forced |
+| 91 | `modes91_run.zip` | 91_lapse_coupling |

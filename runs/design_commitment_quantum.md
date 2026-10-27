@@ -23,7 +23,7 @@
 **1. Why.**
 - **The gravity sector is near a natural stopping point.**
   - Runs 85–90 showed that Note H's carrier can hold GR's constraint structure through order a² in the kinetic sector at field order 2. Within the tested family this forces relativistic waves (Run 90; not certified globally).
-  - Run 91 (the potential sector at order a²) is the next consistency test, which the record calls decisive for GR's route. Field order 3, a global certificate and the khronometric route proper also remain untested (ONTOLOGY §7).
+  - Run 91 (27 October) then closed the whole field-order-2 algebra through a², kinetic and potential sectors together, once the third-order energy's lapse coupling may change. Field order 3, a global certificate and the khronometric route proper remain untested (ONTOLOGY §7).
   - These runs test a structure that was put in, GR's constraint algebra. By the record's own reading they do not derive it from the primitives.
 - **The quantum sector is where CO may say something GR does not.** QM is what happens before ticking, and a pattern stays a pattern until it commits. That is the form of an objective commitment rule; it does not yet say when a pattern commits.
 - **The field it belongs to has sharp, current experiments:**

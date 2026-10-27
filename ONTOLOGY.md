@@ -1,6 +1,6 @@
 # The commitment ontology, as it stands
 
-Allen Proxmire · 26 October 2026 · after Runs 1–90 (with 81b) of the lattice record
+Allen Proxmire · 27 October 2026 · after Runs 1–91 (with 81b) of the lattice record
 
 This page states, in one place, what the lattice record tests: the commitment ontology's rules as they stand today. For each rule it gives:
 - its formula;
@@ -79,7 +79,7 @@ Everything that goes in, and what each input buys. The primitives, the inputs ad
 | input | kind, date | what it buys |
 |---|---|---|
 | A cubic lattice, nearest-neighbour relations, one global hop rate | engine | most runs |
-| Note H's carrier: a Kuhn-triangulated lattice with Regge's energy, the corner-metric kinetic form for the relations' stretch, and Regge's end-average lapse coupling; at the first nonlinear order, each shear term's kinetic energy timed by the lapse averaged along its face diagonal, and a field-dependent sliding reaching one place in every direction; at the second lattice correction, a kinetic term coupling neighbouring places and an order-a² change of the first-order energy's lapse coupling (Run 89; fixed only in part) | construction, Runs 83–90 | GR's two polarisations, healthy at the linear level (Run 84); GR's constraint algebra, all three brackets, at the first nonlinear order (Runs 85–86); at field order 2, GR's algebra exactly at the continuum degree, and at the first lattice correction only in a changed constraint basis (Run 87, the basis post hoc); at the second lattice correction, no closure of the kinetic sector in any basis for Run 85's dressing (Run 88), and closure once the a² kinetic term and lapse coupling are free, with the graviton dispersion then forced to be relativistic through a² (Run 89), and rigidly so: Run 84's dispersion and an isotropic non-relativistic one are not found (Run 90) |
+| Note H's carrier: a Kuhn-triangulated lattice with Regge's energy, the corner-metric kinetic form for the relations' stretch, and Regge's end-average lapse coupling; at the first nonlinear order, each shear term's kinetic energy timed by the lapse averaged along its face diagonal, and a field-dependent sliding reaching one place in every direction; at the second lattice correction, a kinetic term coupling neighbouring places and order-a² changes of the energies' lapse couplings (Run 89; fixed only in part), the third-order energy's at orders a and a² (Run 91) | construction, Runs 83–91 | GR's two polarisations, healthy at the linear level (Run 84); GR's constraint algebra, all three brackets, at the first nonlinear order (Runs 85–86); at field order 2, GR's algebra exactly at the continuum degree, and at the first lattice correction only in a changed constraint basis (Run 87, the basis post hoc); at the second lattice correction, no closure of the kinetic sector in any basis for Run 85's dressing (Run 88), and closure once the a² kinetic term and lapse coupling are free, with the graviton dispersion then forced to be relativistic through a² (Run 89), and rigidly so: Run 84's dispersion and an isotropic non-relativistic one are not found (Run 90); and the whole field-order-2 algebra, kinetic and potential sectors together, closing at a² once the third-order energy's lapse coupling may change too, with Regge's as registered not found from three starts (Run 91) |
 
 **Not yet used by any run**
 
@@ -445,6 +445,7 @@ $$
 | 88 | the kinetic part of that algebra at the second lattice correction, in any constraint basis: whether it is first class at order a² (a calculation) |
 | 89 | the same, with the theory's own a² freedoms: whether a kinetic term coupling neighbouring places, and a² changes of the energies' lapse couplings, make the kinetic sector first class at order a² (a calculation) |
 | 90 | whether that closure forces relativistic gravitational waves: the closure with the constant-lapse dispersion imposed as Run 84's, relativistic, or isotropic but non-relativistic (a calculation) |
+| 91 | whether the whole field-order-2 algebra closes at a², kinetic and potential sectors together: with Regge's third-order energy as registered, with its lapse coupling changed at orders a and a², or with its general change (a calculation) |
 
 ---
 
@@ -609,10 +610,39 @@ $$
         - a test that isolates (B);
         - an order-a constant-lapse kinetic change (nonlinear in the dispersion);
         - a global certificate for the full sector;
-        - the potential sector at a², the decisive test for GR's route, which needs a sparse engine;
+        - the potential sector at a², the decisive test for GR's route (Run 91, below);
         - the khronometric route proper (λ > 1, the α term, a form without {H, H});
         - locality where one momentum vanishes;
         - field order 3.
+    - **Field order 2: the whole algebra at a², kinetic and potential sectors together (Run 91):**
+      - **The test.** All eight conditions at D2, solved jointly by a sparse exact-coefficient solver:
+        - Run 89's kinetic sector in Run 90's form (iii);
+        - Run 87's {H, D} at order h² and {D, D} at order πh, with δM and δC carried in.
+
+        Three forms of the third-order energy T₃: (a) Regge's as registered; (b) with its lapse coupling changed at orders a and a², zero at constant lapse; (c) its general change.
+      - **Result (registered: CLOSES WITH A LAPSE COUPLING; checked).**
+        - (a) is NOT FOUND from three starts. The substantive residual is about 2×10⁻³, mostly in {H, D} at order h², and a post hoc damped solve keeps it at 1.2×10⁻³.
+        - (b) closes at its first start (held-out 3.1×10⁻¹⁴), and two random control terms are not absorbed.
+        - (c) was not needed.
+      - **The change.** The lapse coupling Z₃, with
+$$
+\delta T_3=\tfrac16\sum_{\rm perms} i(p_1+p_2+p_3)_b\,Z_3(\text{perm})_b ,
+$$
+        is about 1% of Regge's order-a part and 12–16% of its order-a² part, for this member of the family. Its order-a part is not shown necessary.
+      - **Constant lapse.** Regge's energy closes the constant-lapse part by itself, and Z₃ supplies only the part that depends on the lapse momentum. So Regge's h³ vertex is kept (not shown forced), while the ππh vertex W⁽¹⁾ changes at a and a². The waves stay relativistic at the joint closure, a consistency check of Run 90.
+      - **Reading.** On this lattice a Hamiltonian exists for which GR's constraint algebra closes at field order 2 through a², kinetic and potential sectors together. It needs four lattice-level changes beyond Regge's construction: the kinetic dressing, and the lapse couplings of all three energies. Only the dressing acts at constant lapse.
+        - It is one formal closure, from one start, not a global certificate.
+        - GR's algebra is imposed, not derived.
+      - **The lattice-algebra line at field order 2 is complete through a²: the cut-off for the gravity sector (stated 26 October).** Carried forward, untested:
+        - field order 3, where Regge's own vertex symmetry is expected to break;
+        - a global certificate;
+        - form (a) with a stationarity-certified solver;
+        - an order-a constant-lapse kinetic change (O₁ ≠ 0);
+        - a test that isolates (B);
+        - the khronometric route proper;
+        - locality where one momentum vanishes;
+        - Run 88's structure function ν in {D, D};
+        - deriving ε, and option 3.
 - Deriving the borrowed inputs: Lorentz invariance (including twist across ticks) and inertia = total energy.
 - **Whether any of the added inputs, the rules and choices adopted after the original ontology, can be derived after all,** from the primitives or from the other added inputs, so that the list of inputs shrinks (stated 24 October). More rulings are likely as the runs continue. Candidates so far:
   - the undisturbed vacuum draws nothing (R5), from the earlier added input that the vacuum never commits;
