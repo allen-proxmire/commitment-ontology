@@ -3,7 +3,7 @@
 *27 October 2026.*
 - *Registered and hashed before the run (`quantum93/PREREG_93.md`, 10 files, 16:16:21 UTC), after Allen's review ("go") and an independent pre-registration check (`check93/REPORT.md`), whose corrections were adopted before the hash.*
 - *Validated beforehand (V1–V7, all PASS).*
-- *A second independent agent checked the registered run (`check93b/REPORT.md`). Its corrections are adopted below as a post hoc addendum; K93 is unchanged.*
+- *A second independent agent checked the registered run (`check93b/REPORT.md`). Its corrections are adopted below as a post hoc addendum; K93 is unchanged. A third agent checked its gas self-gravity inference (`checkGas/REPORT.md`), with G1 ruled after it.*
 
 **Why.** Three things changed Run 92's window W for route (b)'s κ_b (with λ = κ_b E/ħ) and coarseness r_C:
 - **Run 92's checks:** the CMB ceiling, a stricter radiation-gravity edge, and the lunar-laser-ranging argument.
@@ -69,25 +69,41 @@ $$
 | 'com' | λ_a = 10¹⁴; Bartlett–van Buren δ | 4–45 | open |
 
   So the per-pattern reading survives only for 'indep' with λ_a ≳ 10¹² s⁻¹, and by a margin smaller than its own factor of 10. Run 92's 'com' per pattern PASS does not survive B13.
-- **An open, unreviewed bound above about 10¹⁵ m** (the check's inference). B13's mechanism also applies to gas that holds itself together by gravity:
-  - For interstellar gas, λ_a is about the collision rate: about 10⁻⁵ s⁻¹ in dense cores, 10⁻⁸ s⁻¹ in molecular clouds.
-  - When r_C exceeds the structure, its self-gravity is cut by f. Collapsing cores and virialised clouds then need roughly:
-    - κ_b ≲ 10⁻²⁹ for r_C ≳ 3×10¹⁵ m;
-    - κ_b ≲ 10⁻³² for r_C ≳ 3×10¹⁷ m.
-  - This would lower the upper edge at large r_C, and raise the required a·P∞ there to about 10³². It would not change K93, nor the smallest a·P∞ anywhere (3.7×10²⁴, reached between 3×10⁹ and about 10¹⁵ m).
-  - It needs λ_a for molecular gas, and the self-gravity criterion, checked independently.
+- **A gas self-gravity bound above about 10¹⁵ m** (the check's inference, then checked independently in `checkGas/REPORT.md`). B13's mechanism also applies to gas that holds itself together by gravity. When r_C exceeds the structure, the smeared share f of its draw is missing from its self-gravity.
+  - **Route (a)'s rate in molecular gas** is the H₂/He collision rate, good to a factor of about 2:
+$$
+\lambda_a=n\,\sigma\,\bar v_{\rm rel}\,(1+0.2\cdot0.7),\qquad \bar v_{\rm rel}=\sqrt{8k_BT/\pi\mu},
+$$
+    with σ ≈ 5×10⁻¹⁵ cm² at 10 K. That is about 2.6×10⁻⁵ s⁻¹ in prestellar cores (10⁵ cm⁻³) and 3×10⁻⁸ s⁻¹ in clouds (10² cm⁻³). Dust, ions, cosmic rays and photon scattering are six or more decades smaller, and H₂ barely radiates.
+  - **It rests on interstellar gas being committed matter.** Ruled 27 October (G1), consistent with Reading I1's use of gas as the recorder in Hornberger's experiment. If only solids were committed matter (G2), the caps would be about 6.5 decades tighter, but Reading I1's laboratory check would fail. If gas renewed at mc²/(aħ) (G3, the reading already rejected for bulk matter), there would be no bound.
+  - **Geometry.** The smeared share keeps a fraction w_v = 0.17, 0.029, 0.009 of its virial term at r_C/R = 1, 2, 3, falling as 0.27(R/r_C)³. So r_C ≥ 2R is enough to treat it as missing.
+  - **The criterion.** The draft's f ≲ ½ is not robust: dust opacity, N_H/A_V, X_CO and distances each carry factors of 1.5–3. The check proposes an active fraction A = (1 − f) + f·w_v ≥ 0.2, so
+$$
+f_{\max}=\frac{1-A_{\min}}{1-w_v}\approx0.82,\qquad \kappa_b\le\frac{f_{\max}}{1-f_{\max}}\,\frac{\lambda_a\hbar}{m_Nc^2}.
+$$
+  - **The caps** ('indep'; 'com' is half):
+
+| structure | applies for r_C ≥ | κ_b cap at A ≥ 0.2 | at A ≥ 0.5 | a·P∞ ≳ | confidence |
+|---|---|---|---|---|---|
+| prestellar core (0.06 pc, 10⁵ cm⁻³) | 3.7×10¹⁵ m | 9×10⁻²⁹ (5×10⁻²⁹–1.7×10⁻²⁸) | 6×10⁻³⁰ | 10²⁸ | medium–high |
+| clump (0.5 pc, 10⁴ cm⁻³) | 3×10¹⁶ m | 1×10⁻²⁹ | 7×10⁻³¹ | 10²⁹ | medium |
+| giant molecular cloud (10 pc, 3×10² cm⁻³) | 6×10¹⁷ m | 3×10⁻³¹ | 2×10⁻³² | 3×10³⁰ | low (virial status disputed) |
+
+  - **What it changes.** Per population, nothing in K93: W stays open, and the smallest a·P∞ anywhere is still 3.7×10²⁴. Per pattern, whose lower edge is 2.6×10⁻²⁶, W would close above about 4×10¹⁵ m.
+  - **What gives no bound on κ_b.** Intracluster and intergalactic gas are far larger than the ceiling. Dark matter is recorded only by route (b), so it bounds r_C, not κ_b, and no more strongly than the CMB ceiling (B12 at 100 pc; a GD-1 perturber estimate of about 10¹⁸ m is low confidence).
+  - **Carried to the next run:** the core leg as a registered bound (B15), with the clump and cloud legs reported.
 - **Minor corrections:**
   - **B14 for 'com':** the registration states 1.7×10⁻⁵, and the code halves Γ there too. The correct value (the atom carries ΔE; 33 s) is 4.15×10⁻⁶. It never binds.
   - **B13 is probably conservative.** Singh et al. bound a per-element S_Al,Fe, while the self-force limits the rock-level crust–mantle difference, which is smaller.
   - **§3's parenthetical** explains why B13 applies above 10 R_Moon, not why it is off below it.
 
 **Reading.**
-- **Under every ruling to date, route (b) is viable.** A window is open from 2.3×10⁻¹⁰ m. Its upper part is capped by lunar laser ranging, and possibly much further above about 10¹⁵ m by the gas self-gravity bound, which has not yet been reviewed.
+- **Under every ruling to date, route (b) is viable.** A window is open from 2.3×10⁻¹⁰ m. Its upper part is capped by lunar laser ranging, and, under G1, further above 3.7×10¹⁵ m by the gas self-gravity bound (to be registered next).
 - **With κ_b = 1/(aP∞), CO's vacuum possibility per place must exceed about 10²⁴ (with a of order one),** whatever r_C is. That is fourteen decades beyond gravity's bound. If a rule put r_C in the laboratory, it would need about 10⁴⁵ at 100 nm.
 - **What r_C is remains the open question.** It turns this into a sharp statement about P∞.
 
 **Carried forward:**
 - a rule for r_C;
-- the gas self-gravity bound (an independent check of λ_a in molecular gas);
+- the gas self-gravity bound, registered as B15 (core leg, A ≥ 0.2, under G1), with its virial factor and threshold checked first;
 - Singh et al.'s composition contrast;
 - `B14_q7` for 'com' in later runs.

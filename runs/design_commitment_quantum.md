@@ -244,6 +244,7 @@ If a rule derived and registered beforehand gave this combination, the window wo
       - GRW-type symmetrisation;
       - Q7 with an electron's energy.
     - Run 93 recomputed the window with these: PASS. Lunar laser ranging caps κ_b at 2.7×10⁻²⁵ above 3×10⁹ m, so a·P∞ ≳ 3.7×10²⁴ under κ_b = 1/(aP∞).
+    - Ruled 27 October, after Run 93's gas check (G1): interstellar gas is committed matter, so collisions in molecular gas are route-(a) records. The gas self-gravity bound that follows (about 9×10⁻²⁹ above 3.7×10¹⁵ m) is carried to the next run.
 - **I2. Heating from the local stamp** (a calculation).
   - With the local stamp ruled (§5), the channels are position-like. Under (C) the heating comes from route (b)'s localisations at rate λ and coarseness r_C, and from gravity's back-action.
   - Derive the centre-of-mass heating and the spontaneous radiation for the rule's channels, as a function of the coarseness length.
