@@ -102,7 +102,7 @@ Everything that goes in, and what each input buys. The primitives, the inputs ad
 - **A pattern stays a pattern until it commits** (stated 25 October): either by interacting with the committed world, or by reaching an internal complexity at which it has to commit. When that is, in numbers, is open (Note I).
 - **A commitment is stamped with the local count** (ruled 26 October): its record is the count at the place where it happens, not a global tick. So a commitment can tell a pattern's branches apart by where they are, and the rules must supply a coarseness length that keeps the heating under the radiation bounds (Note I §5).
 - **A pattern draws only through its records** (ruled 27 October; Reading I0). Records come from both routes:
-  - route (a): a pattern that interacts with committed matter is recorded at its surroundings' resolution;
+  - route (a): a pattern that interacts with committed matter is recorded at its surroundings' resolution. Amended 27 October (Reading I1): a record is made only when committed matter keeps which-path information, at the interaction, with the standard coherence kernel. Its rate in bulk is per unit, from its interactions;
   - route (b): a pattern commits at random, at a rate λ, localising with a coarseness length r_C without being absorbed ("commit and continue").
 
   So an uncommitted pattern has no self-interaction, and route (b) is a rate, not a threshold.
@@ -115,10 +115,10 @@ Everything that goes in, and what each input buys. The primitives, the inputs ad
 - **After Run 92** (ruled 27 October):
   - the rate is an operator, κ_b Ĥ/ħ, so each branch of an energy superposition commits at its own rate and the dynamics stays linear;
   - r_C lies below 1.5×10¹⁸ m, where relic neutrinos' smeared draw would erase the CMB modes up to ℓ = 2000;
-  - whether route (b) is symmetrised CSL-type or GRW-type is deferred to Test I1.
+  - route (b) is symmetrised GRW-type (ruled 27 October after Reading I1), consistent with the operator rate and with units committing on their own.
 
   Run 92 found a window: for r_C from 2.3×10⁻¹⁰ m to 1.5×10¹⁸ m, κ_b lies between the validity of Newtonian gravity from records (κ_b > ℓ_P²/r_C²) and, at laboratory r_C, SNO's deuteron break-up (κ_b < 9×10⁻³² r_C²). What fixes κ_b and r_C is open (§7).
-- **A pattern's commitment is filled by the possibility the pattern itself carries** (stated 27 October). Ruled the same day (Reading I4):
+- **A pattern's commitment is filled by the possibility the pattern itself carries** (stated 27 October; ruled for route (b) only, since route-(a) records are filled by the committed matter's possibility, Reading I1). Ruled the same day (Reading I4):
   - the stock it carries, counted in proportion to its energy (pair-equivalents), fills R2's hold;
   - the pattern recommits at random, at the rate the hold sets.
 
@@ -700,7 +700,7 @@ $$
   - route (a)'s ruling needs a which-path condition, and the hold statement must exempt route (a);
   - if route-(a) rates in bulk depend on the material, lunar laser ranging cuts Run 92's window above about 10⁹–10¹¹ m.
 
-  Rulings are pending. Tests I1–I3 are proposed, not run; I4's derivation is the reading.
+  Ruled 27 October: the which-path amendment; route (a) exempt from the hold statement; GRW-type symmetrisation; per-unit bulk rates; Q7 with an electron's energy. Run 93 recomputes the window with these. Tests I2–I3 are proposed, not run; I1's and I4's are the readings.
 - **What survives coarse-graining** (stated 26 October).
   - **The idea.** GR may be the knowable, continuous coarse-graining of a discrete system whose details averaging mostly hides. Some of what lies underneath may not be knowable from the smooth level.
   - **The parallel in number theory.** The primes have a smooth law plus an oscillating part that the smooth law cannot see. The explicit formula separates the two:

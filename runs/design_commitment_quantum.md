@@ -237,7 +237,13 @@ If a rule derived and registered beforehand gave this combination, the window wo
     - Route (a)'s ruling needs a which-path condition to pass the Bragg control.
     - The hold statement must exempt route (a), or Q5 fails.
     - If route-(a) rates depend on the material, lunar laser ranging cuts Run 92's window above about 10⁹–10¹¹ m.
-    - Rulings pending.
+    - Ruled 27 October:
+      - the which-path amendment;
+      - route (a) exempt from the hold statement;
+      - per-unit bulk rates;
+      - GRW-type symmetrisation;
+      - Q7 with an electron's energy.
+    - Run 93 recomputes the window with these.
 - **I2. Heating from the local stamp** (a calculation).
   - With the local stamp ruled (§5), the channels are position-like. Under (C) the heating comes from route (b)'s localisations at rate λ and coarseness r_C, and from gravity's back-action.
   - Derive the centre-of-mass heating and the spontaneous radiation for the rule's channels, as a function of the coarseness length.

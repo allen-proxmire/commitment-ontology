@@ -162,3 +162,13 @@ The rate is the operator κ_bĤ/ħ with κ_b = 1/(aP∞). The ⁸⁸Sr tweezer c
 
 - **(R-a2) is excluded by measurement.** A route-(a) record cannot be a Gaussian localisation of the pattern made at the interaction. Route (a)'s coherence loss has the standard kernel, with its zeros, revivals and phase.
 - **Under per-unit route-(a) rates, LLR bounds route (b) in bulk matter:** κ_b ≲ 3×10⁻²⁶–3×10⁻²², which cuts W above about 10⁹–10¹¹ m.
+
+### 9. Rulings (27 October, "as recommended")
+
+1. **Route (a) is amended.** A record is made only when committed matter keeps path-dependent (which-path) information.
+2. **The hold statement covers route (b) only.** Route-(a) records are filled by the committed matter's possibility, as R2 is written.
+3. **A route-(a) commitment and its deposit are made at the interaction.** (R-a3) waits on I3.
+4. **Route (a)'s rate in bulk is per unit, from its interactions** (reading (i)), so the lunar-laser-ranging bound of §5 applies.
+5. **Route (b) is symmetrised GRW-type.**
+6. **Q7 counts an electron's energy,** with its orbital energy.
+7. **Run 93 is registered:** Run 92's window recomputed with the lunar-laser-ranging and Q7 bounds under these rulings. The kernel's exclusion of (R-a2) is recorded as this reading's finding.
