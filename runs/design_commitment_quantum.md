@@ -1,11 +1,11 @@
 ## Note I (design note): when does a pattern commit? CO's quantum sector (calculation outline)
 
-*26 October 2026; revised 27 October after two independent checks:*
+*26 October 2026; revised 27 October after two independent checks, and again after the 26 October ruling that a commitment is stamped with the local count (§5):*
 - *one of its sources, bounds and arithmetic, against the primary papers;*
 - *one of its fidelity to the record and of its reasoning.*
 
 *Their corrections are adopted below. The main changes:*
-- *§5's energy-basis argument is now a conjecture, which conflicts with Run 16's local count;*
+- *§5's energy-basis argument conflicted with Run 16's local count; the local stamp is now ruled, so the channels are position-like and the energy-projector conjecture is withdrawn;*
 - *§6(i) is no longer R11's rule;*
 - *§3's Bell conclusion is corrected;*
 - *the current radiation bounds replace the 2020 ones;*
@@ -126,7 +126,7 @@ $$
 | Q4 | **The Born rule and no-signalling** | Born rule: bounds on higher-order interference from triple-slit tests (Sinha et al. 2010). No-signalling holds for linear ensemble dynamics. A state-dependent threshold rule is nonlinear and must be shown to keep it (Gisin 1990; Polchinski 1991). |
 | Q5 | **Ordinary decoherence at the measured rates** | Collisional decoherence of fullerenes follows standard theory (Hornberger et al. 2003). Standard decoherence through internal clocks (Pikovski et al. 2015) belongs here. |
 | Q6 | **No decoherence from externally imposed clock-rate differences beyond standard QM's** | Point 1 of §3. |
-| Q7 | **No decoherence of energy superpositions beyond what is seen** (needed if the channels are energy projectors, §5) | Optical-clock Ramsey superpositions; atom-interferometer arms of different kinetic energy; atoms whose internal states are clocks interfering (Margalit et al. 2015); neutrino and kaon oscillations. |
+| Q7 | **No decoherence of energy superpositions beyond what is seen** | Optical-clock Ramsey superpositions; atom-interferometer arms of different kinetic energy; atoms whose internal states are clocks interfering (Margalit et al. 2015); neutrino and kaon oscillations. |
 | Q8 | **A nonlocal commitment in a preferred frame stays within the speed-of-influence bounds** | Salart et al. 2008; Bancal et al. 2012. |
 | Q9 | **The record's standing checks for any rule change** | Committed patterns must still fall universally. Run 16 found that a pattern moving by commitments paid for by the places it lands on is pushed away from matter. |
 
@@ -137,20 +137,21 @@ $$
   - So route (a) must reproduce Q5's rates and Q5's coherences. If it does, it adds an objective endpoint (a record is kept) but **no new number**. That is a consistency requirement and a relabelling risk, not a prediction.
   - Run 16 has every pattern's phase already turned by the committed world's count. So "an isolated pattern, with nothing committed around it" (route (b)) needs defining.
 - **Route (b), internal complexity.** This is the only place a new number can come from. An isolated pattern commits on its own.
-- **Which channels: a conjecture, not yet sound, that they are energy projectors.**
-  - **The candidate argument.** A commitment is a tick, so it may record a count of ticks.
-  - **The problem.** A count of ticks is a duration. It gives a function of the energy only under two conditions:
-    - it counts global ticks, but R4 says the engine's tick is not physical time;
-    - the record leaves out the place where the commitment happens, but commitments are "irreversible updates at places".
-  - **What CO's own rule gives.** With the local count that turns a pattern's phase (Run 16), the record is m∫N dt. That differs between branches at different potentials, which is §3 point 1's quantity.
-  - **If the channels were energy projectors anyway,** with [Π̂_α, Ĥ] = 0:
-    - §3 point 3's heating rate would vanish, and Q2's heating and radiation bounds would be met;
-    - the channels would have to meet Q7's bounds instead;
-    - no equal-energy superposition would commit by route (b), macroscopic pointer states and a free particle's centre-of-mass superposition included;
-    - every superposition of different energies would be acted on, and a free wavepacket would be projected onto shells of fixed |p|, which spreads it;
-    - in Earth's field a vertical split and a horizontal split would behave differently;
-    - position measurement would need the local subsystem energies of a detector (a pixel excited or not), and those projectors do not commute with the total Ĥ, so the heating bound returns in exactly the detector case.
-  - **To be decided in the record before any test:** whether a commitment's count is local or global.
+- **Which channels: the local stamp (ruled 26 October).** A commitment's record is stamped with the local count at the place where it happens, not with a global tick.
+  - **Why this choice.**
+    - It is the record's own account of time: time at a place is the count of commitments there (§2), and R4 says the engine's tick is not physical time.
+    - It is the rule that already turns a pattern's phase (Run 16): each branch's record is its own
+$$
+\phi_{\rm branch}=m\!\int\! N\,dt,\qquad N=P/P_\infty .
+$$
+  - **What it rules out.** Energy-projector channels and their automatic immunity from the heating bounds. A global stamp could only sort branches by energy; it would make the engine's tick physical; and it would add nothing a laboratory could test beyond route (a).
+  - **What it implies.** Branches at different places carry different records, so a commitment can tell them apart by where they are: the channels are position-like. Two requirements follow, and they are now the sector's targets.
+    - **A self-sourced trigger.** Branches at different heights in an external field also differ in ∫N dt, and interferometers keep them coherent (§3 point 1; Q6). So the trigger cannot read the local count itself. It must read what each branch's own draw does to the possibility around it. That is the quantity Penrose's E_G stands for, here to be computed from CO's draw, not borrowed.
+    - **A coarseness length.** Position-like channels heat matter (§3 point 3). Staying under Q2 (XENONnT 2026; LISA Pathfinder) needs a coarseness length well above the hop: §6(iii) excludes the hop by more than twenty-two orders. CO's rules do not yet supply one. If the same scale sets both the threshold and the coarseness, that is the consilience target (§1).
+  - **What it leaves open.**
+    - Route (a) still needs Q5's rates and coherences.
+    - Q7 stays as a requirement: a position-like rule must not decohere energy superpositions where coherence is seen.
+    - The energy-projector conjecture of 27 October's revision is withdrawn by this ruling.
 
 **6. Candidate readings of "internal complexity", each with its scale.**
 
@@ -216,11 +217,12 @@ If a rule derived and registered beforehand gave this combination, the window wo
   - Include a control in which the matter keeps no which-path record (Bragg reflection, a material grating).
   - Decoherence by emitted thermal photons, which are patterns in CO and not committed matter, needs its own account.
   - **Kill:** a rate outside the measured one's stated uncertainty, in either direction; or decoherence predicted where the matter keeps no which-path record.
-- **I2. What a commitment records.**
-  - First decide in the record whether a commitment's count is local or global.
-  - Then derive from the primitives whether the channels are energy projectors.
-  - If they are, the heating rate in §3 vanishes, and Q7 applies. If they are not, compute the centre-of-mass heating for the underground germanium and xenon detectors and for LISA Pathfinder.
-  - **Kill:** heating above Q2's bounds; or, for energy-projector channels, decoherence of energy superpositions where coherence is seen (Q7).
+- **I2. Heating from the local stamp** (a calculation).
+  - With the local stamp ruled (§5), the channels are position-like.
+  - Derive the centre-of-mass heating and the spontaneous radiation for the rule's channels, as a function of the coarseness length.
+  - Compare them with the underground germanium and xenon detectors (Majorana 2022; XENONnT 2026) and with LISA Pathfinder.
+  - Register the coarseness length's origin in the rules before computing its value.
+  - **Kill:** heating or radiation above Q2's bounds at the length the rules give; or no length in the rules that meets them.
 - **I3. Bell from a dissolved relation** (an engine run).
   - Model a two-part pattern from one dissolved relation, committed at two distant places.
   - Register the two-place commitment rule first: what happens at the distant part when one part commits, and in which frame.
@@ -249,7 +251,7 @@ If a rule derived and registered beforehand gave this combination, the window wo
 **10. Open questions.**
 - What "internal complexity" means in CO's terms. The 170 kDa clusters' more than 7,000 atoms do not commit their centre of mass, so it is not a count of constituents below about 7,000 atoms.
 - What is matter and what is pattern. Matter is commitment that keeps re-making itself, yet a cluster's centre of mass interferes.
-- Whether a commitment's count is local (Run 16) or global, which decides whether the channels can be energy projectors.
+- What in CO's rules sets the coarseness length that the local stamp needs (§5), and whether it is the same scale as the threshold.
 - Whether one scale sets both the threshold and the channels' coarseness.
 - How a nonlocal two-place commitment is defined in CO's foliation, and whether it keeps no-signalling.
 - What fixes δu (Run 74), and whether it is the same scale.
