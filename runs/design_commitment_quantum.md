@@ -44,7 +44,7 @@
   - **(b)** by reaching an internal complexity at which it has to commit.
 
   The two-route form mirrors the earlier papers' structure: environment-triggered selection of a pointer basis, plus an intrinsic, gravitational individuation.
-- **The note's stance on gravity-collapse models.** This note does not take the spacetime-fluctuation route of those models (Diósi–Penrose, Károlyházy) as CO's. That route assumes a spacetime which CO has to derive. This is a design stance, not a ruling.
+- **Gravity-collapse models.** Models that rest on spacetime fluctuations (Diósi–Penrose, Károlyházy) assume a medium whose nature they do not account for (an objection stated 25 October). So they are not taken as CO's route; CO has to derive what spacetime is first.
 - **Patterns** hop on their place's ticks and need free capacity there (R6, provisional). Massive patterns obey
 $$
 -N^4\nabla^2\psi+m^2N^2\psi=\omega^2\psi .
