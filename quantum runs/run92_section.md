@@ -101,6 +101,7 @@ $$
   - For ℓ ≤ 2000 at a 10% loss, r_C ≤ 0.459 c/H(entry) = **1.5×10¹⁸ m**. The values are 6.2×10¹⁸ m for ℓ = 1000 and 9.6×10¹⁷ m for ℓ = 2500.
   - So W's physical upper end is 1.5×10¹⁸ m. The "widest window" at 10²¹ m and the candidate ε (inside W only above 1.6×10¹⁹ m) fall away. **Ruled 27 October:** the ceiling is 1.5×10¹⁸ m (ℓ ≤ 2000, a 10% loss).
 - **Above 1.56×10¹⁶ m, route (b) outpaces phonon rates** at W's upper edge, and electronic rates above 1.56×10¹⁷ m. There, bulk matter's draw is no longer laid down mostly at route (a)'s fine resolution. So W above 1.56×10¹⁶ m is conditional on route (a)'s rate, which Test I1 is to define.
+  - *Correction (27 October, Reading I1 §5): this is too weak. What matters is the fraction f = λ_b/(λ_a + λ_b) of a body's draw smeared at r_C. If λ_a depends on the material, lunar laser ranging bounds f(Al) − f(Fe) < 3.9×10⁻¹⁴, so κ_b ≲ 3×10⁻²⁶–3×10⁻²². That cuts W above about 10⁹–10¹¹ m. If bulk constituents renew as matter at about mc²/(aħ), there is no cut.*
 - **B11 (self-kick heating of dark matter) is withdrawn.**
   - Where it was said to bite, one self-kick (5.6×10⁷ m s⁻¹ at 2.3×10⁻¹⁰ m) far exceeds a dwarf galaxy's escape speed, so a recorded particle is ejected.
   - The ejected fraction λt is at most 2×10⁻⁵ near W's lower end, for masses up to 10 TeV. It grows with κ_b, so it sets no lower bound.
@@ -110,6 +111,10 @@ $$
 \frac{d\langle H\rangle}{dt}=\frac{\lambda\hbar^2}{2m}\int dx\sum_i\frac{|\nabla g_i|^2}{4\sum_k g_k}\ \le\ \text{labelled}.
 $$
   On a lattice the ratio is 0.26 at r_C = a/2 and 0.0042 at 2a. So under GRW-type symmetrisation, B1, B8 and B10 overstate the signal by up to the number of like units within r_C (about 17–46 at the lower edge). W could only widen, so the verdict stands. Which symmetrisation route (b) takes is not ruled.
+  - *Correction (27 October, after Reading I1's check): the registration's sentence that "the labelled treatment is conservative for every upper bound" is wrong under either symmetrisation.*
+    - *Under GRW-type the labelled bounds are too strong, and W only widens.*
+    - *Under CSL-type, B10 is suppressed, by about 2×10⁻⁷ at leading order (Jones, Pearle and Ring 2004), and B2 is enhanced, to κ_b < 5.3×10⁻⁴⁰ r_C² for r_C much larger than the test mass.*
+    - *CSL-type also conflicts with M2 and M4: its total rate is N²λ for N units within r_C.*
 - **Energy superpositions (Note I's Q7, not computed in the registration).**
   - If the rate follows each branch's energy (λ = κ_b E/ħ per branch), branches of different energy leak which-branch information at
 $$

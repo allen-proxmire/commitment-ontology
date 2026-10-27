@@ -695,7 +695,12 @@ $$
   **Reading I4** (27 October; checked): the hold rule gives κ_b = 1/(aP∞) under the statement above, so Run 92's window becomes a lower bound on P∞ at each r_C (a·P∞ ≳ 10⁴⁵ at 100 nm). No value follows until a rule fixes r_C.
   - **Ruled from it (27 October):** a pattern's phase is turned by the time-averaged count (Run 16's registered arm). The live count would heat matter at about 10²¹ W per nucleon unless P∞ ≳ 10⁷⁰.
 
-  Tests I1–I3 are proposed, not run; I4's derivation is the reading.
+  **Reading I1** (27 October; checked):
+  - route (a)'s coherence loss has the standard kernel, since a Gaussian localisation at the interaction is excluded by single-photon which-path experiments;
+  - route (a)'s ruling needs a which-path condition, and the hold statement must exempt route (a);
+  - if route-(a) rates in bulk depend on the material, lunar laser ranging cuts Run 92's window above about 10⁹–10¹¹ m.
+
+  Rulings are pending. Tests I1–I3 are proposed, not run; I4's derivation is the reading.
 - **What survives coarse-graining** (stated 26 October).
   - **The idea.** GR may be the knowable, continuous coarse-graining of a discrete system whose details averaging mostly hides. Some of what lies underneath may not be knowable from the smooth level.
   - **The parallel in number theory.** The primes have a smooth law plus an oscillating part that the smooth law cannot see. The explicit formula separates the two:

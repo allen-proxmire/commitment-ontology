@@ -232,6 +232,12 @@ If a rule derived and registered beforehand gave this combination, the window wo
   - Include a control in which the matter keeps no which-path record (Bragg reflection, a material grating).
   - Decoherence by emitted thermal photons, which are patterns in CO and not committed matter, needs its own account.
   - **Kill:** a rate outside the measured one's stated uncertainty, in either direction; or decoherence predicted where the matter keeps no which-path record.
+  - **Reading I1 (27 October; checked independently;** [`../quantum runs/reading_I1_route_a.md`](../quantum%20runs/reading_I1_route_a.md)**).**
+    - Route (a)'s coherence loss has the standard kernel. A Gaussian localisation at the interaction is excluded by single-photon which-path experiments.
+    - Route (a)'s ruling needs a which-path condition to pass the Bragg control.
+    - The hold statement must exempt route (a), or Q5 fails.
+    - If route-(a) rates depend on the material, lunar laser ranging cuts Run 92's window above about 10⁹–10¹¹ m.
+    - Rulings pending.
 - **I2. Heating from the local stamp** (a calculation).
   - With the local stamp ruled (§5), the channels are position-like. Under (C) the heating comes from route (b)'s localisations at rate λ and coarseness r_C, and from gravity's back-action.
   - Derive the centre-of-mass heating and the spontaneous radiation for the rule's channels, as a function of the coarseness length.
