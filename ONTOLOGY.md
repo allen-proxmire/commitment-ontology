@@ -1,6 +1,6 @@
 # The commitment ontology, as it stands
 
-Allen Proxmire · 27 October 2026 · after Runs 1–91 (with 81b) of the lattice record
+Allen Proxmire · 27 October 2026 · after Runs 1–91 (with 81b) of the lattice record, and Run 92, the quantum sector's first calculation
 
 This page states, in one place, what the lattice record tests: the commitment ontology's rules as they stand today. For each rule it gives:
 - its formula;
@@ -73,6 +73,7 @@ Everything that goes in, and what each input buys. The primitives, the inputs ad
 | The hop, about 10^2.5–10^3 Planck lengths | from the engine | an open tension with ℓ_ED = ℓ_P (§7) |
 | G, c and ħ | measured | the draw's strength, light's speed far from matter, a hold's length |
 | Λ, with Λℓ_P² = 3Ω_Λ(H₀t_P)² ≈ 2.9×10⁻¹²² | from data, 24 October (R5) | the observed acceleration; the rules give Λ = 0 |
+| Route (b)'s κ_b and r_C: bounded, not fixed. At r_C = 100 nm, for example, 2.6×10⁻⁵⁶ < κ_b < 9.0×10⁻⁴⁶ | from data, Run 92 | radiation and isolated patterns draw, unseen in the laboratory |
 
 **The engine** (choices about the model, not claims about nature)
 
@@ -102,9 +103,17 @@ Everything that goes in, and what each input buys. The primitives, the inputs ad
 - **A commitment is stamped with the local count** (ruled 26 October): its record is the count at the place where it happens, not a global tick. So a commitment can tell a pattern's branches apart by where they are, and the rules must supply a coarseness length that keeps the heating under the radiation bounds (Note I §5).
 - **A pattern draws only through its records** (ruled 27 October; Reading I0). Records come from both routes:
   - route (a): a pattern that interacts with committed matter is recorded at its surroundings' resolution;
-  - route (b): an isolated pattern commits at random, at a rate λ, localising with a coarseness length r_C without being absorbed ("commit and continue").
+  - route (b): a pattern commits at random, at a rate λ, localising with a coarseness length r_C without being absorbed ("commit and continue").
 
   So an uncommitted pattern has no self-interaction, and route (b) is a rate, not a threshold.
+- **Route (b)'s form** (ruled 27 October, for Run 92):
+  - it acts on every pattern at all times, not only on isolated ones;
+  - its rate is per radian of phase, λ = κ_b E/ħ;
+  - each record deposits the pattern's draw E_TK/λ_tot at the recorded place, smeared at r_C, so the mean draw is exact whatever the rate;
+  - its units are electrons and nucleons, each committing on its own;
+  - radiation's gravity follows the radiation per population: the deposits of all rarely recorded matter add up to the draw, and only their shot noise is bounded.
+
+  Run 92 found a window: for r_C from 2.3×10⁻¹⁰ m to about 1.5×10¹⁸ m, κ_b lies between the validity of Newtonian gravity from records (κ_b > ℓ_P²/r_C²) and, at laboratory r_C, SNO's deuteron break-up (κ_b < 9×10⁻³² r_C²). What fixes κ_b and r_C is open (§7).
 - **The medium holds no branches** (ruled 27 October). Its count N = P/P∞ has one value at each place; patterns carry amplitudes and phases, the medium does not. With the previous ruling this makes gravity unable to entangle masses: if a test of gravitationally mediated entanglement finds it, these rulings fail.
 - **Where possibility runs low, infalling matter commits for good.** Under the current ruling this happens at about twice the medium's crossover scale. That is the core of a black hole, where what falls in becomes record.
 - **No infinities** (stated 23 October; adopted 24 October). Every physical quantity is finite: counts, densities, energies, and the number of places in any finite region. Continuum mathematics is an approximation to finite counts. Whether the universe as a whole has finitely many places is open (§7).
@@ -452,6 +461,7 @@ $$
 | 89 | the same, with the theory's own a² freedoms: whether a kinetic term coupling neighbouring places, and a² changes of the energies' lapse couplings, make the kinetic sector first class at order a² (a calculation) |
 | 90 | whether that closure forces relativistic gravitational waves: the closure with the constant-lapse dispersion imposed as Run 84's, relativistic, or isotropic but non-relativistic (a calculation) |
 | 91 | whether the whole field-order-2 algebra closes at a², kinetic and potential sectors together: with Regge's third-order energy as registered, with its lapse coupling changed at orders a and a², or with its general change (a calculation) |
+| 92 | the window for route (b)'s rate and coarseness under the rulings of 26–27 October: every current bound on spontaneous localisation, with gravity sourced by the records (a calculation, quantum runs) |
 
 ---
 
@@ -659,7 +669,20 @@ $$
 - Whether the universe as a whole has finitely many places (the no-infinities principle, §1, read globally). If it does, space closes on itself, and searches of the CMB for repeated patterns bound how small it can be.
 - Where three dimensions come from. The engine assumes them. Stated 23 October: dimension comes from how commitments relate, and the first commitments, all blinking at the same rate, together with an early inflation, set the lattice and the hop.
 - Particles as knots built from the engine's own commitments.
-- **When a pattern commits** (Note I, a design note, 26 October; revised 27 October after two independent checks): the requirements any commitment rule must meet, with today's bounds; candidate readings of "internal complexity"; and a consistency window for one parameter bounded below by gravity and, under a hypothetical rule, above by interferometry. The checks found that the argument for energy-projector channels conflicts with Run 16's local count, and that the commitment rule itself must be nonlocal in Bell's sense. The local stamp was then ruled (26 October), so the channels are position-like. Restructured 27 October to start from CO's own primitives, with every assumption audited by source. The record had left open how a superposed pattern draws. Reading I0 (`quantum runs/`, checked independently) set out the readings: by its average (Schrödinger–Newton, which signals once commitment is added), branch by branch (Penrose's E_G), or only through its records. The last was ruled on 27 October, with records from both routes and a medium that holds no branches. So route (b) is a rate, and the first calculation is the window for its rate λ and coarseness r_C, between radiation's gravity, photon coherence on long baselines, gravity's back-action, interference and heating. Tests I0–I4 are proposed, not run.
+- **When a pattern commits** (Note I, a design note, 26 October; revised 27 October after two independent checks): the requirements any commitment rule must meet, with today's bounds; candidate readings of "internal complexity"; and a consistency window for one parameter bounded below by gravity and, under a hypothetical rule, above by interferometry. The checks found that the argument for energy-projector channels conflicts with Run 16's local count, and that the commitment rule itself must be nonlocal in Bell's sense. The local stamp was then ruled (26 October), so the channels are position-like. Restructured 27 October to start from CO's own primitives, with every assumption audited by source. The record had left open how a superposed pattern draws. Reading I0 (`quantum runs/`, checked independently) set out the readings: by its average (Schrödinger–Newton, which signals once commitment is added), branch by branch (Penrose's E_G), or only through its records. The last was ruled on 27 October, with records from both routes and a medium that holds no branches. So route (b) is a rate, and the first calculation is the window for its rate λ and coarseness r_C, between radiation's gravity, photon coherence on long baselines, gravity's back-action, interference and heating.
+
+  **Run 92 (27 October; registered; checked before and after) computed it: PASS.** The window is open for r_C from 2.3×10⁻¹⁰ m to about 1.5×10¹⁸ m, a ceiling found post hoc.
+  - It rests on reading radiation's gravity per population (ruled 27 October). Read per pattern, the window exists only above about 2×10⁸ m.
+  - Above 1.6×10¹⁶ m the window is conditional on route (a)'s rate.
+
+  Open from it:
+  - what fixes κ_b and r_C;
+  - whether route (b) is symmetrised CSL-type or GRW-type;
+  - what E means in λ = κ_b E/ħ for a superposition of energies (Note I's Q7);
+  - whether the rate is per radian in the cosmic frame or along the worldline;
+  - whether its units are quarks or nucleons.
+
+  Tests I1–I4 are proposed, not run.
 - **What survives coarse-graining** (stated 26 October).
   - **The idea.** GR may be the knowable, continuous coarse-graining of a discrete system whose details averaging mostly hides. Some of what lies underneath may not be knowable from the smooth level.
   - **The parallel in number theory.** The primes have a smooth law plus an oscillating part that the smooth law cannot see. The explicit formula separates the two:

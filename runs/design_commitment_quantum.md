@@ -218,6 +218,15 @@ If a rule derived and registered beforehand gave this combination, the window wo
     5. heating (Q2).
   - Register which patterns share one (λ, r_C) before computing.
   - **Kill:** no window left open, at the registered sharing.
+  - **Run 92 (27 October; registered): PASS** ([`../quantum runs/run92_section.md`](../quantum%20runs/run92_section.md)).
+    - **Sharing:** every pattern shares λ = κ_b E/ħ and r_C.
+    - **Requirement 1 read per population** (ruled 27 October): κ_b ≳ 10⁻¹⁰⁰. Per pattern, as written above, the window exists only above r_C ≈ 2×10⁸ m.
+    - **Requirement 3:** gives no lower bound through decoherence.
+    - **Two edges found:**
+      - SNO's deuteron break-up, κ_b < 9×10⁻³² r_C², bounds the window from above at laboratory scales;
+      - the validity of Newtonian gravity from records, κ_b > ℓ_P²/r_C², bounds it from below.
+    - **Result:** the window is open for r_C from 2.3×10⁻¹⁰ m to about 1.5×10¹⁸ m (a CMB ceiling found post hoc). Above 1.6×10¹⁶ m it is conditional on route (a)'s rate (I1).
+    - **Q7 not yet tested:** energy superpositions decohere if the rate is branch-dependent, which is unruled; under that reading Q7 would add an upper bound.
 - **I1. Route (a) as decoherence** (a calculation).
   - Model a pattern meeting committed matter in CO's terms (gas collisions), and derive the coherence loss.
   - Include a control in which the matter keeps no which-path record (Bragg reflection, a material grating).

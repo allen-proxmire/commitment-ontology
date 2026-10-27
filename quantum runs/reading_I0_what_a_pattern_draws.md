@@ -92,6 +92,22 @@ $$
 
   A large r_C satisfies 2, 4 and 5. Whether 1 and 3 leave a window open for one (λ, r_C) shared by photons and isolated massive patterns is the calculation's question. If r_C must be 10⁷ m or more, route (b) is invisible in a laboratory, and the origin of so long a length in CO's rules becomes the open question.
 
+**After Run 92 (27 October).** The window was computed ([`run92_section.md`](run92_section.md)). Four rulings for it, all 27 October, change how the bounds above are read:
+- route (b) acts on every pattern, not only isolated ones;
+- its rate is per radian of phase, λ = κ_b E/ħ;
+- each record deposits the draw E_TK/λ_tot;
+- radiation's gravity follows the radiation per population.
+
+How each bound fared:
+- **Bound 1, read per population.** The deposits of all rarely recorded neutrinos, at their current positions, add up to the right draw, so only their shot noise is bounded: κ_b ≳ 10⁻¹⁰⁰.
+  - Read per pattern, as written above, it needs κ_b ≳ 10⁻²⁷. The window then exists only for r_C ≳ 2×10⁸–10⁹ m, as anticipated here.
+  - The ceiling on r_C is set by horizon entry of the measured modes, not by the sound horizon: r_C ≲ 1.5×10¹⁸ m (post hoc).
+- **Bound 2.** Photons commit at κ_b ω, and the bound is Run 92's B5.
+- **Bound 3.** Through decoherence the back-action gives no lower bound on λ, since each record costs at most two units of coherence.
+- **The lower edge at laboratory r_C** comes instead from the validity of Newtonian gravity from records: κ_b > ℓ_P²/r_C².
+
+Result: K92 PASS, with the window open for r_C from 2.3×10⁻¹⁰ m to about 1.5×10¹⁸ m.
+
 **What changes in Note I.**
 - A6: patterns draw (ruled 19 October); the ψ² density is R6's (20 October), for single stationary patterns; how a superposition draws is ruled (C) on 27 October, with the two sub-rulings.
 - A7: Penrose's E_G belongs to reading (B), which the rulings exclude.
