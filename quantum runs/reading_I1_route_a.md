@@ -113,7 +113,7 @@ $$
 $$
   where κ_b ≲ 2.7×10⁻²⁵ follows from λ_b = κ_b m_Nc²/ħ.
   - W's upper edge (RadioAstron, 2.87×10⁻⁴⁴ r_C²) reaches this at r_C ≈ 3×10⁹ m, or about 10⁹–10¹¹ m across λ_a = 10¹²–10¹⁴ s⁻¹ and the two LLR bounds.
-  - **So under (i), LLR cuts W above about 10⁹–10¹¹ m.** With κ_b = 1/(aP∞) it needs a·P∞ ≳ 10²²–10²⁵ at any r_C. That excludes a·P∞ near gravity's limit, and with it Reading I4's "the gravity limit only for r_C ≳ 10¹⁶ m".
+  - **So under (i), LLR cuts W above about 10⁹–10¹¹ m.** With κ_b = 1/(aP∞) it needs a·P∞ ≳ 4×10²¹–4×10²⁵ at any r_C. That excludes a·P∞ near gravity's limit, and with it Reading I4's "the gravity limit only for r_C ≳ 10¹⁶ m".
   - **Run 92's addendum sentence** ("conditional on route (a)'s rate above 1.6×10¹⁶ m") was too weak by the same argument. It used λ_b < λ_a where f ≪ the LLR bound is needed.
   - **The per-pattern reading's window** (κ_b ≳ 8×10⁻²⁸, r_C ≳ 1.7×10⁸ m) survives under (i), between 8×10⁻²⁸ and 2.7×10⁻²⁵.
 
@@ -139,7 +139,7 @@ The rate is the operator κ_bĤ/ħ with κ_b = 1/(aP∞). The ⁸⁸Sr tweezer c
 
 - **For the electron's reading, by value of a:** P∞ ≳ 5.6×10¹¹ (a = 0.1), 5.6×10¹⁰ (a = 1) or 8.9×10⁹ (a = 2π), against gravity's 6.4×10¹⁰.
 - **If the two valence electrons share ΔE,** Γ halves.
-- **Under §5's reading (i),** LLR's bound (a·P∞ ≳ 10²²–10²⁵) is far stronger than Q7.
+- **Under §5's reading (i),** LLR's bound (a·P∞ ≳ 4×10²¹–4×10²⁵) is far stronger than Q7.
 
 ### 8. Choices for a ruling
 
@@ -161,4 +161,4 @@ The rate is the operator κ_bĤ/ħ with κ_b = 1/(aP∞). The ⁸⁸Sr tweezer c
 ### What I1 adds that is not a relabelling
 
 - **(R-a2) is excluded by measurement.** A route-(a) record cannot be a Gaussian localisation of the pattern made at the interaction. Route (a)'s coherence loss has the standard kernel, with its zeros, revivals and phase.
-- **Under per-unit route-(a) rates, LLR bounds route (b) in bulk matter:** κ_b ≲ 10⁻²⁵–10⁻²³, which cuts W above about 10⁹–10¹¹ m.
+- **Under per-unit route-(a) rates, LLR bounds route (b) in bulk matter:** κ_b ≲ 3×10⁻²⁶–3×10⁻²², which cuts W above about 10⁹–10¹¹ m.
