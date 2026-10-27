@@ -1,23 +1,26 @@
 ## Note I (design note): when does a pattern commit? CO's quantum sector (calculation outline)
 
-*26 October 2026; revised 27 October after two independent checks, and again after the 26 October ruling that a commitment is stamped with the local count (§5):*
+*26 October 2026; revised 27 October after two independent checks, after the 26 October ruling that a commitment is stamped with the local count (§5), and restructured 27 October to start from CO's own primitives: the earlier papers' material is now an appendix of cautions, and §3 audits every assumption the sector rests on.*
+
+*The two checks:*
 - *one of its sources, bounds and arithmetic, against the primary papers;*
 - *one of its fidelity to the record and of its reasoning.*
 
 *Their corrections are adopted below. The main changes:*
-- *§5's energy-basis argument conflicted with Run 16's local count; the local stamp is now ruled, so the channels are position-like and the energy-projector conjecture is withdrawn;*
-- *§6(i) is no longer R11's rule;*
-- *§3's Bell conclusion is corrected;*
+- *the energy-basis argument conflicted with Run 16's local count; the local stamp is now ruled, so the channels are position-like and the energy-projector conjecture is withdrawn;*
+- *reading (i) is no longer R11's rule;*
+- *the Bell conclusion is corrected;*
 - *the current radiation bounds replace the 2020 ones;*
-- *§7's window is a consistency window, not consilience;*
+- *the window is a consistency window, not consilience;*
 - *the record's own quantum material (R2's hold rule, Run 16's dephasing) is added, and so are five missing candidate readings.*
 
 - *This note sets out:*
   - *what CO says about quantum mechanics now;*
-  - *what the earlier papers' state-reduction work did, and what a reading of it against established physics found;*
+  - *every assumption the sector rests on, with its source;*
   - *what any commitment rule must satisfy, with today's measured bounds;*
   - *the candidate rules CO's primitives suggest;*
-  - *the tests that would kill each.*
+  - *the tests that would kill each;*
+  - *in an appendix, the cautions a reading of the earlier papers against established physics found.*
 - *It is an outline. No engine run was made. The estimates are order of magnitude; each is marked as such and is to be redone as a registered calculation before anything is built on it.*
 
 **1. Why.**
@@ -34,7 +37,7 @@
   So a criterion with a number in it is testable now.
 - **The target, stated before any work:** derive the commitment threshold from the primitives as a number, and say which scale it shares with gravity (p_s, P∞, the hop, ε). One parameter fixed in two domains would be the strongest form of consilience the ontology can offer.
 
-**2. What CO says now.**
+**2. The starting point: CO's primitives and rulings.**
 - **Quantum mechanics is the study of what happens before ticking** (stated 23 October; ONTOLOGY §1).
   - Patterns of possibility have not committed.
   - A pattern keeps no clock of its own. The phase it accumulates counts time that belongs to the committed world around it: mc²τ/ħ, which in the engine is m∫N dt, turned by the local count (Run 16).
@@ -43,11 +46,15 @@
   - **(a)** by interacting with the committed world, or
   - **(b)** by reaching an internal complexity at which it has to commit.
 
-  The two-route form mirrors the earlier papers' structure: environment-triggered selection of a pointer basis, plus an intrinsic, gravitational individuation.
 - **Gravity-collapse models.** Models that rest on spacetime fluctuations (Diósi–Penrose, Károlyházy) assume a medium whose nature they do not account for (an objection stated 25 October). So they are not taken as CO's route; CO has to derive what spacetime is first.
+- **A commitment is stamped with the local count** (ruled 26 October; ONTOLOGY §1): its record is the count at the place where it happens, not a global tick.
 - **Patterns** hop on their place's ticks and need free capacity there (R6, provisional). Massive patterns obey
 $$
--N^4\nabla^2\psi+m^2N^2\psi=\omega^2\psi .
+-N^4\nabla^2\psi+m^2N^2\psi=\omega^2\psi ,
+$$
+  and **a pattern's energy draws** (R5, ruled 19 October), with
+$$
+d=\kappa\big(4\omega^2N^{-4}-2m^2N^{-2}\big)\psi^2 .
 $$
 - **Dissolved relations.** A dissolved relation goes back to possibility as a two-part pattern, "as in entanglement" (stated 22 October; Note G). Two things are not stated in the record:
   - whether this is CO's account of entanglement;
@@ -69,52 +76,29 @@ $$
   - P∞/p_s ≳ 1.6–1.9×10⁵ (Run 66, from data, resting on Run 66's choice that φ curves γ̃ and on the borrowed inertia = total energy). So P∞ ≳ 6.4×10¹⁰ units per place and ε = p_s/P∞ ≲ 6.3×10⁻⁶;
   - the hop, about 10^2.5–10^3 ℓ_P ≈ 5×10⁻³³–1.6×10⁻³² m (from the engine, not data; an open tension with ℓ_P).
 
-**3. The earlier papers' state-reduction work, and what its reading found** (reading of 25 October; unreviewed).
-- **What it did.**
-  - It placed the earlier ontology beside Diósi and Penrose's gravity-related collapse.
-  - It argued that the arrow, gravity's time and the pointer basis are one primitive. Its thesis is that collapse is about time, not energy.
-  - It reproduced τ ∝ ħ/E_G as a scaling, with Penrose's E_G identified rather than computed. It did compute a correction of its own to E_G, which the external-field effect suppresses, so that its rate equals Diósi–Penrose's in the laboratory.
-  - It took jump operators Ĵ_α = g_αΠ̂_α as forced by its primitives, with committed states as exact dark states. It took the energy eigenbasis as the pointer basis for bound charges.
-  - It represented superposition over channels, not places.
-  - It argued that a coarse, environment-set channel basis escapes the 2020 radiation bound (Donadi et al., *Nat. Phys.* 17, 74 (2021), online September 2020).
-  - It claimed two refinements, a definite reduction and a native regulator.
-  - It claimed "locality without superdeterminism".
-  - It found that an intrinsic floor at its own short scale is excluded by about 25 orders of magnitude.
-- **Five points.** The reading says items 3 and 4 carry over to CO as constraints. Items 1, 2 and 5 carry over as cautions on what CO's rule must not be or do.
-  1. **A mechanism keyed to externally imposed clock-rate differences conflicts with interferometry.**
-     - If two branches running at different rates set by an external potential must commit once their relative action reaches ħ, interferometers in a gravitational field should decohere. They don't:
-       - neutrons keep the gravitationally induced phase m g Δz T/ħ, about 60 rad at full tilt (Colella, Overhauser and Werner 1975);
-       - atoms keep the phase from a source mass's potential difference (Overstreet et al. 2022), and light-pulse interferometers keep 10⁶–10⁹ rad of phase;
-       - optical-clock superpositions of internal energies keep ΔE t/ħ ≈ 3×10¹⁵ rad per second of coherence (Sr, 429 THz), about 10¹⁷ rad over 37 s.
-     - These test a rule keyed to the potential. In a light-pulse interferometer in uniform g the two arms' proper times are equal at leading order, so they do not test a rule keyed to proper time.
-     - The clock superpositions test energy differences between branches.
-     - None of these examples touches differences a pattern sources itself, as the earlier papers' symmetric lump-in-two-places case shows: its two branches have equal energy, so a clock-rate mechanism gives it no relative phase at all.
+**3. The assumptions the sector rests on, with their sources.** Every later section uses only these. A row marked *borrowed* or *not CO-native* may be used for an estimate, but not as a step in a derivation.
 
-     **CO's rule must not let externally imposed clock-rate differences, or ordinary energy differences between branches, force commitment.** Whether self-sourced differences may is open.
+| | assumption | source | status |
+|---|---|---|---|
+| A1 | QM is what happens before ticking; a measurement forces a pattern to commit to one channel | stated 23 October (ONTOLOGY §1) | CO's own; the frame of the sector |
+| A2 | a pattern commits (a) by interacting with the committed world or (b) by reaching an internal complexity | stated 25 October (ONTOLOGY §1) | CO's own statement; "internal complexity" is not yet defined |
+| A3 | a commitment is stamped with the local count | ruled 26 October | CO's own |
+| A4 | a pattern's phase is turned by the local count, m N per tick, and never by a clock of its own | Run 16 (exploratory) | CO's own, consistent with R4 |
+| A5 | possibility carries amplitudes √P with phases, weighted by the Born rule | Run 16's test pattern; Run 14's withdrawn event layer | adopted, not derived: the Born rule is borrowed |
+| A6 | a pattern's energy draws, d ∝ ψ² (R5, R6) | ruled 19 October | CO's own. **Consequence:** an uncommitted pattern draws as one source, spread over all its branches, not as separate branches (below) |
+| A7 | the trigger's quantity is Penrose's E_G, the difference of the branches' self-energies | Penrose; the earlier papers | **not CO-native** under A6. §6(ii)–(iii) use it only as borrowed forms |
+| A8 | commitment acts like a Markovian channel of Lindblad form | standard open-system theory | **borrowed,** for heating estimates (Appendix A, point 3) only. CO's rule need not have this form |
+| A9 | commitment channels are energy projectors | the earlier papers | withdrawn by A3 |
+| A10 | the commitment rule is nonlocal in Bell's sense, and no-signalling | Bell's theorem with experiment (Appendix A, point 4) | a requirement, not an assumption |
+| A11 | the draw is Newtonian at weak field | Runs 30 onward | CO's own, derived |
 
-     The mainstream effect of this kind needs no new physics. Through time dilation, a body's internal degrees of freedom decohere its centre of mass, with
-     $$
-     \tau_{\rm dec}=\sqrt{2/N}\,\hbar c^2/(k_BTg\,\Delta x)
-     $$
-     (Pikovski et al. 2015; disputed by Bonder, Okon and Sudarsky).
-  2. **A well-defined preferred time removes the reason for collapse in Penrose's 1996 argument.** That argument needs the absence of a common time translation across the branches. His later equivalence-principle version (Penrose 2014) works with absolute time, as in Newton–Cartan theory, and has to be checked against CO separately. CO derives universal free fall (Run 16), so that version could apply. A global tick alone does not identify places across branches either, since places can be relabelled freely.
-  3. **Exact immunity from the radiation bounds needs channels that commute with the Hamiltonian.**
-     - For a Lindblad channel with Hermitian jump operators Ĵ_α = g_αΠ̂_α (a dephasing-type channel),
-$$
-\frac{d\langle \hat H\rangle}{dt}=-\tfrac12\sum_\alpha g_\alpha^2\,\big\langle[\hat\Pi_\alpha,[\hat\Pi_\alpha,\hat H]]\big\rangle .
-$$
-     - This vanishes for every state if [Π̂_α, Ĥ] = 0 for all α. In finite dimensions it vanishes only then, since Tr Ĥ[Π̂,[Π̂,Ĥ]] = ‖[Π̂,Ĥ]‖²_HS. For unbounded operators the converse can fail: Π̂ = p̂ and Ĥ = p̂²/2m + mg x̂ give [p̂,[p̂,Ĥ]] = 0 with [p̂,Ĥ] ≠ 0.
-     - Staying under the bounds needs only a small enough rate, which coarse channels can also give. That is the equivalent of a large Diósi–Penrose R₀.
-     - If the channels are coarse rather than energy projectors, the scale that sets their coarseness also lowers E_G, so one regulator would serve both. Whether CO has one is open (§10).
-     - Projectors that commute with the full interacting Hamiltonian are nonlocal. The local subsystem projectors a detector needs do not commute with it.
-  4. **Bell's theorem.**
-     - A commitment rule that is local in Bell's sense gives CHSH ≤ 2, whatever the pre-commitment pattern is: Bell's λ can be any complete state, a nonlocal pattern included.
-     - Quantum mechanics allows up to 2√2, and loophole-free experiments give S > 2 (2.42 ± 0.20, Hensen et al. 2015; 2.0747 ± 0.0033, Storz et al. 2023).
-     - **So the commitment rule itself cannot be local in Bell's sense.** Committing the two parts of one pattern must give joint outcomes that do not factorize given the pattern, while each side's marginals stay independent of the other side's setting.
-     - No-signalling alone is not an advantage, since GRW and CSL have it too.
-     - CO has a preferred foliation (one global hop rate) in which such a commitment can be defined. That brings in the bounds on the speed of influence in a preferred frame (Salart et al. 2008; Bancal et al. 2012).
-     - The earlier papers' "locality without superdeterminism" fails on this point. The reading's own conclusion, that "the nonlocality has to live in the pre-commitment pattern", does not follow, and is corrected here.
-  5. **Renaming is not computing.** Writing E_Δ = E₁₁ + E₂₂ − 2E₁₂ as "Str − Coh" names the difference self-energy; it does not compute it.
+**What A6 implies, taken at face value.**
+- If an uncommitted pattern draws by ψ², spread over its branches, then a pattern that has not committed moves in its own field. Its phase is turned by the local count (A4), and the local count is lowered by its own draw.
+- At weak field that is the **Schrödinger–Newton** self-interaction, a nonlinear equation. Penrose's two separate branch fields would be a different thing.
+- Schrödinger–Newton is not standard QM, and it is testable. The self-gravity inhibits a wavepacket's dispersion from about 10¹⁰ u (Giulini and Großardt 2011).
+- Being nonlinear, it must be checked against no-signalling (Q4; Bahrami et al. 2014).
+- Page and Geilker (1981) found a gravitational field that follows a measured outcome, not the average. Under A2(a) that is consistent: the detector had committed.
+- **This is the sector's first CO-native consequence, and the first thing to check.** Does R6's draw (ψ², with ψ real for the engine's Klein–Gordon pattern; |ψ|² for a complex amplitude) apply before commitment, and does it hold for a superposition at all? That has to be read from the rules before anything is built on it (§10; test I0).
 
 **4. What any commitment rule must satisfy.**
 
@@ -125,7 +109,7 @@ $$
 | Q3 | **Bell correlations** | Loophole-free S > 2 (Hensen et al. 2015; Storz et al. 2023). QM's correlation E(a, b) = −cos(a − b) is what has to be reproduced, and nothing beyond Tsirelson's bound 2√2. |
 | Q4 | **The Born rule and no-signalling** | Born rule: bounds on higher-order interference from triple-slit tests (Sinha et al. 2010). No-signalling holds for linear ensemble dynamics. A state-dependent threshold rule is nonlinear and must be shown to keep it (Gisin 1990; Polchinski 1991). |
 | Q5 | **Ordinary decoherence at the measured rates** | Collisional decoherence of fullerenes follows standard theory (Hornberger et al. 2003). Standard decoherence through internal clocks (Pikovski et al. 2015) belongs here. |
-| Q6 | **No decoherence from externally imposed clock-rate differences beyond standard QM's** | Point 1 of §3. |
+| Q6 | **No decoherence from externally imposed clock-rate differences beyond standard QM's** | Appendix A, point 1. |
 | Q7 | **No decoherence of energy superpositions beyond what is seen** | Optical-clock Ramsey superpositions; atom-interferometer arms of different kinetic energy; atoms whose internal states are clocks interfering (Margalit et al. 2015); neutrino and kaon oscillations. |
 | Q8 | **A nonlocal commitment in a preferred frame stays within the speed-of-influence bounds** | Salart et al. 2008; Bancal et al. 2012. |
 | Q9 | **The record's standing checks for any rule change** | Committed patterns must still fall universally. Run 16 found that a pattern moving by commitments paid for by the places it lands on is pushed away from matter. |
@@ -139,15 +123,18 @@ $$
 - **Route (b), internal complexity.** This is the only place a new number can come from. An isolated pattern commits on its own.
 - **Which channels: the local stamp (ruled 26 October).** A commitment's record is stamped with the local count at the place where it happens, not with a global tick.
   - **Why this choice.**
-    - It is the record's own account of time: time at a place is the count of commitments there (§2), and R4 says the engine's tick is not physical time.
+    - It is the record's own account of time: time at a place is the count of commitments there (ONTOLOGY §1), and R4 says the engine's tick is not physical time.
     - It is the rule that already turns a pattern's phase (Run 16): each branch's record is its own
 $$
 \phi_{\rm branch}=m\!\int\! N\,dt,\qquad N=P/P_\infty .
 $$
   - **What it rules out.** Energy-projector channels and their automatic immunity from the heating bounds. A global stamp could only sort branches by energy; it would make the engine's tick physical; and it would add nothing a laboratory could test beyond route (a).
   - **What it implies.** Branches at different places carry different records, so a commitment can tell them apart by where they are: the channels are position-like. Two requirements follow, and they are now the sector's targets.
-    - **A self-sourced trigger.** Branches at different heights in an external field also differ in ∫N dt, and interferometers keep them coherent (§3 point 1; Q6). So the trigger cannot read the local count itself. It must read what each branch's own draw does to the possibility around it. That is the quantity Penrose's E_G stands for, here to be computed from CO's draw, not borrowed.
-    - **A coarseness length.** Position-like channels heat matter (§3 point 3). Staying under Q2 (XENONnT 2026; LISA Pathfinder) needs a coarseness length well above the hop: §6(iii) excludes the hop by more than twenty-two orders. CO's rules do not yet supply one. If the same scale sets both the threshold and the coarseness, that is the consilience target (§1).
+    - **A self-sourced trigger.** Branches at different heights in an external field also differ in ∫N dt, and interferometers keep them coherent (Appendix A, point 1; Q6). So the trigger cannot read the local count itself; it must read what the pattern's own draw does to it.
+      - Under A6 the pattern draws as one source, so the CO-native quantity is its own draw's effect on the local count at its places: the Schrödinger–Newton-type self-interaction of §3.
+      - It is not Penrose's difference of separate branch fields (A7).
+      - Which of the two CO actually gives is decided by A6's check (test I0).
+    - **A coarseness length.** Position-like channels heat matter (Appendix A, point 3, under the borrowed A8). Staying under Q2 (XENONnT 2026; LISA Pathfinder) needs a coarseness length well above the hop: §6(iii) excludes the hop by more than twenty-two orders. CO's rules do not yet supply one. If the same scale sets both the threshold and the coarseness, that is the consilience target (§1).
   - **What it leaves open.**
     - Route (a) still needs Q5's rates and coherences.
     - Q7 stays as a requirement: a position-like rule must not decohere energy superpositions where coherence is seen.
@@ -167,7 +154,7 @@ $$
   - With R at the Compton length it gives m ≳ m_P√ε (≲ 3.3×10¹⁶ Da).
   - In the laboratory it predicts standard QM for any ε above about 5×10⁻⁴¹: consistent, not distinctive.
 - **(ii) A fixed count of displaced possibility.**
-  - Commitment would come once the two branches differ by n units of possibility in total.
+  - Commitment would come once the two branches differ by n units of possibility in total. This treats the branches as separate sources (A7), so it is a borrowed form.
   - For the 170 kDa clusters, displaced by 100 nm, with the hop at 10³ ℓ_P and P∞ at its bound, one branch's draw summed over a ball of radius Δx around it is
 $$
 P_\infty\frac{Gm}{c^2}\,\frac{2\pi\,\Delta x^2}{\ell^3}\gtrsim2\times10^{44}\ \text{units}.
@@ -175,8 +162,8 @@ $$
   - The difference between the branches is a dipole field. Summed out to radius L it grows as 2πΔx·L, so the count depends on the cutoff and is larger still.
   - Any natural n (1, or a few) commits every superposition at once, and Q1 excludes that.
   - A large n would be put in by hand. This reading is excluded unless the count is fixed by something else.
-- **(iii) A Diósi–Penrose rule with CO's draw, regularised at the hop.**
-  - CO's draw is Newtonian at weak field, so the branches' difference self-energy is Penrose's E_G.
+- **(iii) A Diósi–Penrose rule, regularised at the hop (a borrowed form, A7).**
+  - If each branch drew separately, CO's draw, which is Newtonian at weak field, would give Penrose's E_G as the branches' difference self-energy. Under A6 the pattern draws as one source, so this reading is not CO-native. It is kept because its exclusion constrains any position-coupled rule.
   - With the hop, about 10⁻³² m, as regulator, R₀ is more than twenty-two orders of magnitude below the current bound R₀ > 4.5×10⁻¹⁰ m (XENONnT 2026). **Excluded for position-coupled channels.** The earlier papers reached the same result at their own short scale.
   - A coarse regulator would need a length CO's rules do not yet supply. Combinations of the hop with P∞, built as (iv) builds masses (ℓP∞² ≳ 0.2–0.7 Å, for example), are not excluded by this argument. They are dimensional analysis too.
   - With the local stamp (§5) the channels are position-like, so this exclusion applies directly: the coarseness length has to come from elsewhere in the rules.
@@ -211,7 +198,13 @@ $$
 
 If a rule derived and registered beforehand gave this combination, the window would test it. No such rule exists yet, so this is a target, not an output.
 
-**8. The tests, in order (each to be registered with a kill rule).**
+**8. The tests, in order (each to be registered with a kill rule).** I0 comes first, since its answer decides what I2 and I4 compute.
+- **I0. What an uncommitted pattern draws** (a reading of the rules, then a calculation).
+  - From R5, R6 and the hold rule, settle whether a pattern draws before it commits, and whether a superposition draws as one source (A6) or as separate branches.
+  - If it draws as one source, derive the weak-field self-interaction it implies, and compare it with the Schrödinger–Newton equation.
+  - **Kill**, for A6 as the account of uncommitted matter:
+    - a self-interaction that inhibits dispersion where interference is seen (Q1);
+    - signalling (Q4).
 - **I1. Route (a) as decoherence** (a calculation).
   - Model a pattern meeting committed matter in CO's terms (gas collisions), and derive the coherence loss.
   - Include a control in which the matter keeps no which-path record (Bragg reflection, a material grating).
@@ -251,10 +244,50 @@ If a rule derived and registered beforehand gave this combination, the window wo
 **10. Open questions.**
 - What "internal complexity" means in CO's terms. The 170 kDa clusters' more than 7,000 atoms do not commit their centre of mass, so it is not a count of constituents below about 7,000 atoms.
 - What is matter and what is pattern. Matter is commitment that keeps re-making itself, yet a cluster's centre of mass interferes.
+- Whether an uncommitted pattern draws, and as one source or as separate branches (A6; test I0). This comes first: it decides whether the trigger's quantity is a Schrödinger–Newton self-interaction or Penrose's E_G.
 - What in CO's rules sets the coarseness length that the local stamp needs (§5), and whether it is the same scale as the threshold.
 - Whether one scale sets both the threshold and the channels' coarseness.
 - How a nonlocal two-place commitment is defined in CO's foliation, and whether it keeps no-signalling.
 - What fixes δu (Run 74), and whether it is the same scale.
+
+**Appendix A. Cautions from a reading of the earlier papers against established physics** (reading of 25 October, corrected 26–27 October). Each point is a constraint any commitment rule must meet, whoever proposes it. None of the earlier papers' constructions is a starting point here.
+- **Context.** The earlier work placed its ontology beside Diósi and Penrose's gravity-related collapse. It reproduced τ ∝ ħ/E_G as a scaling, with E_G identified rather than computed, and argued that a coarse, environment-set channel basis escapes the 2020 radiation bound.
+- **Five points.** Points 3 and 4 are constraints on any rule. Points 1, 2 and 5 are cautions on what a rule must not be or do.
+  1. **A mechanism keyed to externally imposed clock-rate differences conflicts with interferometry.**
+     - If two branches running at different rates set by an external potential must commit once their relative action reaches ħ, interferometers in a gravitational field should decohere. They don't:
+       - neutrons keep the gravitationally induced phase m g Δz T/ħ, about 60 rad at full tilt (Colella, Overhauser and Werner 1975);
+       - atoms keep the phase from a source mass's potential difference (Overstreet et al. 2022), and light-pulse interferometers keep 10⁶–10⁹ rad of phase;
+       - optical-clock superpositions of internal energies keep ΔE t/ħ ≈ 3×10¹⁵ rad per second of coherence (Sr, 429 THz), about 10¹⁷ rad over 37 s.
+     - These test a rule keyed to the potential. In a light-pulse interferometer in uniform g the two arms' proper times are equal at leading order, so they do not test a rule keyed to proper time.
+     - The clock superpositions test energy differences between branches.
+     - None of these examples touches differences a pattern sources itself, as the earlier papers' symmetric lump-in-two-places case shows: its two branches have equal energy, so a clock-rate mechanism gives it no relative phase at all.
+
+     **CO's rule must not let externally imposed clock-rate differences, or ordinary energy differences between branches, force commitment.** Whether self-sourced differences may is open.
+
+     The mainstream effect of this kind needs no new physics. Through time dilation, a body's internal degrees of freedom decohere its centre of mass, with
+     $$
+     \tau_{\rm dec}=\sqrt{2/N}\,\hbar c^2/(k_BTg\,\Delta x)
+     $$
+     (Pikovski et al. 2015; disputed by Bonder, Okon and Sudarsky).
+  2. **A well-defined preferred time removes the reason for collapse in Penrose's 1996 argument.** That argument needs the absence of a common time translation across the branches. His later equivalence-principle version (Penrose 2014) works with absolute time, as in Newton–Cartan theory, and has to be checked against CO separately. CO derives universal free fall (Run 16), so that version could apply. A global tick alone does not identify places across branches either, since places can be relabelled freely.
+  3. **Exact immunity from the radiation bounds needs channels that commute with the Hamiltonian** (stated for a Lindblad channel, the borrowed A8).
+     - For a Lindblad channel with Hermitian jump operators Ĵ_α = g_αΠ̂_α (a dephasing-type channel),
+$$
+\frac{d\langle \hat H\rangle}{dt}=-\tfrac12\sum_\alpha g_\alpha^2\,\big\langle[\hat\Pi_\alpha,[\hat\Pi_\alpha,\hat H]]\big\rangle .
+$$
+     - This vanishes for every state if [Π̂_α, Ĥ] = 0 for all α. In finite dimensions it vanishes only then, since Tr Ĥ[Π̂,[Π̂,Ĥ]] = ‖[Π̂,Ĥ]‖²_HS. For unbounded operators the converse can fail: Π̂ = p̂ and Ĥ = p̂²/2m + mg x̂ give [p̂,[p̂,Ĥ]] = 0 with [p̂,Ĥ] ≠ 0.
+     - Staying under the bounds needs only a small enough rate, which coarse channels can also give. That is the equivalent of a large Diósi–Penrose R₀.
+     - If the channels are coarse rather than energy projectors, the scale that sets their coarseness also lowers E_G, so one regulator would serve both. Whether CO has one is open (§10).
+     - Projectors that commute with the full interacting Hamiltonian are nonlocal. The local subsystem projectors a detector needs do not commute with it.
+  4. **Bell's theorem.**
+     - A commitment rule that is local in Bell's sense gives CHSH ≤ 2, whatever the pre-commitment pattern is: Bell's λ can be any complete state, a nonlocal pattern included.
+     - Quantum mechanics allows up to 2√2, and loophole-free experiments give S > 2 (2.42 ± 0.20, Hensen et al. 2015; 2.0747 ± 0.0033, Storz et al. 2023).
+     - **So the commitment rule itself cannot be local in Bell's sense.** Committing the two parts of one pattern must give joint outcomes that do not factorize given the pattern, while each side's marginals stay independent of the other side's setting.
+     - No-signalling alone is not an advantage, since GRW and CSL have it too.
+     - CO has a preferred foliation (one global hop rate) in which such a commitment can be defined. That brings in the bounds on the speed of influence in a preferred frame (Salart et al. 2008; Bancal et al. 2012).
+     - The earlier papers' "locality without superdeterminism" fails on this point. The reading's own conclusion, that "the nonlocality has to live in the pre-commitment pattern", does not follow, and is corrected here.
+  5. **Renaming is not computing.** Writing E_Δ = E₁₁ + E₂₂ − 2E₁₂ as "Str − Coh" names the difference self-energy; it does not compute it.
+
 
 **Sources.**
 - S. Pedalino et al., "Probing quantum mechanics with nanoparticle matter-wave interferometry", *Nature* 649, 866 (2026); [arXiv:2507.21211](https://arxiv.org/abs/2507.21211).
@@ -278,3 +311,6 @@ If a rule derived and registered beforehand gave this combination, the window wo
 - D. Salart et al., "Testing the speed of 'spooky action at a distance'", *Nature* 454, 861 (2008); J.-D. Bancal et al., "Quantum non-locality based on finite-speed causal influences leads to superluminal signalling", *Nat. Phys.* 8, 867 (2012); [arXiv:1110.3795](https://arxiv.org/abs/1110.3795).
 - A. Belenchia et al., "Quantum physics in space", [arXiv:2108.01435](https://arxiv.org/abs/2108.01435) (the 10⁸–10¹¹ Da range of proposed tests).
 - W. Bothwell et al., [arXiv:2109.12238](https://arxiv.org/abs/2109.12238) (37 s optical-clock coherence).
+- D. Giulini and A. Großardt, "Gravitationally induced inhibitions of dispersion according to the Schrödinger–Newton equation", *Class. Quantum Grav.* 28, 195026 (2011); [arXiv:1105.1921](https://arxiv.org/abs/1105.1921).
+- M. Bahrami, A. Großardt, S. Donadi and A. Bassi, "The Schrödinger–Newton equation and its foundations", *New J. Phys.* 16, 115007 (2014); [arXiv:1407.4370](https://arxiv.org/abs/1407.4370).
+- D. N. Page and C. D. Geilker, "Indirect evidence for quantum gravity", *Phys. Rev. Lett.* 47, 979 (1981).
