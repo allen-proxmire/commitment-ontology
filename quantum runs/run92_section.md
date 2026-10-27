@@ -101,7 +101,7 @@ $$
   - For ℓ ≤ 2000 at a 10% loss, r_C ≤ 0.459 c/H(entry) = **1.5×10¹⁸ m**. The values are 6.2×10¹⁸ m for ℓ = 1000 and 9.6×10¹⁷ m for ℓ = 2500.
   - So W's physical upper end is 1.5×10¹⁸ m. The "widest window" at 10²¹ m and the candidate ε (inside W only above 1.6×10¹⁹ m) fall away. **Ruled 27 October:** the ceiling is 1.5×10¹⁸ m (ℓ ≤ 2000, a 10% loss).
 - **Above 1.56×10¹⁶ m, route (b) outpaces phonon rates** at W's upper edge, and electronic rates above 1.56×10¹⁷ m. There, bulk matter's draw is no longer laid down mostly at route (a)'s fine resolution. So W above 1.56×10¹⁶ m is conditional on route (a)'s rate, which Test I1 is to define.
-  - *Correction (27 October, Reading I1 §5): this is too weak. What matters is the fraction f = λ_b/(λ_a + λ_b) of a body's draw smeared at r_C. If λ_a depends on the material, lunar laser ranging bounds f(Al) − f(Fe) < 3.9×10⁻¹⁴, so κ_b ≲ 3×10⁻²⁶–3×10⁻²². That cuts W above about 10⁹–10¹¹ m. If bulk constituents renew as matter at about mc²/(aħ), there is no cut.*
+  - *Correction (27 October, Reading I1 §5): this is too weak. What matters is the fraction f = λ_b/(λ_a + λ_b) of a body's draw smeared at r_C. If λ_a depends on the material, lunar laser ranging bounds f(Al) − f(Fe) < 3.9×10⁻¹⁴, so κ_b ≲ 3×10⁻²⁶–3×10⁻²². That caps κ_b in W for r_C above about 10⁹–10¹¹ m. If bulk constituents renew as matter at about mc²/(aħ), there is no cut.*
 - **B11 (self-kick heating of dark matter) is withdrawn.**
   - Where it was said to bite, one self-kick (5.6×10⁷ m s⁻¹ at 2.3×10⁻¹⁰ m) far exceeds a dwarf galaxy's escape speed, so a recorded particle is ejected.
   - The ejected fraction λt is at most 2×10⁻⁵ near W's lower end, for masses up to 10 TeV. It grows with κ_b, so it sets no lower bound.
@@ -121,8 +121,8 @@ $$
 \Gamma=\tfrac12\big(\sqrt{\lambda_1}-\sqrt{\lambda_2}\big)^2\approx\frac{\kappa_b(\Delta E)^2}{8\hbar E}.
 $$
   - The ⁸⁸Sr tweezer clock (ΔE = 1.775 eV, coherence 48 s; Young et al. 2020) then gives:
-    - κ_b < 1.8×10⁻¹¹ if an electron's rate counts its orbital energy ('indep'), which cuts W above 2.5×10¹⁶ m;
-    - κ_b < 2.9×10⁻⁶ for 'com', which cuts W above 10¹⁹ m.
+    - κ_b < 1.8×10⁻¹¹ if an electron's rate counts its orbital energy ('indep'), which caps κ_b in W for r_C above 2.5×10¹⁶ m;
+    - κ_b < 2.9×10⁻⁶ for 'com', which would cap κ_b above 10¹⁹ m, beyond the ceiling.
   - **Ruled 27 October:** the rate is the operator κ_b Ĥ/ħ, so each branch commits at its own rate. This keeps the dynamics linear; a rate set by the mean energy would be nonlinear and need Note I's no-signalling check (Q4). So Q7 applies. The estimate above, if an electron's rate includes its orbital energy, cuts W above 2.5×10¹⁶ m. It is to be registered with Test I1.
 - **The lower edge, more strictly.**
   - **Per population:** the same shot-noise criterion at the CMB damping tail, and at horizon entry for ℓ = 3000, gives κ_b ≳ 7×10⁻⁹⁵ to 3×10⁻⁹³. The check also estimated, without recomputation here, about 10⁻⁹⁸ to 10⁻⁹⁶ from dwarf galaxies and 10⁻⁸⁷ to 10⁻⁸⁴ from pulsar timing, both if dark matter is particulate. None of these closes W: the per-population edge governs only above about 10¹¹–10¹⁵ m, where κ_hi ≥ 3×10⁻²⁴.

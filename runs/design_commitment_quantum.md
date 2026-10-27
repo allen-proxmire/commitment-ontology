@@ -236,7 +236,7 @@ If a rule derived and registered beforehand gave this combination, the window wo
     - Route (a)'s coherence loss has the standard kernel. A Gaussian localisation at the interaction is excluded by single-photon which-path experiments.
     - Route (a)'s ruling needs a which-path condition to pass the Bragg control.
     - The hold statement must exempt route (a), or Q5 fails.
-    - If route-(a) rates depend on the material, lunar laser ranging cuts Run 92's window above about 10⁹–10¹¹ m.
+    - If route-(a) rates depend on the material, lunar laser ranging caps κ_b at ≲ 3×10⁻²⁶–3×10⁻²² for r_C above about 10⁹–10¹¹ m.
     - Ruled 27 October:
       - the which-path amendment;
       - route (a) exempt from the hold statement;

@@ -698,7 +698,7 @@ $$
   **Reading I1** (27 October; checked):
   - route (a)'s coherence loss has the standard kernel, since a Gaussian localisation at the interaction is excluded by single-photon which-path experiments;
   - route (a)'s ruling needs a which-path condition, and the hold statement must exempt route (a);
-  - if route-(a) rates in bulk depend on the material, lunar laser ranging cuts Run 92's window above about 10⁹–10¹¹ m.
+  - if route-(a) rates in bulk depend on the material, lunar laser ranging caps κ_b at ≲ 3×10⁻²⁶–3×10⁻²² wherever Run 92's window would allow more, which is for r_C above about 10⁹–10¹¹ m.
 
   Ruled 27 October: the which-path amendment; route (a) exempt from the hold statement; GRW-type symmetrisation; per-unit bulk rates; Q7 with an electron's energy. Run 93 recomputes the window with these. Tests I2–I3 are proposed, not run; I1's and I4's are the readings.
 - **What survives coarse-graining** (stated 26 October).

@@ -113,7 +113,7 @@ $$
 $$
   where κ_b ≲ 2.7×10⁻²⁵ follows from λ_b = κ_b m_Nc²/ħ.
   - W's upper edge (RadioAstron, 2.87×10⁻⁴⁴ r_C²) reaches this at r_C ≈ 3×10⁹ m, or about 10⁹–10¹¹ m across λ_a = 10¹²–10¹⁴ s⁻¹ and the two LLR bounds.
-  - **So under (i), LLR cuts W above about 10⁹–10¹¹ m.** With κ_b = 1/(aP∞) it needs a·P∞ ≳ 4×10²¹–4×10²⁵ at any r_C. That excludes a·P∞ near gravity's limit, and with it Reading I4's "the gravity limit only for r_C ≳ 10¹⁶ m".
+  - **So under (i), LLR caps κ_b wherever W's upper edge is higher, for r_C above about 10⁹–10¹¹ m.** It narrows W's range of κ_b there; it does not close W. With κ_b = 1/(aP∞) it needs a·P∞ ≳ 4×10²¹–4×10²⁵ at any r_C. That excludes a·P∞ near gravity's limit, and with it Reading I4's "the gravity limit only for r_C ≳ 10¹⁶ m".
   - **Run 92's addendum sentence** ("conditional on route (a)'s rate above 1.6×10¹⁶ m") was too weak by the same argument. It used λ_b < λ_a where f ≪ the LLR bound is needed.
   - **The per-pattern reading's window** (κ_b ≳ 8×10⁻²⁸, r_C ≳ 1.7×10⁸ m) survives under (i), between 8×10⁻²⁸ and 2.7×10⁻²⁵.
 
@@ -147,7 +147,7 @@ The rate is the operator κ_bĤ/ħ with κ_b = 1/(aP∞). The ⁸⁸Sr tweezer c
 2. **Whether the hold statement covers route (a).** If it does, Q5 fails by about 20 decades. The option that keeps Q5: route-(a) records are filled by the committed matter's possibility (R2 as written) or are not held.
 3. **When a route-(a) commitment and its deposit are made:** at the entangling interaction, or when the carrier is itself recorded (R-a3, which depends on I3 and on the matter/pattern line).
 4. **Whose λ_a counts in bulk matter:**
-   - (i) per unit, from its interactions (LLR then cuts W above about 10⁹–10¹¹ m);
+   - (i) per unit, from its interactions (LLR then caps κ_b for r_C above about 10⁹–10¹¹ m);
    - (ii) per body;
    - (iii) bulk constituents as matter renewing at about mc²/(aħ) (no LLR cut).
 5. **Route (b)'s symmetrisation:** GRW-type (consistent with M2 and M4) or CSL-type (needs M2 and M4 revised and Run 92's edges re-derived).
@@ -161,7 +161,7 @@ The rate is the operator κ_bĤ/ħ with κ_b = 1/(aP∞). The ⁸⁸Sr tweezer c
 ### What I1 adds that is not a relabelling
 
 - **(R-a2) is excluded by measurement.** A route-(a) record cannot be a Gaussian localisation of the pattern made at the interaction. Route (a)'s coherence loss has the standard kernel, with its zeros, revivals and phase.
-- **Under per-unit route-(a) rates, LLR bounds route (b) in bulk matter:** κ_b ≲ 3×10⁻²⁶–3×10⁻²², which cuts W above about 10⁹–10¹¹ m.
+- **Under per-unit route-(a) rates, LLR bounds route (b) in bulk matter:** κ_b ≲ 3×10⁻²⁶–3×10⁻²², which caps κ_b in W for r_C above about 10⁹–10¹¹ m.
 
 ### 9. Rulings (27 October, "as recommended")
 
