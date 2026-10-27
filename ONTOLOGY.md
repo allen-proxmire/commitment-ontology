@@ -73,7 +73,7 @@ Everything that goes in, and what each input buys. The primitives, the inputs ad
 | The hop, about 10^2.5–10^3 Planck lengths | from the engine | an open tension with ℓ_ED = ℓ_P (§7) |
 | G, c and ħ | measured | the draw's strength, light's speed far from matter, a hold's length |
 | Λ, with Λℓ_P² = 3Ω_Λ(H₀t_P)² ≈ 2.9×10⁻¹²² | from data, 24 October (R5) | the observed acceleration; the rules give Λ = 0 |
-| Route (b)'s κ_b and r_C: bounded, not fixed. At r_C = 100 nm, for example, 2.6×10⁻⁵⁶ < κ_b < 9.0×10⁻⁴⁶ | from data, Run 92 | radiation and isolated patterns draw, unseen in the laboratory |
+| Route (b)'s κ_b and r_C: bounded, not fixed. At r_C = 100 nm, for example, 2.6×10⁻⁵⁶ < κ_b < 9.0×10⁻⁴⁶. r_C is a primitive input (Reading I5); with κ_b = 1/(aP∞), 3.7×10²⁴ ≲ a·P∞ ≲ 4×10⁹² | from data, Runs 92–93 | radiation and isolated patterns draw, unseen in the laboratory |
 
 **The engine** (choices about the model, not claims about nature)
 
@@ -123,6 +123,7 @@ Everything that goes in, and what each input buys. The primitives, the inputs ad
   - the pattern recommits at random, at the rate the hold sets.
 
   So κ_b = 1/(aP∞): route (b)'s rate is set by the vacuum's possibility per place. Neither a nor r_C is ruled.
+- **r_C is a primitive scale for now** (ruled 27 October; Reading I5): an input bounded by the window, as P∞ and p_s are bounded by data, with one r_C for every species. No length in the record lies in the window, and a power of P∞ times the hop would fit only as dimensional analysis.
 - **A pattern's phase is turned by the time-averaged count** (ruled 27 October; Reading I4 §6). A phase turned by the live count would heat matter at about 10²¹ W per nucleon.
 - **The medium holds no branches** (ruled 27 October). Its count N = P/P∞ has one value at each place; patterns carry amplitudes and phases, the medium does not. With the previous ruling this makes gravity unable to entangle masses: if a test of gravitationally mediated entanglement finds it, these rulings fail.
 - **Where possibility runs low, infalling matter commits for good.** Under the current ruling this happens at about twice the medium's crossover scale. That is the core of a black hole, where what falls in becomes record.
@@ -701,7 +702,7 @@ $$
   - route (a)'s ruling needs a which-path condition, and the hold statement must exempt route (a);
   - if route-(a) rates in bulk depend on the material, lunar laser ranging caps κ_b at ≲ 3×10⁻²⁶–3×10⁻²² wherever Run 92's window would allow more, which is for r_C above about 10⁹–10¹¹ m.
 
-  Ruled 27 October: the which-path amendment; route (a) exempt from the hold statement; GRW-type symmetrisation; per-unit bulk rates; Q7 with an electron's energy. Run 93 (registered; checked) recomputed the window with these: **K93 PASS**. It is open from 2.3×10⁻¹⁰ m, with lunar laser ranging capping κ_b at 2.7×10⁻²⁵ above 3×10⁹ m. So under κ_b = 1/(aP∞), a·P∞ ≳ 3.7×10²⁴ at every r_C. A gas self-gravity bound, checked independently and resting on the ruling that interstellar gas is committed matter (G1, 27 October), would cap κ_b at about 9×10⁻²⁹ for r_C ≥ 3.7×10¹⁵ m (prestellar cores); it is to be registered in the next run. Tests I2–I3 are proposed, not run; I1's and I4's are the readings.
+  Ruled 27 October: the which-path amendment; route (a) exempt from the hold statement; GRW-type symmetrisation; per-unit bulk rates; Q7 with an electron's energy. Run 93 (registered; checked) recomputed the window with these: **K93 PASS**. It is open from 2.3×10⁻¹⁰ m, with lunar laser ranging capping κ_b at 2.7×10⁻²⁵ above 3×10⁹ m. So under κ_b = 1/(aP∞), a·P∞ ≳ 3.7×10²⁴ at every r_C. A gas self-gravity bound, checked independently and resting on the ruling that interstellar gas is committed matter (G1, 27 October), would cap κ_b at about 9×10⁻²⁹ for r_C ≥ 3.7×10¹⁵ m (prestellar cores); it is to be registered in the next run. Reading I5 (27 October; checked) found nothing in the record that sets r_C; ruled a primitive scale for now, bounded by the window. Tests I2–I3 are proposed, not run; I1's, I4's and I5's are the readings.
 - **What survives coarse-graining** (stated 26 October).
   - **The idea.** GR may be the knowable, continuous coarse-graining of a discrete system whose details averaging mostly hides. Some of what lies underneath may not be knowable from the smooth level.
   - **The parallel in number theory.** The primes have a smooth law plus an oscillating part that the smooth law cannot see. The explicit formula separates the two:

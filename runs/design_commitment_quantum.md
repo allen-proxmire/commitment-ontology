@@ -200,6 +200,7 @@ $$
 - **Quantum side.** Q1 needs m_c > 1.7×10⁵ Da, so P∞ < 7.7×10¹³ units per place.
 - **Gravity side.** The pulsar triple and clock agreement give P∞ ≳ 6.4×10¹⁰ (Runs 24, 66). That bound rests on p_s's extrapolation, on Run 66's φ/U choice and on the borrowed inertia. With Mercury alone, P∞ ≳ 6.6×10⁷.
 - **The window.** 6.4×10¹⁰ ≲ P∞ ≲ 7.7×10¹³ is three decades. One parameter is bounded below by gravity and, under this hypothetical rule, above by interferometry. That is a consistency window, not consilience: two one-sided bounds are not two determinations.
+  - *Note, 27 October (Reading I5, ruled): this window cannot share P∞ with route (b). Under κ_b = 1/(aP∞), Run 93's window needs a·P∞ ≳ 3.7×10²⁴, 10–12 decades above it (7.9 or more across the lunar-laser-ranging variants). The same window bounds a·P∞ above at about 4×10⁹² (the strict radiation-gravity edge). If a threshold reading were revived, it would need its own scale.*
 - **Proposed experiments could test it.**
   - Interference at 10⁸ Da would push the upper bound to 1.3×10¹¹, a factor of 2 above the lower bound.
   - Interference at about 2×10⁸ Da (m_P/6.4×10¹⁰) would close the window and exclude this reading. That needs separations and times like Q1's, standard decoherence accounted for, and the gravity-side bound standing.
@@ -260,6 +261,7 @@ If a rule derived and registered beforehand gave this combination, the window wo
 - **I4. The rate** (a calculation; it was the threshold before the 27 October rulings).
   - From the hold rule (R2: a commitment holds until the possibility present at its places, summed over ticks, reaches H = 2ħ_tP∞) and the pattern rule, derive route (b)'s rate λ and coarseness r_C for an isolated pattern.
   - Register which combination of scales it gives before computing its value.
+  - **Reading I5 (27 October; checked independently;** [`../quantum runs/reading_I5_what_sets_rC.md`](../quantum%20runs/reading_I5_what_sets_rC.md)**): what could set r_C.** No length the record supplies lies in the window; a power of P∞ times the hop would, for a range of powers, but nothing picks the power. Ruled: r_C stays a primitive scale, bounded by the window, so I4 stays unregistered.
   - **Kill:**
     - commitment predicted inside any (mass, separation, time) where interference is seen (Q1);
     - a rule that decoheres externally imposed clock-rate differences (Q6);
@@ -292,7 +294,7 @@ If a rule derived and registered beforehand gave this combination, the window wo
 - ~~Whether an uncommitted pattern draws, and as one source or as separate branches.~~ *Ruled 27 October: only through its records (C); records from both routes; the medium holds no branches (Reading I0).*
 - What a free pattern's "commit and continue" leaves behind, and what each commitment deposits (the full Tolman–Komar weight, normalised by 1/λ, with the momentum current).
 - Which patterns share one (λ, r_C): photons, neutrinos and isolated massive patterns alike, or not.
-- What in CO's rules sets route (b)'s rate λ and coarseness length r_C, and whether either is a scale gravity also uses.
+- What in CO's rules sets route (b)'s rate λ and coarseness length r_C, and whether either is a scale gravity also uses. *27 October: the rate is κ_b = 1/(aP∞) (Reading I4). Reading I5 found that no length in the record lies in the window, and that a rule r_C = ℓP∞ⁿ would fit only as dimensional analysis (n about 0.44–2.1 with the engine's hop). Ruled: r_C is a primitive scale for now, bounded by the window; one r_C for every species; no test of the family without a mechanism that fixes n.*
 - Whether one scale sets both the threshold and the channels' coarseness.
 - How a nonlocal two-place commitment is defined in CO's foliation, and whether it keeps no-signalling.
 - What fixes δu (Run 74), and whether it is the same scale.
