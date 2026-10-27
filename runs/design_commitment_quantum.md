@@ -83,7 +83,7 @@ $$
 | A1 | QM is what happens before ticking; a measurement forces a pattern to commit to one channel | stated 23 October (ONTOLOGY §1) | CO's own; the frame of the sector |
 | A2 | a pattern commits (a) by interacting with the committed world or (b) by reaching an internal complexity | stated 25 October (ONTOLOGY §1) | CO's own statement; "internal complexity" is not yet defined |
 | A3 | a commitment is stamped with the local count | ruled 26 October | CO's own |
-| A4 | a pattern's phase is turned by the local count, m N per tick, and never by a clock of its own | Run 16 (exploratory) | CO's own, consistent with R4 |
+| A4 | a pattern's phase is turned by the local count, m N per tick, and never by a clock of its own | Run 16 (exploratory) | CO's own, consistent with R4. **Ruled 27 October: the time-averaged count** (Reading I4 §6); the live count would heat matter far beyond the bounds |
 | A5 | possibility carries amplitudes √P with phases, weighted by the Born rule | Run 16's test pattern; Run 14's withdrawn event layer | adopted, not derived: the Born rule is borrowed |
 | A6 | patterns draw; one stationary pattern by its Tolman–Komar density, d ∝ ψ² (R5; R6's full form, 20 October) | ruled 19 October | CO's own. How a superposition draws was open in the record; **ruled 27 October: only through its records (C)**, with records from both routes and a medium that holds no branches (Reading I0) |
 | A7 | the trigger's quantity is Penrose's E_G, the difference of the branches' self-energies | Penrose; the earlier papers | belongs to the branch-wise reading (B), which the 27 October rulings exclude. **Not CO-native.** §6(ii)–(iii) use it only as borrowed forms |
@@ -257,6 +257,11 @@ If a rule derived and registered beforehand gave this combination, the window wo
     - With the statement that a pattern's commitment is filled by the possibility it carries (Allen, 27 October), and that stock counted in proportion to energy, the hold gives κ_b = 1/(aP∞), per radian.
     - No value follows. W needs a·P∞ ≳ 1/κ_hi(r_C), for example ≳ 10⁴⁵ at 100 nm, or the gravity limit only for r_C ≳ 10¹⁶ m.
     - It becomes a test once a rule fixes r_C.
+    - **Ruled 27 October:**
+      - a stock in proportion to energy;
+      - random recommitment at the hold's rate;
+      - I4 not registered until a rule fixes r_C;
+      - a pattern's phase turned by the time-averaged count (A4).
 
 **9. What would count as remarkable, and what would not.**
 - **Remarkable:**

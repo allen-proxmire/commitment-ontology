@@ -19,7 +19,8 @@ So gravity cannot entangle masses. A positive test of gravitationally mediated e
 - each record deposits the draw E_TK/λ_tot;
 - its units are electrons and nucleons;
 - radiation's gravity follows the radiation per population;
-- after the run, the rate is the operator κ_b Ĥ/ħ, and r_C lies below 1.5×10¹⁸ m.
+- after the run, the rate is the operator κ_b Ĥ/ħ, and r_C lies below 1.5×10¹⁸ m;
+- after Reading I4, a pattern's commitment is filled by the possibility it carries, in proportion to its energy, so κ_b = 1/(aP∞); and a pattern's phase is turned by the time-averaged count.
 
 | file | what it is |
 |---|---|

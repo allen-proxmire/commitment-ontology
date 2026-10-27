@@ -175,3 +175,16 @@ Run 16's registered arm turned the phase with the time-averaged count, and that 
 5. **What sets r_C** (§4).
 6. **Whether to register I4 now,** as the derivation κ_b = 1/(aP∞) and the bound on P∞ it implies at each r_C, or to wait for a rule for r_C.
 7. **Which count turns a pattern's phase** (§6): the time-averaged count, or another rule with the noise correlated over large scales.
+
+### 8. Rulings (27 October, "as recommended")
+
+1. **A stock, not a flow:** the possibility a pattern carries fills its commitment's hold.
+2. **In proportion to its energy,** counted in pair-equivalents (S-i). So
+$$
+\kappa_b=\frac{1}{a\,P_\infty}.
+$$
+3. **The pattern recommits at each hold's end, at random:** the hold sets the mean rate, and commitments are random at that rate.
+4. **a is not ruled.** 0.1, 1 and 2π are all reported.
+5. **What sets r_C stays open.**
+6. **I4 is not registered** until a rule fixes r_C. Its bound on P∞ (§3, the S-i table) is arithmetic on Run 92's window.
+7. **A pattern's phase is turned by the time-averaged count,** not the live count (§6; a ruling on Note I's A4).

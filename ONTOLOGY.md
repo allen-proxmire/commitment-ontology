@@ -118,7 +118,12 @@ Everything that goes in, and what each input buys. The primitives, the inputs ad
   - whether route (b) is symmetrised CSL-type or GRW-type is deferred to Test I1.
 
   Run 92 found a window: for r_C from 2.3×10⁻¹⁰ m to 1.5×10¹⁸ m, κ_b lies between the validity of Newtonian gravity from records (κ_b > ℓ_P²/r_C²) and, at laboratory r_C, SNO's deuteron break-up (κ_b < 9×10⁻³² r_C²). What fixes κ_b and r_C is open (§7).
-- **A pattern's commitment is filled by the possibility the pattern itself carries** (stated 27 October). With R2 and that stock counted in proportion to energy, κ_b = 1/(aP∞): route (b)'s rate is set by the vacuum's possibility per place (Reading I4). The stock-or-flow and pair-equivalent counts are choices for a ruling.
+- **A pattern's commitment is filled by the possibility the pattern itself carries** (stated 27 October). Ruled the same day (Reading I4):
+  - the stock it carries, counted in proportion to its energy (pair-equivalents), fills R2's hold;
+  - the pattern recommits at random, at the rate the hold sets.
+
+  So κ_b = 1/(aP∞): route (b)'s rate is set by the vacuum's possibility per place. Neither a nor r_C is ruled.
+- **A pattern's phase is turned by the time-averaged count** (ruled 27 October; Reading I4 §6). A phase turned by the live count would heat matter at about 10²¹ W per nucleon.
 - **The medium holds no branches** (ruled 27 October). Its count N = P/P∞ has one value at each place; patterns carry amplitudes and phases, the medium does not. With the previous ruling this makes gravity unable to entangle masses: if a test of gravitationally mediated entanglement finds it, these rulings fail.
 - **Where possibility runs low, infalling matter commits for good.** Under the current ruling this happens at about twice the medium's crossover scale. That is the core of a black hole, where what falls in becomes record.
 - **No infinities** (stated 23 October; adopted 24 October). Every physical quantity is finite: counts, densities, energies, and the number of places in any finite region. Continuum mathematics is an approximation to finite counts. Whether the universe as a whole has finitely many places is open (§7).
@@ -688,7 +693,7 @@ $$
   - whether its units are quarks or nucleons.
 
   **Reading I4** (27 October; checked): the hold rule gives κ_b = 1/(aP∞) under the statement above, so Run 92's window becomes a lower bound on P∞ at each r_C (a·P∞ ≳ 10⁴⁵ at 100 nm). No value follows until a rule fixes r_C.
-  - **Open from it:** which count turns a pattern's phase. Turned by the live count, the phase would heat matter at about 10²¹ W per nucleon unless P∞ ≳ 10⁷⁰, so only the time-averaged count is viable (Run 16's registered arm).
+  - **Ruled from it (27 October):** a pattern's phase is turned by the time-averaged count (Run 16's registered arm). The live count would heat matter at about 10²¹ W per nucleon unless P∞ ≳ 10⁷⁰.
 
   Tests I1–I3 are proposed, not run; I4's derivation is the reading.
 - **What survives coarse-graining** (stated 26 October).
