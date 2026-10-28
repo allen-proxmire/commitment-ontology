@@ -17,4 +17,7 @@ The quantum sector: when patterns commit, and what that does to gravity. One-lin
 | [`run94_section.md`](run94_section.md) | Run 94: the window with a prestellar core's self-gravity |
 | [`run95_section.md`](run95_section.md) | Run 95: the two-place rule against rival rules |
 | [`run96_inputs.md`](run96_inputs.md) | the inputs for Run 96's top edge |
+| [`reading_I7_what_could_fix_rC.md`](reading_I7_what_could_fix_rC.md) | Reading I7: what could fix r_C. The criterion and the grading (derived, lead, fitted); nothing in the record fixes r_C without a further free quantity |
+| [`reading_I7_C1_statement.md`](reading_I7_C1_statement.md) | candidate C1 in full: route (b) placed by the medium |
+| [`run97_section.md`](run97_section.md) | Run 97: candidate C1. C1a a renaming; C1b a lead; under relativistic neutrino heating it needs the lightest neutrino below 0.029 eV |
 | [`run96_section.md`](run96_section.md) | Run 96: the window under Reading I6, 0.09 μm ≲ r_C ≲ 51 μm |

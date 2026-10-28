@@ -108,3 +108,4 @@ One line per run. The full question and outcome of each are in the scorecard of 
 | 94 | The window with a prestellar core's self-gravity | Pass | [run94_section.md](../quantum/run94_section.md) |
 | 95 | Test I3: the two-place commitment rule | Pass (consistency check) | [run95_section.md](../quantum/run95_section.md) |
 | 96 | The window under Reading I6, measured top edge | Pass (registration) | [run96_section.md](../quantum/run96_section.md) |
+| 97 | Candidate C1 for r_C: route (b) placed by the medium | C1a no test (a renaming); C1b LEAD; relativistic variant LEAD, lightest neutrino < 0.029 eV | [run97_section.md](../quantum/run97_section.md) |
