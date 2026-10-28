@@ -8,6 +8,7 @@
 - *after the fourth check, "as recommended": the restated A3′, with route (b) exempt, and option (a) for the clock chain;*
 - *after the fifth check, "as recommended": option (iii), a gravity deposit lands only where a record fixes position;*
 - *after the checks of option (γ) (`checkGamma/`, `checkGamma2/`, `checkRod/`), "proceed as recommended": reading (b), a record that fixes a body's position depositing every unit's draw, is excluded (on T2-type timing, and on nonlinear or template placement); a record lays down only the struck part's gravity, as T1 implies; and a body's own route-(b) deposits act on it, as M3 implies. Whether units are nucleons and electrons ('indep') or atoms ('com') waits on a recomputation under GRW-type symmetrisation.*
+- *28 October, "as recommended": a deposit's gravity acts as an impulse at the moment of the record, and a single deposit has no reaction partner (as Run 92's B9 and M3 have it). Under GRW-type symmetrisation 'indep' and 'com' share one window (`checkSym/`).*
 
 *It changes primitives, so it stays unreviewed until a sixth check and a final ruling. Nothing here is registered.*
 

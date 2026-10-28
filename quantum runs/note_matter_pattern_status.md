@@ -23,6 +23,7 @@
    - A whole-body deposit would put deposits at the far end of a rod at a time the near-end party chooses: (T2)-type timing.
    - It also has no linear placement. A fixed shape template is excluded by the measured gravity of a vibrating beam (Brack et al. 2022).
 6. **A body's own route-(b) deposits act on it,** as M3 implies.
+7. **A deposit's gravity acts as an impulse at the moment of the record, and a single deposit has no reaction partner** (ruled 28 October, "as recommended"). Both are as the record already has them: Run 92's gravity-from-records phase rule and B9 give an impulse, and the medium holds the draw. So LISA Pathfinder's floor stands at 3.6–5.6×10⁻³⁶.
 
 ### 2. What follows
 
@@ -81,7 +82,6 @@ so a·P∞ ≳ 3.5×10³⁴ under κ_b = 1/(aP∞).
 ### 4. Open
 
 - A comparison of high-redshift quasars with nearby stars in archival Chandra data, which decides the cap region.
-- Two rulings: whether a deposit acts as an impulse or a persisting field, and whether a single deposit conserves momentum.
 - A final independent review of the whole chain.
 - Reading I6's final ruling. Until then, ONTOLOGY's statements that rest on B13 (a·P∞ ≳ 3.7×10²⁴) and on Run 24's self-dip (p_s, P∞ ≳ 6.4×10¹⁰, the hop) are to be read as conditional.
 - How a solid's draw is laid down at fine resolution, if at all: only route (b) and external position records do so under the rulings.
