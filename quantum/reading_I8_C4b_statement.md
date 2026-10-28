@@ -21,6 +21,7 @@ $$
 $$
   K is observable only together with ħ_t, a and ℓ.
 - **Disclosure** (arithmetic on Run 97, not a test): with C1b's ħ_t, ρ_K/K ≈ 10⁻⁴²–10⁻⁶¹ kg m⁻³. A laboratory-scale ρ_K would need K ~ 10⁴²–10⁶⁵ units per place, and K ~ P∞ would give ρ_K ~ 10⁻¹⁵–10⁻³⁴ kg m⁻³. ρ_K is therefore treated as the free parameter.
+  - *Correction (Reading I9's check): C1b's ħ_t already contains κ_b = 1/(aP∞), so with K = P∞ the threshold is exactly one unit per cell, ρ_K = m_N/V_c(r_N) (8×10⁻¹⁶–1.7×10⁻¹⁰ kg m⁻³), not 10⁻³⁴–10⁻¹⁵. The conclusion, that the record does not fix a laboratory ρ_K, stands.*
 
 ### 3. What saturation does: a gated, linear channel
 $$
