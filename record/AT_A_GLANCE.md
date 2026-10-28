@@ -1,6 +1,6 @@
 # The commitment ontology at a glance
 
-What goes in, what comes out, and where it parts from general relativity, on one page. Every line points to the runs behind it. The rules in full are in [`ONTOLOGY.md`](ONTOLOGY.md), and the evidence is in the record (`writeups/commitment_ontology_simulations.md`).
+What goes in, what comes out, and where it parts from general relativity, on one page. Every line points to the runs behind it. The rules in full are in [`ONTOLOGY.md`](ONTOLOGY_full.md), and the evidence is in the record (`writeups/commitment_ontology_simulations.md`).
 
 ## The idea
 
@@ -31,11 +31,11 @@ The world is made of **commitments**: irreversible updates at places. Time at a 
 - black holes are stable (Run 68);
 - the undisturbed vacuum draws nothing, and energy is measured from it (24 October).
 
-None of these added inputs is in the original ontology. Whether any can be derived after all, from the primitives or the other added inputs, is an open question ([`ONTOLOGY.md`](ONTOLOGY.md) §7).
+None of these added inputs is in the original ontology. Whether any can be derived after all, from the primitives or the other added inputs, is an open question ([`ONTOLOGY.md`](ONTOLOGY_full.md) §7).
 
 **Scales and constants set by data, not by the ontology:** p_s ≳ 4×10⁵ units per place, and P∞/p_s ≳ 1.6–1.9×10⁵, the second from the pulsar triple PSR J0337+1715 (Runs 24, 66); and Λ, since the rules give Λ = 0.
 
-The full list, with what each input buys, is at the top of [`ONTOLOGY.md`](ONTOLOGY.md).
+The full list, with what each input buys, is at the top of [`ONTOLOGY.md`](ONTOLOGY_full.md).
 
 ## What comes out
 

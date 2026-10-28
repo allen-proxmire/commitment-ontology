@@ -219,7 +219,7 @@ If a rule derived and registered beforehand gave this combination, the window wo
     5. heating (Q2).
   - Register which patterns share one (λ, r_C) before computing.
   - **Kill:** no window left open, at the registered sharing.
-  - **Run 92 (27 October; registered): PASS** ([`../quantum runs/run92_section.md`](../quantum%20runs/run92_section.md)).
+  - **Run 92 (27 October; registered): PASS** ([`../quantum runs/run92_section.md`](run92_section.md)).
     - **Sharing:** every pattern shares λ = κ_b E/ħ and r_C.
     - **Requirement 1 read per population** (ruled 27 October): κ_b ≳ 10⁻¹⁰⁰. Per pattern, as written above, the window exists only above r_C ≈ 2×10⁸ m.
     - **Requirement 3:** gives no lower bound through decoherence.
@@ -233,7 +233,7 @@ If a rule derived and registered beforehand gave this combination, the window wo
   - Include a control in which the matter keeps no which-path record (Bragg reflection, a material grating).
   - Decoherence by emitted thermal photons, which are patterns in CO and not committed matter, needs its own account.
   - **Kill:** a rate outside the measured one's stated uncertainty, in either direction; or decoherence predicted where the matter keeps no which-path record.
-  - **Reading I1 (27 October; checked independently;** [`../quantum runs/reading_I1_route_a.md`](../quantum%20runs/reading_I1_route_a.md)**).**
+  - **Reading I1 (27 October; checked independently;** [`../quantum runs/reading_I1_route_a.md`](reading_I1_route_a.md)**).**
     - Route (a)'s coherence loss has the standard kernel. A Gaussian localisation at the interaction is excluded by single-photon which-path experiments.
     - Route (a)'s ruling needs a which-path condition to pass the Bragg control.
     - The hold statement must exempt route (a), or Q5 fails.
@@ -245,7 +245,7 @@ If a rule derived and registered beforehand gave this combination, the window wo
       - GRW-type symmetrisation;
       - Q7 with an electron's energy.
     - Run 93 recomputed the window with these: PASS. Lunar laser ranging caps κ_b at 2.7×10⁻²⁵ above 3×10⁹ m, so a·P∞ ≳ 3.7×10²⁴ under κ_b = 1/(aP∞).
-    - Ruled 27 October, after Run 93's gas check (G1): interstellar gas is committed matter, so collisions in molecular gas are route-(a) records. The gas self-gravity bound that follows was registered in Run 94 ([`../quantum runs/run94_section.md`](../quantum%20runs/run94_section.md)): **PASS**, with κ_b ≲ 4.2×10⁻²⁸ for r_C well above a prestellar core's radius (from 1.71×10¹⁵ m), so a·P∞ ≳ 2×10²⁷ there. Read per pattern, the window survives only from about 10⁹ to 1.7×10¹⁵ m.
+    - Ruled 27 October, after Run 93's gas check (G1): interstellar gas is committed matter, so collisions in molecular gas are route-(a) records. The gas self-gravity bound that follows was registered in Run 94 ([`../quantum runs/run94_section.md`](run94_section.md)): **PASS**, with κ_b ≲ 4.2×10⁻²⁸ for r_C well above a prestellar core's radius (from 1.71×10¹⁵ m), so a·P∞ ≳ 2×10²⁷ there. Read per pattern, the window survives only from about 10⁹ to 1.7×10¹⁵ m.
 - **I2. Heating from the local stamp** (a calculation).
   - With the local stamp ruled (§5), the channels are position-like. Under (C) the heating comes from route (b)'s localisations at rate λ and coarseness r_C, and from gravity's back-action.
   - Derive the centre-of-mass heating and the spontaneous radiation for the rule's channels, as a function of the coarseness length.
@@ -259,20 +259,20 @@ If a rule derived and registered beforehand gave this combination, the window wo
   - Then show the singlet correlation E(a, b) = −cos(a − b), hence CHSH = 2√2, with each side's marginals independent of the other's setting.
   - An engine that simply encodes a tensor-product state with Born-rule joint outcomes reproduces the earlier papers' route. What would be new is the two-place commitment rule.
   - **Kill:** CHSH ≤ 2; CHSH > 2√2; or signalling.
-  - **Reading I3 (27 October; checked independently;** [`../quantum runs/reading_I3_two_place_commitment.md`](../quantum%20runs/reading_I3_two_place_commitment.md)**).** Bell excludes a local commitment; reproducing QM everywhere excludes one that travels at a finite speed (Bancal et al. 2012, four parties); no-signalling, with the local stamp, (C) and M3, excludes committing both places at once, since a stamp or deposit at the distant part would let the other party signal.
+  - **Reading I3 (27 October; checked independently;** [`../quantum runs/reading_I3_two_place_commitment.md`](reading_I3_two_place_commitment.md)**).** Bell excludes a local commitment; reproducing QM everywhere excludes one that travels at a finite speed (Bancal et al. 2012, four parties); no-signalling, with the local stamp, (C) and M3, excludes committing both places at once, since a stamp or deposit at the distant part would let the other party signal.
     - Ruled 27 October: **a commitment of one part updates the whole pattern at once, with Born weights, and commits only that part** (T1); the distant part gets no record, stamp or deposit; the engine's global tick fixes the update's moment, recorded nowhere; deposits branch by branch, the hold per unit, the rate operator per unit; the instantaneous field excluded from I3 (R4's open item); Reading I1's (R-a3) excluded; two-part patterns from ordinary entangling evolution, so the singlet is an input; the Born rule borrowed.
     - I3 is to be run as a registered engine run with the rival rules and nonlinear controls detected as failing, since (T1)'s correlations are QM's by construction.
-    - **Run 95 (27 October; registered; checked before and after;** [`../quantum runs/run95_section.md`](../quantum%20runs/run95_section.md)**): PASS.** (T1) triggers none of its 18 tests (S = 2.8257–2.8305 at seven orderings; no dependence of either side's statistics on the other's choice; no record at B carrying Alice's tick); every rival and control is detected. A consistency check, not a prediction: six of the 18 tests cannot respond to anything in the suite, and the rivals' failures are fixed by their definitions (post-run addendum).
+    - **Run 95 (27 October; registered; checked before and after;** [`../quantum runs/run95_section.md`](run95_section.md)**): PASS.** (T1) triggers none of its 18 tests (S = 2.8257–2.8305 at seven orderings; no dependence of either side's statistics on the other's choice; no record at B carrying Alice's tick); every rival and control is detected. A consistency check, not a prediction: six of the 18 tests cannot respond to anything in the suite, and the rivals' failures are fixed by their definitions (post-run addendum).
 - **I4. The rate** (a calculation; it was the threshold before the 27 October rulings).
   - From the hold rule (R2: a commitment holds until the possibility present at its places, summed over ticks, reaches H = 2ħ_tP∞) and the pattern rule, derive route (b)'s rate λ and coarseness r_C for an isolated pattern.
   - Register which combination of scales it gives before computing its value.
-  - **Reading I5 (27 October; checked independently;** [`../quantum runs/reading_I5_what_sets_rC.md`](../quantum%20runs/reading_I5_what_sets_rC.md)**): what could set r_C.** No length the record supplies lies in the window; a power of P∞ times the hop would, for a range of powers, but nothing picks the power. Ruled: r_C stays a primitive scale, bounded by the window, so I4 stays unregistered.
+  - **Reading I5 (27 October; checked independently;** [`../quantum runs/reading_I5_what_sets_rC.md`](reading_I5_what_sets_rC.md)**): what could set r_C.** No length the record supplies lies in the window; a power of P∞ times the hop would, for a range of powers, but nothing picks the power. Ruled: r_C stays a primitive scale, bounded by the window, so I4 stays unregistered.
   - **Kill:**
     - commitment predicted inside any (mass, separation, time) where interference is seen (Q1);
     - a rule that decoheres externally imposed clock-rate differences (Q6);
     - heating above Q2;
     - signalling for any state (Q4).
-  - **Reading I4 (27 October; checked independently;** [`../quantum runs/reading_I4_hold_rule.md`](../quantum%20runs/reading_I4_hold_rule.md)**).**
+  - **Reading I4 (27 October; checked independently;** [`../quantum runs/reading_I4_hold_rule.md`](reading_I4_hold_rule.md)**).**
     - R2 as written gives a rate per hold, λ = c/(ħ_tℓ), which conflicts with M2.
     - With the statement that a pattern's commitment is filled by the possibility it carries (Allen, 27 October), and that stock counted in proportion to energy, the hold gives κ_b = 1/(aP∞), per radian.
     - No value follows. W needs a·P∞ ≳ 1/κ_hi(r_C), for example ≳ 10⁴⁵ at 100 nm, or the gravity limit only for r_C ≳ 10¹⁶ m.
@@ -295,7 +295,7 @@ If a rule derived and registered beforehand gave this combination, the window wo
 
 **10. Open questions.**
 - What "internal complexity" means in CO's terms. The 170 kDa clusters' more than 7,000 atoms do not commit their centre of mass, so it is not a count of constituents below about 7,000 atoms.
-- What is matter and what is pattern. Matter is commitment that keeps re-making itself, yet a cluster's centre of mass interferes. *Ruled 28 October (Reading I6, [`../quantum runs/reading_I6_matter_and_pattern.md`](../quantum%20runs/reading_I6_matter_and_pattern.md)): the line is a state, not a kind. A free body between records is a pattern; a renewal records nothing; gravity is laid down only where a record fixes position; route (b) counts proper phase, so light commits only by route (a). So a solid's interior gravitates only through route (b), and the window becomes 8×10⁻⁸ ≲ r_C ≲ 5×10⁻⁵ m, 3.6×10⁻³⁶ < κ_b ≲ 1.7×10⁻²⁸, to be registered in Run 96. Registered 28 October (Run 96, K96 PASS) with the measured IGM top edge: 9.0×10⁻⁸ ≲ r_C ≲ 5.1×10⁻⁵ m, 5.6×10⁻³⁶ < κ_b ≲ 1.9×10⁻²⁷, a·P∞ ≳ 5.25×10²⁶.*
+- What is matter and what is pattern. Matter is commitment that keeps re-making itself, yet a cluster's centre of mass interferes. *Ruled 28 October (Reading I6, [`../quantum runs/reading_I6_matter_and_pattern.md`](reading_I6_matter_and_pattern.md)): the line is a state, not a kind. A free body between records is a pattern; a renewal records nothing; gravity is laid down only where a record fixes position; route (b) counts proper phase, so light commits only by route (a). So a solid's interior gravitates only through route (b), and the window becomes 8×10⁻⁸ ≲ r_C ≲ 5×10⁻⁵ m, 3.6×10⁻³⁶ < κ_b ≲ 1.7×10⁻²⁸, to be registered in Run 96. Registered 28 October (Run 96, K96 PASS) with the measured IGM top edge: 9.0×10⁻⁸ ≲ r_C ≲ 5.1×10⁻⁵ m, 5.6×10⁻³⁶ < κ_b ≲ 1.9×10⁻²⁷, a·P∞ ≳ 5.25×10²⁶.*
 - ~~Whether an uncommitted pattern draws, and as one source or as separate branches.~~ *Ruled 27 October: only through its records (C); records from both routes; the medium holds no branches (Reading I0).*
 - What a free pattern's "commit and continue" leaves behind, and what each commitment deposits (the full Tolman–Komar weight, normalised by 1/λ, with the momentum current).
 - Which patterns share one (λ, r_C): photons, neutrinos and isolated massive patterns alike, or not.

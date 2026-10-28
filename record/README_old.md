@@ -9,7 +9,7 @@ The project was formerly titled Event Density (ED). "The earlier papers" and the
 **Start here: [`AT_A_GLANCE.md`](AT_A_GLANCE.md)** — what goes in, what comes out, where the ontology parts from GR and how each part could fail, on one page.
 
 ## What is being tested
-**[`ONTOLOGY.md`](ONTOLOGY.md)** states the ontology as it stands, on one page:
+**[`ONTOLOGY.md`](ONTOLOGY_full.md)** states the ontology as it stands, on one page:
 - its primitives (commitment, places, possibility, matter, clocks);
 - its rules, each with its formula, the date it was ruled and the runs behind it;
 - which results are derived from the rules, which needed a ruling, and which borrow standard physics;
