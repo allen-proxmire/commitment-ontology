@@ -89,7 +89,7 @@ at Chandra's loosest supported criterion, so a·P∞ ≳ 1.6×10³⁵. At the ti
 - **Under trial, not ruled:** M2's frame for photons. Allen, 28 October: "let's try along its worldline first". Read that way, route (b)'s rate counts phase along a pattern's own worldline, mc²τ/ħ (A4), which is zero for light. Photons would then commit only through route (a), and the photon bounds would vanish. What the trial does to everything else was checked (`checkWorldline/`; unreviewed):
   - **The record is split.** A4, R6 and Run 16 support it: under R6 the phase along the group path gains mN/γ per tick, which is mc²dτ/ħ. M2 ("ω in the cosmic rest frame") and Reading I4's (S-i) derivation contradict it. I4 would need its stock counted by rest energy and its hold summed along the worldline.
   - **Cosmology does not exclude it.** After decoupling, CMB photons are still recorded by Thomson scattering on leftover electrons and, later, on reionised gas. Under M3, with λ_tot read as the instantaneous rate of depositing records, the population's mean draw stays exact. A reading in which photons' gravity switched off after last scattering would be excluded (θ* off by about 9σ, early ISW by about 21σ), but the rulings do not imply it.
-  - **It predicts that the lightest neutrino has a mass.** A massless neutrino never commits, which would lose a third of the radiation-era neutrino gravity (N_eff ≈ 2.0). Validity of the weak-field condition, which becomes κ_b > γ²ℓ_P²/r_C², needs m₁ ≳ 10⁻¹⁰–3×10⁻⁴ eV across the window.
+  - **No neutrino-mass prediction** (withdrawn after review, `checkWorldline2/`). A massless neutrino is still recorded by route (a) weak scattering after decoupling, so its population's mean draw is exact, as photons' is. What remains is a validity condition, untestable by about 8 decades: m₁ ≳ 10⁻¹⁴–10⁻¹⁰ eV, for the weak-field condition at z ≈ 200–4000.
   - **It requires nucleon units.** Quark units would leave gluon energy undeposited.
   - **The window under the trial:**
 $$
@@ -104,6 +104,11 @@ $$
 
     The X-ray and HST photon bounds become moot.
   - **Unreviewed candidate:** heating of the dilute gas in Leo T could move the upper edge by about 40× tighter to about 5× looser.
+  - **Review (`checkWorldline2/`):**
+    - The cosmology stands. The mean draw is exact for any time-varying rate (Campbell's theorem; Monte Carlo along the real Thomson history: 1.00000), provided λ_tot is ruled as the instantaneous rate of depositing records at the record's own time and place.
+    - The window is confirmed: 8.3–9.0×10⁻⁸ ≲ r_C ≲ 5.1×10⁻⁵ m, κ_b ≤ 1.74×10⁻²⁸ at the cap, a·P∞ ≳ 5.75×10²⁷. But its top edge rests entirely on IGM heating (B7), which is good only to about an order of magnitude: κ_b at the cap lies in about 0.9–16×10⁻²⁸.
+    - **Reading I4 does not survive as a derivation.** κ_b = 1/(aP∞) can be kept only by redefining it per radian of proper phase.
+    - **A third reading, one step from I4, has not been compared:** λ = κ_b mc²/ħ per coordinate time.
 - **A LISA Pathfinder noise budget for the 2–10 mHz plateau,** which could close the window without new Chandra work.
 
 - A comparison of high-redshift quasars with nearby stars in archival Chandra data, which decides the cap region.
