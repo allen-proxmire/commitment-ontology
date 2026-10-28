@@ -9,7 +9,7 @@ The primitives and rules as they stand, with their formulas. Each rule is marked
 | **Commitment** | one irreversible update at a place. Time at a place is the count of commitments there |
 | **Place, relation** | space is who relates to whom; sliding places costs nothing |
 | **Possibility** | a conserved quantity held at places, P units per place, hopping between related places. The vacuum carries no commitment |
-| **Matter** | commitment that keeps re-making itself; mass is the upkeep |
+| **Matter** | commitment that keeps re-making itself; mass is the upkeep. Between records a body is a pattern: its renewals keep its rhythm but record nothing, and its draw on the medium is carried, on average, by its records |
 | **Pattern** | possibility in transit between commitments: light, and quantum matter |
 | **Record** | what has been committed. It is kept |
 
@@ -27,7 +27,7 @@ linear below the crossover p_s, comparing ratios above it. Far from matter the m
 $$
 N=\frac{P}{P_\infty}.
 $$
-The hold and the clock apply where a body's records fix its state (Reading I6).
+The hold and the clock apply where a body's records fix its state. A clock keeps time while its records fix it; between records its phase is turned by the committed world's count.
 
 **R3. The field** (derived). Conservation makes the mean outflow z an exactly linear, unscreened field of matter's draw s:
 $$
@@ -63,9 +63,9 @@ That φ's stress, not U's, curves γ̃ is an added choice: with U's, β = 1 exac
 
 ## Quantum rules
 
-All added unless marked.
+All added unless marked. Route (b)'s rate is κ_b M̂c²/ħ per unit proper time, an operator, so each branch commits at its own rate.
 
-**Q1. Patterns draw only through their records.** A pattern between commitments has no gravity of its own; it lays its draw down where it is recorded. A commitment is stamped with the local count where it happens. The medium holds no branches, and a pattern's phase is turned by the time-averaged count; together these make gravity unable to entangle masses.
+**Q1. Patterns draw only through their records.** A pattern between commitments has no gravity of its own; it lays its draw down where it is recorded. A commitment's stamp and place are those its record fixes: the local count where it happens. A renewal carries no stamp. The medium holds no branches, and a pattern's phase is turned by the time-averaged count; together these make gravity unable to entangle masses.
 
 **Q2. Matter and pattern are states, not kinds.** A free body between records is a pattern. A renewal records nothing. Deposits land only where a record fixes position, at its Born outcome, as an impulse with no reaction partner, and a body's own deposits act on it.
 

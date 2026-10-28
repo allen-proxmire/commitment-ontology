@@ -2,7 +2,7 @@
 
 *27–28 October 2026. Ruled 28 October ("do as recommended": §2's rulings, §5's changes and §6's window as Run 96's target accepted). Every step was checked independently (`checkI6/` to `checkI6f/`, `checkGamma/`, `checkGamma2/`, `checkRod/`, `checkSym/`, `checkXray/`, `checkXray2/`, `checkFloor/`, `checkFinal/`, `checkWorldline/`, `checkWorldline2/`, each REPORT.md). Earlier drafts are in `superseded/`. Nothing here is registered; the window in §6 is for Run 96 to register.*
 
-*Note, 28 October (after Run 96): §6's numbers are superseded by Run 96 (`run96_section.md`). The top edge now comes from the measured IGM thermal history: κ_b ≲ 1.9×10⁻²⁷ at the cap, a·P∞ ≳ 5.25×10²⁶, and SNO hands over at 9.16×10⁻⁷ m. Leo T's "up to about 40×" is withdrawn (a units slip; `run96_inputs.md`). In §5, B6′ is Run 92's per-pattern *neutrino* bound, not a photon bound. It is set aside under Run 92's M5 ruling and §4, not under ruling 11. The wording is left to Allen.*
+*Note, 28 October (after Run 96): §6's numbers are superseded by Run 96 (`run96_section.md`). The top edge now comes from the measured IGM thermal history: κ_b ≲ 1.9×10⁻²⁷ at the cap, a·P∞ ≳ 5.25×10²⁶, and SNO hands over at 9.16×10⁻⁷ m. Leo T's "up to about 40×" is withdrawn (a units slip; `run96_inputs.md`). In §5, B6′ is Run 92's per-pattern *neutrino* bound, not a photon bound. It is set aside under Run 92's M5 ruling and §4, not under ruling 11; §5 is corrected accordingly.*
 
 ### 1. The question
 
@@ -68,7 +68,7 @@ $$
 
 ### 5. What this changes in the registered record
 
-**Primitives and earlier rulings** (wording left to Allen):
+**Primitives and earlier rulings.** The wording below was applied to `ONTOLOGY.md` on 28 October (Allen: "you speak the ontology better than I do, so just fix it please"):
 - **ONTOLOGY §1–§2 (matter):** "each renewal draws" becomes the mean, carried by records. The engine's pair renewal represents that mean.
 - **R2 and Run 15:** the hold and the clock apply where the body's records fix its state.
 - **A3:** a commitment's stamp and place are those its record fixes; renewals carry none.
@@ -87,7 +87,7 @@ $$
 - **Run 92:**
   - its window (r_C from 2.3×10⁻¹⁰ to 1.5×10¹⁸ m) is now closed above 5×10⁻⁵ m;
   - its laboratory band, its κ_b candidates and B9's "at most 5×10⁻²⁴" lie below the new floor;
-  - its photon bounds (B5, B6′) lapse under ruling 11.
+  - its photon bound B5 lapses under ruling 11. Its per-pattern neutrino bound B6′ is set aside by Run 92's per-population ruling (M5) and by §4: neutrinos' gravity is kept by weak-interaction records (ruling 9).
 - **Run 93:** B13 loses its premise, and with it a·P∞ ≳ 3.7×10²⁴. So does "under every ruling to date, route (b) is viable".
 - **Run 94:** B15 stands as a calculation but lies wholly in excluded r_C, and its a·P∞ minimum falls away.
 - **Run 95:** unaffected. Its Born-drawn deposits fit ruling 5.

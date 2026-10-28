@@ -2,6 +2,8 @@
 
 Allen Proxmire · 28 October 2026 · after Runs 1–91 (with 81b) of the lattice record, and Runs 92–96 of the quantum sector
 
+*Kept as the record. The current statement of the ontology, with Reading I6's wording of matter, clocks and the stamp applied, is [`../ONTOLOGY.md`](../ONTOLOGY.md).*
+
 This page states, in one place, what the lattice record tests: the commitment ontology's rules as they stand today. For each rule it gives:
 - its formula;
 - when it was adopted, and by whom;
