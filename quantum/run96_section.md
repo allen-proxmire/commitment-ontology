@@ -128,3 +128,26 @@ The IGM sensitivities (data subsets, confidence level, cooling ×0.5 to ×2) giv
 | a·P∞ | ≳ 5.75×10²⁷ | ≳ 5.25×10²⁶ |
 | SNO handover | below 4.1×10⁻⁷ m | 9.16×10⁻⁷ m |
 | Leo T | "up to about 40×" tighter | withdrawn |
+
+**Post hoc addendum 2: relic-neutrino heating (B16).** *(`inputs_nu/REPORT.md`, checked in `checkB16/REPORT.md`; ruled 28 October, Allen: "do as you recommend".)*
+- **What was missing.** Route (b) acts on every massive pattern (Run 92's M1), so it heats the relic neutrinos. None of Runs 92–96 bounded this. Each hit kicks a neutrino by ⟨Δp²⟩ = 3ħ²/(2r_C²) at the worldline rate, and the expansion redshifts the momentum:
+$$
+\frac{dp^2}{dt}=-2Hp^2+\frac{3\hbar^2}{2r_C^2}\,\frac{\kappa_b mc^2}{\gamma\hbar}.
+$$
+  An exact jump-process Monte Carlo was reproduced by an independent thinning code to 1.5%.
+- **The criterion.** The heated neutrinos' energy density today must not exceed what the published Σm_ν bounds allow: Σ⟨E⟩₀ ≤ Σ_max, with 112 cm⁻³ per mass eigenstate. The heating happens late (z ≲ 6), so this proxy is fair to about a factor of 2, probably on the strict side.
+- **The rulings:**
+  - relic neutrinos are route-(b) units (ONTOLOGY Q4 reworded accordingly);
+  - the primary form stays within model92's validity, non-relativistic kicks r_C ≥ √6ħ/(mc);
+  - the relativistic extension is a labelled variant.
+- **The primary form, B16-NR.** It uses ν₃ only (ν₂'s kicks are relativistic at every r_C in the window), kicks applied in the cosmic frame, and Σ_max = 0.16 eV (DESI DR2 with w₀wₐ, the weakest verified):
+$$
+\kappa_b<7.6\times10^{-20}\,r_C^2\quad(9.67\ \mu\text{m}\le r_C\le\text{cap}),
+$$
+  which is **2.0×10⁻²⁸ at the cap** (≲ 4×10⁻²⁸ allowing for the proxy).
+- **Effect on the window:**
+  - B16-NR lowers κ_top at the cap 5–10× below the registered 1.9×10⁻²⁷. That is comparable to the photoheated and Leo T variants.
+  - The lower edge is unchanged, and the window stays open by more than 10⁷ at the cap.
+  - Under κ_b = 1/(aP∞), a·P∞ ≳ 2.5–5×10²⁷.
+- **The relativistic variant** (kicks below the Compton scale; not used as primary) would bind from about 0.36 μm, with κ_top(cap) ≈ 3.9×10⁻²⁹ at 0.12 eV.
+- **Not affected:** K96 and the registered numbers stand as computed.

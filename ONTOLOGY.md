@@ -75,7 +75,7 @@ All added unless marked. Route (b)'s rate is κ_b M̂c²/ħ per unit proper time
 $$
 \lambda=\frac{\kappa_b\,mc^2}{\gamma\hbar},\qquad L(x)=(\pi r_C^2)^{-3/4}e^{-(q-x)^2/2r_C^2},\qquad \kappa_b=\frac{1}{aP_\infty}\ \text{(a definition)}.
 $$
-The rate is zero for light, which commits only through route (a). The units are electrons and nucleons, each committing on its own. Each record deposits E_TK/λ_tot, smeared at √1.5 r_C. Identical units are symmetrised GRW-type. κ_b = 1/(aP∞) is a definition, and r_C, one for every species, is a primitive input bounded by data.
+The rate is zero for light, which commits only through route (a). Every massive pattern commits this way, relic neutrinos included; the units of ordinary matter are electrons and nucleons, each committing on its own. Each record deposits E_TK/λ_tot, smeared at √1.5 r_C. Identical units are symmetrised GRW-type. κ_b = 1/(aP∞) is a definition, and r_C, one for every species, is a primitive input bounded by data.
 
 **Q5. Two places.** A commitment of one part of a pattern updates the whole pattern at once and commits only that part. Bell's correlations are QM's, and no setting can signal. Two-part patterns come from ordinary entangling evolution, so the singlet is an input. The Born rule is borrowed.
 

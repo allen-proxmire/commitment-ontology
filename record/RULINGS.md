@@ -46,3 +46,5 @@ Every rule and principle added to the primitives, with the date it was adopted. 
 | 27 Oct | one part's commitment updates the whole pattern and commits only that part | Reading I3 |
 | 27–28 Oct | the line between matter and pattern is a state: twelve rulings, including a renewal records nothing, deposits only where a record fixes position, impulse with no reaction partner, λ_tot of depositing records, model92's deposit width, the worldline rate λ = κ_b mc²/(γħ) (zero for light), and κ_b = 1/(aP∞) as a definition | Reading I6 |
 | 28 Oct | Run 96's top edge: the conservative IGM bound (no photoheating) primary; the photoheated form and Leo T reported | Run 96 |
+| 28 Oct | relic neutrinos are route-(b) units; bounds stay within model92's non-relativistic-kick validity, with the relativistic extension a labelled variant | B16 (Run 96 addendum 2) |
+| 28 Oct | Reading I7's grading of candidates: derived, lead, fitted ("don't swing the pendulum") | Reading I7 (draft) |
