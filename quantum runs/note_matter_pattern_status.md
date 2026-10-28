@@ -86,7 +86,24 @@ at Chandra's loosest supported criterion, so a·P∞ ≳ 1.6×10³⁵. At the ti
 - **Ruled 28 October:**
   - M3's λ_tot counts only records that deposit ("yes"). Without that, an interior unit's mean draw would fall by λ_b/λ_int ≈ 10⁻²⁴ and solids would lose their gravity;
   - the deposit-width convention is model92's, √1.5 r_C, as every registered run uses ("keep model92's"). The alternatives (cap 63–88 μm, up to 5× the floor) are reported alongside.
-- **Under trial, not ruled:** M2's frame for photons. Allen, 28 October: "let's try along its worldline first". Read that way, route (b)'s rate counts phase along a pattern's own worldline, mc²τ/ħ (A4), which is zero for light. Photons would then commit only through route (a), and the photon bounds would vanish. What the trial does to everything else is being checked (`checkWorldline/`).
+- **Under trial, not ruled:** M2's frame for photons. Allen, 28 October: "let's try along its worldline first". Read that way, route (b)'s rate counts phase along a pattern's own worldline, mc²τ/ħ (A4), which is zero for light. Photons would then commit only through route (a), and the photon bounds would vanish. What the trial does to everything else was checked (`checkWorldline/`; unreviewed):
+  - **The record is split.** A4, R6 and Run 16 support it: under R6 the phase along the group path gains mN/γ per tick, which is mc²dτ/ħ. M2 ("ω in the cosmic rest frame") and Reading I4's (S-i) derivation contradict it. I4 would need its stock counted by rest energy and its hold summed along the worldline.
+  - **Cosmology does not exclude it.** After decoupling, CMB photons are still recorded by Thomson scattering on leftover electrons and, later, on reionised gas. Under M3, with λ_tot read as the instantaneous rate of depositing records, the population's mean draw stays exact. A reading in which photons' gravity switched off after last scattering would be excluded (θ* off by about 9σ, early ISW by about 21σ), but the rulings do not imply it.
+  - **It predicts that the lightest neutrino has a mass.** A massless neutrino never commits, which would lose a third of the radiation-era neutrino gravity (N_eff ≈ 2.0). Validity of the weak-field condition, which becomes κ_b > γ²ℓ_P²/r_C², needs m₁ ≳ 10⁻¹⁰–3×10⁻⁴ eV across the window.
+  - **It requires nucleon units.** Quark units would leave gluon energy undeposited.
+  - **The window under the trial:**
+$$
+3.6\text{–}5.6\times10^{-36}\ <\ \kappa_b\ <\ \min\!\big(0.94\,r_C^5,\ 6.7\times10^{-20}\,r_C^2\big),\qquad 8.3\times10^{-8}\ \lesssim\ r_C\ \lesssim\ 5.1\times10^{-5}\ \text{m}.
+$$
+    The upper edge is SNO (B10, under GRW-type symmetrisation) below 4×10⁻⁷ m, and IGM heating (B7) above. So κ_b ≲ 1.7×10⁻²⁸ at the cap, and a·P∞ ≳ 5.7×10²⁷. The final review's 2.8×10⁻²⁷ missed B7.
+  - **What it would change:**
+    - M2: the rate becomes κ_b M̂c²/ħ per unit proper time;
+    - M3: μ = γ²ħ/(κ_b c²);
+    - the photon statements of Run 92 (B5, B6′) and Reading I0;
+    - Reading I4's derivation and ruling 2.
+
+    The X-ray and HST photon bounds become moot.
+  - **Unreviewed candidate:** heating of the dilute gas in Leo T could move the upper edge by about 40× tighter to about 5× looser.
 - **A LISA Pathfinder noise budget for the 2–10 mHz plateau,** which could close the window without new Chandra work.
 
 - A comparison of high-redshift quasars with nearby stars in archival Chandra data, which decides the cap region.
