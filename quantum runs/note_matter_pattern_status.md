@@ -55,6 +55,9 @@ which is 10¹²–10¹⁸ at r_C = 1–100 μm. So SNO, XENONnT and Earth's heat
 
 ### 3. The current window (unreviewed as a whole)
 
+*Update, 27 October (`checkXray2/`): fitting Chandra's point-spread function to published high-redshift quasar profiles narrows the strip further. See the end of this section.*
+
+
 $$
 3.6\text{–}5.6\times10^{-36}\ <\ \kappa_b\ <\ 2.8\times10^{-35}\ (\text{at }r_C=5\times10^{-5}\ \text{m}),\qquad 2\times10^{-5}\ \lesssim\ r_C\ \lesssim\ 5\times10^{-5}\ \text{m},
 $$
@@ -63,10 +66,22 @@ so a·P∞ ≳ 3.5×10³⁴ under κ_b = 1/(aP∞).
 - **What could close it.** A Chandra criterion that photons stay within a 1″–2″ core would close the strip by a factor of 1–1.6. That criterion is being pinned to published data (`checkXray2/`).
 - **What it assumes.** Every photon bound assumes route (b)'s rate counts phase in the cosmic frame. If it counts along the worldline, photons never commit, and none of the photon bounds exist.
 
+**The Chandra core criterion, pinned to published data** (`checkXray2/`).
+- **The model.** Chandra's point-spread function is modelled as three Gaussians matching its encircled energy (0.733, 0.916, 0.954 and 0.967 at 0.5″, 1″, 2″ and 5″). Hits are counts-weighted over 0.5–2 keV.
+- **The data.** Clean z = 3.5–4.6 quasars (Lopez et al. 2006; Bassett et al. 2004) allow an excess of about 0.1 of the soft counts beyond 1″ from statistics alone, and 0.2–0.3 once the model's systematics are included.
+- **Below about 4×10⁻⁵ m the strip is closed** under every one of those criteria (by 2–7× at 2×10⁻⁵ m).
+- **Near the cap, 4–5×10⁻⁵ m, it is undecided.**
+  - An excess of 0.1 closes it, by 1.6–2.8×.
+  - An excess of 0.2 leaves a sliver of 1.1–1.3×.
+  - An excess of 0.3 leaves it open from about 3.5×10⁻⁵ m. Even then κ_b is capped at 6.2×10⁻³⁶ at the cap, so a·P∞ ≳ 1.6×10³⁵.
+- **What would decide it.** At the floor, route (b) would at least double the soft-band core of every z ≈ 4 quasar, adding a symmetric blur of 0.4–0.7″ at the cap. That resembles Chandra's own aspect-blur correction. The test that would decide it compares high-redshift quasars with nearby stars on the same detector, epoch and band, and it has not been published.
+- **CMB up-conversion does not bite in the strip.** It reaches only about 10⁻³ of the far-infrared background there, and stays below the FIRAS spectral-distortion limits. The earlier estimate of it was about 60–100× too high.
+- **The LISA floor's dependence** (`checkFloor/`). The floor, 3.6–5.6×10⁻³⁶, is confirmed under the impulse model that Run 92 uses. If a deposit's field persisted instead, there would be no floor at all. Without the self term (that is, with action–reaction per deposit), it would be about 1–2×10⁻³⁶. Both are to be ruled.
+
 ### 4. Open
 
-- The Chandra core criterion and the CMB up-conversion bound (`checkXray2/`).
-- An independent re-derivation of the LISA floor, including whether a deposit acts as an impulse or as a persisting field (`checkFloor/`).
+- A comparison of high-redshift quasars with nearby stars in archival Chandra data, which decides the cap region.
+- Two rulings: whether a deposit acts as an impulse or a persisting field, and whether a single deposit conserves momentum.
 - A final independent review of the whole chain.
 - Reading I6's final ruling. Until then, ONTOLOGY's statements that rest on B13 (a·P∞ ≳ 3.7×10²⁴) and on Run 24's self-dip (p_s, P∞ ≳ 6.4×10¹⁰, the hop) are to be read as conditional.
 - How a solid's draw is laid down at fine resolution, if at all: only route (b) and external position records do so under the rulings.
@@ -74,4 +89,4 @@ so a·P∞ ≳ 3.5×10³⁴ under κ_b = 1/(aP∞).
 - If it closes, the chain (iii), T1 and route (b) cannot all stand, and one gives way.
 
 ### Checks
-`checkI6/`–`checkI6f/` (Reading I6's drafts), `checkGamma/`, `checkGamma2/`, `checkRod/`, `checkSym/`, `checkXray/`, all REPORT.md; the working draft's earlier versions are in `readingI6/superseded/`.
+`checkI6/`–`checkI6f/` (Reading I6's drafts), `checkGamma/`, `checkGamma2/`, `checkRod/`, `checkSym/`, `checkXray/`, `checkXray2/`, `checkFloor/`, all REPORT.md; the working draft's earlier versions are in `readingI6/superseded/`.
