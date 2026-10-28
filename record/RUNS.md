@@ -111,3 +111,4 @@ One line per run. The full question and outcome of each are in the scorecard of 
 | 97 | Candidate C1 for r_C: route (b) placed by the medium | C1a no test (a renaming); C1b LEAD (no power); relativistic variant LEAD, close to the cosmological ν-mass limit | [run97_section.md](../quantum/run97_section.md) |
 | 98 | Candidate C4: saturation as route (c) | C4-β′ INERT; C4-β LEAD AT LABORATORY DENSITIES (no power; ρ_K, Γ_K free) | [run98_section.md](../quantum/run98_section.md) |
 | 98a | Run 98 with added bounds (MICROSCOPE, two white dwarfs, Model S, a brown dwarf, Jupiter) | LEAD AT LABORATORY DENSITIES stands; the hold's ceiling allowed only inside white dwarfs | [run98_section.md](../quantum/run98_section.md) |
+| 99 | C4-β with Γ_K = c/r_C (ρ_K free) | LEAD AT LABORATORY DENSITIES (foregone); predicted edge agrees 115/115; C1b line EXCLUDED; the tropospheric-atmosphere statement FAILED at one point | [run99_section.md](../quantum/run99_section.md) |

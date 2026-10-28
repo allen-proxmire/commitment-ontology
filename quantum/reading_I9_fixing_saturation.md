@@ -40,6 +40,8 @@ $$
 |---|---|---|---|
 | **the hold's ceiling**, c/ℓ | 2.9×10⁴⁰ or 1.9×10⁴³ s⁻¹ | excluded by ≥16 decades wherever a laboratory bound applies (Run 98) | excluded |
 | **one commitment per light-crossing of a cell**, c/r_C | 5.9×10¹² (cap) to 3.3×10¹⁵ s⁻¹ (lower edge) | allowed and ≥10λN_cell at 3050 of 4580 tested points (2090 of 3580 at laboratory densities; 276 of 350 in solids, every r_C ≳ 0.44 μm). Excluded below about 0.34 μm by Earth, LISA and interference. **Margins down to 1** | lead; keeps the ≥10× jump |
+
+*Note (after Run 99): the c/r_C row's "276 of 350 in solids, every r_C ≳ 0.44 μm; excluded below about 0.34 μm" was approximate. With Run 98a's and Run 99's bounds the edge at solid densities is 0.23–0.44 μm, and 0.85–1.44 μm near germanium's density (`run99_section.md`).*
 | **the renewal rate of the cell's mass**, ρ_KV_cc²/(aħ) = P∞λN_cell | – | excluded at every point checked for a ≤ 1 | excluded |
 | **once per hold, C1a**, c/(ħ_tℓ) = 2cℓ²/V_c | 7×10⁻⁵⁰ to 6×10⁻³⁶ s⁻¹ | far below λN_cell (0.06–10⁸ s⁻¹ at the floor). Under C1b it is smaller still | derived given C1a; no signature |
 | **a saturated cell commits as one route-(b) unit** | λN_cell = κ_bc²ρ_KV_c/ħ | allowed by ≥3.4×10⁸; ratio 1, so no 10× jump | lead (one new statement) |
