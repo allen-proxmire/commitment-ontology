@@ -1,5 +1,8 @@
 ### Run 93: route (b)'s window under the rulings after Readings I1 and I4 (a calculation)
 
+*Note, 28 October (Reading I6, consolidated, rulings of 27–28 October; `reading_I6_matter_and_pattern_DRAFT.md`): B13 loses its premise: it assumed a solid's internal records deposit gravity at fine resolution, and under the rulings of 27–28 October they deposit none. So a·P∞ ≳ 3.7×10²⁴ and "route (b) viable under every ruling to date" lapse; the run stands as a calculation. The current window is Reading I6 §6.*
+
+
 *27 October 2026.*
 - *Registered and hashed before the run (`quantum93/PREREG_93.md`, 10 files, 16:16:21 UTC), after Allen's review ("go") and an independent pre-registration check (`check93/REPORT.md`), whose corrections were adopted before the hash.*
 - *Validated beforehand (V1–V7, all PASS).*

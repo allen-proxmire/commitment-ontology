@@ -1,5 +1,8 @@
 ### Run 92: is there a window for route (b)'s rate and coarseness? (Note I's test I0; the quantum sector's first calculation)
 
+*Note, 28 October (Reading I6, consolidated, rulings of 27–28 October; `reading_I6_matter_and_pattern_DRAFT.md`): under the rulings that followed, a solid's interior gravitates only through route (b), and route (b)'s rate counts proper phase (zero for light). This run stands as a calculation, but its window closes above r_C ≈ 5×10⁻⁵ m (the 52 μm inverse-square test), its laboratory band and κ_b candidates lie below a new floor from LISA Pathfinder's gravity noise (κ_b ≳ 3.6×10⁻³⁶), and its photon bounds (B5, B6′) lapse. The current window is Reading I6 §6.*
+
+
 *27 October 2026.*
 - *Registered and hashed before the run: `quantum92/PREREG_92.md`, with the code, the validation outputs, the disclosed smoke test and the pre-registration check; 9 files; 13:58:58 UTC on 27 October.*
 - *Validated beforehand (V1–V5, all PASS).*

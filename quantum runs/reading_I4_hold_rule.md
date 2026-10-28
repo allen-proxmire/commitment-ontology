@@ -1,5 +1,8 @@
 ## Reading I4: what the hold rule says about route (b)'s rate and coarseness (a reading, before Test I4)
 
+*Note, 28 October (Reading I6, consolidated, rulings of 27–28 October; `reading_I6_matter_and_pattern_DRAFT.md`): under the worldline reading of route (b)'s rate (ruled 28 October), κ_b = 1/(aP∞) is kept as a definition, per radian of proper (mass-term) phase. It is no longer a derivation from R2: (S-i) as written implies the cosmic-frame rate (M2), and the worldline reading needs both its stock counted by rest energy and its hold summed along the worldline (`checkWorldline2/`).*
+
+
 *27 October 2026.*
 - *Revised after an independent check (`checkI4/REPORT.md`), whose corrections are adopted here, and after Allen's statement of the same day (§2).*
 - *This is a reading of the record, not a run. The placements against Run 92's window are order of magnitude, not registered results.*

@@ -1,5 +1,8 @@
 ### Reading I0: what does an uncommitted pattern draw? (the first half of Note I's test I0; a reading, no run)
 
+*Note, 28 October (Reading I6, consolidated, rulings of 27–28 October; `reading_I6_matter_and_pattern_DRAFT.md`): ruling 2's corollary, that the 52 μm inverse-square tests do not bound r_C, is reversed: under the rulings of 27–28 October a solid's interior gravitates only through route (b), so those tests cap r_C at about 5×10⁻⁵ m. Its statement that photons commit at κ_bω is replaced: under the worldline reading light commits only through route (a).*
+
+
 *27 October 2026. A reading of the record against established physics. Nothing is run. An independent check found errors and omissions in the first draft, and its corrections are adopted here. The rulings it led to (27 October) are at the end.*
 
 **Question.** Does a pattern of possibility draw before it commits? If it is in a superposition, does it draw:
