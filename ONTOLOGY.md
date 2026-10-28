@@ -10,11 +10,10 @@ The primitives and rules as they stand, with their formulas. Each rule is marked
 | **Place, relation** | space is who relates to whom; sliding places costs nothing |
 | **Possibility** | a conserved quantity held at places, P units per place, hopping between related places. The vacuum carries no commitment |
 | **Matter** | commitment that keeps re-making itself; mass is the upkeep |
-| **Clock** | matter counting its own commitments. Clocks are matter |
 | **Pattern** | possibility in transit between commitments: light, and quantum matter |
 | **Record** | what has been committed. It is kept |
 
-Principles added to the primitives: **the vacuum never commits**, and **no infinities** (every physical quantity is finite). Three dimensions of space are assumed.
+Principles added to the primitives: **the vacuum never commits**; **clocks are matter** (a clock is matter counting its own commitments); and **no infinities** (every physical quantity is finite). Three dimensions of space are assumed.
 
 ## Gravity rules
 
@@ -28,6 +27,7 @@ linear below the crossover p_s, comparing ratios above it. Far from matter the m
 $$
 N=\frac{P}{P_\infty}.
 $$
+The hold and the clock apply where a body's records fix its state (Reading I6).
 
 **R3. The field** (derived). Conservation makes the mean outflow z an exactly linear, unscreened field of matter's draw s:
 $$
@@ -47,7 +47,7 @@ $$
 -N^4\nabla^2\psi+m^2N^2\psi=\omega^2\psi .
 $$
 
-**R7. Twist** (borrowed). Twist is charged on every closed loop of the history, ticks and relations priced alike. This is Lorentz invariance put in by hand; it makes a knot's inertia equal its energy. Particles are knots of commitment.
+**R7. Twist** (borrowed, provisional). Twist is charged on every closed loop of the history, ticks and relations priced alike. This is Lorentz invariance put in by hand; it makes a knot's inertia equal its energy. Particles are knots of commitment when twist lives on closed loops of relations that tile space as faces; building knots from the engine's own commitments is open.
 
 **R8. Motion and inertia.** Patterns ride the flow, g₀ᵢ = −uᵢ. A moving body's field is its boosted rest field (borrowed). Bodies move as point particles, action −m∫dτ (added). Inertia = total energy (borrowed). Relations shear, and only the shear radiates (added).
 
@@ -55,41 +55,48 @@ $$
 $$
 ds^2=-N^2dt^2+N^{-2}\tilde\gamma_{ij}dx^idx^j,\qquad \tilde R_{ij}=2\,\partial_i\varphi\,\partial_j\varphi-16\pi\,p\,e^{2U}\tilde\gamma_{ij},\qquad N=(1+\varepsilon)e^{-\varphi}-\varepsilon .
 $$
-ε sets every static departure from GR. Deriving this rule from the primitives is the main open problem.
+That φ's stress, not U's, curves γ̃ is an added choice: with U's, β = 1 exactly. ε sets every static departure from GR. Deriving this rule from the primitives is the main open problem.
 
-**R10. Rotation** (added, provisional). Frame dragging is possibility's own circulating flow, so the medium's clock is the zero-angular-momentum frame's lapse; spinning holes are Kerr outside.
+**R10. Rotation** (added, provisional). Frame dragging is possibility's own circulating flow, so the medium's clock is the zero-angular-momentum frame's lapse; spinning holes are Kerr outside, to O(ε/α). This interprets an input; the rules do not imply it.
 
 **R11. Black holes** (added; GR's exterior for mergers borrowed). Infalling matter commits where the medium's possibility falls to 2p_s, before any causal matter can turn back; the core absorbs what reaches it, at areal radius 3m. Holes are stable.
 
 ## Quantum rules
 
-**Q1. Patterns draw only through their records.** A pattern between commitments has no gravity of its own; it lays its draw down where it is recorded. The medium holds no branches, so gravity cannot entangle masses.
+All added unless marked.
+
+**Q1. Patterns draw only through their records.** A pattern between commitments has no gravity of its own; it lays its draw down where it is recorded. A commitment is stamped with the local count where it happens. The medium holds no branches, and a pattern's phase is turned by the time-averaged count; together these make gravity unable to entangle masses.
 
 **Q2. Matter and pattern are states, not kinds.** A free body between records is a pattern. A renewal records nothing. Deposits land only where a record fixes position, at its Born outcome, as an impulse with no reaction partner, and a body's own deposits act on it.
 
-**Q3. Route (a): records by interaction.** A pattern is recorded when committed matter keeps which-path information, with the standard coherence kernel.
+**Q3. Route (a): records by interaction.** A pattern is recorded when committed matter keeps which-path information, with the standard coherence kernel. Interstellar gas is committed matter, so its collisions are route-(a) records.
 
 **Q4. Route (b): commit and continue.** Matter also commits at random, at a rate set by its proper phase, localising with coarseness r_C:
 $$
 \lambda=\frac{\kappa_b\,mc^2}{\gamma\hbar},\qquad L(x)=(\pi r_C^2)^{-3/4}e^{-(q-x)^2/2r_C^2},\qquad \kappa_b=\frac{1}{aP_\infty}\ \text{(a definition)}.
 $$
-The rate is zero for light, which commits only through route (a). Each record deposits E/λ_tot, smeared at √1.5 r_C. Identical units are symmetrised GRW-type, and r_C is a primitive scale bounded by data.
+The rate is zero for light, which commits only through route (a). The units are electrons and nucleons, each committing on its own. Each record deposits E_TK/λ_tot, smeared at √1.5 r_C. Identical units are symmetrised GRW-type. κ_b = 1/(aP∞) is a definition, and r_C, one for every species, is a primitive input bounded by data.
 
-**Q5. Two places.** A commitment of one part of a pattern updates the whole pattern at once and commits only that part. Bell's correlations are QM's, and no setting can signal. The Born rule is borrowed.
+**Q5. Two places.** A commitment of one part of a pattern updates the whole pattern at once and commits only that part. Bell's correlations are QM's, and no setting can signal. Two-part patterns come from ordinary entangling evolution, so the singlet is an input. The Born rule is borrowed.
 
 ## Inputs
 
 | input | kind | what it buys |
 |---|---|---|
 | R1 outflow, R2 clock | added, provisional | β = 1; redshift |
-| R5 variational draw, pattern energy draws, hydrostatic balance | added | the first law, passive = active mass, the Tolman pull |
+| R4 the clock field fixed each tick | added | a moving body keeps its well; no preferred frame from the flow |
+| R5 variational draw, pattern energy draws, hydrostatic balance | added | the first law, passive = active mass (the Tolman pull is derived) |
 | R5 vacuum draws nothing | added | no vacuum-energy problem; Λ from data |
 | R6 pattern rule | added, provisional | γ = 1; quantum matter falls as in GR |
 | R8 point particles, shear of relations | added | orbits; binary-pulsar radiation |
-| R10 rotation, R11 the core | added | Kerr outside spinning holes; no singularity, no evaporation |
-| R7 twist, R8 Lorentz input and inertia = total energy, R9 option 3, GR's exterior for mergers, matter's masses and nuclear equations of state | borrowed | composite free fall; frame dragging; stars and holes as GR's; mergers |
-| Q4 GRW-type symmetrisation; the Born rule | added; borrowed | an open quantum window; outcome weights |
-| p_s ≳ 4×10⁵ per place; P∞/p_s ≳ 1.6–1.9×10⁵ | from data | clocks agreeing to 10⁻⁶; the pulsar triple |
+| R9 φ's stress curves space | added | β − 1 = −ε/[2(1 + ε)] |
+| R10 rotation (provisional), R11 the core | added | Kerr outside spinning holes; no singularity, no evaporation |
+| R7 twist (provisional), R8 Lorentz input and inertia = total energy, R9 option 3, GR's exterior for mergers, matter's masses and nuclear equations of state | borrowed | composite free fall; frame dragging; stars and holes as GR's; mergers |
+| Q1–Q5 the quantum rules | added | gravity only from records; the quantum window |
+| Q4 GRW-type symmetrisation | added | an open window (without it, it closes) |
+| the Born rule; the singlet | borrowed; input | outcome weights; entangled pairs |
+| P∞/p_s ≳ 1.6–1.9×10⁵ | from data | the pulsar triple |
+| p_s ≳ 4×10⁵ per place; P∞ ≳ 6.4×10¹⁰; the hop | from data and the engine; conditional since Reading I6 (physical clocks do not dip themselves) | clocks agreeing to 10⁻⁶ |
 | r_C, κ_b | bounded by data | 0.09 μm ≲ r_C ≲ 51 μm |
 | G, c, ħ, Λ | measured | strengths and scales |
 

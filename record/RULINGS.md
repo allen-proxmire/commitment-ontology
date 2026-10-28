@@ -1,6 +1,6 @@
 # Rulings, in order
 
-Every rule and principle added to the primitives, with the date it was adopted. Statements of the picture (not rules) are marked *stated*. The full grounds and costs of each are in [`ONTOLOGY_full.md`](ONTOLOGY_full.md); the quantum rulings are argued in the readings in [`../quantum/`](../quantum/).
+Every rule and principle added to the primitives, with the date it was adopted. Statements of the picture (not rules) are marked *stated*. The full grounds and costs of each are in [`ONTOLOGY_full.md`](ONTOLOGY_full.md); the quantum rulings are argued in the readings in [`../quantum/`](../quantum/). Rows without a date were recorded with their run.
 
 | date (2026) | ruling | after |
 |---|---|---|
@@ -23,10 +23,12 @@ Every rule and principle added to the primitives, with the date it was adopted. 
 | 20 Oct | the full pattern rule for massive patterns | Runs 45–46 |
 | 20 Oct | bodies move as point particles, action −m∫dτ | Run 63 |
 | 20 Oct | inertia = total energy (borrowed) | Runs 52, 55 |
+| — | relations shear, and only the shear radiates (a reading fixed in advance) | Run 11b |
+| — | φ's stress, not U's, curves the medium's space | Run 66 |
 | 21 Oct | option 3: binding tension curves the medium's space in GR's form (borrowed; provisional), replacing defaults (c2), (c3) | Runs 65–67 |
 | 21 Oct | option 3 covers the current field; frame dragging is possibility's own flow, reading Z (provisional) | Run 69 |
-| 21 Oct | holes are stable: "it follows from the rules with nothing added" | Runs 68, 71 |
-| 21 Oct | infalling matter commits where possibility per place falls to 2p_s | Runs 71, 73 |
+| 21 Oct | holes are stable: "it follows from the rules with nothing added" | Runs 68, 71, 74 |
+| 21 Oct | infalling matter commits where possibility per place falls to 2p_s | Run 71 (tested in Runs 73–74) |
 | 22 Oct | two readings of how space curves kept open: (A) relations re-form, (B) relations fixed, space read from the medium's state | Note G |
 | 23 Oct | *stated:* quantum mechanics is what happens before ticking; averaged laws cannot tell forward from backward; the beginning as the One Being, committing everywhere at once; matter over antimatter from a saturated start; the engine's medium is itself an average | |
 | 24 Oct | no infinities (stated 23 Oct) | |
@@ -34,13 +36,13 @@ Every rule and principle added to the primitives, with the date it was adopted. 
 | 25 Oct | *stated:* a pattern stays a pattern until it commits, by interaction or by internal complexity | |
 | 26 Oct | a commitment is stamped with the local count where it happens | Note I |
 | 26 Oct | *stated:* the gravity sector's lattice-algebra line ends at Run 91; what survives coarse-graining | Run 91 |
-| 27 Oct | a pattern draws only through its records, from route (a) and route (b) | Reading I0 |
-| 27 Oct | route (b)'s form: commit and continue at λ = κ_b E/ħ, deposits E/λ_tot smeared at r_C, radiation's gravity per population | Run 92 |
+| 27 Oct | a pattern draws only through its records, from route (a) and route (b); the medium holds no branches | Reading I0 |
+| 27 Oct | route (b)'s form: commit and continue at λ = κ_b E/ħ, deposits E/λ_tot smeared at r_C, radiation's gravity per population | for Run 92 |
 | 27 Oct | the rate is an operator, κ_b Ĥ/ħ; r_C below 1.5×10¹⁸ m | Run 92 |
 | 27 Oct | route (a) records need which-path information; route (a) exempt from the hold; per-unit bulk rates; GRW-type symmetrisation; Q7 with an electron's energy | Reading I1 |
 | 27 Oct | interstellar gas is committed matter: its collisions are route-(a) records (G1) | Run 93 |
 | 27 Oct | a pattern's own possibility fills its hold, so κ_b = 1/(aP∞); its phase is turned by the time-averaged count | Reading I4 |
 | 27 Oct | r_C is a primitive scale, bounded by data | Reading I5 |
-| 27 Oct | one part's commitment updates the whole pattern and commits only that part; the medium holds no branches | Reading I3 |
+| 27 Oct | one part's commitment updates the whole pattern and commits only that part | Reading I3 |
 | 27–28 Oct | the line between matter and pattern is a state: twelve rulings, including a renewal records nothing, deposits only where a record fixes position, impulse with no reaction partner, λ_tot of depositing records, model92's deposit width, the worldline rate λ = κ_b mc²/(γħ) (zero for light), and κ_b = 1/(aP∞) as a definition | Reading I6 |
 | 28 Oct | Run 96's top edge: the conservative IGM bound (no photoheating) primary; the photoheated form and Leo T reported | Run 96 |

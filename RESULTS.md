@@ -14,8 +14,9 @@ Each result with how the ontology gets it and the runs behind it. **Derived** me
 | light bending and Shapiro delay, γ = 1 | chosen (the pattern rule) | 9, 17, 46 |
 | Mercury's perihelion, β = 1; two wells multiply | chosen (the medium and clock) | 22–26 |
 | binary-pulsar energy loss, 0.98 of GR | chosen (relations shear; fixed in advance) | 11b |
-| clocks of different design agree; the pulsar triple | scales set by data | 23, 24, 66 |
-| composite bodies fall alike (MICROSCOPE) | borrowed (twist across ticks) | 18, 18b, 46–48 |
+| clocks of different design agree; ζ₂; the pulsar triple | scales set by data (p_s ≳ 4×10⁵ conditional since Reading I6) | 23, 24, 30, 45, 48, 55, 57, 66 |
+| composite bodies fall alike (MICROSCOPE) | borrowed (twist across ticks, plus the full pattern rule) | 18, 18b, 46–48, 52, 54 |
+| at weak field a bound system pulls by its total energy | chosen (pattern energy draws) and borrowed (momentum flux draws) | 36, 40c |
 | α₁, α₃, frame dragging, the Earth–Moon test | borrowed (the Lorentz input) | 34 |
 | binding pulls like rest mass | borrowed (stress pulls) | 42, 44, 49, 50 |
 | a compact body's inertia is its total energy | borrowed | 52, 55 |
@@ -30,7 +31,7 @@ Each result with how the ontology gets it and the runs behind it. **Derived** me
 | binary-black-hole inspirals and mergers | borrowed (GR's exterior) | 63 |
 | a hole's clock stops just outside GR's horizon, at a cold surface; no event horizon | follows from option 3 | 67 |
 | infalling matter commits before it can turn back, at areal radius 3m | chosen (commit at 2p_s) | 71, 73, 74 |
-| no echoes; no evaporation: Hawking's flux only as a brief transient, then one flash and silence | computed under option 3 and the core; stability ruled | 43, 68, 71, 74 |
+| no echoes; no evaporation: Hawking's flux only as a brief transient; then one flash and silence for a cold core, or a faint negative tail for a continued state | computed under option 3 and the core; stability ruled | 43, 68, 71, 74 |
 
 ## Where CO differs from GR (not yet tested)
 
@@ -49,7 +50,7 @@ Each result with how the ontology gets it and the runs behind it. **Derived** me
 | updates on place ticks alone give waves at speed N, excluded by GW170817; a second factor of N is needed | 82 |
 | on a triangulated lattice with Regge's energy, exactly GR's two polarisations at c, healthy at the linear level | 83, 84 |
 | GR's constraint algebra closes at the first nonlinear order | 85, 86 |
-| at field order 2: exactly GR's algebra at the continuum degree; at the lattice corrections, closure with a changed basis, a neighbour-coupling kinetic term and changed lapse couplings | 87–89, 91 |
+| at field order 2: exactly GR's algebra at the continuum degree; at the lattice corrections, closure with a changed basis, a neighbour-coupling kinetic term and changed lapse couplings (not for Run 85's dressing, Run 88; Regge's third-order energy as registered not found, Run 91); one formal closure, not a global certificate | 87–89, 91 |
 | that closure forces the waves to stay relativistic through order a² | 90 |
 
 The algebra is imposed, not derived from the primitives. Field order 3 is untested.
@@ -59,10 +60,10 @@ The algebra is imposed, not derived from the primitives. Field order 3 is untest
 | result | status | runs |
 |---|---|---|
 | the window for route (b): 0.09 μm ≲ r_C ≲ 51 μm; 5.6×10⁻³⁶ < κ_b ≲ 1.9×10⁻²⁷ at the cap, set by LISA Pathfinder's floor, SNO, intergalactic-gas heating and a 52 μm inverse-square test | registered (no power to fail) | 96 |
-| GRW's textbook setting (0.1 μm, 10⁻¹⁶ s⁻¹ per nucleon) is excluded: the floor needs λ = κ_b m_N c²/ħ ≥ 8×10⁻¹² s⁻¹, since rarer commitments make gravity too grainy | follows from Run 96's floor | 96 |
+| CO's route (b) cannot run at GRW's textbook rate: at r_C = 0.1 μm, λ = 10⁻¹⁶ s⁻¹ per nucleon would need κ_b ≈ 7×10⁻⁴¹, far below the floor κ_b ≥ 5.6×10⁻³⁶ (λ = κ_b m_N c²/ħ ≥ 8×10⁻¹² s⁻¹; 5×10⁻¹² from the self term alone). Rarer commitments make gravity too grainy | an inference from Run 96, not part of its registration | 96 |
 | without GRW-type symmetrisation the window closes | sensitivity | 96 |
 | the two-place rule keeps Bell's S at 2√2 at every ordering, with no signal; rival rules fail | consistency check | 95 |
-| gravity cannot entangle masses | follows from Q1 | — |
+| gravity cannot entangle masses | follows from Q1 (no branches in the medium; phase turned by the time-averaged count) | — |
 
 Earlier windows (Runs 92–94) stand as calculations under rulings since replaced.
 
