@@ -1,6 +1,6 @@
-## Reading I6: the line between matter and pattern, and what it does to route (b) — CONSOLIDATED, awaiting the final ruling
+## Reading I6: the line between matter and pattern, and what it does to route (b)
 
-*27–28 October 2026. Consolidated for Allen's final ruling. Every step was checked independently (`checkI6/` to `checkI6f/`, `checkGamma/`, `checkGamma2/`, `checkRod/`, `checkSym/`, `checkXray/`, `checkXray2/`, `checkFloor/`, `checkFinal/`, `checkWorldline/`, `checkWorldline2/`, each REPORT.md). Earlier drafts are in `superseded/`. Nothing here is registered; the window in §6 is for Run 96 to register.*
+*27–28 October 2026. Ruled 28 October ("do as recommended": §2's rulings, §5's changes and §6's window as Run 96's target accepted). Every step was checked independently (`checkI6/` to `checkI6f/`, `checkGamma/`, `checkGamma2/`, `checkRod/`, `checkSym/`, `checkXray/`, `checkXray2/`, `checkFloor/`, `checkFinal/`, `checkWorldline/`, `checkWorldline2/`, each REPORT.md). Earlier drafts are in `superseded/`. Nothing here is registered; the window in §6 is for Run 96 to register.*
 
 ### 1. The question
 
@@ -123,9 +123,9 @@ At the cap, κ_b ≤ 1.74×10⁻²⁸, so a·P∞ ≳ 5.75×10²⁷.
 - The internal-complexity reading: configuration dependence, saturation and amplification.
 - The coordinate-time reading of the rate, κ_b mc²/ħ, which gives the same window and differs only for relic neutrinos' deposits.
 
-### 8. For the final ruling
+### 8. Final ruling (28 October)
 
-Accept §2's rulings as stated, §5's list of changes, and §6's window as Run 96's registration target.
+Accepted: §2's rulings as stated, §5's list of changes, and §6's window as Run 96's registration target.
 
 ### Sources
 - S. Pedalino et al., *Nature* 649, 866 (2026); T. Kovachy et al., *Nature* 528, 530 (2015); Y. Margalit et al., *Science* 349, 1205 (2015).

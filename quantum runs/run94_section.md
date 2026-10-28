@@ -1,6 +1,6 @@
 ### Run 94: route (b)'s window with the gas self-gravity bound (a calculation)
 
-*Note, 28 October (Reading I6, consolidated, rulings of 27–28 October; `reading_I6_matter_and_pattern_DRAFT.md`): B15 stands as a calculation but lies wholly in r_C now excluded (above about 5×10⁻⁵ m); the a·P∞ minimum quoted here falls away with B13 (Run 93's note).*
+*Note, 28 October (Reading I6, ruled 28 October; `reading_I6_matter_and_pattern.md`): B15 stands as a calculation but lies wholly in r_C now excluded (above about 5×10⁻⁵ m); the a·P∞ minimum quoted here falls away with B13 (Run 93's note).*
 
 
 *27 October 2026.*

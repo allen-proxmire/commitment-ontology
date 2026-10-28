@@ -1,6 +1,6 @@
 ## Working note: the line between matter and pattern, and what it does to route (b) (status, 27 October 2026)
 
-*A dated status note, not a ruled reading. It records rulings made on 27 October during Reading I6, and the consequences found by independent checks. The numbers in §3 are unreviewed as a whole: a final independent review and Reading I6's final ruling are pending. The working draft of Reading I6 is in `reading_I6_matter_and_pattern_DRAFT.md`.*
+*A dated status note, not a ruled reading. It records rulings made on 27 October during Reading I6, and the consequences found by independent checks. The numbers in §3 are unreviewed as a whole: a final independent review and Reading I6's final ruling are pending. The working draft of Reading I6 is in `reading_I6_matter_and_pattern.md`.*
 
 ### 1. Rulings made (27 October)
 

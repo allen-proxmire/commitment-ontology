@@ -1,6 +1,6 @@
 ### Run 93: route (b)'s window under the rulings after Readings I1 and I4 (a calculation)
 
-*Note, 28 October (Reading I6, consolidated, rulings of 27–28 October; `reading_I6_matter_and_pattern_DRAFT.md`): B13 loses its premise: it assumed a solid's internal records deposit gravity at fine resolution, and under the rulings of 27–28 October they deposit none. So a·P∞ ≳ 3.7×10²⁴ and "route (b) viable under every ruling to date" lapse; the run stands as a calculation. The current window is Reading I6 §6.*
+*Note, 28 October (Reading I6, ruled 28 October; `reading_I6_matter_and_pattern.md`): B13 loses its premise: it assumed a solid's internal records deposit gravity at fine resolution, and under the rulings of 27–28 October they deposit none. So a·P∞ ≳ 3.7×10²⁴ and "route (b) viable under every ruling to date" lapse; the run stands as a calculation. The current window is Reading I6 §6.*
 
 
 *27 October 2026.*
