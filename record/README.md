@@ -1,6 +1,6 @@
 # Record
 
-Everything behind the front pages, kept unchanged apart from link paths in four files (listed in the manifest). Old documents still name the old paths in their text. The state of the repository before the makeover is tagged `pre-makeover`; [`MANIFEST.md`](MANIFEST.md) maps every old path to its new one.
+Everything behind the front pages, kept unchanged apart from link paths in four files (listed in the manifest). Old documents still name the old paths in their text. The state of the repository before the makeover is commit `bec9a62`; [`MANIFEST.md`](MANIFEST.md) maps every old path to its new one.
 
 | file | what it is |
 |---|---|

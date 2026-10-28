@@ -1,6 +1,6 @@
 # Manifest: where every file went
 
-The makeover moved files without changing them (one commit, 119 renames at 100% similarity). The state before it is tagged `pre-makeover`. A second commit changed only link targets in four of them: `quantum/design_commitment_quantum.md`, `record/quantum_README_old.md`, `record/AT_A_GLANCE.md` and `record/README_old.md`. Old path → new path:
+The makeover moved files without changing them (one commit, 119 renames at 100% similarity). The state before it is commit `bec9a62`. A second commit changed only link targets in four of them: `quantum/design_commitment_quantum.md`, `record/quantum_README_old.md`, `record/AT_A_GLANCE.md` and `record/README_old.md`. Old path → new path:
 
 | old path | new path |
 |---|---|
