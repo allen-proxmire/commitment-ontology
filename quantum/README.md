@@ -21,4 +21,6 @@ The quantum sector: when patterns commit, and what that does to gravity. One-lin
 | [`reading_I7_C1_statement.md`](reading_I7_C1_statement.md) | candidate C1 in full: route (b) placed by the medium |
 | [`reading_I8_internal_complexity.md`](reading_I8_internal_complexity.md) | Reading I8: commitment set by internal complexity. Configuration and tension are already in the record at the trivial level; saturation needs a primitive CO lacks, a capacity per place (ruled: to be added and tested) |
 | [`run97_section.md`](run97_section.md) | Run 97: candidate C1. C1a a renaming; C1b a lead (no power), surviving every bound; under relativistic neutrino heating it comes within a few per cent of the cosmological neutrino-mass limit, adding no independent prediction |
+| [`reading_I8_C4b_statement.md`](reading_I8_C4b_statement.md) | Reading I8, C4-β in full: saturation as route (c), a gated linear channel at a threshold density ρ_K, with its rulings |
+| [`run98_section.md`](run98_section.md) | Run 98: C4. The hold's ceiling is inert; saturation (route (c)) survives every bound as a lead at laboratory densities (no power; two free parameters, Γ_K open over 7–33 decades) |
 | [`run96_section.md`](run96_section.md) | Run 96: the window under Reading I6, 0.09 μm ≲ r_C ≲ 51 μm |

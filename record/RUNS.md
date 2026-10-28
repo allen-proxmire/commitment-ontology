@@ -109,3 +109,4 @@ One line per run. The full question and outcome of each are in the scorecard of 
 | 95 | Test I3: the two-place commitment rule | Pass (consistency check) | [run95_section.md](../quantum/run95_section.md) |
 | 96 | The window under Reading I6, measured top edge | Pass (registration) | [run96_section.md](../quantum/run96_section.md) |
 | 97 | Candidate C1 for r_C: route (b) placed by the medium | C1a no test (a renaming); C1b LEAD (no power); relativistic variant LEAD, close to the cosmological ν-mass limit | [run97_section.md](../quantum/run97_section.md) |
+| 98 | Candidate C4: saturation as route (c) | C4-β′ INERT; C4-β LEAD AT LABORATORY DENSITIES (no power; ρ_K, Γ_K free) | [run98_section.md](../quantum/run98_section.md) |

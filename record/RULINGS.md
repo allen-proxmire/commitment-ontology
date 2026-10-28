@@ -49,3 +49,4 @@ Every rule and principle added to the primitives, with the date it was adopted. 
 | 28 Oct | relic neutrinos are route-(b) units; bounds stay within model92's non-relativistic-kick validity, with the relativistic extension a labelled variant | B16 (Run 96 addendum 2) |
 | 28 Oct | Reading I7's grading of candidates: derived, lead, fitted ("don't swing the pendulum") | Reading I7 (draft) |
 | 28 Oct | a capacity per place (Allen's "bandwidth") becomes a primitive to be written out and tested; C4-γ (bonds commit) and C4-δ (correlation-boosted rate) excluded | Reading I8 |
+| 28 Oct | saturation is route (c); its commitments are records that deposit; δρ = ρ_K/10 with a compactly supported step ("do as you recomm") | Reading I8 (C4-β), Run 98 |

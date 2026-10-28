@@ -61,6 +61,7 @@ The algebra is imposed, not derived from the primitives. Field order 3 is untest
 |---|---|---|
 | the window for route (b): 0.09 μm ≲ r_C ≲ 51 μm; 5.6×10⁻³⁶ < κ_b ≲ 1.9×10⁻²⁷ at the cap, set by LISA Pathfinder's floor, SNO, intergalactic-gas heating and a 52 μm inverse-square test | registered (no power to fail) | 96 |
 | candidate C1 for r_C (route (b) placed by the medium): one reading renames r_C, the other (species-dependent r_C) survives every bound as a lead needing ħ_t ≈ 10¹²⁶–10¹⁴⁷ | lead, not derived | 97 |
+| commitment by internal complexity: the hold as a threshold is inert; a new capacity primitive (saturation, route (c)) gives an onset in size at fixed density and survives every bound, with ρ_K and Γ_K free | lead, not derived | 98 |
 | relic-neutrino heating lowers the window's top at the cap to about 2×10⁻²⁸ (≲ 4×10⁻²⁸); still open by more than 10⁷ | post hoc, checked | 96 (addendum 2) |
 | CO's route (b) cannot run at GRW's textbook rate: at r_C = 0.1 μm, λ = 10⁻¹⁶ s⁻¹ per nucleon would need κ_b ≈ 7×10⁻⁴¹, far below the floor κ_b ≥ 5.6×10⁻³⁶ (λ = κ_b m_N c²/ħ ≥ 8×10⁻¹² s⁻¹; 5×10⁻¹² from the self term alone). Rarer commitments make gravity too grainy | an inference from Run 96, not part of its registration | 96 |
 | without GRW-type symmetrisation the window closes | sensitivity | 96 |
