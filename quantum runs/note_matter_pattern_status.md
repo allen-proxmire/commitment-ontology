@@ -103,7 +103,7 @@ $$
     - Reading I4's derivation and ruling 2.
 
     The X-ray and HST photon bounds become moot.
-  - **Unreviewed candidate:** heating of the dilute gas in Leo T could move the upper edge by about 40× tighter to about 5× looser.
+  - **Unreviewed candidate:** heating of the dilute gas in Leo T. *Corrected 28 October (`run96_inputs.md`): the "40× tighter" came from a units slip in the literature (GeV for erg). Leo T is no tighter than the IGM, and a measured IGM thermal history makes the top edge about 10× looser than B7.*
   - **Review (`checkWorldline2/`):**
     - The cosmology stands. The mean draw is exact for any time-varying rate (Campbell's theorem; Monte Carlo along the real Thomson history: 1.00000), provided λ_tot is ruled as the instantaneous rate of depositing records at the record's own time and place.
     - The window is confirmed: 8.3–9.0×10⁻⁸ ≲ r_C ≲ 5.1×10⁻⁵ m, κ_b ≤ 1.74×10⁻²⁸ at the cap, a·P∞ ≳ 5.75×10²⁷. But its top edge rests entirely on IGM heating (B7), which is good only to about an order of magnitude: κ_b at the cap lies in about 0.9–16×10⁻²⁸.
