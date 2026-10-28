@@ -2,6 +2,8 @@
 
 *27–28 October 2026. Ruled 28 October ("do as recommended": §2's rulings, §5's changes and §6's window as Run 96's target accepted). Every step was checked independently (`checkI6/` to `checkI6f/`, `checkGamma/`, `checkGamma2/`, `checkRod/`, `checkSym/`, `checkXray/`, `checkXray2/`, `checkFloor/`, `checkFinal/`, `checkWorldline/`, `checkWorldline2/`, each REPORT.md). Earlier drafts are in `superseded/`. Nothing here is registered; the window in §6 is for Run 96 to register.*
 
+*Note, 28 October (after Run 96): §6's numbers are superseded by Run 96 (`run96_section.md`). The top edge now comes from the measured IGM thermal history: κ_b ≲ 1.9×10⁻²⁷ at the cap, a·P∞ ≳ 5.25×10²⁶, and SNO hands over at 9.16×10⁻⁷ m. Leo T's "up to about 40×" is withdrawn (a units slip; `run96_inputs.md`). In §5, B6′ is Run 92's per-pattern *neutrino* bound, not a photon bound. It is set aside under Run 92's M5 ruling and §4, not under ruling 11. The wording is left to Allen.*
+
 ### 1. The question
 
 The record calls matter "commitment that keeps re-making itself" and quantum matter "a pattern of possibility in transit". A cluster of more than 7,000 atoms is matter, yet its centre of mass interferes. Note I §6(v): "CO has to say what, in a ticking body, stays uncommitted." The line also decides which commitments are route (a), and where a body's gravity is laid down.

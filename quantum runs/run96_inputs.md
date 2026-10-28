@@ -2,6 +2,8 @@
 
 *28 October 2026. Gathered for Run 96's pre-registration (`inputs96/REPORT.md`, with `igm_leoT96.py`). Not registered and not yet checked independently.*
 
+*Note, 28 October: reviewed in `checkPre96/` and superseded by Run 96 (`run96_section.md`). The registered top edge uses a combined one-sided test over 20 points, with Hu et al.'s errors in log units and Walther et al.'s published z = 1.8 error: κ_b < 7.29×10⁻¹⁹ r_C². The "z = 0.2" single-point value here is kept as a variant.*
+
 **Why.** Reading I6 §6 puts the window's top edge, for r_C ≳ 4×10⁻⁷ m, at Run 92's B7 (IGM heating), κ_b < 6.7×10⁻²⁰ r_C². B7 assumed the heating over the universe's age reaches (3/2)k_B(10⁴ K) with no cooling, and was compared with no measurement.
 
 **The heating per particle.** From model92: each hit adds ħ²/(2r_C²) to ⟨p_x²⟩, at λ = κ_b mc²/ħ. So every free particle, whatever its mass, gains

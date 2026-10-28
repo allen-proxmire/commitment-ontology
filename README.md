@@ -35,7 +35,7 @@ Every run in the record tests a consequence of those rules against a measurement
 - **`Where CO's Gravity Stands.md`** is a plain-language summary: passed, failed, open.
 - **`Gravity from Counting Commitment.md`** is the explainer.
 - **`runs/`** holds each run's write-up section. These are snapshots taken when each run was written; later notes live in the full record.
-- **`quantum runs/`** holds the quantum-sector write-ups: Readings I0 (how a superposed pattern draws), I1 (what a route-(a) record is), I3 (what happens at the distant part when one part of a pattern commits), I6 (the line between matter and pattern), I4 (route (b)'s rate from the hold rule) and I5 (what could set route (b)'s coarseness), and Runs 92–95 (the window for route (b)'s rate and coarseness, and Test I3 of the two-place commitment rule). The design note is Note I, in `runs/`.
+- **`quantum runs/`** holds the quantum-sector write-ups: Readings I0 (how a superposed pattern draws), I1 (what a route-(a) record is), I3 (what happens at the distant part when one part of a pattern commits), I6 (the line between matter and pattern), I4 (route (b)'s rate from the hold rule) and I5 (what could set route (b)'s coarseness), and Runs 92–96 (the window for route (b)'s rate and coarseness, Test I3 of the two-place commitment rule, and the window's registration under Reading I6). The design note is Note I, in `runs/`.
 - **`figures/`** holds one figure per run or group of runs.
 - **The latest release** has two zips:
   - every run's code, pre-registration (`PREREG_NN.md`), hash file (`PREREG_NN.sha256`), logs and JSON results;
