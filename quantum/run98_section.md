@@ -51,7 +51,7 @@ is route (b) summed over one cell, at the floor κ_b = 5.62×10⁻³⁶. Bounds:
   - the white dwarf, at ρ_K ≥ 10⁶ kg m⁻³ and r_C ≥ 1.8×10⁻⁵ m (P08, 98 points) or ≥ 8×10⁻⁶ m (engine, 205 points);
   - for the engine, also the Sun, at 2–6×10⁴ kg m⁻³ and r_C ≥ 3.9×10⁻⁵ m (9 points). One of them, ρ_K = 1.995×10⁴, is an artefact of coverage: it lies just above LISA's test-mass density, where no laboratory bound is registered.
 
-  The reason is in the model: one particle's share of the smoothed density is tiny next to δρ in dense matter, so smooth stellar gradients barely register. Wherever a laboratory bound applies, the ceiling is excluded by at least 16 decades. Unregistered bounds (cooler or heavier white dwarfs, the real solar core, giant planets) could close these points.
+  The reason is in the model: one particle's share of the smoothed density is tiny next to δρ in dense matter, so smooth stellar gradients barely register. Wherever a laboratory bound applies, the ceiling is excluded by at least 16 decades. The Sun-only points and the 1.995×10⁴ point are closed in Run 98a (below).
 
 **Untested.**
 - The per-particle regime, N_cell < 10 (5020 grid points), where every particle saturates on its own.
@@ -65,3 +65,30 @@ is route (b) summed over one cell, at the floor κ_b = 5.62×10⁻³⁶. Bounds:
 **What it means.**
 - **The record's own capacity-type quantity, the hold, does nothing** as a threshold (C4-β′).
 - **A new capacity primitive gives a consequence the GRW-type models lack**, an onset in size at fixed density that differs between materials, and it survives every registered bound. It survives because ρ_K and Γ_K are free: the allowed Γ_K spans 7 to 33 decades. It is a lead, not a result, until something in CO fixes ρ_K or Γ_K.
+
+**Run 98a (registered addendum; bounds added after the result).**
+- *Hashed before the run (`quantum98a/PREREG_98a.md`, 17 files). An independent post-run check (`check98a/REPORT.md`) reproduces the output byte for byte, confirms the sources, and re-derives every new bound to 4.4×10⁻⁴.*
+- **Added bounds:**
+  - MICROSCOPE's PtRh10 test masses (1.98×10⁴ ≤ ρ_K < 1.998×10⁴);
+  - the cool white dwarf WD J2147−4035 (n = 1.5 from its measured mass and radius; L = 9.4×10⁻⁶ L☉);
+  - the massive white dwarf WD J0103−0522 (zero-temperature Chandrasekhar, μ_e = 2, its ONe mass 1.262 M☉);
+  - the Sun's Model S (ρ_c = 1.54×10⁵);
+  - the brown dwarf LHS 6343 C (n = 1.5; log L/L☉ = −5.16, the tighter of two published values; −4.77 changes no count);
+  - Jupiter (n = 1; 7.485 W m⁻² internal heat).
+- Model, survivor rule, κ_b and grid are unchanged, and Run 98's counts are reproduced in the same run.
+
+| quantity | Run 98 | Run 98a |
+|---|---|---|
+| tested points | 4580 | 5330 |
+| survivors | 4580 | 5330 |
+| at ρ_K ≤ osmium | 3580 | 3580 |
+| margins | 3.4×10⁷ – 3.2×10³³ | 3.4×10⁷ – 7.5×10³⁴ |
+| the hold's ceiling allowed (P08 / engine) | 98 / 214 | 200 / 363 |
+
+- **K98a: LEAD AT LABORATORY DENSITIES stands.**
+- **The hold's ceiling,** Γ_K = c/ℓ, is excluded wherever a laboratory bound applies (LISA by 19.1 / 16.3 decades, MICROSCOPE by 10.0 / 7.2, for P08 / engine) and wherever a body other than a white dwarf applies. It is allowed only inside white dwarfs (ρ_K 10⁶–2×10¹¹) at large r_C. There Γ_max/(c/ℓ) runs from 1.05 to 8×10⁷ (P08) and from 1.09 to 5×10¹⁰ (engine), with medians 88 and 1.4×10³. The values near 1 are boundary points, since Γ_max ∝ r_C⁸. The counts rose because the white dwarfs now test densities above 2.59×10⁹; inside Run 98's tested range they fell, to 67 and 173.
+- **Profile sensitivity** (the check): Coulomb (Hamada–Salpeter) structure, GR, C/O against ONe, and ±1σ data change the white-dwarf Γ_max by 0.3–3.4× and the allowed counts by at most 5. A crystallised core does not change the density smoothed at r_C.
+- **Untested:**
+  - ρ_K above 2.5×10¹¹;
+  - between grid points, 9.61×10⁵–10⁶ and 1.998×10⁴–2.26×10⁴. The latter has no laboratory datum, and the BIPM Pt-Ir weighings lack an averaging time.
+  - Single-bound ranges: 1.6–7.9×10⁵ (LHS 6343 C) and 5×10⁹–2×10¹¹ (WD J0103−0522).
