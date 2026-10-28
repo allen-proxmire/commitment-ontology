@@ -94,7 +94,7 @@ So **no single statement in the record fixes r_C without a further free quantity
 
 **C4. Commitment set by internal complexity.** This is the undefined reading of Note I §3 and §10 and Reading I6 §7, a programme rather than one statement.
 - *Conflicts:* Reading I5 ruling 5 and Q4's "each committing on its own"; Reading I3's per-unit hold and rate, which no-signalling needs; Note I §6's exclusion of threshold readings.
-- *Its distinctive consequence must go beyond what symmetrised GRW and CSL already have,* since they depend on configuration through amplification, R = 1/[2n(2πr_C²)^{3/2}].
+- *Its distinctive consequence must go beyond what symmetrised GRW and CSL already have.* (Corrected 28 October after `checkI8/`: R = 1/[2n(2πr_C²)^{3/2}] suppresses force-noise effects, not decoherence; for decoherence the GRW-type units see configuration only above r_C, through Γ = Σλ_i(1 − e^{−d_i²/4r_C²}).)
 
 ### 6. Choices for a ruling
 
