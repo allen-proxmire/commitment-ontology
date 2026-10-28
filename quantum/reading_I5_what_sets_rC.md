@@ -2,6 +2,8 @@
 
 *27 October 2026. Checked independently (`checkI5/REPORT.md`); its corrections are adopted below; ruled the same day (§8). Nothing here is registered. The numbers in §4 are arithmetic on Run 93's registered window W (`model93.py`, unchanged), not a test.*
 
+*Note, 28 October (after Run 96): Run 96's window supersedes the numbers in §4–§8. The family r_C = ℓP∞ⁿ now needs n ≈ 0.70–1.18 at p_s's bound (0.35–1.16 with p_s free), and 5.25×10²⁶ ≲ aP∞ ≲ 1.78×10³⁵ (Reading I7, draft).*
+
 **The question.** Readings I0, I1 and I4 left one thing open in route (b): its coarseness r_C. Reading I4 ruled κ_b = 1/(aP∞), so the rate is set by the vacuum's possibility per place, P∞. r_C is not fixed by any rule (I4 ruling 5), and I4 is not to be registered until a rule fixes it (I4 ruling 6). Note I (I2) asks for r_C's origin to be registered before its value is computed. This reading collects the lengths the record supplies, checks each against W, and sets out what a ruling would have to choose.
 
 ### 1. What the record says
