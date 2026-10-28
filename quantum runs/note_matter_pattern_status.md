@@ -83,10 +83,10 @@ at Chandra's loosest supported criterion, so a·P∞ ≳ 1.6×10³⁵. At the ti
 
 ### 4. Open
 
-- **To rule:**
-  - M3's λ_tot counts only records that deposit. Without that, an interior unit's mean draw falls by λ_b/λ_int ≈ 10⁻²⁴ and solids lose their gravity, so this is required, not an option;
-  - the deposit-width convention;
-  - M2's frame for photons.
+- **Ruled 28 October:**
+  - M3's λ_tot counts only records that deposit ("yes"). Without that, an interior unit's mean draw would fall by λ_b/λ_int ≈ 10⁻²⁴ and solids would lose their gravity;
+  - the deposit-width convention is model92's, √1.5 r_C, as every registered run uses ("keep model92's"). The alternatives (cap 63–88 μm, up to 5× the floor) are reported alongside.
+- **Under trial, not ruled:** M2's frame for photons. Allen, 28 October: "let's try along its worldline first". Read that way, route (b)'s rate counts phase along a pattern's own worldline, mc²τ/ħ (A4), which is zero for light. Photons would then commit only through route (a), and the photon bounds would vanish. What the trial does to everything else is being checked (`checkWorldline/`).
 - **A LISA Pathfinder noise budget for the 2–10 mHz plateau,** which could close the window without new Chandra work.
 
 - A comparison of high-redshift quasars with nearby stars in archival Chandra data, which decides the cap region.
