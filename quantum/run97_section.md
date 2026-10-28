@@ -4,7 +4,7 @@
 - *Registered and hashed before the run (`quantum97/PREREG_97.md`, 12 files, 16:27:13 UTC), after three independent pre-registration checks (`checkPre97/`, `checkPre97b/`, `checkPre97c/`) and a check of the relic-neutrino bound (`checkB16/`), whose corrections were adopted, and Allen's "go".*
 - *Validated beforehand (V1–V12, all PASS).*
 - *Not blind: the checks computed the species window and the neutrino variant before hashing. The registration fixes the method.*
-- *A post-run check by a second independent agent (`check97/REPORT.md`) is in progress; its findings will be added as an addendum.*
+- *A second independent agent checked the registered run (`check97/REPORT.md`): the hashes verify, a re-run reproduces the log byte for byte, and every headline number matches the checks' predictions to 2×10⁻⁴. Its wording points are adopted below.*
 
 **Why.** Reading I7 asked what could fix route (b)'s coarseness r_C from the primitives. It ruled a grading:
 - **derived:** follows from the record as it stands;
@@ -46,17 +46,18 @@ $$
 
 **Result.**
 - **C1a:** no test (a renaming).
-- **K97, C1b: LEAD.** It is a lead that includes reopening one r_C per species, and the test has essentially no power.
+- **K97, C1b: LEAD.** It is a lead only if one r_C for every species (Reading I5 ruling 5) is reopened, and the test has essentially no power: the species window was known in advance to be open by 4.4×10⁶ at the cap. One verdict holds for every a and both hops; only ħ_t depends on them.
 
 | quantity | value |
 |---|---|
 | intergalactic-gas bound with both species | 9.43×10⁻²¹ r_N², 77× tighter than Run 96's, because electrons are heated 150× more |
 | W_s | r_N from 8.49×10⁻⁷ m to the cap (electrons 6.9×10⁻⁸ to 4.2×10⁻⁶ m) |
 | κ_top at the cap | 2.46×10⁻²⁹, so a·P∞ ≳ 4.1×10²⁸ |
-| W_s's lower edge | set by XENONnT's estimated excitation channel; without it, 4.7×10⁻⁷ m |
-| C1b's ħ_t | 10¹²⁶–10¹⁴⁷; a value taken from it would be fitted |
+| W_s's lower edge | set by XENONnT's estimated excitation channel; without it, 4.73×10⁻⁷ m |
+| C1b's ħ_t minimum | where B7′ takes over the top from XENONnT, at r_N ≈ 9×10⁻⁶ m |
+| C1b's ħ_t | 10¹²⁶–10¹⁴⁷ (one hold 10⁸⁶–10¹⁰³ s; E_pair 10⁻¹²⁰–10⁻¹⁰¹ eV); no criterion, and a value taken from it would be fitted |
 
-- **K97-rel, C1b with relativistic neutrino heating: LEAD (variant).**
+- **K97-rel, C1b with relativistic neutrino heating: LEAD (variant)**, awaiting a ruling on the relativistic-kick extension. In the 0.16 eV and proxy-×2 rows the lower edge is XENONnT's; B16 sets only the top.
 
 | criterion | W_s (r_N) | κ_top at the cap | open at the cap |
 |---|---|---|---|
@@ -64,13 +65,13 @@ $$
 | ordering-conditioned DESI limits (0.113, 0.1026 eV) | – | – | 35× and 28× |
 | inverted ordering | – | – | 8.8× |
 
-  **Under the variant, C1b requires the lightest neutrino to be lighter than 0.029 eV** (normal ordering, 0.12 eV). The corresponding limits are 0.014 eV for inverted ordering and 0.022 eV with DESI DR2's normal-ordering limit. DESI DR2 already puts the lightest mass below 0.023 eV.
+  Under the variant, C1b requires the lightest neutrino below 0.029 eV (normal ordering, Σ < 0.12 eV). **This is almost entirely the cosmological input:** Σ < 0.12 eV alone already requires m₁ < 0.030 eV, so the variant tightens it by about 0.001 eV; with DESI DR2's ordering-conditioned limit it reproduces DR2's own m_l < 0.023 eV. The closing mass follows Σ_max (0.044 eV at 0.16 eV) and barely moves with the ED-side choices. What C1b adds is narrower: at the cap, the relic neutrinos can absorb at most about 3 meV of heating in total. Under the variant, aP∞ ≳ 4.5×10³³ (not registered).
 
 **What it means.**
 - **C1, the first worked lead for r_C, does not close and does not derive.**
   - Its one-moment reading is a renaming.
-  - Its over-the-hold reading survives every bound in the record. Under one further extension it makes a definite, falsifiable statement: the lightest neutrino is nearly massless.
-- **That statement rests on three new statements and one unregistered extension:**
+  - Its over-the-hold reading survives every bound in the record. Under one further extension its neutrino bound comes within a few per cent of the cosmological limit on neutrino masses, so it adds no independent neutrino-mass prediction.
+- **The lead rests on these new statements and one unregistered extension:**
   - C1 itself;
   - a value of ħ_t of 10¹²⁶–10¹⁴⁷;
   - species-dependent coarseness;

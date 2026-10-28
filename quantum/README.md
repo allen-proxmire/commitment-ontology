@@ -19,5 +19,5 @@ The quantum sector: when patterns commit, and what that does to gravity. One-lin
 | [`run96_inputs.md`](run96_inputs.md) | the inputs for Run 96's top edge |
 | [`reading_I7_what_could_fix_rC.md`](reading_I7_what_could_fix_rC.md) | Reading I7: what could fix r_C. The criterion and the grading (derived, lead, fitted); nothing in the record fixes r_C without a further free quantity |
 | [`reading_I7_C1_statement.md`](reading_I7_C1_statement.md) | candidate C1 in full: route (b) placed by the medium |
-| [`run97_section.md`](run97_section.md) | Run 97: candidate C1. C1a a renaming; C1b a lead; under relativistic neutrino heating it needs the lightest neutrino below 0.029 eV |
+| [`run97_section.md`](run97_section.md) | Run 97: candidate C1. C1a a renaming; C1b a lead (no power), surviving every bound; under relativistic neutrino heating it comes within a few per cent of the cosmological neutrino-mass limit, adding no independent prediction |
 | [`run96_section.md`](run96_section.md) | Run 96: the window under Reading I6, 0.09 μm ≲ r_C ≲ 51 μm |
