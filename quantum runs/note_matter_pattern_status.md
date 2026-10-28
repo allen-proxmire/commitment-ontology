@@ -35,11 +35,15 @@ with w the fraction of a Gaussian of standard deviation √1.5 r_C enclosed. New
 
 Three consequences:
 
-- **Run 93's B13 loses its premise.** It assumed a solid's internal records deposit at fine resolution.
-- **Run 94's B15 stands,** since gas collisions fix position.
+- **The premise that a solid's draw lands at fine resolution lapses.** Runs 92–95 stand as calculations, but these registered readings rest on that premise:
+  - **Run 93's B13**, and with it a·P∞ ≳ 3.7×10²⁴;
+  - **Run 92's window:** r_C from 2.3×10⁻¹⁰ to 1.5×10¹⁸ m is now closed above 5×10⁻⁵ m. Its laboratory band (2.6×10⁻⁵⁶ < κ_b < 9×10⁻⁴⁶ at 100 nm) lies below the new floor, and so does every κ_b candidate it placed. B9's "at most 5×10⁻²⁴" is replaced by the floor;
+  - **Run 93's reading** "under every ruling to date, route (b) is viable";
+  - **Run 94:** the smallest a·P∞, 3.66×10²⁴, falls away. B15 stands as a calculation, but lies wholly in excluded r_C;
+  - **Reading I0 ruling 2's corollary,** that the 52 μm tests do not bound r_C. They are now the binding cap.
 - **The short-range cap.** The 52 μm inverse-square test (Lee et al. 2020) requires r_C ≲ 5×10⁻⁵ m, uncertain by about ±20% (`checkGamma2/`).
 
-**A lower edge from gravity's graininess** (`checkGamma2/`; being re-derived in `checkFloor/`). A solid's gravity arrives in deposits of μ = ħ/(κ_b c²). LISA Pathfinder's test masses, including the pull of each mass's own deposits, then require
+**A lower edge from gravity's graininess** (`checkGamma2/`; re-derived independently in `checkFloor/` and `checkFinal/`). A solid's gravity arrives in deposits of μ = ħ/(κ_b c²). LISA Pathfinder's test masses, including the pull of each mass's own deposits, then require
 $$
 \kappa_b\ \ge\ \frac{4\hbar J}{c^2M_{\rm TM}^2\,{\rm ASD}^2}\approx3.6\text{–}5.6\times10^{-36},\qquad J=\int\rho_{\rm src}\langle\tilde g_x^2\rangle\,dV .
 $$
@@ -48,24 +52,22 @@ $$
 $$
 R=\frac{1}{2n(2\pi r_C^2)^{3/2}}\approx\frac{1}{31.5\,n\,r_C^3},
 $$
-which is 10¹²–10¹⁸ at r_C = 1–100 μm. So SNO, XENONnT and Earth's heat no longer bind there, and 'indep' (nucleons and electrons) and 'com' (atoms) have the same window. Run 92's note that the labelled bounds overstate "by up to the number of like units within r_C" understates the factor, which is about 7.5 times that number.
+so the suppression 1/R is about 4×10¹¹ to 10¹⁹ at r_C = 1–100 μm (1.05×10¹⁶ at 10⁻⁵ m in D₂O, 4.1×10¹⁴ in liquid xenon). An exact lattice sum confirms it. So SNO, XENONnT and Earth's heat no longer bind there, and 'indep' (nucleons and electrons) and 'com' (atoms) have the same window. Run 92's note that the labelled bounds overstate "by up to the number of like units within r_C" understates the factor, which is about 7.5 times that number.
 
 **Photon bounds** (`checkXray/`). A hit deflects a photon by σ_α = 1/(√2 r_C k) per axis, and the hits along a path number N = κ_b k_obs χ(z_S), with χ the comoving distance and the rate counted in the cosmic frame (M2).
 - With χ in place of cT, HST's B5 becomes κ_b < 5.2×10⁻³⁴.
-- X-ray imaging of distant quasars, from halo limits and spectral slopes, closes the window for r_C ≲ 2×10⁻⁵ m by 10–100×.
+- X-ray imaging of distant quasars, from halo limits and spectral slopes, closes the window for r_C ≲ 2×10⁻⁵ m. The margin is 10–100× below about 10⁻⁵ m, and about 1 near 2×10⁻⁵ m.
 
-### 3. The current window (unreviewed as a whole)
-
-*Update, 27 October (`checkXray2/`): fitting Chandra's point-spread function to published high-redshift quasar profiles narrows the strip further. See the end of this section.*
-
+### 3. The current window (reviewed 28 October, `checkFinal/`: "holds with changes")
 
 $$
-3.6\text{–}5.6\times10^{-36}\ <\ \kappa_b\ <\ 2.8\times10^{-35}\ (\text{at }r_C=5\times10^{-5}\ \text{m}),\qquad 2\times10^{-5}\ \lesssim\ r_C\ \lesssim\ 5\times10^{-5}\ \text{m},
+3.6\text{–}5.6\times10^{-36}\ <\ \kappa_b\ \lesssim\ 6.2\times10^{-36},\qquad 4\times10^{-5}\ \lesssim\ r_C\ \lesssim\ 5\times10^{-5}\ \text{m},
 $$
-so a·P∞ ≳ 3.5×10³⁴ under κ_b = 1/(aP∞).
+at Chandra's loosest supported criterion, so a·P∞ ≳ 1.6×10³⁵. At the tighter criteria it is closed.
 
-- **What could close it.** A Chandra criterion that photons stay within a 1″–2″ core would close the strip by a factor of 1–1.6. That criterion is being pinned to published data (`checkXray2/`).
-- **What it assumes.** Every photon bound assumes route (b)'s rate counts phase in the cosmic frame. If it counts along the worldline, photons never commit, and none of the photon bounds exist.
+- **The deposit-width convention.** This assumes model92's convention: deposits spread over √1.5 r_C. With (iii)'s "kernel width" read as |L̂|² (total spread r_C), or with centre sampling alone, the short-range cap moves to 63–88 μm, and κ_b may reach 2.5–4.8× the floor. So until the convention is ruled, the result is r_C ≈ 51–88 μm at the cap, at 1–5× the floor.
+- **Photons.** Every photon bound assumes route (b)'s rate counts phase in the cosmic frame (M2, open since Run 92). If it counts along the worldline, photons never commit. Then the window widens to r_C ≈ 8×10⁻⁸ to 5×10⁻⁵ m, with 3.6×10⁻³⁶ < κ_b < 2.8×10⁻²⁷, and a·P∞ ≳ 3.5×10²⁶.
+- **The floor is conservative.** It counts LISA Pathfinder's whole 1.74 fm s⁻² Hz⁻¹ᐟ² plateau as room for route (b). Armano et al. attribute that plateau to residual-gas noise. If only 1.2 fm were left, the floor would be 7.6×10⁻³⁶, and the window would close under every Chandra criterion.
 
 **The Chandra core criterion, pinned to published data** (`checkXray2/`).
 - **The model.** Chandra's point-spread function is modelled as three Gaussians matching its encircled energy (0.733, 0.916, 0.954 and 0.967 at 0.5″, 1″, 2″ and 5″). Hits are counts-weighted over 0.5–2 keV.
@@ -80,6 +82,12 @@ so a·P∞ ≳ 3.5×10³⁴ under κ_b = 1/(aP∞).
 - **The LISA floor's dependence** (`checkFloor/`). The floor, 3.6–5.6×10⁻³⁶, is confirmed under the impulse model that Run 92 uses. If a deposit's field persisted instead, there would be no floor at all. Without the self term (that is, with action–reaction per deposit), it would be about 1–2×10⁻³⁶. Both are to be ruled.
 
 ### 4. Open
+
+- **To rule:**
+  - M3's λ_tot counts only records that deposit. Without that, an interior unit's mean draw falls by λ_b/λ_int ≈ 10⁻²⁴ and solids lose their gravity, so this is required, not an option;
+  - the deposit-width convention;
+  - M2's frame for photons.
+- **A LISA Pathfinder noise budget for the 2–10 mHz plateau,** which could close the window without new Chandra work.
 
 - A comparison of high-redshift quasars with nearby stars in archival Chandra data, which decides the cap region.
 - A final independent review of the whole chain.
