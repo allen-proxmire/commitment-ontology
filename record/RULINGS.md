@@ -52,3 +52,4 @@ Every rule and principle added to the primitives, with the date it was adopted. 
 | 28 Oct | saturation is route (c); its commitments are records that deposit; δρ = ρ_K/10 with a compactly supported step ("do as you recomm") | Reading I8 (C4-β), Run 98 |
 | 28 Oct | no CO quantity fixes ρ_K at laboratory densities; Γ_K = c/r_C registered; the cell-as-unit reading kept as the alternative; a uniformly saturated bulk makes no record (a reading); relativistic kicks stay a labelled variant (R-a) | Reading I9 |
 | 29 Oct | ties of ρ_K to r_C move the free number; the engine-hop minimal line (C1a, K = 1, a = 1) named, linking saturation to p_s; a surface saturation record deposits the draw of the units its layer reaches, at the surface, smeared at r_C | Reading I10 |
+| 29 Oct | a plain lattice term for patterns recorded as excluded by data; no upper bound on p_s beyond ~10³⁰/a; a matter-field closure calculation to be registered; vacuum Cherenkov set aside | Reading I11 |

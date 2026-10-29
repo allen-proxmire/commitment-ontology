@@ -96,7 +96,7 @@ The rate is zero for light, which commits only through route (a). Every massive 
 | Q4 GRW-type symmetrisation | added | an open window (without it, it closes) |
 | the Born rule; the singlet | borrowed; input | outcome weights; entangled pairs |
 | P∞/p_s ≳ 1.6–1.9×10⁵ | from data | the pulsar triple |
-| p_s ≳ 4×10⁵ per place; P∞ ≳ 6.4×10¹⁰; the hop | from data and the engine; conditional since Reading I6 (physical clocks do not dip themselves) | clocks agreeing to 10⁻⁶ |
+| p_s ≳ 4×10⁵ per place; P∞ ≳ 6.4×10¹⁰; the hop | from data and the engine; conditional since Reading I6 (physical clocks do not dip themselves). Upper bound p_s ≲ 1.1×10³⁰/a only, through P∞ (Reading I11) | clocks agreeing to 10⁻⁶ |
 | r_C, κ_b | bounded by data | 0.09 μm ≲ r_C ≲ 51 μm |
 | G, c, ħ, Λ | measured | strengths and scales |
 
