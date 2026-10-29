@@ -98,3 +98,9 @@ $$
    - a bounded ledger, through finitely many places in a region, is the one route to a deviation;
    - route-(b) records saturate the error–disturbance bound at the scale r_C.
 2. **A bounded ledger is to be written out:** which bound a pattern carries, its effect on spectra, and its comparison with the β₀ bounds, including whether a minimal length applies to a composite body's centre of mass or only to its constituents.
+
+*Note (29 October, after Reading I13):*
+- *The "Δx ≳ ℓ" row of (C) and its table is superseded. Places give a discrete position spectrum with β < 0 and no Δx floor; the bounded ledger on places is the Maassen–Uffink relation, ln n ≤ H(x) + H(p) ≤ 2 ln n.*
+- *The map "β₀ ≈ (ℓ/ℓ_P)²" is corrected to the plain stencil's β₀ = −(S/8)(ℓ/ℓ_P)², 1.7×10³–3.3×10⁵ at p_s's lower bound, and 0 under M1.*
+- *The "J/ψ, β₀ < 10³⁴ (Ali, Das and Vagenas 2011)" row is corrected: that paper bounds α₀ < 10¹⁷ on the linear GUP.*
+- *The tension with Campbell et al. is removed if the hop acts on electrons and nucleons; otherwise it stands, and is not established for β₀ < 0 (Reading I13).*
