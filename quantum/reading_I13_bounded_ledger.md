@@ -276,7 +276,11 @@ Convention: β = β₀/(M_Pc)², Δx_min = √β₀ ℓ_P. "Per unit" means the 
 ### 9. Rulings (29 October; Allen: "do as you recommend")
 1. **§7's finding is recorded,** with the dated note on Reading I12 listed in choice 1. Reading I12's ruling 2 closes with grade derived / restatement, not lead.
 2. **Which pattern R6's hop acts on in a bound body is left open until Run 102.** If matter closes with Run 91's full gravity, bodies carry no deformation under either reading.
-3. **Whether position takes values only at places is left open,** pending Allen's account of how "finitely many places in any finite region" and the "scaleless substrate" fit together.
+3. **Position takes values only at places; places are finite in number in any finite region but have no fixed spacing** (29 October; Allen: "please go with whatever you recommend").
+   - "Scaleless substrate" is read as no fixed length between places: places are relational, so a region's count is finite but its spacing is not a constant of the substrate.
+   - The engine's lattice is a stand-in, as the 23 October statement says.
+   - So (A), (A′) and (B) hold off the engine: the position spectrum is discrete and the Maassen–Uffink ledger applies. No lattice dispersion follows (consistent with Reading I11).
+   - The hop is read as a typical spacing set by the local count, not a fixed length.
 
 ### Sources
 - S. Das and E. C. Vagenas, *Phys. Rev. Lett.* 101, 221301 (2008); [arXiv:0810.5333](https://arxiv.org/abs/0810.5333). GUP with [x_i, p_j] = iħ(δ_ij + βδ_ijp² + 2βp_ip_j); β₀ < 10³⁶ (Lamb), 10⁵⁰ (Landau), 10²¹ (STM).

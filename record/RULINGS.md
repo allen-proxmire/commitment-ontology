@@ -55,3 +55,4 @@ Every rule and principle added to the primitives, with the date it was adopted. 
 | 29 Oct | a plain lattice term for patterns recorded as excluded by data; no upper bound on p_s beyond ~10³⁰/a; a matter-field closure calculation to be registered; vacuum Cherenkov set aside | Reading I11 |
 | 29 Oct | uncertainty as a ledger: share form excluded; information form = entropic relation; a bounded ledger to be written out (composite-body question included) | Reading I12 |
 | 29 Oct | the bounded ledger is a crystal's, a restatement; which pattern the hop acts on left open until Run 102; position-at-places left open pending Allen | Reading I13 |
+| 29 Oct | position takes values only at places; places are finite in any finite region with no fixed spacing (the scaleless substrate); the engine's lattice a stand-in | Reading I13 ruling 3 |
