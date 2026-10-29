@@ -104,6 +104,9 @@ $$
 | α₁, α₃ | 0 | the Lorentz input |
 | ζ₃, ζ₄ (internal energy, pressure) | open | whether pattern energy and stress draw (Run 33). The input covers kinetic pressure (moving particles) only |
 
+*Note (29 October, after Reading I15's check): ζ₂ = 2(β − 1) is the value under the draw rule used before R5 (d = TN). Under the ruled variational draw d = T(1 + g) = −ρ* dN/dφ the static sector is Lagrangian, the Φ₂ coefficient is 2(4 − 2β), and ζ₂ = 0 exactly for every ε (an invariant action requires it; Will 2014 §3.2). Run 66's Δ = εC/(1+ε), the current scale input, already corresponds to this; the ζ₂-based scale bounds below are superseded.*
+
+
 - **The Earth–Moon test is then met in full.** With these values,
 $$
 \eta_N=4\beta-\gamma-3-\tfrac{10}{3}\xi-\alpha_1+\tfrac23\alpha_2-\tfrac23\zeta_1-\tfrac13\zeta_2=\tfrac{10}{3}(\beta-1)\approx-6.5\times10^{-5}

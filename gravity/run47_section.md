@@ -67,3 +67,5 @@ Both start from the same initial conditions, set by Kepler with the active masse
    - The engine holds the body at fixed proper size by rule, not by re-equilibrating. So part of the 4% may come from that body model rather than from CO.
 
 *Later (Run 49, post hoc): sized by exact hydrostatics, the stress turns the 4% deficit into a +0.6% excess, so the deficit analysed here may not exist. Run 50 is to settle it.*
+
+*Note (29 October, after Reading I15's check): ζ₂ = 2(β − 1) is the value under the draw rule used before R5 (d = TN). Under the ruled variational draw d = T(1 + g) = −ρ* dN/dφ the static sector is Lagrangian, the Φ₂ coefficient is 2(4 − 2β), and ζ₂ = 0 exactly for every ε (an invariant action requires it; Will 2014 §3.2). Run 66's Δ = εC/(1+ε), the current scale input, already corresponds to this; the ζ₂-based scale bounds below are superseded.*

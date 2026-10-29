@@ -28,7 +28,7 @@
 | Gravitational redshift: clocks slow by the fractional shortage | the presence clock (a commitment holds until enough possibility has been present) | 15, 22 |
 | Free fall at the clock-set rate, all masses alike | a pattern whose phase is turned by the committed world's count; no steering rule, no coupling | 16, 27 |
 | Wells around matter obey the matter-free medium's equation of state, also where Mercury's band holds | local equilibrium of the medium | 22, 25 |
-| Rest mass deep in a potential pulls by its local clock rate (Tolman's term; ζ₂ = 2(β − 1)) | a body's draw is its ticking, and its ticking slows in a well | 30 |
+| Rest mass deep in a potential pulls by its local clock rate (Tolman's term; ζ₂ = 2(β − 1) under the pre-R5 draw; ζ₂ = 0 under R5, per Reading I15's check) | a body's draw is its ticking, and its ticking slows in a well | 30 |
 | No preferred-frame term from possibility's flow (α₂ = 0); no motion or preferred-location term in the clock field (ζ₁ = ξ = 0) | given the adopted rules (clock field fixed each tick; patterns ride possibility's flow), conservation fixes the flow | 34 |
 
 ### Reproduced, by an input (tracked)

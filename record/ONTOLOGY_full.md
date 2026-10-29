@@ -42,7 +42,7 @@ Everything that goes in, and what each input buys. The primitives, the inputs ad
 | R1: outflow f(P) = c ln(1 + P/p_s) | added, 18 October, provisional | β = 1, which it was designed for (Runs 21–26) |
 | R2: the presence clock, N = P/P∞ | added, 18 October, provisional | gravitational redshift (Run 22) |
 | R4: the clock field fixed each tick; patterns ride possibility's flow | added, 19 October | a moving body keeps its well (Run 31); no preferred-frame effect from the flow (Run 34) |
-| R5: the variational draw, d = T(1 + g), T = (e + 3p)N√γ | added, 19–20 October | the first law and passive = active mass (Runs 52–54); the Tolman pull is derived (Run 30) |
+| R5: the variational draw, d = T(1 + g), T = (e + 3p)N√γ | added, 19–20 October | the first law and passive = active mass (Runs 52–54); the Tolman pull is derived (Run 30); ζ₂ = 0 exactly (Reading I15's check; Run 30's ζ₂ = 2(β − 1) is the pre-R5 value) |
 | R5: a pattern's energy draws | added, 19 October | a bound system pulls by its energy (Runs 33, 36) |
 | R5: a body is in exact hydrostatic balance, N h(n) = μ̃ | added (a correction), 20 October | static stars (Runs 49–50) |
 | R5: the undisturbed vacuum draws nothing; energy is measured from it | added, 24 October | quantum field theory's vacuum energy never enters gravity |

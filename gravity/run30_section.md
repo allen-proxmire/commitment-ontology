@@ -53,6 +53,9 @@ $$
 $$
 \zeta_2=2(\beta-1).
 $$
+
+*Note (29 October, after Reading I15's check): ζ₂ = 2(β − 1) is the value under the draw rule used before R5 (d = TN). Under the ruled variational draw d = T(1 + g) = −ρ* dN/dφ the static sector is Lagrangian, the Φ₂ coefficient is 2(4 − 2β), and ζ₂ = 0 exactly for every ε (an invariant action requires it; Will 2014 §3.2). Run 66's Δ = εC/(1+ε), the current scale input, already corresponds to this; the ζ₂-based scale bounds below are superseded.*
+
 - With the medium's $\beta-1\approx-0.45\,p_s/P_0$, this gives $\zeta_2\approx-0.9\,p_s/P_0$.
 - The premise matters. β here comes from the clock reading P = R(z) pointwise, with z exactly linear in the draws. Had β instead come from a $(\nabla\psi)^2$ term in the field equation, the result would be $\zeta_2=4(\beta-1)$.
 - `sourcing30.py` expands $\rho^*N/\rho$ numerically. That checks the series, not the mapping.

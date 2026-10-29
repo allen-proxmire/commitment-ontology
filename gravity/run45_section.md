@@ -117,3 +117,5 @@ The independent check reproduced the diagnosis's ω values to 10 digits and its 
    - a registered separation of lattice and medium parts, and in advance what counts as a pass;
    - the weak-field pull of Runs 40c, 42 and 44 rechecked;
    - every script hashed.
+
+*Note (29 October, after Reading I15's check): ζ₂ = 2(β − 1) is the value under the draw rule used before R5 (d = TN). Under the ruled variational draw d = T(1 + g) = −ρ* dN/dφ the static sector is Lagrangian, the Φ₂ coefficient is 2(4 − 2β), and ζ₂ = 0 exactly for every ε (an invariant action requires it; Will 2014 §3.2). Run 66's Δ = εC/(1+ε), the current scale input, already corresponds to this; the ζ₂-based scale bounds below are superseded.*
