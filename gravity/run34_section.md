@@ -111,6 +111,9 @@ $$
 $$
 \eta_N=4\beta-\gamma-3-\tfrac{10}{3}\xi-\alpha_1+\tfrac23\alpha_2-\tfrac23\zeta_1-\tfrac13\zeta_2=\tfrac{10}{3}(\beta-1)\approx-6.5\times10^{-5}
 $$
+
+*Note (29 October): with ζ₂ = 0 under R5 (see the note above), η_N = 4(β − 1) ≈ −7.8×10⁻⁵, still well inside lunar laser ranging's |η_N| ≲ 4.4×10⁻⁴.*
+
   at $P_0/p_s=2.3\times10^4$, against lunar laser ranging's σ = 4.4×10⁻⁴.
 - **No scalar radiation.** A clock field fixed each tick is a constraint, so it carries no waves. Gravitational radiation is then only part 3's shear of relations (Run 11b, 0.98 of GR), with no scalar dipole radiation, which binary pulsars require.
 - **Open: signalling through the constraint.** The field updates everywhere at once on each slice. It cannot carry a signal only if every change in the draws is one that conservation allows (as in GR, whose instantaneous potential in this gauge carries none). With the inputs that holds at first post-Newtonian order; it is untested beyond.
