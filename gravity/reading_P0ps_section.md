@@ -75,3 +75,5 @@ $$
 4. **The engine's G ties p_s to the hop.** P-G-Closure with ℓ_ED = ℓ_P is incompatible with the engine's clocks. If the engine stands, CO's hop is about 10^2.5–10^3 Planck lengths, or the corpus is carrying two scales under one name (Paper_027's F-P).
 
 *Note (30 October, Reading I18c):* R1 is amended beyond first order (a pure logarithm above p_c ≡ (1/p_s + 1/P∞)⁻¹, joined smoothly to f = 0.99P below). Results here that rest on g ≈ p_s/P, or on R1's curvature above the crossover, belong to the original R1; most had already lapsed as gravity results with ε = 0 in gravity. Where p_s sets a scale, read p_c.
+
+*Note (30 October, Run 104):* the rerun under the amended outflow reads UNRESOLVED (the p_c = 1 gap lies between the through-p and through-B predictions); both carried-over clock bounds are kept, and the run's own fit reaches gap 10⁻⁶ at p_c ≈ 1.0×10⁶ (inference).

@@ -116,3 +116,4 @@ Write-ups of the lattice runs (11b–91) and the design notes. Runs 1–11 are w
 - [`run101_section.md`](run101_section.md)
 - [`run102_section.md`](run102_section.md)
 - [`test_I15d_section.md`](test_I15d_section.md)
+- [`run104_section.md`](run104_section.md)

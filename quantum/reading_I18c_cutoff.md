@@ -219,3 +219,4 @@ Allen: "do as you recommend."
 4. **The upper bound p_c < P∞ ≲ 1.78×10³⁵/a** is recorded as a reading of I18b §3 C, conditional on the a of κ_b = 1/(aP∞) being the hop line's a. "Bounded only below" is qualified accordingly.
 5. The record notes are written.
 
+*Note (30 October, Run 104):* the rerun under the amended outflow reads UNRESOLVED (the p_c = 1 gap lies between the through-p and through-B predictions); both carried-over clock bounds are kept, and the run's own fit reaches gap 10⁻⁶ at p_c ≈ 1.0×10⁶ (inference).
