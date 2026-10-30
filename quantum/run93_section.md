@@ -111,4 +111,4 @@ $$
 - Singh et al.'s composition contrast;
 - `B14_q7` for 'com' in later runs. *Done in Run 94.*
 
-*Note (30 October): P∞ ≳ 6.4×10¹⁰ was p_s's bound times the pulsar triple's ratio bound; with ε = 0 in gravity the ratio bound and this figure lapse (Reading I17). What remains is p_s ≳ 4×10⁵ (conditional), p_s ≲ 1.1×10³⁰/a, and Run 96's a·P∞ ≳ 5.25×10²⁶ from route (b).*
+*Note (30 October): P∞ ≳ 6.4×10¹⁰ was p_s's bound times the pulsar triple's ratio bound; with ε = 0 in gravity the ratio bound and this figure lapse (Reading I17). What remains is p_s ≳ 4×10⁵ (conditional) and route (b)'s a·P∞ ≳ 2.5–5×10²⁷ (Run 96 with its relic-neutrino addendum). The upper bound p_s ≲ 1.1×10³⁰/a (Reading I11) rested on the same pulsar-triple ratio and lapses too (corrected 30 October after Reading I18's check).*

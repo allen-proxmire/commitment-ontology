@@ -101,7 +101,7 @@ The rate is zero for light, which commits only through route (a). Every massive 
 | Q4 GRW-type symmetrisation | added | an open window (without it, it closes) |
 | amplitudes √P with phases; the singlet | borrowed; input | the state structure; entangled pairs |
 | P∞/p_s: no longer bounded by gravity (ε = 0 in gravity, 30 October); the earlier bounds (pulsar triple ≳ 1.6×10⁵; with a preferred time ≳ 4×10⁵, 7.7×10⁶, 1.25×10⁹) are what forced it | — | — |
-| p_s ≳ 4×10⁵ per place; the hop (P∞ ≳ 6.4×10¹⁰ was p_s's bound times the pulsar-triple ratio and lapsed with ε = 0 in gravity, 30 October) | from data and the engine; conditional since Reading I6 (physical clocks do not dip themselves). Upper bound p_s ≲ 1.1×10³⁰/a only, through P∞ (Reading I11) | clocks agreeing to 10⁻⁶ |
+| p_s ≳ 4×10⁵ per place; the hop (P∞ ≳ 6.4×10¹⁰ was p_s's bound times the pulsar-triple ratio and lapsed with ε = 0 in gravity, 30 October) | from data and the engine; conditional since Reading I6 (physical clocks do not dip themselves). No upper bound on p_s from gravity (Reading I11's p_s ≲ 1.1×10³⁰/a rested on the pulsar-triple ratio and lapsed, 30 October); route (b) gives a·P∞ ≳ 2.5–5×10²⁷ | clocks agreeing to 10⁻⁶ |
 | r_C, κ_b | bounded by data | 0.09 μm ≲ r_C ≲ 51 μm |
 | G, c, ħ, Λ | measured | strengths and scales |
 

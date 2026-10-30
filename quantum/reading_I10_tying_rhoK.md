@@ -118,3 +118,5 @@ $$
 1. **§4's finding is recorded:** the record ties ρ_K to r_C only by moving the free number (to p_s, K or κ_b); the one fixed tie lies at 45–51 μm, far from present sensitivity.
 2. **The engine-hop minimal line** (C1a, K = 1, a = 1; ℓ = ℓ_P√(0.99πa p_s/3), N_cell = ħ/(cℓm_N)) **is a named candidate,** linking saturation to p_s, carried by later runs and mapped against p_s.
 3. **The surface-record deposit (option a):** a threshold-surface saturation record deposits the draw E_TK of the units its ∂Π̂ layer reaches, at the recorded surface position, smeared at r_C; the unravelling has c = 1 in a saturated bulk and 0 outside. Run 96's floor can only fall, by a few per cent at most.
+
+*Note (30 October, after Reading I18's check):* the upper bound p_s ≲ 1.1×10³⁰/a (and the β-based 4×10³¹/a) rested on the pulsar-triple ratio, a bound on ε in the metric, and lapses with ε = 0 in gravity; p_s is now bounded only below.

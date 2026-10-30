@@ -64,7 +64,7 @@ which is continuous in ε_g (the check: 2.000, 2.010, 2.100, 3.000 and 4.000m as
 **Where ε_med stands.** The bounds on P∞/p_s in the inputs table (pulsar triple, α₁, α₂, GW170817) were bounds on ε in the metric. If the medium no longer enters the metric, they no longer bound ε_med.
 - P∞ ≳ 6.4×10¹⁰ was p_s's bound times the pulsar triple's ratio (`quantum/design_commitment_quantum.md`), so it lapses too.
 - T-I15d's P∞ ≳ 5×10¹⁴ is built the same way and lapses with it.
-- Only two bounds remain: p_s ≳ 4×10⁵ (conditional since Reading I6), and p_s ≲ 1.1×10³⁰/a via P∞ (Reading I11).
+- Only two bounds remain: p_s ≳ 4×10⁵ (conditional since Reading I6), and p_s ≲ 1.1×10³⁰/a via P∞ (Reading I11). *(Corrected 30 October, Reading I18's check: the upper bound rested on the pulsar-triple ratio and lapses too; route (b) gives a·P∞ ≳ 2.5–5×10²⁷.)*
 - **Gravity leaves ε_med unbounded.**
 - Readings I4, I5, I7 and I14 and Run 93 quote 6.4×10¹⁰ and inherit the lapse. A text search also finds it in Readings I1 and I6, `note_matter_pattern_status.md`, the quantum design note and Reading I15.
 

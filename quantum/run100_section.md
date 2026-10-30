@@ -71,3 +71,5 @@ $$
 - **A second material window confirms the method.** Each detector material with a published radiation limit opens a row in which the onset edge jumps to micrometres, here 2.45–2.79 μm.
 - **Along the engine-hop line, the onset of saturation would read p_s.** Present experiments sit at the line over p_s ≈ 10¹²–4×10¹⁹, and in narrow windows at 10⁸–10¹¹. That is a link between the quantum and gravity sectors, fitted through p_s, not a prediction.
 - **Whether p_s is bounded from above** is taken up in Reading I11: no upper bound beyond p_s ≲ 10³⁰ follows, so the link stays fitted.
+
+*Note (30 October, after Reading I18's check):* the upper bound p_s ≲ 1.1×10³⁰/a (and the β-based 4×10³¹/a) rested on the pulsar-triple ratio, a bound on ε in the metric, and lapses with ε = 0 in gravity; p_s is now bounded only below.
