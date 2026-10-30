@@ -27,7 +27,7 @@ is route (b) summed over one cell, at the floor κ_b = 5.62×10⁻³⁶. Bounds:
 
 **Result.**
 - **C4-β′: INERT.** The threshold is 10⁵²–10⁶³ eV (10⁴³–10⁵⁴ nucleon rest energies) at every aP∞ and both hops.
-- **K98, C4-β: LEAD AT LABORATORY DENSITIES** (no power; two free parameters).
+- **K98, C4-β: SURVIVES AT LABORATORY DENSITIES** (no power; two free parameters).
 
 | quantity | value |
 |---|---|
@@ -38,7 +38,7 @@ is route (b) summed over one cell, at the floor κ_b = 5.62×10⁻³⁶. Bounds:
 | binding bounds (laboratory survivors) | LISA 2465, interference 1058, Earth 32, the Sun 25 |
 
 - **Inside the tested region the scan could not discriminate,** as the registration expected.
-- **What "lead at laboratory densities" means.** Γ_K anywhere between 10λN_cell and Γ_max is allowed. At Γ_K = 10λN_cell the effect lies below present sensitivity by the margin:
+- **What "survives at laboratory densities" means.** Γ_K anywhere between 10λN_cell and Γ_max is allowed. At Γ_K = 10λN_cell the effect lies below present sensitivity by the margin:
 
 | region | smallest margin | where | set by |
 |---|---|---|---|
@@ -64,7 +64,7 @@ is route (b) summed over one cell, at the floor κ_b = 5.62×10⁻³⁶. Bounds:
 
 **What it means.**
 - **The record's own capacity-type quantity, the hold, does nothing** as a threshold (C4-β′).
-- **A new capacity primitive gives a consequence the GRW-type models lack**, an onset in size at fixed density that differs between materials, and it survives every registered bound. It survives because ρ_K and Γ_K are free: the allowed Γ_K spans 7 to 33 decades. It is a lead, not a result, until something in CO fixes ρ_K or Γ_K.
+- **A new capacity primitive gives a consequence the GRW-type models lack**, an onset in size at fixed density that differs between materials, and it survives every registered bound. It survives because ρ_K and Γ_K are free: the allowed Γ_K spans 7 to 33 decades. It is a candidate, not a result, until something in CO fixes ρ_K or Γ_K.
 
 **Run 98a (registered addendum; bounds added after the result).**
 - *Hashed before the run (`quantum98a/PREREG_98a.md`, 17 files). An independent post-run check (`check98a/REPORT.md`) reproduces the output byte for byte, confirms the sources, and re-derives every new bound to 4.4×10⁻⁴.*
@@ -85,7 +85,7 @@ is route (b) summed over one cell, at the floor κ_b = 5.62×10⁻³⁶. Bounds:
 | margins | 3.4×10⁷ – 3.2×10³³ | 3.4×10⁷ – 7.5×10³⁴ |
 | the hold's ceiling allowed (P08 / engine) | 98 / 214 | 200 / 363 |
 
-- **K98a: LEAD AT LABORATORY DENSITIES stands.**
+- **K98a: SURVIVES AT LABORATORY DENSITIES stands.**
 - **The hold's ceiling,** Γ_K = c/ℓ, is excluded wherever a laboratory bound applies (LISA by 19.1 / 16.3 decades, MICROSCOPE by 10.0 / 7.2, for P08 / engine) and wherever a body other than a white dwarf applies. It is allowed only inside white dwarfs (ρ_K 10⁶–2×10¹¹) at large r_C. There Γ_max/(c/ℓ) runs from 1.05 to 8×10⁷ (P08) and from 1.09 to 5×10¹⁰ (engine), with medians 88 and 1.4×10³. The values near 1 are boundary points, since Γ_max ∝ r_C⁸. The counts rose because the white dwarfs now test densities above 2.59×10⁹; inside Run 98's tested range they fell, to 67 and 173.
 - **Profile sensitivity** (the check): Coulomb (Hamada–Salpeter) structure, GR, C/O against ONe, and ±1σ data change the white-dwarf Γ_max by 0.3–3.4× and the allowed counts by at most 5. A crystallised core does not change the density smoothed at r_C.
 - **Untested:**

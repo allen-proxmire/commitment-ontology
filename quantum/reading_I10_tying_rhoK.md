@@ -79,16 +79,16 @@ $$
 ### 4. Grades
 | relation | grade | what is not fixed |
 |---|---|---|
-| (i) P08's hop, K = 1 | lead (C1a, K = 1) | a; r_C (through ħ_t) |
-| (i) the engine's hop | lead, in effect fitted through p_s | p_s, a |
-| (i) K > 1 | lead, in effect fitted through K | K |
-| (ii) ceiling | lead (one new statement; the additive reading a choice) | κ_b; no jump |
+| (i) P08's hop, K = 1 | candidate (C1a, K = 1) | a; r_C (through ħ_t) |
+| (i) the engine's hop | candidate, in effect fitted through p_s | p_s, a |
+| (i) K > 1 | candidate, in effect fitted through K | K |
+| (ii) ceiling | candidate (one new statement; the additive reading a choice) | κ_b; no jump |
 | (iii) C1b | fitted (K ≳ 10¹⁰P∞) | K |
 
 **The finding.**
 - **The record can tie ρ_K to r_C, but only by moving the free number elsewhere:** to the hop (through p_s), to K, or to κ_b.
 - **The one fixed tie, P08's hop with K = 1, lies far from present sensitivity** (45–51 μm; margins of about 10¹¹).
-- **On the engine's hop the tie runs through p_s.** A laboratory onset in Run 99's near zone would correspond to p_s ≈ 10¹²–10¹⁶ (a = 1, K = 1). This is the first link between the quantum sector's saturation and a gravity-sector constant. It is a lead, fitted through p_s.
+- **On the engine's hop the tie runs through p_s.** A laboratory onset in Run 99's near zone would correspond to p_s ≈ 10¹²–10¹⁶ (a = 1, K = 1). This is the first link between the quantum sector's saturation and a gravity-sector constant. It is a candidate, fitted through p_s.
 
 ### 5. What a surface saturation record deposits (open since Reading I8 ruling 2)
 - **Forced by the record:**

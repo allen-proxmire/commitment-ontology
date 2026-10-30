@@ -1,6 +1,6 @@
 ## Reading I8: candidate C4, commitment set by internal complexity
 
-*28 October 2026. Allen: "do C4". Checked independently (`checkI8/REPORT.md`); its corrections are adopted. Ruled the same day (§8). Nothing here is registered and no candidate's value has been computed. Graded under Reading I7's criterion (derived, lead, fitted).*
+*28 October 2026. Allen: "do C4". Checked independently (`checkI8/REPORT.md`); its corrections are adopted. Ruled the same day (§8). Nothing here is registered and no candidate's value has been computed. Graded under Reading I7's criterion (derived, candidate, fitted).*
 
 ### 1. Why
 Reading I7 listed C4 as the only candidate for route (b) that might have a consequence the GRW-type models lack. It had to be defined first: "internal complexity" is not yet a statement in CO's terms (Note I §2–§3 and §10; Reading I6 §7).
@@ -76,7 +76,7 @@ $$
 - *Its direction:* stock per place grows as a unit's spread shrinks, so compact, bound units saturate first and delocalised superpositions least. Internal complexity becomes compactness.
 - *Its distinctive observable,* against GRW: a sudden rather than gradual onset of lost interference with size.
 - *Not used:* a joint test with C1b's ħ_t. Run 97 calls that ħ_t fitted, and with it a nucleon carries 10¹¹⁰–10¹²⁹ pair-units, so the comparison would be decided by inspection.
-- *Grading:* a lead needing three new statements, one of which (a capacity) Note D says the record lacks.
+- *Grading:* a candidate needing three new statements, one of which (a capacity) Note D says the record lacks.
 
 **C4-γ. Internal relations commit.**
 - *Not in CO's terms without a new primitive.* A CO relation is adjacency between places, which is what space is; a chemical bond is not one. Letting bonds commit changes a primitive, and a bond has no worldline for ruling 11's rate.
@@ -101,6 +101,6 @@ $$
 
 ### 8. Rulings (28 October)
 1. **§3's mapping** stands: points 1 and 3 are in the record only at the trivial level; point 2 is the open direction.
-2. **CO gets a capacity per place** (Allen: "yes, if you agree"), as a new primitive to be written out and tested: Allen's "bandwidth", the fixed commitment capacity, made a primitive with a value. Until its value is fixed independently, C4-β is a lead.
+2. **CO gets a capacity per place** (Allen: "yes, if you agree"), as a new primitive to be written out and tested: Allen's "bandwidth", the fixed commitment capacity, made a primitive with a value. Until its value is fixed independently, C4-β is a candidate.
 3. **C4-β′ is registered as the baseline,** and **C4-β is written out in full** ("go ahead as recommended").
 4. **C4-γ and C4-δ are recorded as excluded.**

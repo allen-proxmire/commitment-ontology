@@ -51,12 +51,13 @@ A candidate rule for r_C is graded **derived** only if all of these hold:
 - **D1. From the primitives and the ruled rules only.** Inputs marked borrowed or not CO-native (Note I §3) may be used for estimates, not as steps. Provisional rules (R2) may be steps and are named; Note D's E = aħ/T_hold (an inference on DSR-4, "open to reversal") and κ_b's definition are named where used.
 - **D2′. No free quantity beyond P∞.** ħ_t, δu, p_s, any speed or count must be fixed by the candidate's own statement. A free ħ_t renames r_C (Reading I5 §2). The hop is named in advance; if it is the engine's, the candidate is judged at p_s = 4×10⁵ and also states its band with p_s free.
 - **D3. Stated, checked and hashed before its value is computed,** with n and k written down before hashing.
-- **D4′. One r_C for every species,** as Reading I5 ruling 5 and Q4 stand, because Run 96's window presupposes it (SNO bounds nucleons, XENONnT electrons, B7′ every free particle). A species- or configuration-dependent candidate is not dropped: it is graded a **lead** whose new statements include reopening ruling 5, and it can be judged only against a window registered for it.
+- **D4′. One r_C for every species,** as Reading I5 ruling 5 and Q4 stand, because Run 96's window presupposes it (SNO bounds nucleons, XENONnT electrons, B7′ every free particle). A species- or configuration-dependent candidate is not dropped: it is graded a **candidate** whose new statements include reopening ruling 5, and it can be judged only against a window registered for it.
 - **D5. Remarkable** (a tightening of Note I §9, labelled as such): n and k inside §2's range make a candidate at most derived. It is remarkable only if it also fixes P∞, a or p_s independently of route (b)'s window, or makes a gravity-side quantity measurable, or predicts something a registered datum outside the window can test.
 
 **Grading (Allen, 28 October: "I don't want to throw out promising leads if CO is missing a primitive or ruling … don't swing the pendulum").**
 - **Derived:** passes D1–D4′ with the record as it stands.
-- **Lead:** needs one or more new statements, primitives or rulings, that the record does not have. Each is written out in CO's terms, with what else it would change, and is registered and tested as a proposed ruling. A lead becomes derived once those rulings are adopted and survive their own tests.
+- **Candidate:** needs one or more new statements, primitives or rulings, that the record does not have. Each is written out in CO's terms, with what else it would change, and is registered and tested as a proposed ruling. Once its statements are ruled and survive their own tests, it is graded **needed**: the questioning showed CO lacks something there, and the ruled statement fills the gap. It becomes derived only if those statements later follow from the record.
+- *Renamed 30 October* (Allen: "I dont really like the 'lead' talk in the repo"): "lead" became "candidate" before a ruling and "needed" after; registered verdicts "LEAD …" became "SURVIVES …". The registered files keep their original wording.
 - **Fitted:** its exponent, prefactor, a or another quantity is chosen to land in the window. Kept as a clue, never counted as a result.
 
 **Kill rules.**
@@ -77,7 +78,7 @@ From Reading I5 (§2) and Note I (§6), computed against Run 93's window and sti
 - Reading I4's "one record per hop" (R6);
 - **a deposit's kick set to light's speed:** Gμ/r_C² = c with μ = ħ/(κ_bc²) is κ_b r_C² = ℓ_P², the weak-field edge, which Run 96 reports at ≤ 3×10⁻⁵⁶, far below the floor.
 
-So **no single statement in the record fixes r_C without a further free quantity.** Every candidate is at best a lead; the aim is the smallest set of new statements, in the ontology's own terms, with a consequence beyond r_C.
+So **no single statement in the record fixes r_C without a further free quantity.** Every candidate needs at least one new statement; the aim is the smallest set of new statements, in the ontology's own terms, with a consequence beyond r_C.
 
 ### 5. Candidates (statements only; no values computed)
 
@@ -88,9 +89,9 @@ So **no single statement in the record fixes r_C without a further free quantity
 
 **C2. Route (b) is placed over the volume of vacuum that holds as much possibility as the pattern carries.**
 - *Touches:* Reading I4 ruling 2 supplies the stock, q = 2E/E_pair, but E_pair = aħ/(ħ_tτ) brings in the free ħ_t.
-- *Species:* electrons and nucleons get different r_C, since Q4's units commit on their own; a fixed stock per quantum (S-ii) conflicts with M2. So C2 is a lead that includes reopening Reading I5 ruling 5 (D4′).
+- *Species:* electrons and nucleons get different r_C, since Q4's units commit on their own; a fixed stock per quantum (S-ii) conflicts with M2. So C2 is a candidate that includes reopening Reading I5 ruling 5 (D4′).
 
-**C3. A deposit's kick set to a speed the medium defines.** With light's speed it is excluded (§4). R1's outflow is units per tick, not a speed, so any other speed is a free quantity (D2′). Kept only as a lead if a speed is found in the record.
+**C3. A deposit's kick set to a speed the medium defines.** With light's speed it is excluded (§4). R1's outflow is units per tick, not a speed, so any other speed is a free quantity (D2′). Kept only as a candidate if a speed is found in the record.
 
 **C4. Commitment set by internal complexity.** This is the undefined reading of Note I §3 and §10 and Reading I6 §7, a programme rather than one statement.
 - *Conflicts:* Reading I5 ruling 5 and Q4's "each committing on its own"; Reading I3's per-unit hold and rate, which no-signalling needs; Note I §6's exclusion of threshold readings.
@@ -107,8 +108,8 @@ So **no single statement in the record fixes r_C without a further free quantity
 
 ### 7. Rulings (28 October)
 
-1. **The criterion** D1–D5, the grading (derived, lead, fitted) and K′–K″, as in §3 (Allen: "I agree with the criteria but don't swing the pendulum"; "adopt them").
-2. **ħ_t may be fixed by a new statement** ("yes, if you agree"), as a lead's named missing primitive, tested against what else it touches.
+1. **The criterion** D1–D5, the grading (derived, candidate, fitted) and K′–K″, as in §3 (Allen: "I agree with the criteria but don't swing the pendulum"; "adopt them").
+2. **ħ_t may be fixed by a new statement** ("yes, if you agree"), as a candidate's named missing primitive, tested against what else it touches.
 3. **Both hops** (P08's ℓ_P and the engine's).
 4. **C1a and C1b side by side** (Run 97).
 5. **C1b's species-dependent coarseness** is judged against a window registered for it ("do as you recommend").

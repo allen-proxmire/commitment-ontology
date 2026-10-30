@@ -8,10 +8,10 @@
 
 **Why.** Reading I7 asked what could fix route (b)'s coarseness r_C from the primitives. It ruled a grading:
 - **derived:** follows from the record as it stands;
-- **lead:** needs new statements, which are then tested as proposed rulings;
+- **candidate:** needs new statements, which are then tested as proposed rulings;
 - **fitted:** chosen to land in the window.
 
-It found that no single statement in the record fixes r_C without a further free quantity. Candidate C1 is the first lead put to a run.
+It found that no single statement in the record fixes r_C without a further free quantity. C1 is the first candidate put to a run.
 
 **The candidate.** A route-(b) commitment has no partner to resolve it, so it is placed by the medium: as sharply as the volume of places whose vacuum possibility amounts to one hold, H = 2ħ_tP∞. The pattern's own possibility still fills the hold. The new statements needed are:
 - C1 itself;
@@ -46,7 +46,7 @@ $$
 
 **Result.**
 - **C1a:** no test (a renaming).
-- **K97, C1b: LEAD.** It is a lead only if one r_C for every species (Reading I5 ruling 5) is reopened, and the test has essentially no power: the species window was known in advance to be open by 4.4×10⁶ at the cap. One verdict holds for every a and both hops; only ħ_t depends on them.
+- **K97, C1b: SURVIVES.** It is a candidate only if one r_C for every species (Reading I5 ruling 5) is reopened, and the test has essentially no power: the species window was known in advance to be open by 4.4×10⁶ at the cap. One verdict holds for every a and both hops; only ħ_t depends on them.
 
 | quantity | value |
 |---|---|
@@ -57,7 +57,7 @@ $$
 | C1b's ħ_t minimum | where B7′ takes over the top from XENONnT, at r_N ≈ 9×10⁻⁶ m |
 | C1b's ħ_t | 10¹²⁶–10¹⁴⁷ (one hold 10⁸⁶–10¹⁰³ s; E_pair 10⁻¹²⁰–10⁻¹⁰¹ eV); no criterion, and a value taken from it would be fitted |
 
-- **K97-rel, C1b with relativistic neutrino heating: LEAD (variant)**, awaiting a ruling on the relativistic-kick extension. In the 0.16 eV and proxy-×2 rows the lower edge is XENONnT's; B16 sets only the top.
+- **K97-rel, C1b with relativistic neutrino heating: SURVIVES (variant)**, awaiting a ruling on the relativistic-kick extension. In the 0.16 eV and proxy-×2 rows the lower edge is XENONnT's; B16 sets only the top.
 
 | criterion | W_s (r_N) | κ_top at the cap | open at the cap |
 |---|---|---|---|
@@ -68,14 +68,14 @@ $$
   Under the variant, C1b requires the lightest neutrino below 0.029 eV (normal ordering, Σ < 0.12 eV). **This is almost entirely the cosmological input:** Σ < 0.12 eV alone already requires m₁ < 0.030 eV, so the variant tightens it by about 0.001 eV; with DESI DR2's ordering-conditioned limit it reproduces DR2's own m_l < 0.023 eV. The closing mass follows Σ_max (0.044 eV at 0.16 eV) and barely moves with the ED-side choices. What C1b adds is narrower: at the cap, the relic neutrinos can absorb at most about 3 meV of heating in total. Under the variant, aP∞ ≳ 4.5×10³³ (not registered).
 
 **What it means.**
-- **C1, the first worked lead for r_C, does not close and does not derive.**
+- **C1, the first worked candidate for r_C, does not close and does not derive.**
   - Its one-moment reading is a renaming.
   - Its over-the-hold reading survives every bound in the record. Under one further extension its neutrino bound comes within a few per cent of the cosmological limit on neutrino masses, so it adds no independent neutrino-mass prediction.
-- **The lead rests on these new statements and one unregistered extension:**
+- **The candidate rests on these new statements and one unregistered extension:**
   - C1 itself;
   - a value of ħ_t of 10¹²⁶–10¹⁴⁷;
   - species-dependent coarseness;
   - relativistic GRW kicks below the neutrinos' Compton length.
 
-  It is a lead, not a result.
+  It is a candidate, not a result.
 - **Run 96's window also gained a bound,** relic-neutrino heating (Run 96 addendum 2).

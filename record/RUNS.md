@@ -108,9 +108,9 @@ One line per run. The full question and outcome of each are in the scorecard of 
 | 94 | The window with a prestellar core's self-gravity | Pass | [run94_section.md](../quantum/run94_section.md) |
 | 95 | Test I3: the two-place commitment rule | Pass (consistency check) | [run95_section.md](../quantum/run95_section.md) |
 | 96 | The window under Reading I6, measured top edge | Pass (registration) | [run96_section.md](../quantum/run96_section.md) |
-| 97 | Candidate C1 for r_C: route (b) placed by the medium | C1a no test (a renaming); C1b LEAD (no power); relativistic variant LEAD, close to the cosmological ν-mass limit | [run97_section.md](../quantum/run97_section.md) |
-| 98 | Candidate C4: saturation as route (c) | C4-β′ INERT; C4-β LEAD AT LABORATORY DENSITIES (no power; ρ_K, Γ_K free) | [run98_section.md](../quantum/run98_section.md) |
-| 98a | Run 98 with added bounds (MICROSCOPE, two white dwarfs, Model S, a brown dwarf, Jupiter) | LEAD AT LABORATORY DENSITIES stands; the hold's ceiling allowed only inside white dwarfs | [run98_section.md](../quantum/run98_section.md) |
-| 99 | C4-β with Γ_K = c/r_C (ρ_K free) | LEAD AT LABORATORY DENSITIES (foregone); predicted edge agrees 115/115; C1b line EXCLUDED; the tropospheric-atmosphere statement FAILED at one point | [run99_section.md](../quantum/run99_section.md) |
-| 100 | Run 99 plus the XENONnT xenon window; the engine-hop line against p_s (reported) | LEAD AT LABORATORY DENSITIES (foregone); all five registered statements agree | [run100_section.md](../quantum/run100_section.md) |
+| 97 | Candidate C1 for r_C: route (b) placed by the medium | C1a no test (a renaming); C1b SURVIVES (no power); relativistic variant SURVIVES, close to the cosmological ν-mass limit | [run97_section.md](../quantum/run97_section.md) |
+| 98 | Candidate C4: saturation as route (c) | C4-β′ INERT; C4-β SURVIVES AT LABORATORY DENSITIES (no power; ρ_K, Γ_K free) | [run98_section.md](../quantum/run98_section.md) |
+| 98a | Run 98 with added bounds (MICROSCOPE, two white dwarfs, Model S, a brown dwarf, Jupiter) | SURVIVES AT LABORATORY DENSITIES stands; the hold's ceiling allowed only inside white dwarfs | [run98_section.md](../quantum/run98_section.md) |
+| 99 | C4-β with Γ_K = c/r_C (ρ_K free) | SURVIVES AT LABORATORY DENSITIES (foregone); predicted edge agrees 115/115; C1b line EXCLUDED; the tropospheric-atmosphere statement FAILED at one point | [run99_section.md](../quantum/run99_section.md) |
+| 100 | Run 99 plus the XENONnT xenon window; the engine-hop line against p_s (reported) | SURVIVES AT LABORATORY DENSITIES (foregone); all five registered statements agree | [run100_section.md](../quantum/run100_section.md) |
 | 101 | A matter field in the lattice constraint algebra | Relativistic dispersion follows from the borrowed boost relation; matter not found to close with Run 91's gravity held fixed; closes jointly with Run 90's gravity free | [run101_section.md](../gravity/run101_section.md) |

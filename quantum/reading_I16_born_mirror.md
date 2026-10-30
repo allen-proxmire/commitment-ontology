@@ -2,7 +2,7 @@
 
 *30 October 2026. Allen's idea, in his words (14 September): "ED says that it not psi^2, its psi x psi*, its mirror image." Developed in Allen's earlier notes (July and September); Allen, 29 October: "Something in CO would have to play that role, perhaps the record itself as it reads the pattern. If CO's one-way commitment forced the counting step rather than just allowing it, that would be the first non-restatement on Born." A reading of the record and the literature; it encodes no new rule. Revised after an independent check (`checkI16/REPORT.md`, script `check_I16.py`), whose corrections are adopted; the pre-check version is `reading_I16_v1_precheck.md`. **New statement** marks a proposal needing a ruling; **inference** marks a step past what a source says.*
 
-**In plain terms.** The answer to Allen's question is no: CO's one-way commitment does not force the counting step. A pattern's amplitude for an outcome is a complex number carrying a phase; times its mirror (its complex conjugate, what time reversal does to it) it becomes real and phase-free. That the weight is the amplitude's square, rather than another power, is CO's rule that amplitudes are √P. Why the chance of an outcome equals its share would follow from two statements. CO has the first: each record fixes one outcome. It lacks the second: a record's chance for an outcome depends only on the pattern's share in it, the same way for every record (noncontextuality). The one-way character of commitment plays no part. The argument is Logiurato and Smerzi's, an elementary relative of Gleason's theorem. For CO it is a lead with one new statement: it moves the Born rule from borrowed to added, as Reading I15 §7 did with an indifference assumption, and predicts nothing new.
+**In plain terms.** The answer to Allen's question is no: CO's one-way commitment does not force the counting step. A pattern's amplitude for an outcome is a complex number carrying a phase; times its mirror (its complex conjugate, what time reversal does to it) it becomes real and phase-free. That the weight is the amplitude's square, rather than another power, is CO's rule that amplitudes are √P. Why the chance of an outcome equals its share would follow from two statements. CO has the first: each record fixes one outcome. It lacks the second: a record's chance for an outcome depends only on the pattern's share in it, the same way for every record (noncontextuality). The one-way character of commitment plays no part. The argument is Logiurato and Smerzi's, an elementary relative of Gleason's theorem. For CO it is needed, one new statement, now ruled as Q6: it moves the Born rule from borrowed to added, as Reading I15 §7 did with an indifference assumption, and predicts nothing new.
 
 ### 1. The mirror: why the weight is real
 
@@ -78,7 +78,7 @@ So the single-outcome form is broken by ruled rules, and the effect form holds b
 | the record as the backward leg | reading |
 | (X) one outcome per record | in the record (A1) |
 | (NC) a record's chance depends only on the pattern's share in that outcome | **new statement** (noncontextuality) |
-| (X) + (NC) + A5 ⇒ Pr(E) = ⟨ψ\|E\|ψ⟩ | **lead** (one new statement); in novelty a restatement of Logiurato–Smerzi |
+| (X) + (NC) + A5 ⇒ Pr(E) = ⟨ψ\|E\|ψ⟩ | **needed** (one new statement, ruled as Q6); in novelty a restatement of Logiurato–Smerzi |
 | one-way commitment forces the count | **no** |
 
 **What changes if (NC) is ruled.**

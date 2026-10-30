@@ -77,8 +77,8 @@ $$
   - Run 96's window for r_C (with B16), with r_C shared with route (b) (a choice, stated).
 - **The outcome, in three cases:**
   1. **FAILS AS STATED:** no (ρ_K, Γ_K) with Γ_K ≥ 10·λN_cell survives at any r_C in the window. Then C4-β cannot differ from GRW in its distinctive way.
-  2. **LEAD WITH A LABORATORY SIGNATURE:** some survive with ρ_K below laboratory densities. The registration names the density and size scales of the onset.
-  3. **LEAD, NOT OBSERVABLE IN THE LABORATORY:** survivors exist only above 2.26×10⁴ kg m⁻³, where no laboratory body saturates.
+  2. **SURVIVES WITH A LABORATORY SIGNATURE:** some survive with ρ_K below laboratory densities. The registration names the density and size scales of the onset.
+  3. **SURVIVES, NOT OBSERVABLE IN THE LABORATORY:** survivors exist only above 2.26×10⁴ kg m⁻³, where no laboratory body saturates.
 - **The hold's ceiling** (Γ_K ~ c/ℓ ~ 10⁴⁰ s⁻¹) is registered as the first case. It is expected to be excluded.
 - **Disclosure before hashing:** the check's feasibility estimates show room for case 2 against LISA (5 or more decades), and that Earth's heat may decide it at small r_C. The registration is therefore not blind on whether room exists.
 

@@ -6,7 +6,7 @@
 - *Not blind: the verdict, and the map outside the germanium windows, were known before hashing (below).*
 - *A second independent agent checked the registered run (`check99/REPORT.md`): the hashes verify, a re-run reproduces the output byte for byte, and its own code reproduces every new bound at 17 points (E and F to 10⁻⁵, G and G′ to 10⁻¹³). Its wording points are adopted below.*
 
-**Why.** Reading I9 (ruled) found that no CO quantity fixes ρ_K at laboratory densities, but that Γ_K can be fixed by a lead that keeps Run 98's jump: a saturated cell commits once per light-crossing,
+**Why.** Reading I9 (ruled) found that no CO quantity fixes ρ_K at laboratory densities, but that Γ_K can be fixed by a candidate that keeps Run 98's jump: a saturated cell commits once per light-crossing,
 $$
 \Gamma_K=\frac{c}{r_C}.
 $$
@@ -31,7 +31,7 @@ $$
 - Registered in advance: the edge r_C\*(ρ_K) below which no onset survives, at 115 densities from 10² to 1.98×10⁴ kg m⁻³. It was predicted from one evaluation of every bound at the window's lower edge plus exact scaling laws (Γ_max ∝ r_C⁴ or r_C⁸), and required to agree exactly, with no holes.
 
 **Result.**
-- **K99: LEAD AT LABORATORY DENSITIES** (foregone).
+- **K99: SURVIVES AT LABORATORY DENSITIES** (foregone).
 - **The predicted edge agrees** at 115 of 115 densities, with no holes, including the three germanium rows. That checks the method, not the theory. Outside the germanium rows the whole survivor map equals the one computed from Run 98a's bounds before registration.
 
 | quantity | fine grid (49 r_C × 118 ρ_K, 10²–osmium) |
@@ -66,7 +66,7 @@ $$
 - **With the rate fixed at c/r_C, saturation leaves a definite, testable map,** not a free family over 7–33 decades.
   - If this candidate is right, route (b)'s coarseness must exceed about 0.23–0.44 μm at solid densities (up to 1.44 μm near germanium's). That is conditional on adopting C4-β with c/r_C; it is not a bound on route (b) itself.
   - Large parts of the allowed region sit within a factor of a few of present limits.
-- **It remains a lead, not a result:**
+- **It remains a candidate, not a result:**
   - c/r_C is a ceiling read as a rate, with α a choice;
   - ρ_K is free, so the map describes a family of candidates indexed by ρ_K;
   - the ×10 onset is a proxy;

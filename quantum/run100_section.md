@@ -18,7 +18,7 @@ $$
 - **Everything else** is read from Run 99's hashed output and asserted equal.
 
 **Result.**
-- **K100: LEAD AT LABORATORY DENSITIES** (foregone).
+- **K100: SURVIVES AT LABORATORY DENSITIES** (foregone).
 - **All five registered statements agree:**
   - the predicted edge at 115 of 115 densities, with no holes;
   - the named rows exact: xenon #25 and #26, germanium #17, #21 and #20;

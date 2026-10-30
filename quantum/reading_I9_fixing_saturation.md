@@ -1,9 +1,9 @@
 ## Reading I9: what could fix saturation's two numbers; saturation records and gravity; the relativistic-kick choice
 
-*28 October 2026. After Run 98 (C4-β, route (c), a lead at laboratory densities with ρ_K and Γ_K free). Graded under Reading I7's criterion (derived, lead, fitted). Revised after an independent check (`checkI9/REPORT.md`), whose corrections are adopted. Ruled in §8. Numbers are arithmetic, not a test.*
+*28 October 2026. After Run 98 (C4-β, route (c), a candidate surviving at laboratory densities with ρ_K and Γ_K free). Graded under Reading I7's criterion (derived, candidate, fitted). Revised after an independent check (`checkI9/REPORT.md`), whose corrections are adopted. Ruled in §8. Numbers are arithmetic, not a test.*
 
 ### 1. Why
-Run 98's lead survives because ρ_K and Γ_K are free: the allowed Γ_K spans 7 to 33 decades. It becomes a prediction only if something in CO fixes ρ_K, Γ_K, or a relation between them.
+Run 98's candidate survives because ρ_K and Γ_K are free: the allowed Γ_K spans 7 to 33 decades. It becomes a prediction only if something in CO fixes ρ_K, Γ_K, or a relation between them.
 
 ### 2. Fixing ρ_K
 The threshold is a stock per place, K, read as a mass density (Reading I8, C4-β §2):
@@ -23,11 +23,11 @@ $$
 
 | candidate | ρ_K (kg m⁻³) | where it lands | grade |
 |---|---|---|---|
-| **K = P∞, C1a** | ≳3×10²⁷ (to 3×10⁴⁷) | far above any matter. It **is** C4-β′ per cell (cell energy aP∞ħc/ℓ) | derived given C1a (itself a lead); inert |
-| **K = 1 (or p_s), C1a** | K·a·m_ℓ/V_c: at a = 1, 1.0×10⁴–1.9×10¹² (P08), 16–2.9×10⁹ (engine) | **laboratory densities** at r_C ≳ 39 μm (P08) or a few to tens of μm (engine). A laboratory onset needs K ≲ 10³, with r_C and a chosen together | lead; CO-native, but in effect fitted through r_C and a (ρ_K ∝ a r_C⁻³) |
-| **K = P∞, C1b** | exactly m_N/V_c(r_N): 8×10⁻¹⁶–1.7×10⁻¹⁰ | N_cell = 1: an isolated unit sits at the step's midpoint. The per-particle regime by construction, untested by Run 98 | lead (rests on C1b) |
+| **K = P∞, C1a** | ≳3×10²⁷ (to 3×10⁴⁷) | far above any matter. It **is** C4-β′ per cell (cell energy aP∞ħc/ℓ) | derived given C1a (itself a candidate); inert |
+| **K = 1 (or p_s), C1a** | K·a·m_ℓ/V_c: at a = 1, 1.0×10⁴–1.9×10¹² (P08), 16–2.9×10⁹ (engine) | **laboratory densities** at r_C ≳ 39 μm (P08) or a few to tens of μm (engine). A laboratory onset needs K ≲ 10³, with r_C and a chosen together | candidate; CO-native, but in effect fitted through r_C and a (ρ_K ∝ a r_C⁻³) |
+| **K = P∞, C1b** | exactly m_N/V_c(r_N): 8×10⁻¹⁶–1.7×10⁻¹⁰ | N_cell = 1: an isolated unit sits at the step's midpoint. The per-particle regime by construction, untested by Run 98 | candidate (rests on C1b) |
 | **Λ's density** | 5.8×10⁻²⁷ | per-particle regime (N_cell 10⁻²⁰–10⁻¹¹), untested | borrowed (measured), new identification |
-| **a Compton mass per cell**, ħ/(cr_C) per V_c | 3×10⁻²⁷–3×10⁻¹⁶ | per-particle regime, untested | lead |
+| **a Compton mass per cell**, ħ/(cr_C) per V_c | 3×10⁻²⁷–3×10⁻¹⁶ | per-particle regime, untested | candidate |
 | **nuclear saturation** (0.16 fm⁻³) | 2.7×10¹⁷ | neutron-star interiors, untested | borrowed |
 | **atomic density**, m_u/a₀³ | 1.1×10⁴, or 2.7×10³ with (4π/3)a₀³ | laboratory densities, between aluminium and lead | borrowed; in effect fitted, since the O(1) factor decides which materials saturate |
 
@@ -39,10 +39,10 @@ $$
 | candidate | Γ_K | against 10λN_cell | grade |
 |---|---|---|---|
 | **the hold's ceiling**, c/ℓ | 2.9×10⁴⁰ or 1.9×10⁴³ s⁻¹ | excluded by ≥16 decades wherever a laboratory bound applies (Run 98) | excluded |
-| **one commitment per light-crossing of a cell**, c/r_C | 5.9×10¹² (cap) to 3.3×10¹⁵ s⁻¹ (lower edge) | allowed and ≥10λN_cell at 3050 of 4580 tested points (2090 of 3580 at laboratory densities; 276 of 350 in solids, every r_C ≳ 0.44 μm). Excluded below about 0.34 μm by Earth, LISA and interference. **Margins down to 1** | lead; keeps the ≥10× jump |
+| **one commitment per light-crossing of a cell**, c/r_C | 5.9×10¹² (cap) to 3.3×10¹⁵ s⁻¹ (lower edge) | allowed and ≥10λN_cell at 3050 of 4580 tested points (2090 of 3580 at laboratory densities; 276 of 350 in solids, every r_C ≳ 0.44 μm). Excluded below about 0.34 μm by Earth, LISA and interference. **Margins down to 1** | candidate; keeps the ≥10× jump |
 | **the renewal rate of the cell's mass**, ρ_KV_cc²/(aħ) = P∞λN_cell | – | excluded at every point checked for a ≤ 1 | excluded |
 | **once per hold, C1a**, c/(ħ_tℓ) = 2cℓ²/V_c | 7×10⁻⁵⁰ to 6×10⁻³⁶ s⁻¹ | far below λN_cell (0.06–10⁸ s⁻¹ at the floor). Under C1b it is smaller still | derived given C1a; no signature |
-| **a saturated cell commits as one route-(b) unit** | λN_cell = κ_bc²ρ_KV_c/ħ | allowed by ≥3.4×10⁸; ratio 1, so no 10× jump | lead (one new statement) |
+| **a saturated cell commits as one route-(b) unit** | λN_cell = κ_bc²ρ_KV_c/ħ | allowed by ≥3.4×10⁸; ratio 1, so no 10× jump | candidate (one new statement) |
 
 *Note (after Run 99): the c/r_C row's "276 of 350 in solids, every r_C ≳ 0.44 μm; excluded below about 0.34 μm" was approximate. With Run 98a's and Run 99's bounds the edge at solid densities is 0.23–0.44 μm, and 0.85–1.44 μm near germanium's density (`run99_section.md`).*
 
@@ -65,7 +65,7 @@ $$
 
 ### 4. What §2–§3 mean
 - **The noticeable form of C4-β needs ρ_K fitted or borrowed.** No CO quantity fixes it at laboratory densities without a free choice.
-- **Γ_K can be fixed by a lead that keeps the jump**, c/r_C, and the record allows it over most of the tested region, with margins reaching present sensitivity. The cell-as-unit reading also fixes Γ_K, at the price of the jump.
+- **Γ_K can be fixed by a candidate that keeps the jump**, c/r_C, and the record allows it over most of the tested region, with margins reaching present sensitivity. The cell-as-unit reading also fixes Γ_K, at the price of the jump.
 - **So the strongest form on the table is C4-β with Γ_K = c/r_C:** one free parameter, ρ_K, plus r_C shared with route (b). That form can fail.
 
 ### 5. Saturation records and gravity (the open item from ruling 2)
@@ -88,7 +88,7 @@ For r_C below about √6ħ/(mc), a route-(b) kick ⟨Δp²⟩ = 3ħ²/(2r_C²) i
 - **R-b, relativistic kicks** (E = √(p²c² + m²c⁴) per hit). The variant becomes primary and binds from about 0.36 μm, with κ_top(cap) ≈ 3.9×10⁻²⁹ at Σ_max = 0.12 eV (B16-NR's primary uses 0.16 eV).
 - **R-c, a minimum localisation width.** The effective width is max(r_C, √6ħ/mc), the length above which the kicks stay non-relativistic. That gives κ_b < 7.6×10⁻²⁰w² = 7.1×10⁻³⁰ for ν₃ below 9.67 μm, binding from 3.1 μm (where it meets B7′) to 9.67 μm. The window stays open, 1.3×10⁶ above the floor.
   - With the Compton width ħ/mc instead, the bound is 1.2×10⁻³⁰, but the formula is then extrapolated outside its validity.
-  - R-c is a lead. It makes the effective width species-dependent for neutrinos, which reopens Reading I5's ruling 5.
+  - R-c is a candidate. It makes the effective width species-dependent for neutrinos, which reopens Reading I5's ruling 5.
   - Relativistic collapse models have no standard Compton cap. The usual remedy smears the collapse through a mediating field (Bedingham 2011; Pearle). Tumulka's relativistic GRW sidesteps the question.
 
 ### 7. Choices for a ruling

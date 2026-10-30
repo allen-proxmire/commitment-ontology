@@ -3,7 +3,7 @@
 *29 October 2026.*
 - *The task ruled in Reading I12 §5, ruling 2: state which bound a pattern carries, what it does to spectra, and how it compares with the β₀ bounds, including whether a minimal length applies to a composite body's centre of mass or only to its constituents.*
 - *Revised after an independent check, whose corrections are adopted. Ruled in §9.*
-- *Nothing here is registered. Graded under Reading I7's grades (derived, lead, fitted), plus "restatement", "excluded" and "inert" as in Reading I12.*
+- *Nothing here is registered. Graded under Reading I7's grades (derived, candidate, fitted), plus "restatement", "excluded" and "inert" as in Reading I12.*
 - *Scripts and logs: `i13_lattice_spectra.py`, `i13_composite_bounds.py` (run with PYTHONDONTWRITEBYTECODE=1). Some numbers below come from the check's script.*
 
 **In plain terms.**
@@ -26,14 +26,14 @@
 | possibility is "held at places … hopping between related places"; a pattern is "possibility in transit"; space is who relates to whom; places can be relabelled freely. "In the engine, places form a 3D lattice" | ONTOLOGY_full §2 | primitives; the lattice is the engine's |
 | "A scaleless substrate has no direct model, so the engine uses an averaged medium as its stand-in" | ONTOLOGY_full §5 | stated 23 October |
 | a pattern hops on its place's ticks (R6); massive patterns obey −N⁴∇²ψ + m²N²ψ = ω²ψ (the continuum statement only) | R6; Reading I11 §2 | added, provisional |
-| M1: a scalar pattern field sits on the same places as gravity. With Run 90's gravity free it closes and stays relativistic, ω²₂ = 1 and ω²₄ = 0 (K101j). With Run 91's gravity held fixed it is NOT FOUND (K101y), and the joint closure is open (Run 102). The a⁴ residual, −s⁶/90 along the axes for the minimal-range ultralocal stencil, is "the order at which closure fails, not a prediction" | Run 101 | M1 is a lead; the relativity is inherited from the borrowed boost relation |
+| M1: a scalar pattern field sits on the same places as gravity. With Run 90's gravity free it closes and stays relativistic, ω²₂ = 1 and ω²₄ = 0 (K101j). With Run 91's gravity held fixed it is NOT FOUND (K101y), and the joint closure is open (Run 102). The a⁴ residual, −s⁶/90 along the axes for the minimal-range ultralocal stencil, is "the order at which closure fails, not a prediction" | Run 101 | M1 is a candidate; the relativity is inherited from the borrowed boost relation |
 | a plain lattice term for patterns is excluded on Run 100's ladder by the Crab (ℓ ≲ 5.9×10⁻³² m at S = ⅓); "only 4×10⁵ ≲ p_s ≲ 1.3×10⁷ survives" | Reading I11 ruling 1; §4.3 | ruled |
 | the units of ordinary matter are electrons and nucleons, each committing on its own | Q4 | ruled, for route (b) |
 | a free body between records is a pattern | Reading I6 ruling 1 | ruled |
 | bodies move as point particles, action −m∫dτ (added); inertia = total energy, the Lorentz input (borrowed); composite bodies fall alike (R7, borrowed) | R7, R8 | added / borrowed |
 | a pattern carries a stock q = 2E/E_pair, with E_pair = aħ/T_hold = aħc/(ħ_tℓ) | Reading I4 S-i | ruled 27 October |
 | C1a: (2π)^{3/2}r_C³ = 2ħ_tℓ³, so ħ_t ≈ 10⁸⁴–10⁹² (P08's hop) or 10⁷⁴–10⁸⁵ (the engine's); a renaming | Run 97 | no test |
-| a capacity per place, K, as a threshold (route (c)), not a cap; C4-β′ as a per-unit threshold | Reading I8 ruling 2; C4-β, C4-β′ | a lead; Runs 98–99 |
+| a capacity per place, K, as a threshold (route (c)), not a cap; C4-β′ as a per-unit threshold | Reading I8 ruling 2; C4-β, C4-β′ | a candidate; Runs 98–99 |
 
 **What the record does not say:**
 - **Whether a pattern's position takes values only at places.** The primitives hold possibility at places, which suggests it. R6 and Q4 are written in the continuum. Places are relational, so the suggestion implies discreteness, not a lattice.
@@ -95,7 +95,7 @@ $$
 
 | candidate | what it bounds | what else it changes | status |
 |---|---|---|---|
-| capacity per place K (C4-β) | a threshold density for route (c), not a cap | collapse-type noise at threshold surfaces; no commutator change | a lead with its own runs (98–99); not a ledger bound |
+| capacity per place K (C4-β) | a threshold density for route (c), not a cap | collapse-type noise at threshold surfaces; no commutator change | a candidate with its own runs (98–99); not a ledger bound |
 | C4-β′ | a per-unit threshold, q ≥ 2ħ_tP∞ ⟺ E ≳ aP∞ħc/ℓ (Reading I8) | inert per unit, signalling per body (Run 95) | a factor aP∞ (≳ 10²⁶) above (a)'s momentum cap; not a ledger bound |
 | the vacuum's hold under C1a | r_C | as a floor on states, excluded by atomic sizes; as noise on route-(b) records, Reading I12 §2 | settled in I12 |
 | the renewals, E/(aħ) per unit time | aħ/(mc) | none beyond relativistic quantum theory | a restatement unless a ≫ 1 (I12) |
@@ -152,7 +152,7 @@ second order in what KMM's β is first order in.
 - **On Run 101's closure,** the borrowed boost relation, carried to the lattice by M1 (K101j, with Run 90's gravity free), gives β₀ = 0 at the order the bounds test. The first effect is the ℓ⁴ term, whose coefficient depends on the stencil. With Run 91's full gravity this is open (Run 102).
 - **Grade:**
   - **Derived:** the commutator argument, the Weyl form, the sign, and the map from stencil to β₀ (checked numerically twice).
-  - **Conditional:** which stencil applies, on Run 101's M1, a lead.
+  - **Conditional:** which stencil applies, on Run 101's M1, a candidate.
   - **Not what CO's places give:** the minimal-length (KMM, β > 0) form. No statement in the record gives a positive β. Reading I6 ruling 2 places *commitments* as sharply as interactions resolve, and route (b)'s r_C is a noise on records, not a floor on states (Reading I12 §2).
 
 ### 4. The composite body ("soccer-ball") question
@@ -226,7 +226,7 @@ Convention: β = β₀/(M_Pc)², Δx_min = √β₀ ℓ_P. "Per unit" means the 
 | (A) no canonical commutator once position is discrete; the Weyl form survives | **derived** | position at places, given locally finite places (lattice or not) |
 | (A′) the Maassen–Uffink ledger, ln n ≤ H(x) + H(p) ≤ 2 ln n, on n places | **a restatement**: the finite-region form of I12's (B) | (A) |
 | (B) the bound is a crystal's: β < 0, no Δx floor, momentum capped at πħ/ℓ | **derived; a restatement** of lattice quantum mechanics (Jizba, Kleinert and Scardigli 2010) | (A) |
-| (C) the spectral effect lies wholly in the stencil: β₀^eff = −(S/8)(ℓ/ℓ_P)² on the plain stencil, 0 on Run 101's closure | **derived** (checked twice numerically); which stencil applies is **conditional on Run 101's M1, a lead** | (A); M1 |
+| (C) the spectral effect lies wholly in the stencil: β₀^eff = −(S/8)(ℓ/ℓ_P)² on the plain stencil, 0 on Run 101's closure | **derived** (checked twice numerically); which stencil applies is **conditional on Run 101's M1, a candidate** | (A); M1 |
 | (D) the plain stencil for matter | **excluded on Run 100's ladder** (Reading I11); **survives the Crab at p_s's lower bound** | the hop's scale |
 | (E) β_com = Σμ_i³β_i; β_mode = c_φβ(m/M_eff)²; √β M the same for every body to about 10⁻³ | **derived**; a restatement of Quesne and Tkachuk (2010) and Tkachuk (2013), in CO's units | a per-unit hop (choice 2) |
 | (F) the resonator bounds, rescaled per unit, do not reach CO | **arithmetic on published bounds** | choice 2(i) |
@@ -256,7 +256,7 @@ Convention: β = β₀/(M_Pc)², Δx_min = √β₀ ℓ_P. "Per unit" means the 
    - The bound from places is a crystal's. Its exact form is the Maassen–Uffink ledger on a region's places.
    - Its spectral content is the stencil's dispersion, β₀^eff = −(S/8)(ℓ/ℓ_P)² on the plain stencil and 0 under M1 (K101j).
    - The stock readings are set aside: (b1) excluded, (b2) inert.
-   - Reading I12's ruling 2 closes with grade derived / restatement, not lead.
+   - Reading I12's ruling 2 closes with grade derived / restatement, not candidate.
    - **A dated note on Reading I12** (not an overwrite), *29 October, after Reading I13*:
      - "Δx ≳ ℓ" in (C) and its table is superseded: places give a discrete position spectrum, β < 0 and no Δx floor.
      - The map "β₀ ≈ (ℓ/ℓ_P)² ≈ 4×10⁴–3×10⁶" is corrected to the plain stencil's β₀ = −(S/8)(ℓ/ℓ_P)², 1.7×10³–3.3×10⁵ at p_s's lower bound, and 0 under M1.
@@ -274,7 +274,7 @@ Convention: β = β₀/(M_Pc)², Δx_min = √β₀ ℓ_P. "Per unit" means the 
    - Ruling for agnosticism leaves (A)–(B) conditional.
 
 ### 9. Rulings (29 October; Allen: "do as you recommend")
-1. **§7's finding is recorded,** with the dated note on Reading I12 listed in choice 1. Reading I12's ruling 2 closes with grade derived / restatement, not lead.
+1. **§7's finding is recorded,** with the dated note on Reading I12 listed in choice 1. Reading I12's ruling 2 closes with grade derived / restatement, not candidate.
 2. **Which pattern R6's hop acts on in a bound body is left open until Run 102.** If matter closes with Run 91's full gravity, bodies carry no deformation under either reading.
 3. **Position takes values only at places; places are finite in number in any finite region but have no fixed spacing** (29 October; Allen: "please go with whatever you recommend").
    - "Scaleless substrate" is read as no fixed length between places: places are relational, so a region's count is finite but its spacing is not a constant of the substrate.

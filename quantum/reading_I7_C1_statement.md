@@ -41,14 +41,14 @@ with τ = ℓ/c the tick: the volume of vacuum that holds as much possibility as
 - **ħ_t, the hold's length in ticks** (equivalently E_pair = aħ/(ħ_tτ), one renewal's energy). The record leaves it free (Reading I4 §1: "ħ_t's value: not fixed"; it cancels in the engine's G). Reading I5 found that every identification of E_pair available in the record is borrowed and fails.
 - **The hop ℓ:** P08's ℓ_P, or the engine's ℓ = ℓ_P√(0.99πa·p_s/3), which is conditional since Reading I6.
 
-So C1 is a **lead** in Reading I7's grading: it needs (C1) itself, the count over a volume, and a value of ħ_t. Without a value of ħ_t it renames r_C (Reading I5 §2), and under D2′ it cannot be graded derived until ħ_t is fixed by something independent of r_C. To check as well: "the vacuum never commits" (C1 has the vacuum place a record without committing) and Q1's "the medium holds no branches".
+So C1 is a **candidate** in Reading I7's grading: it needs (C1) itself, the count over a volume, and a value of ħ_t. Without a value of ħ_t it renames r_C (Reading I5 §2), and under D2′ it cannot be graded derived until ħ_t is fixed by something independent of r_C. To check as well: "the vacuum never commits" (C1 has the vacuum place a record without committing) and Q1's "the medium holds no branches".
 
 ### 5. What can be registered now
 
 Because ħ_t is free, C1 cannot predict r_C by itself. Two things can still be registered and computed without fitting:
 
-1. **The inverse, as a lead's requirement.** The ħ_t (and E_pair) that C1a needs for r_C to lie in Run 96's window, for each hop (P08; the engine's at a ∈ {0.1, 1, 2π}), under the volume convention fixed in advance. This is not a prediction; it states what the missing primitive would have to be.
-2. **The second consequences of that ħ_t,** each computed from ħ_t alone and compared with the record and with data, so the lead can fail somewhere other than r_C:
+1. **The inverse, as a candidate's requirement.** The ħ_t (and E_pair) that C1a needs for r_C to lie in Run 96's window, for each hop (P08; the engine's at a ∈ {0.1, 1, 2π}), under the volume convention fixed in advance. This is not a prediction; it states what the missing primitive would have to be.
+2. **The second consequences of that ħ_t,** each computed from ħ_t alone and compared with the record and with data, so the candidate can fail somewhere other than r_C:
    - one renewal's energy E_pair = aħ/(ħ_tτ), against everything in the record that uses a renewal's energy (Reading I4 §3; Note D point 4);
    - one hold's duration ħ_tτ and light-crossing ħ_tℓ, against Run 74's δu and Reading I4's (α0) reading (λ = c/(ħ_tℓ), which the data allow only for r_C ≳ 4.3×10¹³ m);
    - whether the engine's ħ = 5 ticks (Run 15) can be read as an engine setting only.
@@ -62,7 +62,7 @@ Because ħ_t is free, C1 cannot predict r_C by itself. Two things can still be r
 **Kill rules (on C1a as stated, not on the direction):**
 - **K-C1-1.** If the ħ_t required lies outside every range the record allows for ħ_t (none is ruled, so this can fail only if a second consequence fixes a range), C1a fails as stated.
 - **K-C1-2.** If any second consequence contradicts a ruled result or data, C1a fails as stated, and the reason is recorded.
-- **Otherwise C1a stands as a lead,** with the missing primitive named: ħ_t at its required value. It becomes a result only if ħ_t is later fixed by something independent of r_C.
+- **Otherwise C1a stands as a candidate,** with the missing primitive named: ħ_t at its required value. It becomes a result only if ħ_t is later fixed by something independent of r_C.
 
 ### 6. Choices for Allen
 

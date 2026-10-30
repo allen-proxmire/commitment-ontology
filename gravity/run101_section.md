@@ -7,7 +7,7 @@
 
 **Why.** Reading I11 (ruled) found that a plain lattice term for patterns is excluded by data, and asked whether the record's own closure conditions force matter to be relativistic on the lattice, as Run 90 found for gravitational waves.
 
-**The new statement, M1** (graded lead). A scalar pattern field ψ and its momentum sit on the same places as gravity. H and D are sums of a gravity part and a ψ part, sharing one set of structure functions. R6 is the flat, stationary limit of this. Everything below is conditional on M1.
+**The new statement, M1** (graded candidate). A scalar pattern field ψ and its momentum sit on the same places as gravity. H and D are sums of a gravity part and a ψ part, sharing one set of structure functions. R6 is the flat, stationary limit of this. Everything below is conditional on M1.
 
 **What the algebra decides in advance (a restatement, not a derivation).** Three slices of the matter conditions settle the dispersion exactly, for any closure:
 1. {H, D} at zero metric momentum forces the matter shift generator to be σ(s) = iℓs, and the lapse change under a constant shift to be linear, L0(k, 0) = iℓk.

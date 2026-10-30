@@ -62,7 +62,7 @@ $$
 | phonon cavity (Campbell, Tobar, Goryachev and Galliou 2023, preprint) | 62.4 (3σ) |
 | equivalence principle (Ghosh 2014) | 10²¹ |
 
-- **Grade:** an open direction, not yet a lead. It becomes a lead once a fixed per-pattern bound is written out in CO's terms, with its dynamical consequence: a floor with no effect on spectra cannot be tested.
+- **Grade:** an open direction, not yet a candidate. It becomes a candidate once a fixed per-pattern bound is written out in CO's terms, with its dynamical consequence: a floor with no effect on spectra cannot be tested.
 
 ### 2. A CO-native reading: route-(b) records saturate the error–disturbance bound
 Route (b) localises a unit with
@@ -89,7 +89,7 @@ $$
 
 ### 4. Choices for a ruling
 1. **Record §3.**
-2. **Whether to write out a bounded ledger:** state which bound a pattern carries (places in a region, the possibility stock q, or another), what it does to spectra, and compare it with the β₀ bounds, including the composite-body question. If adopted, it would be graded a lead.
+2. **Whether to write out a bounded ledger:** state which bound a pattern carries (places in a region, the possibility stock q, or another), what it does to spectra, and compare it with the β₀ bounds, including the composite-body question. If adopted, it would be graded a candidate.
 
 ### 5. Rulings (29 October; Allen: "do as you recommend")
 1. **§3 is recorded:**
