@@ -29,8 +29,8 @@ The full list, with what each input buys and its history, is in [`record/ONTOLOG
 - **Gravity's weak field** follows from counting commitments: Newton's law, unscreened and linear, the redshift, and patterns falling at the same rate for every mass.
 - **The post-Newtonian tests pass** (γ = β = 1, binary-pulsar radiation), but by rules chosen for them, not derived.
 - **Waves on the relations:** on a constructed triangulated lattice, the relations carry exactly GR's two polarisations at light's speed (with a second factor of N in their ticking). GR's constraint algebra closes through field order 2 at order a², and that closure forces the waves to stay relativistic. It is one formal closure, imposed, not derived.
-- **Black holes:** no singularity, no event horizon, no evaporation. Infalling matter commits at areal radius 3m (this rests on option 3 and a chosen threshold).
-- **A prediction, untested:** compact stars break the strong equivalence principle slightly, Δ = εC/(1 + ε) > 0, where GR gives zero. It rests on inertia = total energy (borrowed) and a recorded choice of which field curves space; its size waits on ε = p_s/P∞, which pulsar timing bounds.
+- **Black holes:** no singularity, no event horizon, no evaporation. Infalling matter commits at areal radius 3m (this rests on option 3 and a chosen threshold; to be re-read with ε = 0 in gravity).
+- **Gravity outside matter is GR's** (ruled 30 October). CO's departures from GR were set by ε = p_s/P∞; CO's own preferred-time completions bound ε below about 10⁻⁹ (pulsar α₂) and 1.3×10⁻⁷ (GW170817), so ε is set to zero in gravity and the strong-equivalence prediction Δ = εC/(1 + ε) is withdrawn.
 - **The quantum vacuum's energy does not pull** (a rule: energy is measured from the undisturbed vacuum), so the old cosmological-constant problem does not arise. Λ itself is taken from data.
 - **The quantum sector:** a solid's gravity is laid down only by matter's own slow commitments. That leaves a window for the collapse length, **0.09 μm ≲ r_C ≲ 51 μm**. The rate lies above LISA Pathfinder's gravity-noise floor (with an assumed housing) and below SNO's deuteron break-up (r_C < 0.92 μm) or intergalactic-gas heating (above). It rests on GRW-type symmetrisation, an added choice: without it the window closes. The window is a registration, not a test that could have failed. Gravity cannot entangle masses.
 
@@ -53,7 +53,7 @@ These would move the ontology from reproducing physics to deriving it:
 - **What sets r_C and the commitment rate,** ideally one scale doing both jobs.
 - **Commitment set by internal complexity** rather than mass alone.
 - **The Born rule from the primitives,** not from the added noncontextual reading Q6.
-- **ε = p_s/P∞,** which sets every strong-field departure from GR.
+- **What sets p_s and P∞** in the clock and quantum sectors (ε is zero in gravity).
 - **The low-entropy beginning:** a fully in-step start as the only state with zero becoming.
 
 ## Map

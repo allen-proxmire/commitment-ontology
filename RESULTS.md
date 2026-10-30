@@ -37,9 +37,8 @@ Each result with how the ontology gets it and the runs behind it. **Derived** me
 
 | claim | depends on |
 |---|---|
-| compact stars break the strong equivalence principle: Δ = εC/(1 + ε) > 0 | inertia = total energy; which field curves space (Run 66) |
-| β − 1 = −ε/[2(1 + ε)], below current reach | ε, bounded by the pulsar triple |
-| no singularity, no event horizon, no evaporation | option 3; the 2p_s threshold |
+| ~~compact stars break the strong equivalence principle: Δ = εC/(1 + ε) > 0~~; ~~β − 1 = −ε/[2(1 + ε)]~~ — withdrawn: ε = 0 in gravity (30 October; T-I15d bounds ε ≲ 10⁻⁹) | — |
+| no singularity, no event horizon, no evaporation | option 3; the 2p_s threshold; to be re-read with ε = 0 in gravity |
 | the quantum vacuum's energy does not pull; Λ is an input | R5 |
 | time's direction is fundamental; averaged laws hide it | the one-way bottom (Runs 29, 35, 37, 81, 81b) |
 

@@ -49,7 +49,7 @@ $$
 
 **R7. Twist** (borrowed, provisional). Twist is charged on every closed loop of the history, ticks and relations priced alike. This is Lorentz invariance put in by hand; it makes a knot's inertia equal its energy. Particles are knots of commitment when twist lives on closed loops of relations that tile space as faces; building knots from the engine's own commitments is open.
 
-**R8. Motion and inertia.** Patterns ride the flow, g₀ᵢ = −uᵢ. A moving body's field is its boosted rest field (borrowed, at zeroth order in ε; ruled 30 October, Reading I15b: CO keeps ε with a preferred time, so at first order its completions predict α₁ ≈ −16ε and α₂ ≈ −2ε instead of 0; T-I15d). Bodies move as point particles, action −m∫dτ (added). Inertia = total energy (borrowed). Relations shear, and only the shear radiates (added).
+**R8. Motion and inertia.** Patterns ride the flow, g₀ᵢ = −uᵢ. A moving body's field is its boosted rest field (borrowed; exact, since ε = 0 in gravity, ruled 30 October after T-I15d). Bodies move as point particles, action −m∫dτ (added). Inertia = total energy (borrowed). Relations shear, and only the shear radiates (added).
 
 **R9. Space** (borrowed, provisional: "option 3"). Binding tension curves the medium's space in GR's form. On that space, γ̃ = N²g,
 $$
@@ -60,6 +60,8 @@ That φ's stress, not U's, curves γ̃ is an added choice: with U's, β = 1 exac
 **R10. Rotation** (added, provisional). Frame dragging is possibility's own circulating flow, so the medium's clock is the zero-angular-momentum frame's lapse; spinning holes are Kerr outside, to O(ε/α). This interprets an input; the rules do not imply it.
 
 **R11. Black holes** (added; GR's exterior for mergers borrowed). Infalling matter commits where the medium's possibility falls to 2p_s, before any causal matter can turn back; the core absorbs what reaches it, at areal radius 3m. Holes are stable.
+
+**ε in gravity is zero** (ruled 30 October, after T-I15d). The medium's scale does not enter the metric: outside matter it is GR's, and the medium is read as a slicing condition. CO's preferred-time completions bound ε ≲ 10⁻⁹ (α₂, pulsars) and 1.3×10⁻⁷ (GW170817), where its gravity departures are unobservable. p_s and P∞ keep their roles in clocks and the quantum sector. R9's choice of φ's stress becomes empty (φ = U), and R11's statements are to be re-read under this.
 
 ## Quantum rules
 
