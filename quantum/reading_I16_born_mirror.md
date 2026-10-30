@@ -45,9 +45,7 @@ $$
 - In effect form the argument works in two dimensions (split E = E/2 + E/2), so no count of outcomes is needed.
 - **(NC) must be stated in shares, not units.** With units, one f for every record is inconsistent: the argument forces f(x) = x/ΣP, and patterns carry different totals (Reading I4: units scale with energy).
 
-**Does one-way commitment force it? No.** Irreversibility is used nowhere above; (X) uses only "exactly one outcome". Two rules respect (X) and are not Born (`check_I16.log`):
-- f_n(x) = (1 − ε)x/T + ε/n, which depends on the number of outcomes;
-- the conditional chances of an outcome-dependent rate, r(φ)w(φ)/Σ r w.
+**Does one-way commitment force it? No.** Irreversibility is used nowhere above; (X) uses only "exactly one outcome". A rule that respects (X) and is not Born (`check_I16.log`): f_n(x) = (1 − ε)x/T + ε/n, which depends on the number of outcomes. (The ratio r(φ)w(φ)/Σ r w for outcome-dependent rates is a chance conditional on a record occurring in [t, t + dt], not a record's outcome chance; the instrument for where the next record lands satisfies (NC), §6.)
 
 What forces the count is noncontextuality, and nothing in the arrow supplies it.
 
@@ -58,7 +56,7 @@ What forces the count is noncontextuality, and nothing in the arrow supplies it.
 | route (b), Q4: outcome density ⟨ψ\|L_x†L_x\|ψ⟩, smeared over r_C | broken: at fixed units at x, p(x) moves (0.312 → 0.282) when units within r_C move | holds by construction (E_x = L_x†L_x, ∫E_x dx = 1) |
 | route (a), (T1), Q5 | not tested | holds by construction: Born weights are written into the rulings |
 | route (c), Reading I8: jump density ⟨ψ\|Π̂_x²\|ψ⟩ | broken (collective over r_C) | holds by construction |
-| outcome-dependent rates (route (b)'s operator rate; route (c)'s gate) | – | the chance given that a record occurred, r w/Σ r w, depends on the rest of the spread; not covered by (NC) as stated |
+| outcome-dependent rates (route (b)'s operator rate; route (c)'s gate) | – | holds: the first-record instrument's effects F_x (K†F_x + F_xK = E_x) are shares in effects; r w/Σ r w is a conditional chance, outside (NC)'s unconditioned effects (§6) |
 
 So the single-outcome form is broken by ruled rules, and the effect form holds by construction wherever Born is already written in. The open case is outcome-dependent rates: whether the chance of *which* record occurs, given rates that differ by outcome, satisfies (NC) in rate form.
 
@@ -93,16 +91,18 @@ So the single-outcome form is broken by ruled rules, and the effect form holds b
 
 **T-I16b, outcome-dependent rates.** Route (b)'s operator rate ("each branch commits at its own rate") and route (c)'s gate give records whose rate differs by outcome. Write the chance that the next record lands at φ, over a finite window, and test whether it satisfies (NC) in rate form: a chance per unit time Pr(E, dt) = F(⟨ψ|E|ψ⟩, dt) with one F. Kill: a ruled rate rule whose outcome chances depend on the spread over other outcomes at first order in dt. Then (NC) contradicts the record, and either that rule changes or (NC) is declined.
 
-**Result of T-I16b** (30 October, after the check; exploratory, not registered, not yet checked independently; `t_i16b.py`, `t_i16b.log`).
-- **Route (b) passes.** With the rate an operator, each hit has a jump operator J_x = √(κ_bĤ/ħ) L_x (either ordering), and the chance of a hit at x in dt is
+**Result of T-I16b** (30 October; exploratory, not registered; `t_i16b.py`, `t_i16b.log`; checked independently, `checkI16b/REPORT.md`, whose corrections are adopted). Ensemble independence tests linearity in the state; through §2 (F is linear), a rule that depends on the ensemble cannot satisfy (NC).
+- **Route (b) holds, by construction.** With the ruled rate κ_b M̂c²/ħ per unit proper time (an operator), a hit has a jump operator J_x built from the rate and L_x, and its chance in dt is
 $$
 \Pr(x,dt)=\langle\psi|J_x^{\dagger}J_x|\psi\rangle\,dt ,
 $$
-  the share in the effect J_x†J_x dt. That is (NC) in effect form, whatever the branch rates. The toy reproduces the same hit rates from two different ensembles of one mixed state, to 10⁻¹². The conditional chance "given that some record occurred", r w/Σ r w, is a Bayes ratio, not a record's chance, so it is not a counterexample.
-- **Route (c) passes or fails depending on how its unravelling is read.** Reading I10's ruling writes the channel D[Π̂ − c], with c = 1 in a saturated bulk and 0 outside. The chance of a jump at x is ⟨ψ|(Π̂_x − c)²|ψ⟩ dt.
-  - If c is a fixed field c(x), or an operator (c = 1 on the branches where x lies in a saturated bulk), this is a share in an effect: (NC) holds.
-  - If c is read from the state (where the pattern's mean is saturated), the chance is not linear in the state. In the toy, two ensembles of the same mixed state give 0.201 and 0.265. That breaks (NC), and since Q5's updates can prepare either ensemble at a distance, it would also signal.
-- **So the kill fires conditionally.** I10's unravelling must be stated in operator form for (NC) to be consistent with the record. With an operator c the channel is no longer D[Π̂] (D[Π̂ − Ĉ] ≠ D[Π̂] when Ĉ is not a multiple of the identity), so the change is a change to route (c)'s rule, not only to its wording.
+  a share in an effect. The two orderings of rate and localisation differ as rules (the unruled combined update, Reading I3 §4), but both satisfy (NC). This restates §3's table, Reading I3 ruling 5 and Run 95.
+- **Where the next record lands** is an instrument with effects F_x solving K†F_x + F_xK = E_x (K = ½Σ_x E_x + iĤ₀), with ΣF_x = 1. It satisfies (NC). The ratio r w/Σ r w is a post-selection on a record occurring in [t, t + dt], not an outcome chance.
+- **Route (c): (NC) excludes only a c read from the state.** Reading I10 writes the channel D[Π̂ − c], "for any real c", with c = 1 in a saturated bulk and 0 outside; the text covers uniformly saturated configurations, not superpositions of bulk and vacuum at x.
+  - **A fixed field c(x)** gives jump chances ⟨ψ|(Π̂_x − c)²|ψ⟩ dt, shares in effects: (NC) holds, D[Π̂] is kept, and Runs 98–100 stand as computed.
+  - **c read from the state** depends on the ensemble (0.201 against 0.265 for one mixed state in the toy). Through Q5's updates it would signal, through the distant part's later record count and deposits, not its state: the failure Reading I3 §4 item 1 names and Run 95's NL1 control detects.
+  - **An operator Ĉ** (1 on bulk branches, 0 on vacuum branches) satisfies (NC) but changes the channel: D[Π̂ − Ĉ] ≠ D[Π̂] for that Ĉ. It removes route (c)'s decoherence between bulk and vacuum branches, which Reading I8 §3 rules and Reading I9 §3's Γ_dec uses, so Runs 98–100's interference bounds and edge would need recomputing.
+- **A cost either way (a reading).** No fixed unravelling of D[Π̂] has zero records in both the bulk and the vacuum branch at the same x: the jump operators are u_kΠ̂ + c_k with Σ|u_k|² = 1, and a zero rate at Π = 1 and Π = 0 needs every u_k = c_k = 0. So with a fixed c = 1 in the bulk, the vacuum branches of a bulk/vacuum superposition make records, about one per cell per 1/Γ_K, which deposit nothing. Reading I9 ruling 4 ("a uniformly saturated bulk makes no record") then holds on uniform configurations only.
 
 ### 7. Choices for a ruling
 1. **Record §1:** the weight as amplitude times mirror, the power from A5, the record as the backward leg (a reading).
@@ -129,4 +129,4 @@ Allen: "do as you recommend."
 2. **§2's answer recorded:** one-way commitment does not force the counting step; noncontextuality, (NC), does.
 3. **Reading I15 §7's unit-counting candidate is superseded** by this reading.
 
-(NC) is left open pending an independent check of T-I16b's result, and route (c)'s unravelling in operator form (§6).
+(NC) is left open. Its check (T-I16b, §6) finds no ruled rule contradicting it provided route (c)'s c is a fixed field; the choice between a fixed c and an operator Ĉ is open.
