@@ -157,3 +157,5 @@ $$
 ### Ruling (30 October 2026)
 
 Allen: "do as you recommend." **H1:** the medium still sets the slicing's lapse through R3's draw field, so the engine's G tie and the corrected hop relation ℓ² = (0.99πa/3)ℓ_P²·h, h = (1/p_s + 1/P∞)⁻¹, stand at first order. The engine-hop line stays a candidate, with min(p_s, P∞) ≲ 5.6×10²⁷ aK² conditional on route (c) with Γ_K = c/r_C. ρ_K stays free (a restatement of Reading I9 ruling 1 for ε = 0). Candidate 3's second-order clock departure is to be checked against data.
+
+*Note (30 October, after Reading I18b's check):* two factors of 2 are corrected. The clock departure under R1's law is the fraction ε/(1+ε) of the Φ²/2 term, so it reaches all of Φ²/2 as ε_med → ∞ (not half of it); in row 3′ it is U²/4, half of Φ²/2. Extending H1 to all orders with R1 and R3 exact would put ε back in the metric and reverse the ε = 0 ruling, so as ruled the record fixes the lapse response only at first order (Reading I18b).

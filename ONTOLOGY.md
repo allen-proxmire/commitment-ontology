@@ -93,7 +93,7 @@ The rate is zero for light, which commits only through route (a). Every massive 
 | R5 vacuum draws nothing | added | no vacuum-energy problem; Λ from data |
 | R6 pattern rule | added, provisional | γ = 1; quantum matter falls as in GR |
 | R8 point particles, shear of relations | added | orbits; binary-pulsar radiation |
-| R9 φ's stress curves space | added | β − 1 = −ε/[2(1 + ε)] |
+| R9 φ's stress curves space | added | β − 1 = −ε_g/[2(1 + ε_g)], where ε_g is ε in the metric, now 0 (30 October); the medium's ε_med = p_s/P∞ is a separate, medium-side quantity |
 | R10 rotation (provisional), R11 commitment in holes | added | Kerr outside spinning holes; holes as GR's (Reading I17) |
 | R7 twist (provisional), R8 Lorentz input and inertia = total energy, R9 option 3, GR's exterior for mergers, the boost relation and GR's constraint algebra (Runs 85–91, 101–102), matter's masses and nuclear equations of state | borrowed | composite free fall; frame dragging; stars and holes as GR's; mergers |
 | Q1–Q5 the quantum rules | added | gravity only from records; the quantum window |
