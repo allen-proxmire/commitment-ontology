@@ -158,3 +158,5 @@ $$
 - **The record:** Run 67 §1; Run 66 §3; Runs 34 and 52; R5 and R8; `testI15a/READING_T-I15a.md`; `checkI15a_identity/REPORT.md`; Reading I15 §6.1; Note H §8. **This folder:** `SCOPE.md`, `PREREG.md`, `val/validate.log`. **The check:** `checkI15c/REPORT.md`.
 
 *Ruled 30 October (Allen: "do as you recommend"): recorded as a reading; the cuscuton route is closed as scoped; ε stays provisional, now with the preferred-frame price of §5.*
+
+*Note (30 October, T-I15d):* for the lapse-coupled completion (α_E = 0 member) α₁ = −4α∞ and α₂ = 2ε[ε − λ_E(1−ε)]/[λ_E(1+ε)²] ≈ −2ε exactly; the khronometric completion here has the same off-strip α₂ ≈ −2ε. Under the pulsar α̂₂ bound both give ε ≲ 8×10⁻¹⁰ untuned; the lapse-coupled one also has γ_GW − γ_EM = −2ε/(1+ε), so ε ≲ 1.3×10⁻⁷ from GW170817 (`test_I15d_section.md`).

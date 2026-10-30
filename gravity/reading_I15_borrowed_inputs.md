@@ -384,3 +384,4 @@ Choices 1, 3, 4 and 6 are left open.
 
 **Ruling (30 October; Allen: "do as you recommend").** CO keeps ε, with a preferred time: choice 1 is (ii), "no global now" for observables (PI-weak), and choice 2 is (iii), the medium keeps a preferred slicing. PI-strong is declined. R8's borrowed boost holds at zeroth order in ε; at first order a khronometric completion predicts α₁ = −4α∞ ≈ −16ε, so ε ≲ 2.5×10⁻⁶ (Run 34's pulsar bound). α₂ vanishes only on a tuned strip, λ ≈ 4ε. The lapse-coupled completion's α₁ and α₂ are to be computed in a registered test.
 
+*Note (30 October, T-I15d):* the price of keeping ε is now computed for the lapse-coupled completion: α₂ ≈ −2ε gives ε ≲ 8×10⁻¹⁰ under the pulsar bound (registered reading EXCLUDED, below the 10⁻⁸ floor), and the two-cone bound gives 1.3×10⁻⁷. At such ε CO's gravity is observationally GR; only interior structure inside holes depends on ε. The ε ruling is open for review.
