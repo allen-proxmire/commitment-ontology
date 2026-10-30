@@ -67,3 +67,4 @@ Every rule and principle added to the primitives, with the date it was adopted. 
 | 30 Oct | black holes are GR's with ε = 0 (commitment relabels, does not hold); the core at 3m, throat, horn and "no horizon, no evaporation" withdrawn; P∞ ≳ 6.4×10¹⁰ lapses; a registered collapse calculation to follow ("do as you recommend") | Reading I17 ruling |
 | 30 Oct | T-I17a recorded as a reading; its registered remainder parked ("go ahead") | Reading I17a |
 | 30 Oct | H1: the medium sets the slicing's lapse through R3; the engine-hop relation stands at first order with h = (1/p_s + 1/P∞)⁻¹; ρ_K stays free ("do as you recommend") | Reading I18 ruling |
+| 30 Oct | R1 amended beyond first order: a pure logarithm f = A + B ln P above a cutoff p_c (C); the vacuum-below-crossover variant graded fitted; p_s bounded only below ("do as you recommend") | Reading I18b ruling |

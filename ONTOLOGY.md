@@ -23,6 +23,8 @@ f(P)=c\,\ln\!\Big(1+\frac{P}{p_s}\Big),
 $$
 linear below the crossover p_s, comparing ratios above it. Far from matter the medium holds P∞ per place. Chosen to give β = 1.
 
+*Amended 30 October (Reading I18b, choice C):* beyond first order, above a stated low-P cutoff p_c, the outflow is a pure logarithm, f = A + B ln P, so that R3's field, R2's clock and R11's P = P∞n hold together at all orders. p_c and B are open.
+
 **R2. The presence clock** (added, provisional). A commitment holds until the possibility present at its places, summed over ticks, reaches a fixed amount, so a clock runs at
 $$
 N=\frac{P}{P_\infty}.
