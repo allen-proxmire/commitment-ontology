@@ -77,7 +77,9 @@ $$
 $$
 The rate is zero for light, which commits only through route (a). Every massive pattern commits this way, relic neutrinos included; the units of ordinary matter are electrons and nucleons, each committing on its own. Each record deposits E_TK/λ_tot, smeared at √1.5 r_C. Identical units are symmetrised GRW-type. κ_b = 1/(aP∞) is a definition, and r_C, one for every species, is a primitive input bounded by data.
 
-**Q5. Two places.** A commitment of one part of a pattern updates the whole pattern at once and commits only that part. Bell's correlations are QM's, and no setting can signal. Two-part patterns come from ordinary entangling evolution, so the singlet is an input. The Born rule is borrowed.
+**Q5. Two places.** A commitment of one part of a pattern updates the whole pattern at once and commits only that part. Bell's correlations are QM's, and no setting can signal. Two-part patterns come from ordinary entangling evolution, so the singlet is an input. Born weights follow from Q6.
+
+**Q6. Noncontextual reading** (ruled 30 October, Reading I16). A record's chance for an outcome with effect E is F(⟨ψ|E|ψ⟩), one F for every record. With one outcome per record and A5's √P amplitudes, F(w₁) + F(w₂) = F(w₁ + w₂), so Pr(E) = ⟨ψ|E|ψ⟩: the Born rule. Route (c)'s unravelling constant c is a fixed field, not read from the state. A restatement of Logiurato–Smerzi; it predicts nothing new.
 
 ## Inputs
 
@@ -93,8 +95,9 @@ The rate is zero for light, which commits only through route (a). Every massive 
 | R10 rotation (provisional), R11 the core | added | Kerr outside spinning holes; no singularity, no evaporation |
 | R7 twist (provisional), R8 Lorentz input and inertia = total energy, R9 option 3, GR's exterior for mergers, matter's masses and nuclear equations of state | borrowed | composite free fall; frame dragging; stars and holes as GR's; mergers |
 | Q1–Q5 the quantum rules | added | gravity only from records; the quantum window |
+| Q6 noncontextual reading | added | the Born weights |
 | Q4 GRW-type symmetrisation | added | an open window (without it, it closes) |
-| the Born rule; the singlet | borrowed; input | outcome weights; entangled pairs |
+| amplitudes √P with phases; the singlet | borrowed; input | the state structure; entangled pairs |
 | P∞/p_s ≳ 1.6–1.9×10⁵ | from data | the pulsar triple |
 | p_s ≳ 4×10⁵ per place; P∞ ≳ 6.4×10¹⁰; the hop | from data and the engine; conditional since Reading I6 (physical clocks do not dip themselves). Upper bound p_s ≲ 1.1×10³⁰/a only, through P∞ (Reading I11) | clocks agreeing to 10⁻⁶ |
 | r_C, κ_b | bounded by data | 0.09 μm ≲ r_C ≲ 51 μm |
@@ -104,7 +107,7 @@ The rate is zero for light, which commits only through route (a). Every massive 
 
 - How space curves, from the primitives (replacing R9).
 - What fixes p_s, P∞ and ε; the hop's size (the engine needs about 10^2.5–10³ Planck lengths).
-- What fixes r_C and κ_b; whether commitment depends on internal complexity; the Born rule.
+- What fixes r_C and κ_b; whether commitment depends on internal complexity; whether one-way commitment forces Q6 (Reading I16: it does not, as the record stands).
 - Rotation from the engine's own flow; the core's quantum state; black-hole thermodynamics without evaporation.
 - Field order 3 of the relations' constraint algebra, where Regge's symmetry is expected to break.
 - What sources Λ; where three dimensions come from; why the beginning starts to commit.

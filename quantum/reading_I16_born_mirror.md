@@ -130,3 +130,5 @@ Allen: "do as you recommend."
 3. **Reading I15 §7's unit-counting candidate is superseded** by this reading.
 
 (NC) is left open. Its check (T-I16b, §6) finds no ruled rule contradicting it provided route (c)'s c is a fixed field; the choice between a fixed c and an operator Ĉ is open.
+
+**Ruling on (NC)** (30 October; Allen: "do as you recommend"). (NC) is added as Q6, in effect form on shares. Route (c)'s unravelling constant c is a fixed field, not read from the state, so Runs 98–100 stand as computed; the vacuum branches of a bulk/vacuum superposition make records that deposit nothing. A5 splits: amplitudes √P with phases stay borrowed; the Born weights follow from Q6. The rules that state Born (Q2, Q4's hit density, route (c)'s channel, (T1)) now rest on Q6.

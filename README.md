@@ -11,7 +11,8 @@ The world is made of **commitments**: irreversible updates at places. Time at a 
 | the medium's outflow, the presence clock, the clock field fixed each tick, matter's draw, the pattern rule, relations that shear, which field's stress curves space, frame dragging as possibility's flow, matter committing at the core | added rules, chosen in forms the runs required |
 | how space curves (GR's form, "option 3"); a moving body's field is its boosted rest field; twist priced alike on ticks and relations (Lorentz invariance by hand); inertia = total energy; GR's exterior for merging black holes; particle masses, charges and nuclear equations of state | borrowed |
 | quantum sector: patterns draw only through records; the line between matter and pattern; route (b)'s worldline rate; GRW-type symmetrisation; the two-place rule | added rules |
-| quantum sector: the Born rule; the singlet state | borrowed; input |
+| quantum sector: amplitudes with phases; the singlet state | borrowed; input |
+| quantum sector: the Born weights, from a noncontextual reading of records (Q6) | added principle |
 | the engine: a cubic lattice, one global hop rate; for waves, a constructed triangulated carrier | engine choices |
 | p_s, P∞ (P∞/p_s ≳ 1.6×10⁵ from the pulsar triple; p_s ≳ 4×10⁵ conditional since Reading I6), the hop, r_C and κ_b, G, c, ħ, Λ | set or bounded by data |
 
@@ -51,7 +52,7 @@ These would move the ontology from reproducing physics to deriving it:
 - **How space curves,** from the primitives, replacing the borrowed option 3.
 - **What sets r_C and the commitment rate,** ideally one scale doing both jobs.
 - **Commitment set by internal complexity** rather than mass alone.
-- **The Born rule** from counting commitments.
+- **The Born rule from the primitives,** not from the added noncontextual reading Q6.
 - **ε = p_s/P∞,** which sets every strong-field departure from GR.
 - **The low-entropy beginning:** a fully in-step start as the only state with zero becoming.
 
