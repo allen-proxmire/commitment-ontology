@@ -21,6 +21,7 @@ Write-ups of the lattice runs (11b–91) and the design notes. Runs 1–11 are w
 |---|---|
 | [`reading_I15_borrowed_inputs.md`](reading_I15_borrowed_inputs.md) | Reading I15: most borrowed inputs are one cluster (Lorentz invariance and GR's form), which one principle, path independence (no global now), would cover through Hojman–Kuchař–Teitelboim; it does not follow from CO's definition of time; ζ₂ = 0 under R5; ε kept provisionally |
 | [`reading_I15a_covariant_completion.md`](reading_I15a_covariant_completion.md) | Reading I15a: CO's exterior is not lapse-only; at weak field, ε ≠ 0 needs a ghost, an unusual scalar sector or a TeVeS-type coupling (ghost-free scalars and gauge fields obey NEC_r − 3E_A ≥ 0, which CO violates by 12εM²) |
+| [`reading_I15b_cuscuton.md`](reading_I15b_cuscuton.md) | Reading I15b: no cuscuton-type theory with matter on the metric carries CO's exterior; CO's static sector is exactly GR with matter on a lapse-dependent metric, N√h[R + α(N)aᵢaⁱ]; a khronometric completion gives α₁ ≈ −16ε, so ε ≲ 2.5×10⁻⁶, against R8's borrowed α₁ = 0 |
 
 ## Runs
 

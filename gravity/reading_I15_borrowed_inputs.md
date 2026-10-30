@@ -379,3 +379,5 @@ Allen: "do as recommended."
 4. **§7's unit-counting candidate is superseded** by Reading I16 (Q6).
 
 Choices 1, 3, 4 and 6 are left open.
+
+*Note (30 October, Readings I15a and I15b):* the cuscuton route is closed as scoped (I15b). CO's static sector is exactly N√h[R + α(N)aᵢaⁱ] with α(N) = 2[1 − N²/(N+ε)²], which a lapse-dependent field redefinition turns into GR: CO's exterior is GR with matter on a metric depending on the foliation's lapse. A khronometric completion with gravity waves at light speed gives α₁ = −4α∞ ≈ −16ε, so ε ≲ 2.5×10⁻⁶ (P∞/p_s ≳ 4×10⁵) from the pulsar bound Run 34 uses, and it conflicts with R8's borrowed α₁ = α₂ = 0 whenever ε ≠ 0; α₂ vanishes only on a tuned strip. ε stays provisional pending a ruling on that price.

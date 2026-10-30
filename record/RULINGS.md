@@ -61,3 +61,4 @@ Every rule and principle added to the primitives, with the date it was adopted. 
 | 30 Oct | (NC) added as Q6: a record's chance is F(⟨ψ\|E\|ψ⟩), one F for every record, so the Born weights follow; route (c)'s unravelling constant is a fixed field ("do as you recommend") | Reading I16 ruling |
 | 30 Oct | the grade "lead" renamed: "candidate" before a ruling, "needed" after; verdicts "LEAD …" become "SURVIVES …" (registered files keep the original wording) (Allen: "you make the edits please") | Reading I7 note |
 | 30 Oct | ε kept provisionally, pending T-I15c (a cuscuton-type covariant form; if none, ε = 0 in gravity recommended); T-I15a″ recorded as a reading; ζ₂ = 0 under R5 recorded ("do as recommended") | Readings I15, I15a |
+| 30 Oct | T-I15c recorded as a reading; the cuscuton route closed as scoped; ε stays provisional, with a khronometric completion's price α₁ ≈ −16ε (ε ≲ 2.5×10⁻⁶) recorded ("do as you recommend") | Reading I15b |

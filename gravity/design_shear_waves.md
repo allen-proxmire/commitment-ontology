@@ -259,3 +259,5 @@ The likeliest outcome is linearised GR on the relations, with GR's constraint st
 9. **Wording.**
    - Fierz & Pauli 1939 is the massive theory; massless uniqueness also needs Lorentz invariance (van Nieuwenhuizen 1973).
    - ONTOLOGY §7's wording is quoted correctly, and Runs 81 and 81b are stated as shown for longitudinal sound.
+
+*Note (30 October, Reading I15b §5, checked independently):* under option 3 with φ's stress, the static acceleration coefficient is α(N) = 2[1 − N²/(N+ε)²], with α∞ = 2ε(2+ε)/(1+ε)² ≈ 4ε, healthy in sign, and G_N = (1+ε)²G₀, matching Runs 52 and 66. So §8's "α ≈ 0" holds only at ε = 0. A khronometric completion then has α₁ ≈ −16ε, needing ε ≲ 2.5×10⁻⁶.
