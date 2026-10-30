@@ -23,7 +23,7 @@ f(P)=c\,\ln\!\Big(1+\frac{P}{p_s}\Big),
 $$
 linear below the crossover p_s, comparing ratios above it. Far from matter the medium holds P∞ per place. Chosen to give β = 1.
 
-*Amended 30 October (Reading I18b, choice C):* beyond first order, above a stated low-P cutoff p_c, the outflow is a pure logarithm, f = A + B ln P, so that R3's field, R2's clock and R11's P = P∞n hold together at all orders. p_c and B are open.
+*Amended 30 October (Reading I18b, choice C):* beyond first order, above a stated low-P cutoff p_c, the outflow is a pure logarithm, f = A + B ln P, so that R3's field, R2's clock and R11's P = P∞n hold together at all orders. Stated (30 October, Reading I18c): f = 0.99P below p_c, a smooth join, B = 0.99 p_c, A = 0.99 p_c(1 − ln p_c), with p_c ≡ (1/p_s + 1/P∞)⁻¹; the logarithm is the medium's equation of state. R5's g is then 0 above p_c, and the engine's hop is h = p_c.
 
 **R2. The presence clock** (added, provisional). A commitment holds until the possibility present at its places, summed over ticks, reaches a fixed amount, so a clock runs at
 $$
@@ -42,7 +42,7 @@ $$
 $$
 d=T\,(1+g),\qquad T=(e+3p)\,N\sqrt\gamma,\qquad g\approx\frac{p_s}{P}.
 $$
-A pattern's energy draws; stress pulls with weight 1 per direction (borrowed, the Lorentz input); a body is in exact hydrostatic balance, N h(n) = μ̃. **The undisturbed vacuum draws nothing**: energy is measured from it, so quantum field theory's vacuum energy never enters gravity, and Λ is taken from data.
+A pattern's energy draws; stress pulls with weight 1 per direction (borrowed, the Lorentz input); a body is in exact hydrostatic balance, N h(n) = μ̃. **The undisturbed vacuum draws nothing**: energy is measured from it, so quantum field theory's vacuum energy never enters gravity, and Λ is taken from data. *(30 October, Reading I18c: under amended R1, g = 0 above p_c in mean field; results resting on g ≈ p_s/P belong to the original R1.)*
 
 **R6. The pattern rule** (added, provisional). A pattern hops on its place's ticks and needs free capacity there, so light's coordinate speed is N² and γ = 1. Massive patterns obey
 $$
@@ -61,7 +61,7 @@ That φ's stress, not U's, curves γ̃ is an added choice: with U's, β = 1 exac
 
 **R10. Rotation** (added, provisional). Frame dragging is possibility's own circulating flow, so the medium's clock is the zero-angular-momentum frame's lapse; spinning holes are Kerr outside (exactly, with ε = 0 in gravity). This interprets an input; the rules do not imply it.
 
-**R11. Black holes** (added; GR's exterior for mergers borrowed; re-ruled 30 October, Reading I17). With ε = 0 in gravity, holes are GR's: a horizon, Hawking evaporation. Infalling matter's commitment relabels it as a record and does not hold it; possibility runs out at r = 2m, and the 2p_s surface sits about 8mε_med² outside it (ε_med = p_s/P∞, a medium quantity). The earlier core at 3m, the throat and horn, and "no horizon, no evaporation" are withdrawn.
+**R11. Black holes** (added; GR's exterior for mergers borrowed; re-ruled 30 October, Reading I17). With ε = 0 in gravity, holes are GR's: a horizon, Hawking evaporation. Infalling matter's commitment relabels it as a record and does not hold it; possibility runs out at r = 2m, and the 2p_s surface sits about 8mε_med² outside it (ε_med = p_s/P∞, a medium quantity). The earlier core at 3m, the throat and horn, and "no horizon, no evaporation" are withdrawn. *(30 October, Reading I18c: read 2p_s as 2p_c and ε_med as ε_c = p_c/P∞; below p_c, in the shell n < ε_c, which rule gives way is open.)*
 
 **ε in gravity is zero** (ruled 30 October, after T-I15d). The medium's scale does not enter the metric: outside matter it is GR's, and the medium is read as a slicing condition. CO's preferred-time completions bound ε ≲ 10⁻⁹ (α₂, pulsars) and 1.3×10⁻⁷ (GW170817), where its gravity departures are unobservable. p_s and P∞ keep their roles in clocks and the quantum sector. R9's choice of φ's stress becomes empty (φ = U), and R11's statements are to be re-read under this.
 
@@ -103,7 +103,7 @@ The rate is zero for light, which commits only through route (a). Every massive 
 | Q4 GRW-type symmetrisation | added | an open window (without it, it closes) |
 | amplitudes √P with phases; the singlet | borrowed; input | the state structure; entangled pairs |
 | P∞/p_s: no longer bounded by gravity (ε = 0 in gravity, 30 October); the earlier bounds (pulsar triple ≳ 1.6×10⁵; with a preferred time ≳ 4×10⁵, 7.7×10⁶, 1.25×10⁹) are what forced it | — | — |
-| p_s ≳ 4×10⁵ per place; the hop (P∞ ≳ 6.4×10¹⁰ was p_s's bound times the pulsar-triple ratio and lapsed with ε = 0 in gravity, 30 October) | from data and the engine; conditional since Reading I6 (physical clocks do not dip themselves). No upper bound on p_s from gravity (Reading I11's p_s ≲ 1.1×10³⁰/a rested on the pulsar-triple ratio and lapsed, 30 October); route (b) gives a·P∞ ≳ 2.5–5×10²⁷ | clocks agreeing to 10⁻⁶ |
+| p_s (read as p_c ≡ (1/p_s + 1/P∞)⁻¹ under amended R1) ≳ 4×10⁵ per place, or ≳ 8×10⁴ if Runs 23–24 carry through B (to be decided by a rerun); p_c < P∞ ≲ 1.78×10³⁵/a (Reading I18c); the hop h = p_c (P∞ ≳ 6.4×10¹⁰ was p_s's bound times the pulsar-triple ratio and lapsed with ε = 0 in gravity, 30 October) | from data and the engine; conditional since Reading I6 (physical clocks do not dip themselves). No upper bound on p_s from gravity (Reading I11's p_s ≲ 1.1×10³⁰/a rested on the pulsar-triple ratio and lapsed, 30 October); route (b) gives a·P∞ ≳ 2.5–5×10²⁷ | clocks agreeing to 10⁻⁶ |
 | r_C, κ_b | bounded by data | 0.09 μm ≲ r_C ≲ 51 μm |
 | G, c, ħ, Λ | measured | strengths and scales |
 

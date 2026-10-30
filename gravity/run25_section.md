@@ -58,3 +58,5 @@ $$
 - **The claim "Nordtvedt is met" is withdrawn as stated.** What Run 25 shows is that the β contribution to η_N is within lunar ranging's bound at $P_0/p_s$ = 4096.
 
 ![Run 25](../figures/25_closing.png)
+
+*Note (30 October, Reading I18c):* R1 is amended beyond first order (a pure logarithm above p_c ≡ (1/p_s + 1/P∞)⁻¹, joined smoothly to f = 0.99P below). Results here that rest on g ≈ p_s/P, or on R1's curvature above the crossover, belong to the original R1; most had already lapsed as gravity results with ε = 0 in gravity. Where p_s sets a scale, read p_c.

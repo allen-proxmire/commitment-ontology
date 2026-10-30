@@ -120,3 +120,5 @@ $$
 3. **The surface-record deposit (option a):** a threshold-surface saturation record deposits the draw E_TK of the units its ∂Π̂ layer reaches, at the recorded surface position, smeared at r_C; the unravelling has c = 1 in a saturated bulk and 0 outside. Run 96's floor can only fall, by a few per cent at most.
 
 *Note (30 October, after Reading I18's check):* the upper bound p_s ≲ 1.1×10³⁰/a (and the β-based 4×10³¹/a) rested on the pulsar-triple ratio, a bound on ε in the metric, and lapses with ε = 0 in gravity; p_s is now bounded only below.
+
+*Note (30 October, Reading I18c):* R1 is amended beyond first order (a pure logarithm above p_c ≡ (1/p_s + 1/P∞)⁻¹, joined smoothly to f = 0.99P below). Results here that rest on g ≈ p_s/P, or on R1's curvature above the crossover, belong to the original R1; most had already lapsed as gravity results with ε = 0 in gravity. Where p_s sets a scale, read p_c.

@@ -14,7 +14,7 @@ Each result with how the ontology gets it and the runs behind it. **Derived** me
 | light bending and Shapiro delay, γ = 1 | chosen (the pattern rule) | 9, 17, 46 |
 | Mercury's perihelion, β = 1; two wells multiply | chosen (the medium and clock) | 22–26 |
 | binary-pulsar energy loss, 0.98 of GR | chosen (relations shear; fixed in advance) | 11b |
-| clocks of different design agree; ζ₂; the pulsar triple | scales set by data (p_s ≳ 4×10⁵ conditional since Reading I6) | 23, 24, 30, 45, 48, 55, 57, 66 |
+| clocks of different design agree; ζ₂; the pulsar triple (the latter two lapsed with ε = 0; the clock bound reads p_c under amended R1, Reading I18c) | scales set by data (p_s ≳ 4×10⁵ conditional since Reading I6) | 23, 24, 30, 45, 48, 55, 57, 66 |
 | composite bodies fall alike (MICROSCOPE) | borrowed (twist across ticks, plus the full pattern rule) | 18, 18b, 46–48, 52, 54 |
 | at weak field a bound system pulls by its total energy | chosen (pattern energy draws) and borrowed (momentum flux draws) | 36, 40c |
 | α₁, α₃, frame dragging, the Earth–Moon test | borrowed (the Lorentz input) | 34 |

@@ -90,3 +90,5 @@ $$
    - The engine's medium would need possibility to move on curved (sheared) space with a clock linear in P. The logarithmic medium that gave β = 1 (Candidate A′) and the reason for p_s would need re-deriving.
    - None of the registered grounds for going back is triggered.
 5. **Going back stays open.** Every run whose CO numbers change is listed above, and their option-1 results remain in the record as they were.
+
+*Note (30 October, Reading I18c):* R1 is amended beyond first order (a pure logarithm above p_c ≡ (1/p_s + 1/P∞)⁻¹, joined smoothly to f = 0.99P below). Results here that rest on g ≈ p_s/P, or on R1's curvature above the crossover, belong to the original R1; most had already lapsed as gravity results with ε = 0 in gravity. Where p_s sets a scale, read p_c.

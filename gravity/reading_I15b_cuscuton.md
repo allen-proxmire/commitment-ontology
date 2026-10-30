@@ -160,3 +160,5 @@ $$
 *Ruled 30 October (Allen: "do as you recommend"): recorded as a reading; the cuscuton route is closed as scoped; ε stays provisional, now with the preferred-frame price of §5.*
 
 *Note (30 October, T-I15d):* for the lapse-coupled completion (α_E = 0 member) α₁ = −4α∞ and α₂ = 2ε[ε − λ_E(1−ε)]/[λ_E(1+ε)²] ≈ −2ε exactly; the khronometric completion here has the same off-strip α₂ ≈ −2ε. Under the pulsar α̂₂ bound both give ε ≲ 8×10⁻¹⁰ untuned; the lapse-coupled one also has γ_GW − γ_EM = −2ε/(1+ε), so ε ≲ 1.3×10⁻⁷ from GW170817 (`test_I15d_section.md`).
+
+*Note (30 October, Reading I18c):* R1 is amended beyond first order (a pure logarithm above p_c ≡ (1/p_s + 1/P∞)⁻¹, joined smoothly to f = 0.99P below). Results here that rest on g ≈ p_s/P, or on R1's curvature above the crossover, belong to the original R1; most had already lapsed as gravity results with ε = 0 in gravity. Where p_s sets a scale, read p_c.
