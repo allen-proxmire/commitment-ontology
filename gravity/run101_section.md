@@ -52,3 +52,5 @@ This is the Poincaré relation, [K, H] = P, imposed through the boost relation {
 - **Relativity for matter on the lattice follows from the borrowed boost relation,** not from CO's primitives.
 - **CO's standing gravity cannot simply have matter added with gravity held fixed** (not found from three starts). With Run 90's gravity free, matter and gravity close together and both stay relativistic.
 - **Whether Run 91's full gravity can make room for matter is open:** the joint closure in Run 91's full system (Run 102, planned).
+
+*Note (30 October): Run 102 found the joint closure in Run 91's full system: EXISTS (`run102_section.md`).*
