@@ -93,7 +93,7 @@ The rate is zero for light, which commits only through route (a). Every massive 
 | R8 point particles, shear of relations | added | orbits; binary-pulsar radiation |
 | R9 φ's stress curves space | added | β − 1 = −ε/[2(1 + ε)] |
 | R10 rotation (provisional), R11 the core | added | Kerr outside spinning holes; no singularity, no evaporation |
-| R7 twist (provisional), R8 Lorentz input and inertia = total energy, R9 option 3, GR's exterior for mergers, matter's masses and nuclear equations of state | borrowed | composite free fall; frame dragging; stars and holes as GR's; mergers |
+| R7 twist (provisional), R8 Lorentz input and inertia = total energy, R9 option 3, GR's exterior for mergers, the boost relation and GR's constraint algebra (Runs 85–91, 101–102), matter's masses and nuclear equations of state | borrowed | composite free fall; frame dragging; stars and holes as GR's; mergers |
 | Q1–Q5 the quantum rules | added | gravity only from records; the quantum window |
 | Q6 noncontextual reading | added | the Born weights |
 | Q4 GRW-type symmetrisation | added | an open window (without it, it closes) |
@@ -106,7 +106,7 @@ The rate is zero for light, which commits only through route (a). Every massive 
 ## Open
 
 - How space curves, from the primitives (replacing R9).
-- What fixes p_s, P∞ and ε; the hop's size (the engine needs about 10^2.5–10³ Planck lengths).
+- What fixes p_s, P∞ and ε; whether ε has a covariant form (Reading I15a: at weak field it needs a ghost, an unusual scalar sector or a TeVeS-type coupling; a cuscuton-type form is being tested, T-I15c); the hop's size (the engine needs about 10^2.5–10³ Planck lengths).
 - What fixes r_C and κ_b; whether commitment depends on internal complexity; whether one-way commitment forces Q6 (Reading I16: it does not, as the record stands).
 - Rotation from the engine's own flow; the core's quantum state; black-hole thermodynamics without evaporation.
 - Field order 3 of the relations' constraint algebra, where Regge's symmetry is expected to break.

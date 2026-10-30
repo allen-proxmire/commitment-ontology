@@ -15,6 +15,13 @@ Write-ups of the lattice runs (11b–91) and the design notes. Runs 1–11 are w
 | [`design_spherical_lattice.md`](design_spherical_lattice.md) | a spherical lattice for a hole, under two readings of how space curves |
 | [`design_shear_waves.md`](design_shear_waves.md) | Note H: can the relations carry a two-way shear wave? |
 
+## Readings
+
+| file | contents |
+|---|---|
+| [`reading_I15_borrowed_inputs.md`](reading_I15_borrowed_inputs.md) | Reading I15: most borrowed inputs are one cluster (Lorentz invariance and GR's form), which one principle, path independence (no global now), would cover through Hojman–Kuchař–Teitelboim; it does not follow from CO's definition of time; ζ₂ = 0 under R5; ε kept provisionally |
+| [`reading_I15a_covariant_completion.md`](reading_I15a_covariant_completion.md) | Reading I15a: CO's exterior is not lapse-only; at weak field, ε ≠ 0 needs a ghost, an unusual scalar sector or a TeVeS-type coupling (ghost-free scalars and gauge fields obey NEC_r − 3E_A ≥ 0, which CO violates by 12εM²) |
+
 ## Runs
 
 - [`run11b_section.md`](run11b_section.md)
