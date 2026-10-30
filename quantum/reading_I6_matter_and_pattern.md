@@ -137,3 +137,5 @@ Accepted: §2's rulings as stated, §5's list of changes, and §6's window as Ru
 - A. Tilloy, arXiv:1709.03809 (2018); A. Tilloy and L. Diósi, *Phys. Rev. D* 93, 024026 (2016).
 - L. Hackermüller et al., *Nature* 427, 711 (2004); K. Hornberger et al., *Phys. Rev. Lett.* 90, 160401 (2003).
 - S. Vagnozzi, arXiv:2105.10425 (2021).
+
+*Note (30 October): P∞ ≳ 6.4×10¹⁰ was p_s's bound times the pulsar triple's ratio bound; with ε = 0 in gravity the ratio bound and this figure lapse (Reading I17). What remains is p_s ≳ 4×10⁵ (conditional), p_s ≲ 1.1×10³⁰/a, and Run 96's a·P∞ ≳ 5.25×10²⁶ from route (b).*

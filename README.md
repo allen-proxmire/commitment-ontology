@@ -14,7 +14,7 @@ The world is made of **commitments**: irreversible updates at places. Time at a 
 | quantum sector: amplitudes with phases; the singlet state | borrowed; input |
 | quantum sector: the Born weights, from a noncontextual reading of records (Q6) | added principle |
 | the engine: a cubic lattice, one global hop rate; for waves, a constructed triangulated carrier | engine choices |
-| p_s, P∞ (P∞/p_s ≳ 1.6×10⁵ from the pulsar triple; p_s ≳ 4×10⁵ conditional since Reading I6), the hop, r_C and κ_b, G, c, ħ, Λ | set or bounded by data |
+| p_s, P∞ (p_s ≳ 4×10⁵ conditional since Reading I6; P∞/p_s unbounded by gravity since ε = 0), the hop, r_C and κ_b, G, c, ħ, Λ | set or bounded by data |
 
 | comes out | how |
 |---|---|
@@ -29,7 +29,7 @@ The full list, with what each input buys and its history, is in [`record/ONTOLOG
 - **Gravity's weak field** follows from counting commitments: Newton's law, unscreened and linear, the redshift, and patterns falling at the same rate for every mass.
 - **The post-Newtonian tests pass** (γ = β = 1, binary-pulsar radiation), but by rules chosen for them, not derived.
 - **Waves on the relations:** on a constructed triangulated lattice, the relations carry exactly GR's two polarisations at light's speed (with a second factor of N in their ticking). GR's constraint algebra closes through field order 2 at order a², and that closure forces the waves to stay relativistic. It is one formal closure, imposed, not derived.
-- **Black holes:** no singularity, no event horizon, no evaporation. Infalling matter commits at areal radius 3m (this rests on option 3 and a chosen threshold; to be re-read with ε = 0 in gravity).
+- **Black holes are GR's** (ruled 30 October, Reading I17): a horizon and Hawking evaporation. The earlier "no singularity, no horizon, no evaporation" and the core at 3m came from ε in the metric and are withdrawn.
 - **Gravity outside matter is GR's** (ruled 30 October). CO's departures from GR were set by ε = p_s/P∞; CO's own preferred-time completions bound ε below about 10⁻⁹ (pulsar α₂) and 1.3×10⁻⁷ (GW170817), so ε is set to zero in gravity and the strong-equivalence prediction Δ = εC/(1 + ε) is withdrawn.
 - **The quantum vacuum's energy does not pull** (a rule: energy is measured from the undisturbed vacuum), so the old cosmological-constant problem does not arise. Λ itself is taken from data.
 - **The quantum sector:** a solid's gravity is laid down only by matter's own slow commitments. That leaves a window for the collapse length, **0.09 μm ≲ r_C ≲ 51 μm**. The rate lies above LISA Pathfinder's gravity-noise floor (with an assumed housing) and below SNO's deuteron break-up (r_C < 0.92 μm) or intergalactic-gas heating (above). It rests on GRW-type symmetrisation, an added choice: without it the window closes. The window is a registration, not a test that could have failed. Gravity cannot entangle masses.
@@ -43,8 +43,6 @@ Every result, with its status and the runs behind it: [`RESULTS.md`](RESULTS.md)
 
 - A short-range gravity test that sees no smearing of solids' gravity down to 0.09 μm, or a LISA-type test mass about 3.5×10³ quieter. Either closes the quantum window.
 - Gravitationally mediated entanglement between masses.
-- Black-hole echoes, or evaporation.
-- A strong-equivalence violation in compact stars with the opposite sign (Δ < 0).
 
 ## Open targets
 

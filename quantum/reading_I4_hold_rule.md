@@ -191,3 +191,5 @@ $$
 5. **What sets r_C stays open.**
 6. **I4 is not registered** until a rule fixes r_C. Its bound on P∞ (§3, the S-i table) is arithmetic on Run 92's window.
 7. **A pattern's phase is turned by the time-averaged count,** not the live count (§6; a ruling on Note I's A4).
+
+*Note (30 October): P∞ ≳ 6.4×10¹⁰ was p_s's bound times the pulsar triple's ratio bound; with ε = 0 in gravity the ratio bound and this figure lapse (Reading I17). What remains is p_s ≳ 4×10⁵ (conditional), p_s ≲ 1.1×10³⁰/a, and Run 96's a·P∞ ≳ 5.25×10²⁶ from route (b).*

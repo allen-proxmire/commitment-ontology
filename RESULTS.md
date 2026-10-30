@@ -26,19 +26,19 @@ Each result with how the ontology gets it and the runs behind it. **Derived** me
 | result | status | runs |
 |---|---|---|
 | CO's static field equation is GR's equation for the clock rate; CO differed only in how space curves | shown (a calculation) | 65 |
-| static stars and holes as GR's, to O(ε) | borrowed (option 3) | 65–67 |
+| static stars and holes as GR's (exactly, with ε = 0 in gravity) | borrowed (option 3) | 65–67 |
 | spinning holes are Kerr outside | chosen (rotation as possibility's flow) | 69 |
 | binary-black-hole inspirals and mergers | borrowed (GR's exterior) | 63 |
 | a hole's clock stops just outside GR's horizon, at a cold surface; no event horizon | follows from option 3 | 67 |
-| infalling matter commits before it can turn back, at areal radius 3m | chosen (commit at 2p_s) | 71, 73, 74 |
-| no echoes; no evaporation: Hawking's flux only as a brief transient; then one flash and silence for a cold core, or a faint negative tail for a continued state | computed under option 3 and the core; stability ruled | 43, 68, 71, 74 |
+| ~~infalling matter commits before it can turn back, at areal radius 3m~~ — withdrawn with ε = 0 (Reading I17) | chosen (commit at 2p_s) | 71, 73, 74 |
+| ~~no echoes; no evaporation~~ — withdrawn with ε = 0: holes are GR's (Reading I17) | computed under option 3 and the core; stability ruled | 43, 68, 71, 74 |
 
 ## Where CO differs from GR (not yet tested)
 
 | claim | depends on |
 |---|---|
 | ~~compact stars break the strong equivalence principle: Δ = εC/(1 + ε) > 0~~; ~~β − 1 = −ε/[2(1 + ε)]~~ — withdrawn: ε = 0 in gravity (30 October; T-I15d bounds ε ≲ 10⁻⁹) | — |
-| no singularity, no event horizon, no evaporation | option 3; the 2p_s threshold; to be re-read with ε = 0 in gravity |
+| ~~no singularity, no event horizon, no evaporation~~ — withdrawn (Reading I17) | — |
 | the quantum vacuum's energy does not pull; Λ is an input | R5 |
 | time's direction is fundamental; averaged laws hide it | the one-way bottom (Runs 29, 35, 37, 81, 81b) |
 

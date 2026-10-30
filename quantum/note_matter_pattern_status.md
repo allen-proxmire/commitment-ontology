@@ -120,3 +120,5 @@ $$
 
 ### Checks
 `checkI6/`–`checkI6f/` (Reading I6's drafts), `checkGamma/`, `checkGamma2/`, `checkRod/`, `checkSym/`, `checkXray/`, `checkXray2/`, `checkFloor/`, all REPORT.md; the working draft's earlier versions are in `readingI6/superseded/`.
+
+*Note (30 October): P∞ ≳ 6.4×10¹⁰ was p_s's bound times the pulsar triple's ratio bound; with ε = 0 in gravity the ratio bound and this figure lapse (Reading I17). What remains is p_s ≳ 4×10⁵ (conditional), p_s ≲ 1.1×10³⁰/a, and Run 96's a·P∞ ≳ 5.25×10²⁶ from route (b).*

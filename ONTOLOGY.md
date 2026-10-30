@@ -57,9 +57,9 @@ ds^2=-N^2dt^2+N^{-2}\tilde\gamma_{ij}dx^idx^j,\qquad \tilde R_{ij}=2\,\partial_i
 $$
 That φ's stress, not U's, curves γ̃ is an added choice: with U's, β = 1 exactly. ε sets every static departure from GR. Deriving this rule from the primitives is the main open problem.
 
-**R10. Rotation** (added, provisional). Frame dragging is possibility's own circulating flow, so the medium's clock is the zero-angular-momentum frame's lapse; spinning holes are Kerr outside, to O(ε/α). This interprets an input; the rules do not imply it.
+**R10. Rotation** (added, provisional). Frame dragging is possibility's own circulating flow, so the medium's clock is the zero-angular-momentum frame's lapse; spinning holes are Kerr outside (exactly, with ε = 0 in gravity). This interprets an input; the rules do not imply it.
 
-**R11. Black holes** (added; GR's exterior for mergers borrowed). Infalling matter commits where the medium's possibility falls to 2p_s, before any causal matter can turn back; the core absorbs what reaches it, at areal radius 3m. Holes are stable.
+**R11. Black holes** (added; GR's exterior for mergers borrowed; re-ruled 30 October, Reading I17). With ε = 0 in gravity, holes are GR's: a horizon, Hawking evaporation. Infalling matter's commitment relabels it as a record and does not hold it; possibility runs out at r = 2m, and the 2p_s surface sits about 8mε_med² outside it (ε_med = p_s/P∞, a medium quantity). The earlier core at 3m, the throat and horn, and "no horizon, no evaporation" are withdrawn.
 
 **ε in gravity is zero** (ruled 30 October, after T-I15d). The medium's scale does not enter the metric: outside matter it is GR's, and the medium is read as a slicing condition. CO's preferred-time completions bound ε ≲ 10⁻⁹ (α₂, pulsars) and 1.3×10⁻⁷ (GW170817), where its gravity departures are unobservable. p_s and P∞ keep their roles in clocks and the quantum sector. R9's choice of φ's stress becomes empty (φ = U), and R11's statements are to be re-read under this.
 
@@ -94,14 +94,14 @@ The rate is zero for light, which commits only through route (a). Every massive 
 | R6 pattern rule | added, provisional | γ = 1; quantum matter falls as in GR |
 | R8 point particles, shear of relations | added | orbits; binary-pulsar radiation |
 | R9 φ's stress curves space | added | β − 1 = −ε/[2(1 + ε)] |
-| R10 rotation (provisional), R11 the core | added | Kerr outside spinning holes; no singularity, no evaporation |
+| R10 rotation (provisional), R11 commitment in holes | added | Kerr outside spinning holes; holes as GR's (Reading I17) |
 | R7 twist (provisional), R8 Lorentz input and inertia = total energy, R9 option 3, GR's exterior for mergers, the boost relation and GR's constraint algebra (Runs 85–91, 101–102), matter's masses and nuclear equations of state | borrowed | composite free fall; frame dragging; stars and holes as GR's; mergers |
 | Q1–Q5 the quantum rules | added | gravity only from records; the quantum window |
 | Q6 noncontextual reading | added | the Born weights |
 | Q4 GRW-type symmetrisation | added | an open window (without it, it closes) |
 | amplitudes √P with phases; the singlet | borrowed; input | the state structure; entangled pairs |
-| P∞/p_s ≳ 1.6–1.9×10⁵ (pulsar triple); with the preferred time completed: ≳ 4×10⁵ (α₁), ≳ 7.7×10⁶ (GW170817 two-cone timing, lapse-coupled completion), ≳ 1.25×10⁹ (pulsar α̂₂, untuned) | from data | the pulsar triple; preferred-frame α₁, α₂ (Reading I15b, T-I15d) |
-| p_s ≳ 4×10⁵ per place; P∞ ≳ 6.4×10¹⁰; the hop | from data and the engine; conditional since Reading I6 (physical clocks do not dip themselves). Upper bound p_s ≲ 1.1×10³⁰/a only, through P∞ (Reading I11) | clocks agreeing to 10⁻⁶ |
+| P∞/p_s: no longer bounded by gravity (ε = 0 in gravity, 30 October); the earlier bounds (pulsar triple ≳ 1.6×10⁵; with a preferred time ≳ 4×10⁵, 7.7×10⁶, 1.25×10⁹) are what forced it | — | — |
+| p_s ≳ 4×10⁵ per place; the hop (P∞ ≳ 6.4×10¹⁰ was p_s's bound times the pulsar-triple ratio and lapsed with ε = 0 in gravity, 30 October) | from data and the engine; conditional since Reading I6 (physical clocks do not dip themselves). Upper bound p_s ≲ 1.1×10³⁰/a only, through P∞ (Reading I11) | clocks agreeing to 10⁻⁶ |
 | r_C, κ_b | bounded by data | 0.09 μm ≲ r_C ≲ 51 μm |
 | G, c, ħ, Λ | measured | strengths and scales |
 
@@ -110,7 +110,7 @@ The rate is zero for light, which commits only through route (a). Every massive 
 - How space curves, from the primitives (replacing R9).
 - What fixes p_s, P∞ and ε; whether ε has a covariant form (Reading I15a: at weak field it needs a ghost, an unusual scalar sector or a TeVeS-type coupling; a cuscuton-type form is being tested, T-I15c); the hop's size (the engine needs about 10^2.5–10³ Planck lengths).
 - What fixes r_C and κ_b; whether commitment depends on internal complexity; whether one-way commitment forces Q6 (Reading I16: it does not, as the record stands).
-- Rotation from the engine's own flow; the core's quantum state; black-hole thermodynamics without evaporation.
+- Rotation from the engine's own flow; the core's quantum state; what commitment does in a collapse (Reading I17: a registered collapse under maximal slicing).
 - Field order 3 of the relations' constraint algebra, where Regge's symmetry is expected to break.
 - What sources Λ; where three dimensions come from; why the beginning starts to commit.
 - Whether any added rule can be derived from the others, so the list of inputs shrinks.

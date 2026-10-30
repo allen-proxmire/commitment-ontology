@@ -204,3 +204,5 @@ Run 84's s⁴ term with the GWTC-3 bound |A₄| ≲ 2.7×10³ eV⁻² (90%; valu
 - MAGIC Collaboration, *Phys. Rev. Lett.* 125, 021301 (2020); [arXiv:2001.09728](https://arxiv.org/abs/2001.09728) (quotes H.E.S.S. Mrk 501). H.E.S.S. (A. Abramowski et al.), *Astropart. Phys.* 34, 738 (2011); [arXiv:1101.3650](https://arxiv.org/abs/1101.3650). Normalisations not re-verified.
 - LIGO–Virgo–KAGRA, [arXiv:2112.06861](https://arxiv.org/abs/2112.06861); rescaled in [arXiv:2511.00497](https://arxiv.org/abs/2511.00497). Not re-verified.
 - Fly's Eye (Bird et al. 1995); Telescope Array "Amaterasu" (*Science* 382, 903, 2023); LHAASO Crab (*Science* 373, 425, 2021).
+
+*Note (30 October): P∞ ≳ 6.4×10¹⁰ was p_s's bound times the pulsar triple's ratio bound; with ε = 0 in gravity the ratio bound and this figure lapse (Reading I17). What remains is p_s ≳ 4×10⁵ (conditional), p_s ≲ 1.1×10³⁰/a, and Run 96's a·P∞ ≳ 5.25×10²⁶ from route (b).*

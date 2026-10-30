@@ -140,3 +140,5 @@ Note I §7 records a consistency window 6.4×10¹⁰ ≲ P∞ ≲ 7.7×10¹³ un
 6. **Recorded in Note I §7:** the hypothetical threshold window (P∞ ≲ 7.7×10¹³) cannot share P∞ with route (b), which needs a·P∞ ≳ 3.7×10²⁴ (10–12 decades apart); and W bounds a·P∞ above at about 4×10⁹².
 
 So I4 stays unregistered (its ruling 6), and route (b) keeps two parameters, κ_b = 1/(aP∞) and r_C.
+
+*Note (30 October): P∞ ≳ 6.4×10¹⁰ was p_s's bound times the pulsar triple's ratio bound; with ε = 0 in gravity the ratio bound and this figure lapse (Reading I17). What remains is p_s ≳ 4×10⁵ (conditional), p_s ≲ 1.1×10³⁰/a, and Run 96's a·P∞ ≳ 5.25×10²⁶ from route (b).*

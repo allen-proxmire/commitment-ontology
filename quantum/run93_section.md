@@ -110,3 +110,5 @@ $$
 - the gas self-gravity bound, registered as B15 (core leg, A ≥ 0.2, under G1), with its virial factor and threshold checked first; *done in Run 94 (27 October): K94 PASS, κ_b ≲ 4.2×10⁻²⁸ well above a core's radius, with the cross-sections corrected to the total ones (about 6× the draft's);*
 - Singh et al.'s composition contrast;
 - `B14_q7` for 'com' in later runs. *Done in Run 94.*
+
+*Note (30 October): P∞ ≳ 6.4×10¹⁰ was p_s's bound times the pulsar triple's ratio bound; with ε = 0 in gravity the ratio bound and this figure lapse (Reading I17). What remains is p_s ≳ 4×10⁵ (conditional), p_s ≲ 1.1×10³⁰/a, and Run 96's a·P∞ ≳ 5.25×10²⁶ from route (b).*

@@ -124,3 +124,5 @@ Pointer notes in Reading I5 (§6–§8) and Note I §10 that Run 96 supersedes n
 - `band.py`, `band.log`, with `model92.py`, `model93.py`, `model94.py` and `model96.py` (Run 96's registered files, unchanged).
 - `reading_I7_C1_statement.md`.
 - The check: `checkI7/REPORT.md`, `check_band.py`, `prefactor.py` and their logs.
+
+*Note (30 October): P∞ ≳ 6.4×10¹⁰ was p_s's bound times the pulsar triple's ratio bound; with ε = 0 in gravity the ratio bound and this figure lapse (Reading I17). What remains is p_s ≳ 4×10⁵ (conditional), p_s ≲ 1.1×10³⁰/a, and Run 96's a·P∞ ≳ 5.25×10²⁶ from route (b).*

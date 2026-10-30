@@ -387,3 +387,5 @@ Choices 1, 3, 4 and 6 are left open.
 *Note (30 October, T-I15d):* the price of keeping ε is now computed for the lapse-coupled completion: α₂ ≈ −2ε gives ε ≲ 8×10⁻¹⁰ under the pulsar bound (registered reading EXCLUDED, below the 10⁻⁸ floor), and the two-cone bound gives 1.3×10⁻⁷. At such ε CO's gravity is observationally GR; only interior structure inside holes depends on ε. The ε ruling is open for review.
 
 **Ruling (30 October, after T-I15d; Allen: "do as you recommend").** ε = 0 in gravity, replacing the earlier ruling to keep it. Choice 2 becomes (i): the medium is a slicing condition, and HKT with universal coupling gives GR; R8's borrowed boost is exact. Choice 1 (PI-strong or PI-weak) is reopened, since ε no longer blocks PI-strong. R11's black-hole statements are to be re-read under ε = 0.
+
+*Note (30 October): P∞ ≳ 6.4×10¹⁰ was p_s's bound times the pulsar triple's ratio bound; with ε = 0 in gravity the ratio bound and this figure lapse (Reading I17). What remains is p_s ≳ 4×10⁵ (conditional), p_s ≲ 1.1×10³⁰/a, and Run 96's a·P∞ ≳ 5.25×10²⁶ from route (b).*
