@@ -381,3 +381,6 @@ Allen: "do as recommended."
 Choices 1, 3, 4 and 6 are left open.
 
 *Note (30 October, Readings I15a and I15b):* the cuscuton route is closed as scoped (I15b). CO's static sector is exactly N√h[R + α(N)aᵢaⁱ] with α(N) = 2[1 − N²/(N+ε)²], which a lapse-dependent field redefinition turns into GR: CO's exterior is GR with matter on a metric depending on the foliation's lapse. A khronometric completion with gravity waves at light speed gives α₁ = −4α∞ ≈ −16ε, so ε ≲ 2.5×10⁻⁶ (P∞/p_s ≳ 4×10⁵) from the pulsar bound Run 34 uses, and it conflicts with R8's borrowed α₁ = α₂ = 0 whenever ε ≠ 0; α₂ vanishes only on a tuned strip. ε stays provisional pending a ruling on that price.
+
+**Ruling (30 October; Allen: "do as you recommend").** CO keeps ε, with a preferred time: choice 1 is (ii), "no global now" for observables (PI-weak), and choice 2 is (iii), the medium keeps a preferred slicing. PI-strong is declined. R8's borrowed boost holds at zeroth order in ε; at first order a khronometric completion predicts α₁ = −4α∞ ≈ −16ε, so ε ≲ 2.5×10⁻⁶ (Run 34's pulsar bound). α₂ vanishes only on a tuned strip, λ ≈ 4ε. The lapse-coupled completion's α₁ and α₂ are to be computed in a registered test.
+

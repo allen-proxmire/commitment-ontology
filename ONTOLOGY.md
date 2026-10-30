@@ -49,7 +49,7 @@ $$
 
 **R7. Twist** (borrowed, provisional). Twist is charged on every closed loop of the history, ticks and relations priced alike. This is Lorentz invariance put in by hand; it makes a knot's inertia equal its energy. Particles are knots of commitment when twist lives on closed loops of relations that tile space as faces; building knots from the engine's own commitments is open.
 
-**R8. Motion and inertia.** Patterns ride the flow, g₀ᵢ = −uᵢ. A moving body's field is its boosted rest field (borrowed). Bodies move as point particles, action −m∫dτ (added). Inertia = total energy (borrowed). Relations shear, and only the shear radiates (added).
+**R8. Motion and inertia.** Patterns ride the flow, g₀ᵢ = −uᵢ. A moving body's field is its boosted rest field (borrowed, at zeroth order in ε; ruled 30 October, Reading I15b: CO keeps ε with a preferred time, so at first order a khronometric completion predicts α₁ ≈ −16ε instead of 0). Bodies move as point particles, action −m∫dτ (added). Inertia = total energy (borrowed). Relations shear, and only the shear radiates (added).
 
 **R9. Space** (borrowed, provisional: "option 3"). Binding tension curves the medium's space in GR's form. On that space, γ̃ = N²g,
 $$
@@ -98,7 +98,7 @@ The rate is zero for light, which commits only through route (a). Every massive 
 | Q6 noncontextual reading | added | the Born weights |
 | Q4 GRW-type symmetrisation | added | an open window (without it, it closes) |
 | amplitudes √P with phases; the singlet | borrowed; input | the state structure; entangled pairs |
-| P∞/p_s ≳ 1.6–1.9×10⁵ | from data | the pulsar triple |
+| P∞/p_s ≳ 1.6–1.9×10⁵; ≳ 4×10⁵ (ε ≲ 2.5×10⁻⁶) if the preferred time is completed khronometrically | from data | the pulsar triple; preferred-frame α₁ (Reading I15b) |
 | p_s ≳ 4×10⁵ per place; P∞ ≳ 6.4×10¹⁰; the hop | from data and the engine; conditional since Reading I6 (physical clocks do not dip themselves). Upper bound p_s ≲ 1.1×10³⁰/a only, through P∞ (Reading I11) | clocks agreeing to 10⁻⁶ |
 | r_C, κ_b | bounded by data | 0.09 μm ≲ r_C ≲ 51 μm |
 | G, c, ħ, Λ | measured | strengths and scales |
