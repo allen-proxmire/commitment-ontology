@@ -150,6 +150,13 @@ At every tested budget, three strands has the largest share of self-sustaining p
 
 **Allen (31 October): "nature picks the simplest."** On this reading the principle is a minimum principle: the simplest structure that can sustain itself. In the count, three strands is the fewest that can make a primitive, single-piece pattern.
 
+### Why three colours ("works" fixed first: each generation is neutral in total charge)
+With charges in thirds from three strands with unit twists (u: +2/3, d: −1/3, e: −1, ν: 0) and N colours per quark,
+$$N\Big(\tfrac23-\tfrac13\Big)-1+0=0\ \Longrightarrow\ N=3 .$$
+- **The braid supplies exactly three colours:** three places for the odd twist. So colour is not a separate input; it is the same 3 as the strands.
+- **Consistent with:** a neutral three-quark state (the proton, antisymmetric in three colours), and three identical quarks in one state (the Δ⁺⁺).
+- **Grade:** N = 3 from charge thirds and neutral generations is standard physics (anomaly cancellation). The reading, that families, colours and charge thirds all come from three strands, is CO's.
+
 ### What to expect at large budgets (heuristic, not checked)
 For long positive braids, three things are expected:
 - **The conditions become nearly automatic:** almost every long word uses every generator (unsplittable) and is not a power (primitive).
