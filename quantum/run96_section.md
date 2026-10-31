@@ -151,3 +151,5 @@ $$
   - Under κ_b = 1/(aP∞), a·P∞ ≳ 2.5–5×10²⁷.
 - **The relativistic variant** (kicks below the Compton scale; not used as primary) would bind from about 0.36 μm, with κ_top(cap) ≈ 3.9×10⁻²⁹ at 0.12 eV.
 - **Not affected:** K96 and the registered numbers stand as computed.
+
+*Note, 31 October (Reading I21): the window is confirmed against current data. No full-strength inverse-square test below 52 μm was located, so the cap stands. Levitated-particle and cantilever CSL bounds do not apply as collapse bounds, since GRW-type symmetrisation has no coherent gain. Every force sensor falls short of the per-nucleon heating cap, LISA Pathfinder by 4.2×10⁵ in power (B2).*

@@ -14,7 +14,7 @@ The world is made of **commitments**: irreversible updates at places. Time at a 
 | quantum sector: amplitudes with phases; the singlet state | borrowed; input |
 | quantum sector: the Born weights, from a noncontextual reading of records (Q6) | added principle |
 | the engine: a cubic lattice, one global hop rate; for waves, a constructed triangulated carrier | engine choices |
-| p_s, P∞ (p_s ≳ 4×10⁵ conditional since Reading I6; P∞/p_s unbounded by gravity since ε = 0), the hop, r_C and κ_b, G, c, ħ, Λ | set or bounded by data |
+| p_s, P∞ and their crossover p_c (p_c ≳ 8×10⁴ from clocks, conditional since Reading I6; P∞/p_s unbounded by gravity since ε = 0), the hop, r_C and κ_b, G, c, ħ, Λ | set or bounded by data |
 
 | comes out | how |
 |---|---|
@@ -32,7 +32,8 @@ The full list, with what each input buys and its history, is in [`record/ONTOLOG
 - **Black holes are GR's** (ruled 30 October, Reading I17): a horizon and Hawking evaporation. The earlier "no singularity, no horizon, no evaporation" and the core at 3m came from ε in the metric and are withdrawn.
 - **Gravity outside matter is GR's** (ruled 30 October). CO's departures from GR were set by ε = p_s/P∞; CO's own preferred-time completions bound ε below about 10⁻⁹ (pulsar α₂) and 1.3×10⁻⁷ (GW170817), so ε is set to zero in gravity and the strong-equivalence prediction Δ = εC/(1 + ε) is withdrawn.
 - **The quantum vacuum's energy does not pull** (a rule: energy is measured from the undisturbed vacuum), so the old cosmological-constant problem does not arise. Λ itself is taken from data.
-- **The quantum sector:** a solid's gravity is laid down only by matter's own slow commitments. That leaves a window for the collapse length, **0.09 μm ≲ r_C ≲ 51 μm**. The rate lies above LISA Pathfinder's gravity-noise floor (with an assumed housing) and below SNO's deuteron break-up (r_C < 0.92 μm) or intergalactic-gas heating (above). It rests on GRW-type symmetrisation, an added choice: without it the window closes. The window is a registration, not a test that could have failed. Gravity cannot entangle masses.
+- **The quantum sector:** a solid's gravity is laid down only by matter's own slow commitments. That leaves a window for the collapse length, **0.09 μm ≲ r_C ≲ 51 μm**. The rate lies above LISA Pathfinder's gravity-noise floor (with an assumed housing) and below SNO's deuteron break-up (r_C < 0.92 μm) or intergalactic-gas heating (above). It rests on GRW-type symmetrisation, an added choice: without it the window closes. The window is a registration, not a test that could have failed; it stands against current data (Reading I21). Gravity cannot entangle masses.
+- **Saturation** (route (c)) gives a definite onset map at laboratory densities once one number, the medium's crossover p_c, is fixed. Nothing inside or outside the record fixes it yet (Readings I19–I20); clocks bound it from below at about 8×10⁴.
 
 Every result, with its status and the runs behind it: [`RESULTS.md`](RESULTS.md).
 
@@ -51,7 +52,7 @@ These would move the ontology from reproducing physics to deriving it:
 - **What sets r_C and the commitment rate,** ideally one scale doing both jobs.
 - **Commitment set by internal complexity** rather than mass alone.
 - **The Born rule from the primitives,** not from the added noncontextual reading Q6.
-- **What sets p_s and P∞** in the clock and quantum sectors (ε is zero in gravity).
+- **What sets p_c** (and P∞) in the clock and quantum sectors (ε is zero in gravity); the species tie is the one outside candidate.
 - **The low-entropy beginning:** a fully in-step start as the only state with zero becoming.
 
 ## Map

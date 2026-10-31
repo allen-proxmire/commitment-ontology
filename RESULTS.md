@@ -14,7 +14,7 @@ Each result with how the ontology gets it and the runs behind it. **Derived** me
 | light bending and Shapiro delay, γ = 1 | chosen (the pattern rule) | 9, 17, 46 |
 | Mercury's perihelion, β = 1; two wells multiply | chosen (the medium and clock) | 22–26 |
 | binary-pulsar energy loss, 0.98 of GR | chosen (relations shear; fixed in advance) | 11b |
-| clocks of different design agree; ζ₂; the pulsar triple (the latter two lapsed with ε = 0; the clock bound reads p_c under amended R1, Reading I18c) | scales set by data (p_s ≳ 4×10⁵ conditional since Reading I6) | 23, 24, 30, 45, 48, 55, 57, 66 |
+| clocks of different design agree; ζ₂; the pulsar triple (the latter two lapsed with ε = 0; the clock bound reads p_c under amended R1, Reading I18c) | scales set by data (p_c ≳ 8×10⁴ since Run 105; conditional since Reading I6) | 23, 24, 30, 45, 48, 55, 57, 66, 104, 105 |
 | composite bodies fall alike (MICROSCOPE) | borrowed (twist across ticks, plus the full pattern rule) | 18, 18b, 46–48, 52, 54 |
 | at weak field a bound system pulls by its total energy | chosen (pattern energy draws) and borrowed (momentum flux draws) | 36, 40c |
 | α₁, α₃, frame dragging, the Earth–Moon test | borrowed (the Lorentz input) | 34 |
@@ -66,6 +66,8 @@ The algebra is imposed, not derived from the primitives. Field order 3 is untest
 | relativity for matter on CO's lattice follows from the borrowed boost relation (the Poincaré relation), not from the primitives; CO's standing gravity held fixed was not found to accept a matter field; with gravity free (Run 90's form, and Run 91's full field-order-2 system) matter and gravity close together and stay relativistic; Run 91's closure needs a large lapse coupling there, not shown necessary | restatement | 101, 102 |
 | uncertainty as a ledger: the information form is the entropic uncertainty relation; a bounded ledger (finitely many places) would give a minimal length, β₀ ≈ 10⁵–10⁶ on the engine's hop, in conditional tension with a phonon-cavity bound; route-(b) records saturate the error–disturbance bound | restatement; open direction | I12 |
 | relic-neutrino heating lowers the window's top at the cap to about 2×10⁻²⁸ (≲ 4×10⁻²⁸); still open by more than 10⁷ | post hoc, checked | 96 (addendum 2) |
+| the window against current data: no full-strength inverse-square test below 52 μm, so the cap stands; every force sensor falls short of route (b)'s per-nucleon heating (LISA Pathfinder by 4.2×10⁵ in power); CSL-type mechanical bounds do not apply under GRW-type symmetrisation | reading, checked | I21 |
+| saturation's crossover p_c, which sets the onset map and the engine's hop: nothing inside or outside the record fixes it. Bounds: 8×10⁴ (clocks) ≲ p_c ≲ 5.6×10²⁷aK² (interference wall). Candidates: the boost cap (≳ 10¹⁸–10²³); the species tie p_c = c_N N/(ka), with the Standard Model alone excluded | reading; candidates | I19, I20, 104, 105 |
 | CO's route (b) cannot run at GRW's textbook rate: at r_C = 0.1 μm, λ = 10⁻¹⁶ s⁻¹ per nucleon would need κ_b ≈ 7×10⁻⁴¹, far below the floor κ_b ≥ 5.6×10⁻³⁶ (λ = κ_b m_N c²/ħ ≥ 8×10⁻¹² s⁻¹; 5×10⁻¹² from the self term alone). Rarer commitments make gravity too grainy | an inference from Run 96, not part of its registration | 96 |
 | without GRW-type symmetrisation the window closes | sensitivity | 96 |
 | the two-place rule keeps Bell's S at 2√2 at every ordering, with no signal; rival rules fail | consistency check | 95 |
