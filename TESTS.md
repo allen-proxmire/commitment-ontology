@@ -1,4 +1,4 @@
-# What CO predicts
+# Tests: how CO could fail
 
 These are consistency windows and kill tests, not derived predictions. Only claims with a window and a kill test are listed. None is a number CO derives: each rests on CO's rules plus bounds from data.
 

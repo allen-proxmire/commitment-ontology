@@ -1,6 +1,6 @@
 # Archive
 
-The full record behind [`../README.md`](../README.md), [`../ONTOLOGY.md`](../ONTOLOGY.md) and [`../PREDICTIONS.md`](../PREDICTIONS.md). Nothing here needs reading to use those three documents. It is kept so every claim can be checked.
+The full record behind [`../README.md`](../README.md), [`../ONTOLOGY.md`](../ONTOLOGY.md) and [`../TESTS.md`](../TESTS.md). Nothing here needs reading to use those three documents. It is kept so every claim can be checked.
 
 | path | contents |
 |---|---|

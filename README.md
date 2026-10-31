@@ -37,7 +37,7 @@ The world is made of **commitments**: irreversible updates at places. Time at a 
   - CO's dynamics needs a preferred slicing at the discrete level, which no observable can see;
   - growth laws built on CO's units cannot produce a spacetime.
 
-**No number comes out that was not put in.** CO reproduces known physics; its testable claims are in [`PREDICTIONS.md`](PREDICTIONS.md).
+**No number comes out that was not put in.** CO reproduces known physics; the ways it could fail are in [`TESTS.md`](TESTS.md).
 
 ## What it is not
 
@@ -53,5 +53,5 @@ The world is made of **commitments**: irreversible updates at places. Time at a 
 | file | contents |
 |---|---|
 | [`ONTOLOGY.md`](ONTOLOGY.md) | the primitives, rules and inputs, each marked derived, added or borrowed; what CO shows; what was tried and failed; what is open |
-| [`PREDICTIONS.md`](PREDICTIONS.md) | what CO predicts, with formulas, windows and kill tests |
+| [`TESTS.md`](TESTS.md) | how CO could fail: consistency windows and kill tests, with formulas |
 | [`archive/`](archive/) | the full record: 105 runs, 23 readings, every ruling and check ([`archive/INDEX.md`](archive/INDEX.md)) |
