@@ -148,6 +148,8 @@ At every tested budget, three strands has the largest share of self-sustaining p
 - The shares for n = 3 and n = 4 are both still rising: 0.29 → 0.49 and 0.11 → 0.27. Whether four ever overtakes at large B is open; the ratio has fallen from 2.6 to about 1.8.
 - "Sustaining" means one piece, unsplittable and primitive. Nothing about dynamics or mass is included.
 
+**Allen (31 October): "nature picks the simplest."** On this reading the principle is a minimum principle: the simplest structure that can sustain itself. In the count, three strands is the fewest that can make a primitive, single-piece pattern.
+
 ### What to expect at large budgets (heuristic, not checked)
 For long positive braids, three things are expected:
 - **The conditions become nearly automatic:** almost every long word uses every generator (unsplittable) and is not a power (primitive).
