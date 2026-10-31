@@ -164,8 +164,24 @@ A three-strand twisted braid has three kinds of label, and each gives one kind o
 3. **Each strand's twist level:** with t ∈ {−1, 0, +1} and all non-zero twists of one sign, a one-unit step on every strand connects exactly two states (ν ↔ e, u ↔ d). Pairs give doublets: SU(2), the weak force.
 
 - **No fourth label.** Gravity is not a label change; it is the counting itself, the clock rate.
-- **Chirality from the arrow (a reading).** The whole-braid step is the full twist Δ² = (σ₁σ₂)³, which generates the centre of B₃. In the positive monoid only one handedness exists, because a full twist cannot be undone. So the weak change would be one-handed. ED's workbook records the weak force's chirality as underived (its ParityWall row).
+- **Chirality from the arrow (a reading; excluded as stated, see below).** The whole-braid step is the full twist Δ² = (σ₁σ₂)³, which generates the centre of B₃. In the positive monoid only one handedness exists, because a full twist cannot be undone. So the weak change would be one-handed. ED's workbook records the weak force's chirality as underived (its ParityWall row).
 - **Grade:** a reading. The label-to-group map follows Bilson-Thompson. No couplings, Higgs or W/Z masses come out of it. Exactly three independent changes, and the arrow making the weak one chiral, are CO's.
+
+### The chirality hook, pressed: excluded as stated
+**The facts it must give:**
+- the weak force acts only on left-handed particles (and right-handed antiparticles);
+- right-handed neutrinos are inert;
+- right-handed e, u and d still feel electromagnetism and colour.
+
+**Why it fails:**
+1. **"Only forward" read as "only added" makes weak processes one-way.** Both beta decay and inverse beta decay are observed, and so are electron capture and beta emission.
+2. **The only handedness label a positive three-strand braid has is its renewal orientation,** σ₁σ₂ or σ₂σ₁. The full twist is the same for both, since (σ₁σ₂)³ = (σ₂σ₁)³, so it cannot act on one handedness alone.
+3. **Bilson-Thompson's own assignment of chirality uses mixed-sign braids,** which the arrow forbids.
+4. **The neutrino's inert right-handed state needs a handedness label the weak step can see.** The positive braid has none.
+
+**What survives:**
+- Three forces from three independent changes.
+- The arrow as the source of the weak force's chirality survives only with a new ingredient. The candidate is ribbon framing: a strand's twist about its own axis, read relative to the arrow. That would be a new statement, not yet tested.
 
 ### What to expect at large budgets (heuristic, not checked)
 For long positive braids, three things are expected:
