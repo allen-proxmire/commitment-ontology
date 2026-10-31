@@ -123,3 +123,5 @@ Allen: "do as you recommend."
 1. **Bookkeeping done:** R9's note, R3's β line and the Open list are amended in ONTOLOGY.
 2. **Choice 1 (PI-strong):** run T-I15b first.
 3. **T-I15b is to be registered** as §5 specifies, with one pre-check and one post-run check.
+
+*Note, 31 October (T-I15b and its pre-check): §4's W2 and W3 rows, and §6's "local forms whose total weight is conserved pass", give an incomplete reason. From an initial antichain, a pool limited to elements comparable to one holder never joins two initial elements, so every draw is forced and the pass is inert. With pools that can join unrelated elements (W5, W6), DGC fails: the subset normalisation changes with the order of spacelike births. T-I15b reads ALL FAIL in the tested forms; only C7's global uniform draw passes non-inertly (`test_I15b_section.md`).*

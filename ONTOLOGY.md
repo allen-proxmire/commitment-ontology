@@ -109,7 +109,7 @@ The rate is zero for light, which commits only through route (a). Every massive 
 
 ## Open
 
-- How space curves, from the primitives (replacing R9): one missing principle, PI-strong; its discrete form is under test (T-I15b, Reading I22).
+- How space curves, from the primitives (replacing R9): one missing principle, PI-strong. Its discrete form (DGC) fails for every tested presence-dependent rule that can join unrelated places (T-I15b); only a global uniform draw passes, so PI-strong would need R2 amended.
 - What fixes p_s, P∞ and ε; (ε is zero in gravity; its covariant forms were closed by Readings I15a–I15b and T-I15d); the hop's size (the engine needs about 10^2.5–10³ Planck lengths).
 - What fixes r_C and κ_b; whether commitment depends on internal complexity; whether one-way commitment forces Q6 (Reading I16: it does not, as the record stands).
 - Rotation from the engine's own flow; the core's quantum state; what commitment does in a collapse (Reading I17: a registered collapse under maximal slicing).
