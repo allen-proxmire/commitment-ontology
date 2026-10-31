@@ -1,6 +1,6 @@
 # What CO predicts
 
-Only claims with a window and a kill test are listed. None is a number CO derives: each rests on CO's rules plus bounds from data.
+These are consistency windows and kill tests, not derived predictions. Only claims with a window and a kill test are listed. None is a number CO derives: each rests on CO's rules plus bounds from data.
 
 ## 1. Route (b)'s collapse window
 A solid's gravity is laid down only by its matter's own random commitments: gravity sourced by collapse events, of the Tilloy type. The rate and coarseness must lie in
