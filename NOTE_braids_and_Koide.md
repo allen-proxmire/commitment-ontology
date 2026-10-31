@@ -42,6 +42,7 @@ $$\delta_{\rm leptons}=\frac{2}{9}\ {\rm rad}.$$
 
 **Neutrinos** (A = √2 kept; NuFIT 6.0 normal-ordering splittings, Δm²₂₁ = 7.49×10⁻⁵ eV², Δm²₃₁ = 2.513×10⁻³ eV²)
 - **There is one solution:** m₁ = 0.36 meV, m₂ = 8.66 meV, m₃ = 50.1 meV, Σm_ν = 59.2 meV, normal ordering.
+- **This is Brannen's prediction, not CO's.** Brannen (2006) applied the Koide form to neutrinos and predicted about 0.38, 8.9 and 50.7 meV. The values here differ only through updated oscillation data. It tests the braid reading, not CO's rules, and so it is not listed in `TESTS.md`.
 - **Kill tests:**
   - an inverted ordering (JUNO);
   - Σm_ν below 0.059 eV from cosmology. The current bound is about 0.064 eV (DESI DR2, ΛCDM).
@@ -69,12 +70,27 @@ $$\delta_{\rm leptons}=\frac{2}{9}\ {\rm rad}.$$
 - **Near-fractions at M_Z:** Q(u, c, t) ≈ 8/9 and Q(d, s, b) ≈ 3/4. Quark masses depend on scale, so this is suggestive only.
 - Brannen's quark phases, 2/27 and 4/27, fit the same counting with a factor of 3 for colour. His fits are loose.
 
-## 5. Grade
+## 5. Why three strands (a reading)
+In the braid picture, the number of strands n is also the number of families: the renewal operator on n strands has n eigenmodes,
+$$\lambda_k=a+2b\cos\!\Big(\varphi+\frac{2\pi k}{n}\Big),\qquad k=0,\dots,n-1,\qquad Q_n=\frac{1}{n\,p_{\rm stay}} .$$
+So "why three families" and "why three strands" are the same question. The braid group gives a two-sided answer.
+- **n = 2 is too few.** The braid group has one generator and is abelian: a pair can only twist. Forward and back are the same move, so a renewal's second fair choice (which way) does not exist. With two families a mixing phase can be removed, so there is no CP violation (Kobayashi–Maskawa).
+- **n = 3 is exactly right.** There are two generators, and they do not commute: σ₁σ₂σ₁ = σ₂σ₁σ₂, but σ₁σ₂ ≠ σ₂σ₁. Every crossing involves the one middle strand, which sees both others, so the pattern cannot be split into parts that ignore each other.
+- **n ≥ 4 is too many.** Distant crossings commute (σ₁σ₃ = σ₃σ₁), so a pattern can contain pieces that evolve independently, and it is no longer one irreducible pattern. There is also no single middle strand.
+
+**So 3 is the only strand number** where the braid group is non-abelian and no two generators commute: the least that has structure and the most that stays one piece.
+- **Linked statement (a reading).** The arrow forbids undoing a crossing (σᵢσᵢ⁻¹ = 1 would need an undone commitment), so renewal patterns live in the positive braid monoid, not the full group.
+
+### A selection principle (an idea kept)
+**Allen:** the world settles into the arrangement that maximises the number of patterns that can sustain themselves. In braid terms the candidate is: count, for each n, the distinct closed positive braids that renew without unravelling and do not split into independent parts. Then ask whether that count is greatest at n = 3. The criterion above says only n = 3 gives irreducible interacting patterns. A count would make the principle non-circular. It has not been done.
+
+## 6. Grade
 - **The circulant form and √m = amplitude:** a reading. Brannen's parametrisation, with CO's possibility = |amplitude|².
 - **Q = 1/(3 p_stay), and Koide ⇔ p_stay = ½:** derived (algebra).
 - **"A renewal is two fair binary commitments":** a reading, not derived from CO's primitives.
 - **δ = 2/9 as counted action:** a reading. It fits to 10⁻⁶. Many fractions can be built from 2s and 3s, so it is not evidence.
-- **Not addressed:** the overall scale μ (μ² ≈ 313.8 MeV for leptons); why three strands; why three generations; the neutrino and quark phases from first principles.
+- **3 as the unique strand number with a non-abelian braid group and no commuting generators:** derived (braid-group fact). That it explains three families is a reading.
+- **Not addressed:** the overall scale μ (μ² ≈ 313.8 MeV for leptons); the selection count; the neutrino and quark phases from first principles.
 
 **What would make it a result:**
 - a CO reason that forces both fairness and counted action;
@@ -82,7 +98,7 @@ $$\delta_{\rm leptons}=\frac{2}{9}\ {\rm rad}.$$
 
 ## Sources
 - S. O. Bilson-Thompson, [hep-ph/0503213](https://arxiv.org/abs/hep-ph/0503213) (2005); Bilson-Thompson, Markopoulou and Smolin, [hep-th/0603022](https://arxiv.org/abs/hep-th/0603022).
-- Y. Koide (1983); C. Brannen's circulant form and δ = 2/9; R. Foot's 45° reading. Summary: [Koide formula (Wikiwand)](https://www.wikiwand.com/en/articles/Koide_formula).
+- Y. Koide (1983); C. Brannen's circulant form, δ = 2/9 and the neutrino-mass prediction (2006); R. Foot's 45° reading; M. Kobayashi and T. Maskawa (1973) on three families and CP violation. Summary: [Koide formula (Wikiwand)](https://www.wikiwand.com/en/articles/Koide_formula).
 - The τ mass: Belle II, [publication 4397](https://b2-pubdb1.desy.de/pub_data/publications/4397/); world average from the Koide summary above.
 - Neutrino splittings: NuFIT 6.0 central values (normal ordering). The cosmological bound: the [European Strategy 2026 Physics Briefing Book](https://arxiv.org/pdf/2511.03883).
 - Quark masses: PDG standard values, and running values at M_Z (Xing et al., approximate).
