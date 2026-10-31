@@ -2,6 +2,27 @@
 
 The world is made of **commitments**: irreversible updates at places. Time at a place is the count of commitments there, so time runs one way at the bottom. Between commitments, places hold **possibility**, a conserved quantity that hops between related places. The vacuum never commits. **Matter** is commitment that keeps re-making itself. A **record** is what has been committed, and it is kept.
 
+## The aim, and where it lands
+
+CO starts from one supposition: **time is a count of irreversible events**, blinks that happen at places and cannot be undone. Everything else was added only when that starting point was silent. The hope was that a fresh starting point might give a leaner account of physics, or advance some small part of it.
+
+It does neither. As it stands, no test excludes CO. Followed as far as it goes, it converges on interpretations that others reached by other routes:
+
+| CO is forced to | which is |
+|---|---|
+| a preferred slicing in its dynamics that no observable can see | the khronometric / Hořava class of gravity, here at its GR limit |
+| gravity laid down only by collapse events, which cannot entangle masses | collapse-sourced gravity (Tilloy, Diósi) |
+| a causal order grown from irreversible events, whose geometry must be supplied | causal-set theory, and its open problem of getting a spacetime out |
+| Born weights from phase lost at the moment of record | decoherence-based accounts of the Born rule (Zurek) |
+| GR's form for how space curves, as the price of matching experiment | general relativity itself |
+
+**What CO contributes** is an independent route to these, from a starting point not used before. It also contributes a few sharp negative results along the way:
+- growth laws built on conserved units cannot produce a spacetime (a Dilworth bound);
+- a hold rule that depends on the possibility present picks a slicing;
+- nothing inside or outside the record fixes its free scale.
+
+It also keeps an audited record of what was assumed, borrowed, tried and dropped.
+
 ## What goes in, what comes out
 
 **In:**
