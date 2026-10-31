@@ -256,6 +256,38 @@ $$
 - The 12 mixed patterns are removed by the added rule that the twists on one braid share a sign (Bilson-Thompson's rule).
 - The three-colour reading above stands, given that rule. ν = ν̄ stands.
 
+### A CO reason for the same-sign rule (a reading)
+**The statement:** a twist is a committed winding of its ribbon, and a winding is never undone along the ribbon. This is the twist form of the rule that makes every crossing positive.
+
+**Why it gives the rule:**
+- A sustaining braid's permutation is a 3-cycle, so its closure is a single ribbon. In successive renewals that ribbon passes positions i, π(i), π²(i), and so picks up t_i, t_{π(i)}, t_{π²(i)} in turn.
+- Its winding never reverses exactly when all of t₁, t₂, t₃ are ≥ 0, or all are ≤ 0.
+- That is the same-sign rule. It leaves the 15 states and removes the 12 mixed ones: in (+,−,0), the one ribbon winds forward, then back, then rests, in every renewal.
+
+**Consistent with the weak step.** In u (+,+,0) → d (0,0,−) + W⁺ (+,+,+), the twists are carried off by the W, not undone. The rule constrains a pattern's own renewal, not a transfer between patterns.
+
+**Limits:**
+- The arrow fixes the sign of a crossing absolutely, but the sign of a twist only along one ribbon. It cannot do more, because both signs of charge exist.
+- The reading needs "a twist is a committed winding", which is a new statement.
+
+**Grade:** a reading. It replaces an added rule with the arrow's own principle, applied to twists.
+
+### Chirality under (B): not a braid property
+**Two candidates, both excluded:**
+1. **Orientation.**
+   - Under (B) the renewal boundary is physical, so rotation is no longer an equivalence. The two orientations σ₁σ₂ and σ₂σ₁ are then distinct words, with inverse 3-cycles.
+   - But σᵢ → σ_{n−i} with crossing signs kept is a turn of 180° about the arrow, a proper rotation. So the two orientations are one object seen from two sides, which is not a handedness.
+   - Under (B), S counts braids rather than rotation classes, which is the element count above, and it passes to B = 61.
+2. **The braid's own handedness as helicity** (Bilson-Thompson's identification).
+   - A mirror reverses every crossing, and so does time reversal, so the arrow sends both outside the allowed set. PT, C (twist negation) and CPT keep it.
+   - So every CO braid has the same handedness. If that were helicity, every fermion would have one helicity.
+   - But electrons are seen in both helicities, and reactor antineutrinos are right-handed (for a Majorana ν, that is the neutrino's other helicity).
+
+**What this settles:**
+- The uniform weak shift is right at the level of species. Its links e⁻↔ν↔e⁺, u↔d and ū↔d̄ are exactly the Standard Model's vertices and their conjugates.
+- What it cannot do is select helicity, because helicity is spin relative to motion and the braid carries no spin label.
+- **Chirality therefore belongs to the pattern rule (how a pattern moves and spins, R6), not to the braid.** CO has no statement about spin, so this is open.
+
 ## Principle S at large budgets (`archive/2026-10-31_new_primitives/braids/large_budget.py`, `large_budget.log`)
 **The count.** Positive braids (elements of the positive monoid) are counted by their permutation, using Garside left-greedy normal forms up to B = 61, for n = 2 to 6. The check against the known counts of B₃⁺ (1, 2, 4, 7, 12, 20, 33, …) passes.
 - The sustaining share at element level is the fraction whose permutation is an n-cycle.
