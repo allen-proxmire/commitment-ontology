@@ -33,7 +33,7 @@ The hold and the clock apply where a body's records fix its state. A clock keeps
 
 **R3. The field** (derived). Conservation makes the mean outflow z an exactly linear, unscreened field of matter's draw s:
 $$
-\tfrac16\sum_{y\sim x}z_y-z_x=s_x-\bar s,\qquad \beta-1=-\frac{\varepsilon}{2(1+\varepsilon)},\quad \varepsilon=\frac{p_s}{P_\infty}.
+\tfrac16\sum_{y\sim x}z_y-z_x=s_x-\bar s,.
 $$
 
 **R4. The field's dynamics** (added). The clock field is fixed afresh each tick, so a moving body keeps its well; patterns ride possibility's flow; the engine's tick is not physical time.
@@ -57,7 +57,7 @@ $$
 $$
 ds^2=-N^2dt^2+N^{-2}\tilde\gamma_{ij}dx^idx^j,\qquad \tilde R_{ij}=2\,\partial_i\varphi\,\partial_j\varphi-16\pi\,p\,e^{2U}\tilde\gamma_{ij},\qquad N=(1+\varepsilon)e^{-\varphi}-\varepsilon .
 $$
-That φ's stress, not U's, curves γ̃ is an added choice: with U's, β = 1 exactly. ε sets every static departure from GR. Deriving this rule from the primitives is the main open problem.
+At ε = 0 (gravity, ruled 30 October) φ = U, so R9 is exactly GR's static sector, β = γ = 1, and the former choice of φ's stress over U's is empty (Reading I22). Deriving this rule from the primitives is the main open problem: it would follow from path independence for the dynamics (PI-strong) through the Hojman–Kuchař–Teitelboim theorem (Readings I15, I22).
 
 **R10. Rotation** (added, provisional). Frame dragging is possibility's own circulating flow, so the medium's clock is the zero-angular-momentum frame's lapse; spinning holes are Kerr outside (exactly, with ε = 0 in gravity). This interprets an input; the rules do not imply it.
 
@@ -109,8 +109,8 @@ The rate is zero for light, which commits only through route (a). Every massive 
 
 ## Open
 
-- How space curves, from the primitives (replacing R9).
-- What fixes p_s, P∞ and ε; whether ε has a covariant form (Reading I15a: at weak field it needs a ghost, an unusual scalar sector or a TeVeS-type coupling; a cuscuton-type form is being tested, T-I15c); the hop's size (the engine needs about 10^2.5–10³ Planck lengths).
+- How space curves, from the primitives (replacing R9): one missing principle, PI-strong; its discrete form is under test (T-I15b, Reading I22).
+- What fixes p_s, P∞ and ε; (ε is zero in gravity; its covariant forms were closed by Readings I15a–I15b and T-I15d); the hop's size (the engine needs about 10^2.5–10³ Planck lengths).
 - What fixes r_C and κ_b; whether commitment depends on internal complexity; whether one-way commitment forces Q6 (Reading I16: it does not, as the record stands).
 - Rotation from the engine's own flow; the core's quantum state; what commitment does in a collapse (Reading I17: a registered collapse under maximal slicing).
 - Field order 3 of the relations' constraint algebra, where Regge's symmetry is expected to break.

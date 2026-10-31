@@ -24,6 +24,7 @@ Write-ups of the lattice runs (11b–91) and the design notes. Runs 1–11 are w
 | [`reading_I15b_cuscuton.md`](reading_I15b_cuscuton.md) | Reading I15b: no cuscuton-type theory with matter on the metric carries CO's exterior; CO's static sector is exactly GR with matter on a lapse-dependent metric, N√h[R + α(N)aᵢaⁱ]; a khronometric completion gives α₁ ≈ −16ε, so ε ≲ 2.5×10⁻⁶, against R8's borrowed α₁ = 0 |
 | [`reading_I17_black_holes.md`](reading_I17_black_holes.md) | Reading I17: with ε = 0 in gravity, CO's holes are GR's; possibility runs out at r = 2m; the core at 3m, throat, horn, "no horizon, no evaporation" withdrawn; the P∞ bounds lapse |
 | [`reading_I17a_collapse.md`](reading_I17a_collapse.md) | Reading I17a: in Oppenheimer–Snyder collapse under maximal slicing the lapse decays as exp(−4t/3√6 m) and the surface freezes near 3m/2, so commitment falls inside the horizon for small ε_med; polar slicing puts it just outside (PST 1986); the verdict depends on the slicing |
+| [`reading_I22_space_curves.md`](reading_I22_space_curves.md) | Reading I22: at ε = 0, R9 is GR's static sector; the borrowed spacetime cluster rests on one missing principle, PI-strong; its discrete form (DGC) passes for uniform and conserved-weight local rules and fails for a holdings-weighted draw; T-I15b to test it |
 
 ## Runs
 
