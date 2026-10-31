@@ -114,6 +114,16 @@ So "why three families" and "why three strands" are the same question. The braid
 
 With three strands about half of everything that can be built holds together; with more strands most of it falls apart. On this reading the principle is "the arrangement in which patterns built at random most often last", not "the most patterns". Because it was chosen after the count, it counts as evidence only if it is stated in advance and holds on a test not yet run: larger budgets, or a different property.
 
+*Correction (31 October).* The two tables above used a weaker equivalence: rotations of each word were compared separately, so some patterns that are the same braid were not merged. Recounted exactly, with the braid relations and rotation closed together and checked by an independent second method (free-group action plus rotation, as connected components), the shares are:
+
+| B | n = 3 | n = 4 | n = 5 | n = 6 |
+|---|---|---|---|---|
+| 9 | **0.29** (2/7) | 0.11 (2/18) | 0.04 (1/28) | – |
+| 11 | **0.27** (3/11) | 0.14 (6/43) | 0.04 (3/79) | 0.01 (1/101) |
+| 13 | **0.35** (7/20) | 0.17 (20/116) | 0.05 (11/234) | 0.01 (4/326) |
+
+Three strands still leads at every budget.
+
 ### Stated in advance (31 October, before the larger count)
 **Principle S:** among strand numbers n ≥ 2, the share of patterns that sustain themselves at a given renewal cost B is largest at n = 3.
 - **Patterns** are classes of positive braid words of length L = B − n, under the braid relations and cyclic rotation.
@@ -124,12 +134,27 @@ With three strands about half of everything that can be built holds together; wi
 - The cases: B = 15 for n = 2…7, and B = 17 for n = 3 and 4. Larger cases are too large to enumerate here.
 - **Kill rule:** S fails if any n ≠ 3 has a share at least as large as n = 3 in any tested case.
 
+### Result of the pre-stated test: S survives
+
+| B | n = 2 | n = 3 | n = 4 | n = 5 | n = 6 | n = 7 |
+|---|---|---|---|---|---|---|
+| 15 | 0 (0/1) | **0.41** (17/41) | 0.23 (83/355) | 0.08 (66/845) | 0.02 (21/1165) | 0.004 (5/1379) |
+| 17 | – | **0.49** (40/81) | 0.27 (331/1208) | – | – | – |
+
+At every tested budget, three strands has the largest share of self-sustaining patterns, by a factor of about 1.8 over four and much more over five and up. Two strands never sustains.
+
+**Limits:**
+- Small budgets only.
+- The shares for n = 3 and n = 4 are both still rising: 0.29 → 0.49 and 0.11 → 0.27. Whether four ever overtakes at large B is open; the ratio has fallen from 2.6 to about 1.8.
+- "Sustaining" means one piece, unsplittable and primitive. Nothing about dynamics or mass is included.
+
 ## 6. Grade
 - **The circulant form and √m = amplitude:** a reading. Brannen's parametrisation, with CO's possibility = |amplitude|².
 - **Q = 1/(3 p_stay), and Koide ⇔ p_stay = ½:** derived (algebra).
 - **"A renewal is two fair binary commitments":** a reading, not derived from CO's primitives.
 - **δ = 2/9 as counted action:** a reading. It fits to 10⁻⁶. Many fractions can be built from 2s and 3s, so it is not evidence.
 - **3 as the unique strand number with a non-abelian braid group and no commuting generators:** derived (braid-group fact). That it explains three families is a reading.
+- **Principle S (three strands maximise the share of self-sustaining positive braids):** stated in advance and survived its test at B = 15 and 17. That holds at small budgets only, with the large-B trend open.
 - **Not addressed:** the overall scale μ (μ² ≈ 313.8 MeV for leptons); the selection count; the neutrino and quark phases from first principles.
 
 **What would make it a result:**
