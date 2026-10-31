@@ -73,3 +73,4 @@ Every rule and principle added to the primitives, with the date it was adopted. 
 | 30 Oct | no outside tie fixes p_c; the species tie (equality form) kept as a candidate, Standard Model-only and Dvali-TeV cases excluded; the GUT coincidence recorded as a reading ("do as you recommend") | Reading I20 ruling |
 | 30 Oct | route (b)'s window confirmed against current data; CSL-based mechanical bounds do not apply as collapse bounds ("do as you recommend or see fit") | Reading I21 ruling |
 | 30 Oct | R9 at ε = 0 is GR's static sector (ONTOLOGY amended); run T-I15b (DGC for presence-dependent rules) before ruling on PI-strong ("do as you recommend") | Reading I22 ruling |
+| 31 Oct | PI-weak (I15 choice 1(ii)): no observable depends on a slicing, the dynamics may use one; CO's growth rule points to a preferred slicing at the discrete level (T-I15b); R9 and the spacetime cluster stay borrowed ("do as you recommend") | Reading I15 / I22 ruling |

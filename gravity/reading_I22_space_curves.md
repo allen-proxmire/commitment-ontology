@@ -125,3 +125,5 @@ Allen: "do as you recommend."
 3. **T-I15b is to be registered** as §5 specifies, with one pre-check and one post-run check.
 
 *Note, 31 October (T-I15b and its pre-check): §4's W2 and W3 rows, and §6's "local forms whose total weight is conserved pass", give an incomplete reason. From an initial antichain, a pool limited to elements comparable to one holder never joins two initial elements, so every draw is forced and the pass is inert. With pools that can join unrelated elements (W5, W6), DGC fails: the subset normalisation changes with the order of spacelike births. T-I15b reads ALL FAIL in the tested forms; only C7's global uniform draw passes non-inertly (`test_I15b_section.md`).*
+
+**Ruling (31 October, after T-I15b; Allen: "do as you recommend").** PI-weak (I15 choice 1(ii)). R9 and the spacetime cluster stay borrowed. Deriving them would need PI-strong, and with it an amended R2 that passes DGC: a new statement not made.

@@ -48,7 +48,7 @@ Every result, with its status and the runs behind it: [`RESULTS.md`](RESULTS.md)
 ## Open targets
 
 These would move the ontology from reproducing physics to deriving it:
-- **How space curves,** from the primitives, replacing the borrowed option 3.
+- **How space curves,** from the primitives, replacing the borrowed option 3. It would follow from path independence for the dynamics (PI-strong), but CO's hold rule breaks its discrete form (T-I15b); PI-weak is ruled, so option 3 stays borrowed.
 - **What sets r_C and the commitment rate,** ideally one scale doing both jobs.
 - **Commitment set by internal complexity** rather than mass alone.
 - **The Born rule from the primitives,** not from the added noncontextual reading Q6.
