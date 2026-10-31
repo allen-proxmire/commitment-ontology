@@ -84,6 +84,36 @@ So "why three families" and "why three strands" are the same question. The braid
 ### A selection principle (an idea kept)
 **Allen:** the world settles into the arrangement that maximises the number of patterns that can sustain themselves. In braid terms the candidate is: count, for each n, the distinct closed positive braids that renew without unravelling and do not split into independent parts. Then ask whether that count is greatest at n = 3. The criterion above says only n = 3 gives irreducible interacting patterns. A count would make the principle non-circular. It has not been done.
 
+### The count (31 October)
+**The rule, fixed before counting:**
+- **A pattern:** a closed positive braid on n strands, identified up to cyclic rotation (a renewal has no start). Braid equality is checked through the faithful Artin action on the free group.
+- **It sustains itself** if it is one piece (its permutation is a single n-cycle), unsplittable (it uses every generator) and primitive (not a power of a shorter word).
+- **The cost of one renewal** is B = n + L: one commitment per strand plus one per crossing.
+- **The principle:** the n with the most self-sustaining patterns at each budget.
+
+**Result: the pre-stated principle does not select 3.** Only odd B gives patterns, for a parity reason.
+
+| B | n = 2 | n = 3 | n = 4 | n = 5 | n = 6 |
+|---|---|---|---|---|---|
+| 5 | 0 | **1** | 0 | 0 | 0 |
+| 7 | 0 | **2** | **2** | 0 | 0 |
+| 9 | 0 | 5 | **10** | 4 | 0 |
+| 11 | 0 | 8 | **40** | 32 | 8 |
+| 13 | 0 | 17 | 153 | **198** | 89 |
+
+- n = 2 never has a self-sustaining pattern: only powers of σ₁ exist.
+- Raw counts favour more strands as the budget grows.
+
+**A variant chosen after seeing the result** (post hoc, not a test): the share of all patterns at a budget that sustain themselves.
+
+| B | n = 3 | n = 4 | n = 5 | n = 6 |
+|---|---|---|---|---|
+| 9 | **0.50** | 0.28 | 0.08 | – |
+| 11 | **0.50** | 0.34 | 0.14 | 0.03 |
+| 13 | **0.52** | 0.37 | 0.18 | 0.06 |
+
+With three strands about half of everything that can be built holds together; with more strands most of it falls apart. On this reading the principle is "the arrangement in which patterns built at random most often last", not "the most patterns". Because it was chosen after the count, it counts as evidence only if it is stated in advance and holds on a test not yet run: larger budgets, or a different property.
+
 ## 6. Grade
 - **The circulant form and √m = amplitude:** a reading. Brannen's parametrisation, with CO's possibility = |amplitude|².
 - **Q = 1/(3 p_stay), and Koide ⇔ p_stay = ½:** derived (algebra).
