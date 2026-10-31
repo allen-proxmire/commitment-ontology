@@ -9,6 +9,6 @@ The full record behind [`../README.md`](../README.md), [`../ONTOLOGY.md`](../ONT
 | [`gravity/`](gravity/) | gravity runs 11b–105, the preferred-frame tests T-I15b and T-I15d, Readings I15–I17 and I22, and the design notes |
 | [`quantum/`](quantum/) | quantum runs 92–100 and Readings I0–I14, I16 and I18–I21; Reading I23 (the inverse-square signal of route (b)) is an unruled draft |
 | [`figures/`](figures/) | figures from the gravity runs |
-| [`2026-10-31_new_primitives/`](2026-10-31_new_primitives/) | the search for a new primitive: candidates (P1); spacetime from CO's units (P2 global, P3 local, P4 and P5 created and regulated; all excluded, with a Dilworth proof in `checks/check_P3.md`); count is volume (P6, inert); Born from phase-destroying commitment (P7, Q1, conditional, with the literature check in `checks/check_Q1.md`) |
+| [`2026-10-31_new_primitives/`](2026-10-31_new_primitives/) | the search for a new primitive: candidates (P1); spacetime from CO's units (P2 global, P3 local, P4 and P5 created and regulated; all excluded, with a Dilworth proof in `checks/check_P3.md`); count is volume (P6, inert); Born from phase-destroying commitment (P7, Q1, conditional, with the literature check in `checks/check_Q1.md`); `mining/`, reports mining the Event Density (ED) repositories, CO's earlier form, for ideas |
 
 The working folders for each registered run (pre-registrations, hashes, code, outputs and check reports) are kept outside the repository. Each run section names its folder.

@@ -1,6 +1,6 @@
 ## Q1: quantum structure from commitment (draft)
 
-*31 October 2026. Brings together three routes found in Allen's earlier frameworks: phase-randomising commitment, conserved hops (a Gleason-type note), and audits of record logic (Gleason/Solèr). Checks: `q1_checks.py`, `p7_phase.py`. Every step uses known mathematics. What would belong to CO is that its own primitives supply the premises.*
+*31 October 2026. Brings together three routes found in Allen's repos: ED's P11 and P09 (phase-randomising commitment), ED Attempt 02's `Gleason_For_ED.md` (conserved hops), and event-density's Gleason/Solèr audits (record logic). Checks: `q1_checks.py`, `p7_phase.py`. Every step uses known mathematics. What would belong to CO is that its own primitives supply the premises.*
 
 **The claim.** Take three properties CO already has, and keep one borrowed input:
 - **(H) Hops.** Possibility is conserved and moves by linear maps on amplitudes that mix places, so interference happens.

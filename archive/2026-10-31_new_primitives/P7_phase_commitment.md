@@ -1,6 +1,6 @@
 ## P7: phase-randomising commitment forces the Born exponent (draft, unchecked)
 
-*31 October 2026. The idea, commitment as irreversible with environmental phase-randomisation over a U(1) phase, is taken from an earlier framework of Allen's, and it answers Allen's I16 question ("if CO's one-way commitment forced the counting step rather than just allowing it"). Reading I16 §1: "phase-free does not fix the power". That is true for phase-freedom alone. With phase randomisation and additivity together, the power is fixed.*
+*31 October 2026. The idea is taken from ED's P11 ("commitment — irreversible, with environmental phase-randomization") and P09 (U(1) phase), and it answers Allen's I16 question ("if CO's one-way commitment forced the counting step rather than just allowing it"). Reading I16 §1: "phase-free does not fix the power". That is true for phase-freedom alone. With phase randomisation and additivity together, the power is fixed.*
 
 ### 1. The statement
 **Two inputs.**
