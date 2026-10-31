@@ -212,6 +212,71 @@ $$
 
 **Still open:** why the weak shift acts only on left-handed states. This picture now has no handedness label at all, and no candidate for one has survived.
 
+### Antiparticles as sign flips, checked: a fork, neither side free
+**What works.** Sign-consistent twist patterns (all ≥ 0 or all ≤ 0) number 2·2³ − 1 = 15. Negating the twists maps them onto each other with the right charges:
+
+| pattern | e⁻ (−,−,−) | ū (−,−,0) ×3 | d (−,0,0) ×3 | ν (0,0,0) | d̄ (+,0,0) ×3 | u (+,+,0) ×3 | e⁺ (+,+,+) |
+|---|---|---|---|---|---|---|---|
+| Q/e | −1 | −2/3 | −1/3 | 0 | +1/3 | +2/3 | +1 |
+
+**The problem: 27 − 15 = 12 mixed patterns.**
+- **The patterns:**
+  - six arrangements of (+,−,0), with Q = 0;
+  - three of (+,+,−), with Q = +1/3;
+  - three of (+,−,−), with Q = −1/3.
+- **They are isolated from the weak step.** Each holds both a +1 and a −1, so the shift by ±1 pushes one twist out of range.
+- **They are not the right-handed states.** The right-handed weak singlets include e_R (Q = −1) and u_R (Q = +2/3), and no mixed pattern has either charge.
+
+**Two ways to remove them, each with a cost:**
+- **(A) Twists slide along their ribbons.** The framed relation σᵢtᵢ = t_{i+1}σᵢ stands on the same footing as the braid relations already used in the count.
+  - A sustaining braid's permutation is a 3-cycle, so its closure is one ribbon. With rotation, any unit twist can then be walked round to the next strand: (+,−,0) ~ (0,0,0), and (+,+,−) ~ (+,0,0).
+  - The mixed patterns disappear.
+  - **The cost:** only Σtᵢ is invariant. Which strand carries the odd twist stops being a property of the braid, so colour, and the three-colour reading above, lose their ground.
+- **(B) Twists cannot cross a renewal (records are kept).** This is a reason from CO itself.
+  - Colour is kept.
+  - The 12 mixed patterns remain as states that are not observed.
+  - **The cost:** they must be forbidden by Bilson-Thompson's rule that the twists on a braid share a sign. That rule is added, not derived.
+
+**What survives either way:** ν = ν̄. (0,0,0) is its own negation in both readings, so the Majorana inference stands on the arrow plus the braid picture, whichever way the fork goes.
+
+## Principle S at large budgets (`archive/2026-10-31_new_primitives/braids/large_budget.py`, `large_budget.log`)
+**The count.** Positive braids (elements of the positive monoid) are counted by their permutation, using Garside left-greedy normal forms up to B = 61, for n = 2 to 6. The check against the known counts of B₃⁺ (1, 2, 4, 7, 12, 20, 33, …) passes.
+- The sustaining share at element level is the fraction whose permutation is an n-cycle.
+- An n-cycle forces every generator to be used, and proper powers are exponentially rare.
+
+**The pass criterion, set before the run:** n = 3 has the largest share at every odd budget computed.
+
+**Exact parity rule.** Each crossing is a transposition, so a word of length L has permutation parity L. An n-cycle has parity n − 1. So sustaining needs L ≡ n − 1 (mod 2), that is
+$$
+B=n+L\ \text{odd}.
+$$
+At even budgets there are no sustaining patterns for any n.
+
+**Result (odd B):**
+
+| B | n=2 | n=3 | n=4 | n=5 | n=6 |
+|---|---|---|---|---|---|
+| 9 | 0 | 0.546 | 0.255 | 0.081 | 0 |
+| 17 | 0 | 0.613 | 0.368 | 0.189 | 0.081 |
+| 31 | 0 | 0.653 | 0.449 | 0.290 | 0.166 |
+| 61 | 0 | 0.666 | 0.493 | 0.370 | 0.264 |
+
+- **n = 3 is largest at every odd B from 9 to 61, so S passes.**
+- **The shares approach 2/n.** On the right parity the permutation spreads evenly over half of Sₙ, and n-cycles are (n−1)!/(n!/2) = 2/n of that half.
+- **n = 2 is excluded throughout:** σ₁ᴸ is the only braid, and it is primitive only at L = 1.
+- **So, in the limit:**
+$$
+\text{share}_n\ \to\ \frac{2}{n}\ (n\ge3),\qquad \text{share}_2=0 ,
+$$
+  which is largest at n = 3.
+
+**Caveats:**
+- Element shares are higher than the class shares counted earlier (0.60 against 0.41 at B = 15), because class sizes vary at small L. The order of n is the same in both, and the two converge at large L.
+- n ≥ 7 is not computed. Its limit 2/n < 2/3, and its approach is slower.
+- The 2/n limit is numerical. It agrees with the parity argument, but equidistribution is not proved.
+
+**Grade: computed, and plainly understood.** S picks three because n-cycles are a fraction 1/n of permutations and two strands are abelian. In plain terms, S is "the smallest non-abelian braid", which is what "nature picks the simplest" says. The result is solid but not deep.
+
 ### What to expect at large budgets (heuristic, not checked)
 For long positive braids, three things are expected:
 - **The conditions become nearly automatic:** almost every long word uses every generator (unsplittable) and is not a power (primitive).
