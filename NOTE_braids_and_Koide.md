@@ -157,6 +157,16 @@ $$N\Big(\tfrac23-\tfrac13\Big)-1+0=0\ \Longrightarrow\ N=3 .$$
 - **Consistent with:** a neutral three-quark state (the proton, antisymmetric in three colours), and three identical quarks in one state (the Δ⁺⁺).
 - **Grade:** N = 3 from charge thirds and neutral generations is standard physics (anomaly cancellation). The reading, that families, colours and charge thirds all come from three strands, is CO's.
 
+### Why three forces ("works" fixed first: a force is an independent change of a pattern's labels that keeps it self-sustaining and respects the arrow)
+A three-strand twisted braid has three kinds of label, and each gives one kind of change:
+1. **Its overall counted-action phase:** a one-number rotation, U(1).
+2. **Where the odd twist sits:** amplitudes over three positions, with the overall phase already counted in 1, give SU(3), colour.
+3. **Each strand's twist level:** with t ∈ {−1, 0, +1} and all non-zero twists of one sign, a one-unit step on every strand connects exactly two states (ν ↔ e, u ↔ d). Pairs give doublets: SU(2), the weak force.
+
+- **No fourth label.** Gravity is not a label change; it is the counting itself, the clock rate.
+- **Chirality from the arrow (a reading).** The whole-braid step is the full twist Δ² = (σ₁σ₂)³, which generates the centre of B₃. In the positive monoid only one handedness exists, because a full twist cannot be undone. So the weak change would be one-handed. ED's workbook records the weak force's chirality as underived (its ParityWall row).
+- **Grade:** a reading. The label-to-group map follows Bilson-Thompson. No couplings, Higgs or W/Z masses come out of it. Exactly three independent changes, and the arrow making the weak one chiral, are CO's.
+
 ### What to expect at large budgets (heuristic, not checked)
 For long positive braids, three things are expected:
 - **The conditions become nearly automatic:** almost every long word uses every generator (unsplittable) and is not a power (primitive).
