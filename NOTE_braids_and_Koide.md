@@ -288,6 +288,29 @@ $$
 - What it cannot do is select helicity, because helicity is spin relative to motion and the braid carries no spin label.
 - **Chirality therefore belongs to the pattern rule (how a pattern moves and spins, R6), not to the braid.** CO has no statement about spin, so this is open.
 
+### Spin, looked at: not in the braid
+**A fact (known braid theory).** The minimal sustaining 3-braid δ = σ₁σ₂ is a periodic braid:
+$$
+\delta^3=(\sigma_1\sigma_2)^3=\Delta^2 ,
+$$
+the full twist. So each renewal turns the three-strand bundle by 120°, and three renewals turn it by 2π. The other periodic 3-braid, ε = σ₁²σ₂ with ε² = Δ², has permutation (23), so it is not sustaining. **A sustaining pattern turns as it renews.**
+
+**Test 1: does CO's own phase give spin ½ (a sign −1 after 2π)? Excluded.**
+- Spin ½ needs the phase over three hops to be 3φ ≡ π (mod 2π), so φ ∈ {π/3, π, 5π/3}.
+- At each of these the circulant spectrum is cos(φ + 2πk/3) ∈ {½, ½, −1}. Two masses are then equal, √m ∝ 1 + √2·½ twice, and leptons are not degenerate.
+- The fitted phase gives 3δ = 2/3 rad, not π.
+
+**Test 2: is the braid's turning a rotation in space? No.**
+- The bundle turns in the plane of the strands: one axis, any phase. That is U(1), as for anyons, not SU(2).
+- Spin ½'s sign comes from π₁(SO(3)) = ℤ₂, a property of rotations in three dimensions, and CO takes three dimensions as an input.
+- So spin ½ is not in the braid. It would come with three-dimensional space, through Dirac's belt trick, if patterns are framed ribbons tied to the medium.
+
+**What survives:**
+- **Spin–statistics comes free from ribbons (known).** For framed objects, exchanging two identical patterns twice equals turning one by 2π: θ = c². So whatever the spin is, half-integer spin goes with fermions (Finkelstein and Rubinstein 1968; ribbon categories).
+- **A candidate rule, which is Bilson-Thompson's correlation renamed.** θ = −1 when the closure is a single ribbon (a 3-cycle, sustaining), and θ = +1 when the strands close on themselves (trivial permutation). It fits fermions against W, Z, γ, g and the Higgs by construction. No reason is known.
+
+**Chirality** still needs spin along motion, and motion is not in the braid. Allen's reading (chirality is a state set by the first pattern, not a law) remains the better account.
+
 ## Principle S at large budgets (`archive/2026-10-31_new_primitives/braids/large_budget.py`, `large_budget.log`)
 **The count.** Positive braids (elements of the positive monoid) are counted by their permutation, using Garside left-greedy normal forms up to B = 61, for n = 2 to 6. The check against the known counts of B₃⁺ (1, 2, 4, 7, 12, 20, 33, …) passes.
 - The sustaining share at element level is the fraction whose permutation is an n-cycle.
