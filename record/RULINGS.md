@@ -70,3 +70,4 @@ Every rule and principle added to the primitives, with the date it was adopted. 
 | 30 Oct | R1 amended beyond first order: a pure logarithm f = A + B ln P above a cutoff p_c (C); the vacuum-below-crossover variant graded fitted; p_s bounded only below ("do as you recommend") | Reading I18b ruling |
 | 30 Oct | R1's amended outflow stated: smooth linear join, B = 0.99p_c, A = 0.99p_c(1 − ln p_c), p_c ≡ (1/p_s + 1/P∞)⁻¹; the logarithm is the medium's equation of state; below p_c open; p_c < P∞ recorded ("do as you recommend") | Reading I18c rulings |
 | 30 Oct | nothing fixes p_c; the boost cap on p_c kept as a candidate, with the moving-wall calculation as its test if adopted ("do as you recommend") | Reading I19 ruling |
+| 30 Oct | no outside tie fixes p_c; the species tie (equality form) kept as a candidate, Standard Model-only and Dvali-TeV cases excluded; the GUT coincidence recorded as a reading ("do as you recommend") | Reading I20 ruling |
