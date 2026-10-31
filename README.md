@@ -39,6 +39,15 @@ The world is made of **commitments**: irreversible updates at places. Time at a 
 
 **No number comes out that was not put in.** CO reproduces known physics; its testable claims are in [`PREDICTIONS.md`](PREDICTIONS.md).
 
+## What it is not
+
+- **Not a theory of everything, and not a replacement for general relativity or quantum mechanics.** It reproduces both. Where it matches them beyond the weak field, it does so by borrowing their structure.
+- **Not a derivation of any constant, particle, coupling or dimension.** G, c, ħ, Λ, the masses and three dimensions all go in. Its own scales (p_c, r_C, κ_b) are bounded by data, not fixed.
+- **Not a claim that established physics is wrong.** Its gravity is GR's, and its quantum mechanics is standard quantum mechanics plus a collapse mechanism.
+- **Not new in its collapse prediction.** Route (b) is gravity sourced by collapse events, a known class (Tilloy 2018). CO gives it a reading in terms of commitments.
+- **Not evidence from simulation.** The runs are calculations on a toy engine, a cubic lattice with chosen rules. They test whether the rules give known results; agreement was built into the rules chosen.
+- **Not confirmed by any experiment, and not peer-reviewed.** It is an independent, speculative ontology with an audited record of what was tried, what failed and what was borrowed.
+
 ## Documents
 
 | file | contents |
