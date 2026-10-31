@@ -239,6 +239,23 @@ $$
 
 **What survives either way:** ν = ν̄. (0,0,0) is its own negation in both readings, so the Majorana inference stands on the arrow plus the braid picture, whichever way the fork goes.
 
+### Colour and family from one source, tested: excluded. Ruling: (B)
+**The statement:** under (A), the three renewal modes of the circulant supply both colour and family.
+
+**Excluded, for two independent reasons:**
+1. **The count.** A Z₃ source has three modes. Quarks need 3 families × 3 colours = 9 states of each charge, so one source supplies 3 and two are needed.
+2. **Degeneracy.** Colour is exact: the three colours have equal mass. The circulant's eigenvalues are
+$$
+\lambda_k=a+2b\cos\!\Big(\varphi+\tfrac{2\pi k}{3}\Big),\qquad k=0,1,2,
+$$
+   which are equal for every φ only if b = 0, that is p_stay = 1. Then the pattern never hops, so it is not sustaining, and Q = 1/(3p_stay) = 1/3 instead of 2/3. Modes that are colours cannot also give Koide's split masses.
+
+**Ruling** (Allen: "test the shared one source. if it doesnt work, we will go with B."): **(B)**.
+- Twists are read at the renewal boundary and cannot cross it, because records are kept.
+- Colour is the position of the odd twist.
+- The 12 mixed patterns are removed by the added rule that the twists on one braid share a sign (Bilson-Thompson's rule).
+- The three-colour reading above stands, given that rule. ν = ν̄ stands.
+
 ## Principle S at large budgets (`archive/2026-10-31_new_primitives/braids/large_budget.py`, `large_budget.log`)
 **The count.** Positive braids (elements of the positive monoid) are counted by their permutation, using Garside left-greedy normal forms up to B = 61, for n = 2 to 6. The check against the known counts of B₃⁺ (1, 2, 4, 7, 12, 20, 33, …) passes.
 - The sustaining share at element level is the fraction whose permutation is an n-cycle.
