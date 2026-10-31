@@ -27,3 +27,5 @@ $$
 an extrapolation from three points over about five decades, conditional on Reading I6 ruling 4 (physical clocks do not dip themselves). The slope was registered as non-discriminating; neither the slope nor the bound favours either hypothesis.
 
 **What it means.** The gap carries neither p alone nor B alone; under UNRESOLVED both carried-over figures (8×10⁴ and 4×10⁵) are kept, and the run's own extrapolation gives about 10⁶. Settling the p_c = 1 discrimination would need more seeds there, a new registration.
+
+*Note, 31 October: Run 105 (eight seeds at p_c = 1) reads THROUGH B; the 4×10⁵ figure lapses (`run105_section.md`).*

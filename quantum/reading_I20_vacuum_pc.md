@@ -115,3 +115,5 @@ Allen: "do as you recommend."
 3. **The GUT coincidence is recorded as a reading,** not a candidate.
 
 Saturation's onset map stands as a description with one free number.
+
+*Note, 31 October: Run 105 reads THROUGH B, so the clock floor is 8×10⁴. The GUT case (p_c ≈ 3.6×10⁵) lies above it, though inside the engine's own 1σ bound (4.2×10⁵–2.4×10⁶) only at its edge; it stays a reading (`gravity/run105_section.md`).*

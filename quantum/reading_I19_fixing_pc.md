@@ -72,3 +72,4 @@ $$
 
 Allen: "do as you recommend." Nothing in the record fixes p_c (recorded). The boost cap applied to p_c (p_c ≳ 12γ²/[0.99(1 − ln ε_c)], 2.9×10¹⁸–1.2×10²³) is kept as a **candidate**, not adopted: it goes past Reading I14, and it would remove most of saturation's testable map on a requirement rather than data. If it is ever adopted, the test to register is the moving interference wall, h_wall = 3/(0.99π)(m_P/M)², for cluster masses M from 10⁶ to 10¹⁰ Da.
 
+*Note, 31 October: Run 105 reads THROUGH B; the clock floor is 8×10⁴ and the 4×10⁵ figure lapses (`gravity/run105_section.md`).*
