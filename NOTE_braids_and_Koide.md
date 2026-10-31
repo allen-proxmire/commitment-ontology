@@ -349,7 +349,7 @@ $$
 
 **Grade: computed, and plainly understood.** S picks three because n-cycles are a fraction 1/n of permutations and two strands are abelian. In plain terms, S is "the smallest non-abelian braid", which is what "nature picks the simplest" says. The result is solid but not deep.
 
-### What to expect at large budgets (heuristic, not checked)
+### What to expect at large budgets (heuristic; since computed above: shares → 2/n, S holds to B = 61)
 For long positive braids, three things are expected:
 - **The conditions become nearly automatic:** almost every long word uses every generator (unsplittable) and is not a power (primitive).
 - **The permutation spreads evenly** over the permutations of the right parity.
@@ -372,8 +372,32 @@ Code and logs: `archive/2026-10-31_new_primitives/braids/`.
 - **"A renewal is two fair binary commitments":** a reading, not derived from CO's primitives.
 - **δ = 2/9 as counted action:** a reading. It fits to 10⁻⁶. Many fractions can be built from 2s and 3s, so it is not evidence.
 - **3 as the unique strand number with a non-abelian braid group and no commuting generators:** derived (braid-group fact). That it explains three families is a reading.
-- **Principle S (three strands maximise the share of self-sustaining positive braids):** stated in advance and survived its test at B = 15 and 17. That holds at small budgets only, with the large-B trend open.
+- **Principle S (three strands maximise the share of self-sustaining positive braids):** stated in advance. It passed at class level (B ≤ 17) and at element level (all odd B ≤ 61), with shares → 2/n. Exact: sustaining needs an odd budget. Shallow underneath: S is "the smallest non-abelian braid".
+- **Three colours (charge neutrality), three forces (three independent label changes), the weak step as a uniform twist shift:** readings. The species-level links match the Standard Model's vertices.
+- **The same-sign rule:** ruled (B), with Allen's words. Read as "a winding is never undone along a ribbon", the twist form of the arrow's rule.
+- **ν = ν̄ (Majorana), m_ββ ≈ 1.3–4 meV:** an inference from the arrow plus the braid picture. It is below planned reach.
+- **Excluded:**
+  - chirality from the full twist;
+  - chirality from ribbon framing;
+  - chirality from renewal orientation;
+  - braid handedness as helicity;
+  - colour and family from one source;
+  - spin ½ from the circulant phase.
+- **Open:** chirality and spin. Both need three-dimensional space and motion, which the braid does not carry.
 - **Not addressed:** the overall scale μ (μ² ≈ 313.8 MeV for leptons); the selection count; the neutrino and quark phases from first principles.
+
+**Honest summary (31 October).** Most of this note is Bilson-Thompson's braids and Brannen's circulant restated in CO's words. What CO adds is the arrow:
+- it forbids mirror braids;
+- that forces ν = ν̄;
+- and it gives a reason for the same-sign rule.
+
+Each of those lands on something known or expected. That is convergence again, not a new result.
+
+**Allen's reading of chirality, kept as a direction** (his words: "chirality is from the first moments. same as why there only matter and not antimatter. like a crystal seed. the first pattern. others are allowed, but theres no room in the beginning. a sort of saturation"):
+- Chirality is a state of the medium set by the first pattern, not a law. This converges on spontaneous parity breaking (left–right symmetric models).
+- It needs a single seed, because grains of opposite handedness would leave domain walls.
+- The matter excess is not crystal-like (η ≈ 6×10⁻¹⁰), so it would follow from the seeded chirality by Sakharov's conditions, not from the seed directly.
+- Not tested.
 
 **What would make it a result:**
 - a CO reason that forces both fairness and counted action;

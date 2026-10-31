@@ -75,5 +75,5 @@ It also keeps an audited record of what was assumed, borrowed, tried and dropped
 |---|---|
 | [`ONTOLOGY.md`](ONTOLOGY.md) | the primitives, rules and inputs, each marked derived, added or borrowed; what CO shows; what was tried and failed; what is open |
 | [`TESTS.md`](TESTS.md) | how CO could fail: consistency windows and kill tests, with formulas |
-| [`NOTE_braids_and_Koide.md`](NOTE_braids_and_Koide.md) | a working note: particles as renewing braids, and Koide's lepton mass relation as fair binary choice plus counted action (a reading, not derived) |
+| [`NOTE_braids_and_Koide.md`](NOTE_braids_and_Koide.md) | a working note: particles as renewing braids (Bilson-Thompson) with CO's arrow; Koide as fair binary choice; why three strands; a Majorana neutrino as inference; chirality and spin open (readings, not derived) |
 | [`archive/`](archive/) | the full record: 105 runs, 23 readings, every ruling and check ([`archive/INDEX.md`](archive/INDEX.md)) |
