@@ -148,6 +148,23 @@ At every tested budget, three strands has the largest share of self-sustaining p
 - The shares for n = 3 and n = 4 are both still rising: 0.29 → 0.49 and 0.11 → 0.27. Whether four ever overtakes at large B is open; the ratio has fallen from 2.6 to about 1.8.
 - "Sustaining" means one piece, unsplittable and primitive. Nothing about dynamics or mass is included.
 
+### What to expect at large budgets (heuristic, not checked)
+For long positive braids, three things are expected:
+- **The conditions become nearly automatic:** almost every long word uses every generator (unsplittable) and is not a power (primitive).
+- **The permutation spreads evenly** over the permutations of the right parity.
+- **The share of single loops tends to 2/n.** Among the n!/2 permutations of one parity, (n − 1)! are n-cycles.
+
+The share of self-sustaining patterns should then tend to
+$$
+s_n\ \to\ \frac{2}{n}\qquad(n\ge3):\qquad s_3\to\tfrac23,\quad s_4\to\tfrac12,\quad s_5\to\tfrac25,\ \dots
+$$
+- **n = 2 has none at any size:** its only positive braids are powers of σ₁, never primitive.
+- **So three strands would stay ahead at every size,** with the lead over four tending to 4/3. The measured ratio, 2.6 → 1.8, is falling toward that.
+- **Read this way, the result is "the fewest strands that can make a primitive, single-piece, interacting pattern":** Allen's "3 is the least that works".
+- **A check:** the number of positive braids of each length has an exact generating function (Deligne's formula over parabolic subgroups). Combined with the permutation statistics it would settle the large-B behaviour without enumeration.
+
+Code and logs: `archive/2026-10-31_new_primitives/braids/`.
+
 ## 6. Grade
 - **The circulant form and √m = amplitude:** a reading. Brannen's parametrisation, with CO's possibility = |amplitude|².
 - **Q = 1/(3 p_stay), and Koide ⇔ p_stay = ½:** derived (algebra).

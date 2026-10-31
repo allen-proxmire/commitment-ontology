@@ -1,0 +1,10 @@
+B=15 n=2 L=13: classes 1, sustaining 0, share 0.0000
+B=15 n=3 L=12: classes 41, sustaining 17, share 0.4146
+B=15 n=4 L=11: classes 355, sustaining 83, share 0.2338
+B=15 n=5 L=10: classes 845, sustaining 66, share 0.0781
+B=15 n=6 L=9: classes 1165, sustaining 21, share 0.0180
+B=15 n=7 L=8: classes 1379, sustaining 5, share 0.0036
+B=17 n=3 L=14: classes 81, sustaining 40, share 0.4938
+B=17 n=4 L=13: classes 1208, sustaining 331, share 0.2740
+
+[exited with code 0]
