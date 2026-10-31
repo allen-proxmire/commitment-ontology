@@ -183,6 +183,35 @@ A three-strand twisted braid has three kinds of label, and each gives one kind o
 - Three forces from three independent changes.
 - The arrow as the source of the weak force's chirality survives only with a new ingredient. The candidate is ribbon framing: a strand's twist about its own axis, read relative to the arrow. That would be a new statement, not yet tested.
 
+### Ribbon framing, tested: excluded; two findings on the way
+**The statement:** handedness is the sense of a ribbon's twist about its own axis, read relative to the arrow.
+
+**Excluded.** A ribbon's twist is already its charge, Q = (e/3)Σtᵢ. The left- and right-handed electron have the same charge, so they have the same twists, so this statement gives them the same handedness. A second ribbon label would be the Standard Model's assignment of weak isospin put in by hand.
+
+**Finding 1: the weak step as a uniform shift (a reading).** Bilson-Thompson's W± is a triplet of like charges on the trivial braid. In twist terms it adds ±1 to every strand at once:
+$$
+(t_1,t_2,t_3)\ \to\ (t_1\pm1,\ t_2\pm1,\ t_3\pm1),\qquad \Delta Q=\pm e .
+$$
+- ν (0,0,0) ↔ e⁻ (−,−,−); u (+,+,0) ↔ d (0,0,−).
+- The odd strand stays the odd strand, so colour is kept: the weak force changes flavour, not colour.
+- Twists stay in {−1, 0, +1}, so the shift closes on the fifteen states: e∓, ν, u, d, ū and d̄ in three colours each. No other charge appears.
+
+**Finding 2: the neutrino is its own antiparticle (an inference).**
+- In Bilson-Thompson's model the antiparticle is the top-to-bottom mirror of the braid. Mirroring turns positive crossings into negative ones, which the arrow forbids.
+- So in CO an antiparticle can only be the same positive braid with its twists negated: e⁺ = (+,+,+), d̄ = (+,0,0), ū = (−,−,0).
+- Negating (0,0,0) gives (0,0,0). So ν = ν̄: the neutrino is Majorana.
+- **This removes one of the facts tested above.** The observed fact is that only ν_L and ν̄_R are seen, not that a right-handed neutrino exists and is inert. A Majorana neutrino needs no separate ν_R; its right-handed state is the antineutrino, which does feel the weak force.
+
+**What it predicts.** Neutrinoless double beta decay must occur. With the Koide masses above (NuFIT 6.0: sin²θ₁₂ = 0.308, sin²θ₁₃ = 0.0222), the effective mass is
+$$
+m_{\beta\beta}=\Big|\,c_{12}^2c_{13}^2m_1+s_{12}^2c_{13}^2m_2e^{i\alpha}+s_{13}^2m_3e^{i\beta}\Big| = |\,0.24+2.61\,e^{i\alpha}+1.11\,e^{i\beta}|\ \text{meV}\ \in[1.3,\ 4.0]\ \text{meV}.
+$$
+- This is below every running and planned experiment (LEGEND-1000 and nEXO aim at about 10–20 meV), so it cannot be checked soon.
+- It would be excluded if the neutrino were shown to be Dirac. A Dirac neutrino needs a second untwisted braid that negation does not reach, so it needs a label this picture lacks.
+- **Grade: inference.** It rests on reading the antiparticle as twist negation, which follows from the arrow plus the braid picture. It is not a derivation from CO's rules.
+
+**Still open:** why the weak shift acts only on left-handed states. This picture now has no handedness label at all, and no candidate for one has survived.
+
 ### What to expect at large budgets (heuristic, not checked)
 For long positive braids, three things are expected:
 - **The conditions become nearly automatic:** almost every long word uses every generator (unsplittable) and is not a power (primitive).
