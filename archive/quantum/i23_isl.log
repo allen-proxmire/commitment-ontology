@@ -1,0 +1,18 @@
+Run 96 cap reproduced: 5.1115769942423e-05
+fractional change of the signal, Lee geometry (k = 120/22 mm), gap s:
+  r_C (um):       1        3       10       20       30       40       51
+  s= 52 um: +0.0e+00  +0.0e+00  -7.1e-10  -3.6e-05  -1.0e-03  -5.8e-03  -1.9e-02
+  s= 30 um: +0.0e+00  +0.0e+00  -1.3e-06  -4.5e-04  -4.1e-03  -1.5e-02  -3.7e-02
+  s= 20 um: +0.0e+00  -2.1e-14  -1.7e-05  -1.2e-03  -7.2e-03  -2.1e-02  -4.8e-02
+  s= 10 um: +0.0e+00  -1.2e-08  -1.4e-04  -2.8e-03  -1.2e-02  -3.0e-02  -6.2e-02
+r_C at which |deviation| reaches a given precision, Lee geometry:
+  s= 52 um  1e-01:  78.9 um;  1e-02:  44.4 um;  1e-03:  30.0 um
+  s= 30 um  1e-01:  70.1 um;  1e-02:  36.5 um;  1e-03:  22.9 um
+  s= 20 um  1e-01:  65.8 um;  1e-02:  32.6 um;  1e-03:  19.4 um
+  s= 10 um  1e-01:  61.3 um;  1e-02:  28.4 um;  1e-03:  15.5 um
+  r_C=5 um, sigma=6.1 um, exp(-s^2/2sigma^2) at s=52 um: 2.2e-16
+  r_C=10 um, sigma=12.2 um, exp(-s^2/2sigma^2) at s=52 um: 1.2e-04
+  r_C=20 um, sigma=24.5 um, exp(-s^2/2sigma^2) at s=52 um: 1.1e-01
+finer patterning (k x10, x30) at s = 10 um, Lee's plate thicknesses:
+  k x10 (wavelength 115 um): 1e-02:   8.5 um;  1e-03:   5.8 um
+  k x30 (wavelength 38 um): 1e-02:   4.6 um;  1e-03:   3.5 um

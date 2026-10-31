@@ -1,0 +1,8 @@
+a=1.000 B16-NR top at the cap (a*Pinf >= 5.05e27): Pinf=5.05e+27, p_c=2.84e+18, hop=1.72e+09 l_P, wall 5.6e27*a=5.6e+27, clock floor 8e4
+a=1.000 registered top (a*Pinf >= 5.25e26): Pinf=5.25e+26, p_c=6.28e+17, hop=8.07e+08 l_P, wall 5.6e27*a=5.6e+27, clock floor 8e4
+a=1.000 floor (a*Pinf <= 1.78e35): Pinf=1.78e+35, p_c=3.05e+23, hop=5.63e+11 l_P, wall 5.6e27*a=5.6e+27, clock floor 8e4
+a=6.283 B16-NR top at the cap (a*Pinf >= 5.05e27): Pinf=8.04e+26, p_c=1.33e+17, hop=9.30e+08 l_P, wall 5.6e27*a=3.5e+28, clock floor 8e4
+a=6.283 registered top (a*Pinf >= 5.25e26): Pinf=8.36e+25, p_c=2.93e+16, hop=4.37e+08 l_P, wall 5.6e27*a=3.5e+28, clock floor 8e4
+a=6.283 floor (a*Pinf <= 1.78e35): Pinf=2.83e+34, p_c=1.43e+22, hop=3.05e+11 l_P, wall 5.6e27*a=3.5e+28, clock floor 8e4
+a=1.0: 4-volume form needs mass density 5.15e+96 kg/m^3 = 1.00 x Planck density
+a=6.283: 4-volume form needs mass density 3.24e+97 kg/m^3 = 6.28 x Planck density
