@@ -114,6 +114,16 @@ So "why three families" and "why three strands" are the same question. The braid
 
 With three strands about half of everything that can be built holds together; with more strands most of it falls apart. On this reading the principle is "the arrangement in which patterns built at random most often last", not "the most patterns". Because it was chosen after the count, it counts as evidence only if it is stated in advance and holds on a test not yet run: larger budgets, or a different property.
 
+### Stated in advance (31 October, before the larger count)
+**Principle S:** among strand numbers n ≥ 2, the share of patterns that sustain themselves at a given renewal cost B is largest at n = 3.
+- **Patterns** are classes of positive braid words of length L = B − n, under the braid relations and cyclic rotation.
+- **Sustaining** means one piece, unsplittable and primitive, with primitive meaning that no word in the class is a power.
+
+**The test:**
+- Exact enumeration with these equivalences built directly from the positive-monoid relations, checked first against the counts above at B ≤ 13.
+- The cases: B = 15 for n = 2…7, and B = 17 for n = 3 and 4. Larger cases are too large to enumerate here.
+- **Kill rule:** S fails if any n ≠ 3 has a share at least as large as n = 3 in any tested case.
+
 ## 6. Grade
 - **The circulant form and √m = amplitude:** a reading. Brannen's parametrisation, with CO's possibility = |amplitude|².
 - **Q = 1/(3 p_stay), and Koide ⇔ p_stay = ½:** derived (algebra).
