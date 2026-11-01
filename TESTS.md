@@ -46,9 +46,21 @@ $$
 ## 4. Gravity is GR's
 With ε = 0, CO's gravity has no departure from GR outside matter: PPN β = γ = 1, no preferred-frame effects, GR's black holes. **Kill test:** any confirmed departure from GR in the solar system, in pulsars or in gravitational waves.
 
+## 5. The neutrino is its own antiparticle (from the particle reading)
+The arrow forbids mirror braids. So in CO's braid picture an antiparticle is the same braid with its twists negated, and the neutrino's untwisted braid (0,0,0) is its own negation: ν = ν̄. This is an inference from the braid reading ([`ONTOLOGY.md`](ONTOLOGY.md), Particles), not from CO's core rules.
+- **Consequence:** neutrinoless double beta decay occurs.
+- **With Koide-form neutrino masses** (0.36, 8.66 and 50.1 meV; NuFIT 6.0, normal ordering), the effective mass is
+$$
+m_{\beta\beta}=\big|\,c_{12}^2c_{13}^2m_1+s_{12}^2c_{13}^2m_2e^{i\alpha}+s_{13}^2m_3e^{i\beta}\big|\in[1.3,\ 4.0]\ \text{meV}.
+$$
+  This is below the reach of planned experiments (about 10–20 meV). The range uses Brannen's masses, so it tests the Koide reading as well as ν = ν̄.
+- **Kill tests:**
+  - the neutrino shown to be Dirac, for example by a right-handed neutrino state that takes part in interactions;
+  - neutrinoless double beta decay seen with m_ββ well above 4 meV. That would exclude the Koide-form masses, though not ν = ν̄.
+
 ## What CO does not predict
 - No value of p_c, r_C or κ_b.
 - No dimension.
-- No particle mass.
+- No particle mass. The Koide reading fits known masses; its neutrino masses are Brannen's prediction, used above only to set the range.
 - No coupling.
 - Λ is taken from data. CO's one claim about the vacuum is that its energy does not gravitate (R5).
