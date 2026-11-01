@@ -41,8 +41,32 @@ The quantity that slows clocks and the quantity that gravitates are the same, co
 
 **Clock mechanism vs clock reading.** A clock's mechanism references the possibility around it; a clock's reading references another clock. Neither needs a background tick.
 
+## The balance
+
+Strict local hold-and-release gives no field outside matter: a renewal engages at its adjacency and releases at the same adjacency, net zero per cycle. A clock a metre above the ground would run at full rate. So matter must be a **net sink** of free possibility. A steady point sink into a conserved, diffusing stock gives
+
+$$\nabla^2 P_{\text{free}}=\sigma\,\delta(\mathbf r)\ \Rightarrow\ P_{\text{free}}(r)=P_\infty-\frac{k}{r},\qquad k\propto\sigma ,$$
+
+Newton's potential, linear and unscreened, from conservation alone. The question is what makes matter a sink.
+
+| option | statement | status |
+|---|---|---|
+| **pooling** | a renewal releases a fraction (1 − δ) of what it engaged; the rest stays engaged. The body's engaged stock grows, free possibility is drawn in to meet the deficit, and that draw is the field. The hole is where pooling finishes: h → 1 | **ruled** |
+| circulation | engage from the near side, release to the far side, through a channel patterns do not ride | candidate |
+| nothing | strict local release, no net sink | excluded: no field outside matter |
+
+**Pooling, in one sentence.** A renewal releases a fraction (1 − δ) of what it engaged; the rest stays engaged.
+
+**What pooling costs.** δ is 2.0's first constant that is not ħ and not borrowed: a fraction of a quantum not returned per cycle, the same for every renewal. Sink strength is then
+
+$$\sigma=\delta\,\hbar\,\omega=\delta\,mc^2 ,$$
+
+so G ∝ δ, constant if δ is. The debt is that the body's own h grows, so its clocks slow over cosmic time. Lunar laser ranging and pulsar timing bound this: the body's self-slowing rate ḣ must sit under about 10⁻¹³ per year. That is a window on δ, not a contradiction; it is the first number data puts on 2.0.
+
+**Second leg.** "Possibility moves toward engagement" is a flow statement and needs the sink. If the sink failed, attraction would still follow from a static gradient: patterns hop on free possibility, hop slower where it is scarce, and so linger near matter. Not needed under pooling; noted.
+
 ## Open
 
-- **The balance.** Inflow toward engagement with nothing consumed: a return flow, or slow pooling. Decides the field's shape.
 - **The masses.** What sets each pattern's renewal frequency.
 - **Space.**
+- **δ.** Its value, and whether it is one number for every renewal.
