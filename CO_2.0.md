@@ -34,6 +34,7 @@ A restart from the primitives. Nothing from [`CO_1.0_misdefined-primitives/ONTOL
 | (B) one quantum per renewal | every renewal engages the same amount, ħ. Mass is renewal frequency: ω = mc²/ħ. The first scale is an action, and it arrives with the first renewal |
 | g linear | renewal rate = (m/ħ)(1 − h). h = 1 is the hole: everything local engaged, nothing free, renewal starves and matter becomes record. A ceiling approached, not a point reached; with pooling as a share of what is there, both renewal and retention vanish together as P_free → 0 |
 | gravity | possibility moves toward where it is being engaged. Patterns ride possibility. So patterns fall toward matter, mass-independent. The slowed clock is the view from outside |
+| inertia | possibility in transit keeps its direction until a commitment redirects it; the flow it rides bends it on the way. A pattern between commitments goes on as it was going, carried by the flow. Free fall is inertia plus the flow. Retires 1.0's borrowed inertia |
 
 **Why (B).** The alternative, universal rate with varying engagement, cannot give universal redshift without an extra assumption, and gives E = ħω no reading. (B) gives both:
 
@@ -115,7 +116,13 @@ In fixed adjacency with no dilution the runaway does not stop at clumps; everyth
 
 ## Today's expansion
 
-Space is route count: distance is hops, dimension is how the neighbourhood grows with hops, expansion is new places between old ones. A new *relation* is a shortcut and shrinks distance; only new *places* expand space.
+Space is route count: distance is hops, dimension is how the neighbourhood grows with hops. Two things change the hop distance between galaxies: matter moving, and new places between old ones. A new *relation* is a shortcut and shrinks distance; only new *places* expand space.
+
+**Expansion is recession, braked, plus births.** (This replaces an earlier reading in which expansion was births alone; R2 showed births give only a Λ-like term, and the decelerating eras were missing.) During the first epoch possibility poured from over-capacity places into newborn ones, an outward flow, and matter rode it. When births stopped the flow stopped, but by inertia the matter kept receding. Gathering brakes it. For a uniform cloud of density ρ, Newton (derived above) on a shell of radius a gives
+
+$$\ddot a=-\frac{4\pi G}{3}\rho\,a\quad\Rightarrow\quad H^2=\frac{8\pi G}{3}\rho-\frac{k}{a^2},$$
+
+Friedmann's equation and the matter era, H ∝ a^{−3/2}, with nothing borrowed. The radiation era needs pressure to draw, which is the Tolman weight: a debt, named. Births in the voids (below) add a flat term: Λ.
 
 | rule | statement | status |
 |---|---|---|
@@ -159,7 +166,7 @@ $$P_\infty=\frac{P_{\text{free,total}}}{N},\qquad \frac{dN}{dt}=N\,r_b,\qquad H=
 **R2 ([`CO_2.0_runs/R2_H_vs_A3/`](CO_2.0_runs/R2_H_vs_A3/R2_result.md)).** H ∝ A³ against the measured history. No real wave background has the required shape: the radiation and matter eras need A falling as a^{−2/3} then a^{−1/2}; primordial rms is flat, a single mode falls as a^{−1}, the astrophysical background rises. **As the sole driver of expansion the wave rule is excluded.** It fits only the late era: a flat primordial crest gives H ≈ constant, matching ΛCDM at z < 1 to about 30%. The mechanism can play Λ; it cannot play the decelerating eras.
 
 **What it owes.**
-- A driver for the radiation and matter eras. 2.0 has none: expansion is births, and births by waves are Λ-like. The one door: free-stock births (R1 Case A) give H ∝ a^{−3α}; a matter era needs a crest tail index α ≈ ½, a radiation era α ≈ ⅔, against 3 for a 1/distance population. A knob, not a result.
+- The radiation era: pressure drawing (the Tolman weight), not yet in 2.0.
 - A per-place crest definition tied to the hop scale, without which "why now" cannot be evaluated.
 - Matterless record in voids: newborn places carry a speck of record and no matter. Record gravitates. Not identified with anything; dark matter sits in halos, not voids.
 - Geometry, as before.
@@ -167,6 +174,6 @@ $$P_\infty=\frac{P_{\text{free,total}}}{N},\qquad \frac{dN}{dt}=N\,r_b,\qquad H=
 ## Open
 
 - **The masses.** What sets each pattern's renewal frequency.
-- **Space.** A driver for the decelerating eras; the per-place crest definition; geometry.
+- **Space.** The radiation era (pressure drawing); the per-place crest definition; geometry.
 - **δ.** Its value, and whether it is one number for every renewal. No longer bounded by Ġ/G.
 - **P_max.** Its value; roughly P_max/ħ ≳ 10²¹ if the wave rule holds.
