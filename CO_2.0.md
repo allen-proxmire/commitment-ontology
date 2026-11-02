@@ -2,6 +2,8 @@
 
 A restart from the primitives. Nothing from [`ONTOLOGY.md`](ONTOLOGY.md) is assumed; what is kept is re-derived or re-ruled here. No runs. Conversation only, until the rulings settle.
 
+**Method.** A rule is added only where the primitives are silent, and only if it retires at least one thing previously added by hand. A rule whose prerequisites are not yet ruled stays **candidate**.
+
 ## Primitives
 
 | primitive | what it is |
@@ -77,9 +79,23 @@ $$\dot P_{\text{free}}=-\dot P_{\text{engaged}}=-\delta\sum_i m_ic^2 .$$
 
 **Second leg.** "Possibility moves toward engagement" is a flow statement and needs the sink. If the sink failed, attraction would still follow from a static gradient: patterns hop on free possibility, hop slower where it is scarce, and so linger near matter. Not needed under pooling; noted.
 
+## The beginning
+
+At the start everything is free: no matter, no renewal, no count. Under the rulings above that state is stable; nothing makes free possibility commit. The first commitment cannot be a renewal.
+
+| option | statement | status |
+|---|---|---|
+| threshold | an adjacency holds at most P_max of free possibility; above that it commits. Retires "the vacuum never commits" (today P∞ < P_max); the start commits everywhere at once; the first epoch ends when P_free ≤ P_max everywhere, so P∞ ≲ P_max today | candidate |
+| steep rate | r = r₀(P_free/P*)ⁿ with n chosen large | set aside: an exponent nothing fixes |
+| boundary condition | the record has a first line; CO does not ask why | holds by default until the threshold's prerequisites are ruled |
+
+**Prerequisites for the threshold.**
+- Does a bare commitment (one with no predecessor) start a renewal cycle, or leave only a record?
+- What lowers P_free to P_max: pooling (a large primordial record), or more adjacencies (space grows)?
+
 ## Open
 
 - **The masses.** What sets each pattern's renewal frequency.
 - **Space.**
 - **δ.** Its value, and whether it is one number for every renewal.
-- **The beginning.** Everything free, pooling one-way: what the first renewal needed in order to happen.
+- **Bare commitment.** Whether it renews.
