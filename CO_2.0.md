@@ -141,7 +141,7 @@ At the start everything is free: no matter, no renewal, no count. Under the ruli
  $$h_0 = 1-\frac{P_{\max}}{P_0},$$
  P₀ the free possibility per adjacency at the start. Uniform h is unobservable (every clock slowed alike; only ratios are read); its one trace is P∞ ≲ P_max today. The alternative, more adjacencies (space grows), was not taken: it needs a rule about space, and nothing forces one.
 
-**The missing sentence (candidate).** The one being comes apart into many places at once, every place related to every other because there is yet no distance; a relation persists only while possibility passes through it (a relation carrying less than one quantum passes no pattern, so it is not one), so as places multiply the relations thin to those each place can feed, and the mismatch cost settles what remains. Its dimension is three by the consistency condition; the test is the run named under Dimension: a complete graph, subdivided and thinned under a conserved stock and a slide-invariant cost, and what it settles to.
+**The missing sentence (candidate).** The one being comes apart into many places at once, every place related to every other because there is yet no distance; a relation persists only while possibility passes through it (a relation carrying less than one quantum passes no pattern, so it is not one), so as places multiply the relations thin to those each place can feed, and the mismatch cost settles what remains. Its dimension is three by the consistency condition. **R4 ([`CO_2.0_runs/R4_first_relating/`](CO_2.0_runs/R4_first_relating/R4_result.md)): excluded as written.** Subdivision preserves the start's topology and thinning removes nothing among the first relations: the result is the complete graph with chains, one-dimensional in between. The mismatch cost cannot rescue it; a cost prices relations that exist and creates none. What the sentence lacks is a rule by which new relations form between places not yet related. Second finding, noted: thinning leaves each place with about P∞/ħ relations, so a lattice-like adjacency would mean P∞ of order a few quanta.
 
 **What the beginning leaves.** Fed matter at every adjacency, and a uniform record. Today matter is sparse.
 
@@ -224,7 +224,7 @@ $$P_\infty=\frac{P_{\text{free,total}}}{N},\qquad \frac{dN}{dt}=N\,r_b,\qquad H=
 ## Open
 
 - **The masses.** What sets each pattern's renewal frequency.
-- **The beginning's missing sentence.** How many first places, related how. Dimension is three by the method; the mechanism is here.
+- **The beginning's missing sentence.** How new relations form between places not yet related. Subdivision alone leaves the first relating as the last (R4). Dimension is three by the method; the mechanism is here.
 - **Charge.** A ratio on relations is a gauge field's shape. Not pursued.
 - **δ.** Its value, and whether it is one number for every renewal. No longer bounded by Ġ/G.
 - **P_max.** Its value.
