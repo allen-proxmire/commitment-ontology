@@ -10,14 +10,14 @@ A restart from the primitives. Nothing from [`ONTOLOGY.md`](ONTOLOGY.md) is assu
 |---|---|
 | **Possibility** | the conserved stuff |
 | **Commitment** | one irreversible act on it |
-| **Matter** | commitment that renews |
 
-**Matter, in one sentence.** Matter is a commitment that, on completing, engages adjacent possibility into its next commitment, releases what the last one held, and adds one to its count; it persists exactly as long as that cycle keeps closing.
+**Renewal.** A commitment, on completing, engages adjacent free possibility into its next commitment, releases what the last one held, and adds one to its count. Any commitment does this if free possibility is adjacent to engage; it halts when none is. Nothing more is needed (ruled; the alternatives, a predecessor required or a probability, leave the beginning without matter or add a number).
 
 ## Consequences, not primitives
 
 | term | what it is |
 |---|---|
+| **Matter** | a commitment that keeps being fed. Not a kind of thing but a commitment's condition; the same commitment, starved, is a record. Mass is renewal frequency |
 | **Time** | matter's count. Read only by ratio: N_A / N_B. Nothing says "what time it is" |
 | **Record** | a commitment matter carries forward by renewing. Kept by being renewed; nothing else keeps anything |
 | **Pattern** | possibility between commitments |
@@ -32,7 +32,7 @@ A restart from the primitives. Nothing from [`ONTOLOGY.md`](ONTOLOGY.md) is assu
 | vacuum | possibility with no commitment. Timeless and scaleless by construction: zero commitments, zero count. Flow is undefined there; it becomes a fact only against matter's count |
 | hold-and-release | a renewal engages possibility, completes, releases it. Nothing is consumed. P_free = P(1 − h), h the fraction engaged |
 | (B) one quantum per renewal | every renewal engages the same amount, ħ. Mass is renewal frequency: ω = mc²/ħ. The first scale is an action, and it arrives with the first renewal |
-| g linear | renewal rate = (m/ħ)(1 − h). h = 1 is the hole: everything local engaged, nothing free, no renewal completes. A ceiling approached, not a point reached |
+| g linear | renewal rate = (m/ħ)(1 − h). h = 1 is the hole: everything local engaged, nothing free, renewal starves and matter becomes record. A ceiling approached, not a point reached |
 | gravity | possibility moves toward where it is being engaged. Patterns ride possibility. So patterns fall toward matter, mass-independent. The slowed clock is the view from outside |
 
 **Why (B).** The alternative, universal rate with varying engagement, cannot give universal redshift without an extra assumption, and gives E = ħω no reading. (B) gives both:
@@ -90,7 +90,7 @@ At the start everything is free: no matter, no renewal, no count. Under the ruli
 | boundary condition | the record has a first line; CO does not ask why | holds by default until the threshold's prerequisites are ruled |
 
 **Prerequisites for the threshold.**
-- Does a bare commitment (one with no predecessor) start a renewal cycle, or leave only a record?
+- ~~Does a bare commitment renew?~~ Ruled: yes, if fed (see Renewal). The beginning makes matter at once, everywhere.
 - What lowers P_free to P_max: pooling (a large primordial record), or more adjacencies (space grows)?
 
 ## Open
@@ -98,4 +98,3 @@ At the start everything is free: no matter, no renewal, no count. Under the ruli
 - **The masses.** What sets each pattern's renewal frequency.
 - **Space.**
 - **δ.** Its value, and whether it is one number for every renewal.
-- **Bare commitment.** Whether it renews.
