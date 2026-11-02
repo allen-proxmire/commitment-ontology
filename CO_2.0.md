@@ -23,7 +23,7 @@ A restart from the primitives. Nothing from [`ONTOLOGY.md`](ONTOLOGY.md) is assu
 | **Pattern** | possibility between commitments |
 | **Place, relation** | the adjacency along which possibility moves. No claim that space comes from it |
 
-**Space:** nothing said.
+**Space:** nothing said. Nothing about space has been added by hand, so by the method no rule about it can yet be written.
 
 ## Rulings
 
@@ -85,16 +85,22 @@ At the start everything is free: no matter, no renewal, no count. Under the ruli
 
 | option | statement | status |
 |---|---|---|
-| threshold | an adjacency holds at most P_max of free possibility; above that it commits. Retires "the vacuum never commits" (today P∞ < P_max); the start commits everywhere at once; the first epoch ends when P_free ≤ P_max everywhere, so P∞ ≲ P_max today | candidate |
+| threshold | an adjacency holds at most P_max of free possibility; above that it commits. Retires "the vacuum never commits" (today P∞ < P_max); the start commits everywhere at once; the first epoch ends when P_free ≤ P_max everywhere, so P∞ ≲ P_max today | **ruled** |
 | steep rate | r = r₀(P_free/P*)ⁿ with n chosen large | set aside: an exponent nothing fixes |
-| boundary condition | the record has a first line; CO does not ask why | holds by default until the threshold's prerequisites are ruled |
+| boundary condition | the record has a first line; CO does not ask why | superseded by the threshold |
 
-**Prerequisites for the threshold.**
+**Prerequisites for the threshold.** Both met.
 - ~~Does a bare commitment renew?~~ Ruled: yes, if fed (see Renewal). The beginning makes matter at once, everywhere.
-- What lowers P_free to P_max: pooling (a large primordial record), or more adjacencies (space grows)?
+- ~~What lowers P_free to P_max?~~ Ruled: pooling. Every renewal retains δħ as record; P_free falls until it reaches P_max and new commitments stop. What remains is a uniform primordial record,
+ $$h_0 = 1-\frac{P_{\max}}{P_0},$$
+ P₀ the free possibility per adjacency at the start. Uniform h is unobservable (every clock slowed alike; only ratios are read); its one trace is P∞ ≲ P_max today. The alternative, more adjacencies (space grows), was not taken: it needs a rule about space, and nothing forces one.
+
+**What the beginning leaves.** Fed matter at every adjacency, and a uniform record. Today matter is sparse. Gathering (possibility toward engagement, patterns following) is the ruled mechanism; whether it does the whole job is open.
 
 ## Open
 
 - **The masses.** What sets each pattern's renewal frequency.
 - **Space.**
 - **δ.** Its value, and whether it is one number for every renewal.
+- **P_max.** Its value.
+- **From matter everywhere to matter sparse.** Whether gathering alone does it.
