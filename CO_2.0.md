@@ -56,6 +56,14 @@ $$ds^2=-e^{-2U}c^2dt^2+e^{2U}d\mathbf x^2 ,$$
 
 γ = β = 1, no horizon (N → 0 only as r → 0): the hole as a ceiling approached, with its metric. This is what 1.0 borrowed as R9. **Kill test (R3, [`CO_2.0_runs/R3_strong_field/`](CO_2.0_runs/R3_strong_field/R3_result.md)):** the exponential metric departs from Kerr in the strong field. Photon sphere at ρ = 2M; shadow radius 2eM against 3√3M, **4.6% larger**; ISCO frequency **7% lower**. EHT: M87* δ = −0.01 ± 0.17, Sgr A* about −0.08 ± 0.09; not excluded, about 1σ on Sgr A*, and the departure is the size of Kerr's own spin dependence. Next-generation EHT at a few percent tests it. The first place 2.0 says GR is wrong rather than reproduced, with a sign: shadows slightly larger, ISCO frequencies slightly lower. Ringdown not computed.
 
+**Gravitational radiation.** What 2.0 has is one field, h, with inertia for possibility in transit, so the dynamical field equation is a scalar wave equation, □ ln P_free = σ. That radiates, at the hop speed, and conservation kills the monopole and dipole terms, leaving the quadrupole. But a scalar quadrupole is not GR's:
+
+$$P_{\text{scalar}}=\frac{G}{60c^5}\Big[(\dddot Q_{ii})^2+2\,\dddot Q_{ij}\dddot Q_{ij}\Big],\qquad P_{\text{GR}}=\frac{G}{5c^5}\Big[\dddot Q_{ij}\dddot Q_{ij}-\tfrac13(\dddot Q_{ii})^2\Big],$$
+
+and for a circular binary (trace constant) the ratio is **1/6**. The Hulse–Taylor decay is GR's to 0.3%. Excluded. Independently, a scalar ripple is a breathing mode, and LIGO–Virgo polarization tests favour tensor over pure scalar by large factors. Excluded twice. **Result:** gravitational waves are not ripples in free possibility. They must be ripples in the routes themselves, transverse and traceless, which needs the adjacency to carry dynamics of its own. 2.0 says nothing about that; it is the geometry question, now with a measured number attached. Statics (R3 and the classical tests) are untouched: they depend on h alone.
+
+**Consequence for the wave rule.** "Wave crests tip edge places" took a gravitational wave to be a surplus of free possibility. If waves are route ripples, there is no surplus to tip, and the births-by-wave candidate, and the Λ term with it, lose their mechanism. They stand only if route ripples also move free possibility, which nothing yet says. Marked accordingly below.
+
 **Light bending.** A pattern crossing a region of engaged fraction h has its ticks slowed by (1 − h) and, under "route lengthens", its path stretched by (1 + h). Its coordinate speed is
 
 $$c(h)=c\,\frac{1-h}{1+h}\approx c\,(1-2h),\qquad n\approx 1+2h ,$$
@@ -164,7 +172,7 @@ With it, radiation draws by its energy; frequency falls as 1/a and number as a�
 
 | third way | statement | status |
 |---|---|---|
-| wave crests tip edge places | a gravitational wave is a ripple in free possibility (a massless pattern). Voids sit just under capacity, P∞ ≲ P_max. A crest larger than the gap P_max − P∞ pushes a place over capacity, and over capacity a place commits. The threshold, already ruled, does the work | candidate; with the free stock conserved, **excluded** by R1 (the gap opens, H falls as a⁻⁹); survives only with "born of record" |
+| wave crests tip edge places | a gravitational wave is a ripple in free possibility (a massless pattern). Voids sit just under capacity, P∞ ≲ P_max. A crest larger than the gap P_max − P∞ pushes a place over capacity, and over capacity a place commits. The threshold, already ruled, does the work | candidate; with the free stock conserved, **excluded** by R1; survives only with "born of record"; and its premise, that a gravitational wave is a surplus of free possibility, is **undercut** by the radiation result (waves are route ripples). Stands only if route ripples move free possibility |
 | massive patterns commit at a rate | λ = ε mc²/ħ per pattern between commitments; ε a new constant. Births ∝ mass in transit: constant, so a falling Hubble rate | set aside: a constant nothing fixes, and no acceleration. A massive pattern arriving at an edge place tips it anyway, without ε |
 | light commits spontaneously | | excluded: distant sources are not dimmed, the CMB is a blackbody |
 | free possibility commits on its own | births ∝ free stock ∝ places: Λ | excluded: the vacuum commits, against the threshold |
@@ -198,6 +206,6 @@ $$P_\infty=\frac{P_{\text{free,total}}}{N},\qquad \frac{dN}{dt}=N\,r_b,\qquad H=
 
 - **The masses.** What sets each pattern's renewal frequency.
 - **Space.** Whether "route lengthens" can be derived rather than read; the per-place crest definition; geometry.
-- **Gravitational radiation.** 2.0 has no wave equation; the binary-pulsar decay (GR to 0.1%) cannot yet be compared.
+- **Gravitational radiation.** A scalar field gives 1/6 of GR's power and a breathing mode; both excluded. Waves must be ripples in the routes: the adjacency needs dynamics. The same question as geometry.
 - **δ.** Its value, and whether it is one number for every renewal. No longer bounded by Ġ/G.
 - **P_max.** Its value; roughly P_max/ħ ≳ 10²¹ if the wave rule holds.
