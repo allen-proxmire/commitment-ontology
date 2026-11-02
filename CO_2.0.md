@@ -35,7 +35,8 @@ A restart from the primitives. Nothing from [`CO_1.0_misdefined-primitives/ONTOL
 | g linear | renewal rate = (m/ħ)(1 − h). h = 1 is the hole: everything local engaged, nothing free, renewal starves and matter becomes record. A ceiling approached, not a point reached; with pooling as a share of what is there, both renewal and retention vanish together as P_free → 0 |
 | gravity | possibility moves toward where it is being engaged; that inflow is what sets h around matter. Patterns fall by **refraction**: a pattern hops on its place's ticks, ticks are slower where h is higher, so a pattern's wavefront turns toward matter. For a matter wave with ω = mc²/ħ this gives g = −c²∇h exactly, mass-independent: Newton. (Earlier wording, "patterns ride possibility," is withdrawn as the mechanism: the inflow's drift speed falls as 1/r² and is suppressed by the hop length, so it cannot give Newton's 1/r² acceleration. The flow sets the field; refraction moves the pattern) |
 | inertia | possibility in transit keeps its direction until a commitment redirects it; refraction on the clock-rate field bends it on the way. A pattern between commitments goes on as it was going. Free fall is inertia plus refraction. Retires 1.0's borrowed inertia |
-| route lengthens | engaged possibility is in the way: a hop through a place where a fraction h is engaged routes around the engaged share, so the path is longer by 1/(1 − h) ≈ 1 + h. The same h slows the ticks and lengthens the route | candidate |
+| route lengthens | engaged possibility is in the way: a hop through a place where a fraction h is engaged routes around the engaged share, so the path is longer by P∞/P_free = e^{U}. The same h slows the ticks and lengthens the route | candidate |
+| ratio hopping | the substrate is scaleless, so a hop compares neighbours by ratio, never by difference; the field is linear in ln P_free, N = e^{−U} | **ruled** (forced by scalelessness; Mercury excludes difference hopping) |
 
 **Why (B).** The alternative, universal rate with varying engagement, cannot give universal redshift without an extra assumption, and gives E = ħω no reading. (B) gives both:
 
@@ -44,6 +45,16 @@ $$\frac{N_A}{N_B}=\frac{1-h_A}{1-h_B},\qquad h\propto\sum_i m_i\ \text{over adja
 The quantity that slows clocks and the quantity that gravitates are the same, counted the same way.
 
 **Clock mechanism vs clock reading.** A clock's mechanism references the possibility around it; a clock's reading references another clock. Neither needs a background tick.
+
+**Perihelion, and the exterior.** The precession per orbit is (6πGM/c²a(1 − e²))·(2 + 2γ − β)/3; γ = 1 is in hand, and Mercury fixes β = 1 to a part in a thousand. The difference-linear field (P_free = P∞ − k/r) gives N = 1 − U with no second-order term, N² = 1 − 2U + U², β = ½: Mercury at 7/6 of GR, excluded. What fixes it was ruled first: the substrate is scaleless, so a hop can compare neighbours only by ratio, P_j/P_i, never by difference. Ratio hopping equalises ln P, and the steady field is
+
+$$\nabla^2\ln P_{\text{free}}=\sigma\,\delta(\mathbf r)\ \Rightarrow\ N=\frac{P_{\text{free}}}{P_\infty}=e^{-U}=1-U+\tfrac{U^2}{2}+\dots,$$
+
+so N² = 1 − 2U + 2U², β = 1, and the route factor P∞/P_free = e^{U} keeps γ = 1. Newton, bending and the Shapiro delay are unchanged; Mercury is right. **Ruled:** hops compare by ratio (forced by scalelessness; Mercury excludes the alternative). The exterior is then the exponential metric,
+
+$$ds^2=-e^{-2U}c^2dt^2+e^{2U}d\mathbf x^2 ,$$
+
+γ = β = 1, no horizon (N → 0 only as r → 0): the hole as a ceiling approached, with its metric. This is what 1.0 borrowed as R9. **Kill test:** the exponential metric departs from Kerr at order U³ in the ticks and U² in the route, the strong field: black-hole shadows, ringdown spectra, innermost orbits. Present matches to Kerr are at the 10–20% level; the departure is not computed here. It is the first place 2.0 says GR is wrong rather than reproduced.
 
 **Light bending.** A pattern crossing a region of engaged fraction h has its ticks slowed by (1 − h) and, under "route lengthens", its path stretched by (1 + h). Its coordinate speed is
 
@@ -57,7 +68,7 @@ Strict local hold-and-release gives no field outside matter: a renewal engages a
 
 $$\nabla^2 P_{\text{free}}=\sigma\,\delta(\mathbf r)\ \Rightarrow\ P_{\text{free}}(r)=P_\infty-\frac{k}{r},\qquad k\propto\sigma ,$$
 
-Newton's potential, linear and unscreened, from conservation alone. The question is what makes matter a sink.
+Newton's potential, linear and unscreened, from conservation alone. The question is what makes matter a sink. (At second order the difference-linear form fails; see Perihelion. The field is linear in ln P_free, which agrees at first order.)
 
 | option | statement | status |
 |---|---|---|
