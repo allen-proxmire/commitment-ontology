@@ -122,21 +122,35 @@ Space is route count: distance is hops, dimension is how the neighbourhood grows
 | places are born | a place is born by its first commitment. A pattern that commits mid-transit makes a new place where it commits: δħ·(P_free/P_max) stays as its record, the rest is its free content | candidate |
 
 **What it gives.**
-- Where: inside bound systems patterns commit at matter at once, so no new places; bound things do not expand. Across voids patterns travel far with nothing to commit at, so that is where places are born. Voids grow.
-- Acceleration: births go with transit, transit grows with the voids. Routes beget routes: exponential growth, which is what Λ describes.
+- Where: inside bound systems patterns commit at matter at once, so no new places; bound things do not expand. Across voids there is nothing to commit at, so that is where places are born. Voids grow.
 - The hole is untouched: nothing here turns record into anything.
 - The edge: space is made wherever there is transit and no matter: the voids and the horizon.
 
 **The wall, and the door.** A newborn place holds about ħ of free possibility against a floor of P∞; free possibility flows in and the floor falls everywhere at about the expansion rate. Under pooling as a fixed δħ this gave Ġ/G ≈ H₀ ≈ 7×10⁻¹¹ yr⁻¹ against a bound near 10⁻¹³ yr⁻¹: excluded by about 10³. The one door is pooling as a share of what is there, δħ·(P_free/P_max), which makes the floor unobservable (see The vacuum far away). Checked against the ruled set: conservation, (B), g linear, universal redshift and free fall, Newton in the weak field, the primordial record and the beginning are unchanged; the hole's approach slows; the strong field gains self-screening; the Ġ/G result is retired. Nothing ruled breaks. The door is taken.
 
+**The third way to commit.** Patterns commit at matter, or by the threshold. Voids have no matter and are under capacity, so a mid-transit commitment needs a third way. It carries the number: births per time is the expansion rate.
+
+| third way | statement | status |
+|---|---|---|
+| wave crests tip edge places | a gravitational wave is a ripple in free possibility (a massless pattern). Voids sit just under capacity, P∞ ≲ P_max. A crest larger than the gap P_max − P∞ pushes a place over capacity, and over capacity a place commits. The threshold, already ruled, does the work | candidate |
+| massive patterns commit at a rate | λ = ε mc²/ħ per pattern between commitments; ε a new constant. Births ∝ mass in transit: constant, so a falling Hubble rate | set aside: a constant nothing fixes, and no acceleration. A massive pattern arriving at an edge place tips it anyway, without ε |
+| light commits spontaneously | | excluded: distant sources are not dimmed, the CMB is a blackbody |
+| free possibility commits on its own | births ∝ free stock ∝ places: Λ | excluded: the vacuum commits, against the threshold |
+
+**What the wave rule gives.** A background of waves fills space, so every place has a chance per time of a crest clearing the gap: births ∝ places, exponential growth, which is what Λ describes. The vacuum never commits on its own; it commits only when pushed over the line. The gap widens slowly as births dilute the floor, so the rate per place decays slowly: in Λ language, w just above −1, drifting. (A pattern-based rate alone gives no acceleration: births ∝ patterns in transit, which is constant; a longer crossing gives more chances per pattern and fewer crossings per time, and the two cancel.)
+
+**Kill tests.**
+- Wave attenuation. A crest that tips a place commits part of itself there, so waves lose amplitude crossing voids. GW170817's wave distance matched its light to about 10%, and amplitudes match GR; the per-crest tipping probability must be tiny.
+- Light must pass. A photon carries ħ; if the gap were under ħ, light would commit in voids. So the gap exceeds ħ, and a crest must move more than ħ per place. A crest's displacement per place is of order strain × P∞, with strains near 10⁻²¹, so roughly P∞/ħ ≳ 10²¹: a bound on P_max. The strain-to-possibility mapping is rough; the shape of the argument is not.
+
 **What it owes.**
-- A rate: what makes a pattern commit mid-transit, and how often. Without it, "voids grow" has no number.
+- The gap's history: how close the first epoch left the floor to capacity, and how dilution opened the gap since. That is the expansion curve.
 - Matterless record in voids: newborn places carry a speck of record and no matter. Record gravitates. Not identified with anything; dark matter sits in halos, not voids.
 - Geometry, as before.
 
 ## Open
 
 - **The masses.** What sets each pattern's renewal frequency.
-- **Space.** The mid-transit commitment rate; geometry.
+- **Space.** The gap's history (the expansion curve); geometry.
 - **δ.** Its value, and whether it is one number for every renewal. No longer bounded by Ġ/G.
-- **P_max.** Its value.
+- **P_max.** Its value; roughly P_max/ħ ≳ 10²¹ if the wave rule holds.
