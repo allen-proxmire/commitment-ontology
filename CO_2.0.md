@@ -2,7 +2,7 @@
 
 A restart from the primitives. Nothing from [`ONTOLOGY.md`](ONTOLOGY.md) is assumed; what is kept is re-derived or re-ruled here. No runs. Conversation only, until the rulings settle.
 
-**Method.** A rule is added only where the primitives are silent, and only if it retires at least one thing previously added by hand. A rule whose prerequisites are not yet ruled stays **candidate**.
+**Method.** A rule is added only where the primitives are silent, and only if it retires at least one thing previously added by hand. A rule may also be added when the ruled set contradicts itself or the world, with the contradiction named. A rule whose prerequisites are not yet ruled stays **candidate**.
 
 ## Primitives
 
@@ -23,7 +23,7 @@ A restart from the primitives. Nothing from [`ONTOLOGY.md`](ONTOLOGY.md) is assu
 | **Pattern** | possibility between commitments |
 | **Place, relation** | the adjacency along which possibility moves. No claim that space comes from it |
 
-**Space:** nothing said. Nothing about space has been added by hand, so by the method no rule about it can yet be written.
+**Space:** one candidate, forced by a contradiction (see Gathering and space).
 
 ## Rulings
 
@@ -95,12 +95,29 @@ At the start everything is free: no matter, no renewal, no count. Under the ruli
  $$h_0 = 1-\frac{P_{\max}}{P_0},$$
  P₀ the free possibility per adjacency at the start. Uniform h is unobservable (every clock slowed alike; only ratios are read); its one trace is P∞ ≲ P_max today. The alternative, more adjacencies (space grows), was not taken: it needs a rule about space, and nothing forces one.
 
-**What the beginning leaves.** Fed matter at every adjacency, and a uniform record. Today matter is sparse. Gathering (possibility toward engagement, patterns following) is the ruled mechanism; whether it does the whole job is open.
+**What the beginning leaves.** Fed matter at every adjacency, and a uniform record. Today matter is sparse.
+
+## Gathering and space
+
+Gathering (possibility toward engagement, patterns following) amplifies unevenness and creates none. Even matter stays even. A slightly denser spot engages more, draws more, grows: a runaway on
+
+$$t\sim\frac{1}{\sqrt{G\rho}} .$$
+
+In fixed adjacency with no dilution the runaway does not stop at clumps; everything falls into everything, fast at the start's density. **Contradiction:** the ruled set with no space rule gives a universe of holes. Gathering needs seeds and a brake.
+
+| rule | statement | status |
+|---|---|---|
+| new relations | released possibility that finds no room opens a new relation | candidate |
+
+**What it gives.** While places are over capacity, every renewal releases possibility with nowhere to go, so relations open at the renewal rate of all matter: rapid dilution. It stops by itself when places drop under capacity. Fast growth with a built-in end, started and ended by P_max: inflation with a graceful exit. Seeds: places tip the threshold one by one, not at one instant; the unevenness is spread by the growth. Afterward, gathering.
+
+**What it owes.**
+- Today's expansion. Under this rule space grows only over capacity; today is under. Hubble expansion is ongoing and accelerating. Either released possibility has a slower way to open relations, or today's expansion is something else here.
+- Geometry. The rule opens a relation; it does not say to where. Dimension and the shape of adjacency are untouched.
 
 ## Open
 
 - **The masses.** What sets each pattern's renewal frequency.
-- **Space.**
+- **Space.** Beyond the candidate: what today's expansion is; geometry.
 - **δ.** Its value, and whether it is one number for every renewal.
 - **P_max.** Its value.
-- **From matter everywhere to matter sparse.** Whether gathering alone does it.
