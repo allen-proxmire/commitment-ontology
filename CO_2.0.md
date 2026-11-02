@@ -107,7 +107,7 @@ Newton's potential, linear and unscreened, from conservation alone. The question
 
 **Pooling, in one sentence.** A renewal keeps a share of what is there: it retains δħ·(P_free/P_max) as the body's record and releases the rest. (Ruled in this form; the earlier form, a fixed δħ, is superseded. See Today's expansion for why.)
 
-**The retained fraction is the record.** Of the three readings of "the rest," *destroyed* breaks conservation and leaves no ceiling (the engaged stock would not grow, so h could not reach 1); *leaves* is circulation under another name. *Stays engaged* keeps both, and says what a record is made of: possibility withdrawn from the free stock and held. "It is kept" means "it is still engaged." The hole is a body that is all record and no renewal. The count rising and the free stock falling are one process; the record only grows because δ > 0 (void record may become space; see Today's expansion; it never returns to free).
+**The retained fraction is the record.** Of the three readings of "the rest," *destroyed* breaks conservation and leaves no ceiling (the engaged stock would not grow, so h could not reach 1); *leaves* is circulation under another name. *Stays engaged* keeps both, and says what a record is made of: possibility withdrawn from the free stock and held. "It is kept" means "it is still engaged." The hole is a body that is all record and no renewal. The count rising and the free stock falling are one process; the record only grows because δ > 0.
 
 **What pooling costs.** δ is 2.0's first constant that is not ħ and not borrowed, the same for every renewal. Sink strength is
 
@@ -140,6 +140,8 @@ At the start everything is free: no matter, no renewal, no count. Under the ruli
 - ~~What lowers P_free to P_max?~~ Ruled: pooling. Every renewal retains δħ as record; P_free falls until it reaches P_max and new commitments stop. What remains is a uniform primordial record,
  $$h_0 = 1-\frac{P_{\max}}{P_0},$$
  P₀ the free possibility per adjacency at the start. Uniform h is unobservable (every clock slowed alike; only ratios are read); its one trace is P∞ ≲ P_max today. The alternative, more adjacencies (space grows), was not taken: it needs a rule about space, and nothing forces one.
+
+**The missing sentence (candidate).** The one being comes apart into many places at once, every place related to every other because there is yet no distance; a relation persists only while possibility passes through it (a relation carrying less than one quantum passes no pattern, so it is not one), so as places multiply the relations thin to those each place can feed, and the mismatch cost settles what remains. Its dimension is three by the consistency condition; the test is the run named under Dimension: a complete graph, subdivided and thinned under a conserved stock and a slide-invariant cost, and what it settles to.
 
 **What the beginning leaves.** Fed matter at every adjacency, and a uniform record. Today matter is sparse.
 
@@ -180,7 +182,7 @@ With it, radiation draws by its energy; frequency falls as 1/a and number as a�
 | rule | statement | status |
 |---|---|---|
 | places are born | a place is born by its first commitment. A pattern that commits mid-transit makes a new place where it commits | candidate |
-| born of record | a wave crest tips a near-full place; the place is born and filled from void record, not from the free stock, so the floor does not fall as places are born. Only void record converts: near matter, places are depleted, not near-full, so no crest tips them and matter's record, the hole's included, stays put. Free possibility never returns | **ruled** (forced by R1) |
+| born of record | a newborn place is filled from void record, not from the free stock | **withdrawn**: it was forced only by R1's rescue of births by waves; with those excluded nothing forces it. The arrow returns to its plain form: record only grows |
 
 **What it gives.**
 - Where: inside bound systems patterns commit at matter at once, so no new places; bound things do not expand. Across voids there is nothing to commit at, so that is where places are born. Voids grow.
@@ -193,18 +195,16 @@ With it, radiation draws by its energy; frequency falls as 1/a and number as a�
 
 | third way | statement | status |
 |---|---|---|
-| wave crests tip edge places | a gravitational wave is a ripple in free possibility (a massless pattern). Voids sit just under capacity, P∞ ≲ P_max. A crest larger than the gap P_max − P∞ pushes a place over capacity, and over capacity a place commits. The threshold, already ruled, does the work | candidate; with the free stock conserved, **excluded** by R1; survives only with "born of record"; and its premise, that a gravitational wave is a surplus of free possibility, is **undercut** by the radiation result (waves are route ripples). Stands only if route ripples move free possibility |
+| wave crests tip edge places | a gravitational wave is a ripple in free possibility (a massless pattern). Voids sit just under capacity, P∞ ≲ P_max. A crest larger than the gap P_max − P∞ pushes a place over capacity, and over capacity a place commits | **excluded**: a gravitational wave is route shear, possibility in transit on the relations, traceless; in transit is not free, so there is no surplus to tip. (Earlier: excluded by R1 with the free stock conserved; rescued by "born of record"; the rescue is withdrawn with the premise) |
 | massive patterns commit at a rate | λ = ε mc²/ħ per pattern between commitments; ε a new constant. Births ∝ mass in transit: constant, so a falling Hubble rate | set aside: a constant nothing fixes, and no acceleration. A massive pattern arriving at an edge place tips it anyway, without ε |
 | light commits spontaneously | | excluded: distant sources are not dimmed, the CMB is a blackbody |
 | free possibility commits on its own | births ∝ free stock ∝ places: Λ | excluded: the vacuum commits, against the threshold |
 
 **What the wave rule gives.** A background of waves fills space, so every place has a chance per time of a crest clearing the gap: births ∝ places, exponential growth, which is what Λ describes. The vacuum never commits on its own; it commits only when pushed over the line. The gap widens slowly as births dilute the floor, so the rate per place decays slowly: in Λ language, w just above −1, drifting. (A pattern-based rate alone gives no acceleration: births ∝ patterns in transit, which is constant; a longer crossing gives more chances per pattern and fewer crossings per time, and the two cancel.)
 
-**Kill tests.**
-- Wave attenuation. A crest that tips a place commits part of itself there, so waves lose amplitude crossing voids. GW170817's wave distance matched its light to about 10%, and amplitudes match GR; the per-crest tipping probability must be tiny.
-- Light must pass. A photon carries ħ; if the gap were under ħ, light would commit in voids. So the gap exceeds ħ, and a crest must move more than ħ per place. A crest's displacement per place is of order strain × P∞, with strains near 10⁻²¹, so roughly P∞/ħ ≳ 10²¹: a bound on P_max. The strain-to-possibility mapping is rough; the shape of the argument is not.
+**Kill tests (withdrawn with the wave rule).** Wave attenuation and the P_max/ħ ≳ 10²¹ bound both assumed crests tip places. What survives: light must pass, so the floor sits more than ħ under capacity, P∞ < P_max − ħ.
 
-**Why now.** Standard cosmology has a "why now" problem: dark energy takes over at roughly the era structure finishes forming, and nothing in ΛCDM says why those should coincide. Here they would have to coincide if the thing that makes space late in the game is the wave background and the wave background is made by structure: acceleration begins when mergers begin. **Withdrawn by R2:** on the rms reading the astrophysical background is ~10⁹ below the primordial, so mergers do not set the late crest. It returns only with a per-place crest definition that weights short wavelengths, which needs the hop scale.
+**Why now.** Withdrawn (R2, and the wave rule's exclusion). Λ is an input: the one constant "sliding costs nothing" permits and does not fix.
 
 **The gap's history (sketch).** With Δ = P_max − P∞, and possibility in units of ħ,
 
@@ -213,8 +213,6 @@ $$P_\infty=\frac{P_{\text{free,total}}}{N},\qquad \frac{dN}{dt}=N\,r_b,\qquad H=
 ν the crest rate per place and the probability set by the wave amplitude A(t). Expansion is a race between crest size and gap size. Epochs: fast births right after the first epoch (Δ ≈ 0⁺, primordial ripples), slowing as the gap opens and the ripples fade; births return when structure forms and mergers make new waves; late, a settled rate. Constraints already on it: the gap exceeds ħ by recombination (light passes; the CMB is a blackbody); per-crest tipping is rare (waves survive); P∞ ≥ ħ always (matter keeps renewing), so expansion ends before that. A curve needs A(t), ν and the tail shape, and P_max.
 
 **R1 ([`CO_2.0_runs/R1_gap_history/`](CO_2.0_runs/R1_gap_history/R1_result.md)).** With the free stock conserved, every birth lowers the floor and shrinks crests with it; H falls as about a⁻⁹ and expansion stops. The rule as written is excluded as today's expansion. It survives if newborn places are born at the floor with content drawn from record. Under that, H(a) ∝ A(a)³, A the wave amplitude per place: the expansion history is the cube of the wave-background history. A test against real inputs, not run.
-
-**The arrow, restated.** Record grows or becomes space; it never returns to free. The one-way quantity is record plus space; free possibility only falls. What has happened and the room it happens in are one stock in two forms.
 
 **R2 ([`CO_2.0_runs/R2_H_vs_A3/`](CO_2.0_runs/R2_H_vs_A3/R2_result.md)).** H ∝ A³ against the measured history. No real wave background has the required shape: the radiation and matter eras need A falling as a^{−2/3} then a^{−1/2}; primordial rms is flat, a single mode falls as a^{−1}, the astrophysical background rises. **As the sole driver of expansion the wave rule is excluded.** It fits only the late era: a flat primordial crest gives H ≈ constant, matching ΛCDM at z < 1 to about 30%. The mechanism can play Λ; it cannot play the decelerating eras.
 
@@ -228,6 +226,5 @@ $$P_\infty=\frac{P_{\text{free,total}}}{N},\qquad \frac{dN}{dt}=N\,r_b,\qquad H=
 - **The masses.** What sets each pattern's renewal frequency.
 - **The beginning's missing sentence.** How many first places, related how. Dimension is three by the method; the mechanism is here.
 - **Charge.** A ratio on relations is a gauge field's shape. Not pursued.
-- **Space.** The per-place crest definition; geometry beyond the above.
 - **δ.** Its value, and whether it is one number for every renewal. No longer bounded by Ġ/G.
-- **P_max.** Its value; roughly P_max/ħ ≳ 10²¹ if the wave rule holds.
+- **P_max.** Its value.
