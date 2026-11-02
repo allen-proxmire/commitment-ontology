@@ -59,7 +59,7 @@ Newton's potential, linear and unscreened, from conservation alone. The question
 
 **Pooling, in one sentence.** A renewal keeps a share of what is there: it retains δħ·(P_free/P_max) as the body's record and releases the rest. (Ruled in this form; the earlier form, a fixed δħ, is superseded. See Today's expansion for why.)
 
-**The retained fraction is the record.** Of the three readings of "the rest," *destroyed* breaks conservation and leaves no ceiling (the engaged stock would not grow, so h could not reach 1); *leaves* is circulation under another name. *Stays engaged* keeps both, and says what a record is made of: possibility withdrawn from the free stock and held. "It is kept" means "it is still engaged." The hole is a body that is all record and no renewal. The count rising and the free stock falling are one process; the record only grows because δ > 0.
+**The retained fraction is the record.** Of the three readings of "the rest," *destroyed* breaks conservation and leaves no ceiling (the engaged stock would not grow, so h could not reach 1); *leaves* is circulation under another name. *Stays engaged* keeps both, and says what a record is made of: possibility withdrawn from the free stock and held. "It is kept" means "it is still engaged." The hole is a body that is all record and no renewal. The count rising and the free stock falling are one process; the record only grows because δ > 0 (void record may become space; see Today's expansion; it never returns to free).
 
 **What pooling costs.** δ is 2.0's first constant that is not ħ and not borrowed, the same for every renewal. Sink strength is
 
@@ -120,7 +120,7 @@ Space is route count: distance is hops, dimension is how the neighbourhood grows
 | rule | statement | status |
 |---|---|---|
 | places are born | a place is born by its first commitment. A pattern that commits mid-transit makes a new place where it commits | candidate |
-| born of record | the newborn place's free content is drawn from record, not from the free stock, so the floor does not fall as places are born | **needed** (R1): without it the gap opens and births stop |
+| born of record | a wave crest tips a near-full place; the place is born and filled from void record, not from the free stock, so the floor does not fall as places are born. Only void record converts: near matter, places are depleted, not near-full, so no crest tips them and matter's record, the hole's included, stays put. Free possibility never returns | **ruled** (forced by R1) |
 
 **What it gives.**
 - Where: inside bound systems patterns commit at matter at once, so no new places; bound things do not expand. Across voids there is nothing to commit at, so that is where places are born. Voids grow.
@@ -154,15 +154,16 @@ $$P_\infty=\frac{P_{\text{free,total}}}{N},\qquad \frac{dN}{dt}=N\,r_b,\qquad H=
 
 **R1 ([`CO_2.0_runs/R1_gap_history/`](CO_2.0_runs/R1_gap_history/R1_result.md)).** With the free stock conserved, every birth lowers the floor and shrinks crests with it; H falls as about a⁻⁹ and expansion stops. The rule as written is excluded as today's expansion. It survives if newborn places are born at the floor with content drawn from record. Under that, H(a) ∝ A(a)³, A the wave amplitude per place: the expansion history is the cube of the wave-background history. A test against real inputs, not run.
 
+**The arrow, restated.** Record grows or becomes space; it never returns to free. The one-way quantity is record plus space; free possibility only falls. What has happened and the room it happens in are one stock in two forms.
+
 **What it owes.**
 - H(a) ∝ A(a)³ against the primordial tensor bound and the merger background's history.
-- "Born of record": what it does to the hole (record leaving as places) and to the arrow (record no longer only grows).
 - Matterless record in voids: newborn places carry a speck of record and no matter. Record gravitates. Not identified with anything; dark matter sits in halos, not voids.
 - Geometry, as before.
 
 ## Open
 
 - **The masses.** What sets each pattern's renewal frequency.
-- **Space.** H ∝ A³ against data; what "born of record" costs; geometry.
+- **Space.** H ∝ A³ against data; geometry.
 - **δ.** Its value, and whether it is one number for every renewal. No longer bounded by Ġ/G.
 - **P_max.** Its value; roughly P_max/ħ ≳ 10²¹ if the wave rule holds.
