@@ -55,13 +55,25 @@ Newton's potential, linear and unscreened, from conservation alone. The question
 | circulation | engage from the near side, release to the far side, through a channel patterns do not ride | candidate |
 | nothing | strict local release, no net sink | excluded: no field outside matter |
 
-**Pooling, in one sentence.** A renewal releases a fraction (1 − δ) of what it engaged; the rest stays engaged.
+**Pooling, in one sentence.** A renewal releases a fraction (1 − δ) of what it engaged; the rest stays engaged as the body's record.
+
+**The retained fraction is the record.** Of the three readings of "the rest," *destroyed* breaks conservation and leaves no ceiling (the engaged stock would not grow, so h could not reach 1); *leaves* is circulation under another name. *Stays engaged* keeps both, and says what a record is made of: possibility withdrawn from the free stock and held. "It is kept" means "it is still engaged." The hole is a body that is all record and no renewal. The count rising and the free stock falling are one process; the record only grows because δ > 0.
 
 **What pooling costs.** δ is 2.0's first constant that is not ħ and not borrowed: a fraction of a quantum not returned per cycle, the same for every renewal. Sink strength is then
 
 $$\sigma=\delta\,\hbar\,\omega=\delta\,mc^2 ,$$
 
-so G ∝ δ, constant if δ is. The debt is that the body's own h grows, so its clocks slow over cosmic time. Lunar laser ranging and pulsar timing bound this: the body's self-slowing rate ḣ must sit under about 10⁻¹³ per year. That is a window on δ, not a contradiction; it is the first number data puts on 2.0.
+so G ∝ δ/P∞.
+
+**The vacuum far away.** Conservation gives
+
+$$\dot P_{\text{free}}=-\dot P_{\text{engaged}}=-\delta\sum_i m_ic^2 .$$
+
+- A uniform fall in P∞ makes no gradient: no force, and **not Λ**. Λ stays an input.
+- Around a body h(r) = (k/r)/P∞, so the field strengthens as the floor falls:
+ $$\frac{\dot G}{G}=-\frac{\dot P_\infty}{P_\infty}>0 .$$
+ A sign: G increases. Lunar laser ranging and pulsar timing hold |Ġ/G| at or under about 10⁻¹³ per year, so the vacuum's depletion e-folding time exceeds about 10¹³ years; over the age of the universe at most a part in a thousand of the free stock has pooled. A body's own clocks slow on the same timescale, same sign.
+- With no infinities the free stock is finite, so the record has a finite capacity and the process has an end: everything engaged. The Ġ/G bound is a lower bound on how far off that is.
 
 **Second leg.** "Possibility moves toward engagement" is a flow statement and needs the sink. If the sink failed, attraction would still follow from a static gradient: patterns hop on free possibility, hop slower where it is scarce, and so linger near matter. Not needed under pooling; noted.
 
@@ -70,3 +82,4 @@ so G ∝ δ, constant if δ is. The debt is that the body's own h grows, so its 
 - **The masses.** What sets each pattern's renewal frequency.
 - **Space.**
 - **δ.** Its value, and whether it is one number for every renewal.
+- **The beginning.** Everything free, pooling one-way: what the first renewal needed in order to happen.
