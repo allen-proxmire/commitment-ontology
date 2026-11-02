@@ -112,7 +112,9 @@ In fixed adjacency with no dilution the runaway does not stop at clumps; everyth
 **What it gives.** While places are over capacity, every renewal releases possibility with nowhere to go, so relations open at the renewal rate of all matter: rapid dilution. It stops by itself when places drop under capacity. Fast growth with a built-in end, started and ended by P_max: inflation with a graceful exit. Seeds: places tip the threshold one by one, not at one instant; the unevenness is spread by the growth. Afterward, gathering.
 
 **What it owes.**
-- Today's expansion. Under this rule space grows only over capacity; today is under. Hubble expansion is ongoing and accelerating. Either released possibility has a slower way to open relations, or today's expansion is something else here.
+- Today's expansion. Under this rule space grows only over capacity; today is under. Hubble expansion is ongoing and accelerating. **Result:** it is not dilution. Any ongoing opening of relations that spreads the same possibility over more places lowers P∞, and G ∝ δ/P∞, so
+ $$\frac{\dot G}{G}\approx H_0\approx 7\times10^{-11}\ \text{yr}^{-1},$$
+ against a bound near 10⁻¹³ yr⁻¹. Excluded by about 10³. Today's expansion and its acceleration are inputs, with Λ, until a mechanism that does not dilute free possibility is found.
 - Geometry. The rule opens a relation; it does not say to where. Dimension and the shape of adjacency are untouched.
 
 ## Open
