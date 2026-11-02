@@ -1,0 +1,17 @@
+{
+ "photon_sphere_isotropic_rho": 1.9999999985695225,
+ "shadow_b_exp": 5.43656365691809,
+ "shadow_b_schw": 5.196152422706632,
+ "shadow_ratio_exp_over_schw": 1.0462671635960652,
+ "shadow_deviation_delta": 0.0462671635960652,
+ "areal_R_photon_sphere_exp": 3.297442540221027,
+ "areal_R_photon_sphere_schw": 3.0,
+ "isco_isotropic_rho": 5.236056427841717,
+ "areal_R_isco_exp": 6.337928954673771,
+ "areal_R_isco_schw": 6.0,
+ "Omega_isco_exp": 0.0633328040191229,
+ "Omega_isco_schw": 0.06804138174397717,
+ "Omega_isco_ratio": 0.9307983229592327,
+ "EHT_delta_M87": "-0.01 +/- 0.17 (Psaltis et al. 2020)",
+ "EHT_delta_SgrA": "about -0.08 +/- 0.09 to -0.04 +/- 0.09 depending on mass prior (EHT 2022)"
+}

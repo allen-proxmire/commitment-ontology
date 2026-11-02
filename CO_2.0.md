@@ -54,7 +54,7 @@ so N² = 1 − 2U + 2U², β = 1, and the route factor P∞/P_free = e^{U} keeps
 
 $$ds^2=-e^{-2U}c^2dt^2+e^{2U}d\mathbf x^2 ,$$
 
-γ = β = 1, no horizon (N → 0 only as r → 0): the hole as a ceiling approached, with its metric. This is what 1.0 borrowed as R9. **Kill test:** the exponential metric departs from Kerr at order U³ in the ticks and U² in the route, the strong field: black-hole shadows, ringdown spectra, innermost orbits. Present matches to Kerr are at the 10–20% level; the departure is not computed here. It is the first place 2.0 says GR is wrong rather than reproduced.
+γ = β = 1, no horizon (N → 0 only as r → 0): the hole as a ceiling approached, with its metric. This is what 1.0 borrowed as R9. **Kill test (R3, [`CO_2.0_runs/R3_strong_field/`](CO_2.0_runs/R3_strong_field/R3_result.md)):** the exponential metric departs from Kerr in the strong field. Photon sphere at ρ = 2M; shadow radius 2eM against 3√3M, **4.6% larger**; ISCO frequency **7% lower**. EHT: M87* δ = −0.01 ± 0.17, Sgr A* about −0.08 ± 0.09; not excluded, about 1σ on Sgr A*, and the departure is the size of Kerr's own spin dependence. Next-generation EHT at a few percent tests it. The first place 2.0 says GR is wrong rather than reproduced, with a sign: shadows slightly larger, ISCO frequencies slightly lower. Ringdown not computed.
 
 **Light bending.** A pattern crossing a region of engaged fraction h has its ticks slowed by (1 − h) and, under "route lengthens", its path stretched by (1 + h). Its coordinate speed is
 
@@ -198,5 +198,6 @@ $$P_\infty=\frac{P_{\text{free,total}}}{N},\qquad \frac{dN}{dt}=N\,r_b,\qquad H=
 
 - **The masses.** What sets each pattern's renewal frequency.
 - **Space.** Whether "route lengthens" can be derived rather than read; the per-place crest definition; geometry.
+- **Gravitational radiation.** 2.0 has no wave equation; the binary-pulsar decay (GR to 0.1%) cannot yet be compared.
 - **δ.** Its value, and whether it is one number for every renewal. No longer bounded by Ġ/G.
 - **P_max.** Its value; roughly P_max/ħ ≳ 10²¹ if the wave rule holds.
