@@ -33,8 +33,9 @@ A restart from the primitives. Nothing from [`CO_1.0_misdefined-primitives/ONTOL
 | hold-and-release | a renewal engages possibility, completes, releases it. Nothing is consumed. P_free = P(1 − h), h the fraction engaged |
 | (B) one quantum per renewal | every renewal engages the same amount, ħ. Mass is renewal frequency: ω = mc²/ħ. The first scale is an action, and it arrives with the first renewal |
 | g linear | renewal rate = (m/ħ)(1 − h). h = 1 is the hole: everything local engaged, nothing free, renewal starves and matter becomes record. A ceiling approached, not a point reached; with pooling as a share of what is there, both renewal and retention vanish together as P_free → 0 |
-| gravity | possibility moves toward where it is being engaged. Patterns ride possibility. So patterns fall toward matter, mass-independent. The slowed clock is the view from outside |
-| inertia | possibility in transit keeps its direction until a commitment redirects it; the flow it rides bends it on the way. A pattern between commitments goes on as it was going, carried by the flow. Free fall is inertia plus the flow. Retires 1.0's borrowed inertia |
+| gravity | possibility moves toward where it is being engaged; that inflow is what sets h around matter. Patterns fall by **refraction**: a pattern hops on its place's ticks, ticks are slower where h is higher, so a pattern's wavefront turns toward matter. For a matter wave with ω = mc²/ħ this gives g = −c²∇h exactly, mass-independent: Newton. (Earlier wording, "patterns ride possibility," is withdrawn as the mechanism: the inflow's drift speed falls as 1/r² and is suppressed by the hop length, so it cannot give Newton's 1/r² acceleration. The flow sets the field; refraction moves the pattern) |
+| inertia | possibility in transit keeps its direction until a commitment redirects it; refraction on the clock-rate field bends it on the way. A pattern between commitments goes on as it was going. Free fall is inertia plus refraction. Retires 1.0's borrowed inertia |
+| route lengthens | engaged possibility is in the way: a hop through a place where a fraction h is engaged routes around the engaged share, so the path is longer by 1/(1 − h) ≈ 1 + h. The same h slows the ticks and lengthens the route | candidate |
 
 **Why (B).** The alternative, universal rate with varying engagement, cannot give universal redshift without an extra assumption, and gives E = ħω no reading. (B) gives both:
 
@@ -43,6 +44,12 @@ $$\frac{N_A}{N_B}=\frac{1-h_A}{1-h_B},\qquad h\propto\sum_i m_i\ \text{over adja
 The quantity that slows clocks and the quantity that gravitates are the same, counted the same way.
 
 **Clock mechanism vs clock reading.** A clock's mechanism references the possibility around it; a clock's reading references another clock. Neither needs a background tick.
+
+**Light bending.** A pattern crossing a region of engaged fraction h has its ticks slowed by (1 − h) and, under "route lengthens", its path stretched by (1 + h). Its coordinate speed is
+
+$$c(h)=c\,\frac{1-h}{1+h}\approx c\,(1-2h),\qquad n\approx 1+2h ,$$
+
+with h = GM/(c²r) outside a body. Fermat's principle on that index gives a deflection of 4GM/(c²b), twice Newton's, and the Shapiro delay, both as measured. Slow massive patterns feel only the tick half (Newton, g = −c²∇h); light, moving at the hop speed, feels both halves. This is the isotropic weak-field metric of GR, N² = 1 − 2U and spatial factor 1 + 2U, read as "one h, counted twice." With the tick half alone the bending is half GR's: the route half is what 1.0 borrowed as R9 and 2.0 states as a reading.
 
 ## The balance
 
@@ -126,7 +133,7 @@ Friedmann's equation and the matter era, H ∝ a^{−3/2}, with nothing borrowed
 
 | rule | statement | status |
 |---|---|---|
-| transit draws | possibility in transit is not free; a pattern's transit draws as its renewal would, in proportion to its frequency ħω. What draws is frequency, renewing or in transit | candidate |
+| transit draws | possibility in transit is not free; a pattern's transit draws as its renewal would, in proportion to its frequency ħω. What draws is frequency, renewing or in transit | **ruled** |
 
 With it, radiation draws by its energy; frequency falls as 1/a and number as a⁻³, so ρ_rad ∝ a⁻⁴, and the same shell argument gives H ∝ a⁻², the radiation era. The ρ + 3p of the deceleration equation follows by differentiating H² with ρ ∝ a⁻⁴; it is bookkeeping, not a borrowed weight. Owed: why a non-renewing pattern draws by its frequency (a reading, not a derivation); and light's bending at twice Newton (γ = 1), which is about how light rides, not how it draws, and is untouched.
 
@@ -179,6 +186,6 @@ $$P_\infty=\frac{P_{\text{free,total}}}{N},\qquad \frac{dN}{dt}=N\,r_b,\qquad H=
 ## Open
 
 - **The masses.** What sets each pattern's renewal frequency.
-- **Space.** Light's bending at twice Newton; the per-place crest definition; geometry.
+- **Space.** Whether "route lengthens" can be derived rather than read; the per-place crest definition; geometry.
 - **δ.** Its value, and whether it is one number for every renewal. No longer bounded by Ġ/G.
 - **P_max.** Its value; roughly P_max/ħ ≳ 10²¹ if the wave rule holds.
