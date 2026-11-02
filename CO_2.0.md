@@ -122,7 +122,13 @@ Space is route count: distance is hops, dimension is how the neighbourhood grows
 
 $$\ddot a=-\frac{4\pi G}{3}\rho\,a\quad\Rightarrow\quad H^2=\frac{8\pi G}{3}\rho-\frac{k}{a^2},$$
 
-Friedmann's equation and the matter era, H ∝ a^{−3/2}, with nothing borrowed. The radiation era needs pressure to draw, which is the Tolman weight: a debt, named. Births in the voids (below) add a flat term: Λ.
+Friedmann's equation and the matter era, H ∝ a^{−3/2}, with nothing borrowed. Births in the voids (below) add a flat term: Λ.
+
+| rule | statement | status |
+|---|---|---|
+| transit draws | possibility in transit is not free; a pattern's transit draws as its renewal would, in proportion to its frequency ħω. What draws is frequency, renewing or in transit | candidate |
+
+With it, radiation draws by its energy; frequency falls as 1/a and number as a⁻³, so ρ_rad ∝ a⁻⁴, and the same shell argument gives H ∝ a⁻², the radiation era. The ρ + 3p of the deceleration equation follows by differentiating H² with ρ ∝ a⁻⁴; it is bookkeeping, not a borrowed weight. Owed: why a non-renewing pattern draws by its frequency (a reading, not a derivation); and light's bending at twice Newton (γ = 1), which is about how light rides, not how it draws, and is untouched.
 
 | rule | statement | status |
 |---|---|---|
@@ -166,7 +172,6 @@ $$P_\infty=\frac{P_{\text{free,total}}}{N},\qquad \frac{dN}{dt}=N\,r_b,\qquad H=
 **R2 ([`CO_2.0_runs/R2_H_vs_A3/`](CO_2.0_runs/R2_H_vs_A3/R2_result.md)).** H ∝ A³ against the measured history. No real wave background has the required shape: the radiation and matter eras need A falling as a^{−2/3} then a^{−1/2}; primordial rms is flat, a single mode falls as a^{−1}, the astrophysical background rises. **As the sole driver of expansion the wave rule is excluded.** It fits only the late era: a flat primordial crest gives H ≈ constant, matching ΛCDM at z < 1 to about 30%. The mechanism can play Λ; it cannot play the decelerating eras.
 
 **What it owes.**
-- The radiation era: pressure drawing (the Tolman weight), not yet in 2.0.
 - A per-place crest definition tied to the hop scale, without which "why now" cannot be evaluated.
 - Matterless record in voids: newborn places carry a speck of record and no matter. Record gravitates. Not identified with anything; dark matter sits in halos, not voids.
 - Geometry, as before.
@@ -174,6 +179,6 @@ $$P_\infty=\frac{P_{\text{free,total}}}{N},\qquad \frac{dN}{dt}=N\,r_b,\qquad H=
 ## Open
 
 - **The masses.** What sets each pattern's renewal frequency.
-- **Space.** The radiation era (pressure drawing); the per-place crest definition; geometry.
+- **Space.** Light's bending at twice Newton; the per-place crest definition; geometry.
 - **δ.** Its value, and whether it is one number for every renewal. No longer bounded by Ġ/G.
 - **P_max.** Its value; roughly P_max/ħ ≳ 10²¹ if the wave rule holds.
