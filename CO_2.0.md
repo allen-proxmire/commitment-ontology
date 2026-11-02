@@ -119,7 +119,8 @@ Space is route count: distance is hops, dimension is how the neighbourhood grows
 
 | rule | statement | status |
 |---|---|---|
-| places are born | a place is born by its first commitment. A pattern that commits mid-transit makes a new place where it commits: δħ·(P_free/P_max) stays as its record, the rest is its free content | candidate |
+| places are born | a place is born by its first commitment. A pattern that commits mid-transit makes a new place where it commits | candidate |
+| born of record | the newborn place's free content is drawn from record, not from the free stock, so the floor does not fall as places are born | **needed** (R1): without it the gap opens and births stop |
 
 **What it gives.**
 - Where: inside bound systems patterns commit at matter at once, so no new places; bound things do not expand. Across voids there is nothing to commit at, so that is where places are born. Voids grow.
@@ -132,7 +133,7 @@ Space is route count: distance is hops, dimension is how the neighbourhood grows
 
 | third way | statement | status |
 |---|---|---|
-| wave crests tip edge places | a gravitational wave is a ripple in free possibility (a massless pattern). Voids sit just under capacity, P∞ ≲ P_max. A crest larger than the gap P_max − P∞ pushes a place over capacity, and over capacity a place commits. The threshold, already ruled, does the work | candidate |
+| wave crests tip edge places | a gravitational wave is a ripple in free possibility (a massless pattern). Voids sit just under capacity, P∞ ≲ P_max. A crest larger than the gap P_max − P∞ pushes a place over capacity, and over capacity a place commits. The threshold, already ruled, does the work | candidate; with the free stock conserved, **excluded** by R1 (the gap opens, H falls as a⁻⁹); survives only with "born of record" |
 | massive patterns commit at a rate | λ = ε mc²/ħ per pattern between commitments; ε a new constant. Births ∝ mass in transit: constant, so a falling Hubble rate | set aside: a constant nothing fixes, and no acceleration. A massive pattern arriving at an edge place tips it anyway, without ε |
 | light commits spontaneously | | excluded: distant sources are not dimmed, the CMB is a blackbody |
 | free possibility commits on its own | births ∝ free stock ∝ places: Λ | excluded: the vacuum commits, against the threshold |
@@ -143,14 +144,25 @@ Space is route count: distance is hops, dimension is how the neighbourhood grows
 - Wave attenuation. A crest that tips a place commits part of itself there, so waves lose amplitude crossing voids. GW170817's wave distance matched its light to about 10%, and amplitudes match GR; the per-crest tipping probability must be tiny.
 - Light must pass. A photon carries ħ; if the gap were under ħ, light would commit in voids. So the gap exceeds ħ, and a crest must move more than ħ per place. A crest's displacement per place is of order strain × P∞, with strains near 10⁻²¹, so roughly P∞/ħ ≳ 10²¹: a bound on P_max. The strain-to-possibility mapping is rough; the shape of the argument is not.
 
+**Why now.** Standard cosmology has a "why now" problem: dark energy takes over at roughly the era structure finishes forming, and nothing in ΛCDM says why those should coincide. Here they have to coincide, because the thing that makes space late in the game is the wave background, and the wave background is made by structure. Acceleration begins when mergers begin. A suggestive coincidence the curve would test, not a result; the first time 2.0 has had something to say about a known puzzle without being aimed at it.
+
+**The gap's history (sketch).** With Δ = P_max − P∞, and possibility in units of ħ,
+
+$$P_\infty=\frac{P_{\text{free,total}}}{N},\qquad \frac{dN}{dt}=N\,r_b,\qquad H=r_b=\nu\,\Pr(\text{crest}>\Delta),$$
+
+ν the crest rate per place and the probability set by the wave amplitude A(t). Expansion is a race between crest size and gap size. Epochs: fast births right after the first epoch (Δ ≈ 0⁺, primordial ripples), slowing as the gap opens and the ripples fade; births return when structure forms and mergers make new waves; late, a settled rate. Constraints already on it: the gap exceeds ħ by recombination (light passes; the CMB is a blackbody); per-crest tipping is rare (waves survive); P∞ ≥ ħ always (matter keeps renewing), so expansion ends before that. A curve needs A(t), ν and the tail shape, and P_max.
+
+**R1 ([`CO_2.0_runs/R1_gap_history/`](CO_2.0_runs/R1_gap_history/R1_result.md)).** With the free stock conserved, every birth lowers the floor and shrinks crests with it; H falls as about a⁻⁹ and expansion stops. The rule as written is excluded as today's expansion. It survives if newborn places are born at the floor with content drawn from record. Under that, H(a) ∝ A(a)³, A the wave amplitude per place: the expansion history is the cube of the wave-background history. A test against real inputs, not run.
+
 **What it owes.**
-- The gap's history: how close the first epoch left the floor to capacity, and how dilution opened the gap since. That is the expansion curve.
+- H(a) ∝ A(a)³ against the primordial tensor bound and the merger background's history.
+- "Born of record": what it does to the hole (record leaving as places) and to the arrow (record no longer only grows).
 - Matterless record in voids: newborn places carry a speck of record and no matter. Record gravitates. Not identified with anything; dark matter sits in halos, not voids.
 - Geometry, as before.
 
 ## Open
 
 - **The masses.** What sets each pattern's renewal frequency.
-- **Space.** The gap's history (the expansion curve); geometry.
+- **Space.** H ∝ A³ against data; what "born of record" costs; geometry.
 - **δ.** Its value, and whether it is one number for every renewal. No longer bounded by Ġ/G.
 - **P_max.** Its value; roughly P_max/ħ ≳ 10²¹ if the wave rule holds.
