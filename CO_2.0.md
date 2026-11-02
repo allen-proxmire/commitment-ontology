@@ -144,7 +144,7 @@ Space is route count: distance is hops, dimension is how the neighbourhood grows
 - Wave attenuation. A crest that tips a place commits part of itself there, so waves lose amplitude crossing voids. GW170817's wave distance matched its light to about 10%, and amplitudes match GR; the per-crest tipping probability must be tiny.
 - Light must pass. A photon carries ħ; if the gap were under ħ, light would commit in voids. So the gap exceeds ħ, and a crest must move more than ħ per place. A crest's displacement per place is of order strain × P∞, with strains near 10⁻²¹, so roughly P∞/ħ ≳ 10²¹: a bound on P_max. The strain-to-possibility mapping is rough; the shape of the argument is not.
 
-**Why now.** Standard cosmology has a "why now" problem: dark energy takes over at roughly the era structure finishes forming, and nothing in ΛCDM says why those should coincide. Here they have to coincide, because the thing that makes space late in the game is the wave background, and the wave background is made by structure. Acceleration begins when mergers begin. A suggestive coincidence the curve would test, not a result; the first time 2.0 has had something to say about a known puzzle without being aimed at it.
+**Why now.** Standard cosmology has a "why now" problem: dark energy takes over at roughly the era structure finishes forming, and nothing in ΛCDM says why those should coincide. Here they would have to coincide if the thing that makes space late in the game is the wave background and the wave background is made by structure: acceleration begins when mergers begin. **Withdrawn by R2:** on the rms reading the astrophysical background is ~10⁹ below the primordial, so mergers do not set the late crest. It returns only with a per-place crest definition that weights short wavelengths, which needs the hop scale.
 
 **The gap's history (sketch).** With Δ = P_max − P∞, and possibility in units of ħ,
 
@@ -156,14 +156,17 @@ $$P_\infty=\frac{P_{\text{free,total}}}{N},\qquad \frac{dN}{dt}=N\,r_b,\qquad H=
 
 **The arrow, restated.** Record grows or becomes space; it never returns to free. The one-way quantity is record plus space; free possibility only falls. What has happened and the room it happens in are one stock in two forms.
 
+**R2 ([`CO_2.0_runs/R2_H_vs_A3/`](CO_2.0_runs/R2_H_vs_A3/R2_result.md)).** H ∝ A³ against the measured history. No real wave background has the required shape: the radiation and matter eras need A falling as a^{−2/3} then a^{−1/2}; primordial rms is flat, a single mode falls as a^{−1}, the astrophysical background rises. **As the sole driver of expansion the wave rule is excluded.** It fits only the late era: a flat primordial crest gives H ≈ constant, matching ΛCDM at z < 1 to about 30%. The mechanism can play Λ; it cannot play the decelerating eras.
+
 **What it owes.**
-- H(a) ∝ A(a)³ against the primordial tensor bound and the merger background's history.
+- A driver for the radiation and matter eras. 2.0 has none: expansion is births, and births by waves are Λ-like. The one door: free-stock births (R1 Case A) give H ∝ a^{−3α}; a matter era needs a crest tail index α ≈ ½, a radiation era α ≈ ⅔, against 3 for a 1/distance population. A knob, not a result.
+- A per-place crest definition tied to the hop scale, without which "why now" cannot be evaluated.
 - Matterless record in voids: newborn places carry a speck of record and no matter. Record gravitates. Not identified with anything; dark matter sits in halos, not voids.
 - Geometry, as before.
 
 ## Open
 
 - **The masses.** What sets each pattern's renewal frequency.
-- **Space.** H ∝ A³ against data; geometry.
+- **Space.** A driver for the decelerating eras; the per-place crest definition; geometry.
 - **δ.** Its value, and whether it is one number for every renewal. No longer bounded by Ġ/G.
 - **P_max.** Its value; roughly P_max/ħ ≳ 10²¹ if the wave rule holds.
