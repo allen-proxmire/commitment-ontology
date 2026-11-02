@@ -81,6 +81,8 @@ and for a circular binary (trace constant) the ratio is **1/6**. The Hulse–Tay
 
 5. *What is not derived.* That the network's continuum limit is three-dimensional (Lovelock's uniqueness is dimension-dependent; in two dimensions the action is trivial, in five there is a second term). The polarization count, two, is therefore a statement about the adjacency 2.0 has not yet earned; it is the handle on dimension. And the step from "ratio hopping on occupancies" to "the deficit-angle cost" is made by the symmetry, not by the hop rule; whether the hop rule is itself slide-invariant is the check that closes it.
 
+**Dimension.** Births only subdivide relations, so the adjacency's dimension is that of the first places and how they related: set at the beginning, which the doc does not yet specify. Against the rulings: d = 1, 2 have no shear modes, n_TT = (d+1)(d−2)/2 = 0; even d fails Huygens, a passing pattern leaves a tail and a commitment has no "where"; d ≥ 4 has no stable orbits or atoms (Ehrenfest), so matter cannot gather into anything that lasts, and Lovelock's uniqueness admits a second term with a free coefficient, so "sliding costs nothing" no longer fixes the cost. **Three is the only dimension in which every ruling holds and nothing has to be added.** A bound by the method, not a mechanism: what made the first places relate three-dimensionally is the beginning's missing sentence.
+
 **Consequence for the wave rule.** "Wave crests tip edge places" took a gravitational wave to be a surplus of free possibility. If waves are route ripples, there is no surplus to tip, and the births-by-wave candidate, and the Λ term with it, lose their mechanism. They stand only if route ripples also move free possibility, which nothing yet says. Marked accordingly below.
 
 **Light bending.** A pattern crossing a region of engaged fraction h has its ticks slowed by (1 − h) and, under "route lengthens", its path stretched by (1 + h). Its coordinate speed is
@@ -224,7 +226,7 @@ $$P_\infty=\frac{P_{\text{free,total}}}{N},\qquad \frac{dN}{dt}=N\,r_b,\qquad H=
 ## Open
 
 - **The masses.** What sets each pattern's renewal frequency.
-- **Relations.** Whether the hop rule on occupancies is itself slide-invariant (then the Regge cost follows with nothing further); and the dimension of the adjacency, which the polarization count fixes at three.
+- **The beginning's missing sentence.** How many first places, related how. Dimension is three by the method; the mechanism is here.
 - **Charge.** A ratio on relations is a gauge field's shape. Not pursued.
 - **Space.** The per-place crest definition; geometry beyond the above.
 - **δ.** Its value, and whether it is one number for every renewal. No longer bounded by Ġ/G.
