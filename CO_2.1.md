@@ -32,8 +32,30 @@ What structure inside a commitment gives both the count of particle kinds and th
 
 **Precedents, named.** De Broglie (1924): a particle as an internal clock whose phase wave gives the matter wavelength. The zitter models (Schrödinger; Hestenes): the electron as a circulation at the Compton frequency. 2.1 reaches both from "a repeat is one crossing," with the circulation made of hops and the corners made of commitments. A new route to known destinations, not new destinations.
 
+## The hop length is not a new constant
+
+Newton's constant in hop units, from 2.0's rulings. A body of mass M renews at ω = Mc²/ħ and retains δ(P∞/P_max) quanta per renewal, so it is a sink of strength σ = δ Mc² P∞/(ħ P_max) quanta per second. Possibility hops at rate ν = c/ℓ per relation, ℓ the hop length; on the cubic lattice the steady deficit at r hops is σ/(4πνr) quanta per place, so h = σ/(4πνP∞ r). Setting h = GM/(c² rℓ):
+
+$$G=\frac{\delta\,c^{3}\,\ell^{2}}{4\pi\,\hbar\,P_{\max}}\qquad\Longleftrightarrow\qquad \ell=\ell_{P}\sqrt{\frac{4\pi P_{\max}}{\delta}},\quad \ell_P=\sqrt{\frac{\hbar G}{c^3}} .$$
+
+The hop length, the capacity and the retained share are one relation apart. Given any two, the third follows. If 2.0's hint holds (P_max a handful of quanta) and the hop is near the shortest particle Compton wavelength (ℓ ≈ 10⁻¹⁶ m, ℓ/ℓ_P ≈ 6×10¹⁸), then δ ≈ 10⁻³⁷: a renewal retains about 10⁻³⁷ of a quantum as record, one quantum per 10³⁷ renewals. For an electron that is one quantum of record every few hundred million years. Pooling is as slow as every bound required, now with a number.
+
+So 2.1 introduces no fourth constant: ℓ replaces δ, or δ replaces ℓ, and the set of the theory's own constants stays at three (P_max, Λ, and one of δ or ℓ).
+
+## The shapes, counted
+
+Closed self-avoiding loops on the cubic lattice, up to the lattice's 48 symmetries and translation (a hand count done by machine, [`CO_2.1_notes/sap_count.py`](CO_2.1_notes/sap_count.py)):
+
+| L (hops) | shapes | planar | non-planar |
+|---|---|---|---|
+| 4 | 1 | 1 (square) | 0 |
+| 6 | 3 | 1 (2×1 rectangle) | 2 (the chair and the boat, as in cyclohexane) |
+| 8 | 11 | 3 | 8 |
+
+Small at small L, growing fast. Reflections are identified in this count; if a loop and its mirror are different kinds, the non-planar counts roughly double, and that distinction is where handedness would enter.
+
 ## Open
-- Which sizes are realised, and why: the spectrum.
-- The hop length.
+- Which sizes are realised, and why: the spectrum. The counts above say how many kinds each size allows, not which sizes exist.
+- Whether a loop and its mirror are one kind or two.
 - The Born weights from the phase.
 - Charge, spin, the forces.
