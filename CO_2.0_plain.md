@@ -108,6 +108,26 @@ with the matter era from matter's density and the radiation era from radiation's
 
 **Not yet:** what sets each particle's mass; the values of δ, P_max and Λ; the quantum sector beyond "matter between repeats is a pattern."
 
-**How it could fail:** a black-hole shadow or ringdown that matches Kerr to a few percent where the exponential metric differs; any confirmed departure from the classical tests; a mismatch cost that, derived rather than inferred from symmetry, turns out not to be Einstein's.
+**How it could fail:** a black-hole shadow or ringdown that matches Kerr to a few percent where the exponential metric differs; any confirmed departure from the classical tests; a mismatch cost that, derived rather than inferred from symmetry, turns out not to be Einstein's; the exponential metric's known strong-field difficulties (it is Yilmaz's metric, proposed before, with unresolved questions about its interior and how it couples to matter), which this route does not escape.
+
+## Where it stands
+
+**More than reproduction.**
+- Three dimensions follow from the theory as a consistency condition. The standard theories take them.
+- Mercury's precession is fixed by a statement about the vacuum (scaleless, so hops compare by ratio) that was ruled before gravity. General relativity fixes it by choosing its action.
+- One prediction differs from general relativity, with a sign and a size, and an instrument exists to test it.
+- Λ has a reason to be the only constant of its kind, if not a value.
+- Mass as frequency recasts the masses question as one about sizes, which a combinatorial structure could fix where frequencies could not.
+- Two primitives and three constants of its own give the four classical tests, tensor waves with Einstein's coefficient, black holes as ceilings, inflation with its own exit, the matter and radiation eras, and three dimensions.
+
+**Where a fair critic pushes.**
+- The heavy lifting is borrowed mathematics: Lovelock's uniqueness, Regge's form, Ollivier's curvature. No physics is borrowed, but the symmetry argument does the work and the primitives set it up.
+- The exterior is Yilmaz's exponential metric, reached by a new route, with its old problems intact.
+- "Transit draws by frequency" and "a relation carries an occupancy" are readings in the primitives' words, each with a picture behind it, not derivations.
+- The runs are small. Locality is seen arriving; a lattice is not reached.
+- The quantum sector is empty beyond "matter between repeats is a pattern."
+- No number has been matched to a measurement where the standard theories are silent or wrong. The strong-field prediction is alive, not confirmed.
+
+**2.0 stops here**, complete as far as the two primitives force it. The masses, and the quantum sector with them, need a commitment to have an inside. That is the first addition to the inventory since the restart, and it is 2.1.
 
 Independent, speculative, not peer-reviewed.
