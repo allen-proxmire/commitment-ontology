@@ -79,7 +79,7 @@ A relation carries how much (occupancy, symmetric) and which way (a ratio, antis
 
 ## One pattern (candidate, from Allen)
 
-One loop carries a sign (charge: particle or antiparticle, invariant under every boost) and has a sense seen along its motion (helicity: flips when overtaken, undefined at rest, as a massive particle's does). (Carried sign) × (helicity) are **the four components of a Dirac fermion in the helicity basis, with the right behaviour under boosts. One pattern is one Dirac field.** For a chiral loop, shape against mirror is a further label, parity. The test "do the four versions mix under a boost as Dirac's do" is passed after the correction above, for the right reason.
+One loop carries a sign (charge: particle or antiparticle, invariant under every boost) and has a sense seen along its motion (helicity: flips when overtaken, undefined at rest, as a massive particle's does). Both behave under boosts as their Dirac counterparts do. **Correction (from the 4×4 comparison):** Dirac's four components are (chirality) × (spin); particle versus antiparticle is the sign of a solution's frequency, not a component. So (carried sign) × (helicity) are two correct labels, not the component basis. The carried sign maps to the frequency sign. Chirality at the level of a loop is not yet defined; for a chiral loop, shape against mirror is a candidate for it.
 
 "The face going forward is the identity": the loop's sense seen from where it is going is its helicity; with the carried sign, and its handedness if chiral, that is the identity. The loop's circulation is a magnetic moment, and a Dirac particle's moment is a number (set by its charge and mass) the picture can be asked to produce: a sharper test than the count of four. On a lattice with three lines through each place, which line a moving loop's plane is set against is a three-valued label that costs nothing and leaves mass unchanged. Three-valued, free, invisible to mass, carried by every loop: the shape of colour. Whether it is colour depends on how such labels couple; not done.
 
@@ -127,8 +127,18 @@ $$\text{turn amplitude per hop}=i\,\frac{mc\ell}{\hbar}=i\,\frac{k}{L},$$
 
 Feynman's checkerboard weight. Dirac's mass term is the turning, with its coefficient supplied by the loop.
 
+## The 4×4 comparison
+
+**1+1: exact.** The checkerboard's two components are the two directions of motion, which are the two chiralities; a reversal is a turn and a chirality flip at once. The corner with amplitude i·k/L is Feynman's mass term. **Ruled in one dimension.**
+
+**3+1: not established.** Two obstacles, named.
+- In the three-dimensional Dirac walk, direction changes at every hop, free, through the α-projections (the state splits into ±x, ±y, ±z movers and recombines: the zitter, at zero mass). The mass term β flips chirality at rate mc²/ħ without changing direction. So "mass is the turning rate" holds only if a corner is a chirality flip, not merely a change of direction. A loop-level chirality that a corner commitment flips is not defined.
+- 2.0's inertia ("possibility in transit keeps its direction") must be read as a statement about the mean direction, not the hop, to be compatible with the α-splitting. A reading of a ruling, to be made explicitly.
+
+Status: **the one pattern is a Dirac walk** is ruled in 1+1 and candidate in 3+1.
+
 ## Open
-- The turning rule against Dirac's mixing: a turn acts on the four versions (carried sign × helicity); does it mix them as β mixes Dirac's components? A 4×4 comparison; the last gap before "the one pattern is a Dirac walk" can be ruled.
+- A loop-level chirality that a corner flips; the α-splitting as what ratio hopping on three lines does with amplitudes; inertia as mean direction.
 - The spectrum: which (k, L) close under their own holonomy.
 - The 1-form's strength (1/137).
 - Whether the three-valued orientation label couples as colour does.
