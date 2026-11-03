@@ -149,6 +149,8 @@ At the start everything is free: no matter, no renewal, no count. Under the ruli
 
 **R6 ([`CO_2.0_runs/R6_flat_selection/`](CO_2.0_runs/R6_flat_selection/R6_result.md)):** "out of step" by pairings alone does not close (no transport of transverse lines on a bare graph). A bare graph does carry an intrinsic curvature, Ollivier's κ, zero on lattices; tried as the cost, κ², with each pairing partner chosen to bring κ nearest zero. Growth stays exponential and the survivors stay tree-like (|κ| ≈ 0.6–0.85, worsening with size). **Local selection cannot reach flatness**: on a sparse random start every candidate is equally tree-like, there are no short loops to select for. Either the cost acts globally on which relations are kept, or the start already carries the short loops flatness needs, which is locality under another name. Candidate definition not refuted; mechanism as run, negative.
 
+**R7 ([`CO_2.0_runs/R7_global_cost/`](CO_2.0_runs/R7_global_cost/R7_result.md)):** the cost acting globally, on which relations are kept, with quanta per place fixed (degree-preserving swaps). From a random 4-regular start, κ rises from −0.88 toward 0 (−0.36 after 18 000 proposals), two-thirds of relations come to lie in squares, and the growth ratios move from the expander's toward the grid's (grid: κ = 0 exactly under the same definition). **First positive signal on locality:** a slide-invariant cost that depends only on which relations exist, acting on which are kept, drives a random start toward a lattice. Not converged; endpoint not decided at this compute.
+
 **What the beginning leaves.** Fed matter at every adjacency, and a uniform record. Today matter is sparse.
 
 ## Gathering and space
@@ -230,7 +232,7 @@ $$P_\infty=\frac{P_{\text{free,total}}}{N},\qquad \frac{dN}{dt}=N\,r_b,\qquad H=
 ## Open
 
 - **The masses.** What sets each pattern's renewal frequency.
-- **The beginning's missing sentence.** Locality. Thinning and pairing give the count of relations and lines (R5); a curvature cost applied at pairing does not flatten a random start (R6). Whether a global cost can, or whether locality is a primitive 2.0 lacks, is open. Dimension is three by the method; the mechanism is here.
+- **The beginning's missing sentence.** Locality. Thinning and pairing give the count of relations and lines (R5); a curvature cost at pairing does nothing (R6); the same cost acting globally on which relations are kept moves a random start toward a lattice (R7, not converged). Whether it arrives, and at what dimension for a given degree, is the open run. Dimension is three by the method; the mechanism is here.
 - **Charge.** A ratio on relations is a gauge field's shape. Not pursued.
 - **δ.** Its value, and whether it is one number for every renewal. No longer bounded by Ġ/G.
 - **P_max.** Its value.

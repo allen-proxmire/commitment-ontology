@@ -1,0 +1,76 @@
+{
+ "reference_grid": {
+  "mean_kappa": 0.0,
+  "growth": [
+   2.6,
+   1.92,
+   1.64,
+   1.49,
+   1.39
+  ],
+  "frac_4cycles": 1.0
+ },
+ "start_random_regular": {
+  "mean_kappa": -0.8833333333333333,
+  "growth": [
+   3.36,
+   2.94,
+   2.51,
+   1.78,
+   1.16
+  ],
+  "frac_4cycles": 0.068359375
+ },
+ "annealed": {
+  "mean_kappa": -0.4111328125,
+  "growth": [
+   3.03,
+   2.4,
+   2.14,
+   1.88,
+   1.5
+  ],
+  "N_within_r": [
+   1.0,
+   5.0,
+   15.2,
+   36.4,
+   78.1,
+   146.6,
+   219.7
+  ],
+  "frac_4cycles": 0.521484375,
+  "log": [
+   {
+    "step": 1200,
+    "accepted": 210,
+    "mean_kappa": -0.54833984375,
+    "secs": 98
+   },
+   {
+    "step": 2400,
+    "accepted": 266,
+    "mean_kappa": -0.45947265625,
+    "secs": 190
+   },
+   {
+    "step": 3600,
+    "accepted": 302,
+    "mean_kappa": -0.42919921875,
+    "secs": 281
+   },
+   {
+    "step": 4800,
+    "accepted": 324,
+    "mean_kappa": -0.4189453125,
+    "secs": 372
+   },
+   {
+    "step": 6000,
+    "accepted": 338,
+    "mean_kappa": -0.4111328125,
+    "secs": 464
+   }
+  ]
+ }
+}
