@@ -183,8 +183,20 @@ Inertia and the α-terms are one statement once the internal state exists. With 
 
 **Q1 ([`CO_2.1_runs/Q1_zitter_current/`](CO_2.1_runs/Q1_zitter_current/Q1_result.md)):** the automaton's rest-frame state on the cubic lattice, and where its current flows. It circulates about the spin axis (the zitter) as a smooth vortex; circulation per edge around the cube's hexagons against its squares is 0.87 at every mass and step count, which is the geometric ratio for a smooth field. **No chair structure. The chair is not the electron's orbit.** The loop supplied the internal state and the mass as flip density, and the walk carries those; the loop as a literal path is not what the dynamics does. "One pattern" stands as one walk with one internal state. The chair remains an illustration of maximal flip density and the Weyl sign correlations.
 
+## The internal state is forced
+
+**Meyer's no-go (1996).** A walk of amplitudes on a lattice that is homogeneous (sliding costs nothing), unitary (amplitudes forced, conserved) and moves (patterns are in transit) cannot be scalar: one amplitude per site can only rest or shift rigidly. An internal space is the only way possibility can move as amplitudes at all. Not a reading.
+
+**Four, by the Clifford count.** Three directions of motion whose coin operators anticommute (so the continuum limit is first-order and direction-independent), plus a mass step that changes the internal state without moving it and anticommutes with all three (so the massive limit stays relativistic): four mutually anticommuting generators, whose smallest representation is C⁴. The direction operators are α, the mass operator is β, chirality × spin is the standard labelling. The loop's labels named what the algebra already had.
+
+**Status: the one pattern is a Dirac walk, ruled.** The chain: amplitudes (conservation, scalelessness, associativity) → internal state (Meyer) → four components with α, β (Clifford) → mass as the β amplitude i·mcℓ/ħ → Dirac's equation in the limit (Bialynicki-Birula) → spin ½ and g = 2. Borrowed mathematics acknowledged; no physics borrowed. Dirac's equation from the two primitives, the rulings of 2.0, and "commitments happen at a rate."
+
+**Limits.** Lorentz invariance is broken at the hop scale and recovered in the limit, as on any lattice. Why commitments happen at the rate they do (the masses) is open. Charge's strength is from data. The colour-like label has no algebra behind it.
+
 ## Open
-- The internal-state reading for a general pattern in transit, now without a loop to point at.
+- The spectrum: why these flip rates.
+- The 1-form's strength (1/137).
+- Whether the three-valued orientation label couples as colour does.
 - The spectrum: which (k, L) close under their own holonomy.
 - The 1-form's strength (1/137).
 - Whether the three-valued orientation label couples as colour does.
