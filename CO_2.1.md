@@ -101,12 +101,18 @@ $$\mu=\frac{ec\ell}{4}=\frac{e\hbar}{4m},\qquad g=\frac{\mu}{(e/2m)S}=1 .$$
 
 **The factor is structural.** Redefining the repeat (crossing or circuit) cannot move it: the mass is the commitment rate kc/(Lℓ) and the current is ec/(Lℓ), both fixed by the geometry, so μ = eħ/(4m) and S = ħ/2 for any planar loop of any size. Closed as a route. Underneath is a classical theorem: charge and mass distributed alike and circulating together give μ/S = e/2m, g = 1. Dirac's g = 2 says the electron's charge and inertia are distributed differently.
 
-**Which is what 2.1 already says.** Mass is the commitments: the corners and the circulating quantum. Charge is a which-way bias on the relations: the whole perimeter, at all times, whether or not the quantum is there. The computation above treated the sign as riding on the quantum (a point charge going round); that is not 2.1's charge. The moment of a loop whose charge is a bias on its relations must be computed from the field that bias sources through the 1-form's cost, not as I·A. **Not yet done; the top question in 2.1.** If it gives 2, one loop yields spin ½ and g = 2 together. If it gives 1, charge-as-carried-bias is the wrong reading.
+**Which is what 2.1 already says.** Mass is the commitments: the corners and the circulating quantum. Charge is a which-way bias on the relations: the whole perimeter, at all times, whether or not the quantum is there. The computation above treated the sign as riding on the quantum (a point charge going round); that is not 2.1's charge. The moment of a loop whose charge is a bias on its relations, from the field that bias sources through the 1-form's cost. Three readings, each worked: static on all perimeter relations (a charged ring at rest: μ = 0); riding with the quantum (the point-charge current: g = 1); a holonomy threading the loop (a charge–flux composite: μ unchanged, so g = 2 would need S = ħ/4, impossible). **Under classical Maxwell sourcing no reading gives g = 2.** As is known: no classical current does. The factor is Dirac's, from the four components mixing under the field.
+
+## The one pattern is a Dirac walk (candidate)
+
+What the loop does: possibility moves at c always; it turns only at a commitment; its mass is the turning rate, kc/L. That is Feynman's checkerboard (1965): a particle at light speed reversing at a rate set by its mass, whose path sum is the Dirac equation in 1+1. Mass-as-turn-rate, reached here from "corners are commitments," is Feynman's mass-as-reversal-rate. In 3+1 a walk on the cubic lattice at hop speed with a four-component internal state mixed at each step has the Dirac equation as its continuum limit (Bialynicki-Birula 1994; the quantum-walk literature since). The four components are the four versions. Dirac gives g = 2 and spin ½ together.
+
+Between candidate and ruling: the walk needs amplitudes with phases (a walk of possibility without phases is diffusion); the loop's phase, where on the loop, is the candidate. And the turning rule must be shown to be Dirac's mixing matrix and not another.
 
 **1/137** goes in from data, as Λ did: the which-way field's stiffness relative to ħc. Not to be sought among the others until the factor of two is understood.
 
 ## Open
-- The factor of two: the moment of a relation-carried bias, from the 1-form field it sources.
+- The turning rule against Dirac's mixing matrix; the loop phase as the walk's amplitude.
 - The spectrum: which (k, L) close under their own holonomy.
 - The 1-form's strength (1/137).
 - Whether the three-valued orientation label couples as colour does.
