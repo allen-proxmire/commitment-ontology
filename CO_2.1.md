@@ -167,8 +167,25 @@ $$S_{\text{chair}}=\frac{mc\ell}{\sqrt3}=\frac{\hbar}{\sqrt3}\approx0.577\,\hbar
 
 Both of Dirac's structures are present on the chair with the right signs. **Structural match; explicit matrix equality not written** (the walk's amplitudes on the six edges).
 
+## The propagator: identification, not a new calculation
+
+The chair is a path; the propagator is the one-step operator on the whole lattice. The question is whether 2.1's rules are the one-step operator of the three-dimensional Dirac automaton (Bialynicki-Birula 1994), whose continuum limit is the Dirac equation by theorem.
+
+| 2.1 rule | automaton |
+|---|---|
+| hop at c, the internal state deciding the direction; an aligned state keeps going, an unaligned one splits (**inertia**, 2.0) | the α-structure: the α_j = ±1 component moves ±j |
+| flips at amplitude i·f/L per hop, with f/L = mcℓ/ħ (mass as flip rate) | the mass step exp(−iβmε) ≈ 1 − iβ·mcℓ/ħ |
+| amplitudes with phases, added and squared (forced) | a unitary walk |
+
+Inertia and the α-terms are one statement once the internal state exists. With the three rules the one-step operator is the automaton's; **spin ½ and g = 2 follow from Dirac**, not from any orbit.
+
+**Derived:** the amplitude rule; mass as flip rate; inertia as α. **Assembled:** the four-dimensional internal state as (torsion sign) × (sense about the axis), which the chair exhibits with the right sign correlations but which is a reading for a general pattern in transit. **Status: the one pattern is a Dirac walk, ruled in 3+1 conditional on the internal-state reading.** An identification with a construction known to yield Dirac, not an independent derivation of it.
+
+**A run worth doing (the first in 2.1):** the automaton's rest-frame state on the cubic lattice, and where its probability current flows. If it circulates along chair-like paths with alternating chirality, the chair is the Dirac electron's zitter orbit.
+
 ## Open
-- The explicit propagator of the chair as a Dirac walk.
+- The internal-state reading for a general pattern in transit.
+- The zitter-current run.
 - The spectrum: which (k, L) close under their own holonomy.
 - The 1-form's strength (1/137).
 - Whether the three-valued orientation label couples as colour does.
