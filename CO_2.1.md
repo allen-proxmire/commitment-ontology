@@ -93,7 +93,7 @@ The square, L = k = 4, side ℓ, m = ħ/(cℓ). One quantum circulates at radius
 
 $$S=mc\cdot\frac{\ell}{2}=\frac{\hbar}{2}.$$
 
-**Spin one-half, from the loop and nothing else.** As a current loop, I = ec/(Lℓ), A = ℓ²:
+Spin one-half, for the square. **Withdrawn as a general result** (see The chair's spin below): it is the square's geometry, and the square is not a pattern. As a current loop, I = ec/(Lℓ), A = ℓ²:
 
 $$\mu=\frac{ec\ell}{4}=\frac{e\hbar}{4m},\qquad g=\frac{\mu}{(e/2m)S}=1 .$$
 
@@ -153,9 +153,22 @@ f the torsion-sign changes per circuit (replacing k/L). Chair 1, boat 2/3, plana
 
 **To watch.** Torsion is the change of the local plane, whose normal is the three-valued label that looked like colour's shape. Chirality flips and that label are one geometric fact seen twice: a hint, or a sign one reading is wrong. Undecided.
 
+## The chair's spin, and the 4×4 in the flip reading
+
+Chair vertices (0,0,0),(1,0,0),(1,1,0),(1,1,1),(0,1,1),(0,0,1); vector area (1,−1,1)ℓ², magnitude √3ℓ². For possibility circulating with momentum mc, S = 2mc|A|/perimeter:
+
+$$S_{\text{chair}}=\frac{mc\ell}{\sqrt3}=\frac{\hbar}{\sqrt3}\approx0.577\,\hbar\quad(\text{boat: }0.31\,\hbar;\ \text{square: }\hbar/2).$$
+
+**Orbital circulation does not give ħ/2 for the loops that are patterns.** Spin ½ is the internal two-valuedness of the Dirac walk's state, the global sense about the loop's axis, not the size of an orbit.
+
+**β.** A torsion-sign change at a corner swaps chirality; the global sense about the axis is the same on every edge, so the flip leaves spin alone: (swap chirality) ⊗ (identity on spin), which is β in the Weyl basis.
+
+**α.** Projection of the chair's axis (1,−1,1) onto its edges in order: +1/√3, −1/√3, +1/√3, −1/√3, +1/√3, −1/√3; the torsion sign alternates likewise. On each edge spin-along-motion has the sign of chirality: right-handed with spin along the motion, left-handed against. The Weyl correlation.
+
+Both of Dirac's structures are present on the chair with the right signs. **Structural match; explicit matrix equality not written** (the walk's amplitudes on the six edges).
+
 ## Open
-- The 4×4 comparison in the flip reading: the torsion-flip operator on (chirality, spin) against β. The object is defined; the match is pen work.
-- The chair's spin from its vector area (it is not a square).
+- The explicit propagator of the chair as a Dirac walk.
 - The spectrum: which (k, L) close under their own holonomy.
 - The 1-form's strength (1/137).
 - Whether the three-valued orientation label couples as colour does.
