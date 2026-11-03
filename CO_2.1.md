@@ -54,8 +54,20 @@ Closed self-avoiding loops on the cubic lattice, up to the lattice's 48 symmetri
 
 Small at small L, growing fast. Reflections are identified in this count; if a loop and its mirror are different kinds, the non-planar counts roughly double, and that distinction is where handedness would enter.
 
+## Mass, with corners as commitments
+
+Each corner is a commitment and each commitment engages ħ (ruling (B)), so a loop of L hops with k corners commits at rate kc/L and
+
+$$m=\frac{\hbar}{c\,\ell}\cdot\frac{k}{L},\qquad \frac{k}{L}\le 1 .$$
+
+- **A maximum mass.** The all-corner loop is the heaviest pattern there can be: m_max = ħ/(cℓ). The hop length is the Compton wavelength of the heaviest particle. Not the proton's (the τ, W, Z, Higgs and top exist); at or below the top quark's, ℓ ≲ 1.1×10⁻¹⁸ m.
+- **No selection.** The allowed masses are the rationals k/L. Any ratio can be matched with enough hops, so this must not be used to fit the known masses; a formula that fits anything explains nothing. The loop gives a scale and a bound, not a spectrum.
+- **Self-gravity cannot select sizes.** A loop's own deficit is of order δ ≈ 10⁻³⁷. Whatever makes some loops stable and others not is not in the inventory. **The masses are blocked on the forces, not on gravity; charge comes first.**
+
+**Mirrors (candidate).** A reflection is a lattice symmetry, but a loop is traversed, and inertia makes the direction physical: reversing the traversal is not reflecting the shape, so a chiral loop has four versions. A loop and its mirror are two kinds. A choice about what "the same" means, not a derivation; it is where a left/right label can sit.
+
 ## Open
-- Which sizes are realised, and why: the spectrum. The counts above say how many kinds each size allows, not which sizes exist.
-- Whether a loop and its mirror are one kind or two.
+- The spectrum: which sizes are realised. Blocked on charge.
+- Charge: a second interaction, strong enough to select loop sizes where gravity (δ ~ 10⁻³⁷) cannot.
 - The Born weights from the phase.
 - Charge, spin, the forces.
