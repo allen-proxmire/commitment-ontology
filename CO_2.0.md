@@ -145,7 +145,9 @@ At the start everything is free: no matter, no renewal, no count. Under the ruli
 
 **Relations are kept, not made.** With no distance yet, every first place is related to every other; all possible relations are there at the start. Nothing creates relations afterward; thinning decides which survive. A quantum's first passage through a place pairs the relation it came by with the one it leaves by (a record, kept); transit keeps to its pairs (inertia). So the survivors organise into lines, about P∞/2ħ through each place.
 
-**R5 ([`CO_2.0_runs/R5_thinning/`](CO_2.0_runs/R5_thinning/R5_result.md)):** many places, few quanta each. Thinning alone leaves a random graph of degree ≈ P∞/ħ + 1 with no dimension. Pairing turns it into lines of degree 3–4, but the lines wander through the whole start at random and the result is an expander: neighbourhoods grow exponentially, not as r^d. **Thinning and pairing set how many relations and arrange them into lines; they do not say which places the lines join.** Locality is still absent. Only the mismatch cost can supply it, by selecting among lines, and on a bare graph "a loop whose occupancies cannot be laid flat" has no meaning yet. That meaning is the next thing to say; a locality proxy would be an added rule and a run with it would return it.
+**R5 ([`CO_2.0_runs/R5_thinning/`](CO_2.0_runs/R5_thinning/R5_result.md)):** many places, few quanta each. Thinning alone leaves a random graph of degree ≈ P∞/ħ + 1 with no dimension. Pairing turns it into lines of degree 3–4, but the lines wander through the whole start at random and the result is an expander: neighbourhoods grow exponentially, not as r^d. **Thinning and pairing set how many relations and arrange them into lines; they do not say which places the lines join.** Locality is still absent. Only the mismatch cost can supply it, by selecting among lines, and on a bare graph "a loop whose occupancies cannot be laid flat" has no meaning yet.
+
+**R6 ([`CO_2.0_runs/R6_flat_selection/`](CO_2.0_runs/R6_flat_selection/R6_result.md)):** "out of step" by pairings alone does not close (no transport of transverse lines on a bare graph). A bare graph does carry an intrinsic curvature, Ollivier's κ, zero on lattices; tried as the cost, κ², with each pairing partner chosen to bring κ nearest zero. Growth stays exponential and the survivors stay tree-like (|κ| ≈ 0.6–0.85, worsening with size). **Local selection cannot reach flatness**: on a sparse random start every candidate is equally tree-like, there are no short loops to select for. Either the cost acts globally on which relations are kept, or the start already carries the short loops flatness needs, which is locality under another name. Candidate definition not refuted; mechanism as run, negative.
 
 **What the beginning leaves.** Fed matter at every adjacency, and a uniform record. Today matter is sparse.
 
@@ -228,7 +230,7 @@ $$P_\infty=\frac{P_{\text{free,total}}}{N},\qquad \frac{dN}{dt}=N\,r_b,\qquad H=
 ## Open
 
 - **The masses.** What sets each pattern's renewal frequency.
-- **The beginning's missing sentence.** What "out of step" means for a loop on a bare graph with occupancies. Thinning and pairing give the count of relations and lines (R5); the cost must give locality. Dimension is three by the method; the mechanism is here.
+- **The beginning's missing sentence.** Locality. Thinning and pairing give the count of relations and lines (R5); a curvature cost applied at pairing does not flatten a random start (R6). Whether a global cost can, or whether locality is a primitive 2.0 lacks, is open. Dimension is three by the method; the mechanism is here.
 - **Charge.** A ratio on relations is a gauge field's shape. Not pursued.
 - **δ.** Its value, and whether it is one number for every renewal. No longer bounded by Ġ/G.
 - **P_max.** Its value.
