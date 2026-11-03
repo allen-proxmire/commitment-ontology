@@ -1,6 +1,6 @@
-# Commitment Ontology 2.0, in plain language
+# Commitment Ontology, in plain language
 
-The theory as it stands. The working record, with everything tried and dropped, is in [`CO_2.0.md`](CO_2.0.md).
+The theory as it stands: 2.0 (gravity, space, the universe) and 2.1 (the quantum sector). The working records, with everything tried and dropped, are [`CO_2.0.md`](CO_2.0.md) and [`CO_2.1.md`](CO_2.1.md).
 
 ## The idea in one paragraph
 
@@ -100,13 +100,41 @@ $$H^2=\frac{8\pi G}{3}\rho-\frac{k}{a^2},$$
 
 with the matter era from matter's density and the radiation era from radiation's (its draw falls as a⁻⁴ because frequency redshifts). Λ is taken from data; the theory gives it a seat, not a value.
 
+## The quantum sector
+
+Everything above used possibility as an amount. The quantum sector begins when two routes meet.
+
+**Phase.** Matter repeats, so it has a phase: where it is in its cycle. A pattern in transit carries that phase, and two routes of different length deliver it at different phases.
+
+**When routes meet.** Two routes bring amounts p₁ and p₂ to the same place with a phase difference Δθ. The rule for the amount that arrives is pinned down by three things already ruled: conservation (averaged over unrelated phases, nothing is gained or lost), scalelessness (the rule cannot depend on the overall scale of the amounts), and consistency (three routes combine the same whichever two go first). The only rule that passes all three is
+
+$$p=\left|\sqrt{p_1}\,e^{i\theta_1}+\sqrt{p_2}\,e^{i\theta_2}\right|^2 .$$
+
+Square roots of amounts, with phases, added and then squared. That is quantum mechanics' amplitude rule, and it is forced, not assumed.
+
+**The Born rule, for free.** In the usual theory one must add a postulate: the probability of finding the particle is the amplitude squared. Here there is nothing to add. What commits is possibility; the chance of a commitment somewhere is the possibility there; possibility is conserved, so the chances sum to one. The rule and its meaning are the same sentence.
+
+**The internal state.** A moving pattern of amplitudes on a network where sliding costs nothing cannot be a single number per place: a theorem (Meyer) says such a thing can only sit still or slide rigidly. To move at all it must carry an internal state. With three directions to move in and a mass, that state must have four components, with the direction operators and the mass operator anticommuting (the Clifford algebra). Those are Dirac's α and β. The two-valued labels that fall out of the four are chirality and spin.
+
+**Mass.** Mass is how often a pattern commits. Each commitment flips the internal state (it is the β step), with amplitude i·mcℓ/ħ per hop, ℓ the hop length. This is Feynman's checkerboard rule, reached from the other side. There is a heaviest possible pattern (one flip per hop), and its Compton wavelength is the hop length:
+
+$$\ell=\frac{\hbar}{m_{\max}c},\qquad \ell=\ell_P\sqrt{\frac{4\pi P_{\max}}{\delta}}.$$
+
+The second relation ties the hop length to the two constants gravity already had, through G, so no new constant enters.
+
+**The result.** Possibility hopping at the hop speed with a four-component state, flipping at the mass rate, has the Dirac equation as its continuum limit (Bialynicki-Birula). So the electron's equation, with spin ½ and a magnetic moment of g = 2, follows from the two primitives, the rulings of the gravity sector, and one added statement: commitments happen at a rate.
+
+**Charge.** A relation carries not only how much possibility is in transit across it but which way: a ratio that reverses when the direction reverses. That is the shape of a gauge field, and with "sliding costs nothing" its field equations are Maxwell's by the same uniqueness that gave Einstein's. Charge is a sign a pattern carries on the relations it uses; the antiparticle is the same pattern with the opposite sign. Its strength, 1/137, is taken from data.
+
+**What the quantum sector does not say.** Why the particles have the masses they do (nothing selects a commitment rate); the value of 1/137; whether a three-valued orientation label that every pattern carries on a lattice of three lines is colour.
+
 ## What goes in, what comes out
 
-**In:** possibility and commitment; the rule that hops compare by ratio (forced by scalelessness); three constants of the theory's own, δ, P_max and Λ; G, c and ħ as measured; the particle masses.
+**In:** possibility and commitment; the rule that hops compare by ratio (forced by scalelessness); that commitments happen at a rate; three constants of the theory's own, δ, P_max and Λ; G, c, ħ and 1/137 as measured; the particle masses.
 
-**Out:** one-way time; universal redshift and free fall; Newton's law, light bending, the Shapiro delay and Mercury's precession; black holes as ceilings; tensor gravitational waves with Einstein's quadrupole; a strong-field prediction that differs from GR; three dimensions as a consistency condition; inflation with its own exit; Friedmann's equation with the matter and radiation eras.
+**Out:** one-way time; universal redshift and free fall; Newton's law, light bending, the Shapiro delay and Mercury's precession; black holes as ceilings; tensor gravitational waves with Einstein's quadrupole; a strong-field prediction that differs from GR; three dimensions as a consistency condition; inflation with its own exit; Friedmann's equation with the matter and radiation eras; the amplitude rule and the Born rule; a four-component internal state; the Dirac equation with spin ½ and g = 2; a maximum mass and the hop length; Maxwell's equations for charge.
 
-**Not yet:** what sets each particle's mass; the values of δ, P_max and Λ; the quantum sector beyond "matter between repeats is a pattern."
+**Not yet:** what sets each particle's mass; the values of δ, P_max, Λ and 1/137; colour.
 
 **How it could fail:** a black-hole shadow or ringdown that matches Kerr to a few percent where the exponential metric differs; any confirmed departure from the classical tests; a mismatch cost that, derived rather than inferred from symmetry, turns out not to be Einstein's; the exponential metric's known strong-field difficulties (it is Yilmaz's metric, proposed before, with unresolved questions about its interior and how it couples to matter), which this route does not escape.
 
@@ -119,15 +147,16 @@ with the matter era from matter's density and the radiation era from radiation's
 - Λ has a reason to be the only constant of its kind, if not a value.
 - Mass as frequency recasts the masses question as one about sizes, which a combinatorial structure could fix where frequencies could not.
 - Two primitives and three constants of its own give the four classical tests, tensor waves with Einstein's coefficient, black holes as ceilings, inflation with its own exit, the matter and radiation eras, and three dimensions.
+- The amplitude rule and the Born rule are forced rather than postulated, and Dirac's equation, with spin ½ and g = 2, follows from one added statement.
 
 **Where a fair critic pushes.**
-- The heavy lifting is borrowed mathematics: Lovelock's uniqueness, Regge's form, Ollivier's curvature. No physics is borrowed, but the symmetry argument does the work and the primitives set it up.
+- The heavy lifting is borrowed mathematics: Lovelock's uniqueness, Regge's form, Ollivier's curvature; in the quantum sector Lamperti's isometry, Meyer's no-go, the Clifford count and Bialynicki-Birula's limit. No physics is borrowed, but the theorems do the work and the primitives supply their hypotheses.
 - The exterior is Yilmaz's exponential metric, reached by a new route, with its old problems intact.
 - "Transit draws by frequency" and "a relation carries an occupancy" are readings in the primitives' words, each with a picture behind it, not derivations.
 - The runs are small. Locality is seen arriving; a lattice is not reached.
-- The quantum sector is empty beyond "matter between repeats is a pattern."
+- In the quantum sector, associativity of combining is assumed, and "the limit must be relativistic" is what forces the mass operator's form.
 - No number has been matched to a measurement where the standard theories are silent or wrong. The strong-field prediction is alive, not confirmed.
 
-**2.0 stops here**, complete as far as the two primitives force it. The masses, and the quantum sector with them, need a commitment to have an inside. That is the first addition to the inventory since the restart, and it is 2.1.
+**2.0 stops** where the two primitives stop forcing; **2.1 stops** where its one addition stops forcing. What remains, the masses, the field's strength and colour, each needs something new. That is 2.2.
 
 Independent, speculative, not peer-reviewed.
