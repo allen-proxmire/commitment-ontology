@@ -61,7 +61,7 @@ Each corner is a commitment and each commitment engages ħ (ruling (B)), so a lo
 $$m=\frac{\hbar}{c\,\ell}\cdot\frac{k}{L},\qquad \frac{k}{L}\le 1 .$$
 
 - **A maximum mass.** The all-corner loop is the heaviest pattern there can be: m_max = ħ/(cℓ). The hop length is the Compton wavelength of the heaviest particle. Not the proton's (the τ, W, Z, Higgs and top exist); at or below the top quark's, ℓ ≲ 1.1×10⁻¹⁸ m.
-- **No selection.** The allowed masses are the rationals k/L. Any ratio can be matched with enough hops, so this must not be used to fit the known masses; a formula that fits anything explains nothing. The loop gives a scale and a bound, not a spectrum.
+- **No selection.** The allowed masses are the rationals k/L (later f/L; see Chirality). Any ratio can be matched with enough hops, so this must not be used to fit the known masses; a formula that fits anything explains nothing. The loop gives a scale and a bound, not a spectrum.
 - **Self-gravity cannot select sizes.** A loop's own deficit is of order δ ≈ 10⁻³⁷. Whatever makes some loops stable and others not is not in the inventory. **The masses are blocked on the forces, not on gravity; charge comes first.**
 
 **Mirrors (candidate).** A reflection is a lattice symmetry, but a loop is traversed, and inertia makes the direction physical: reversing the traversal is not reflecting the shape, so a chiral loop has four versions. A loop and its mirror are two kinds. A choice about what "the same" means, not a derivation; it is where a left/right label can sit.
@@ -137,8 +137,25 @@ Feynman's checkerboard weight. Dirac's mass term is the turning, with its coeffi
 
 Status: **the one pattern is a Dirac walk** is ruled in 1+1 and candidate in 3+1.
 
+## Chirality at the level of a loop (candidate)
+
+At a corner the loop's local plane is spanned by the direction in and the direction out. Planar loops keep one plane; non-planar loops twist through corners, and the twist has a sign: the torsion. **Chirality is the torsion sign; a corner where it changes is a chirality flip.** Square and 2×1 rectangle: no flips. Chair: flips at all six corners. Boat: at four of six.
+
+**Mass is the flip rate, not the turn rate.** The Dirac walk has direction changes free (α, at zero mass) and mass as chirality flips (β). So
+
+$$m=\frac{\hbar}{c\,\ell}\cdot\frac{f}{L},$$
+
+f the torsion-sign changes per circuit (replacing k/L). Chair 1, boat 2/3, planar 0.
+
+**Closed loops must twist.** A planar loop would be massless, but a closed loop circulating at c is at rest, with a repeat and a count; a massless pattern has none. So massless patterns are open (never close, never repeat, no proper time: light) and closed loops have f > 0. The square and rectangle are not patterns; **kinds begin at six hops, with the chair and the boat.**
+
+**What it settles.** Turning is free; a commitment is a flip ("corners are commitments" becomes "flips are commitments"). Inertia reads as the mean direction, with free turns as the hop-level splitting, now for a reason.
+
+**To watch.** Torsion is the change of the local plane, whose normal is the three-valued label that looked like colour's shape. Chirality flips and that label are one geometric fact seen twice: a hint, or a sign one reading is wrong. Undecided.
+
 ## Open
-- A loop-level chirality that a corner flips; the α-splitting as what ratio hopping on three lines does with amplitudes; inertia as mean direction.
+- The 4×4 comparison in the flip reading: the torsion-flip operator on (chirality, spin) against β. The object is defined; the match is pen work.
+- The chair's spin from its vector area (it is not a square).
 - The spectrum: which (k, L) close under their own holonomy.
 - The 1-form's strength (1/137).
 - Whether the three-valued orientation label couples as colour does.
