@@ -193,6 +193,18 @@ Inertia and the α-terms are one statement once the internal state exists. With 
 
 **Limits.** Lorentz invariance is broken at the hop scale and recovered in the limit, as on any lattice. Why commitments happen at the rate they do (the masses) is open. Charge's strength is from data. The colour-like label has no algebra behind it.
 
+## Where 2.1 stands
+
+**In:** everything 2.0 ruled, and one addition: commitments happen at a rate (the loop was the ladder to it; the walk is what stands).
+
+**Out:** amplitudes with phases and the Born rule, forced; an internal state, forced, four-dimensional; the Dirac equation in the continuum limit, with spin ½ and g = 2; mass as the rate of commitments, with a maximum mass that sets the hop length; the hop length tied to δ and P_max through G, so no new constant; charge as a carried sign, with antiparticles as the opposite sign; the Weyl sign correlations exhibited by the first allowed shape.
+
+**Withdrawn along the way, with reasons kept:** spin ½ from an orbit (the square's geometry; the square is not a pattern); charge as the traversal sense (a circulation is a dipole; C is not a spacetime operation); the four versions as Dirac's components (two correct labels, not the basis); the chair as the electron's orbit (Q1: the current is a smooth vortex).
+
+**Where a fair critic pushes:** the theorems do the work (Meyer, Clifford, Bialynicki-Birula, Lamperti) and the primitives supply hypotheses; associativity of combining is assumed; "the limit must be relativistic" is what forces β; 1/137 is from data; nothing selects a mass; the colour-like label has no algebra.
+
+**2.1 stops here**, complete as far as the one addition forces. What remains needs something new each: a selection mechanism for the masses, a number for the field's strength, an algebra for colour. That is 2.2.
+
 ## Open
 - The spectrum: why these flip rates.
 - The 1-form's strength (1/137).
