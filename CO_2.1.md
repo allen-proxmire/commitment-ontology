@@ -111,8 +111,24 @@ Between candidate and ruling: the walk needs amplitudes with phases (a walk of p
 
 **1/137** goes in from data, as Λ did: the which-way field's stiffness relative to ħc. Not to be sought among the others until the factor of two is understood.
 
+## Phase, and what happens when routes meet
+
+A pattern in transit carries where it is on its loop, θ, advancing 2π/L per hop. Two routes from A to B of n₁, n₂ hops arrive with Δθ = 2π(n₁ − n₂)/L and amounts p₁, p₂. Required of the rule for the amount at B: **conservation** (over unrelated phases the average is p₁ + p₂, so the cross term has zero mean); **scalelessness** (invariant under a common scaling, so the cross term is √(p₁p₂)·h(p₁/p₂)·f(Δθ)); **associativity** (three routes combine the same whichever pair first). These force h constant and f the cosine (Lamperti's isometry, borrowed mathematics):
+
+$$p_B=\left|\sqrt{p_1}\,e^{i\theta_1}+\sqrt{p_2}\,e^{i\theta_2}\right|^2 .$$
+
+Amplitudes with phases, added and squared: forced, not put in.
+
+**Born, for free.** What commits is possibility; the chance of a commitment at B is the possibility present; possibility is conserved, so the chances sum to one. "Probability is the amplitude squared" is the amount of possibility at B in the forced representation. Rule and interpretation are one sentence. Status: derived, conditional on the three requirements, each of which is a ruling.
+
+**The walk is quantum.** Possibility hops at c carrying phase and turns at commitments with an amplitude the mass rule fixes: corner density k/L = mcℓ/ħ is turns per hop, so
+
+$$\text{turn amplitude per hop}=i\,\frac{mc\ell}{\hbar}=i\,\frac{k}{L},$$
+
+Feynman's checkerboard weight. Dirac's mass term is the turning, with its coefficient supplied by the loop.
+
 ## Open
-- The turning rule against Dirac's mixing matrix; the loop phase as the walk's amplitude.
+- The turning rule against Dirac's mixing: a turn acts on the four versions (carried sign × helicity); does it mix them as β mixes Dirac's components? A 4×4 comparison; the last gap before "the one pattern is a Dirac walk" can be ruled.
 - The spectrum: which (k, L) close under their own holonomy.
 - The 1-form's strength (1/137).
 - Whether the three-valued orientation label couples as colour does.
