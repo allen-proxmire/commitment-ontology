@@ -87,12 +87,27 @@ So, in one sentence: mass is size and corners (k/L); charge is the carried sign;
 
 **Selection (candidate).** A charged loop sits in its own holonomy, and closure relates its length, its corners and its own flux. Only some (k, L) close. The first rule on the board that could pick sizes where gravity cannot. Not worked.
 
+## Spin and moment of the one pattern
+
+The square, L = k = 4, side ℓ, m = ħ/(cℓ). One quantum circulates at radius ℓ/2 with momentum mc:
+
+$$S=mc\cdot\frac{\ell}{2}=\frac{\hbar}{2}.$$
+
+**Spin one-half, from the loop and nothing else.** As a current loop, I = ec/(Lℓ), A = ℓ²:
+
+$$\mu=\frac{ec\ell}{4}=\frac{e\hbar}{4m},\qquad g=\frac{\mu}{(e/2m)S}=1 .$$
+
+**Dirac has g = 2 (measured 2.0023). The loop gives half.** The same factor separates every classical circulating-charge model, the zitter models included, from Dirac; non-planar loops cannot close it (k ≤ L and the isoperimetric bound). Spin right, moment wrong by two.
+
+The one place inside the picture it could come from: Dirac's internal clock runs at 2mc²/ħ, twice the Compton frequency. "A repeat is one crossing of the extent" and "a circuit is two crossings" were used interchangeably above and are not the same; if the carried sign goes around twice per repeat, g = 2. Which is the repeat is a ruling not yet made; g = 2 says which way, and the choice must be shown not to break the mass or the spin. Candidate.
+
+**1/137** goes in from data, as Λ did: the which-way field's stiffness relative to ħc. Not to be sought among the others until the factor of two is understood.
+
 ## Open
+- The factor of two: which of crossing and circuit is the repeat.
 - The spectrum: which (k, L) close under their own holonomy.
 - The 1-form's strength (1/137).
 - Whether the three-valued orientation label couples as colour does.
-- The magnetic moment of a loop against the Dirac value.
 - The Born weights from the phase.
-- The magnetic moment of a loop against the Dirac value.
 - The Born weights from the phase.
 - Charge, spin, the forces.
