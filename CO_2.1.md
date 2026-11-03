@@ -66,8 +66,31 @@ $$m=\frac{\hbar}{c\,\ell}\cdot\frac{k}{L},\qquad \frac{k}{L}\le 1 .$$
 
 **Mirrors (candidate).** A reflection is a lattice symmetry, but a loop is traversed, and inertia makes the direction physical: reversing the traversal is not reflecting the shape, so a chiral loop has four versions. A loop and its mirror are two kinds. A choice about what "the same" means, not a derivation; it is where a left/right label can sit.
 
+## Charge (candidate)
+
+A relation carries how much (occupancy, symmetric) and which way (a ratio, antisymmetric: r_ji = 1/r_ij, a 1-form). Gravity took the first; the second was set aside in 2.0. Around a closed loop the ratios multiply to a holonomy e^Φ, equal to 1 while ratios are slaved to places. Let relations be out of step in this number too.
+
+| | statement | status |
+|---|---|---|
+| cost | sliding costs nothing, so the cost of a 1-form out of step depends only on holonomies; the unique local quadratic cost in 3+1 is Maxwell's, ∫F². Same uniqueness as Einstein's, on the other number a relation carries | candidate |
+| source | a traversed loop is a current loop: possibility running one way makes the ratio across each relation differ from 1 in that direction. Charge is the traversal sense; **an antiparticle is the same loop run backward** | candidate |
+| quantization | a loop's phase must return to itself after a circuit, so the holonomy it carries and the holonomy it sits in combine to a multiple of 2π: the Aharonov–Bohm / Dirac argument as a closure condition on repeats | candidate |
+| strength | the 1-form's stiffness relative to ħc (1/137) is not given; a fourth constant unless tied to the others | open |
+
+## One pattern (candidate, from Allen)
+
+One loop shape has four versions: shape or mirror, run forward or back. Forward/back is particle/antiparticle (charge); shape/mirror along the motion is handedness. Left particle, right particle, left antiparticle, right antiparticle: **the four components of a Dirac fermion. One pattern is one Dirac field.**
+
+"The face going forward is the identity": the loop's orientation relative to its motion is a label, not a shape. On a lattice with three lines through each place, which line a moving loop's plane is set against is a three-valued label that costs nothing and leaves mass unchanged. Three-valued, free, invisible to mass, carried by every loop: the shape of colour. Whether it is colour depends on how such labels couple; not done.
+
+So, in one sentence: mass is size and corners (k/L); charge is the running sense; handedness is shape against mirror along the motion; a three-valued orientation label comes free.
+
+**Selection (candidate).** A charged loop sits in its own holonomy, and closure relates its length, its corners and its own flux. Only some (k, L) close. The first rule on the board that could pick sizes where gravity cannot. Not worked.
+
 ## Open
-- The spectrum: which sizes are realised. Blocked on charge.
-- Charge: a second interaction, strong enough to select loop sizes where gravity (δ ~ 10⁻³⁷) cannot.
+- The spectrum: which (k, L) close under their own holonomy.
+- The 1-form's strength (1/137).
+- Whether the three-valued orientation label couples as colour does.
+- The Born weights from the phase.
 - The Born weights from the phase.
 - Charge, spin, the forces.
