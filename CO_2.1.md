@@ -207,7 +207,8 @@ Inertia and the α-terms are one statement once the internal state exists. With 
 
 ## Open
 - The spectrum: why these flip rates.
-- The 1-form's strength (1/137).
+- The 1-form's strength (1/137). In CO's words it is the which-way stiffness in quanta per hop, about 137: the field of a carried sign reaches 1/137 of its pattern's extent before holding one pattern's worth (r_e : ƛ : a₀ = α² : α : 1). An input with a seat, as Λ is.
+- The gravity/electromagnetism hierarchy (about 10⁴³ for the electron) is, in CO, the smallness of δ: gravity is weak because pooling is rare; charge is not pooling. A story, not a number; δ as estimated is in the neighbourhood and not on it.
 - Whether the three-valued orientation label couples as colour does.
 - The spectrum: which (k, L) close under their own holonomy.
 - The 1-form's strength (1/137).
