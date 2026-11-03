@@ -99,12 +99,14 @@ $$\mu=\frac{ec\ell}{4}=\frac{e\hbar}{4m},\qquad g=\frac{\mu}{(e/2m)S}=1 .$$
 
 **Dirac has g = 2 (measured 2.0023). The loop gives half.** The same factor separates every classical circulating-charge model, the zitter models included, from Dirac; non-planar loops cannot close it (k ≤ L and the isoperimetric bound). Spin right, moment wrong by two.
 
-The one place inside the picture it could come from: Dirac's internal clock runs at 2mc²/ħ, twice the Compton frequency. "A repeat is one crossing of the extent" and "a circuit is two crossings" were used interchangeably above and are not the same; if the carried sign goes around twice per repeat, g = 2. Which is the repeat is a ruling not yet made; g = 2 says which way, and the choice must be shown not to break the mass or the spin. Candidate.
+**The factor is structural.** Redefining the repeat (crossing or circuit) cannot move it: the mass is the commitment rate kc/(Lℓ) and the current is ec/(Lℓ), both fixed by the geometry, so μ = eħ/(4m) and S = ħ/2 for any planar loop of any size. Closed as a route. Underneath is a classical theorem: charge and mass distributed alike and circulating together give μ/S = e/2m, g = 1. Dirac's g = 2 says the electron's charge and inertia are distributed differently.
+
+**Which is what 2.1 already says.** Mass is the commitments: the corners and the circulating quantum. Charge is a which-way bias on the relations: the whole perimeter, at all times, whether or not the quantum is there. The computation above treated the sign as riding on the quantum (a point charge going round); that is not 2.1's charge. The moment of a loop whose charge is a bias on its relations must be computed from the field that bias sources through the 1-form's cost, not as I·A. **Not yet done; the top question in 2.1.** If it gives 2, one loop yields spin ½ and g = 2 together. If it gives 1, charge-as-carried-bias is the wrong reading.
 
 **1/137** goes in from data, as Λ did: the which-way field's stiffness relative to ħc. Not to be sought among the others until the factor of two is understood.
 
 ## Open
-- The factor of two: which of crossing and circuit is the repeat.
+- The factor of two: the moment of a relation-carried bias, from the 1-form field it sources.
 - The spectrum: which (k, L) close under their own holonomy.
 - The 1-form's strength (1/137).
 - Whether the three-valued orientation label couples as colour does.
