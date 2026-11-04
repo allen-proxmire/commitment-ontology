@@ -1,6 +1,6 @@
 # CO 2.0
 
-A restart from the primitives. Nothing from [`CO_1.0_misdefined-primitives/ONTOLOGY.md`](CO_1.0_misdefined-primitives/ONTOLOGY.md) is assumed; what is kept is re-derived or re-ruled here. No runs. Conversation only, until the rulings settle.
+A restart from the primitives. Nothing from 1.0 (archived in the ED Generative repo, `Public_repo_archive/commitment-ontology_1.0/`) is assumed; what is kept is re-derived or re-ruled here. No runs. Conversation only, until the rulings settle.
 
 **Method.** A rule is added only where the primitives are silent, and only if it retires at least one thing previously added by hand. A rule may also be added when the ruled set contradicts itself or the world, with the contradiction named. A rule whose prerequisites are not yet ruled stays **candidate**.
 

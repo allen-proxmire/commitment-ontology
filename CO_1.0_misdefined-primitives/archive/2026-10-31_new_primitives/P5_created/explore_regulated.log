@@ -1,8 +1,0 @@
-H=3 r=2 K=6: slice exp 1.00 (units exp 1.05, final units 831), counts [2, 0, 0], d_MM [1.01, None, None], d_mid None
-H=3 r=2 K=12: slice exp 1.02 (units exp 0.97, final units 2020), counts [0, 0, 0], d_MM [None, None, None], d_mid None
-H=3 r=3 K=6: slice exp 0.60 (units exp 0.65, final units 118), counts [40, 20, 0], d_MM [1.01, 1.0, None], d_mid None
-H=3 r=3 K=12: slice exp 0.95 (units exp 0.99, final units 301), counts [40, 40, 0], d_MM [1.12, 1.16, None], d_mid None
-H=4 r=2 K=8: slice exp 0.63 (units exp 0.64, final units 517), counts [40, 0, 0], d_MM [1.01, None, None], d_mid None
-H=4 r=2 K=16: slice exp 0.94 (units exp 0.88, final units 1369), counts [35, 0, 0], d_MM [1.09, None, None], d_mid None
-H=4 r=3 K=8: slice exp 0.61 (units exp 0.53, final units 80), counts [40, 40, 0], d_MM [1.0, 1.0, None], d_mid None
-H=4 r=3 K=16: slice exp 1.44 (units exp 1.48, final units 125), counts [40, 40, 40], d_MM [1.04, 1.01, 1.0], d_mid 1.0051945833961384
