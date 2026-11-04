@@ -1,6 +1,8 @@
 # CO 2.1
 
-Continues from [`CO_2.0.md`](CO_2.0.md), which stops where the two primitives stop forcing. 2.1 opens with the first addition to the inventory. Same method: a rule is added only where the primitives are silent and only if it retires something; a rule whose prerequisites are not ruled stays candidate.
+*Was CO 2.1.*
+
+Continues from [`SPACE_AND_GRAVITY.md`](SPACE_AND_GRAVITY.md), which stops where the two primitives stop forcing. 2.1 opens with the first addition to the inventory. Same method: a rule is added only where the primitives are silent and only if it retires something; a rule whose prerequisites are not ruled stays candidate.
 
 ## The one question
 
@@ -44,7 +46,7 @@ So 2.1 introduces no fourth constant: ℓ replaces δ, or δ replaces ℓ, and t
 
 ## The shapes, counted
 
-Closed self-avoiding loops on the cubic lattice, up to the lattice's 48 symmetries and translation (a hand count done by machine, [`CO_2.1_notes/sap_count.py`](CO_2.1_notes/sap_count.py)):
+Closed self-avoiding loops on the cubic lattice, up to the lattice's 48 symmetries and translation (a hand count done by machine, [`MATTER_notes/sap_count.py`](MATTER_notes/sap_count.py)):
 
 | L (hops) | shapes | planar | non-planar |
 |---|---|---|---|
@@ -181,7 +183,7 @@ Inertia and the α-terms are one statement once the internal state exists. With 
 
 **Derived:** the amplitude rule; mass as flip rate; inertia as α. **Assembled:** the four-dimensional internal state as (torsion sign) × (sense about the axis), which the chair exhibits with the right sign correlations but which is a reading for a general pattern in transit. **Status: the one pattern is a Dirac walk, ruled in 3+1 conditional on the internal-state reading.** An identification with a construction known to yield Dirac, not an independent derivation of it.
 
-**Q1 ([`CO_2.1_runs/Q1_zitter_current/`](CO_2.1_runs/Q1_zitter_current/Q1_result.md)):** the automaton's rest-frame state on the cubic lattice, and where its current flows. It circulates about the spin axis (the zitter) as a smooth vortex; circulation per edge around the cube's hexagons against its squares is 0.87 at every mass and step count, which is the geometric ratio for a smooth field. **No chair structure. The chair is not the electron's orbit.** The loop supplied the internal state and the mass as flip density, and the walk carries those; the loop as a literal path is not what the dynamics does. "One pattern" stands as one walk with one internal state. The chair remains an illustration of maximal flip density and the Weyl sign correlations.
+**Q1 ([`MATTER_runs/Q1_zitter_current/`](MATTER_runs/Q1_zitter_current/Q1_result.md)):** the automaton's rest-frame state on the cubic lattice, and where its current flows. It circulates about the spin axis (the zitter) as a smooth vortex; circulation per edge around the cube's hexagons against its squares is 0.87 at every mass and step count, which is the geometric ratio for a smooth field. **No chair structure. The chair is not the electron's orbit.** The loop supplied the internal state and the mass as flip density, and the walk carries those; the loop as a literal path is not what the dynamics does. "One pattern" stands as one walk with one internal state. The chair remains an illustration of maximal flip density and the Weyl sign correlations.
 
 ## The internal state is forced
 

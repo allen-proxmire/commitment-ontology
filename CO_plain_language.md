@@ -1,6 +1,6 @@
 # Commitment Ontology, in plain language
 
-The theory as it stands: 2.0 (gravity, space, the universe) and 2.1 (the quantum sector). The working records, with everything tried and dropped, are [`CO_2.0.md`](CO_2.0.md) and [`CO_2.1.md`](CO_2.1.md).
+The theory as it stands: 2.0 (gravity, space, the universe) and 2.1 (the quantum sector). The working records, with everything tried and dropped, are [`SPACE_AND_GRAVITY.md`](SPACE_AND_GRAVITY.md) and [`MATTER.md`](MATTER.md).
 
 ## The idea in one paragraph
 

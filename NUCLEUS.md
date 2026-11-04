@@ -1,6 +1,8 @@
 # CO 2.2
 
-Continues from [`CO_2.1.md`](CO_2.1.md), which stops where its one addition stops forcing. Three questions remain: the masses, the field's strength, colour. Same method.
+*Was CO 2.2.*
+
+Continues from [`MATTER.md`](MATTER.md), which stops where its one addition stops forcing. Three questions remain: the masses, the field's strength, colour. Same method.
 
 ## Colour
 
