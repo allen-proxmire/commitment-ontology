@@ -11,7 +11,7 @@ Script: [`r4_first_relating.py`](r4_first_relating.py); numbers in `r4_result.js
 | places at the end | 2 846 |
 | free possibility per place | 7.0 (births stopped at P_max = 8) |
 | degree histogram | 2 822 places of degree 2; 24 places of degree 23 |
-| neighbourhood growth exponent (r = 2–6) | 2.1 |
+| neighbourhood growth exponent (r = 2–6) | Matter |
 | spectral dimension | not measurable (hub-and-chain structure) |
 
 The final graph is the original complete graph on 24 places with every relation replaced by a chain of about 10 subdivided places. Thinning removed nothing among the original relations (the hubs carry most of the stock); births only subdivided. The structure is **K₂₄ with chains**: topologically the start, one-dimensional in between. The growth exponent near 2 is the hubs' signature, not a dimension.

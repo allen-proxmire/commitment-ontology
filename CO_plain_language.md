@@ -1,6 +1,6 @@
 # Commitment Ontology, in plain language
 
-The theory as it stands, after the blind review of 2026-11-04 ([`REVIEW_2026-11-04_blind.md`](REVIEW_2026-11-04_blind.md)). The working records, with everything tried and dropped, are [`SPACE_AND_GRAVITY.md`](SPACE_AND_GRAVITY.md), [`MATTER.md`](MATTER.md) and [`NUCLEUS.md`](NUCLEUS.md). A word on what kind of thing this is: an ontology with the standard mathematics attached where it applies. Where it reproduces known physics it says so; it borrows no physics, and the theorems it borrows (Lovelock, Meyer, Clifford, Bialynicki-Birula, Goyal–Knuth–Skilling) do much of the work.
+The theory as it stands: a reconstruction of physics up to 1930 from two primitives. The results documents are [`SPACE_AND_GRAVITY.md`](SPACE_AND_GRAVITY.md), [`MATTER.md`](MATTER.md) and [`NUCLEUS.md`](NUCLEUS.md); the working records, with everything tried and dropped and a blind referee's review, are in [`RECORD_OF_METHOD/`](RECORD_OF_METHOD/). A word on what kind of thing this is: an ontology with the standard mathematics attached where it applies. Where it reproduces known physics it says so; it borrows no physics, and the theorems it borrows (Lovelock, Meyer, Clifford, Bialynicki-Birula, Goyal–Knuth–Skilling) do much of the work.
 
 ## The idea in one paragraph
 
@@ -72,7 +72,7 @@ $$\delta\varphi=\frac{4GM}{c^2b},$$
 
 twice the Newtonian value and exactly Einstein's, with the Shapiro delay alongside. Slow bodies feel only the tick half; light, at the hop speed, feels both.
 
-**The exterior.** Outside matter the field is general relativity's: the cost of relations being out of step is forced to Einstein's (next paragraph), and under Einstein's equations the static exterior of a body is Schwarzschild, horizon included. The clock factor e^{−U} and route factor e^{+U} above are the weak-field reading of that, correct through the classical tests; taken literally beyond the weak field they would be Yilmaz's exponential metric, which is not a solution of Einstein's equations and was withdrawn after review. Inside matter, a body where everything is engaged and nothing is free has stopped repeating: all record, no matter. What that says about a hole's interior is open. **CO makes no prediction that differs from GR.**
+**The exterior.** Outside matter the field is general relativity's: the cost of relations being out of step is forced to Einstein's (next paragraph), and under Einstein's equations the static exterior of a body is Schwarzschild, horizon included. The clock factor e^{−U} and route factor e^{+U} above are the weak-field reading of that, correct through the classical tests; taken literally beyond the weak field they would be Yilmaz's exponential metric, which is not a solution of Einstein's equations and was withdrawn after review (see the record). Inside matter, a body where everything is engaged and nothing is free has stopped repeating: all record, no matter. What that says about a hole's interior is open. **CO makes no prediction that differs from GR.**
 
 **Gravitational waves.** Relations carry an occupancy and can be momentarily out of step with their ends. Because sliding places costs nothing, the cost of being out of step can depend only on how relations fit together, and by Lovelock's theorem the only such cost in three dimensions is
 
@@ -144,11 +144,11 @@ The second relation ties the hop length to the two constants gravity already had
 
 **Where a fair critic pushes.**
 - The heavy lifting is borrowed mathematics: Lovelock's uniqueness, Regge's form, Ollivier's curvature; in the quantum sector Lamperti's isometry, Meyer's no-go, the Clifford count and Bialynicki-Birula's limit. No physics is borrowed, but the theorems do the work and the primitives supply their hypotheses.
-- The exponential metric was claimed as the exterior and withdrawn after review: it is not a solution of the forced dynamics. With it went the only prediction that differed from GR. CO reproduces; it does not yet predict.
+- The exponential metric was claimed as the exterior and withdrawn after review (see the record): it is not a solution of the forced dynamics. With it went the only prediction that differed from GR. CO reproduces; it does not yet predict.
 - "Transit draws by frequency" and "a relation carries an occupancy" are readings in the primitives' words, each with a picture behind it, not derivations.
 - The runs are small. Locality is seen arriving; a lattice is not reached.
 - In the quantum sector, associativity of combining is assumed, and "the limit must be relativistic" is what forces the mass operator's form.
-- No number has been matched to a measurement where the standard theories are silent or wrong, and after review there is no such number on offer.
+- No number has been matched to a measurement where the standard theories are silent or wrong, and after review (see the record) there is no such number on offer.
 - A blind referee's verdict (2026-11-04): a careful, self-critical reinterpretation of known physics in a new vocabulary, not a derivation of it; the theorems do the work with hypotheses supplied by the primitives. The working records were graded honest; the public summaries had overclaimed and were rewritten.
 
 **2.0 stops** where the two primitives stop forcing; **2.1 stops** where its one addition stops forcing. What remains, the masses, the field's strength and colour, each needs something new. That is 2.2.

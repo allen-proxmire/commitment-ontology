@@ -15,6 +15,6 @@ Closed-form bookkeeping, not a lattice run. Script: [`r1_gap_history.py`](r1_gap
 
 **Reading.** The wave rule survives only if the floor does not fall as places are born: a newborn place must be born *at the floor*, with its free content drawn from somewhere other than the free stock. The one source that is not free is the record. So the rescue is a rule change: *a place is born of record*; the crest tips it, the record fills it. That is the earlier "record becomes relation" idea with the right sign (places, not shortcuts).
 
-Under the rescue, 2.0 makes a sharp claim: H(a) ∝ A(a)³, with A the characteristic wave amplitude per place at epoch a (for a 1/distance source population; the power is the tail index). That is a test against real inputs (primordial tensor bound, the merger background's history), not a fit.
+Under the rescue, Space and Gravity makes a sharp claim: H(a) ∝ A(a)³, with A the characteristic wave amplitude per place at epoch a (for a 1/distance source population; the power is the tail index). That is a test against real inputs (primordial tensor bound, the merger background's history), not a fit.
 
 **Post-run check.** The late slope was read from a ≥ 0.5 in Case A; the a⁻⁹ comes from x³ with x ∝ a⁻³, and the remaining steepness from the strain history. Case C's curve changes with its amplitudes, as stated; its H ∝ s³ relation does not.

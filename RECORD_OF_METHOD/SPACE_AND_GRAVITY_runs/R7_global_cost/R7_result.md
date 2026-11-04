@@ -20,6 +20,6 @@ Scripts: [`r7_global_cost.py`](r7_global_cost.py), [`r7_continue.py`](r7_continu
 - It has not arrived. κ ≈ −0.36 against 0; acceptance has fallen to about 1% of proposals, so the anneal is slow near the end. Whether it reaches the grid, or stalls at a flat-but-not-lattice structure, is not decided at this compute.
 - Swaps alone (fixed degree) are the right moves for "kept, not made": the stock per place never changes.
 
-**Reading.** First positive signal on locality in 2.0: a slide-invariant cost that depends only on which relations exist, acting on which are kept, drives a random start toward a lattice. Not conclusive; the direction is clear, the endpoint is not. The local version (R6) could not do this because flatness is a property of loops across many places; the global version can see them.
+**Reading.** First positive signal on locality in Space and Gravity: a slide-invariant cost that depends only on which relations exist, acting on which are kept, drives a random start toward a lattice. Not conclusive; the direction is clear, the endpoint is not. The local version (R6) could not do this because flatness is a property of loops across many places; the global version can see them.
 
 **Post-run check.** The reference grid's κ = 0 under this exact code validates the definition and the target. ΔE is computed on relations within one hop of the swapped places; relations further out that change κ are not re-evaluated until touched, so the running cost drifts from the true cost; the reported mean κ is from the stored values and may lag.

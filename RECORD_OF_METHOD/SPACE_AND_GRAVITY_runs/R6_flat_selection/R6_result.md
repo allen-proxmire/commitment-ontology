@@ -13,7 +13,7 @@ Script: [`r6_flat_selection.py`](r6_flat_selection.py); `r6_result.json` holds t
 | 200 | — | 4.2 | 4.25, 3.14, 1.86, 1.18 | 0.62 |
 | 400 | 290 | 3.5 | 3.88, 3.14, 2.36, 1.60 | 0.73 |
 | 800 | — | 3.7 | 4.16, 3.56, 2.82, 1.91 | 0.85 |
-| R5, no selection, 400 / 800 / 1600 | | 4.3 / 3.6 / 4.0 | 4.8, 3.7, 2.25, 1.3 / 4.1, 3.4, 2.8, 2.0 / 4.7, 4.2, 3.4, 2.3 | |
+| R5, no selection, 400 / 800 / 1600 | | 4.3 / 3.6 / 4.0 | 4.8, 3.7, 2.25, 1.3 / 4.1, 3.4, 2.8, Space and Gravity / 4.7, 4.2, 3.4, 2.3 | |
 
 - The growth ratio at r = 3→4 rises with size (1.86, 2.36, 2.82), the same expander signature as R5. **Selection at pairing does not make growth polynomial.**
 - The survivors' curvature is far from zero and grows more negative with size (|κ| 0.62 → 0.85): the network is tree-like and selection did not flatten it. Among the candidates at each pairing, all have κ ≈ −0.7 on a sparse random graph; there is nothing to choose between.

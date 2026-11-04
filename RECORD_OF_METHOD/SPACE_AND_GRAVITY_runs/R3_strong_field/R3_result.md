@@ -18,8 +18,8 @@ Script: [`r3_strong_field.py`](r3_strong_field.py); numbers in `r3_result.json`.
 - The ISCO frequency is **7% lower**. This enters X-ray iron-line profiles, quasi-periodic oscillations, and the inspiral-to-merger transition in gravitational-wave signals. Not compared here.
 - No horizon: e^{−2U} → 0 only as ρ → 0. The hole is a ceiling approached. The infall and ringdown of such an object are not Kerr's; ringdown spectra are not computed here and are the sharper test.
 
-**Reading.** 2.0's first disagreement with GR survives current data by a margin of about one sigma on the best target and will be tested at the few-percent level. It is a prediction with a sign: shadows slightly larger than Kerr's, ISCO frequencies slightly lower.
+**Reading.** Space and Gravity's first disagreement with GR survives current data by a margin of about one sigma on the best target and will be tested at the few-percent level. It is a prediction with a sign: shadows slightly larger than Kerr's, ISCO frequencies slightly lower.
 
-**Owed, surfaced by this run.** Gravitational radiation. The binary-pulsar decay matches GR to 0.1%, and 2.0 has no wave equation: the quadrupole formula is derived from GR's field equations, not from the metric alone. A radiation rule in 2.0's words is needed before the inspiral can be compared.
+**Owed, surfaced by this run.** Gravitational radiation. The binary-pulsar decay matches GR to 0.1%, and Space and Gravity has no wave equation: the quadrupole formula is derived from GR's field equations, not from the metric alone. A radiation rule in Space and Gravity's words is needed before the inspiral can be compared.
 
 **Post-run check.** The photon sphere at ρ = 2M and b = 2eM follow analytically from d/dρ(ρ²e^{4M/ρ}) = 0; the numerics reproduce them. ISCO found as the minimum of L²(ρ); the Schwarzschild check value Ω_ISCO = 6^{−3/2} is reproduced by the same formula on the Schwarzschild metric (not shown in the script; verified separately).
