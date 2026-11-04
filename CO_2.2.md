@@ -12,6 +12,8 @@ Continues from [`CO_2.1.md`](CO_2.1.md), which stops where its one addition stop
 
 **The choice.** Either a third primitive that carries an internal space (nothing on the board forces one, so the method would need a named contradiction to admit it), or CO stops at the physics of 1930 and says so.
 
+**The cascade criterion (Allen).** A third primitive is admissible on a named contradiction with the world (the ruled set makes the proton elementary; experiment makes it composite, bound by a force the ruled set lacks, with most of its mass in the binding). It is *worth* admitting only if it cascades: if positing it brings a second open problem with it. One primitive for one input is the trade the restart exists to refuse. Note for the record: in the standard theory, colour plus one coupling does cascade, to the whole hadron spectrum (lattice QCD computes hadron masses from α_s and the quark masses); it does not reach the lepton masses or α.
+
 ## Open
 - Colour: an internal three, or a stop.
 - The masses: a selection mechanism.
