@@ -151,6 +151,6 @@ The second relation ties the hop length to the two constants gravity already had
 - No number has been matched to a measurement where the standard theories are silent or wrong, and after review (see the record) there is no such number on offer.
 - A blind referee's verdict (2026-11-04): a careful, self-critical reinterpretation of known physics in a new vocabulary, not a derivation of it; the theorems do the work with hypotheses supplied by the primitives. The working records were graded honest; the public summaries had overclaimed and were rewritten.
 
-**2.0 stops** where the two primitives stop forcing; **2.1 stops** where its one addition stops forcing. What remains, the masses, the field's strength and colour, each needs something new. That is 2.2.
+**The space-and-gravity sector stops** where the two primitives stop forcing; **the matter sector stops** where its one addition stops forcing. What remains, the masses, the field's strength and colour, each needs something new; that is the nucleus, and CO stops there.
 
 Independent, speculative, not peer-reviewed.
