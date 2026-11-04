@@ -2,6 +2,13 @@
 
 *Was CO 2.1.*
 
+**Corrections after the blind review of 2026-11-04 ([`REVIEW_2026-11-04_blind.md`](REVIEW_2026-11-04_blind.md)).**
+- *Q1's "geometric ratio" was inverted.* (√3/6)/(1/4) = 1.155, not 0.866, and the post-run check's "computed independently and matches" was false. A smooth field gives hexagon/square ≈ 1.06–1.15 on these loops; the measured 0.87 is below that, so squares carry more circulation per edge than a smooth vortex would. The qualitative finding (no hexagonal dominance; the chair is not the orbit) stands; the "smooth vortex" reading does not. Corrected in the result note.
+- *The hop length had two values.* The top-quark bound, ℓ ≲ 1.1×10⁻¹⁸ m, is the one that stands; the δ ≈ 10⁻³⁷ estimate used 10⁻¹⁶ m and is replaced by δ ≈ 10⁻³² at the top-quark hop. The relation ℓ = ℓ_P√(4πP_max/δ) defines δ in terms of ℓ; it removes no unknown, it renames one, and δ has no observational handle.
+- *Wrong theorem for amplitudes.* Lamperti's isometry does not do the job; the derivation of complex amplitudes from associativity and scaling is Goyal, Knuth and Skilling (2010). The premises as stated (a zero-mean cross term scaling as √(p₁p₂)) already carry the √ structure, so "forced, not assumed" overstates; the honest status is "forced given those premises."
+- *"g = 2 follows from Dirac"* requires the minimal coupling of a charge to the which-way field, which is candidate. g = 2 is conditional on it.
+- *"Born for free"* is the identification of the committing stuff with the conserved stuff; a reader may fairly call it the Born postulate restated, and the doc should not call it a derivation.
+
 Continues from [`SPACE_AND_GRAVITY.md`](SPACE_AND_GRAVITY.md), which stops where the two primitives stop forcing. 2.1 opens with the first addition to the inventory. Same method: a rule is added only where the primitives are silent and only if it retires something; a rule whose prerequisites are not ruled stays candidate.
 
 ## The one question
@@ -40,7 +47,7 @@ Newton's constant in hop units, from 2.0's rulings. A body of mass M renews at �
 
 $$G=\frac{\delta\,c^{3}\,\ell^{2}}{4\pi\,\hbar\,P_{\max}}\qquad\Longleftrightarrow\qquad \ell=\ell_{P}\sqrt{\frac{4\pi P_{\max}}{\delta}},\quad \ell_P=\sqrt{\frac{\hbar G}{c^3}} .$$
 
-The hop length, the capacity and the retained share are one relation apart. Given any two, the third follows. If 2.0's hint holds (P_max a handful of quanta) and the hop is near the shortest particle Compton wavelength (ℓ ≈ 10⁻¹⁶ m, ℓ/ℓ_P ≈ 6×10¹⁸), then δ ≈ 10⁻³⁷: a renewal retains about 10⁻³⁷ of a quantum as record, one quantum per 10³⁷ renewals. For an electron that is one quantum of record every few hundred million years. Pooling is as slow as every bound required, now with a number.
+The hop length, the capacity and the retained share are one relation apart. Given any two, the third follows. If the hint holds (P_max a handful of quanta) and the hop is at the top-quark Compton wavelength (ℓ ≈ 1.1×10⁻¹⁸ m, ℓ/ℓ_P ≈ 7×10¹⁶), then δ ≈ 10⁻³²: a renewal retains about 10⁻³² of a quantum as record. (An earlier line used ℓ ≈ 10⁻¹⁶ m and gave 10⁻³⁷; corrected 2026-11-04.) Pooling is as slow as every bound required. The relation renames one unknown as another; δ has no observational handle of its own.
 
 So 2.1 introduces no fourth constant: ℓ replaces δ, or δ replaces ℓ, and the set of the theory's own constants stays at three (P_max, Λ, and one of δ or ℓ).
 
@@ -115,13 +122,13 @@ Between candidate and ruling: the walk needs amplitudes with phases (a walk of p
 
 ## Phase, and what happens when routes meet
 
-A pattern in transit carries where it is on its loop, θ, advancing 2π/L per hop. Two routes from A to B of n₁, n₂ hops arrive with Δθ = 2π(n₁ − n₂)/L and amounts p₁, p₂. Required of the rule for the amount at B: **conservation** (over unrelated phases the average is p₁ + p₂, so the cross term has zero mean); **scalelessness** (invariant under a common scaling, so the cross term is √(p₁p₂)·h(p₁/p₂)·f(Δθ)); **associativity** (three routes combine the same whichever pair first). These force h constant and f the cosine (Lamperti's isometry, borrowed mathematics):
+A pattern in transit carries where it is on its loop, θ, advancing 2π/L per hop. Two routes from A to B of n₁, n₂ hops arrive with Δθ = 2π(n₁ − n₂)/L and amounts p₁, p₂. Required of the rule for the amount at B: **conservation** (over unrelated phases the average is p₁ + p₂, so the cross term has zero mean); **scalelessness** (invariant under a common scaling, so the cross term is √(p₁p₂)·h(p₁/p₂)·f(Δθ)); **associativity** (three routes combine the same whichever pair first). These force h constant and f the cosine (Goyal, Knuth and Skilling 2010, borrowed mathematics; an earlier citation of Lamperti was wrong):
 
 $$p_B=\left|\sqrt{p_1}\,e^{i\theta_1}+\sqrt{p_2}\,e^{i\theta_2}\right|^2 .$$
 
-Amplitudes with phases, added and squared: forced, not put in.
+Amplitudes with phases, added and squared: forced given the three premises, which themselves carry the √ structure (review of 2026-11-04).
 
-**Born, for free.** What commits is possibility; the chance of a commitment at B is the possibility present; possibility is conserved, so the chances sum to one. "Probability is the amplitude squared" is the amount of possibility at B in the forced representation. Rule and interpretation are one sentence. Status: derived, conditional on the three requirements, each of which is a ruling.
+**Born, for free.** What commits is possibility; the chance of a commitment at B is the possibility present; possibility is conserved, so the chances sum to one. "Probability is the amplitude squared" is the amount of possibility at B in the forced representation. Rule and interpretation are one sentence. Status: an identification (committing stuff = conserved stuff), which a critic may fairly call the Born postulate restated; not a derivation.
 
 **The walk is quantum.** Possibility hops at c carrying phase and turns at commitments with an amplitude the mass rule fixes: corner density k/L = mcℓ/ħ is turns per hop, so
 
@@ -179,7 +186,7 @@ The chair is a path; the propagator is the one-step operator on the whole lattic
 | flips at amplitude i·f/L per hop, with f/L = mcℓ/ħ (mass as flip rate) | the mass step exp(−iβmε) ≈ 1 − iβ·mcℓ/ħ |
 | amplitudes with phases, added and squared (forced) | a unitary walk |
 
-Inertia and the α-terms are one statement once the internal state exists. With the three rules the one-step operator is the automaton's; **spin ½ and g = 2 follow from Dirac**, not from any orbit.
+Inertia and the α-terms are one statement once the internal state exists. With the three rules the one-step operator is the automaton's; **spin ½ follows from Dirac**, and g = 2 follows from Dirac *with minimal coupling to the which-way field*, which is candidate (review of 2026-11-04).
 
 **Derived:** the amplitude rule; mass as flip rate; inertia as α. **Assembled:** the four-dimensional internal state as (torsion sign) × (sense about the axis), which the chair exhibits with the right sign correlations but which is a reading for a general pattern in transit. **Status: the one pattern is a Dirac walk, ruled in 3+1 conditional on the internal-state reading.** An identification with a construction known to yield Dirac, not an independent derivation of it.
 
