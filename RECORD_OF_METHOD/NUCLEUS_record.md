@@ -59,3 +59,7 @@ Doubler bullet in `NUCLEUS.md` corrected the same day: three true doublers (gapp
 **What it must agree with.** Q1's rest current, g = 2 (conditional), the zitter, the Compton-scale structure: all are k ≈ 0 statements and survive a k² correction.
 
 **Registered check R9.** Apply both versions to CO's own automaton and count the gapless, long-lived points in the zone. Unknown part: whether the γ⁵ modes survive the unitary Wilson mass (structure argument says yes; to be computed), and the low-k lifetime in the damping version (to be computed, not assumed).
+
+## 2026-11-05 — R9: retarded hop. Wilson-mass form works for the doublers; damping form excluded; γ⁵ modes survive both
+
+Computed on CO's automaton (`NUCLEUS_runs/R9_retarded_hop/`). Unitary Wilson mass r = 0.5: 12 → 9 massless gapless points (the three zone-edge doublers gone; origin + eight γ⁵ modes remain), 8 with mass. Damping ε = 0.5: only the origin survives, but low-k decay rate εk²/2 per hop gives an electron lifetime of 1.8 × 10⁻¹⁵ s; excluded. The eight γ⁵ modes are immune to any β-type term (structure argument confirmed numerically). Candidate: retarded hop in unitary form. Open: the eight γ⁵ modes, which belong to the split-step structure of the walk.
