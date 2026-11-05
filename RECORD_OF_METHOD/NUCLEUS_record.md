@@ -63,3 +63,7 @@ Doubler bullet in `NUCLEUS.md` corrected the same day: three true doublers (gapp
 ## 2026-11-05 — R9: retarded hop. Wilson-mass form works for the doublers; damping form excluded; γ⁵ modes survive both
 
 Computed on CO's automaton (`NUCLEUS_runs/R9_retarded_hop/`). Unitary Wilson mass r = 0.5: 12 → 9 massless gapless points (the three zone-edge doublers gone; origin + eight γ⁵ modes remain), 8 with mass. Damping ε = 0.5: only the origin survives, but low-k decay rate εk²/2 per hop gives an electron lifetime of 1.8 × 10⁻¹⁵ s; excluded. The eight γ⁵ modes are immune to any β-type term (structure argument confirmed numerically). Candidate: retarded hop in unitary form. Open: the eight γ⁵ modes, which belong to the split-step structure of the walk.
+
+## 2026-11-05 — R10: the γ⁵ modes were an ordering artefact; symmetrised walk + alternation mass gives one species
+
+`NUCLEUS_runs/R10_split_order/`. Sequential P_z P_y P_x has the eight γ⁵ modes; Strang-symmetrised, palindrome and simultaneous orderings do not, and in all of them the mass gaps everything but the origin and the three zone-edge doublers. Strang + R9-A Wilson mass (r = 0.5): exactly one gapless point massless, none massive, Dirac dispersion at low k. Two rulings close the doubler item: hops in no preferred order (what the primitives say anyway); flip rate rising with alternation (new, of the same kind as the flip-rate rule). Pending the author's reading before `NUCLEUS.md` and `MATTER.md` are changed.
