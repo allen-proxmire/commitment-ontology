@@ -14,6 +14,8 @@ Colour is a three-component internal arrow whose orientation is a convention at 
 
 A third primitive is admissible on a named contradiction with the world: the rules make a proton an elementary pattern, while experiment makes it composite, bound by a force the rules lack, with most of its mass in the binding. It is worth admitting only if it cascades, bringing a second open problem with it. In the standard theory, colour with one coupling does cascade to the whole hadron spectrum; it does not reach the lepton masses or 1/137. The one geometric route to an internal three is Kaluza–Klein's: places with an inside.
 
+What a third primitive must deliver is fixed by experiment: three separable carriers, not three labels on one carrier. In heavy-ion collisions the anisotropic flow of a hadron scales with its number of quarks (constituent-quark scaling, RHIC; seen in oxygen–oxygen by ALICE, preliminary, 2026), which needs three pieces that carry momentum on their own inside the plasma and recombine outside it. A colour that is an orientation of a single pattern cannot give that. This excludes possibility in sorts as the candidate and asks instead for a binding whose release depends on the surroundings.
+
 ### Sorts of possibility, already costed
 
 The obvious candidate is possibility in sorts: N kinds of possibility, indistinguishable under the rules, conserved together. That candidate has been run, in an earlier program by the same author, and its cost is known.
