@@ -93,3 +93,13 @@ The shape (not a candidate): a proton is a pattern of three tiles. A tile's comm
 Three requirements, from experiment: tiles separable as carriers (flow scaling); completion rising with density (deconfinement); separation cost linear in length (string tension). Cascade, on paper: a length-costing kinship is a string, and strings give the hadron spectrum; it does not reach the lepton masses or 1/137.
 
 Open before candidate: is kinship CO's one relation in a second regime, or a second kind of relation? And nothing selects three.
+
+## 2026-11-05 — three-tile patterns: candidate; the stretch cost computed
+
+**Revival of (a).** "Inside a pattern" has a marker that is not record: the Bell ruling, a commitment belongs to the pattern. The tiles of one pattern commit together. So kinship is the inside of a three-tile pattern, a new kind of pattern (a ruling on what possibility in transit can be: three tiles in transit together), not a third primitive. A tile never commits alone; in a plasma it completes with whatever kin are near. Free quarks would falsify this.
+
+**Colour.** Which tile completes with which is a convention; changing it is a slide, and sliding costs nothing: colour change is not an event. Colour is the bookkeeping of kinship; the gluon field is the ratio on kinships, as the which-way ratio on relations was the electromagnetic field. Three-way matching gives SU(3) by uniqueness; the three is unselected, as before. Candidate.
+
+**Stretch cost (computed, `NUCLEUS_notes/kinship_stretch_cost.py`).** Under CO's own transit rule (ratio hopping at c), a pattern of size L renews once per round trip, T ≈ 2L/c, so mc² ≈ πħc/L: the cost *falls* with separation (zero-point scaling; ≈ 0.6 GeV at 1 fm). That is a bound state, not confinement. A linear cost needs the kinship to be *engaged* possibility along its length, one held quantum ħc/a per grain a, giving E = (ħc/a²)L, a string with tension σ = ħc/a². With the hop length (1.1 × 10⁻³ fm) σ = 1.6 × 10⁵ GeV/fm, five orders above QCD's 0.9 GeV/fm; QCD's tension needs a grain a ≈ 0.47 fm, which is a new length not in the inventory (it is Λ_QCD in disguise).
+
+**Ruling.** Stretch cost under the ordinary transit rule: excluded as confinement. Kinship as engaged possibility along its length: candidate, at the price of one new length (≈ 0.5 fm). The three-tile pattern therefore costs exactly one constant beyond the matching count, the same count as the standard theory (σ or Λ_QCD). Not a derivation; the shape matches at the cost of the same input.
