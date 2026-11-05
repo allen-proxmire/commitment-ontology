@@ -13,7 +13,7 @@ Time is a count of irreversible events. Everything else is what follows when tha
 Independent, speculative, not peer-reviewed. 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
-As a theory, CO is better than Many-Worlds, and meets the String Theory standard. 
+CO makes no prediction of its own, and says so. It asks to be judged by the standard physics already applies to interpretations and to string theory: internal consistency, economy of assumptions, and recovery of what is known. Many-worlds adds no equation and is taken seriously as an ontology; string theory has produced no distinct accessible-energy prediction in forty years and is taken seriously for its consistency and its recovery of GR. By that standard, two primitives that recover physics up to 1930, with every withdrawal on record, belong in the conversation. 
 
 The ontology has been in development for all of 2026. The intent is that it resonates as a logical story of how the universe operates, and for others to advance the ideas if possible. 
 
