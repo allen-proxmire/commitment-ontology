@@ -83,3 +83,13 @@ Computed on CO's automaton (`NUCLEUS_runs/R9_retarded_hop/`). Unitary Wilson mas
 ## 2026-11-05 — constituent-count flow scaling as a constraint on the third primitive
 
 ALICE O–O preliminary (2026; the RHIC pattern): baryon flow exceeds meson flow in the ratio of quark counts. Reading: the third primitive must supply three separable carriers (momentum carried singly inside the plasma, bound outside), not three labels on one pattern. "Possibility in sorts" is the wrong shape and is excluded as a candidate on this ground, on top of the costing above. What remains has the shape of a binding whose release depends on the surroundings; hold-and-release has that shape but nothing about its sign or strength is known. Entered in `NUCLEUS.md` under the bar. Reading only.
+
+## 2026-11-05 — the shape of a third primitive: tiles and kinship
+
+Vocabulary fixed. A **tile** is a piece of a pattern; a tile is not a pattern and does not renew alone. A **kinship** is the relation among the tiles of one pattern; distinct from a relation between places.
+
+The shape (not a candidate): a proton is a pattern of three tiles. A tile's commitment completes only with its kin. Kinship is a relation whose length costs; it does not slide for free. Where kin are everywhere, any three complete and a tile moves freely between kin; where the only kin are a tile's own two, it never gets away.
+
+Three requirements, from experiment: tiles separable as carriers (flow scaling); completion rising with density (deconfinement); separation cost linear in length (string tension). Cascade, on paper: a length-costing kinship is a string, and strings give the hadron spectrum; it does not reach the lepton masses or 1/137.
+
+Open before candidate: is kinship CO's one relation in a second regime, or a second kind of relation? And nothing selects three.
