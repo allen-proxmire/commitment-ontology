@@ -225,3 +225,7 @@ Inertia and the α-terms are one statement once the internal state exists. With 
 - The Born weights from the phase.
 - The Born weights from the phase.
 - Charge, spin, the forces.
+
+## 2026-11-05 — doublers closed; Q1 re-run on the symmetrised step
+
+The Dirac automaton as published carries doublers (found 2026-11-05 while surveying no-go loopholes; record in `NUCLEUS_record.md`, runs R8–R10 in `NUCLEUS_runs/`). Closed by two rulings entered in `MATTER.md`: hops in no preferred order (symmetrised step), and a flip rate rising with alternation (Wilson term, unitary). The relational lattice alone does not do it (R8); the one-way non-unitary hop kills the electron (R9). Q1 re-run on the symmetrised step (`MATTER_runs/Q1b_symmetrised.md`): chair finding unchanged; the L_z ≠ 0 reading withdrawn as an ordering artefact.

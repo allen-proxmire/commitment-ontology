@@ -26,6 +26,8 @@ which with ℓ = ℓ_P√(4πP_max/δ) gives δ ≈ 10⁻³² for P_max of order
 
 **The Dirac equation.** Possibility hopping at c with the four-component state, flipping at the mass rate, has the Dirac equation as its continuum limit (Bialynicki-Birula 1994). Spin ½ follows. The magnetic moment g = 2 follows from Dirac's equation with minimal coupling to the which-way field; that coupling is a candidate (below). The rules are identified with a construction known to yield Dirac's equation; this is not an independent derivation of it.
 
+Two rulings fix the walk. On the cubic lattice the automaton as published carries extra low-energy species (fermion doubling; Nielsen–Ninomiya 1981): three doublers at the zone edges and, in the sequential x-then-y-then-z ordering, eight further massless modes. Ruled: (i) the three hops are taken in no preferred order (the step is symmetrised: x, y, z, flip, z, y, x), which removes the eight, since nothing in the primitives ranks the three lines; (ii) the flip rate rises with alternation between neighbouring places, θ(k) = θ + r Σ_j(1 − cos k_j), which is the Wilson term in unitary form and removes the three. With both, the walk has one species, the Dirac dispersion at low k, and stays unitary. The one-way (non-unitary) hop was tested and excluded: it damps a pattern at a rate ∝ k² per hop and gives the electron a lifetime of 10⁻¹⁵ s. A relational lattice alone does not remove the doublers. Runs R8–R10 in [`RECORD_OF_METHOD/NUCLEUS_runs/`](RECORD_OF_METHOD/NUCLEUS_runs/). These are rulings of the same kind as the flip-rate rule, not derivations.
+
 **Charge (candidate).** A relation carries, besides its occupancy, a ratio that reverses with direction: a 1-form. With sliding costing nothing, the unique quadratic cost is Maxwell's. Charge is a sign a pattern carries on the relations it uses; the antiparticle is the same pattern with the opposite sign; a traversed loop is a magnetic dipole, not a charge. The field's strength, 1/137, is from data: the which-way stiffness in quanta per hop.
 
 ## Negative results
@@ -38,4 +40,4 @@ Why each particle commits at the rate it does (the masses: no selection mechanis
 
 ## Status
 
-Reconstruction: the Dirac electron, with its spin, from the primitives, the rules of the gravity sector, and one addition, by identification with the Dirac cellular automaton. References: Goyal, Knuth and Skilling (2010); Meyer (1996); Bialynicki-Birula (1994); Feynman and Hibbs (1965).
+Reconstruction: the Dirac electron, with its spin, from the primitives, the rules of the gravity sector, and one addition, by identification with the Dirac cellular automaton. References: Goyal, Knuth and Skilling (2010); Meyer (1996); Bialynicki-Birula (1994); Feynman and Hibbs (1965); Nielsen and Ninomiya (1981); Wilson (1974); Gupta and Short (2026).

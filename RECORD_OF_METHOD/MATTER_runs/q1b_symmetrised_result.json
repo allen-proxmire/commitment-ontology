@@ -1,0 +1,116 @@
+{
+ "theta=1.0,steps=4": {
+  "theta": 1.0,
+  "steps": 4,
+  "norm": 1.0000000000000004,
+  "net_current": [
+   0.0,
+   -3.0357660829594124e-18,
+   -3.0357660829594124e-18
+  ],
+  "angular_momentum_of_current": [
+   -4.816441096324765e-19,
+   -5.096067848037091e-18,
+   -0.000590949973902085
+  ],
+  "mean_abs_circulation_per_edge_squares": 0.002345953027691461,
+  "mean_abs_circulation_per_edge_hexagons": 0.0019749637054434894,
+  "max_square": 0.011759573987078522,
+  "max_hexagon": 0.008613073098861557
+ },
+ "theta=1.0,steps=8": {
+  "theta": 1.0,
+  "steps": 8,
+  "norm": 1.0000000000000007,
+  "net_current": [
+   1.3877787807814457e-17,
+   -1.0842021724855044e-18,
+   -4.0115480381963664e-18
+  ],
+  "angular_momentum_of_current": [
+   -8.267041565201971e-18,
+   -6.830473686658678e-18,
+   0.016474535265749355
+  ],
+  "mean_abs_circulation_per_edge_squares": 0.001558402386506667,
+  "mean_abs_circulation_per_edge_hexagons": 0.0013339180895006952,
+  "max_square": 0.006131242311421311,
+  "max_hexagon": 0.0050695999803975775
+ },
+ "theta=0.5,steps=4": {
+  "theta": 0.5,
+  "steps": 4,
+  "norm": 1.0000000000000004,
+  "net_current": [
+   2.7755575615628914e-17,
+   -6.14742631799281e-17,
+   -1.0028870095490916e-17
+  ],
+  "angular_momentum_of_current": [
+   2.6952588381631837e-18,
+   1.1365488086258202e-17,
+   -0.01004132178803857
+  ],
+  "mean_abs_circulation_per_edge_squares": 0.005841867203985804,
+  "mean_abs_circulation_per_edge_hexagons": 0.005024950741125512,
+  "max_square": 0.0269175876465987,
+  "max_hexagon": 0.0209359015029101
+ },
+ "theta=0.5,steps=8": {
+  "theta": 0.5,
+  "steps": 8,
+  "norm": 1.0000000000000009,
+  "net_current": [
+   -3.469446951953614e-18,
+   -1.734723475976807e-17,
+   -3.0357660829594124e-18
+  ],
+  "angular_momentum_of_current": [
+   5.353248226647178e-18,
+   -8.822695178600792e-18,
+   -0.03421061800078438
+  ],
+  "mean_abs_circulation_per_edge_squares": 0.00185640814481071,
+  "mean_abs_circulation_per_edge_hexagons": 0.0015869718751768428,
+  "max_square": 0.010341154053123641,
+  "max_hexagon": 0.00806283567406251
+ },
+ "theta=0.2,steps=4": {
+  "theta": 0.2,
+  "steps": 4,
+  "norm": 1.0000000000000004,
+  "net_current": [
+   0.0,
+   2.6020852139652106e-18,
+   8.565197162635485e-18
+  ],
+  "angular_momentum_of_current": [
+   7.138793679459243e-18,
+   7.11846488872514e-18,
+   -0.009015165594719873
+  ],
+  "mean_abs_circulation_per_edge_squares": 0.006468101516935916,
+  "mean_abs_circulation_per_edge_hexagons": 0.005565158578009348,
+  "max_square": 0.03246027042380728,
+  "max_hexagon": 0.025246876996294552
+ },
+ "theta=0.2,steps=8": {
+  "theta": 0.2,
+  "steps": 8,
+  "norm": 1.0000000000000004,
+  "net_current": [
+   6.938893903907228e-18,
+   2.6020852139652106e-18,
+   1.734723475976807e-18
+  ],
+  "angular_momentum_of_current": [
+   2.290377089375628e-18,
+   1.8743145056843158e-17,
+   -0.005302089440378703
+  ],
+  "mean_abs_circulation_per_edge_squares": 0.002138455806825466,
+  "mean_abs_circulation_per_edge_hexagons": 0.0018248582930067514,
+  "max_square": 0.010881846525867296,
+  "max_hexagon": 0.008553302718973817
+ }
+}
