@@ -4,21 +4,11 @@ Time is a count of irreversible events. Everything else is what follows when tha
 
 **[`CO_plain_language.md`](CO_plain_language.md)** is the theory as it stands, for anyone. The three subject documents below report what stands, results only. **[`RECORD_OF_METHOD/`](RECORD_OF_METHOD/)** holds the working records: every route tried, every withdrawal with its reason, the runs, and a blind referee's review of the whole.
 
-**[`SPACE_AND_GRAVITY.md`](SPACE_AND_GRAVITY.md).** Two primitives, possibility and commitment, and two constants of their own, δ and P_max. 
+**[`SPACE_AND_GRAVITY.md`](SPACE_AND_GRAVITY.md).** From possibility and commitment, with two constants of their own: standard weak-field gravity and the four classical tests; GR's exterior and tensor waves, with Lovelock's theorem doing the work; three dimensions as a consistency condition of the rules; inflation with its own exit and the matter era. The radiation era is not derived, and there is no prediction that differs from GR.
 
-From them: Newton's law, gravitational redshift, universal free fall, the black hole as starvation, the arrow of time, the beginning, inflation with its own exit, Friedmann's equation with the matter and radiation eras, Λ as the one constant the symmetry allows, and the four classical tests of gravity (standard weak-field physics, reached from the primitives). Gravitational waves: a scalar field radiates wrongly, so relations carry an occupancy and, with "sliding costs nothing", the cost of mismatch yields Einstein–Hilbert (Regge on the network), giving GR's quadrupole and tensor polarizations; the exterior is then GR's. Three dimensions follow as a consistency condition of the rules (standard pieces); locality is supported by runs and flatness is shown to be dimension-blind. The radiation era is not derived. 
+**[`MATTER.md`](MATTER.md).** With one addition, that commitments happen at a rate: the amplitude rule given its premises, a four-component internal state (Meyer, Clifford), mass as the rate of commitments, and Dirac's equation with spin ½ by identification with a known construction. Charge is a carried sign; its strength is from data.
 
-Complete as far as the two primitives force it, with no prediction that differs from GR.
-
-**[`MATTER.md`](MATTER.md).** One addition to the inventory: commitments happen at a rate. 
-
-From it: the amplitude rule, consistent given its premises, and the Born rule as an identification; an internal state, selected (Meyer) and four-dimensional (Clifford); mass as the rate of commitments, with a maximum mass that sets the hop length; the continuum limit as Dirac's equation with spin ½, by identification with a known construction, with g = 2 conditional on a coupling still candidate; charge as a sign a pattern carries, with its strength from data. 
-
-Complete as far as the one addition forces.
-
-**[`NUCLEUS.md`](NUCLEUS.md).** Exploratory. 
-
-What remains: the particle masses, the field's strength (1/137), and colour. Each needs something new. The three lines of space are shown not to be colour; an internal three is outside the inventory; a third primitive would be admissible on the proton contradiction and worth it only if it cascades. CO covers physics up to 1930, gravity, electromagnetism and the electron, and stops at the nucleus.
+**[`NUCLEUS.md`](NUCLEUS.md).** The masses, 1/137 and colour each need something not in the inventory. The three lines of space are shown not to be colour. CO stops at the nucleus.
 
 Independent, speculative, not peer-reviewed. 
 
