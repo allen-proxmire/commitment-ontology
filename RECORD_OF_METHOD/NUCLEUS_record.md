@@ -20,3 +20,9 @@ Continues from [`MATTER_record.md`](MATTER_record.md), which stops where its one
 - Colour: an internal three, or a stop.
 - The masses: a selection mechanism.
 - The field's strength: an input with a seat.
+
+## 2026-11-05 — the "sorts of possibility" candidate, costed from prior work
+
+Searched the author's earlier program for everything on multiplicity. Findings folded into `NUCLEUS.md` ("Sorts of possibility, already costed") without citation; the source papers are private and are not linked from this repo.
+
+Summary: N indistinguishable conserved sorts force U(N) = (SU(N)×U(1))/Z_N (textbook, restated); the count N is not selected (symmetric multiplet stable for all N); {1,2,3} as posited gives three U(1) factors, not one; the multiplicities reduce to internal dimension d via the Welch bound (d = 3 ⟹ nothing stable above SU(3); falsifier: stable SU(N≥4)); internal three found distinct from spatial three independently. The candidate cascades only as far as SU(N). Open check: compatibility of an internal d = 3 with the Clifford four of the matter sector.
