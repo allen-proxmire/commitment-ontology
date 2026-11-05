@@ -27,6 +27,16 @@ The obvious candidate is possibility in sorts: N kinds of possibility, indisting
 
 Net: sorts cascade exactly as far as SU(N) and stop. By the bar set here, a third primitive of this form is not yet earned.
 
+## Three-tile patterns
+
+*Candidate.* A quark is not a pattern. A proton is: a pattern of three **tiles**, a kind of pattern different from the electron's one tile. The relations inside such a pattern are its **kinships**, distinct from the relations between places. This is a ruling on what possibility in transit can be, three tiles in transit together, not a third primitive. Its inside is marked by the ruling already made for entanglement: a commitment belongs to the pattern, so the tiles of one pattern commit together. A tile never commits alone; in a plasma it completes with whatever kin are near. A free quark would falsify this.
+
+- **Colour** is the bookkeeping of kinship, which tile completes with which. That is a convention, and changing it is a slide, which costs nothing: colour change is not an event. The gluon field is the ratio on kinships, as the which-way ratio on relations is the electromagnetic field. Three-way matching gives SU(3) by uniqueness; the three is not selected.
+- **Confinement.** Under the ordinary transit rule a pattern of size L renews once per round trip, mc² ≈ πħc/L, a cost that falls with separation: a bound state, not confinement; excluded. A linear cost needs the kinship to be engaged possibility along its length, one held quantum per grain a: E = (ħc/a²) L, a string with tension σ = ħc/a². If the held quanta are the tiles' own renewals, the grain is the tile's renewal length a = ħ/(m_tile c) and σ = (m_tile c²)²/ħc. With a tile at a third of the proton, σ ≈ 0.5 GeV/fm against the measured ≈ 0.9 GeV/fm: consistent to a factor two, not a prediction. The tension is then not a new constant; it is the tile mass, which already sits in the mass problem.
+- **What it costs.** The unselected three, and the tile masses, which the matter sector already owes. Nothing beyond that. What it is: the standard account's ledger in CO's words, at the same price; the shape, not a derivation.
+
+Checks in [`RECORD_OF_METHOD/NUCLEUS_notes/kinship_stretch_cost.py`](RECORD_OF_METHOD/NUCLEUS_notes/kinship_stretch_cost.py); working record in `NUCLEUS_record.md`.
+
 ## Three kinds of wall
 
 The walls around the nucleus are not all the same kind, and only one kind can be got round.
