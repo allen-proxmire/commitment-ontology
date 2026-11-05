@@ -1,20 +1,30 @@
-# Commitment Ontology, in plain language
+# The Commitment Ontology, in plain language.
 
-The theory as it stands: a reconstruction of physics up to 1930 from two primitives. The results documents are [`SPACE_AND_GRAVITY.md`](SPACE_AND_GRAVITY.md), [`MATTER.md`](MATTER.md) and [`NUCLEUS.md`](NUCLEUS.md); the working records, with everything tried and dropped and a blind referee's review, are in [`RECORD_OF_METHOD/`](RECORD_OF_METHOD/). A word on what kind of thing this is: an ontology with the standard mathematics attached where it applies. Where it reproduces known physics it says so; it borrows no physics, and the theorems it borrows (Lovelock, Meyer, Clifford, Bialynicki-Birula, Goyal–Knuth–Skilling) do much of the work.
+The ontology as it stands: It is a reconstruction of physics up to 1930 from two primitives. 
 
-## The idea in one paragraph
+The results documents are [`SPACE_AND_GRAVITY.md`](SPACE_AND_GRAVITY.md), [`MATTER.md`](MATTER.md) and [`NUCLEUS.md`](NUCLEUS.md).
 
-Time is a count of things that have happened. Not a river, not a dimension: a count. Something happens, irreversibly, and that is one tick. Where nothing happens, there is no time. Start from that and ask what the rest of physics has to look like. This document is the answer so far.
+The working records, with everything tried and dropped and a blind referee's review, are in [`RECORD_OF_METHOD/`](RECORD_OF_METHOD/). 
 
-## Two things exist
+A word on what kind of thing this is: an ontology with standard mathematics attached where it applies. Where it reproduces known physics it says so; it borrows no physics, and the theorems it borrows (Lovelock, Meyer, Clifford, Bialynicki-Birula, Goyal–Knuth–Skilling) do much of the work.
 
-**Possibility** is the stuff. There is a fixed amount of it, it sits at places, and it moves between places that are related. It is conserved: never made, never destroyed.
+## The idea in one paragraph.
+
+Time is a count of things that have happened. Not a river, not a dimension: a count. Something happens, and it cannot be undone. That is one tick. Matter is something that keeps happening, and is ticking. Where nothing happens, there is no time. Start from this and ask what physics has to look like. That is the premise of the Commitment Ontology (CO).
+
+## Two things exist. The two primitives. 
+
+**Possibility** is the stuff of the universe. There is a fixed amount of it, it sits at places, and it moves between places that are related. It is conserved: never made, never destroyed.
+- Ruling 01: 
+- Ruling 02: 
 
 **Commitment** is the act. One irreversible update to possibility, at a place. It cannot be undone.
+- Ruling XX: 
+- Ruling XY: 
 
 That is the whole inventory. Everything below is what those two do when left to themselves.
 
-## What follows from them
+## What follows.
 
 **Matter.** A commitment that, on completing, draws free possibility from around it into its next commitment, releases most of what it held, and repeats. Matter is a commitment that keeps getting fed. Starve it and it stops; what is left is a record. So matter is not a kind of thing. It is a commitment's condition.
 
