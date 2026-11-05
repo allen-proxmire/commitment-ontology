@@ -39,3 +39,23 @@ Survey of which no-go theorems CO's qualities bear on (relational lattice, hold-
 - Bell: named as open. No account of entangled commitment.
 - Doublers: `NUCLEUS_notes/doublers_check.py` on the Q1 automaton's Bloch operator. Massless: 12 gapless points. Massive: 4 gapped by θ, 8 at (±π/2)³ remain gapless. The Dirac identification on the cubic lattice carries eight massless extra species. Not caught by the 2026-11-04 review. Relational-lattice escape available, unused. Open; to be moved to the matter record when addressed.
 - Weinberg–Witten: evaded by having no Lorentz-covariant local stress tensor at hop scale; CO claims no graviton, so not needed. Spin–statistics: lattice loophole available, but no multi-pattern statistics exist to use it. Neither entered in the clean doc.
+
+## 2026-11-05 — R8: relational lattice vs doublers. Excluded.
+
+Registered (`NUCLEUS_runs/R8_relational_doublers/REGISTRATION.md`), outcome unknown before the run. Cubic calibration gave 8.9 species (expected 8); random Delaunay lattice gave no E² regime at all, a broad peak of near-zero modes (nominal count hundreds, rising as E_c → 0). Removing translation invariance voids Nielsen–Ninomiya but does not yield one species. Candidate excluded; doublers stay open. Result note `R8_result.md`.
+
+Doubler bullet in `NUCLEUS.md` corrected the same day: three true doublers (gapped by θ) plus eight massless two-component γ⁵ modes with speed c cos θ, not "eight massless Dirac species"; Gupta–Short 2026 and Arrighi et al. 2025 cited.
+
+## 2026-11-05 — question opened: does commitment give transit a direction?
+
+**Why.** The doublers (above) are removed in lattice physics by a Wilson term, and in the author's earlier program by a retarded (one-way) hop, which is the same term. CO has the ingredient (commitment is irreversible) and has not used it in the walk: the matter sector's transit rule is symmetric in the hop direction.
+
+**What a retarded hop would retire.** The three zone-edge doublers, if the term is a β-coupled (Hermitian, unitary) Wilson mass: "the flip rate rises with how much the transit alternates between neighbours." The eight γ⁵ modes are a separate matter: a β-type term cannot touch them (β anticommutes with γ⁵ at those points), so they need something else or an account.
+
+**What it costs.**
+- A non-unitary (damping) version, the literal retarded difference e^{ik} − 1, damps every mode at a rate ∝ k² per hop. For a pattern of momentum k in hop units the lifetime is ~ 1/(εk²) hops; with the hop at 10⁻¹⁸ m and 3 × 10²⁶ hops per second, an electron-scale pattern (k ~ 10⁻⁶) would lose its amplitude in ~ 10⁻¹⁴ s. This version is dead on arrival unless the lost amplitude is accounted for, and it is 10²⁰ times the retained share δ. (This is also a check the earlier program's non-Hermitian arrow did not make.)
+- A unitary Wilson-mass version costs nothing observable at low k (a mass shift ∝ k²) and is a ruling: "mass per hop depends on alternation," a new reading of the flip rate, not forced by the primitives but of the same kind as the existing flip-rate rule.
+
+**What it must agree with.** Q1's rest current, g = 2 (conditional), the zitter, the Compton-scale structure: all are k ≈ 0 statements and survive a k² correction.
+
+**Registered check R9.** Apply both versions to CO's own automaton and count the gapless, long-lived points in the zone. Unknown part: whether the γ⁵ modes survive the unitary Wilson mass (structure argument says yes; to be computed), and the low-k lifetime in the damping version (to be computed, not assumed).

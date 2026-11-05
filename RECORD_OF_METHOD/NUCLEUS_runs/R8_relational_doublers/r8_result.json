@@ -1,0 +1,20 @@
+{
+ "cubic": {
+  "sites": 1331,
+  "edges": 3993,
+  "meanTrace3": 1.0,
+  "species": 8.87732145307912,
+  "modes_used": 108,
+  "species_Ec0.3": 6.963536792610067,
+  "species_Ec0.8": 9.43296431487003
+ },
+ "random": {
+  "sites": 1331,
+  "edges": 10376,
+  "meanTrace3": 0.972482982010611,
+  "species": 245.68301722681665,
+  "modes_used": 2892,
+  "species_Ec0.3": 758.8237117751428,
+  "species_Ec0.8": 83.48118892442572
+ }
+}
