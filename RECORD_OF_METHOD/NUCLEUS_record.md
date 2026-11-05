@@ -120,3 +120,20 @@ Review grades: NUCLEUS D+, MATTER doubler paragraph D, runs C−. Errors confirm
 6. Prior art added to MATTER references: Karsten–Smit, Strang, Christ–Friedberg–Lee, Perantonis–Wheater, Bakircioglu–Arnault–Arrighi, D'Ariano–Perinotti.
 
 Not changed: the ordering finding (eight γ⁵ modes belong to the sequential order; Q1b's L_z withdrawal), R8's direction, R9's exclusion of the damping hop, the Clifford-four commutant, the sorts costing.
+
+## 2026-11-05 — one commitment, two stocks: what resolves what (candidate)
+
+**The gap.** The review found "selection on engagement, not on renewal" undefined: renewal already engages. The author's correction: commitment *is* the act of resolving possibility; there is no second kind.
+
+**The rule (candidate).** A commitment resolves exactly the possibility it engages. The rules already name two stocks: *free* possibility (the vacuum's) and possibility *in transit* (a pattern's).
+- A renewal engages free possibility. It resolves the vacuum's stock at that place (engaged, counted, released) and nothing about the pattern, whose transit was not touched. So a free pattern keeps interfering while its clock ticks.
+- A commitment that engages possibility in transit resolves that pattern. Only patterns commit, so this is always one pattern engaging another: a measurement is contact. The vacuum never commits; it is timeless stock.
+- An entangled pair is one pattern whose transit is in two places; engaging it anywhere resolves it everywhere, since it is one stock ("a pattern sampled twice").
+
+**Two test readings.** *Refraction:* light through glass hops on the glass's clock-rate field h, a property of place; it never draws on the glass's in-transit possibility. Route, not resolution; no measurement. Holds. *Elastic scattering:* two electrons engage each other's transit; both are resolved (directions decided); the record is the change in each one's transit, and nothing else need be permanent. Holds as a reading.
+
+**What stays resolved after release (the hold-and-release check).** Hold-and-release says engaged possibility is released, nothing consumed. What is left is in the relations: the pattern's in-transit stock elsewhere flows to where it was engaged ("possibility moves toward where it is engaged," the gravity sector's rule, here applied to one pattern's own stock), the ratios on the relations it used are set by that flow (which way it went), and one quantum's share is retained as record. After release the pattern goes on from the event, in transit again, with its ratios the fact of where it was. Consistent with the rules as stated.
+
+**Cost, unchanged.** The flow of a pattern's stock to the engaging event must complete across spacelike separation for the two-place case; that is the Bell cost, still unpaid (ordering, or a flash-type account).
+
+Not in the clean docs; candidate in the record.
