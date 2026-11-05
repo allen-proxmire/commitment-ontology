@@ -15,12 +15,23 @@ Time is a count of things that have happened. Not a river, not a dimension: a co
 ## Two things exist. The two primitives. 
 
 **Possibility** is the stuff of the universe. There is a fixed amount of it, it sits at places, and it moves between places that are related. It is conserved: never made, never destroyed.
-- Ruling 01: 
-- Ruling 02: 
+- Ruling P1, *scaleless:* the substrate has no scale of its own, so a hop compares neighbouring places only by ratio, never by difference. The field is linear in ln P.
+- Ruling P2, *capacity:* a place holds at most P_max of free possibility. Over capacity, it commits. The vacuum today is under capacity.
+- Ruling P3, *hold-and-release:* possibility engaged by a commitment is released when it completes; nothing is consumed. Free possibility at a place is P_free = P(1 − h), h the fraction engaged.
+- Ruling P4, *toward engagement:* free possibility moves toward where it is being engaged. That inflow is what sets h around matter.
+- Ruling P5, *inertia:* possibility in transit keeps its mean direction until a commitment redirects it.
+- Ruling P6, *transit draws:* possibility in transit is not free, and draws by its frequency ħω, as a renewal would. Light gravitates.
+- Ruling P7, *relations:* space is who passes possibility to whom. A relation carries an occupancy (how much is in transit across it) and a ratio (which way). Sliding or relabelling places costs nothing: there is no backdrop.
+- Ruling P8, *meeting:* when two routes bring possibility to one place, the amounts combine as |√p₁e^{iθ₁} + √p₂e^{iθ₂}|², forced by conservation, scalelessness and associativity.
 
 **Commitment** is the act. One irreversible update to possibility, at a place. It cannot be undone.
-- Ruling XX: 
-- Ruling XY: 
+- Ruling C1, *renewal:* a commitment, on completing, engages adjacent free possibility into its next commitment, releases what it held, and adds one to its count. Any commitment does this while free possibility is adjacent; it halts when none is. Matter is a commitment that keeps being fed.
+- Ruling C2, *the clock:* a commitment repeats at the rate (m/ħ)(1 − h). Less free possibility, slower repeats.
+- Ruling C3, *retention:* each repeat keeps a share of what it engaged, δħ·(P_free/P_max), as record. The record only grows: the arrow of time.
+- Ruling C4, *one quantum:* every commitment engages the same amount, ħ. Mass is how often commitment falls due, ω = mc²/ħ.
+- Ruling C5, *rate:* commitments happen at a rate, and a pattern in transit carries where it is in its cycle, its phase. (The one addition of the matter sector.)
+- Ruling C6, *the flip:* a commitment changes a pattern's internal state without moving it, with amplitude i·mcℓ/ħ per hop. The heaviest possible pattern flips every hop, and its Compton wavelength is the hop length.
+- Ruling C7, *the beginning:* with all possibility free in few places, every place is over capacity and commits at once; every first commitment is fed, so matter forms immediately.
 
 That is the whole inventory. Everything below is what those two do when left to themselves.
 
