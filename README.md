@@ -15,4 +15,9 @@ What remains: the particle masses, the field's strength (1/137), and colour. Eac
 
 Independent, speculative, not peer-reviewed. 
 
+---------------------------------------------------------------------------------------------------------------------------------------------------
 As a theory, CO is better than Many-Worlds, and meets the String Theory standard. 
+
+The ontology has been in development for all of 2026. The intent is that it resonates as a logical story of how the universe operates, and for others to advance the ideas if possible. 
+
+"Wen considered the nature of time and understood that the universe is, instant by instant, recreated anew. Blink your eyes, and the world you see next did not exist when you closed them.... The sky you see now, you have never seen before. The perfect moment is now. Be glad of it.” Lu-Tze, from Terry Pratchett's _Thief of Time._
