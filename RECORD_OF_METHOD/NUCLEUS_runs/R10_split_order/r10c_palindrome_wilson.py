@@ -22,5 +22,5 @@ out={}
 for th,r in [(0.0,0.0),(0.0,0.5),(0.3,0.0),(0.3,0.5)]:
     n,p=gapless(lambda k:U(k,th,r)); out[f'theta{th}_r{r}']={'n':n,'points_over_pi':p if n<10 else 'many'}; print(th,r,n,(p if n<10 else 'many'))
 for kk in (0.05,0.1,0.2):
-    e=np.min(np.abs(np.angle(np.linalg.eigvals(U((kk,0,0),0.3,0.5))))); print("k=%.2f E=%.4f  2*sqrt(th^2+k^2)=%.4f (double step)"%(kk,e,2*np.hypot(0.3,kk)))
+    e=np.min(np.abs(np.angle(np.linalg.eigvals(U((kk,0,0),0.3,0.5))))); print("k=%.2f E=%.4f  sqrt(th^2+(2k)^2)=%.4f (double step: two hops per flip)"%(kk,e,np.hypot(0.3,2*kk)))
 json.dump(out,open('r10c_result.json','w'),indent=1)

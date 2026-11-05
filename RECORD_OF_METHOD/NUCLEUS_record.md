@@ -107,3 +107,16 @@ Open before candidate: is kinship CO's one relation in a second regime, or a sec
 ## 2026-11-05 — the grain: tiles' own renewals; σ = (m_tile c²)²/ħc
 
 If the quanta held along a kinship are the tiles' renewals, the grain is the tile's Compton length and σ = (m_tile c²)²/ħc. m_tile = m_p/3 = 0.31 GeV gives 0.49 GeV/fm; measured ≈ 0.9 (↔ 0.42 GeV). Factor ~2; the constituent-quark model's usual gap. The tension is thereby not a new constant but the tile mass, already in the mass problem. "Three-tile patterns" entered in `NUCLEUS.md` as candidate.
+
+## 2026-11-05 — post-review corrections (blind review, `REVIEW_2026-11-05_blind.md`)
+
+Review grades: NUCLEUS D+, MATTER doubler paragraph D, runs C−. Errors confirmed by re-running and corrected:
+
+1. "One species" (R10, MATTER, NUCLEUS) was a threshold artefact; the unitary Wilson angle is periodic, r = 0.5 outside its window; π-sector never counted; massless palindrome has 32 zero points. R10d added: for r ≲ 0.35 the extra species sit at 0.3–0.9 hop units in both sectors, the standard Wilson statement. With a physical hop these are predicted particles; their absence below ≈ 100 GeV bounds ℓ ≲ 6 × 10⁻¹⁹ m (r = 0.3). Doubler item regraded: open, as a bound on ℓ. The two walk rulings regraded from needed to candidate.
+2. The "preferred foliation the gravity sector already carries" did not exist in CO; it was conflated with the author's earlier program. Withdrawn from NUCLEUS and the plain doc; the Bell cost is now stated as unpaid, with the flash-ontology alternative (Tumulka 2006) named.
+3. "Gluon field is the ratio on kinships" was wrong (a ratio is abelian). Corrected to a 3 × 3 unitary per kinship.
+4. Smaller: "Welch bound" misattribution removed; "three abelian factors" → three U(1) factors; r10c dispersion formula corrected to √(θ² + (2k)²); vacuous falsifiers (free quark, SU(N ≥ 4)) restated as consistency; ε = 0.5 dependence of the 10⁻¹⁵ s lifetime stated; `kinship_stretch_cost.py` now computes the m_p/3 figure it is cited for; hold-chirality check marked as a scheme symmetry, not an automaton result; chiral-U(1) statement qualified by the Wilson term's explicit chiral breaking; "engagement vs renewal" flagged as undefined in the rules table.
+5. Three-tile section: cost line now lists the new objects (tile, non-sliding relation, completion rule, length cost) and says the cascade bar was restated, not met; flow scaling demoted to the weaker evidence behind DIS and three-jet events.
+6. Prior art added to MATTER references: Karsten–Smit, Strang, Christ–Friedberg–Lee, Perantonis–Wheater, Bakircioglu–Arnault–Arrighi, D'Ariano–Perinotti.
+
+Not changed: the ordering finding (eight γ⁵ modes belong to the sequential order; Q1b's L_z withdrawal), R8's direction, R9's exclusion of the damping hop, the Clifford-four commutant, the sorts costing.
