@@ -13,4 +13,6 @@ From it: the amplitude rule, consistent given its premises, and the Born rule as
 **[`NUCLEUS.md`](NUCLEUS.md).** Exploratory. 
 What remains: the particle masses, the field's strength (1/137), and colour. Each needs something new. The three lines of space are shown not to be colour; an internal three is outside the inventory; a third primitive would be admissible on the proton contradiction and worth it only if it cascades. CO covers physics up to 1930, gravity, electromagnetism and the electron, and stops at the nucleus.
 
-Independent, speculative, not peer-reviewed.
+Independent, speculative, not peer-reviewed. 
+
+As a theory, CO is better than Many-Worlds, and meets the String Theory standard. 
