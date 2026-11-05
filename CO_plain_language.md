@@ -12,6 +12,10 @@ A word on what kind of thing this is: an ontology with standard mathematics atta
 
 Time is a count of things that have happened. Not a river, not a dimension: a count. Something happens, and it cannot be undone. That is one tick. Matter is something that keeps happening, and is ticking. Where nothing happens, there is no time. Start from this and ask what physics has to look like. That is the premise of the Commitment Ontology (CO).
 
+![How CO was built: observe, deduce, rule, recover](method_arrow.svg)
+
+*How CO was built.*
+
 ## Two things exist. The two primitives. 
 
 **Possibility** is the stuff of the universe. There is a fixed amount of it, it sits at places, and it moves between places that are related. It is conserved: never made, never destroyed.
