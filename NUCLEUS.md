@@ -25,6 +25,21 @@ The obvious candidate is possibility in sorts: N kinds of possibility, indisting
 
 Net: sorts cascade exactly as far as SU(N) and stop. By the bar set here, a third primitive of this form is not yet earned.
 
+## Three kinds of wall
+
+The walls around the nucleus are not all the same kind, and only one kind can be got round.
+
+- **Silences.** Nothing selects N = 3. Not a theorem; the primitives do not speak. Passable by one thing only, a new rule, and the cascade bar decides whether it is earned.
+- **Representation theorems.** The Clifford four carries only U(1) (above). Schur's lemma has no lattice premise. A relational lattice does not touch it; a time-dependent dynamics (hold-and-release) can only shrink a commutant, never enlarge it.
+- **Continuum no-gos.** Nielsen–Ninomiya assumes a fixed translation-invariant lattice; Coleman–Mandula assumes Poincaré invariance and an S-matrix. Neither premise holds at the hop scale, so both have loopholes on a relational lattice. The Coleman–Mandula loophole is where "the three lines of space are colour" could have lived; at the hop scale the triad is three link labels, and mixing them with phases is the walk's own coin, which is the Clifford structure, which is the second wall. The loophole is real; using it lands on Schur.
+
+One loophole with content was checked and is empty. If hold-and-release treated the two chiralities differently, the held phase would carry structure the transit phase lacks. It does not: hold scales hop and flip alike, the flip is parity-even, and the hop rule (symmetric occupancy, antisymmetric ratio 1-form) has no handedness. A chiral asymmetry would need an axial 1-form, which the inventory lacks. Checked numerically on the three-dimensional walk with a hold bump: L→R and R→L transfer equal to 10⁻¹⁴ ([`hold_chirality_check.py`](RECORD_OF_METHOD/NUCLEUS_notes/hold_chirality_check.py)). Ruled: hold-and-release is chirality-blind; mass alone reduces the two chiral U(1)s to one.
+
+## Two walls not yet faced
+
+- **Bell.** A commitment is a local, irreversible, definite event, and Born is read as an identification. Two entangled patterns committing at spacelike separation must then correlate beyond anything a local rule gives. Either commitment is not local, and "a commitment happens at a place" needs a rule it does not have, or CO is a hidden-variable account and Bell excludes it short of superdeterminism. No lattice property evades this; Bell has no lattice premise. CO has no account of entangled commitment. Open.
+- **Doublers.** The matter sector identifies the one pattern with a Dirac automaton on the cubic lattice. That automaton is unitary, local and translation-invariant, so Nielsen–Ninomiya applies, and it does: massless, the Brillouin zone has twelve gapless points, not one (the origin, three zone-edge points, and the eight points (±π/2, ±π/2, ±π/2)). The mass term gaps the origin and the three edge points by θ and leaves the eight untouched ([`doublers_check.py`](RECORD_OF_METHOD/NUCLEUS_notes/doublers_check.py)). As it stands the identification carries eight massless extra species. The relational lattice is the standard way out, and CO has it in the inventory, but the identification has not been made on it. This belongs to the matter sector and is recorded here until it is moved. Open.
+
 ## Status
 
 **CO is a reconstruction of physics up to 1930 from two primitives.** It covers gravity, electromagnetism and the electron, and stops at the nucleus.

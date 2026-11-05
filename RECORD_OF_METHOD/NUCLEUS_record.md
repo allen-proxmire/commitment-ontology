@@ -30,3 +30,12 @@ Summary: N indistinguishable conserved sorts force U(N) = (SU(N)×U(1))/Z_N (tex
 ## 2026-11-05 — check: can the Clifford four carry an internal three?
 
 No. Computed (`NUCLEUS_notes/clifford_commutant.py`): commutant of {α₁,α₂,α₃,β} on C⁴ is 1-dimensional (scalars); massless, 2-dimensional (1, γ₅). Spin Casimir on C⁴ is 3/4 on every vector: 2 ⊕ 2, no triplet. Reading: the matter sector's internal space supports exactly U(1) as its internal symmetry (two chiral U(1)s before the mass term, one after); colour cannot sit inside it and must be a new tensor factor. Entered in `NUCLEUS.md`. Grade: ruled (it is a theorem about the representation, Schur's lemma, not a candidate). Consequence: "two primitives give one internal symmetry, U(1)" is now a statement, not a hope.
+
+## 2026-11-05 — walls, loopholes, and two new open items
+
+Survey of which no-go theorems CO's qualities bear on (relational lattice, hold-and-release, refraction gravity, scaleless hopping, local commitment). Entered in `NUCLEUS.md` as "Three kinds of wall" and "Two walls not yet faced."
+
+- Hold vs chirality: outcome fixed by reading (hop and flip scale alike; β parity-even; no axial 1-form in inventory); not registered as a run; one numerical check, `NUCLEUS_notes/hold_chirality_check.py`, L→R = R→L to 1e-14. Ruled: chirality-blind.
+- Bell: named as open. No account of entangled commitment.
+- Doublers: `NUCLEUS_notes/doublers_check.py` on the Q1 automaton's Bloch operator. Massless: 12 gapless points. Massive: 4 gapped by θ, 8 at (±π/2)³ remain gapless. The Dirac identification on the cubic lattice carries eight massless extra species. Not caught by the 2026-11-04 review. Relational-lattice escape available, unused. Open; to be moved to the matter record when addressed.
+- Weinberg–Witten: evaded by having no Lorentz-covariant local stress tensor at hop scale; CO claims no graviton, so not needed. Spin–statistics: lattice loophole available, but no multi-pattern statistics exist to use it. Neither entered in the clean doc.
