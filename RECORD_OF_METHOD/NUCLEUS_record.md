@@ -26,3 +26,7 @@ Continues from [`MATTER_record.md`](MATTER_record.md), which stops where its one
 Searched the author's earlier program for everything on multiplicity. Findings folded into `NUCLEUS.md` ("Sorts of possibility, already costed") without citation; the source papers are private and are not linked from this repo.
 
 Summary: N indistinguishable conserved sorts force U(N) = (SU(N)×U(1))/Z_N (textbook, restated); the count N is not selected (symmetric multiplet stable for all N); {1,2,3} as posited gives three U(1) factors, not one; the multiplicities reduce to internal dimension d via the Welch bound (d = 3 ⟹ nothing stable above SU(3); falsifier: stable SU(N≥4)); internal three found distinct from spatial three independently. The candidate cascades only as far as SU(N). Open check: compatibility of an internal d = 3 with the Clifford four of the matter sector.
+
+## 2026-11-05 — check: can the Clifford four carry an internal three?
+
+No. Computed (`NUCLEUS_notes/clifford_commutant.py`): commutant of {α₁,α₂,α₃,β} on C⁴ is 1-dimensional (scalars); massless, 2-dimensional (1, γ₅). Spin Casimir on C⁴ is 3/4 on every vector: 2 ⊕ 2, no triplet. Reading: the matter sector's internal space supports exactly U(1) as its internal symmetry (two chiral U(1)s before the mass term, one after); colour cannot sit inside it and must be a new tensor factor. Entered in `NUCLEUS.md`. Grade: ruled (it is a theorem about the representation, Schur's lemma, not a candidate). Consequence: "two primitives give one internal symmetry, U(1)" is now a statement, not a hope.
