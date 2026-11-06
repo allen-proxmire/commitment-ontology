@@ -247,3 +247,15 @@ $$P_\infty=\frac{P_{\text{free,total}}}{N},\qquad \frac{dN}{dt}=N\,r_b,\qquad H=
 - **Charge.** A ratio on relations is a gauge field's shape. Not pursued.
 - **δ.** Its value, and whether it is one number for every renewal. No longer bounded by Ġ/G.
 - **P_max.** Its value.
+
+## 2026-11-05 — second order from the primitives (candidate)
+
+**Target.** Lovelock's hypothesis of second-order field equations is assumed in the sector ("no infinities"). Can the primitives force it?
+
+**Reading.** (1) A loop of relations out of step with itself has a mismatch ε; under ratio hopping (scaleless, linear in ln P) the log-ratios add around the loop, and ε is a count of commitments the loop is out of step by. (2) Scaleless makes the cost homogeneous, f ∝ εⁿ; counts add, f(ε₁ + ε₂) = f(ε₁) + f(ε₂), so n = 1: the cost of a loop is ε times the loop's own measure, the only weight with no scale and no preferred labelling (sliding costs nothing). (3) Σ (hinge measure) × (deficit) is Regge's action, whose continuum form is ∫√g R + O((ℓ/L)²): Einstein–Hilbert at leading order, second order without assumption; Lovelock is then needed only for the uniqueness of the wave sector. (4) The corrections are of order (ℓ/L)² ≲ 10⁻⁴² at any observed curvature with ℓ ≲ 10⁻¹⁸ m.
+
+**What stays chosen.** That relations carry an occupancy that can be out of step (forced by the scalar-wave exclusion, an experimental input); the hinge measure as weight (argued from sliding, not checked independently).
+
+**The alternative, named.** A cost quadratic in ε gives Σ ε² → ∫ R², fourth-order gravity, which is Starobinsky's model and is not excluded by observation. Linearity therefore rests on one sentence, "the cost of a count is the count," not on data.
+
+**Grade.** Candidate. If it holds, the plain doc's "second-order equations (assumed, as 'no infinities')" becomes "second order at leading order, because mismatch is a count and counts add," and the gravity sector's one assumed Lovelock input moves to the primitives.
