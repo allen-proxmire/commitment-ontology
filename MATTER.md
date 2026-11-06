@@ -36,7 +36,7 @@ No classical current gives g = 2 (the loops give g = 1); spin from orbital circu
 
 ## Open
 
-Why each particle commits at the rate it does (the masses: no selection mechanism; counting arguments give no ratios); the value of 1/137; the coupling that gives g = 2.
+Why each particle commits at the rate it does (the masses: no selection mechanism; counting arguments give no ratios); the value of 1/137; the coupling that gives g = 2; statistics (what two patterns do on one stock: the sector has one-pattern Dirac and no rule for two, so neither Pauli exclusion nor Bose condensation is reached; open, see `OPEN_DIRECTIONS.md`).
 
 ## Status
 
