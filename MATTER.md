@@ -30,14 +30,16 @@ Two rulings and one open item. On the cubic lattice the automaton as published c
 
 **Charge (candidate).** A relation carries, besides its occupancy, a ratio that reverses with direction: a 1-form. With sliding costing nothing, the unique quadratic cost is Maxwell's. Charge is a sign a pattern carries on the relations it uses; the antiparticle is the same pattern with the opposite sign; a traversed loop is a magnetic dipole, not a charge. The field's strength, 1/137, is from data: the which-way stiffness in quanta per hop.
 
+**Statistics.** The walk is symmetric under the swap of the carried sign, C. Ruled: the generator is odd under C, so a pattern and its anti-pattern renew at the same rate in opposite senses of the internal turn. On a stepped walk the frequency is an angle defined mod 2π; this ruling fixes its zero, selecting the branch |ε| < π everywhere the band does not meet ±π (it does meet ±π in the doubler sector, where the ruling fails). With the branch fixed, the one-pattern walk, second-quantised in the standard way (site modes with canonical brackets, positive Fock metric, vacuum the generator's lowest state), admits only anticommutators (Pauli 1940). Fermi statistics is checked compatible with the sector; it is not forced by it, since those three inputs are adopted from field theory and lattice field theory has no spin–statistics theorem. What two patterns do on one stock remains open.
+
 ## Negative results
 
 No classical current gives g = 2 (the loops give g = 1); spin from orbital circulation is not ħ/2 for the allowed loops; the lattice loop is not the electron's orbit (the Dirac walk's rest-frame current has no hexagonal structure). The loop was the ladder to the internal state; the walk is what stands.
 
 ## Open
 
-Why each particle commits at the rate it does (the masses: no selection mechanism; counting arguments give no ratios); the value of 1/137; the coupling that gives g = 2; statistics (what two patterns do on one stock: the sector has one-pattern Dirac and no rule for two, so neither Pauli exclusion nor Bose condensation is reached; open, see `OPEN_DIRECTIONS.md`).
+Why each particle commits at the rate it does (the masses: no selection mechanism; counting arguments give no ratios); the value of 1/137; the coupling that gives g = 2; statistics (what two patterns do on one stock: Fermi statistics is compatible with the walk but not forced; no rule for two patterns, so neither exclusion nor condensation is reached; open, see `OPEN_DIRECTIONS.md`).
 
 ## Status
 
-Reconstruction: the Dirac electron, with its spin, from the primitives, the rules of the gravity sector, and one addition, by identification with the Dirac cellular automaton. References: Goyal, Knuth and Skilling (2010); Meyer (1996); Bialynicki-Birula (1994); Feynman and Hibbs (1965); Nielsen and Ninomiya (1981); Karsten and Smit (1981); Wilson (1974); Strang (1968); Christ, Friedberg and Lee (1982); Perantonis and Wheater (1988); Gupta and Short (2026); Bakircioglu, Arnault and Arrighi (2025); D'Ariano and Perinotti (2014).
+Reconstruction: the Dirac electron, with its spin, from the primitives, the rules of the gravity sector, and one addition, by identification with the Dirac cellular automaton. References: Goyal, Knuth and Skilling (2010); Meyer (1996); Bialynicki-Birula (1994); Feynman and Hibbs (1965); Nielsen and Ninomiya (1981); Karsten and Smit (1981); Wilson (1974); Strang (1968); Christ, Friedberg and Lee (1982); Perantonis and Wheater (1988); Gupta and Short (2026); Bakircioglu, Arnault and Arrighi (2025); D'Ariano and Perinotti (2014); Pauli (1940); Bisio, D'Ariano and Tosini (2015).
