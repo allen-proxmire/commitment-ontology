@@ -22,7 +22,8 @@ What is open, graded as elsewhere (candidate: before a ruling; shape: a form wit
 
 - **Three-tile patterns.** Candidate: the proton as three tiles bound by kinship; colour as the bookkeeping; the string tension from the tile mass within a factor two. New objects (a tile, a non-sliding relation, a completion rule); whether that is a third primitive by another name is open.
 - **The count three.** Silence. An internal state of dimension three would select it; nothing supplies one.
-- **Entanglement.** Candidate: a commitment belongs to the pattern (one pattern sampled twice); a commitment resolves exactly what it engages. Cost unpaid: an ordering of the two ends without a preferred frame, or an account that needs none.
+- **Entanglement.** Candidate: a commitment belongs to the pattern (one pattern sampled twice); a commitment resolves exactly what it engages; a pair is one pattern with two places and one undivided stock, made by a conserving commitment, and the measurement is the cut. Cost unpaid: an ordering of the two ends without a preferred frame, or an account that needs none.
+- **Pair and tile.** Shape: an entangled pair and a three-tile pattern have the same structure, places with a kinship that commit together; the pair's kinship can be cut, the proton's cannot. If it holds, entanglement and confinement are one object at two strengths. Not examined.
 
 ## Method
 

@@ -137,3 +137,9 @@ Not changed: the ordering finding (eight γ⁵ modes belong to the sequential or
 **Cost, unchanged.** The flow of a pattern's stock to the engaging event must complete across spacelike separation for the two-place case; that is the Bell cost, still unpaid (ordering, or a flash-type account).
 
 Not in the clean docs; candidate in the record.
+
+## 2026-11-06 — entanglement: one pattern, two places, one undivided stock
+
+An entangled pair is one pattern with two places and one undivided stock, made by a commitment that conserved something (a spin-zero parent into two halves; one photon into two with the parent's energy); the measurement is the cut. The pair does not acquire a correlation; it is born as one pattern whose conservation has not yet been divided. Distance is counted along relations; the two places are related to each other directly and to the world only through what they have engaged, so until one engages the world there is no relation along which to count a separation between them. The cut is one commitment and belongs to the pattern, not to an end. What this does not pay: in the world's bookkeeping two counts tick, and an account of that without a preferred frame is still owed. Candidate reading, under the entanglement candidate above.
+
+**Shape noted.** The structure is the three-tile pattern's: places with a kinship, committing together. The pair's kinship can be cut; the proton's cannot. If that holds, entanglement and confinement are one object at two strengths. Shape only; in `OPEN_DIRECTIONS.md`.
