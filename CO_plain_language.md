@@ -4,7 +4,7 @@ The ontology as it stands: It is a reconstruction of physics up to 1930 from two
 
 The results documents are [`SPACE_AND_GRAVITY.md`](SPACE_AND_GRAVITY.md), [`MATTER.md`](MATTER.md) and [`NUCLEUS.md`](NUCLEUS.md).
 
-The working records, with everything tried and dropped and a blind referee's review, are in [`RECORD_OF_METHOD/`](RECORD_OF_METHOD/). 
+The working records, with everything tried and dropped, are in [`RECORD_OF_METHOD/`](RECORD_OF_METHOD/). 
 
 A word on what kind of thing this is: an ontology with standard mathematics attached where it applies. Where it reproduces known physics it says so; it borrows no physics, and the theorems it borrows (Lovelock, Meyer, Clifford, Bialynicki-Birula, Goyal–Knuth–Skilling) do much of the work.
 
@@ -178,7 +178,7 @@ The second relation ties the hop length to the two constants gravity already had
 - The runs are small. Locality is seen arriving; a lattice is not reached.
 - In the quantum sector, associativity of combining is assumed, and "the limit must be relativistic" is what forces the mass operator's form.
 - No number has been matched to a measurement where the standard theories are silent or wrong, and after review (see the record) there is no such number on offer.
-- A blind referee's verdict (2026-11-04): a careful, self-critical reinterpretation of known physics in a new vocabulary, not a derivation of it; the theorems do the work with hypotheses supplied by the primitives. The working records were graded honest; the public summaries had overclaimed and were rewritten.
+- Outside reading (2026-11-04): a careful, self-critical reinterpretation of known physics in a new vocabulary, not a derivation of it; the theorems do the work with hypotheses supplied by the primitives. The public summaries had overclaimed and were rewritten.
 
 **Three-tile patterns (candidate).** A quark is not a pattern; a proton is one, made of three *tiles*, a different kind of pattern from the electron's single tile. The relations inside it are its *kinships*, not relations between places. The tiles of one pattern commit together (the entanglement ruling again), so a tile never commits alone; in a plasma it completes with whatever kin are near, which is what heavy-ion flow measurements show. Colour is the bookkeeping of which tile completes with which; changing that is a slide, so colour change is not an event, and the gluon field compares that bookkeeping between places (a 3 × 3 unitary per kinship, not a single ratio as for charge). Confinement needs the kinship to be engaged possibility along its length, a string with tension σ = ħc/a²; if the held quanta are the tiles' own renewals, a is the tile's renewal length and σ = (m_tile c²)²/ħc, about 0.5 GeV/fm against the measured 0.9. The cost is the unselected three, the tile masses, which the mass problem already owes, and new objects (a tile, a relation that does not slide free, a completion rule); whether that is a third primitive by another name is open. The shape of the standard account; not a derivation.
 

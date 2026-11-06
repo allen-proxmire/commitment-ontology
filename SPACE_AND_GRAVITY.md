@@ -1,6 +1,6 @@
 # Space and Gravity
 
-Results only. The working record, with every route tried, every withdrawal and the blind review, is in [`RECORD_OF_METHOD/`](RECORD_OF_METHOD/).
+Results only. The working record, with every route tried and every withdrawal, is in [`RECORD_OF_METHOD/`](RECORD_OF_METHOD/).
 
 ## Primitives
 

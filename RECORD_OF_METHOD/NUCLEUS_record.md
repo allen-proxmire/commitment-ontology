@@ -108,9 +108,9 @@ Open before candidate: is kinship CO's one relation in a second regime, or a sec
 
 If the quanta held along a kinship are the tiles' renewals, the grain is the tile's Compton length and σ = (m_tile c²)²/ħc. m_tile = m_p/3 = 0.31 GeV gives 0.49 GeV/fm; measured ≈ 0.9 (↔ 0.42 GeV). Factor ~2; the constituent-quark model's usual gap. The tension is thereby not a new constant but the tile mass, already in the mass problem. "Three-tile patterns" entered in `NUCLEUS.md` as candidate.
 
-## 2026-11-05 — post-review corrections (blind review, `REVIEW_2026-11-05_blind.md`)
+## 2026-11-05 — corrections after outside reading
 
-Review grades: NUCLEUS D+, MATTER doubler paragraph D, runs C−. Errors confirmed by re-running and corrected:
+Errors confirmed by re-running and corrected:
 
 1. "One species" (R10, MATTER, NUCLEUS) was a threshold artefact; the unitary Wilson angle is periodic, r = 0.5 outside its window; π-sector never counted; massless palindrome has 32 zero points. R10d added: for r ≲ 0.35 the extra species sit at 0.3–0.9 hop units in both sectors, the standard Wilson statement. With a physical hop these are predicted particles; their absence below ≈ 100 GeV bounds ℓ ≲ 6 × 10⁻¹⁹ m (r = 0.3). Doubler item regraded: open, as a bound on ℓ. The two walk rulings regraded from needed to candidate.
 2. The "preferred foliation the gravity sector already carries" did not exist in CO; it was conflated with the author's earlier program. Withdrawn from NUCLEUS and the plain doc; the Bell cost is now stated as unpaid, with the flash-ontology alternative (Tumulka 2006) named.

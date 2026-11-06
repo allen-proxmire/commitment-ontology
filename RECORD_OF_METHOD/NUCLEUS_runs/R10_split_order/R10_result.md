@@ -1,6 +1,6 @@
 # R10 result — the eight γ⁵ modes are an artefact of the step ordering; ~~a symmetrised walk with the retarded-hop mass has one species~~
 
-**Corrected 2026-11-05 after blind review; see `R10d_result.md`.** The 'one species' headline was a threshold artefact (gapless = |E| < 0.08 while the extra modes sit at 0.14–0.33 at r = 0.5); the unitary Wilson angle is periodic and r = 0.5 is outside its window; the π-sector was not counted; the massless palindrome has 32 zero points, not four. The ordering finding (the eight γ⁵ modes belong to the sequential order) stands.
+**Corrected 2026-11-05; see `R10d_result.md`.** The 'one species' headline was a threshold artefact (gapless = |E| < 0.08 while the extra modes sit at 0.14–0.33 at r = 0.5); the unitary Wilson angle is periodic and r = 0.5 is outside its window; the π-sector was not counted; the massless palindrome has 32 zero points, not four. The ordering finding (the eight γ⁵ modes belong to the sequential order) stands.
 
 Scripts `r10_split_order.py`, `r10b_strang_wilson.py`; outputs `r10_result.json`, `r10b_result.json`. Zone scanned on 40³; gapless = |quasi-energy| < 0.08.
 

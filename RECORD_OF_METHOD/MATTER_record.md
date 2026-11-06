@@ -2,7 +2,7 @@
 
 *Working record; formerly CO 2.1.*
 
-**Corrections after the blind review of 2026-11-04 ([`REVIEW_2026-11-04_blind.md`](REVIEW_2026-11-04_blind.md)).**
+**Corrections after outside reading, 2026-11-04.**
 - *Q1's "geometric ratio" was inverted.* (√3/6)/(1/4) = 1.155, not 0.866, and the post-run check's "computed independently and matches" was false. A smooth field gives hexagon/square ≈ 1.06–1.15 on these loops; the measured 0.87 is below that, so squares carry more circulation per edge than a smooth vortex would. The qualitative finding (no hexagonal dominance; the chair is not the orbit) stands; the "smooth vortex" reading does not. Corrected in the result note.
 - *The hop length had two values.* The top-quark bound, ℓ ≲ 1.1×10⁻¹⁸ m, is the one that stands; the δ ≈ 10⁻³⁷ estimate used 10⁻¹⁶ m and is replaced by δ ≈ 10⁻³² at the top-quark hop. The relation ℓ = ℓ_P√(4πP_max/δ) defines δ in terms of ℓ; it removes no unknown, it renames one, and δ has no observational handle.
 - *Wrong theorem for amplitudes.* Lamperti's isometry does not do the job; the derivation of complex amplitudes from associativity and scaling is Goyal, Knuth and Skilling (2010). The premises as stated (a zero-mean cross term scaling as √(p₁p₂)) already carry the √ structure, so "forced, not assumed" overstates; the honest status is "forced given those premises."

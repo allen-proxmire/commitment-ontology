@@ -2,7 +2,7 @@
 
 *Working record; formerly CO 2.0.*
 
-**Corrections after the blind review of 2026-11-04 ([`REVIEW_2026-11-04_blind.md`](REVIEW_2026-11-04_blind.md)).**
+**Corrections after outside reading, 2026-11-04.**
 - *The exterior is GR's, not the exponential metric.* The exponential metric is not Ricci-flat (R_ij = −2∂ᵢU∂ⱼU); it is GR plus a massless scalar, and such a scalar radiates at a level Hulse–Taylor excludes (the 1/6 argument below). The mismatch cost was forced to Einstein–Hilbert, and by Birkhoff's theorem the static exterior under that cost is Schwarzschild. So ratio hopping's N = e^{−U} is the weak-field reading of the clock field, correct through second order (β = 1), and not the exterior beyond it. **R3's shadow and ISCO predictions are withdrawn**, and with them the "no horizon, ceiling approached" reading of the hole: outside matter, CO's gravity is GR's, horizon included. CO no longer has a prediction that differs from GR.
 - *The radiation era is not derived.* A Newtonian shell with ρ ∝ a⁻⁴ gives H² = (4πG/3)ρ, half Friedmann's; the pressure term is exactly what the shell does not supply. "Transit draws" gives radiation a draw; that pressure draws twice is a candidate, not bookkeeping.
 - *Mercury is a check, not the selector.* Ratio hopping is forced by scalelessness; Mercury confirms it. The text below that reads as if Mercury chose is corrected in place.

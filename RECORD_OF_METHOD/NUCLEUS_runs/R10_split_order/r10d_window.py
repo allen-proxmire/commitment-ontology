@@ -1,4 +1,4 @@
-"""R10d (post-review): the adopted walk (palindrome x y z | flip | z y x) with alternation angle
+"""R10d: the adopted walk (palindrome x y z | flip | z y x) with alternation angle
 theta(k) = theta + r*W(k), W = sum(1-cos k_j). The unitary Wilson angle is periodic, so r must sit in a window.
 For each r: lowest |quasi-energy| anywhere in the zone away from the origin (the lightest doubler), found by
 a 48^3 grid scan refined by Nelder-Mead; also the lightest mode in the pi-sector (|E| near pi counted as pi-|E|)."""

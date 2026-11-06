@@ -1,4 +1,4 @@
-# R10d (post-review) — the adopted walk's doublers are at the hop scale, not absent; r has a window; the π-sector counts
+# R10d — the adopted walk's doublers are at the hop scale, not absent; r has a window; the π-sector counts
 
 Script `r10d_window.py`, output `r10d_result.json`. The adopted walk is the palindrome x y z | flip | z y x with alternation angle θ(k) = θ + r Σ_j(1 − cos k_j). For each r the lightest mode anywhere in the zone away from the origin was found (48³ scan, Nelder–Mead refinement), in both the quasi-energy-0 sector and the quasi-energy-π sector.
 

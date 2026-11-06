@@ -12,6 +12,6 @@ print("(2) engaged kinship: sigma = hbar c / a^2")
 print("    with a = hop length", l_hop, "fm: sigma =", "%.2e"%(hbar_c/l_hop**2), "GeV/fm  vs QCD", sigma_qcd)
 a=(hbar_c/sigma_qcd)**0.5
 print("    grain needed for QCD tension: a =", round(a,3), "fm  (a new length, not in the inventory)")
-# (added post-review) the figure quoted in NUCLEUS.md: tile mass m_p/3
+# the figure quoted in NUCLEUS.md: tile mass m_p/3
 m_tile=0.938272/3; sigma_tile=m_tile**2/hbar_c
 print("(3) grain = tile renewal length: m_tile = m_p/3 =",round(m_tile,4),"GeV; a =",round(hbar_c/m_tile,3),"fm; sigma = m_tile^2/hbar c =",round(sigma_tile,3),"GeV/fm vs QCD",sigma_qcd)

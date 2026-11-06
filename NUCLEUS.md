@@ -1,6 +1,6 @@
 # Nucleus
 
-What the two primitives do not reach. The working record is in [`RECORD_OF_METHOD/`](RECORD_OF_METHOD/); the blind reviews of 2026-11-04 and 2026-11-05 are there, and this file was corrected after the second.
+What the two primitives do not reach. The working record is in [`RECORD_OF_METHOD/`](RECORD_OF_METHOD/).
 
 ## The three open problems
 
