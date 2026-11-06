@@ -9,3 +9,5 @@ Script `s1_signless_walk.py`, output `s1_result.json`. Adopted walk (palindrome,
 **With the first rung.** Signed patterns with the four: fermions, by positivity of the count (the backward branch must be closed). Signless patterns with the four: fermions, by existence (a commuting version does not move). Together, candidate: **every pattern carrying the four is a fermion.** Nothing here speaks to patterns without the four (the photon); that is the next rung.
 
 **Grade.** Candidate (one check per rung; no cold reading yet). Post-run check: the C-symmetry residual at machine precision is the control that the construction is the right one.
+
+**Annotation, same day.** The antisymmetry of C G(k) follows from C-symmetry alone for any Hermitian generator; the measured quantity and the control are one identity, so this was a check, not a test with an unknown outcome. The reading "does not move" applies to the bosonic Fock Hamiltonian, not the first-quantised packet, which moves. Regraded with the record: consistency condition, restating the vanishing Majorana bilinear under commutators.
