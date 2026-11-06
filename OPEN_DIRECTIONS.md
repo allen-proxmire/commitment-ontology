@@ -13,6 +13,7 @@ What is open, graded as elsewhere (candidate: before a ruling; shape: a form wit
 
 - **Statistics.** Two patterns on one stock: merge or exclude. One-pattern Dirac only; no rule for two. The 2π-turn route (Berry–Robbins) relocates the choice. Live route: positivity of the count (commitments do not go negative) applied to two patterns, following Sudarshan's dynamical requirement. A construction, not a reading. Must split He-4 and Rb-87 (merge), He-3 and electrons (exclude), cavity photons (merge).
 - **Doublers.** Reduced to the standard Wilson form by two candidate rulings; extra species remain at the hop scale and are predicted charged particles; their absence bounds the hop, ℓ ≲ 6 × 10⁻¹⁹ m. Open as a bound. What it would take: a cancellation (staggering or a covering map) or an account of the copies.
+- **Dark matter.** Shape: a pattern that commits but never measures. A renewing pattern carrying no sign, one tile, engaging only free stock: it has mass, pools possibility and bends h, and never engages another pattern's transit, so it is never resolved and leaves no readable record. Permitted by the rules as written; not predicted (nothing picks its mass, abundance or number of kinds). CO's gravity is GR's, so the invisible mass is needed for GR's reasons and no MOND is offered. One weak consequence: with no sign to carry a ratio it is unmeasurable by construction, so direct detection would be null by rule.
 - **The masses.** Silence.
 - **1/137.** Input.
 - **g = 2.** Conditional on the coupling.

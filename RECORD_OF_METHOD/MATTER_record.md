@@ -245,3 +245,15 @@ The Dirac automaton as published carries doublers (found 2026-11-05 while survey
 **Grade.** Question open; one candidate shape; no run (nothing to measure until the exchange construction is written on the lattice). Prior art first: Leinaas–Myrheim 1977; Berry–Robbins 1997; Duck–Sudarshan 1998 on what the spin–statistics theorem actually needs.
 
 **Read, 2026-11-06 (Berry–Robbins 1997; Harrison–Robbins 2003; Duck–Sudarshan 1998, 2003; Shaji–Sudarshan 2003).** The Berry–Robbins sign comes from a postulate (single-valuedness in a transported spin basis); Harrison and Robbins show other admissible choices give the wrong statistics or parastatistics, and only the completely symmetric SU(2n) representations give nature's, "a matter of judgement" in their words. Duck and Sudarshan examine every kinematic non-relativistic argument, construct a counterexample to the family, and conclude the connection is dynamical: a positivity requirement on how the fields enter the action, not a property of configuration space. Consequence for CO: the 2π-turn shape above relocates the choice rather than removing it, the same failure as the second-order argument of 2026-11-05; downgraded from candidate to shape-known-insufficient. The live route is the dynamical one, and CO has a positivity it did not choose: commitments are a count. Whether positivity of the count, applied to two patterns sharing one stock, forces the exchange sign is the question. A construction, not a reading; not begun.
+
+## 2026-11-06 — a pattern that commits but never measures (dark matter, first reading)
+
+**Question.** What would a pattern have to be to give what is attributed to dark matter: mass; no charge; no colour; gravity only; stable; cold; present from the beginning; about five times the baryons.
+
+**Translation.** Mass: a pattern that renews. No charge: a pattern carrying no sign on its relations; charge is a carried sign and nothing in the rules requires every pattern to carry one. No colour: one tile. Gravity only: it pools possibility, as every renewing pattern does. Never seen: under "a commitment resolves exactly what it engages," a pattern that engages only free stock renews, has mass and bends h, and never engages another pattern's transit, so it never resolves anything, is never resolved, and leaves no readable record: *a pattern that commits but never measures.* Stable: nothing lighter without a sign to decay into. Cold and abundant: made when everything was made, never exchanging with the hot stuff after.
+
+**Status.** Permitted by the rules as written; the first win on this route. Not predicted: nothing picks its mass, its abundance, or the number of kinds. CO's gravity sector is GR's, so CO needs invisible mass for the reasons GR does and offers no MOND of its own.
+
+**One consequence, weak.** A pattern with no sign has nothing to carry a which-way ratio, so it cannot be measured even in principle, only felt through its pooling. If that is what dark matter is, direct detection is null by rule, not by weakness of coupling. Confirmed only by continued absence; stated for the record.
+
+**Grade.** Shape, entered in `OPEN_DIRECTIONS.md`.
