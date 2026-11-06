@@ -267,3 +267,7 @@ What makes the backward branch independent: in the standard theory a complex (ch
 **Next rung and test.** A neutral spin-½ pattern (Majorana-type; the neutrino in nature) is a fermion by spin–statistics. If a signless walk's backward branch is conjugate to its forward one, CO would not force it, and the rule would need the internal four rather than the sign to carry the load. Construction: write the signless walk and determine whether its backward branch is independent. Unknown outcome; changes a ruling; to be registered.
 
 Entered in `OPEN_DIRECTIONS.md` under statistics.
+
+## 2026-11-06 — S1: the signless spin-½ pattern is a fermion by existence
+
+Registered (`MATTER_runs/S1_signless_walk/`), unknown outcome. Result: the Majorana bilinear kernel of the adopted walk is purely antisymmetric (symmetric part 10⁻¹⁵, antisymmetric ≥ 0.82 across the zone), so a commuting signless pattern with the four has no generator and does not move; only anticommuting components walk. Second rung: a signless pattern with the four must be a fermion to exist. With the first rung (signed: fermion by count positivity): candidate, *every pattern carrying the four is a fermion.* The Majorana test that could have knocked the route down passed. Next rung: patterns without the four (the photon's walk), and whether bosonic statistics is then forced or merely allowed. OPEN_DIRECTIONS updated.
