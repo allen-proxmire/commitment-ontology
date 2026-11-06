@@ -257,3 +257,13 @@ The Dirac automaton as published carries doublers (found 2026-11-05 while survey
 **One consequence, weak.** A pattern with no sign has nothing to carry a which-way ratio, so it cannot be measured even in principle, only felt through its pooling. If that is what dark matter is, direct detection is null by rule, not by weakness of coupling. Confirmed only by continued absence; stated for the record.
 
 **Grade.** Shape, entered in `OPEN_DIRECTIONS.md`.
+
+## 2026-11-06 — statistics, first rung: positivity of the count forces exclusion (candidate)
+
+The Dirac walk has a forward branch (positive quasi-energy) and a backward branch (negative). For one pattern the backward branch is the anti-pattern, reinterpreted. For many patterns, if the backward branch could be filled without limit the total would run away; in standard physics "energy unbounded below." In CO the primitive speaks directly: the count cannot go down, so a backward-renewing pattern is a commitment un-happening. The backward branch must be closed, and the only closure is Dirac's: already full, one pattern per state. That is exclusion, from the count. First rung: *positivity of the count forces exclusion for every pattern whose backward branch is independent of its forward one.*
+
+What makes the backward branch independent: in the standard theory a complex (charged) field; a real (neutral) field's negative-frequency modes are conjugates of its positive ones, not new states. In CO words: a pattern carrying a sign has an independent backward branch. Hence, candidate: *patterns that carry a sign are fermions.* Elementary charged patterns (electron, tiles) are fermions; the photon carries no sign and is not forced. One-directional.
+
+**Next rung and test.** A neutral spin-½ pattern (Majorana-type; the neutrino in nature) is a fermion by spin–statistics. If a signless walk's backward branch is conjugate to its forward one, CO would not force it, and the rule would need the internal four rather than the sign to carry the load. Construction: write the signless walk and determine whether its backward branch is independent. Unknown outcome; changes a ruling; to be registered.
+
+Entered in `OPEN_DIRECTIONS.md` under statistics.
