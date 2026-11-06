@@ -229,3 +229,17 @@ Inertia and the α-terms are one statement once the internal state exists. With 
 ## 2026-11-05 — doublers closed; Q1 re-run on the symmetrised step
 
 The Dirac automaton as published carries doublers (found 2026-11-05 while surveying no-go loopholes; record in `NUCLEUS_record.md`, runs R8–R10 in `NUCLEUS_runs/`). Closed by two rulings entered in `MATTER.md`: hops in no preferred order (symmetrised step), and a flip rate rising with alternation (Wilson term, unitary). The relational lattice alone does not do it (R8); the one-way non-unitary hop kills the electron (R9). Q1 re-run on the symmetrised step (`MATTER_runs/Q1b_symmetrised.md`): chair finding unchanged; the L_z ≠ 0 reading withdrawn as an ordering artefact.
+
+## 2026-11-06 — two patterns, one stock: merge or exclude? (question opened)
+
+**Why.** A Bose–Einstein condensate is cheap in CO's words: cold means few commitments, so each atom's transit spreads far; when the spread exceeds the spacing the atoms' transit overlaps and they are one pattern sampled many times (the single macroscopic wavefunction). But a Fermi gas at the same overlap refuses to merge and stacks one per state; that pressure holds up a white dwarf. CO's "overlap → one pattern" would condense both. The matter sector has one-pattern Dirac and no rule for two patterns engaging the same possibility. Statistics is a silence.
+
+**What the rules give on reading.**
+- If patterns of one kind are identical (the "one pattern" ruling), two of them live on *unordered* pairs of places; in three dimensions exchange is a Z₂ (Leinaas–Myrheim 1977), so only a sign ±1 is available: bosons or fermions, nothing else. The rules do not pick the sign.
+- Capacity (P_max, one quantum per renewal) gives a hard-core exclusion at a place, not a sign; in three dimensions hard-core bosons are not fermions. Not the mechanism.
+- Mass as renewal (massless patterns never draw a quantum) splits photons from electrons but puts He-4 on the wrong side: composite bosons need a sign that cancels in pairs, not an absence of drawing. Not the mechanism.
+- The one route that uses what CO has: the internal four is a spinor and takes −1 under a 2π rotation. Berry and Robbins (1997) construct exchange of two spin-½ particles so that it is a 2π rotation of the internal state, giving the fermionic sign from the spinor alone, without Lorentz invariance; the construction is not unique and is not a theorem. Candidate shape, not a ruling: *exchange of two patterns is a 2π turn of the internal state; the four turns to −1; tiles with the four are fermions, patterns with an even count of them are bosons; massless patterns with no four are bosons.*
+
+**What it must split.** BEC (He-4, Rb-87) merges; a Fermi gas (He-3, electrons) excludes; the photon condenses in a cavity. Any rule has to put each on its side.
+
+**Grade.** Question open; one candidate shape; no run (nothing to measure until the exchange construction is written on the lattice). Prior art first: Leinaas–Myrheim 1977; Berry–Robbins 1997; Duck–Sudarshan 1998 on what the spin–statistics theorem actually needs.
