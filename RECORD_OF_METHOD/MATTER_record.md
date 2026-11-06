@@ -291,3 +291,15 @@ Registered (`MATTER_runs/S1_signless_walk/`), unknown outcome. Result: the Major
 **Standing wording.** The one-pattern Dirac walk, second-quantised in the standard way (site modes with canonical brackets, positive Fock metric, generator on the branch |ε| < π, vacuum the generator's lowest state), admits only anticommutators (Pauli 1940). Each of those four inputs is adopted from standard field theory; the primitives supply none of them. Fermi statistics is checked compatible with the matter sector; it is not forced by it. Statistics open.
 
 **Next rung, concrete.** The one piece of CO material that could fix the branch is the S1 C-symmetry: requiring the generator to be C-odd selects the branch symmetric about zero, except where the band touches ±π. If taken, it is a new input to be registered, not read off the primitives. Also: Dirac 1942 and Pauli 1943 (indefinite metric); Lüders–Zumino 1958, Burgoyne 1958 (what the axiomatic theorem needs); Feynman 1987 "The reason for antiparticles"; Sambe 1973, Bukov–D'Alessio–Polkovnikov 2015 (quasi-energy mod 2π; no ground state in discrete time).
+
+## 2026-11-06 — ruled: the generator is odd under C
+
+**Why.** On the walk, quasi-energy is an angle defined mod 2π; "negative frequency" is a convention until a zero is fixed, so the bounded-below premise was empty. The primitives are silent on a zero of frequency.
+
+**Ruling.** The generator G = i log U is odd under charge conjugation: C G(k)* C⁻¹ = −G(−k). A pattern and its anti-pattern renew at the same rate in opposite senses of the internal turn; C, already in the inventory as the swap of the carried sign, reverses the sense. This is consistent only on the branch symmetric about zero, (−π, π], which it therefore selects. S1's check (C U(k)* C⁻¹ = U(−k) to 2 × 10⁻¹⁶ on the adopted walk) is the evidence the ruling is consistent with the walk.
+
+**Retires.** The branch ambiguity. With the branch fixed, bounded-below is meaningful, and Pauli's selection runs with three adopted inputs (site modes with canonical brackets, positive Fock metric, vacuum the generator's lowest state) instead of four. Statistics remains compatible, not forced.
+
+**Cost.** No symmetric branch exists where the band meets ±π; the ruling fails there, which is the doubler sector, already open. No new hole.
+
+**Grade.** Ruled; a ruling, not a primitive: added where the primitives are silent, retires one thing, rests on an operation already in the inventory; does not cascade.
