@@ -31,7 +31,7 @@ Added principles: the substrate is scaleless; sliding or relabelling places cost
 | capacity | a place holds at most P_max free possibility; over capacity it commits. The vacuum today is under capacity |
 | hold-and-release | a renewal engages, completes, releases; nothing is consumed. P_free = P(1 − h), h the fraction engaged |
 | clock | renewal rate = (m/ħ)(1 − h) |
-| gravity | possibility moves toward where it is engaged; that inflow sets h. Patterns fall by refraction on the clock-rate field |
+| gravity | on each relation, net transit runs toward the end that engages more; a place's h is the engaged share its relations have delivered. A link rule, needing no simultaneity. Patterns fall by refraction on the clock-rate field |
 | mismatch | relations can be out of step with their ends; the cost depends only on how they fit together (sliding costs nothing) |
 
 ## Results
@@ -58,7 +58,7 @@ Einstein–Hilbert, in Regge's form on the network: tensor waves with two polari
 
 **Three dimensions.** In one or two dimensions relations carry no transverse modes, n_TT = (d+1)(d−2)/2. In even dimensions a passing signal leaves a tail, so a commitment has no "where." In four or more there are no stable orbits or atoms, and the uniqueness above admits a free constant. Three is the only dimension in which every rule holds and nothing is added: a consistency condition. The pieces are Ehrenfest's, Huygens' and Lovelock's, as assembled by Tegmark (1997); their standing as consequences of these rules is what is CO's.
 
-**The beginning and inflation.** All possibility free in few places puts every place over capacity, so every place commits at once; every first commitment is fed, so matter forms immediately; the first renewals pool record and spread possibility over new places until all are under capacity, and commitment stops. Rapid making of places with its own beginning and end, both set by P_max. Candidate: the first places all mutually related; thinning to what each can feed (count), pairing by first passage (lines), and a slide-invariant curvature cost (flatness) shape the adjacency; flatness is dimension-blind (the cubic and triangular lattices both have zero Ollivier curvature), so three is the consistency condition's to pick. Runs support each part at small size; convergence to a clean lattice is not reached. Prior art: Trugenberger's combinatorial quantum gravity.
+**The beginning and inflation.** All possibility free in few places puts every place over capacity, so every place commits, and with no distance yet these first commitments are unordered, none before another; every first commitment is fed, so matter forms immediately; the first renewals pool record and spread possibility over new places until all are under capacity, and commitment stops. Rapid making of places with its own beginning and end, both set by P_max. Candidate: the first places all mutually related; thinning to what each can feed (count), pairing by first passage (lines), and a slide-invariant curvature cost (flatness) shape the adjacency; flatness is dimension-blind (the cubic and triangular lattices both have zero Ollivier curvature), so three is the consistency condition's to pick. Runs support each part at small size; convergence to a clean lattice is not reached. Prior art: Trugenberger's combinatorial quantum gravity.
 
 **Expansion.** The first epoch's outward flow set matter receding; inertia keeps it so; gathering brakes it. Newton's law on a shell gives Friedmann's equation and the matter era,
 

@@ -24,7 +24,7 @@ GR has no global now; QM has no event. CO takes both as primitives: commitment a
 - Ruling P1, *scaleless:* the substrate has no scale of its own, so a hop compares neighbouring places only by ratio, never by difference. The field is linear in ln P.
 - Ruling P2, *capacity:* a place holds at most P_max of free possibility. Over capacity, it commits. The vacuum today is under capacity.
 - Ruling P3, *hold-and-release:* possibility engaged by a commitment is released when it completes; nothing is consumed. Free possibility at a place is P_free = P(1 − h), h the fraction engaged.
-- Ruling P4, *toward engagement:* free possibility moves toward where it is being engaged. That inflow is what sets h around matter.
+- Ruling P4, *toward engagement:* on each relation, the net flow of possibility runs toward the end that is engaging more. A place's h is what its relations have delivered to it. This is a rule about one link and its two ends; it needs no "at the same time."
 - Ruling P5, *inertia:* possibility in transit keeps its mean direction until a commitment redirects it.
 - Ruling P6, *transit draws:* possibility in transit is not free, and draws by its frequency ħω, as a renewal would. Light gravitates.
 - Ruling P7, *relations:* space is who passes possibility to whom. A relation carries an occupancy (how much is in transit across it) and a ratio (which way). Sliding or relabelling places costs nothing: there is no backdrop.
@@ -37,7 +37,7 @@ GR has no global now; QM has no event. CO takes both as primitives: commitment a
 - Ruling C4, *one quantum:* every commitment engages the same amount, ħ. Mass is how often commitment falls due, ω = mc²/ħ.
 - Ruling C5, *rate:* commitments happen at a rate, and a pattern in transit carries where it is in its cycle, its phase. (The one addition of the matter sector.)
 - Ruling C6, *the flip:* a commitment changes a pattern's internal state without moving it, with amplitude i·mcℓ/ħ per hop. The heaviest possible pattern flips every hop, and its Compton wavelength is the hop length.
-- Ruling C7, *the beginning:* with all possibility free in few places, every place is over capacity and commits at once; every first commitment is fed, so matter forms immediately.
+- Ruling C7, *the beginning:* with all possibility free in few places, every place is over capacity and commits; there is no distance yet, so these first commitments are not ordered, none before another. Every first commitment is fed, so matter forms immediately.
 
 That is the whole inventory. Everything below is what those two do when left to themselves.
 
@@ -111,7 +111,7 @@ Einstein's action, on a network in Regge's form. Lovelock's theorem does the uni
 
 ## The universe
 
-**The beginning.** All possibility free, no commitment, in a few places: every place over capacity. Over capacity, a place commits. So the start commits everywhere at once, every first commitment is fed, and matter forms immediately. The first repeats pool record and spread possibility into new places until every place is under capacity; then commitment stops and the vacuum sits just under P_max, where it is today. That rapid making of places is inflation, with its own beginning and its own end, both set by one number.
+**The beginning.** All possibility free, no commitment, in a few places: every place over capacity. Over capacity, a place commits. So the start commits everywhere, and with no distance yet none of those first commitments is before another; every first commitment is fed, and matter forms immediately. The first repeats pool record and spread possibility into new places until every place is under capacity; then commitment stops and the vacuum sits just under P_max, where it is today. That rapid making of places is inflation, with its own beginning and its own end, both set by one number.
 
 **How space got its shape.** With no distance yet, every first place is related to every other. A relation persists only while possibility passes through it, so as places multiply each keeps about as many relations as its quanta can feed. A quantum's first passage through a place pairs the relation it came by with the one it leaves by, and transit keeps to its pairs, so the survivors form lines. The mismatch cost, acting on which relations are kept, pulls the whole toward flat. Among the flat arrangements with that many lines, the one that exists is the one consistent with every rule: three-dimensional. (Candidate; each part supported by a run, convergence to a clean lattice not yet reached. Annealing random graphs toward flatness under a curvature cost is Trugenberger's combinatorial quantum gravity; the runs here reproduce its qualitative result at small size.)
 
