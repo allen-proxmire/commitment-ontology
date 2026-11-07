@@ -38,7 +38,7 @@ No classical current gives g = 2 (the loops give g = 1); spin from orbital circu
 
 ## Open
 
-Why each particle commits at the rate it does (the masses: no selection mechanism; counting arguments give no ratios); the value of 1/137; the coupling that gives g = 2; statistics (what two patterns do on one stock: Fermi statistics is compatible with the walk but not forced; no rule for two patterns, so neither exclusion nor condensation is reached; open, see `OPEN_DIRECTIONS.md`).
+Why each particle commits at the rate it does (the masses: no selection mechanism; counting arguments give no ratios); the value of 1/137; the coupling that gives g = 2; statistics (what two patterns do on one stock: Fermi statistics is compatible with the walk but not forced; no rule for two patterns, so neither exclusion nor condensation is reached; open, see `OPEN_DIRECTIONS.md`); the two-pattern problem: no rule couples two walks coherently through their ratio fields (the two-body equation with Coulomb coupling; Heisenberg 1926, Hylleraas 1929). The one reading the rules as written allow, each pattern walking on the other's ratio field as a property of the relations, is mean-field, and the helium ground state excludes it: E_Hartree = −77.9 eV against −79.0 eV measured, the 1.1 eV being a property of a two-electron amplitude. Interaction-made entanglement and the criterion for which contacts are engagements and which are routes wait on this.
 
 ## Status
 

@@ -1,6 +1,6 @@
 # The Commitment Ontology, in plain language.
 
-The ontology as it stands: It is a reconstruction of physics up to 1930 from two primitives. 
+The ontology as it stands: It is a reconstruction of gravity and one-particle quantum mechanics up to 1930 from two primitives. 
 
 The results documents are [`SPACE_AND_GRAVITY.md`](SPACE_AND_GRAVITY.md), [`MATTER.md`](MATTER.md) and [`NUCLEUS.md`](NUCLEUS.md).
 
