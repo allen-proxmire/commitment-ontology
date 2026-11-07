@@ -50,7 +50,7 @@ $$G=\frac{\delta\,c^{3}\,\ell^{2}}{4\pi\hbar P_{\max}}\qquad\Longleftrightarrow\
 
 **The weak field.** The same h slows ticks (factor 1 − U + U²/2 …) and lengthens routes (factor e^{U}), giving the isotropic weak-field metric with γ = 1 and β = 1: light bending 4GM/(c²b), the Shapiro delay, and Mercury's precession at the measured value. These are standard weak-field gravity, reached from the primitives.
 
-**Gravitational waves and the exterior.** A single scalar field radiates one sixth of GR's quadrupole power and as a breathing mode; both are excluded (Hulse–Taylor, LIGO–Virgo polarization). So relations must carry an occupancy (a length) that can be out of step with its ends. With sliding costing nothing and no higher derivatives (assumed; a reading that would derive second order from mismatch as a count was tried and refuted, see the record), Lovelock's theorem fixes the cost of mismatch to
+**Gravitational waves and the exterior.** A single scalar field radiates one sixth of GR's quadrupole power and as a breathing mode; both are excluded (Hulse–Taylor, LIGO–Virgo polarization). So relations must carry an occupancy (a length) that can be out of step with its ends. With sliding costing nothing and no higher derivatives (assumed), Lovelock's theorem fixes the cost of mismatch to
 
 $$S=\frac{1}{16\pi G}\int (R-2\Lambda)\sqrt{-g}\,d^4x,$$
 
@@ -76,4 +76,4 @@ The values of δ, P_max and Λ; the radiation era; the mechanism behind the firs
 
 ## Status
 
-Reconstruction: the sector reproduces standard gravity up to 1930 and GR's exterior and waves from the primitives and the rules above, with Lovelock's theorem doing the work for waves. It makes no prediction that differs from GR. References: Yilmaz (exponential metric, considered and withdrawn), Tegmark (1997), Trugenberger (2017–19), Lovelock (1971), Regge (1961).
+Reconstruction: the sector reproduces standard gravity up to 1930 and GR's exterior and waves from the primitives and the rules above, with Lovelock's theorem doing the work for waves. It makes no prediction that differs from GR. References: Yilmaz (exponential metric; not a solution of the forced dynamics), Tegmark (1997), Trugenberger (2017–19), Lovelock (1971), Regge (1961).

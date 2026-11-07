@@ -242,3 +242,15 @@ After the now ruling, "one commitment increments the count at both ends" cannot 
 **Candidate position.** Both, by vantage: from outside, any other commitment sees two point events, unordered, with a covariant joint law (A); from inside, the pattern's own ledger records one tick (B). Consistent with the now ruling because the pattern's count is its own bookkeeping, not a statement about other patterns' commitments.
 
 **Open: measurement, the interacting case.** The resolver is another pattern with its own count; the two ledgers must agree on one event. Open for every relativistic collapse theory. CO's one sentence toward it: a commitment resolves exactly what it engages, so the count that ticks is the one whose stock was resolved. Whether that settles whose tick or only names the problem is the question; not pursued.
+
+## 2026-11-07 — mined from the author's earlier program: knots, braids, mass
+
+Looked for knots and mass in the earlier corpus and the archived CO 1.0 note. Findings, with their caveats, for ideas only:
+
+- **Nothing there relates knot size or type to mass.** The earlier program's own card says so in those words; a knot's top speed scaling as 1/N was flagged there as a resemblance to "heavier is slower," not the relativistic relation. Not a lead.
+- **"A particle is a moving pattern" (author's ruling in that program, 2026-10-03):** it is wherever its pattern of commitments is, and moves as a wave does, the places staying put. Same content as today's reading that a pattern never commits at the same place twice. Already CO's.
+- **CO 1.0's braid note:** particles as closed braids of three renewing commitment chains (Bilson-Thompson 2005's helon model is the prior art: charge as twist), with Koide's relation read off a three-strand renewal operator, and an argument that three is the only strand number where the braid group is non-abelian with no two generators commuting (B₂ is abelian; B₃ the least that is not). Caveat that decides it: braid structure belongs to exchange in two spatial dimensions; in three, the configuration-space fundamental group is the permutation group and braids collapse (the earlier program's own anyon-prohibition paper, Leinaas–Myrheim). So a braid-based three would need the strands to live in an internal two-dimensional space, which is a posit of exactly the kind the wall names. Noted, not reopened.
+- **Moiré in light (Nature Light Sci. Appl., 2026, "freespace twistronics"):** two structured beams overlaid at an angle produce polarization knots neither has, including topologies not seen elsewhere. The sharper form of the author's moiré question is therefore "can two abelian things turned against each other produce a knot," not "a three." Noted only.
+- **The ground under matter:** relations persist only while possibility passes through them, and a pattern never commits at the same place twice, so the relations under a massive pattern are made and unmade at its renewal rate. Whether that is the pooling rule in other words or a sentence of its own is unread; the pairing rule and the renewal rule are the two to read together.
+
+All noted; nothing entered as candidate.
