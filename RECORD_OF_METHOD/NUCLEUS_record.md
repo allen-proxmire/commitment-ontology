@@ -181,3 +181,15 @@ First reading needed: does "sliding costs nothing" let channels be distinguishab
 Aside: record on a relation. If a renewal retained its share on the relation crossed rather than at the place, record would be a position-dependent, accumulating link quantity; but a count, so abelian. A second ratio-like field at most; not a matching.
 
 Grade: shape.
+
+## 2026-11-06 — channels: the sliding reading, and what the existing rulings already give
+
+**Sliding.** Relabelling places costs nothing and there is no backdrop. Relabelling the channels between two places is the same kind of act: free. It does not erase how many there are; the count is combinatorial, invariant under relabelling. So sliding leaves k intact and makes the channel labels a convention: that is the gauge redundancy, and it comes out right.
+
+**The matching is already a ruling.** "A quantum's first passage through a place pairs the relation it came by with the one it leaves by, and transit keeps to its pairs" (the lattice-formation rule). With k channels on each link, a place's pairing of incoming to outgoing channels is a matching; with the amplitude rule (transit draws by frequency and can split), the matching is a k × k unitary on the link. Around a loop the matchings compose, and for k ≥ 2 the unitaries do not commute. So the link matrix is not a new object: it is the pairing rule applied to parallel relations. On a relation, position-dependent, non-commuting: three clauses from existing rulings, given k > 1.
+
+**The count.** k = 1 gives a single phase per link, charge's field; k = 2 and k = 3 give U(2) and U(3) by uniqueness (the author's earlier program's result; standard; the determinant phases are the extra U(1)s already flagged). Nothing here selects k. The lattice-formation runs (R4, R5) cannot speak to it: both start from a simple graph, every pair related once, so parallel relations were excluded by construction, not by the rules. Whether a place's quanta feed several relations to the same neighbour, and how many, is an unasked question of the formation model, and it is where k would be set if it is set at all (capacity P_max, δ).
+
+**Grade.** Channels: shape with three of four clauses met by existing rulings; the fourth (k) is an open computation on the formation model, not a silence of the primitives. First time the count sits in a model CO owns rather than in a label. Prior: the earlier program posited the multiplicity; here it would be computed or not.
+
+**Next.** A formation run that allows parallel relations (multigraph), with the pairing rule, and reads off the distribution of k per link as a function of quanta per place. Outcome unknown; would change a ruling (whether k is set by the rules). To be registered if pursued.
