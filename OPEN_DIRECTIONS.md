@@ -6,7 +6,7 @@ What is open, graded as elsewhere (candidate: before a ruling; shape: a form wit
 
 - **Second-order field equations.** Assumed (a Lovelock hypothesis). Neither counting nor scalelessness supplies it; a scale-free cost favours R² as readily as R. What it would take: an integer-valued functional of commitments whose continuum limit is Regge's action.
 - **The radiation era.** Not derived; pressure drawing is not in the rules.
-- **The now.** Candidate: what has committed, for a commitment, is its past light cone (relativity's own point-relative becoming; time orientation from record-only-grows). CO adds nothing here and owes nothing.
+- **The now.** Ruled: what has committed, for a commitment, is its past light cone (relativity's own point-relative becoming; time orientation from record-only-grows). CO adds nothing here and owes nothing. Listed only so the two-place case under Entanglement is read against it.
 
 ## Matter
 

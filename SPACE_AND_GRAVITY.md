@@ -33,6 +33,7 @@ Added principles: the substrate is scaleless; sliding or relabelling places cost
 | clock | renewal rate = (m/ħ)(1 − h) |
 | gravity | on each relation, net transit runs toward the end that engages more; a place's h is the engaged share its relations have delivered. A link rule, needing no simultaneity. Patterns fall by refraction on the clock-rate field |
 | mismatch | relations can be out of step with their ends; the cost depends only on how they fit together (sliding costs nothing) |
+| now | what has committed, for a commitment, is its past light cone; spacelike events are not ordered with respect to it. Relativity's own point-relative becoming, with the time orientation supplied by record only growing; nothing added |
 
 ## Results
 
