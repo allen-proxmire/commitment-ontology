@@ -225,3 +225,7 @@ Entered in `NUCLEUS.md`: the e⁺e⁻ ratio and π⁰ → γγ measure three car
 **The third primitive, final form.** *Possibility in transit carries a complex triplet.* Admissible under the amplitude rule, unselected by it, and the single posit from which the nucleus follows at the standard price. This is where six closed routes converge: each tried to find the triplet inside something CO already had (a place, a line, a tile, a copy, a channel), and the reading shows it can only be a factor of the internal state, which the rules leave open. By the bar in `NUCLEUS.md` it is not earned (cascades only to the hadron spectrum). By the method it is stated, costed, and left.
 
 **Where that leaves the thesis line.** Two primitives to 1930, with the nucleus requiring one admissible, unselected addition to what transit carries. Unchanged in substance; sharper in statement.
+
+## 2026-11-06 — the triplet entered as candidate ruling
+
+Entered in `NUCLEUS.md` with its four ways to fail. The author's check, recorded: at three tiles a ruling would have been at the wrong level (a composite) and was shown wrong on reading; this one is the output of elimination (relation: formation removes it; place: real inside gives SO(3); transit: the only slot, and the amplitude rule is silent there), not of a nudge. Correctness beyond that is owed to a cold reading with the brief: same standing as CO's electromagnetism, or worse.

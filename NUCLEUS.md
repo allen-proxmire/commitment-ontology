@@ -49,6 +49,16 @@ The count is measured, not free: the e⁺e⁻ → hadrons ratio (proportional to
 
 *Candidate reading, the gluon column.* In CO a comparison between places is carried by possibility in transit, a pattern. A comparison of charge is carried by a pattern with no sign (the photon), so comparisons of it are not comparisons of charge: abelian. A comparison of a three-way matching would be carried by a pattern whose internal state is a pair of matching-labels; such a carrier carries the thing it compares, so the field acts on itself: the adjoint. Self-coupling is then not a second posit beyond the three; it follows from carriers being patterns. (The standard fact: a non-abelian gauge field is in the adjoint because the charge is a matrix.) What this does not do is supply the three.
 
+## The triplet (candidate ruling)
+
+*Candidate.* Added where the primitives are silent (how many amplitudes a transit carries) on a named contradiction (the proton), after six routes from the inventory were closed and the reading above located the one admissible slot.
+
+**Ruling.** Possibility in transit carries three complex amplitudes, indistinguishable under every other rule; relabelling them is a slide. The three is an input, measured (the e⁺e⁻ → hadrons ratio; π⁰ → γγ), taking a seat the way 1/137 and the hop length do.
+
+**Gives, by uniqueness.** A unitary matching on relations, U(3); the comparison carried by patterns that carry the matching, so the field acts on itself (the gluon column, by reading); confinement's shape from a held, non-sliding kinship; and the proton contradiction resolved. The nucleus is then what the electromagnetic sector is: a reconstruction at the standard price, the input named.
+
+**Costs and how it could fail.** (1) The count, as 1/137 costs its value. (2) U(3) carries one more phase than SU(3); with charge's U(1) and the four this is the extra-U(1) loose end already flagged, and the ruling inherits it. (3) Self-coupling is a reading, not a computation; asymptotic freedom and the running coupling have not been obtained on CO's lattice. (4) A reader may say this is "quarks carry colour" in CO's words; it is, and its defence is only that it stands exactly where "charge is a carried sign, 1/137 an input" stands. If that defence fails on cold reading, this returns to shape and the wall above is the sector's last word.
+
 ## Three kinds of wall
 
 The walls around the nucleus are not all the same kind, and only one kind can be got round.
