@@ -347,3 +347,7 @@ The second and third describe the same contact and give opposite answers. If eve
 - *"A property of place"* for the ratio → a property of the relation (MATTER.md puts it on relations).
 
 **Standing.** Candidate finding. Entered: MATTER.md Open gains the two-pattern problem; OPEN_DIRECTIONS gains it under Matter and the Entanglement open clause points to it; NUCLEUS.md Bell clause likewise; the four "to 1930" sentences scoped; the 11-05 scattering reading struck with reason.
+
+## 2026-11-07 — entanglement wording made single: two events, one stock
+
+The Bell paragraphs in `NUCLEUS.md` and the plain doc said two things that cannot both stand: "two separate events, each finding the pair's possibility given its own past" and "one event increments the count at both ends." The second was reading B, withdrawn earlier today (no past cone of its own; no content beyond "one stock has one cut"), and left standing in the prose. Struck; the paragraphs now say: one stock, cut once; each end's commitment its own event, finding the stock as it stands in its own past cone. "A pattern sampled twice" survives as a description of the stock, not of the event. This is also what the no-signalling of the semiclassical back-action rests on (gravity record, same day): the local source stays the unconditioned marginal until the far event is in the local past cone. Falsifier wording in `SPACE_AND_GRAVITY.md` set as the author asked: if two masses become entangled through gravity alone, CO is wrong, not downgraded.
