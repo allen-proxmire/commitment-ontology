@@ -193,3 +193,7 @@ Grade: shape.
 **Grade.** Channels: shape with three of four clauses met by existing rulings; the fourth (k) is an open computation on the formation model, not a silence of the primitives. First time the count sits in a model CO owns rather than in a label. Prior: the earlier program posited the multiplicity; here it would be computed or not.
 
 **Next.** A formation run that allows parallel relations (multigraph), with the pairing rule, and reads off the distribution of k per link as a function of quanta per place. Outcome unknown; would change a ruling (whether k is set by the rules). To be registered if pursued.
+
+## 2026-11-06 — R12: channels do not survive formation. Excluded.
+
+Registered (`NUCLEUS_runs/R12_channels/`), unknown outcome. Four channels per pair at the start, thinning and pairing per channel: at q = 6, 8, 12 the surviving multiplicity is 1 on more than 99% of pairs, none with three; m₀ = 1 reproduces R5-B. The pairing rule locks each quantum to one channel, and thinning removes the rest. The channel shape is excluded as the source of the link matching in CO's formation model; k is not supplied and is actively driven to one. Changing the formation rule would be a new ruling, and the pairing rule is load-bearing (lines, R5; locality, R7). The wall stands as stated.

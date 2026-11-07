@@ -1,0 +1,65 @@
+{
+ "q6_m01": {
+  "pairs": 326,
+  "mean_k": 1.0,
+  "frac_k_ge2": 0.0,
+  "frac_k_ge3": 0.0,
+  "k_hist": {
+   "1": 326
+  },
+  "mean_distinct_neighbours": 3.104761904761905
+ },
+ "q6_m04": {
+  "pairs": 176,
+  "mean_k": 1.0056818181818181,
+  "frac_k_ge2": 0.005681818181818182,
+  "frac_k_ge3": 0.0,
+  "k_hist": {
+   "1": 175,
+   "2": 1
+  },
+  "mean_distinct_neighbours": 2.4444444444444446
+ },
+ "q8_m01": {
+  "pairs": 359,
+  "mean_k": 1.0,
+  "frac_k_ge2": 0.0,
+  "frac_k_ge3": 0.0,
+  "k_hist": {
+   "1": 359
+  },
+  "mean_distinct_neighbours": 3.2636363636363637
+ },
+ "q8_m04": {
+  "pairs": 359,
+  "mean_k": 1.0055710306406684,
+  "frac_k_ge2": 0.005571030640668524,
+  "frac_k_ge3": 0.0,
+  "k_hist": {
+   "1": 357,
+   "2": 2
+  },
+  "mean_distinct_neighbours": 3.3551401869158877
+ },
+ "q12_m01": {
+  "pairs": 343,
+  "mean_k": 1.0,
+  "frac_k_ge2": 0.0,
+  "frac_k_ge3": 0.0,
+  "k_hist": {
+   "1": 343
+  },
+  "mean_distinct_neighbours": 3.251184834123223
+ },
+ "q12_m04": {
+  "pairs": 472,
+  "mean_k": 1.0042372881355932,
+  "frac_k_ge2": 0.00423728813559322,
+  "frac_k_ge3": 0.0,
+  "k_hist": {
+   "1": 470,
+   "2": 2
+  },
+  "mean_distinct_neighbours": 3.853061224489796
+ }
+}
