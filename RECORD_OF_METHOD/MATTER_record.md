@@ -330,3 +330,17 @@ So the question in its smallest form is the one the 11-06 entry already had: **w
 On runs: no run picks the sign, but "decides nothing" overstated it. By the Born identification, two patterns of one kind at one place give p = 0 (exclude), p₁ + p₂ (distinguishable) or more than p₁ + p₂ (merge); a two-walker simulation with the sign put in by hand displays that consequence, and nature has measured which for He-3 and He-4. It is the test bed for whatever rule is added, not a derivation of it.
 
 **Standing.** Silence, located: the sign on exchange. P8 itself is not in question. The OPEN_DIRECTIONS sentence is entered in this corrected form.
+
+## 2026-11-07 — are renewals a steady clock or random in time? Read against the rules. Silence.
+
+**The question.** C2 gives a renewal *rate*, (m/ħ)(1 − h). A rate is consistent with two different sequences of events along a pattern's worldline: a fixed interval between renewals (a clock; count N = ωt exactly; Fano factor 0), or a memoryless chance per hop (a Poisson process; N with mean ωt and spread √(ωt); Fano factor 1). The 11-07 statistics reading had assumed the first and was corrected: the phase is the amplitude's, not the count's.
+
+**What the rules say.** C1's wording ("on completing, engages … into its next commitment") and C5's ("where it is in its cycle") lean to a fixed cycle. The Born identification ("the chance of a commitment at a place is the possibility there") makes the *place* of a commitment a chance and says nothing about its timing. No rule fixes the interval. Silence.
+
+**Two different objects, kept apart.** The phase θ = mc²τ/ħ is coherent: it is what the unitary walk carries and what interference reads (zitterbewegung, the de Broglie clock). The count N is the number of irreversible renewals. If N *set* θ and N were Poisson, the phase would diffuse at the Compton rate and no electron would interfere; so whatever N's statistics are, θ is not read off N. The two can be a clock and a counter of the same cycle, or a clock and a counter that only agree on average.
+
+**What depends on it.** Nothing in the results. The Dirac derivation uses the walk, not the count. Gravity's source σ and the retained record use the mean rate; for the fringe bound, (1 − δ)^N with N fixed and E[(1 − δ)^N] = e^{−δωt} with N Poisson agree to first order in δ. The sprinkling route was closed by the vacuum ruling, not by this.
+
+**What would decide it.** The spread of a single pattern's proper-time count: ΔN/N = 0 or 1/√N. For one electron over a second, N ≈ 10²⁰ and 1/√N ≈ 10⁻¹⁰; a macroscopic clock averages ~10²³ patterns and the spread falls to ~10⁻²¹, below any clock. Not reachable; noted as the observable.
+
+**Grade.** Silence, located, with nothing yet resting on it. Record only; no results document changes.
