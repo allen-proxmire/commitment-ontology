@@ -2,7 +2,7 @@
 
 Time is a count of irreversible events. Everything else is what follows when that is taken seriously. **A reconstruction of physics up to 1930 from two primitives.**
 
-GR has no now; QM has no event. CO takes both as primitives: commitment and possibility. It must then say how there can be a now without a preferred frame, and how there can be events without spoiling interference. Each has a candidate answer: a commitment's now is its past light cone, as relativity itself orders events; and a commitment resolves exactly the possibility it engages.
+GR has no global now; QM has no event. CO takes both as primitives: commitment and possibility. It must then say how there can be a now without a preferred frame, and how there can be events without spoiling interference. The first it answers as relativity does: a commitment's now is its past light cone, point-relative, nothing added. The second has a candidate for a single pattern (a commitment resolves exactly the possibility it engages) and an unresolved cost for an entangled pair.
 
 **[`CO_plain_language.md`](CO_plain_language.md)** is the theory as it stands, for anyone. The three subject documents below report what stands, results only. **[`OPEN_DIRECTIONS.md`](OPEN_DIRECTIONS.md)** lists what is open and what each would take. **[`RECORD_OF_METHOD/`](RECORD_OF_METHOD/)** holds the working records: every route tried, every withdrawal with its reason, and the runs.
 
