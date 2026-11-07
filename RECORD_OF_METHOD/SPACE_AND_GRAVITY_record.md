@@ -287,3 +287,9 @@ $$P_\infty=\frac{P_{\text{free,total}}}{N},\qquad \frac{dN}{dt}=N\,r_b,\qquad H=
 **Shape: churn.** Relations persist only while possibility passes through them; a renewing pattern never uses the same stock twice, so it feeds the relations at its place at its renewal rate, and a place keeps as many relations as its quanta can feed (R4). Near matter more relations survive per place. The weak-field metric has two halves with one h: clock (1 − h), from the engaged share, and route (1 + h), a stretching of space obtained from ratio hopping. Churn offers a second account of the route half: more relations kept per place is more space per place, set by the same renewals that set the engaged share. If so, the two halves are one count seen two ways (engaged; fed), a reason for the equality behind γ = 1 rather than a result. Shape only; the week's pullbacks were this kind of inference.
 
 **Check that would decide it (not run).** A renewing pattern in the R5 formation model; relation density per place versus distance and versus the pattern's renewal rate. Candidate if density tracks h and falls off as h does; otherwise the pooling rule in other words.
+
+## 2026-11-07 — R13: churn. Excluded.
+
+Registered, unknown outcome. A renewing pattern of M quanta at one place in the R5-B model keeps ~M/2 relations alive at its own place and changes nothing one or more steps away (seeds averaged; M = 0 reproduces background 2.8). A contact effect: the pooling rule in relations, not a stretching of space. "Two halves, one count" excluded in this model; the route half stays with ratio hopping. The author's hunch that ħ-as-memory bears on the nucleus is noted below.
+
+**Noted (author):** record, as memory in units of ħ, may bear on the nucleus; no reason given yet. Kept as a note beside the ħ-as-memory line above.

@@ -1,0 +1,90 @@
+{
+ "M0": {
+  "total_relations": 197,
+  "deg_by_distance": {
+   "0": {
+    "n_places": 1,
+    "mean_degree": 0.0
+   },
+   "1": {
+    "n_places": 0,
+    "mean_degree": null
+   },
+   "2": {
+    "n_places": 0,
+    "mean_degree": null
+   },
+   "3": {
+    "n_places": 0,
+    "mean_degree": null
+   }
+  },
+  "mean_degree_all_alive": 2.736111111111111
+ },
+ "M6": {
+  "total_relations": 180,
+  "deg_by_distance": {
+   "0": {
+    "n_places": 1,
+    "mean_degree": 2.0
+   },
+   "1": {
+    "n_places": 2,
+    "mean_degree": 4.0
+   },
+   "2": {
+    "n_places": 6,
+    "mean_degree": 2.3333333333333335
+   },
+   "3": {
+    "n_places": 8,
+    "mean_degree": 3.5
+   }
+  },
+  "mean_degree_all_alive": 2.5174825174825175
+ },
+ "M24": {
+  "total_relations": 295,
+  "deg_by_distance": {
+   "0": {
+    "n_places": 1,
+    "mean_degree": 13.0
+   },
+   "1": {
+    "n_places": 13,
+    "mean_degree": 3.6153846153846154
+   },
+   "2": {
+    "n_places": 30,
+    "mean_degree": 3.966666666666667
+   },
+   "3": {
+    "n_places": 61,
+    "mean_degree": 3.5081967213114753
+   }
+  },
+  "mean_degree_all_alive": 3.2596685082872927
+ },
+ "M96": {
+  "total_relations": 209,
+  "deg_by_distance": {
+   "0": {
+    "n_places": 1,
+    "mean_degree": 42.0
+   },
+   "1": {
+    "n_places": 42,
+    "mean_degree": 2.119047619047619
+   },
+   "2": {
+    "n_places": 33,
+    "mean_degree": 3.0606060606060606
+   },
+   "3": {
+    "n_places": 34,
+    "mean_degree": 2.7058823529411766
+   }
+  },
+  "mean_degree_all_alive": 2.75
+ }
+}
