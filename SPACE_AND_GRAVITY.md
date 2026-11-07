@@ -29,7 +29,7 @@ Added principles: the substrate is scaleless; sliding or relabelling places cost
 |---|---|
 | ratio hopping | the substrate is scaleless, so a hop compares neighbours by ratio, never by difference: the field is linear in ln P |
 | capacity | a place holds at most P_max free possibility; over capacity it commits. The vacuum today is under capacity |
-| hold-and-release | a renewal engages, completes, releases; nothing is consumed. P_free = P(1 − h), h the fraction engaged |
+| hold-and-release | a renewal engages, completes, releases, less the share kept as record; nothing is destroyed. P_free = P(1 − h), h the fraction engaged |
 | clock | renewal rate = (m/ħ)(1 − h) |
 | gravity | on each relation, net transit runs toward the end that engages more; a place's h is the engaged share its relations have delivered. A link rule, needing no simultaneity. Patterns fall by refraction on the clock-rate field |
 | mismatch | relations can be out of step with their ends; the cost depends only on how they fit together (sliding costs nothing) |
