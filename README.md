@@ -6,11 +6,11 @@ GR has no global now; QM has no event. CO takes both as primitives: commitment a
 
 **[`CO_plain_language.md`](CO_plain_language.md)** is the theory as it stands, for anyone. The three subject documents below report what stands, results only. **[`OPEN_DIRECTIONS.md`](OPEN_DIRECTIONS.md)** lists what is open and what each would take. **[`RECORD_OF_METHOD/`](RECORD_OF_METHOD/)** holds the working records: every route tried, every withdrawal with its reason, and the runs.
 
-**[`SPACE_AND_GRAVITY.md`](SPACE_AND_GRAVITY.md).** From possibility and commitment, with two constants of their own: standard weak-field gravity and the four classical tests; GR's exterior and tensor waves, with Lovelock's theorem doing the work; three dimensions as a consistency condition of the rules; inflation with its own exit and the matter era. The radiation era is not derived, and there is no prediction that differs from GR.
+**[`SPACE_AND_GRAVITY.md`](SPACE_AND_GRAVITY.md).** From possibility and commitment, with three constants of their own: standard weak-field gravity and the four classical tests; GR's exterior and tensor waves, with Lovelock's theorem doing the work; three dimensions as a consistency condition of the rules; inflation with its own exit and the matter era. The radiation era is not derived, and there is no prediction that differs from GR.
 
-**[`MATTER.md`](MATTER.md).** With one addition, that commitments happen at a rate: the amplitude rule given its premises, a four-component internal state (Meyer, Clifford), mass as the rate of commitments, and Dirac's equation with spin ½ by identification with a known construction. Charge is a carried sign; its strength, 1/137, is an input.
+**[`MATTER.md`](MATTER.md).** With one addition, that commitments happen at a rate: the amplitude rule given its premises, a four-component internal state (Meyer, Clifford), mass as the rate of commitments, and Dirac's equation with spin ½ by identification with a known construction. Charge is a carried sign (candidate); its strength, 1/137, is an input.
 
-**[`NUCLEUS.md`](NUCLEUS.md).** The internal state carries charge and no other symmetry; the three lines of space are not colour. Two candidates, costs stated: the proton as three tiles bound by kinship, and entanglement as one pattern sampled twice. The masses, 1/137 and the count three each need something not in the inventory; CO stops at the nucleus.
+**[`NUCLEUS.md`](NUCLEUS.md).** The internal state carries charge and no other symmetry; the three lines of space are not colour. One shape and one candidate, costs stated: the proton as three tiles bound by kinship (shape), and entanglement as one pattern sampled twice (candidate). The masses, 1/137 and the count three each need something not in the inventory; CO stops at the nucleus.
 
 Independent, speculative, not peer-reviewed. 
 
