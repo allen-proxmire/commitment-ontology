@@ -293,3 +293,7 @@ $$P_\infty=\frac{P_{\text{free,total}}}{N},\qquad \frac{dN}{dt}=N\,r_b,\qquad H=
 Registered, unknown outcome. A renewing pattern of M quanta at one place in the R5-B model keeps ~M/2 relations alive at its own place and changes nothing one or more steps away (seeds averaged; M = 0 reproduces background 2.8). A contact effect: the pooling rule in relations, not a stretching of space. "Two halves, one count" excluded in this model; the route half stays with ratio hopping. The author's hunch that ħ-as-memory bears on the nucleus is noted below.
 
 **Noted (author):** record, as memory in units of ħ, may bear on the nucleus; no reason given yet. Kept as a note beside the ħ-as-memory line above.
+
+## 2026-11-07 — the clock field slaved to the occupancies: met by the rules
+
+Reading. h is defined as the fraction engaged, P_free = P(1 − h), and is set, by the gravity rule as reworded, by the engaged share a place's relations have delivered: a functional of matter present and of transit on relations. No rule gives h a dynamics of its own. The two ways it could acquire one are both excluded on the books: a wave in the free stock (R1, excluded) and a scalar radiating mode (the wave test: 1/6 quadrupole and breathing polarisation, excluded by Hulse–Taylor and LIGO–Virgo). So the Lovelock hypothesis "occupancies the only dynamical field" is met rather than assumed. Grade: needed (by reading against existing exclusions; no new rule). Entered in `SPACE_AND_GRAVITY.md` and the plain doc; removed from `OPEN_DIRECTIONS.md`.
