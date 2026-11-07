@@ -12,7 +12,7 @@ A word on what kind of thing this is: an ontology, with standard mathematics use
 
 Time is a count of things that have happened. Not a river, not a dimension: a count. Something happens, and it cannot be undone. That is one tick. Matter is something that keeps happening, and is ticking. Where nothing happens, there is no time. Start from this and ask what physics has to look like. That is the premise of the Commitment Ontology (CO).
 
-GR has no now; QM has no event. CO takes both as primitives: commitment and possibility. It must then say how there can be a now without a preferred frame, and how there can be events without spoiling interference. The second question has a candidate answer in this document; the first does not.
+GR has no now; QM has no event. CO takes both as primitives: commitment and possibility. It must then say how there can be a now without a preferred frame, and how there can be events without spoiling interference. Both questions have candidate answers in this document: the first, that what has committed for a commitment is its past light cone, the only ordering relativity allows (Stein 1991), so there is no universal edge to find; the second, that a commitment resolves exactly what it engages.
 
 ![How CO was built: observe, deduce, rule, recover](method_arrow.svg)
 
