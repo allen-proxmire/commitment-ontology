@@ -21,7 +21,7 @@ GR has no global now; QM has no event. CO takes both as primitives: commitment a
 ## Two things exist. The two primitives. 
 
 **Possibility** is the stuff of the universe. There is a fixed amount of it, it sits at places, and it moves between places that are related. It is conserved: never made, never destroyed.
-- Ruling P1, *scaleless:* the substrate has no scale of its own, so a hop compares neighbouring places only by ratio, never by difference. The field is linear in ln P.
+- Ruling P1, *scaleless:* the substrate has no scale of its own, so a hop compares neighbouring places only by ratio, never by difference. The field is linear in ln P. P is an amount, |a|² where possibility has an amplitude a; the rule acts on amounts and says nothing about phase.
 - Ruling P2, *capacity:* a place holds at most P_max of free possibility. Over capacity, it commits. The vacuum today is under capacity.
 - Ruling P3, *hold-and-release:* possibility engaged by a commitment is released when it completes, less the share C3 keeps as record; nothing is destroyed. Free possibility at a place is P_free = P(1 − h), h the fraction engaged.
 - Ruling P4, *toward engagement:* on each relation, the net flow of possibility runs toward the end that is engaging more. A place's h is what its relations have delivered to it. This is a rule about one link and its two ends; it needs no "at the same time."

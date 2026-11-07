@@ -372,3 +372,7 @@ BD has a₁ of order one and ℓ = ℓ_P. CO's hop is 10¹⁶ ℓ_P, so its coun
 - *OPEN_DIRECTIONS wording corrected.* "Scale-free cost on relations linear in the deficit" was wrong: Regge's Σ A_h ε_h/(8πG) has an area and a stiffness, and a genuinely scale-free count favours R² (Hamber–Williams). Entered as: a cost on relations, linear in the deficit angle and weighted by hinge area (Regge's form), with the reasons for linearity and for the weight 1/G not yet in the rules.
 
 **Standing.** Excluded (by the Vacuum ruling): the gravitational action, vacuum part included, as a count of commitments. Unread: the timing statistics of renewals along a worldline. Second order stays assumed.
+
+## 2026-11-07 — P1 made explicit: ratio hopping acts on amounts
+
+The matter record's vacuum-spread reading asked whether a law written in ln P can act on a quantum state. The author's answer, entered as a sentence in P1 and in the gravity table rather than left as an assumption: P is an amount, |a|² where possibility has an amplitude a; the rule acts on amounts and says nothing about phase. No content changed; an assumption that every derivation already made is now a sentence. Whether a slaved quantum stock can carry a mode at all is the open gravity reading handed to the next session.
