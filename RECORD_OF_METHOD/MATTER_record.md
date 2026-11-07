@@ -303,3 +303,30 @@ Registered (`MATTER_runs/S1_signless_walk/`), unknown outcome. Result: the Major
 **Cost.** No symmetric branch exists where the band meets ±π; the ruling fails there, which is the doubler sector, already open. No new hole.
 
 **Grade.** Ruled; a ruling, not a primitive: added where the primitives are silent, retires one thing, rests on an operation already in the inventory; does not cascade.
+
+## 2026-11-07 — statistics: the silence located
+
+The week's three attempts (above) each tried to reach the answer, exclusion, and each turned out to be Pauli's argument with the inputs borrowed. This entry does not try for the answer. It asks where the rules stop.
+
+**The one rule for two arrivals.** P8, *meeting*: when two routes bring possibility to one place, the amounts combine as
+
+$$p=\bigl|\sqrt{p_1}\,e^{i\theta_1}+\sqrt{p_2}\,e^{i\theta_2}\bigr|^2 .$$
+
+As written, and as derived (conservation, scalelessness, associativity), P8 is about two *routes of one pattern*. The matter sector has no statement about two *patterns*. That is the silence, and it can be put as one question:
+
+**Does the meeting rule apply across patterns of one kind, or only across routes of one pattern?**
+
+- *If it applies across patterns*, then two patterns of one kind arriving at one place add amplitudes with the plus sign P8 carries, and every kind of pattern merges. That is the behaviour of light and of cold helium-4, and it is wrong for electrons unless the four-component internal state supplies a sign change when two patterns are exchanged. That sign is what the three attempts failed to derive from the rules; it would have to be posited, and positing it is the content of Pauli's theorem.
+- *If it does not apply*, the rules say nothing about two patterns at one place, and a rule must be added. The method permits one only where the primitives are silent (they are) and only if it retires something (it would retire "statistics open"). Whatever is added would be the spin–statistics connection itself, as an input.
+
+**What this is and is not.** It is not a derivation; neither branch is reached from the primitives. It is the question in its smallest form: the open item "what two patterns do on one stock" is the question whether P8 crosses patterns, and if it does, what fixes the sign under exchange. No run bears on it: a two-walker simulation with symmetrised or antisymmetrised amplitudes is consistent either way and decides nothing; it is a rule choice.
+
+**Grade.** Silence, located. Enters `OPEN_DIRECTIONS.md` as one sentence after a cold reading.
+
+**Cold reading, same day; the location above is wrong, corrected here.** "Does P8 cross patterns" is not the statistics question, and the branch labelled merging is not merging. P8 is the rule for adding routes to one configuration, and it is used on *both* sides of the statistics question: fermion amplitudes add linearly exactly as boson amplitudes do (a Slater determinant is a sum of products). For two patterns of one kind the configurations are unordered pairs of places (the "one pattern" ruling makes them identical), and the two routes to the configuration {x, y} are the direct and the exchanged. P8 adds them; it leaves their relative phase, like every Δθ, to be supplied. In three dimensions that phase is a sign (Leinaas–Myrheim 1977). With + the two may share a state (light, cold helium-4; though two-amplitude constructive interference at a place is not itself condensation, which is a many-body statement); with −, the amplitude for both at one place in one internal state vanishes: exclusion. The plus sign P8 carries is between routes and says nothing about exchange. "P8 not applying across patterns" is not a statistics branch; it is the distinguishable case, p = p₁ + p₂, which P8's own conservation premise (unrelated phases average out) already covers.
+
+So the question in its smallest form is the one the 11-06 entry already had: **what fixes the relative sign of the direct and the exchanged route when two patterns of one kind meet?** The 11-06 reading showed that tying the sign to the four (Berry–Robbins) is a choice, not a consequence. A rule fixing the sign must be added; the method permits it (the primitives are silent; it retires "statistics open"). In relativistic field theory Pauli's theorem *derives* the sign from positive energy, positive norm and locality (the entry above had this reversed); on this lattice there is no such theorem, so the added rule would be the spin–statistics connection as an input.
+
+On runs: no run picks the sign, but "decides nothing" overstated it. By the Born identification, two patterns of one kind at one place give p = 0 (exclude), p₁ + p₂ (distinguishable) or more than p₁ + p₂ (merge); a two-walker simulation with the sign put in by hand displays that consequence, and nature has measured which for He-3 and He-4. It is the test bed for whatever rule is added, not a derivation of it.
+
+**Standing.** Silence, located: the sign on exchange. P8 itself is not in question. The OPEN_DIRECTIONS sentence is entered in this corrected form.

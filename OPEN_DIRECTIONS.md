@@ -10,7 +10,7 @@ What is open, graded as elsewhere (candidate: before a ruling; shape: a form wit
 
 ## Matter
 
-- **Statistics.** Compatible with Fermi statistics, not forced: three of Pauli's four inputs are field theory's; the fourth (the branch) is fixed by the ruling that the generator is odd under C. Lattice field theory has no spin–statistics theorem. Must still split He-4 and Rb-87 (merge), He-3 and electrons (exclude), photons (merge).
+- **Statistics.** Compatible with Fermi statistics, not forced: three of Pauli's four inputs are field theory's; the fourth (the branch) is fixed by the ruling that the generator is odd under C. Lattice field theory has no spin–statistics theorem. Must still split He-4 and Rb-87 (merge), He-3 and electrons (exclude), photons (merge). The silence, located: two patterns of one kind live on unordered pairs of places, and P8 adds the direct and the exchanged route to one configuration with a relative sign it does not fix; what fixes that sign is what the rules do not say.
 - **Doublers.** Reduced to the Wilson form; the remaining copies are predicted charged particles at the hop scale, and their absence bounds the hop, ℓ ≲ 6 × 10⁻¹⁹ m. What it would take: a cancellation, or an account of the copies.
 - **Dark matter.** Shape: a pattern that commits but never measures (no sign, one tile, engaging only free stock). Permitted, not predicted; CO's gravity is GR's, so the invisible mass is needed for GR's reasons.
 - **The masses.** Silence. **1/137.** Input. **g = 2.** Conditional on the coupling.
