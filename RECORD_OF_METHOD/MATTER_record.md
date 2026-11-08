@@ -632,3 +632,9 @@ So C8's "the pattern whose transit it was is resolved" reads as: the engaged pat
 **Cold reading, same day; corrected before push.** "One stock, cut once" was wrong for progressive measurement (each atom reweights; no single cut resolves n); field ionisation is not a channel passage; widening C8 to "stock" would either make every engagement fix the world or reduce to a global update, the latter named as a cost; the driven-passages argument was invalid (commitment would occur downstream anyway, and a principled line exists); the collective-mode clause was not principled. Lüders conditioning is imported with the joint law, owed as the author's ruling.
 
 **Grade.** Candidate reading: QND as repeated conditioning of a joint amplitude, the conditioning rule imported (owed: the author's word on importing it). "Driven passages count": open, two lines stated. What a passage counts (quanta handed on vs patterns moved): open, quanta counting preferred on the resonator evidence. "A collective mode is one pattern": shape, not principled as stated.
+
+## 2026-11-08 — three rulings on the measurement shape (the author's, candidate)
+
+1. *The conditioning (Lüders) update is imported with the joint law:* a commitment fixes the engaged pattern's outcome; what shares a joint amplitude with it is conditioned on that outcome. The same import CO already makes for Bell, one step later.
+2. *Passages are counted as quanta handed on, not patterns moved.* A single-phonon swap into a 10¹³–10¹⁷-atom resonator is one passage; the collective-mode clause is withdrawn as unneeded.
+3. *A drive counts when it only steers between passages, not when it is a partner in each passage.* Photomultiplier, avalanche and gas-counter chains count; double-quantum NMR does not. Lower bound on N: ~10–10² (flip-flop polarisation echoes); amplifier-type driven reversals (spin-mixing, parametric gain) to be checked under this line.
