@@ -47,6 +47,8 @@ with, in hop units,
 
 $$G=\frac{\delta\,c^{3}\,\ell^{2}}{4\pi\hbar P_{\max}}\qquad\Longleftrightarrow\qquad \ell=\ell_P\sqrt{\frac{4\pi P_{\max}}{\delta}} .$$
 
+This is the weak-field form. On the network the occupancies make (g_ij = ψ⁴δ_ij), possibility conserved as a current carries the lapse weighting N, and ratio hopping gives ∂_i(ψ²∂_i N) = 0, GR's static vacuum equation for the lapse; with the cost's ψ and the sink's flux equal to the mass, the exterior is Schwarzschild (candidate; consistency with the cost, not a derivation of it). It agrees with the line above through U².
+
 **Free fall.** A matter wave of frequency mc²/ħ refracting on the clock-rate field has g = −c²∇h: Newton's acceleration, mass-independent.
 
 **The weak field.** The same h slows ticks (factor 1 − U + U²/2 …) and lengthens routes (factor e^{U}), giving the isotropic weak-field metric with γ = 1 and β = 1: light bending 4GM/(c²b), the Shapiro delay, and Mercury's precession at the measured value. These are standard weak-field gravity, reached from the primitives.
