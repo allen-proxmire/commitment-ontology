@@ -10,7 +10,7 @@ GR has no global now; QM has no event. CO takes both as primitives: commitment a
 
 **[`MATTER.md`](MATTER.md).** With one addition, that commitments happen at a rate: the amplitude rule given its premises, a four-component internal state (Meyer, Clifford), mass as the rate of commitments, and Dirac's equation with spin ½ by identification with a known construction. Charge is a carried sign (candidate); its strength, 1/137, is an input. Two patterns coupled coherently (the many-body equation) is not reached.
 
-**[`NUCLEUS.md`](NUCLEUS.md).** The internal state carries charge and no other symmetry; the three lines of space are not colour. One shape and one candidate, costs stated: the proton as three tiles bound by kinship (shape), and entanglement as one pattern sampled twice (candidate). The masses, 1/137 and the count three each need something not in the inventory; CO stops at the nucleus.
+**[`NUCLEUS.md`](NUCLEUS.md).** The internal state carries charge and no other symmetry; the three lines of space are not colour. One shape and one candidate, costs stated: the proton as three committing quarks bound by a colour field (shape), and entanglement as one pattern sampled twice (candidate). The masses, 1/137 and the count three each need something not in the inventory; CO stops at the nucleus.
 
 Independent, speculative, not peer-reviewed. 
 
