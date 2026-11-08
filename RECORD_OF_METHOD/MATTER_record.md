@@ -669,3 +669,7 @@ So C8's "the pattern whose transit it was is resolved" reads as: the engaged pat
 **Cold reading, same day; corrected.** The Mössbauer evidence showed stiffness, not order; recoil-free is zero passages, not one; most glass modes are not localised; the conclusion reversed the author's picture while claiming agreement.
 
 **Grade.** Shape: structure would set how fast a chain grows, under the ruled counting. The supporting physics is corrected (stiffness, anharmonicity and two-level systems, not order), and the direction is opposite to the author's picture, owed the author's ruling.
+
+## 2026-11-08 — the author's ruling on the web picture: size sets how many stray quanta reach it; stiffness keeps each chain short (shape)
+
+The author's picture, split, keeping the half the evidence and the ruled counting support. *A bigger web is a bigger target: more stray quanta reach it, each a separate chain, so it tips sooner. A stiffer web answers each quantum as one, keeping each chain short, so it holds out longer.* "A tighter web tips sooner" is let go: stiff, ordered materials (diamond in quantum sensing) hold coherence longer and glassy ones (two-level systems in qubit oxides) shorter, and under the counting a web that moves as one hands on one quantum. The author's diamond-and-coal difference survives in the opposite direction: diamond holds out longer. No new rule; N unchanged. Grade: shape, the author's.
