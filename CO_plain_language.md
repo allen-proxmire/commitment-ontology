@@ -25,7 +25,7 @@ GR has no global now; QM has no event. CO takes both as primitives: commitment a
 - Ruling P2, *capacity:* a place holds at most P_max of free possibility. Over capacity, it commits. The vacuum today is under capacity.
 - Ruling P3, *hold-and-release:* possibility engaged by a commitment is released when it completes, less the share C3 keeps as record; nothing is destroyed. Free possibility at a place is P_free = P(1 − h), h the fraction engaged.
 - Ruling P4, *toward engagement:* on each relation, the net flow of possibility runs toward the end that is engaging more. A place's h is what its relations have delivered to it. This is a rule about one link and its two ends; it needs no "at the same time."
-- Ruling P5, *inertia:* possibility in transit keeps its mean direction until a commitment redirects it.
+- Ruling P5, *inertia:* possibility in transit keeps its mean direction until a commitment redirects it (its own: the mass step of C6; other patterns bend its route only through the fields their commitments set).
 - Ruling P6, *transit draws:* possibility in transit is not free, and draws by its frequency ħω, as a renewal would. Light gravitates.
 - Ruling P7, *relations:* space is who passes possibility to whom. A relation carries an occupancy (how much is in transit across it) and a ratio (which way). Sliding or relabelling places costs nothing: there is no backdrop.
 - Ruling P8, *meeting:* when two routes bring possibility to one place, the amounts combine as |√p₁e^{iθ₁} + √p₂e^{iθ₂}|², forced by conservation, scalelessness and associativity.

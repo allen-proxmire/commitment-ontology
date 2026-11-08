@@ -544,3 +544,15 @@ Only the third is open. So the posit is **needed**, in the sector's sense: force
 - "At Born's chance" had been dropped from the shape without a word; restored.
 
 **Standing.** Shape, sharpened: a commitment may engage possibility in transit (a clause C1 does not contain); only through a channel (a final state of the engager, in rate or transit, matching frequency and direction); at Born's chance; which contacts through a channel are engagements rather than routes is the posit owed. "Committed pattern" dropped. Plain doc line on measurement amended to say the clause is not in the rules.
+
+## 2026-11-07 — P5: whose commitment redirects transit? Read against the Dirac walk. The pattern's own.
+
+**The question.** P5: possibility in transit keeps its direction until a commitment redirects it. It is the table's only rule in which a commitment acts on transit, and it does not say whose. If another pattern's commitment can redirect transit, the table already has commitment touching transit without engaging it, and the clause measurement lacks is "engage" specifically; if only the pattern's own, the clause is any action at all.
+
+**Reading.** In the matter sector the commitment that redirects a pattern is its own: the mass step (C6) flips the internal state, and in Feynman's checkerboard the flip is the reversal of direction, with amplitude i·mcℓ/ħ per hop. Between flips the pattern moves at c in a fixed direction; that is P5. So P5's "a commitment" is the pattern's own renewal, and the rule is C6 seen from the outside.
+
+Other patterns act on transit in the table only through the fields their commitments set: the clock field h (refraction; the gravity rule) and the which-way ratio (charge). Those are routes: the transit's direction bends because the medium differs from place to place, not because a foreign commitment took hold of it. Bragg scattering of a neutron in a crystal and refraction of light in glass are of this kind. No rule in the table has one pattern's commitment act on another's transit directly.
+
+**What follows.** The table distinguishes three things already: a pattern's own commitment redirects its transit (P5, C6); other patterns' commitments shape its route through the fields they set (P4, charge); and nothing engages another's transit. The clause measurement lacks is therefore the third, and the missing verb is *engage*: to take another pattern's possibility in transit into one's own next commitment (C1's sense), not to act on it. P5 is made explicit in the table: "its own commitment."
+
+**Grade.** Reading; a clarification of P5 consistent with C6, entered as a parenthesis in the rules table. The clause itself ("a commitment may engage possibility in transit") is proposed to the author as a ruling: the method admits it, since it retires the contradiction between the 11-05 measurement rule and C1 as written. Not entered.
