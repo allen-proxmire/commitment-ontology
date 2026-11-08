@@ -142,6 +142,8 @@ Square roots of amounts, with phases, added and then squared. That is quantum me
 
 $$\ell=\frac{\hbar}{m_{\max}c},\qquad \ell=\ell_P\sqrt{\frac{4\pi P_{\max}}{\delta}}.$$
 
+**The moving clock.** A pattern always hops at c; its commitments are its turns. A pattern that travels spends its hops going one way and turns less often per second of the clock it passes, so it commits, and ticks, at ω/γ rather than ω: the slowing of a moving clock, γ = 1/√(1 − v²/c²). Ticking and travelling share one budget of hops (the author's picture). Gravity slows a clock too; in a circular orbit, where v² = GM/r, the slowing from travel is half the slowing from gravity.
+
 The second relation ties the hop length to the two constants gravity already had, through G; it renames one unknown as another rather than removing one.
 
 **The result.** Possibility hopping at the hop speed with a four-component state, flipping at the mass rate, has the Dirac equation as its continuum limit (Bialynicki-Birula). So the electron's equation, with spin ½, follows from the two primitives, the rulings of the gravity sector, and one added statement, commitments happen at a rate, by identification with a construction known to yield it. The magnetic moment g = 2 follows from Dirac's equation once the charge couples to the which-way field, which is a candidate.
