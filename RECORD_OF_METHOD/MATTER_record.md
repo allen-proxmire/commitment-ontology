@@ -785,3 +785,7 @@ Knock-ons: `MATTER.md` lines 21–25 (heaviest pattern m_max = ħ/(ℓc) ≳ 2 �
 - Owed, the author's: whether light's speed equals the walk's c, and whether light carries a time step.
 - Loops: the pair-route shape carries an exposure: on the walk as identified it generates O(α/π) isotropic speed differences, to be tuned to ~1 part in 10¹⁷; the untuned version is excluded.
 - The now-ruling tension is the CO-own direction to read.
+
+## 2026-11-09 — light's speed is the walk's c (the author's ruling, candidate); L1 registered
+
+Ruled by the author: light moves at the walk's massless speed c (candidate; every Lorentz test requires it, and on a lattice the Maxwell cost's E²/B² ratio is otherwise free). Whether light carries a time step stays open. The 3D dispersion check owed by the entry above is registered as L1 (`MATTER_runs/L1_walk_dispersion/REGISTRATION.md`); its result enters after the author reads it.
