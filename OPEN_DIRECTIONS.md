@@ -2,6 +2,8 @@
 
 What is open, graded as elsewhere (candidate: before a ruling; needed: after a ruling forced by data or exclusion; ruled; excluded; shape: a form without a rule; silence: the primitives do not speak). Results-only documents carry what stands; this file carries what does not yet. Working detail and every route tried are in `RECORD_OF_METHOD/`.
 
+Longer notes on open directions are in [`OPEN_DIRECTIONS_notes/`](OPEN_DIRECTIONS_notes/): how patterns combine (the gap under most ladder tops).
+
 ## Space and gravity
 
 - **Second-order field equations.** Candidate at the linearised level: the static law ratio hopping gives (∇² ln P = σδ, no Yukawa terms, from conservation) bounds covariant quadratic-curvature terms to ranges below the hop, so the wave sector is second order, given a local polynomial action. The Schwarzschild exterior still assumes no cubic or non-local terms. Ratio hopping on the network the occupancies make, with the lapse weighting of a conserved flux, is GR's static lapse equation and is consistent with Schwarzschild given the cost's ψ and the sink's flux equal to the mass (candidate; consistency, not a derivation). Neither counting nor scalelessness supplies the second order, and a count of commitments cannot: the vacuum has none, so such a functional has no variation where the exterior and the waves are (it can be the source term, as the sink σ is). What it would take: a cost on relations, linear in the deficit angle and weighted by hinge area (Regge's form), with the reasons for linearity and for the weight 1/G not yet in the rules.
