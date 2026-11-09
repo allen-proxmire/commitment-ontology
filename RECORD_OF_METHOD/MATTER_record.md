@@ -948,3 +948,22 @@ Sources: Sánchez et al. 2020 (https://dspace.mit.edu/bitstream/1721.1/124332/2/
 Ruled by the author: pulses that scale or flip the sign of a natural interaction, with zero net energy exchange per cycle, are steering under ruling 3. So the double-quantum-free NMR echo (Sánchez et al. 2020) counts, and **N ≳ 10²** stands as the bound on record, conditional on reading "~10² correlated spins by flip-flops" as ~10² quanta handed on (ruling 6 for mixed states, owed).
 
 **Geier et al. (2024), full abstract and methods read** (arXiv 2402.13873). ⁸⁷Rb Rydberg atoms at ~11 μK, N = 332 to 1333 atoms at random positions; dipolar flip-flop (XX) exchange, energy-conserving, other pair states detuned; reversal by two π-pulses moving each spin to a second pair of Rydberg states where the coupling changes sign (C₃ → −kC₃, k ≈ 1.03): steering under the ruling just made. Magnetisation relaxes to zero within ~0.7 μs and returns to ~0.15 after reversal; at t_rev = 6 μs about 0.2 remains for the weakest interactions; losses come from finite transfer pulses and atomic motion (coupling changes of ~20% after six interaction cycles). The paper does not measure how many atoms take part or how far correlations spread; its simulations use 16-atom clusters. So it is a clean steering-only reversal among ~10³ atoms, but its breadth in quanta handed on is not measured, and it does not raise the bound past 10² on present evidence. A measurement of correlation spread before reversal in this platform would be the test that could.
+
+## 2026-11-09 — ruling 6 for warm samples: how breadth in quanta reads on a high-temperature spin system (shape, after cold reading)
+
+**The question.** In room-temperature NMR the state is nearly maximally mixed, ρ ≈ 2^{−K}(1 + εΣI_z) with ε ~ 10⁻⁵; the echo tracks a small local excess of polarisation, not a single quantum (the caveat that the NMR seed is "a term of a mixed state, not a quantum in transit"). Ruling 6 counts breadth as distinct quanta a chain has reached. How does that read here, and what does "~10² correlated spins" (Sánchez et al. 2020) give?
+
+**Four assumptions, named.**
+- (i) *Posited* (a choice of members, justified by ruling 5's channel basis): the sample is a mixture of definite Zeeman configurations, each evolving unitarily and each reversed by the echo. A nearly maximally mixed state can be split into members in any basis; the Zeeman basis is the channel basis. If the thermal mixture came from contact with the lattice it is an improper mixture in standard quantum mechanics; calling it ignorance needs CO to say those contacts committed it. This answers the mixed-state caveat by positing members.
+- (ii) A flip-flop between an up and a down neighbour hands one Zeeman quantum (ħω₀) through a resonant channel, a passage; C8's direction clause is read as void for near-field exchange.
+- (iii) Breadth is the support of the evolved disturbance (the "largest support reached" reading of ruling 4's owed items).
+- (iv) Flip-flops inside one crystal are passages, not kinships (open; "Where the measurement ladder rests"). If they are kinships, the bound is void.
+And ruling 3 as ruled (the pulse trains steer).
+
+**The count.** Quanta are identical, so "distinct" means counted by initial site: the up spins inside the region a disturbance has reached, measured by the multiple-quantum cluster size (a stand-in, across the ensemble, for how far each member's entanglement has spread). At high temperature about half the spins are up, so a disturbance reaching K spins has involved about K/2 distinct quanta; one flip-flop moves one quantum, and one quantum hopping along a chain is one quantum. Per-branch counting is not defined, but within a branch the causal cone is at least as large as the support, so it would not fall to order one. The readout itself is evidence: the cluster size is seen only because the reversal worked at that breadth.
+
+**So,** under (i)–(iv), N ≳ ~50 (tens, toward 10²), from K ~ 10².
+
+**Cold reading, same day; corrected.** The ignorance reading made a posit (a choice of members, defended by the channel basis); the in-body passages assumption named as (iv), the way the bound fails; the count stated by initial site, with MQC size as a stand-in for per-member spread; the bound made conditional; the readout noted as evidence of reversal at that breadth.
+
+**Grade.** Shape. Under (i)–(iv), N ≳ ~50. Owed: the author's ruling on (iv), whether exchanges inside one body are passages; how much echo returns at K ~ 10² in Sánchez et al. 2020.
