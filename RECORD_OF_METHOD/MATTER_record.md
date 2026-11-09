@@ -789,3 +789,7 @@ Knock-ons: `MATTER.md` lines 21–25 (heaviest pattern m_max = ħ/(ℓc) ≳ 2 �
 ## 2026-11-09 — light's speed is the walk's c (the author's ruling, candidate); L1 registered
 
 Ruled by the author: light moves at the walk's massless speed c (candidate; every Lorentz test requires it, and on a lattice the Maxwell cost's E²/B² ratio is otherwise free). Whether light carries a time step stays open. The 3D dispersion check owed by the entry above is registered as L1 (`MATTER_runs/L1_walk_dispersion/REGISTRATION.md`); its result enters after the author reads it.
+
+## 2026-11-09 — L1 read: the electron bound is needed; the palindrome is needed
+
+L1 (`MATTER_runs/L1_walk_dispersion/L1_result.md`), read by the author. On the palindromic Wilson walk a massive pattern's limiting speed exceeds the massless one by s ≈ 0.24·r·mcℓ/ħ, isotropic and linear in mass (the 1D reduction's sign, about twice its coefficient). With light at the walk's c (candidate), Crab electrons give **ℓ ≲ 3 × 10⁻³¹ m (needed)**, δ ≳ 5 × 10⁻⁸ P_max/ħ. The massless bending is anisotropic and subluminal off-axis: no Cherenkov bound from it. The sequential step's handedness term is confirmed (0.192k² on the body diagonal, as predicted): **the palindromic step is needed.** Entered in `MATTER.md` (mass, doublers, Lorentz invariance) and `OPEN_DIRECTIONS.md` (doublers; Lorentz invariance with loops). Superseded figures in this record and the gravity record (ℓ ≈ 10⁻¹⁸ m, 6 × 10⁻¹⁹ m; δ ≈ 10⁻³²; P_max ≲ 1.1ħ; the lattice self-energy ≈ 0.4 GeV, now ≳ 10¹² GeV) are kept as written and scale with ℓ.
