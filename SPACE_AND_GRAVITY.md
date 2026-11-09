@@ -21,7 +21,7 @@ Added principles: the substrate is scaleless; sliding or relabelling places cost
 | **Record** | the share of possibility a renewal retains, δħ (candidate in this fixed form), carried forward by renewal. The record only grows: the arrow of time |
 | **Pattern** | possibility in transit between commitments; transit keeps its mean direction until its own commitment redirects it (inertia; other patterns bend its route only through the fields they set). Possibility in transit is not free, and draws by its frequency ħω |
 | **Vacuum** | possibility with no commitment: no count, so no time; no renewal, so no scale |
-| **Relation** | who passes possibility to whom. A relation carries an occupancy (how much is in transit across it) and a ratio (which way) |
+| **Relation** | who passes possibility to whom. A relation carries an occupancy (how much is in transit across it) and a which-way phase (candidate ruling) |
 
 ## Rules
 

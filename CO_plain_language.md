@@ -27,7 +27,7 @@ GR has no global now; QM has no event. CO takes both as primitives: commitment a
 - Ruling P4, *toward engagement:* on each relation, the net flow of possibility runs toward the end that is engaging more. A place's h is what its relations have delivered to it. This is a rule about one link and its two ends; it needs no "at the same time."
 - Ruling P5, *inertia:* possibility in transit keeps its mean direction until a commitment redirects it (its own: the mass step of C6; other patterns bend its route only through the fields their commitments set).
 - Ruling P6, *transit draws:* possibility in transit is not free, and draws by its frequency ħω, as a renewal would. Light gravitates. Light moves at the walk's c, and draws at the same strength per unit energy as matter, one G (both candidate rulings, matched to observation).
-- Ruling P7, *relations:* space is who passes possibility to whom. A relation carries an occupancy (how much is in transit across it) and a ratio (which way). Sliding or relabelling places costs nothing: there is no backdrop.
+- Ruling P7, *relations:* space is who passes possibility to whom. A relation carries an occupancy (how much is in transit across it) and a which-way phase (candidate ruling). Sliding or relabelling places costs nothing: there is no backdrop.
 - Ruling P8, *meeting:* when two routes bring possibility to one place, the amounts combine as |√p₁e^{iθ₁} + √p₂e^{iθ₂}|², forced by conservation, scalelessness and associativity.
 
 **Commitment** is the act. One irreversible update to possibility, at a place. It cannot be undone.
