@@ -1,0 +1,40 @@
+# Scoreboard
+
+What CO has, sorted by where it comes from. Updated after each climb; the records hold the detail. As of 2026-11-09.
+
+**Derived** (from the primitives and CO's own rulings, no outside theorem doing the work)
+- One-way time: the record only grows (C3).
+- Universal redshift and free fall: clocks compare as (1 − h_A)/(1 − h_B), independent of mass.
+- Newton's 1/r, and the weak-field clock factor through second order (ratio hopping; Mercury picks the pairing).
+- G constant as the free stock falls (fixed share with a fixed amount per hop).
+- The moving clock: energy splits exactly into turning m²c⁴/E and travel pv.
+- Measurement as commitment through a channel (C8, candidate); no spontaneous collapse.
+
+**Reconstructed** (CO's rules matched to a known theorem or construction, which then does the work)
+- Einstein's equations outside matter and tensor waves (Lovelock; Regge's form).
+- The Schwarzschild exterior, given the cost's spatial equation (candidate).
+- Three dimensions as a consistency condition (runs R4–R7b).
+- The amplitude rule (Goyal–Knuth–Skilling).
+- The Dirac electron, spin ½, g = 2 at tree level (Dirac walk; minimal coupling from the phase rulings).
+- Helium's two-electron Coulomb coupling (branched field, by identification).
+- Hydrogen's levels (fixed classical source, by identification).
+
+**Imported** (taken from standard physics without a reason of CO's own)
+- The Born rule as an identification; Lüders conditioning; the measurement basis (einselection).
+- Yukawa's range for the nuclear force (a route through an added pattern, a silence).
+- Measured inputs: G, c, ħ, 1/137, the particle masses, Λ.
+
+**Posited** (CO's own rulings and candidate rulings, beyond the two primitives)
+- P1–P8, C1–C8 (the rules table), including: C3 fixed share δħ; a hop moves P_max; light at the walk's c; the which-way field a U(1) phase acting on amplitudes; the palindromic step (needed by data); the half-shift Wilson term; amounts classical (the falsifier rests on it).
+- Constants of CO's own: δ, P_max, Λ. Bounds: ℓ ≲ 1.3 × 10⁻³¹ m (needed), δ ≳ 2 × 10⁻⁷ P_max/ħ.
+
+**Excluded** (tried and closed, with the reason on record; a sample)
+- The sequential step order (Crab electrons); the one-way hop (electron lifetime); the exponential metric as the exterior; CO's commitments as a sprinkled causal set; a quantum free stock at the old figures (to be recomputed); the old share δħ·P_free/P_max (makes G drift); six routes to colour at the nucleus; the unbounded quantised-light link ("no infinities").
+
+**Shapes** (a form without a rule yet)
+- The pressure rule (turning once, travel twice); field energy drawing as an amount; closure of patterns; routes through added pairs (the sea); quarks commit, gluons as colour-field patterns; the capped light field; dark matter as a third kind.
+
+**Silences and walls** (where the primitives do not speak, or where CO stops)
+- The masses; 1/137; the count three (colour); the exchange sign for patterns; Lorentz invariance once loops come in (the frame dilemma: a degree bounded by quanta per place picks a frame).
+
+**Falsifier.** If two masses become entangled through gravity alone, CO is wrong (shared with semiclassical gravity).
