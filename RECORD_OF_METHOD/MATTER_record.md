@@ -967,3 +967,7 @@ And ruling 3 as ruled (the pulse trains steer).
 **Cold reading, same day; corrected.** The ignorance reading made a posit (a choice of members, defended by the channel basis); the in-body passages assumption named as (iv), the way the bound fails; the count stated by initial site, with MQC size as a stand-in for per-member spread; the bound made conditional; the readout noted as evidence of reversal at that breadth.
 
 **Grade.** Shape. Under (i)–(iv), N ≳ ~50. Owed: the author's ruling on (iv), whether exchanges inside one body are passages; how much echo returns at K ~ 10² in Sánchez et al. 2020.
+
+## 2026-11-09 — exchanges between patterns inside one body are passages (the author's ruling, candidate)
+
+Ruled by the author on assumption (iv) of the warm-sample entry: energy-conserving exchanges between distinct patterns inside one body (two nuclei's spins swapping a Zeeman quantum by a flip-flop) are passages; kinships are relations within a single pattern (the tiles of one pattern, the quarks of one proton). This settles one half of the open question "whether exchanges inside one pattern are passages or kinships": between patterns, passages; within one pattern, still open. With it, **N ≳ ~50** stands under the remaining named posits and readings (mixture as Zeeman configurations; breadth as support; the pulse trains steer). Cost carried: with passages inside bodies counting, an isolated body whose internal chains pass N would commit, which bears on "a pattern left alone is not resolved" if N is adopted (not adopted; N stays a shape).
