@@ -21,7 +21,7 @@ GR has no global now; QM has no event. CO takes both as primitives: commitment a
 ## Two things exist. The two primitives. 
 
 **Possibility** is the stuff of the universe. There is a fixed amount of it, it sits at places, and it moves between places that are related. It is conserved: never made, never destroyed.
-- Ruling P1, *scaleless:* the substrate has no scale of its own, so a hop compares neighbouring places only by ratio, never by difference. The field is linear in ln P. P is an amount, |a|² where possibility has an amplitude a; the rule acts on amounts and says nothing about phase.
+- Ruling P1, *scaleless:* the substrate has no scale of its own, and a hop compares neighbouring places by ratio, the choice scalelessness favours; with the lapse weighting of a conserved flux it gives GR's exterior, and Mercury excludes the other pairings. The field is linear in ln P. P is an amount, |a|² where possibility has an amplitude a; the rule acts on amounts and says nothing about phase.
 - Ruling P2, *capacity:* a place holds at most P_max of free possibility. Over capacity, it commits. The vacuum today is under capacity.
 - Ruling P3, *hold-and-release:* possibility engaged by a commitment is released when it completes, less the share C3 keeps as record; nothing is destroyed. Free possibility at a place is P_free = P(1 − h), h the fraction engaged.
 - Ruling P4, *toward engagement:* on each relation, the net flow of possibility runs toward the end that is engaging more. A place's h is what its relations have delivered to it. This is a rule about one link and its two ends; it needs no "at the same time."
@@ -32,7 +32,7 @@ GR has no global now; QM has no event. CO takes both as primitives: commitment a
 
 **Commitment** is the act. One irreversible update to possibility, at a place. It cannot be undone.
 - Ruling C1, *renewal:* a commitment, on completing, engages adjacent free possibility (or, through a channel, a quantum in transit: C8) into its next commitment, releases what it held, and adds one to its count. Any commitment does this while free possibility is adjacent; it halts when none is. Matter is a commitment that keeps being fed.
-- Ruling C2, *the clock:* a commitment repeats at the rate (m/ħ)(1 − h). Less free possibility, slower repeats.
+- Ruling C2, *the clock:* a commitment repeats at the rate (mc²/ħ)(1 − h). Less free possibility, slower repeats.
 - Ruling C3, *retention:* each repeat keeps a share of what it engaged, δħ·(P_free/P_max), as record. The record only grows: the arrow of time.
 - Ruling C4, *one quantum:* every commitment engages the same amount, ħ. Mass is how often commitment falls due, ω = mc²/ħ.
 - Ruling C5, *rate:* commitments happen at a rate, and a pattern in transit carries where it is in its cycle, its phase. (The one addition of the matter sector.)
@@ -84,7 +84,7 @@ Two clocks in different places compare as (1 − h_A)/(1 − h_B). That is gravi
 
 $$\nabla^2\ln P_{\text{free}}=\sigma\,\delta(\mathbf r)\quad\Rightarrow\quad \frac{P_{\text{free}}}{P_\infty}=e^{-U},\qquad U=\frac{GM}{c^2r}.$$
 
-The first-order part is Newton's 1/r potential; the second-order part gives Mercury's precession its measured value (ratio hopping is forced by scalelessness; Mercury's orbit confirms it). This is the weak-field clock factor, correct through second order; it is not the exterior beyond that (see below).
+The first-order part is Newton's 1/r potential; the second-order part gives Mercury's precession its measured value (ratio hopping is chosen by scalelessness; Mercury excludes the other pairings of hop and weighting). This is the weak-field clock factor, correct through second order; it is not the exterior beyond that (see below).
 
 **Why things fall.** A pattern hops on its place's ticks. Ticks are slower where h is higher, so a wavefront turns toward matter, the way light turns toward the slow side of a lens. For a matter wave of frequency mc²/ħ this gives
 
@@ -160,7 +160,7 @@ The second relation ties the hop length to the two constants gravity already had
 
 ## What goes in, what comes out
 
-**In:** possibility and commitment; the rule that hops compare by ratio (forced by scalelessness); that commitments happen at a rate; three constants of the theory's own, δ, P_max and Λ; G, c, ħ and 1/137 as measured; the particle masses; two exclusions from experiment, a scalar gravitational wave (which forces relations to carry an occupancy) and a one-way hop (which keeps the hop unitary).
+**In:** possibility and commitment; the rule that hops compare by ratio (chosen by scalelessness; Mercury excludes the alternatives); that commitments happen at a rate; three constants of the theory's own, δ, P_max and Λ; G, c, ħ and 1/137 as measured; the particle masses; two exclusions from experiment, a scalar gravitational wave (which forces relations to carry an occupancy) and a one-way hop (which keeps the hop unitary).
 
 **Out:** one-way time; universal redshift and free fall; Newton's law, light bending, the Shapiro delay and Mercury's precession (standard weak-field gravity, reached from the primitives); the exterior as GR's; tensor gravitational waves with Einstein's quadrupole (by Lovelock, given its hypotheses); three dimensions as a consistency condition (standard pieces, CO's frame); inflation with its own exit (no number); Friedmann's equation with the matter era; the amplitude rule (given its premises) and the Born identification; a four-component internal state (Meyer, Clifford); the Dirac equation with spin ½ (by identification); a maximum mass and the hop length; Maxwell's equations for charge (candidate).
 
@@ -172,7 +172,7 @@ The second relation ties the hop length to the two constants gravity already had
 
 **More than reproduction.**
 - Three dimensions follow as a consistency condition of the theory's own rules; the pieces are standard.
-- Mercury's precession comes out right because the vacuum is scaleless (hops compare by ratio); Mercury confirms the choice rather than making it.
+- Mercury's precession comes out right with hops that compare by ratio, the choice scalelessness favours; Mercury excludes the other pairings of hop and weighting.
 - Λ has a reason to be the only constant of its kind, if not a value.
 - Mass as frequency recasts the masses question as one about sizes, which a combinatorial structure could fix where frequencies could not.
 - Two primitives and three constants of its own reach the four classical tests, tensor waves with Einstein's coefficient, inflation with its own exit, the matter era, and three dimensions, with the exterior GR's.

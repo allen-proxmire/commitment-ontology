@@ -27,10 +27,10 @@ Added principles: the substrate is scaleless; sliding or relabelling places cost
 
 | rule | statement |
 |---|---|
-| ratio hopping | the substrate is scaleless, so a hop compares neighbours by ratio, never by difference: the field is linear in ln P. P is an amount (|a|² where possibility has an amplitude); the rule acts on amounts, not on phase |
+| ratio hopping | a hop compares neighbours by ratio, the choice the scaleless substrate favours; with the lapse weighting of a conserved flux it gives GR's exterior, and Mercury excludes the other pairings: the field is linear in ln P. P is an amount (|a|² where possibility has an amplitude); the rule acts on amounts, not on phase |
 | capacity | a place holds at most P_max free possibility; over capacity it commits. The vacuum today is under capacity |
 | hold-and-release | a renewal engages, completes, releases, less the share kept as record; nothing is destroyed. P_free = P(1 − h), h the fraction engaged |
-| clock | renewal rate = (m/ħ)(1 − h) |
+| clock | renewal rate = (mc²/ħ)(1 − h) |
 | gravity | on each relation, net transit runs toward the end that engages more; a place's h is the engaged share its relations have delivered. A link rule, needing no simultaneity. Patterns fall by refraction on the clock-rate field |
 | mismatch | relations can be out of step with their ends; the cost depends only on how they fit together (sliding costs nothing) |
 | now | what has committed, for a commitment, is its past light cone; spacelike events are not ordered with respect to it. Relativity's own point-relative becoming, with the time orientation supplied by record only growing; nothing added |
