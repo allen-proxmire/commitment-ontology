@@ -814,3 +814,7 @@ If the flip gates are the commitments (a posit: a gate acts at every place each 
 **Cold reading, same day; corrected.** The circuit argument made on Gross–Nesme–Vogts–Werner (walks, flow zero, no ancillas), not Arrighi–Nesme–Werner (many-body); the Wilson flip is quasi-local, not local (a strictly local Wilson walk owed; C6 affected); flip gates as commitments named a posit; the cone is the lattice's, and "no universal now" there is cheap; the frame argument made elementary (finite symmetry group fixes a timelike direction), BHS for the random case; "regularity" dropped for finite valency; the deformed-symmetry exit is broken at tree level on the Wilson walk by L1; separation of scales restored; the split's grades separated.
 
 **Grade.** Candidate reading: the global tick is a slicing of a circuit of local gates (up to the Wilson flip's tails), and "no universal now" holds on it with the lattice's cone. The preferred frame stands, located in the finite valency of the walk's causal structure. Posits named: flip gates = commitments; the exhaustive reading of the third clause, now against a frame the substrate has. Owed: a strictly local Wilson walk.
+
+## 2026-11-09 — the author's choices on the tick entry
+
+Flip gates as commitments: left as a named posit (the walk has no definite events yet). C6 and `MATTER.md`'s mass paragraph now say that the Wilson term acts across neighbouring places. A strictly local Wilson walk is registered as L1b.

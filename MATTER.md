@@ -18,7 +18,7 @@ Forced given those premises (Goyal, Knuth and Skilling 2010); the premises carry
 
 **The internal state.** A walk of amplitudes that is homogeneous (sliding costs nothing), unitary and moves cannot be scalar (Meyer 1996). With three directions whose shift operators anticommute and a mass step anticommuting with all three, the smallest representation is C⁴: Dirac's α and β; chirality × spin is its labelling.
 
-**Mass.** The mass step changes the internal state without moving it, with amplitude i·mcℓ/ħ per hop: Feynman's checkerboard weight. There is a heaviest pattern, one flip per hop, and its Compton wavelength is the hop length:
+**Mass.** The mass step changes the internal state without moving it, with amplitude i·mcℓ/ħ per hop: Feynman's checkerboard weight (the Wilson term below acts across neighbouring places). There is a heaviest pattern, one flip per hop, and its Compton wavelength is the hop length:
 
 $$\ell=\frac{\hbar}{m_{\max}c},\qquad \ell\lesssim 3\times10^{-31}\ \text{m}.$$
 
