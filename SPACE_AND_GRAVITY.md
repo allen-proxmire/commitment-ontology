@@ -33,7 +33,7 @@ Added principles: the substrate is scaleless; sliding or relabelling places cost
 | clock | renewal rate = (mc²/ħ)(1 − h) |
 | gravity | on each relation, net transit runs toward the end that engages more; a place's h is the engaged share its relations have delivered. A link rule, needing no simultaneity. Patterns fall by refraction on the clock-rate field |
 | mismatch | relations can be out of step with their ends; the cost depends only on how they fit together (sliding costs nothing) |
-| now | what has committed, for a commitment, is its past light cone; spacelike events are not ordered with respect to it. Relativity's own point-relative becoming, with the time orientation supplied by record only growing; nothing added Of the primitives; on the walk the cone is the lattice's, and its finite-degree causal structure picks a frame (`OPEN_DIRECTIONS.md`). |
+| now | what has committed, for a commitment, is its past light cone; spacelike events are not ordered with respect to it. Relativity's own point-relative becoming, with the time orientation supplied by record only growing; nothing added. This holds of the primitives; on the walk the cone is the lattice's, and its finite-degree causal structure picks a frame (`OPEN_DIRECTIONS.md`). |
 
 ## Results
 
@@ -79,4 +79,4 @@ The values of δ, P_max and Λ; the radiation era; the mechanism behind the firs
 
 ## Status
 
-Reconstruction: the sector reproduces standard gravity up to 1930 and GR's exterior and waves from the primitives and the rules above, with Lovelock's theorem doing the work for waves. Where it reaches (empty space, dust), it makes no prediction that differs from GR; inside pressure-supported matter and in the radiation era its source is not yet GR's. References: Yilmaz (exponential metric; not a solution of the forced dynamics), Tegmark (1997), Trugenberger (2017–19), Lovelock (1971), Regge (1961).
+Reconstruction: the sector reproduces weak-field gravity, GR's exterior and tensor waves, and the matter era, from the primitives and the rules above, with Lovelock's theorem doing the work for waves. Where it reaches (outside matter, dust), it makes no prediction that differs from GR; inside pressure-supported matter and in the radiation era its source is not yet GR's. References: Yilmaz (exponential metric; not a solution of the forced dynamics), Tegmark (1997), Trugenberger (2017–19), Lovelock (1971), Regge (1961).
