@@ -995,3 +995,7 @@ Ruled by the author on assumption (iv) of the warm-sample entry: energy-conservi
 **Cold reading, same day; corrected.** Arithmetic confirmed; C3 is per repeat, so the record N = 1/δ needs is new; the provisional record clashes with record-only-grows, classical amounts, the independent draw and light's no-record ruling, and with "δ is a constant of gravity only"; passages and distinct quanta distinguished (ruling 4 rejects counting passages over time); the P_max threshold variant added, and with it the point that the threshold is a free choice; candidate 1's numerical dismissal dropped (P_max unpinned).
 
 **Grade.** Shape. No tie of N to existing constants holds without a new record that clashes with standing rules; N, if adopted, is a fourth constant set by experiment.
+
+## 2026-11-09 — a note for experimenters on N's signature
+
+N stays a free number if adopted (entry above). A one-page note stating the hypothesis, the signature (a reversal ceiling fixed in breadth while coupling-to-perturbation ratio, size and control fidelity are varied), what counts as a test (spreading by the system's own interactions; breadth measured before reversal), the current bound (N ≳ 50, conditional) and suitable platforms is at `MATTER_notes/N_signature_note.md`, cold-read. The cold reading's main correction: ordinary physics can also give a perturbation-independent loss (Sánchez et al. 2020), so the mark must survive varying all three knobs, not two.
