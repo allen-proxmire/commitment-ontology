@@ -719,3 +719,7 @@ Loop quantum gravity's discrete spectra belong to spatial geometry, CO's counter
 ## 2026-11-09 — Way B parked
 
 The author parks Way B: no ruling is changed for it now. It stands as a shape, with the fork it meets recorded (the clock following quantum occupancy, which returns the excluded quantum stock, or its mean, which is the semiclassical stance). The classical-amounts ruling and CO's falsifier stand. The frame dilemma stays open in `OPEN_DIRECTIONS.md`; with Way A and Way B both needing rulings changed, the scope line ("one-particle quantum mechanics up to 1930", tree level) is where CO stands.
+
+## 2026-11-09 — the sink's shot noise recomputed (checked)
+
+With G fixed by measurement, a clock at distance r feels the dents only through transport, which is G's field; the mean field is the renewal rate Γ times one dent's share, so one dent's time-integrated share of a clock's phase is U/Γ, independent of δ. Over a time τ the count fluctuates by √(Γτ), so φ ≈ ωU√(τ/Γ) (`SPACE_AND_GRAVITY_notes/sink_shot_noise_2026_11_09.py`): about 8 × 10⁻³⁶ rad over one second per nucleon on an electron clock at 10⁻¹⁰ m; N nucleons add as √N. A dent's local step, δħ/P_max, is felt directly only within about ℓ of it, inside the nucleon. The earlier figure (≈2 × 10⁻²⁶ rad s⁻¹, matter record, semiclassical cold reading, item 6; no working survives) scaled with δ at fixed ℓ and q, which no longer applies; withdrawn. Entered in `SPACE_AND_GRAVITY.md`.
