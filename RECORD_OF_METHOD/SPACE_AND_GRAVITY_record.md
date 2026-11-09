@@ -684,3 +684,34 @@ The static self energies, e²G(0)/ε₀ per charge, do not change with the confi
 ## 2026-11-09 — Way B opened by the author
 
 The author opens Way B (discreteness of values, not of places: the network's occupancies quantum) for reading, and accepts that CO's falsifier (no entanglement through gravity) would go with the classical-amounts ruling if it is reversed. Not yet a ruling: the amounts ruling stands until a reading of Way B is done. Two notes for that reading. (1) Way B is about the *local* frame; Smolin's preferred global time (shape dynamics: a cosmic simultaneity set dynamically by the distribution of matter, not detectable by local measurements) is compatible with it: local Lorentz invariance from quantum discreteness, a preferred time at cosmic scale. (2) The quantum free stock ("vacuum spread") was excluded at superseded figures and is marked for recomputation; that recomputation is the first check Way B meets.
+
+## 2026-11-09 — Way B, first check: the quantum free stock recomputed at the current constants (after cold reading)
+
+**Why first.** Way B makes the network's amounts quantum. The one quantum version of an amount CO has tested is the free stock with an intrinsic spread σ ("vacuum spread", 2026-11-07), excluded on both sides at figures now superseded (δ ≈ 10⁻³², ℓ ≈ 10⁻¹⁸ m, P_max ≈ 3ħ). Recomputed here with the same two arguments (`MATTER_notes/vacuum_spread_window_2026_11_09.py`).
+
+**The two bounds.**
+- *Dent.* Each renewal leaves a dent of δħ (C3, fixed share) at its place. In a quantum stock the dent is a which-way record; branches separated by a dent overlap to within (δħ/σ)², so a pattern loses coherence at Γ ≈ (δħ/σ)²ω (a factor ¼, inherited, dropped). Keeping Γ below the spontaneous-collapse ceiling (~10⁻¹⁷ s⁻¹ per nucleon, CSL's at r_C = 10⁻⁷ m; at resolution ℓ heating bounds are far tighter, so the bound is conservative) needs σ ≳ δħ√(ω_n/10⁻¹⁷ s⁻¹).
+- *Clock.* C2 couples a pattern's phase to h = 1 − P_free/P with strength ω; a spread σ gives h a spread σ/P_free, averaged over the N = (λ_C/ℓ)³ places a pattern spans (independent places and P_free = P_max, both favouring the window). Coherence over one second needs σ ≲ P_max √N/(ωt).
+
+**Numbers.** With ℓ at its bound, 1.3 × 10⁻³¹ m, δ = 4πℓ_P²P_max/ℓ² ≈ 1.9 × 10⁻⁷ P_max/ħ (the smallest δ allowed; the bounds' ratio goes as ℓ^(−1/2), so the largest ℓ is also the most favourable to the window):
+
+| | P_max = ħ | P_max = 3ħ | P_max = 100ħ |
+|---|---|---|---|
+| dent: σ ≳ | 7 × 10¹³ ħ | 2 × 10¹⁴ ħ | 7 × 10¹⁵ ħ |
+| clock, nucleon: σ ≲ | 0.05 ħ | 0.14 ħ | 4.6 ħ |
+| clock, electron: σ ≲ | 7 × 10⁶ ħ | 2 × 10⁷ ħ | 7 × 10⁸ ħ |
+
+**A quantum free stock is excluded by the dent and capacity alone** (σ ≳ 7 × 10¹³ P_max against σ ≲ P_max); with the clock bound the window is empty by about 2 × 10¹⁵ (against 10⁹ at the old figures). Even at the largest spread capacity allows (σ = P_max), the dent decoheres a nucleon at Γ ≥ (δħ/P_max)²ω ≈ 5 × 10¹⁰ s⁻¹ (an electron at 3 × 10⁷ s⁻¹), unless the stock is classical.
+
+**What it leaves of Way B.** A quantum occupancy with a classical free stock is not reached by this computation. Whether it is consistent is the next reading, and three things stand against it now:
+- *Occupancy carries the dent's footprint.* Pooling's ruled text: "free possibility is drawn in to meet the deficit, and that draw is the field". The inflow that meets each dent runs on relations and, the record only growing, does not return; branches that renewed at different places carry different occupancy patterns. A quantum occupancy therefore meets the same bound, (δħ/σ_occ)²ω, unless its spread can exceed what the dent argument requires (and with a hop moving q = P_max, σ_occ is likely capped near P_max too). Unread.
+- *The clock is slaved to the occupancies* (needed, 2026-11-07): a place's h is the engaged share its relations have delivered. Either h follows quantum occupancy (and the free stock is quantum, excluded above) or h follows its mean (semiclassical, Way B not taken for the clock). Which, and with what change to the gravity rule, is owed. As written the transport law ∂_i(ψ²∂_iN) = 0 makes N a functional of ψ; a classical N with a quantum ψ requires the law to hold for ⟨ψ⟩ only, a semiclassical clause the reconciliation entry does not have.
+- *A candidate ruling would be reversed for occupancy alone.* Light's draw lists occupancy among the classical amounts ("free stock, record, occupancy, h"); the split breaks that one principle. In its favour: the free-stock ruling's reason (amplitude belongs to transit, P8) does give transit's amount a possible amplitude.
+
+Loop quantum gravity's discrete spectra belong to spatial geometry, CO's counterpart of which is occupancy; discreteness would need a compact conjugate to occupancy and boosts not commuting with it, neither in the table.
+
+**The falsifier.** Under a split with a classical clock, the leading phase of the gravitational-entanglement experiments, which runs through g₀₀ (Δφ ≈ Gm²Δt/(ħd)), is absent, and the falsifier largely survives; it goes only if h follows quantum occupancy, which returns the excluded quantum free stock.
+
+**Cold reading, same day; corrected.** Arithmetic confirmed; "nearly its Compton rate" corrected (Γ ≥ 5 × 10¹⁰ s⁻¹ for a nucleon at σ = P_max); the ceiling called conservative; the exclusion stated by dent and capacity alone; the split withdrawn as a reading (occupancy carries the dent's footprint; the clock is slaved to occupancy, needed; light's-draw ruling lists occupancy as classical); the transport law's dependence stated; LQG's placement narrowed; the falsifier sentence corrected (a classical clock keeps it).
+
+**Grade.** The quantum free stock: excluded (recomputed). Way B: a shape (quantum occupancy, classical free stock) in conflict with one needed reading (the clock slaved to occupancy) and one candidate ruling (occupancy classical), with occupancy's own dent exposure unread. The next reading: whether h follows quantum occupancy or its mean; that one choice decides whether Way B differs from the semiclassical stance at all.
