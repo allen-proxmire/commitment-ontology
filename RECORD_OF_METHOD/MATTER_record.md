@@ -837,7 +837,7 @@ A cold reader swept the six results documents against the last two days' records
 
 **Two posits that would give the coupling.** (1) The which-way ratio is a phase, r_ij = e^{iA_ij}. (2) The shift A → A + dχ is a redundancy of the whole description, acting on amplitudes as ψ → e^{iqχ}ψ. (The exact part of the real ratio, d ln P, the free-stock gradient, is physical and classical; under (1)–(2) it must not couple to charge, or charged patterns would feel the stock's gradient: stated as a condition.) Given them, a unitary hop that respects the redundancy must carry the link phase:
 
-$$S_j^{+}:\ \psi(x)	o e^{iqA_j(x)}\psi(x)\ 	ext{at}\ x+\hat e_j;\qquad S_j^{-}:\ \psi(x)	o e^{-iqA_j(x-\hat e_j)}\psi(x)\ 	ext{at}\ x-\hat e_j,$$
+$$S_j^{+}:\ \psi(x)\to e^{iqA_j(x)}\psi(x)\ \text{at}\ x+\hat e_j;\qquad S_j^{-}:\ \psi(x)\to e^{-iqA_j(x-\hat e_j)}\psi(x)\ \text{at}\ x-\hat e_j,$$
 
 minimal coupling on the lattice (the 2D gauge-coupled quantum walk of Arnault and Debbasch, PRA 93, 052301 (2016); the 3D half-shift Wilson form is the same construction carried over, not taken from the paper). Its continuum limit is Dirac's equation with ∂ → ∂ − iqA, which gives g = 2 in the continuum limit. A₀ enters as an on-site phase per step (as in that paper, and as the two-pattern cold reading put the Coulomb term on the time step).
 
