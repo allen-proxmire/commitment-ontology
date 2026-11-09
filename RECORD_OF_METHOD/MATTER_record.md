@@ -918,3 +918,27 @@ The author holds "no infinities" hard. The link posit as stated (an amplitude ov
 **Cold reading, same day; corrected.** Ruling 3 already excludes double-quantum NMR, so these data do not bound N under rulings 3 and 6 (the drafted "10² to 10³·⁷ quanta" withdrawn); the coherence-order width is not a quanta count; the knee contrast narrowed (standard theory has perturbation-dependent ceilings; N's is fixed), "hidden in the readout" deleted; Álvarez–Suter–Kaiser 2015 added; "a number QM leaves open" corrected to "a number QM does not have"; N named as CO's first departure from QM and placed with the threshold models; the plain doc's C8 contains no N, so the number is the shape's, not C8's.
 
 **Grade.** Shape. Data in reach do not bound N under rulings 3 and 6 (the drive is a partner in every pair flip); read in patterns, they would put N above ~5 × 10³, which the 2020 floor (~10² spins) then cannot be. Owed: a reversal that hands on many quanta with a drive that only steers (still none found); whether the 2020 floor carries a size dependence; whether internal passages count, before "a pattern left alone is not resolved" is leaned on beside N.
+
+## 2026-11-09 — lower bounds on N from reversals where the drive only steers (literature check; shape)
+
+**The search.** Reversals of spreading carried by the systems' own interactions (energy-conserving flip-flops, exchange, photon hopping), with any drive used only to flip the sign of the Hamiltonian or to steer, not to supply quanta at each step (ruling 3), and breadth read in quanta handed on (ruling 6).
+
+| Experiment | Breadth before reversal | Drive | Recovery | Bounds N? |
+|---|---|---|---|---|
+| Zhang, Meier, Ernst, PRL 69, 2149 (1992), polarisation echo, ferrocene | ~10 spins by natural flip-flops (estimate) | forward leg free; reverse leg under spin-lock rf | large at short times, fading with reversal time | weakly (N ≳ 10) |
+| Levstein, Usaj, Pastawski, JCP 108, 2718 (1998); Usaj et al. (1998), metallocenes | ~10–30 spins (estimate) | as above | partial, gradual | weakly |
+| Sánchez, Chattah, Wei, Buljubasich, Cappellaro, Pastawski, PRL 124, 030601 (2020), scaled dipolar echo, adamantane | ~10² correlated spins (spread ∝ (δt)^1.49) | natural flip-flops between pulses; pulse trains scale and flip the sign; double-quantum terms not used | recovered at ~10² spins; decay floor 1/T₃ ≈ 0.15/T₂ | **N ≳ 10², if the pulse trains count as steering** |
+| Rhim, Pines, Waugh, PRB 3, 684 (1971), magic echo, CaF₂ | many spins, not counted | rf-dressed reversal | large, incomplete | marginal |
+| Braumüller et al., Nature Phys. 18, 172 (2022), 3 × 3 transmons | photons hopping naturally over 9 sites | sign flip by frame changes and detunings: steering only | 91.5% at 70 ns | N ≳ a few |
+| Geier et al., Phys. Rev. Research (2024), Rydberg gas | dipolar exchange among many atoms (count not checked) | encoding change flips the sign: steering | re-magnetisation, limited by motion | probably; full text owed |
+| Linnemann et al., PRL 117, 013001 (2016), BEC spin mixing | ~1.4 pairs | steering | partial | no useful bound |
+
+Excluded by ruling 3 (the drive supplies quanta at each step): double-quantum NMR (Álvarez–Suter–Kaiser 2015; Krojanski–Suter), laser-driven ion echoes (Gärttner et al. 2017), gate-based qubit echoes (Mi et al. 2021).
+
+**The strongest defensible bound.** From Sánchez et al. (2020): passing correlations among K spins by pairwise flip-flops takes at least K − 1 passes, so about 10² quanta were handed on and the reversal still recovered signal: **N ≳ 10²**, conditional on two readings. (i) *The drive.* The pulse trains briefly rotate every spin, exchanging Zeeman quanta with the field with zero net exchange per cycle; whether that is "steering" under ruling 3 is the author's to rule. Under the strict reading only the transmon echo is beyond dispute, N ≳ a few. (ii) *The count.* In high-temperature NMR the excitation is a small excess polarisation, not a single quantum; "10² correlated spins" is a spread of correlations, and its conversion to quanta handed on is an inference, owed with a statement of ruling 6 for mixed states.
+
+**The shape of the loss.** No experiment shows a wall at a fixed breadth. The 2020 floor sets a time scale (T₃ ≈ T₂/0.15) and fades gradually; a stopping number predicts a ceiling in recovered breadth that does not move with the coupling or the noise.
+
+**Grade.** Shape. N ≳ 10² if double-quantum-free NMR pulse trains count as steering (the author's ruling), else N ≳ a few; no sharp breadth wall seen. Owed: the full Geier et al. (2024) figures (the clearest steering-only case at large breadth), ruling 6 stated for mixed states.
+
+Sources: Sánchez et al. 2020 (https://dspace.mit.edu/bitstream/1721.1/124332/2/PhysRevLett.124.030601.pdf); Levstein, Usaj, Pastawski 1998 (https://arxiv.org/abs/cond-mat/9803047); Braumüller et al. 2022 (https://arxiv.org/abs/2102.11751); Geier et al. 2024 (https://arxiv.org/abs/2402.13873); Linnemann et al. 2016 (https://arxiv.org/abs/1602.07505).
