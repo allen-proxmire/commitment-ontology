@@ -33,7 +33,7 @@ GR has no global now; QM has no event. CO takes both as primitives: commitment a
 **Commitment** is the act. One irreversible update to possibility, at a place. It cannot be undone.
 - Ruling C1, *renewal:* a commitment, on completing, engages adjacent free possibility (or, through a channel, a quantum in transit: C8) into its next commitment, releases what it held, and adds one to its count. Any commitment does this while free possibility is adjacent; it halts when none is. Matter is a commitment that keeps being fed.
 - Ruling C2, *the clock:* a commitment repeats at the rate (mc²/ħ)(1 − h). Less free possibility, slower repeats.
-- Ruling C3, *retention:* each repeat keeps a share of what it engaged, δħ·(P_free/P_max), as record. The record only grows: the arrow of time.
+- Ruling C3, *retention:* each repeat keeps δħ of what it engaged as record (candidate in this fixed form). The record only grows: the arrow of time.
 - Ruling C4, *one quantum:* every commitment engages the same amount, ħ. Mass is how often commitment falls due, ω = mc²/ħ.
 - Ruling C5, *rate:* commitments happen at a rate, and a pattern in transit carries where it is in its cycle, its phase. (The one addition of the matter sector.)
 - Ruling C6, *the flip:* a commitment changes a pattern's internal state without moving it, with amplitude i·mcℓ/ħ per hop. The heaviest possible pattern flips every hop, and its Compton wavelength is the hop length.
@@ -58,11 +58,11 @@ $$\omega=\frac{mc^2}{\hbar},$$
 
 which is the Compton frequency physics already knew. The first scale in the theory is an action, not a length, and it arrives with the first repeat.
 
-**Record** is what a commitment leaves behind, carried forward by renewal. Each repeat keeps a small share of what it engaged:
+**Record** is what a commitment leaves behind, carried forward by renewal. Each repeat keeps a small, fixed share of what it engaged:
 
-$$\text{retained}=\delta\,\hbar\,\frac{P_{\text{free}}}{P_{\max}},$$
+$$\text{retained}=\delta\,\hbar ,$$
 
-δ a constant of the theory, P_free the free possibility at the place, P_max the most a place can hold. The record only grows. That is the arrow of time, said twice: the count goes up, the free stock goes down, and they are one process.
+δ a constant of the theory (candidate in this fixed form: with a hop moving a fixed amount, a fixed share keeps G the same as the free stock falls, and gives the clock weighting GR has inside matter). The record only grows. That is the arrow of time, said twice: the count goes up, the free stock goes down, and they are one process.
 
 **Pattern** is possibility in transit between commitments: light, and matter between its repeats. Possibility in transit keeps its direction until a commitment redirects it. That is inertia, and it costs nothing to state.
 
