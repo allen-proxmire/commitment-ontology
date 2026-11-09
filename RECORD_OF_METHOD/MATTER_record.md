@@ -971,3 +971,27 @@ And ruling 3 as ruled (the pulse trains steer).
 ## 2026-11-09 — exchanges between patterns inside one body are passages (the author's ruling, candidate)
 
 Ruled by the author on assumption (iv) of the warm-sample entry: energy-conserving exchanges between distinct patterns inside one body (two nuclei's spins swapping a Zeeman quantum by a flip-flop) are passages; kinships are relations within a single pattern (the tiles of one pattern, the quarks of one proton). This settles one half of the open question "whether exchanges inside one pattern are passages or kinships": between patterns, passages; within one pattern, still open. With it, **N ≳ ~50** stands under the remaining named posits and readings (mixture as Zeeman configurations; breadth as support; the pulse trains steer). Cost carried: with passages inside bodies counting, an isolated body whose internal chains pass N would commit, which bears on "a pattern left alone is not resolved" if N is adopted (not adopted; N stays a shape).
+
+## 2026-11-09 — can N be tied to what CO already has? (shape; the ties clash, after cold reading)
+
+**Why.** As a free number, N would be a fourth constant of CO's own. Adopting it is far stronger if it follows from the constants CO already has (δ, P_max, ℓ, ħ). N is a pure number, so the candidates are dimensionless combinations.
+
+**Candidates.**
+- *N = P_max/ħ: a chain commits when it has gathered more quanta than one place can hold.* It echoes an existing rule (an empty place commits only over capacity). But capacity is per place and a chain's breadth is spread over many places; no place overflows. Not supported as stated. (P_max itself is no longer pinned to a few ħ: that figure rested on the superseded δ.)
+- *N from ℓ alone:* counts built from ℓ (e.g. (λ_C/ℓ)³) depend on the pattern, not a constant.
+- *N = 1/δ: a chain commits when the record it has laid down reaches the amount one commitment engages (C4).* If each distinct quantum a chain reaches (ruling 6) left a share δħ, the chain's record would reach ħ at N = 1/δ. A variant with threshold P_max (what one place holds, and what one hop moves) gives N = P_max/(δħ) = (ℓ/ℓ_P)²/4π ≲ 5.1 × 10⁶, with no P_max factor. Since ħ and P_max are both amounts the rules supply, the threshold is a free choice, and any combination δ^a(P_max/ħ)^b would qualify: "no new constant" is weaker than it looks.
+
+**What N = 1/δ would give.** With δ ≳ 1.9 × 10⁻⁷ P_max/ħ (hop bound): 50 ≲ N ≲ 5 × 10⁶ ħ/P_max, a window whose lower end is experimental (conditional on the warm-sample posits) and whose upper end comes from the hop bound. If N = 1/δ and N ≳ 50, then δ ≲ 0.02 and ℓ ≳ 25 ℓ_P √(P_max/ħ), about 4 × 10⁻³⁴ m for P_max = ħ.
+
+**Why it does not hold as a tie.** The record it needs is a new kind of quantity that clashes with standing rules:
+- C3's retention is per repeat of a renewing pattern; the passages before N are coherent routes, not repeats, and the engaging pattern's renewals keep δħ anyway. A per-passage or per-quantum record is new, not an extension of C3.
+- It would have to be *provisional*: echoes below N reverse, so the share would be erased, against "the record only grows"; tied to the chain's branch, against "amounts are classical"; carrying information about the chain, against the independent-draw posit.
+- Light: many passages hand on photons, and light's coefficient rests on "light retains no record".
+- `NUCLEUS.md` states "δ is a constant of gravity only"; tying N to δ contradicts it.
+(No upper bound on δ on record is broken: the old limits applied to a branched record; the shot noise does not depend on δ; the free stock's end, ∝ 1/δ, is still ≳ 5 × 10³¹ s at δ = 0.02.)
+
+**Conclusion.** N cannot be tied to CO's existing constants without a new, erasable, per-quantum record that clashes with four standing rules and one stated scope. N stays a free number if adopted: a fourth constant, set only by experiment.
+
+**Cold reading, same day; corrected.** Arithmetic confirmed; C3 is per repeat, so the record N = 1/δ needs is new; the provisional record clashes with record-only-grows, classical amounts, the independent draw and light's no-record ruling, and with "δ is a constant of gravity only"; passages and distinct quanta distinguished (ruling 4 rejects counting passages over time); the P_max threshold variant added, and with it the point that the threshold is a free choice; candidate 1's numerical dismissal dropped (P_max unpinned).
+
+**Grade.** Shape. No tie of N to existing constants holds without a new record that clashes with standing rules; N, if adopted, is a fourth constant set by experiment.
