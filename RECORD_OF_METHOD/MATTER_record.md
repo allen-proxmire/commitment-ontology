@@ -709,3 +709,7 @@ Left open: whether exchanges inside one pattern are passages or kinships (tied t
 ## 2026-11-08 — the moving clock as one budget of hops (the author's picture; entered in the plain doc)
 
 *Ticking and travelling share one budget of hops.* The walk hops at c; commitments are its turns; a travelling pattern turns less often per lab second and renews at ω/γ (the covariant intensity (mc²/ħ)ψ̄ψ integrates to ω/γ). This is special relativity's time dilation in the walk's terms (Feynman's checkerboard; "everything moves through spacetime at c"). In a circular orbit, v² = GM/r, so the kinematic slowing v²/2c² is half the gravitational GM/rc². No new rule; a sentence in the plain doc.
+
+## 2026-11-08 — note: "transverse = light" is loose
+
+The identification of light with the transverse part of the which-way field is loose: the transverse field also carries a moving charge's bound magnetic and velocity fields and the Breit/Darwin exchange (this record already notes the continuum limit drops transverse exchange). Light is the emitted (radiation) part; the bound/emitted split is not yet stated in CO (gravity record, the self parts).

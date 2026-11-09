@@ -617,3 +617,35 @@ The negative number is a cross term, not a negative density: |E₁ + E₂|² is 
 **Cold reading, same day; corrected.** Arithmetic and Maxwell stress confirmed. Where the fields add and oppose corrected (they add between the charges); binding energy is K, not the field's 2K deficit; the field E restored as the flux conjugate to the ratio A (the MATTER record's correction), not the ratio itself; P8 dropped as the source (same algebra, not a reason): a posit, not a reading; P2 does not cap field energy, the lattice does, and the dressed self-field would draw twice (≈ 10³ mₑ); the lunar-ranging claim withdrawn (nuclear electrostatics); von Laue's inheritance made conditional on conservation.
 
 **Grade.** Candidate (posit; the author's ruling needed): the which-way field's energy draws as a classical amount by its mean, which removes the negative draw for the binding cross term and reproduces GR's count for atoms at order v². Conditional on the self parts (a self-energy of about 10³ mₑ per charge must not draw twice), which could exclude it. The pressure rule stays shape: the nuclear half has no object, and the active-mass bounds sit mainly on it.
+
+## 2026-11-08 — the self parts: a pattern's bound field is the pattern's; travel draws only between and emitted (shape, after cold reading)
+
+**The condition (previous entry).** Each charge's own field energy is finite on the lattice, ≈ 0.4 GeV ≈ 10³ mₑ (MATTER record, a mass shift at fixed particle number, tamed to a logarithm only by pair creation). If it sits in the turning draw mc² and also draws as travel, the electron draws m c² + 2U_self.
+
+**The line.** The field a pattern carries with it (its bound field: the Coulomb field at rest, and the magnetic and velocity-dependent parts that move with it) is part of the pattern: counted once, in its mass, as turning. What draws as travel, twice, is radiation (field that has left its source) and the cross terms between different patterns' fields. The split is bound against emitted, not longitudinal against transverse: a moving charge's own transverse field is bound, and drawing it as travel would add about (4/3)(v²/c²)U_self ≈ 10³ K per charge (≈ 36 keV per hydrogen atom). The cross term between a charge's own bound field and its own radiation (the Schott term) belongs to neither side and is owed. CO does not yet state the bound/emitted split: the MATTER record's longitudinal/transverse split puts bound magnetic fields and Breit exchange with light.
+
+**Why it is the natural line.** Masses are measured (they are inputs), and a measured mass is that of the pattern with its own field, a closed stationary whole (for such a whole ∫T^{ij} = p^iv^j, so its draw is ∫T = m²c⁴/E plus ∫S = p·v). Drawing the own field again as travel treats the field as an open system (the field alone has ∫S ≠ 0: Tolman mass 2U_self at rest, field momentum (4/3)U_self v/c² when moving). For any stationary closed system, applying the rule to the parts or to the whole gives the same total, by von Laue; so "own versus between" matters only for elementary self fields, and the line is forced once closure holds, not chosen.
+
+**Closure is the condition, with three exposures.**
+- *Lattice covariance.* The lattice breaks Lorentz symmetry; with U_self ≈ 10³ mₑ the self-energy must transform as a four-vector to high precision, bounded by Lorentz-violation limits on the electron. Testable, not only owed.
+- *The pair sea.* Without it, a measured mₑ with U_self ≈ 0.4 GeV needs a pattern core of about −0.4 GeV: a negative turning share, the negative draw the previous entry removed, now inside every charge. With it, δm/m ≈ (3α/2π)ln(Λ/m), a few per cent, and the problem is mild. Which case CO is in is open (the MATTER record's no-pair projection sets the sea aside).
+- *Elementary only.* Closure applies to elementary patterns. Assumed for nucleons or nuclei it would take on the gluon clause and make the active-mass tests empty by construction. A bound electron is not closed in von Laue's sense; at order v² the effect is negligible.
+
+The previous entry's two options are one: restricting travel to cross terms is consistent only if the pattern is closed, which is the inner-stress option. The risk moves from the field-energy posit to closure.
+
+**Consequences (of the virial identity, not independent tests).** Charges i with measured masses m_i, kinetic energies K_i (K their total), and V = Σ_{i<j} q_iq_j/r_ij the cross terms. Each pattern draws m_ic² + 3K_i (order v²); the cross terms draw 2V (traceless). Total
+
+$$\sum_i m_ic^2 + 3K + 2V = \sum_i m_ic^2 - K \quad\text{using } 2K + V = 0,$$
+
+the bound system's mass, for any Coulomb system: active equals passive at order v².
+- *Hydrogen:* K = 13.6 eV; 3K = 40.8 eV, 2V = −54.4 eV; total −13.6 eV.
+- *Helium:* K = 79.0 eV; 3K = 237.0 eV, 2V = −316.0 eV (two attractive cross terms, one repulsive, V = −158.0 eV); total −79.0 eV, helium's measured electronic binding (24.59 + 54.42 = 79.01 eV; the nucleus is an external source, and its 28.3 MeV binding has no object).
+The static self energies, e²G(0)/ε₀ per charge, do not change with the configuration (as the MATTER record notes); the velocity-dependent self energy does, and counts as the pattern's kinetic energy only if the pattern is closed. Darwin and magnetic cross terms between charges are order α²K, beyond the check.
+
+**Light.** Free radiation is field detached from its source: all travel, 2E, as in the pressure entry. Its cross term with a charge's longitudinal field integrates to zero over space at every instant (longitudinal and transverse fields are orthogonal, and the cross term's stress trace equals its energy), so it adds nothing to a body's total draw; place by place it is non-zero and moves the draw around. Momentum exchange is the Poynting cross term, owed with the covariance item.
+
+**What it is.** A scope line on the travel rule, a posit. It needs a split CO does not yet state (bound against emitted). It removes the double count if patterns are closed; what closes them is a new object, owed.
+
+**Cold reading, same day; corrected.** Arithmetic and the closed-whole split confirmed. The line redrawn as bound against emitted (longitudinal against transverse leaks ≈ 10³ K per charge); the Schott term named; closure's exposures added (lattice covariance, a negative core without the pair sea, elementary only); the two options shown to be one, so the risk moves rather than goes; the light paragraph restated (orthogonality, not averaging); the checks called consequences of the virial identity.
+
+**Grade.** Shape. The line (bound field the pattern's; travel draws for emitted fields and cross terms) gives GR's count for any Coulomb system at order v², but rests on closure of elementary patterns, which has no object in CO and three exposures. The field-energy posit's grade (candidate) is now conditional on closure.
