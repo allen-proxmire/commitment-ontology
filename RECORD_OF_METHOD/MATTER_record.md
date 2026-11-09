@@ -818,3 +818,7 @@ If the flip gates are the commitments (a posit: a gate acts at every place each 
 ## 2026-11-09 — the author's choices on the tick entry
 
 Flip gates as commitments: left as a named posit (the walk has no definite events yet). C6 and `MATTER.md`'s mass paragraph now say that the Wilson term acts across neighbouring places. A strictly local Wilson walk is registered as L1b.
+
+## 2026-11-09 — L1b read: the strictly local Wilson walk adopted (the author's ruling, candidate)
+
+L1b (`MATTER_runs/L1b_local_wilson/L1b_result.md`), read by the author. The half-shift form A_j = S_j⁺ F(w) S_j⁻ F(−w) is strictly local and, for w ≳ 0.3, leaves one light species (both sectors gapped elsewhere). A massive pattern outruns the massless one by s ≈ 0.14·mcℓ/ħ at w = 0.3, isotropic and linear in mass, about twice the quasi-local form's: the effect is not an artefact of the tails. Adopted by the author as candidate (ii) in place of the quasi-local flip. Needed bound: ℓ ≲ 1.3 × 10⁻³¹ m, δ ≳ 2 × 10⁻⁷ P_max/ħ. Entered in `MATTER.md` and `OPEN_DIRECTIONS.md`. The global-tick entry's "strictly local Wilson walk owed" is met; its circuit reading now holds without tails.
