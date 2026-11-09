@@ -498,3 +498,53 @@ The reconciliation entry's remark that N·∂ln P is unchanged when P and P∞ a
 **Cold reading, same day; corrected.** P_free = P∞N is the field law, equal to the clock rule only where P = P∞; light's coefficient is a precedent for a draw that is not the record; the door's justification depends on the unfixed conductance scaling; way 1 needs a second ruling and keeps the clock's screening; way 3's two deficits compound, and the apt tests are of active mass, not Nordtvedt's η; the inside-matter entry's von Laue claim corrected.
 
 **Grade.** Shape. Owed first: the conductance scaling. If amount-free, the reason for C3's P_free/P_max factor goes and the fixed δħ form returns as a candidate. Way 1 is a candidate pair of rulings; way 3 is a GR-departing prediction to be estimated against the double pulsar before it is a default.
+
+## 2026-11-08 — how much a hop carries: the conductance's scaling, and what it does to C3's share (candidate, after cold reading)
+
+**The question.** Ratio hopping fixes what drives a hop, ln(P_j/P_i); it does not fix how much possibility a hop moves. Flux per unit area through a relation is
+
+$$J = \frac{q\,\nu\,\ell\,\partial\ln P}{\ell^2},$$
+
+q the amount a hop moves, ν the hop rate, ℓ the hop length. The slide check's rule (rate ∝ (P_j/P_i − 1)/ℓ_ij, conductance 1/ℓ) is worded in the amount-free form, but its invariance argument holds equally for any q set by the end-places' P; it does not choose q. (As a per-relation flux, ln(P_j/P_i) is antisymmetric and conserves; (P_j/P_i − 1) does so only at linear order. With fixed q and a near-empty neighbour the ln-driven flux is unbounded: a positivity clause is owed, tamed by the lapse weighting only where the clock slows.)
+
+**What fixes q.**
+- *Local power laws, q ∝ P_freeⁿ.* With the lapse weighting the flux makes N^(n+1) harmonic, β = (2 − n)/2. Mercury (part in a thousand) gives |n| ≲ 2 × 10⁻³. n = 1 (q ∝ P_free) gives N² harmonic, β = 1/2, excluded, given the lapse weighting (candidate; without it this case is difference flux and passes Mercury, failing instead inside matter or on Ġ/G). Mercury fixes only the product (amount per hop × hop-rate weighting) ∝ N.
+- *q set by the relation's own occupancy (P7).* At rest ∝ 1/N, cancelling the lapse weighting: β = 3/2, excluded.
+- *q ∝ the floor, P∞.* Not readable locally; excluded by locality, except through the next case.
+- *q ∝ the place's whole possibility, P.* Nothing in the rules sets P, and as the rules stand P includes the record. With way 1's second ruling (P set by the floor) this makes q ∝ P∞ locally, and with way 1's share δħ·P/P_max it also gives a floor-free G and one N: a full competitor, at the price of two rulings.
+- *q fixed.* Local; n = 0. The rule-supplied values are ħ (the quantum C4 assigns a commitment) and P_max (P2's cap).
+
+Among local power laws, Mercury with the lapse weighting leaves only q fixed. The entry takes q fixed: a choice, candidate, with the whole-P case (with way 1) open.
+
+**What a fixed q gives.** With ν = c/ℓ and the lapse weighting, the exterior law is
+
+$$\kappa\,\partial_i(\psi^2\partial_i N) = \text{sink},\qquad \kappa = \frac{q c}{\ell^2},$$
+
+with N = P_free/P∞ and κ independent of the floor. A uniform fall of the floor leaves N, the field and G unchanged if and only if the sink does not scale with the floor. Then:
+- *C3's present share, δħ·P_free/P_max = (δħP∞/P_max)N,* makes G ∝ P∞: Ġ/G = Ṗ∞/P∞ < 0, of order H₀ (≈ −3H₀ ≈ −2 × 10⁻¹⁰ yr⁻¹ if places track volume; the pooling drain itself is negligible). Excluded, given fixed q, by the lunar-ranging bound (~10⁻¹³ yr⁻¹) by about 10³.
+- *The fixed share, δħ,* gives a floor-free sink and G constant. The earlier exclusion of the fixed share was computed with difference flux D∂P, which in ratio terms is q ∝ P; with q fixed, h ∝ σ/κ and the exclusion does not carry over. No other reason for dropping the fixed share is on record ("The wall, and the door" gives Ġ/G only; the beginning is already written in the fixed form).
+
+So under amount-free ratio hopping, a sink that is also amount-free does the one door's job, and the door's factor is what breaks it. What does the job is that conductance and sink scale alike with amount; the old pairing (conductance ∝ P∞, share ∝ P∞) did it the other way, and the old G = δc³ℓ²/(4πħP_max) is exactly that pairing with P∞ cancelled.
+
+**Inside matter.** Sink per coordinate volume and time = nψ⁶(mc²/ħ)·clock·δħ = δψ⁶ρc²·clock: one clock factor, matching GR's ψ⁶N(ρ+S) in the density term where the clock rate (1 − h) = P_free/P equals P_free/P∞. Inside matter P includes the record, and that identification is owed (as for way 1). The pressure part of the inside-matter entry is untouched; way 3's departure halves (the missing 3p, about |E_grav|/c² of active mass) but does not vanish. The share's own self-screening goes: the approach to the hole goes as N rather than N², still asymptotic. The sink still vanishes as h → 1, because the clock stops.
+
+**The value of G.** Weak field, point mass: N − 1 = −δmc²/(4πκr) = −Gm/(c²r), so, up to a lattice factor of order one (relations per area and coordination not counted),
+
+$$G = \frac{\delta c^4}{4\pi\kappa},\qquad \ell^2 = 4\pi\,\ell_P^2\,\frac{q/\hbar}{\delta}.$$
+
+With ℓ ≲ 6 × 10⁻¹⁹ m, (q/ħ)/δ ≲ 1.1 × 10³².
+- *q = P_max:* the old relation ℓ = ℓ_P√(4πP_max/δ) word for word; every results-doc number stands; only C3 changes. The P_max ≲ 1.1ħ question stays (P∞ < P_max − ħ already implies P_max > ħ).
+- *q = ħ:* P_max leaves G; δ ≳ 9 × 10⁻³³; the P_max < ħ question closes. Cost: the vacuum-spread exclusion's upper side used P_max ≈ 3ħ via the old relation and scales with P_free; with P∞ no longer pinned it holds only for P∞ ≲ 4 × 10⁴ħ to 2 × 10⁹ħ, recoverable at candidate grade from the thinning count (degree ≈ P∞/ħ, three lines per place: P∞ ~ 6ħ).
+- Otherwise q is a fourth constant.
+
+**What changes, if adopted.**
+- C3: "keeps a share δħ·(P_free/P_max)" becomes "keeps δħ". Results docs: `CO_plain_language.md` lines 36, 63, 143; `SPACE_AND_GRAVITY.md` lines 21, 42, 48, 74 (and, for q = ħ, "ℓ is fixed by δ and P_max"); `MATTER.md` line 25 (for q = ħ: δ ≳ 9 × 10⁻³³).
+- Record: pooling sentence and line 125 (G ∝ δ/P_max, self-screening); line 87; the door paragraph; "The vacuum far away" second bullet restated in the ratio form (its conservation line is already fixed-form); the g-linear clause survives through the clock.
+- MATTER record figures used ε = δħ (P_free/P_max set to one): under the fixed share they stand as written, now exact. Line 418's cost (1) (record unbranched only to order δ·Δh) goes. Line 587: matter's coefficient becomes plain δ, matched by light's one G.
+- Free stock: a finite end, of order 10⁶² s; near it renewals halt by C1 (no ħ to engage), so retention stops with them; no further clause.
+- Quadratic-curvature bounds |β| ≲ P_max/4δ become q/(4δħ), numbers unchanged (expressed through ℓ). Withdrawn count-functional entry (matching relation only): a₁ → q/(4δħ).
+- The one-door entry: density part resolved under the fixed share. The inside-matter entry: density part resolved, pressure not.
+
+**Cold reading, same day; corrected.** Algebra, β values, G, ℓ and the δ figure confirmed. "Scalelessness does the door's job" corrected (a fixed q is itself a scale; what does the job is alike scaling); the case list completed (power laws, occupancy, q = P_max, whole P with way 1 as a competitor); the old exclusion's reason corrected (q ∝ P, not difference versus ratio); the dent windows stand rather than move; the vacuum-spread closure's dependence on the choice of q added; the clock-versus-N identification inside matter named as owed; notation a → q.
+
+**Grade.** Candidate, resting on the lapse-weighted ratio flux (candidate) and a fixed q (candidate choice). C3's amendment to a fixed share is proposed to the author, conditional on the conductance choice. q = ħ and q = P_max are alternative posits. Owed: positivity of the flux; the clock-versus-N identification inside matter.
