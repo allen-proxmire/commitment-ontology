@@ -552,3 +552,45 @@ With ℓ ≲ 6 × 10⁻¹⁹ m, (q/ħ)/δ ≲ 1.1 × 10³².
 ## 2026-11-08 — C3 in the fixed form; a hop moves P_max (the author's rulings, candidate)
 
 Ruled by the author on the entry above: C3 becomes "each repeat keeps δħ"; a hop moves a fixed amount, q = P_max, so G = δc³ℓ²/(4πħP_max) and every results-doc number stands. Entered in `CO_plain_language.md` (C3, Record) and `SPACE_AND_GRAVITY.md` (Record, the field's σ = δmcℓ²/(ħP_max)). Superseded in this record, not deleted: the pooling sentence's share δħ·(P_free/P_max), the door paragraph's reason, self-screening (only the clock's (1 − h) remains), the Ġ/G argument in the difference form. Still owed: flux positivity; the clock-versus-N identification inside matter; pressure.
+
+## 2026-11-08 — pressure: turning and travel, and travel drawing twice (shape, after cold reading)
+
+**What GR needs, per pattern.** GR's interior source is ρ + S (S the trace of the spatial stress, 3p for a fluid; ρ and S measured by static observers). For a free particle of energy E = γmc² and momentum p, its share of ρ is E and of S is pv = p²c²/E, so its source is
+
+$$E + pv = \frac{E^2 + p^2c^2}{E}.$$
+
+**Turning and travel.** Split E as
+
+$$E = \underbrace{\frac{m^2c^4}{E}}_{\text{turning}} + \underbrace{\frac{p^2c^2}{E}}_{\text{travel}} = \frac{E}{\gamma^2} + E\,\frac{v^2}{c^2}.$$
+
+The turning share is ħ times the lab renewal rate, (mc²/ħ)/γ: the author's moving clock. C2 and C3 make matter draw δ times it, which summed per unit lab volume is the trace T = ρ − S (a Lorentz scalar). The remainder, E − mc²/γ = pv, is named travel; it is the particle's contribution to S. The split is the identity (dτ/dt)² + v²/c² = 1 weighted by E, exact in special relativity; it is not a count of hops (turns are a fraction (mcℓ/ħ)/γ of hops).
+
+**What the sink draws now.** Matter draws by turning: T, which for a gas is ρ − 3p. Transit draws by its energy, ħω (P6, one G per unit energy). For dust both give ρ. For radiation (all travel) they give ρ against GR's 2ρ; for a gas, ρ − 3p from renewals against GR's ρ + 3p.
+
+**The rule.** GR's source in the split is
+
+$$\rho + S = T + 2S = \text{turning} + 2\times\text{travel}$$
+
+(T = ρ − S, the trace in signature (+−−−)). So one rule gives GR's source for free patterns: *turning draws once, travel draws twice.* Cases (each follows from the identity; they are not independent tests):
+- dust (v = 0): E. Newton and the exterior tests untouched.
+- a gas: Σ E(1/γ² + 2v²/c²) = Σ E(1 + v²/c²) = ρ + 3p.
+- radiation (v = c, no turning): 2E = 2ρ. The radiation era's factor two would be met by the same rule (at the shell, R₀₀, level: ä/a = −(4πG/3)(ρ + 3p) is the same combination).
+- the earlier clause (transit draws by frequency and momentum flux) drew mc²/γ + (E − mc²) + pv, short of the rule's mc²/γ + 2pv by mc²(1 − 1/γ): renewal plus kinetic energy does not sum to E. This supersedes the inside-matter entry's conclusion that a rest-energy renewal draw is needed: the renewal draw stays the trace, and travel is pv rather than kinetic energy.
+
+**What the rule is.** A posit: nothing in the rules says why travel draws, or why twice. It is chosen to reproduce ρ + S. It meets both named shortfalls, the radiation era's factor two (a contradiction with BBN and the CMB) and the missing 3p (a contradiction with CO's own Einstein–Hilbert exterior), because they are one term. It generalises the radiation-era candidate on record ("radiation draws twice"); it replaces light's matched coefficient with another matched number rather than removing one. Light's coefficient ("the same strength per unit energy as matter") is replaced: G stays one; the source per unit energy is one for turning and two for travel, and light, all travel, draws 2E, GR's R₀₀ source for null radiation (a beam pulls a static test particle at twice the Newtonian rate, Tolman–Ehrenfest–Podolsky 1931; their null result for parallel beams needs the full conserved T^μν, which a scalar draw does not supply). P6's own reason, "as a renewal would", no longer applies to light, which has no turning: the debt becomes why travel draws, and twice. A possible reading of the two, not adopted: a hop that moves engages the place it leaves and the place it reaches; it would also need the energy weighting, since travel is not a hop count.
+
+**Conditions: fields.** As stated for free patterns only, the rule adds +S without the binding −S and breaks von Laue: hydrogen's electron draws about mc² + 3K, the atom about M + 4K against passive M − K; nuclear kinetic energy (tens of MeV per nucleon, composition-dependent) is excluded by the active-mass bound (Kreuzer 1968; Bartlett–van Buren 1986, ~10⁻¹²). The field clauses are conditions for the rule, not refinements:
+- *Field stress as travel.* For any electromagnetic field T = 0 and S = u, so "all travel, drawing twice" gives 2u = ρ + S. But von Laue for an atom needs the negative interaction energy to draw at −2|U|: a negative draw, a local release, which a split of positive E does not give. And static field energy is the which-way ratio, not an amount in transit (MATTER record: amounts classical, the ratio branched); its draw needs an amount reading of field energy or a change of that ruling's scope.
+- *Field trace as turning.* Most of a nucleon's mass is the gluon field's trace (QCD's trace anomaly). For a nucleon at rest ∫S = 0 over quarks and gluons, so its source is ∫T, correct only if the gluon trace draws as turning; inside the nucleon the quarks are ultra-relativistic, so without it the nucleon's active mass is badly off. The dynamical colour field that carries the anomaly is not in CO (NUCLEUS, posit (ii)): the clause has no object yet.
+
+**Further owed.**
+- *Lapse factor for travel.* The fixed share's one clock factor counts renewals per coordinate time; travel draws have no renewal clock, so their factor N is not supplied.
+- *Self-gravitating bodies.* The source would be GR's Tolman integrand (ρ + S)N, with matter's ∫S = |E_grav|, given the field clauses, the clock-versus-N identification, and a lapse factor for travel draws.
+- *Conservation.* Matter's travel draw is not record (C3 covers turning). Pooling's "the retained fraction is the record, its withdrawal the sink" is no longer the whole sink; where non-record drawn possibility goes is owed for all of S, not only for light.
+- *Covariance.* The draw fixes only the combination that sources R₀₀, in the network frame; R_ij, g₀ᵢ, beams and the Bianchi identity need the full conserved T^μν, or preferred-frame bounds (PPN α₁, α₂) apply to bodies moving through the network.
+
+**If ruled, downstream.** `CO_plain_language.md` P6, the draws paragraph, the expansion paragraph and the radiation-era item; `SPACE_AND_GRAVITY.md` lines 22, 70, 78; `OPEN_DIRECTIONS.md` light's-coefficient clause; MATTER record cost (ii); this record lines 7, 199 and the inside-matter grade; way 3's remaining deficit.
+
+**Cold reading, same day; corrected.** Maths and the R₀₀ source confirmed; δ restored and the split stated as an identity, not a hop count; the cases are consequences, not tests; "retires two contradictions" restated as one term met in two places; Tolman–Ehrenfest–Podolsky cited for the R₀₀ factor and against the scalar draw for parallel beams; the field clauses made conditions (alone the rule breaks von Laue, excluded by lunar ranging); negative interaction draw and the amount/ratio clash named; the gluon clause has no object; lapse factor for travel, conservation and covariance added.
+
+**Grade.** Shape. The rule (turning once, travel twice) reaches GR's R₀₀ source for free patterns and meets the radiation era's factor two; it is a candidate only jointly with two field clauses that CO cannot yet state (a negative draw for interaction energy; the gluon trace as turning). Alone, for free patterns, it is excluded by lunar ranging. The turning share is the author's moving clock; the split is an identity; "twice" is the posit.
