@@ -6,7 +6,7 @@ Results only. The working record, with every route tried and every withdrawal, i
 
 | primitive | statement |
 |---|---|
-| **Possibility** | a conserved quantity held at places, moving between related places; counted in quanta of ħ (an action: possibility per tick) |
+| **Possibility** | a conserved quantity held at places, moving between related places; counted in quanta of ħ (units of action) |
 | **Commitment** | one irreversible update to possibility, at a place |
 
 Added principles: the substrate is scaleless; sliding or relabelling places costs nothing (there is no backdrop); second-order field equations (no higher-derivative costs).
