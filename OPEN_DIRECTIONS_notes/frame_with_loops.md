@@ -23,7 +23,7 @@ with ξ_i of order one and set by the regulator's shape, not suppressed by ℓ (
 
 | exit | mechanism | for CO |
 |---|---|---|
-| frame-free substrate | random sprinkling (Bombelli–Henson–Sorkin 2009) | excluded (births, degree, locality); Way B parked |
+| frame-free substrate | random sprinkling (Bombelli–Henson–Sorkin 2009) | excluded (births, degree, locality); Way B with quantum values keeps a frame-picking regulator; with a quantum graph, unsettled |
 | infrared flow | Chadha–Nielsen 1983; Anber–Donoghue 2011 | too slow for QED |
 | frame only in gravity | Pospelov–Shang 2012, suppression (M_LV/M_Pl)² | not available: matter walks on the network |
 | fermion–boson symmetry | Groot Nibbelink–Pospelov 2005; breaking below about 10⁷ GeV by the (M_SUSY/M)² scaling against CO's hop scale | no partners in CO |
@@ -35,7 +35,7 @@ with ξ_i of order one and set by the regulator's shape, not suppressed by ℓ (
 ## In plain words
 
 **The exits, priced** (matter record, 2026-11-10).
-- A substrate that picks no frame: not available (sprinkling excluded; Way B parked).
+- A substrate that picks no frame: not available (sprinkling excluded; Way B with quantum values does not reach the loop problem; with a quantum graph, unsettled and costs the substrate as ruled).
 - Flow to Lorentz invariance at low energy (Chadha–Nielsen 1983; Anber–Donoghue 2011): too slow for QED.
 - The frame only in gravity (Pospelov–Shang 2012): not available; matter walks on the substrate.
 - A symmetry pairing fermions and bosons (Groot Nibbelink–Pospelov, PRL 94, 081601 (2005)): works for breaking below about 10⁷ GeV, but needs partners CO does not have. Shape, outside CO.
@@ -70,4 +70,4 @@ CO stands where any real-time lattice field theory stands: permitted with a tuni
 
 From the sink's strength with a fixed amount q per hop, G = δc³ℓ²/(4πq) in general, so ℓ = ℓ_P√(4πq/(δħ)). A lattice finer than Planck (ℓ < ℓ_P) needs q < δħ/(4π) ≤ ħ/(4π): hops carrying less than 1/(4π) ≈ 0.08 of a quantum. The ruling q = ħ (hops move one quantum; it settles the degree of the network against R5) and δ ≤ 1 (a kept fraction) both forbid it. So ℓ ≥ √(4π) ℓ_P is structural, not a choice made along the way: in CO the lattice scale is tied to gravity's strength, and the two-scale protection (Lorentz-violating scale far above Planck) is closed unless gravity's strength comes from somewhere other than the sink's conductance. Induced gravity (Sakharov 1967) is one such source, but there 1/G ~ NΛ², so more species push the cutoff below Planck, not above.
 
-**So.** The two direct routes found so far (lattice supersymmetry; a lattice finer than Planck) are closed for CO as it stands. By the author's plan, the next route is Way B.
+**So.** The two direct routes found so far (lattice supersymmetry; a lattice finer than Planck) are closed for CO as it stands. By the author's plan, the next route was Way B: read 2026-11-10 (space and gravity record), it does not reach the loop problem with quantum values on a fixed graph, and with a quantum graph its status is unsettled and it costs the substrate as ruled. As ruled, CO's network picks a frame that matter's loops would see; no exit read so far removes it without tuning or a change of ruling.
