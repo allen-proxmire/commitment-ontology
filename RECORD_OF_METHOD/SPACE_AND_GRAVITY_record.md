@@ -764,3 +764,21 @@ The plain-language sentence "wrong against GR for any body held up by pressure" 
 4. *Out of reach:* nuclear stress (neutron stars), the nucleus wall.
 
 **Grade.** Shape. The finding: CO's trace draw is already GR's for closed bodies at rest by von Laue; the missing term is 2S, nonzero only for radiation, self-gravity and moving wholes. Closing it costs one posit stated at the level of closed wholes (rule 1, proposed), the field-energy posit for solids (rule 2, on record, proposed), and three owed pieces of structure (rule 3). Taken, pressure would be candidate for radiation, gas stars and white dwarfs, and for planets with rule 2, conditional on rule 3.
+
+## 2026-11-10 — the travel rule and field energy ruled (the author's rulings, candidate); travel's clock factor read
+
+**Ruled (candidate).**
+1. *The travel rule:* a closed whole draws its turning once and its travel twice, applied at the largest closed whole; light, all travel, draws 2E. A closed whole is anything whose rest mass is measured as a whole; closure is an input. Chosen to reproduce GR's source ρ + S. Nuclei counted as closed wholes make the composition tests of active against passive mass empty by construction.
+2. *Field energy as an amount:* the which-way field's energy draws as a classical amount by its mean (the 2026-11-08 posit). With the bound/emitted split ruled (matter record), its condition on the self parts has its line; elementary closure is taken by measured mass, as in 1.
+
+These retire "radiation draws once" against the radiation era's factor two and the 3p missing against CO's own exterior.
+
+**Travel's clock factor (candidate reading).** Turning carries one factor N through the fixed share (renewals per coordinate time run at the local clock rate). Travel is hops, and the hopping law runs at the local clock rate (2026-11-08, candidate). So travel draws per coordinate time carry the same single N. The source per proper volume, per coordinate time, is then
+
+((ρ − S) + 2S)N = (ρ + S)N,
+
+Tolman's integrand, and the active mass of a static self-gravitating body is its Tolman mass, which for a static solution of Einstein's equations is its ADM mass. The 2|E_grav| shortfall of the trace draw closes. In weak field, with 2K + E_grav = 0 for a gas held by its own gravity: ∫(ρ + 3p)(1 + Φ/c²) dV ≈ M₀ + K + 2K + 2E_grav = M₀ + K + E_grav, the body's total energy.
+
+**Still owed.** The clock-versus-N identification inside matter (P_free/P_max against N where P includes record); where non-record draws go (C3 covers turning only); the full conserved T^μν (R_ij, g₀ᵢ, beams, PPN α₁, α₂); positivity of the fixed-amount flux. Out of reach: nuclear stress (neutron stars).
+
+**Grade.** Rules 1 and 2: candidate (the author's rulings). Travel's clock factor: candidate reading. With them, the source is GR's for radiation, gas stars, white dwarfs and planets, and the radiation era follows (the shell's acceleration equation takes ρ + 3p; with ρ ∝ a⁻⁴, Friedmann's coefficient), all conditional on the owed items.

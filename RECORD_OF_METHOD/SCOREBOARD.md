@@ -27,7 +27,7 @@ What CO has, sorted by where it comes from. Updated after each climb; the record
 
 **Posited** (CO's own rulings and candidate rulings, beyond the two primitives)
 - Measurement as commitment through a channel (C8, candidate); no spontaneous collapse.
-- P1–P8, C1–C8 (the rules table), including: C3 fixed share δħ; a hop moves one quantum, ħ; light at the walk's c; the which-way field a U(1) phase acting on amplitudes; the bound/emitted split; the palindromic step (needed by data); the half-shift Wilson term; amounts classical (the falsifier rests on it).
+- P1–P8, C1–C8 (the rules table), including: C3 fixed share δħ; a hop moves one quantum, ħ; light at the walk's c; the which-way field a U(1) phase acting on amplitudes; the bound/emitted split; the travel rule (turning once, travel twice, light 2E) and field energy as an amount; the palindromic step (needed by data); the half-shift Wilson term; amounts classical (the falsifier rests on it).
 - Constants of CO's own: δ, P_max, Λ. Bounds: ℓ ≲ 1.3 × 10⁻³¹ m (needed, from Crab electrons on the strictly local walk, run L1b), δ ≳ 2 × 10⁻⁷.
 - Ruling 3 read for pulse trains (steering); with it, the stopping number's first bound, N ≳ ~50 (shape; flip-flops between nuclei ruled passages).
 
@@ -36,7 +36,7 @@ What CO has, sorted by where it comes from. Updated after each climb; the record
 
 **Shapes** (a form without a rule yet)
 - The stopping number N (CO's one possible prediction: reversal fails beyond a fixed breadth; N ≳ ~50, conditional); the vertex (form found, photon sector and exchange sign owed); Way B to the frame (parked).
-- The pressure rule (turning once, travel twice); field energy drawing as an amount; closure of patterns; routes through added pairs (the sea); quarks commit, gluons as colour-field patterns; the capped light field; dark matter as a third kind; number change (pair routes with the capped light field: priced, held); one sign of matter everywhere from a shared first choice.
+- Closure of patterns (taken as an input by measured mass); routes through added pairs (the sea); quarks commit, gluons as colour-field patterns; the capped light field; dark matter as a third kind; number change (pair routes with the capped light field: priced, held); one sign of matter everywhere from a shared first choice.
 
 **Silences and walls** (where the primitives do not speak, or where CO stops)
 - The masses; 1/137; the count three (colour); the exchange sign for patterns; Lorentz invariance once loops come in (the frame dilemma: a degree bounded by quanta per place picks a frame; priced: permitted with a tuning of about 10¹⁷, the protecting-symmetry exit outside CO); the baryon-to-photon ratio η.

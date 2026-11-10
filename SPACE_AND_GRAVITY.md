@@ -19,7 +19,7 @@ Added principles: the substrate is scaleless; sliding or relabelling places cost
 | **Matter** | a commitment that keeps being fed. Mass is renewal frequency, ω = mc²/ħ; every renewal engages one quantum ħ |
 | **Time** | matter's count. Read only by ratio, N_A/N_B |
 | **Record** | the share of possibility a renewal retains, δħ (candidate in this fixed form), carried forward by renewal. The record only grows: the arrow of time |
-| **Pattern** | possibility in transit between commitments; transit keeps its mean direction until its own commitment redirects it (inertia; other patterns bend its route only through the fields they set). Possibility in transit is not free, and draws by its frequency ħω |
+| **Pattern** | possibility in transit between commitments; transit keeps its mean direction until its own commitment redirects it (inertia; other patterns bend its route only through the fields they set). Possibility in transit is not free: a closed whole draws its turning once and its travel twice, and light, all travel, draws 2ħω (candidate) |
 | **Vacuum** | possibility with no commitment: no count, so no time; no renewal, so no scale |
 | **Relation** | who passes possibility to whom. A relation carries an occupancy (how much is in transit across it) and a which-way phase (candidate ruling) |
 
@@ -67,7 +67,7 @@ Einstein–Hilbert, in Regge's form on the network: tensor waves with two polari
 
 $$H^2=\frac{8\pi G}{3}\rho-\frac{k}{a^2}.$$
 
-The radiation era is not derived: radiation's draw falls as a⁻⁴, but the shell gives half Friedmann's coefficient for it; that pressure draws is a shape, not in the rules. Λ from data.
+The radiation era (candidate): radiation draws twice its energy and falls as a⁻⁴, so the shell's acceleration takes ρ + 3p, Friedmann's coefficient; with ρ ∝ a⁻⁴ its first integral is Friedmann's equation, curvature the constant of integration. Λ from data.
 
 ## Constants
 
@@ -75,8 +75,8 @@ The radiation era is not derived: radiation's draw falls as a⁻⁴, but the she
 
 ## Open
 
-The values of δ, P_max and Λ; the radiation era; the mechanism behind the first relating (three dimensions by consistency, not by mechanism); the hole's interior.
+The values of δ, P_max and Λ; the full conserved stress tensor behind matter's source; the mechanism behind the first relating (three dimensions by consistency, not by mechanism); the hole's interior.
 
 ## Status
 
-Reconstruction: the sector reproduces weak-field gravity, GR's exterior and tensor waves, and the matter era, from the primitives and the rules above, with Lovelock's theorem doing the work for waves. Where it reaches (outside matter, dust), it makes no prediction that differs from GR; inside pressure-supported matter and in the radiation era its source is not yet GR's. References: Yilmaz (exponential metric; not a solution of the forced dynamics), Tegmark (1997), Trugenberger (2017–19), Lovelock (1971), Regge (1961).
+Reconstruction: the sector reproduces weak-field gravity, GR's exterior and tensor waves, and the matter era, from the primitives and the rules above, with Lovelock's theorem doing the work for waves. Where it reaches (outside matter, dust), it makes no prediction that differs from GR; inside pressure-supported matter short of nuclear stress and in the radiation era its source is GR's by two candidate rulings (travel draws twice; field energy as an amount), conditional on the clock factor inside matter, where non-record draws go, and the full stress tensor. References: Yilmaz (exponential metric; not a solution of the forced dynamics), Tegmark (1997), Trugenberger (2017–19), Lovelock (1971), Regge (1961).
