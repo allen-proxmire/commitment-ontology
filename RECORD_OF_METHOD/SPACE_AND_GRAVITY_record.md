@@ -804,3 +804,7 @@ Tolman's integrand, and the active mass of a static self-gravitating body is its
 - The drawn amounts are fixed (δ per unit of turning, 2δ per unit of travel); the trace is classical by the mean, so the Page–Geilker costs already on record for light's source carry over unchanged.
 
 **Grade.** Candidate posit, proposed to the author: every draw is record (dents for turning, a continuous trace by the mean for travel, light and field energy). If ruled, it would retire "where non-record draws go" from the owed list and restore one door for the sink. Knock-on lines that say light retains no record, to mark if ruled: `SPACE_AND_GRAVITY.md` line 21; `MATTER_record.md` lines 587, 989; `OPEN_DIRECTIONS.md` line 19; this record line 484. Owed with it: the clock-versus-N identification inside matter, now including light's trace.
+
+## 2026-11-10 — every draw is record (the author's ruling, candidate)
+
+The previous entry's posit is ruled (candidate): what any draw withdraws from the free stock becomes record and stays; for turning as C3's δħ per repeat, for travel, light and field energy as a continuous trace by the mean. One door for the sink. "Where non-record draws go" leaves the owed list. Earlier lines that rest on "light retains no record" (this record line 484; `MATTER_record.md` lines 587 and 989) are superseded on that point: light leaves no events and no count, but it leaves a trace. Results docs updated.
