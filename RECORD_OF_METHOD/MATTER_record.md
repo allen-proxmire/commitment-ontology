@@ -1052,3 +1052,31 @@ The vertex is then not a further posit, below the cap (the capped link's raising
 - *The three adopted inputs* of item 1 (canonical brackets, positive metric, lowest vacuum) are standard field theory; the primitives supply none of them (standing wording, 2026-11-06).
 
 **Grade.** Shape, proposed to the author, not adopted. Taken, it would give positronium's annihilation part and lifetimes by identification, light as bosons, the selection rule, and the exchange sign as −1 outside the doubler sector, at the price of making loops live, which brings the frame's O(α/π) exposure from risk to the next thing to face.
+
+## 2026-11-10 — number change held (the author's choice); the bound/emitted split at order v², and the magnetic part of the hyperfine split
+
+**Held.** The number-change shape above is held, not adopted, as quantised light was. Statistics stays open; CO's scope stays without number change.
+
+**The split, stated at order v² (candidate; a posit extending the two-pattern ruling, by identification).** The two-pattern ruling makes what a relation carries branched with the configuration of what passes, because what sets it has amplitude. The Coulomb part was read so. The magnetic part is set by the patterns' currents and spins, which have amplitude. That alone does not separate bound from emitted, since currents with amplitude also source radiation: Coulomb is bound by a constraint (Gauss's law), while the magnetostatic field is a dynamical field eliminated at order v². So the split is a posit, not a reading. Stated:
+
+*The part of the which-way field fixed by the positions, currents and spins of what passes, at the same moment (the Coulomb field and, at order v², the magnetostatic field of the currents and spins), is bound: it acts on the pair amplitude, each pattern's own part counted in its mass. The part that has left its sources is emitted: light.*
+
+This extends the self-parts line (gravity record, 2026-11-08) to the cross terms. With it, the two-body operator gains the Breit interaction at order v² (Breit 1929), which the bare Dirac–Coulomb continuum limit drops. (The term named retardation is part of it in Coulomb gauge; frequency dependence enters at higher order and belongs with the emitted part.) Coulomb plus Breit is frame-independent to order v²/c² (Darwin); the simultaneity cost on record remains beyond it.
+
+**Positronium's magnetic part.** For S states only the contact term of the spin–spin coupling survives. Each spin carries μ = ±(g/2)(e/m)S with g = 2 (the vertex rulings, candidate; tree level), and
+
+H_ss = (2μ₀/3)(e²/m²) S₁·S₂ δ³(r),
+
+with |ψ(0)|² = 1/(πa³), a = 2a₀ for the reduced mass m/2, and S₁·S₂ differing by ħ² between triplet and singlet:
+
+ΔE_mag = (2μ₀/3)(e²ħ²/m²)/(8πa₀³) = α⁴mc²/3 = 4.83 × 10⁻⁴ eV, 116.8 GHz,
+
+which is the magnetic 4/7 of the leading 204.4 GHz. The other 3/7 is annihilation, held with number change.
+
+**Hydrogen's 21 cm line, with the proton taken as one pattern.** The same contact term with the proton's moment g_p = 5.586 (imported; the nucleus wall) gives
+
+ΔE = (4/3) g_p (m_e/m_p) α⁴m_ec² (1 + m_e/m_p)⁻³ ≈ 1418.8 MHz,
+
+against 1420.406 MHz measured. The 0.11% gap is mainly the electron's anomalous moment (a_e ≈ 0.00116, which needs loops, held): with it, 1420.5 MHz; the remaining −50 ppm is relativistic, QED and proton-structure (Zemach).
+
+**Grade.** The split at order v²: candidate, a posit extending the two-pattern ruling, by identification; proposed to the author for confirmation, since it fixes where light begins. The magnetic hyperfine parts: candidate by identification, resting on it (positronium 116.8 GHz; hydrogen 1418.8 MHz at tree level, with g_p imported). Unchanged: the annihilation part, the lifetimes and the anomalous moment (silence; number change and loops held).
