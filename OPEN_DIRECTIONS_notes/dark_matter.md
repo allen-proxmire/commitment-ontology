@@ -1,6 +1,6 @@
-# Dark matter: a scratchpad
+# Dark matter, and matter over antimatter
 
-Shapes and doodles, graded as such. Nothing here is a ruling.
+Shapes, silences and ungraded sketches, graded as such. Nothing here is a ruling.
 
 **The shape: a pattern that renews but has no channel.** CO separates two things standard physics bundles together:
 - *What has mass gravitates through renewal.* Each repeat keeps δħ (C3), and that draw is the sink; charge plays no part.
