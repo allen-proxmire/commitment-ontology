@@ -999,3 +999,21 @@ Throttling births to what the stock can fill does not change this: any newborn p
 **Ruled (candidate).** Possibility is conserved in all passing and committing between places; each new place is born with its share. It replaces "a fixed amount, never made, never destroyed". The author's own view: dark energy comes with new places, and the conservation statement had to change. What it keeps: every result drawn from conservation within passing (the meeting rule P8, the Born identification, the hopping law, the sink) happens between existing places and is unchanged. What it retires: the starving free stock (C4 under a⁻³ thinning) and R1's stalled expansion with a conserved stock; the floor tension is retired if a new place brings about P∞ (owed). What it gives: a density of possibility fixed as space grows; a cosmological constant's behaviour (not its value) if that possibility sources gravity (owed).
 
 **Owed.** How much a new place brings (about P∞, if the floor is to hold); what sets the birth rate now that births no longer dilute the floor (the old wave rule is excluded; births per time = expansion rate is the identification, not a mechanism); whether the possibility each new place brings has any part in gravity's source, which would tie it to Λ.
+
+## 2026-11-10 — what a new place brings, and whether it touches Λ (shape, one exclusion; after cold reading)
+
+**How much.** For the floor to hold, a new place brings about P∞, a few ħ, the same as its neighbours: the amount per place is then constant in time, and with it the network's degree. Less, and the floor still falls (more slowly); more, and the floor rises toward capacity. "About P∞" is the reading that retires the floor tension; nothing yet fixes why a birth brings exactly that.
+
+**Where it comes from: in place, or as a source.** Gravity in CO is a sink: withdrawals from the free stock, replaced by inflow, and the inflow is the field. A new place's possibility can appear in two ways.
+- *In place.* The possibility arrives with the place and nothing flows to supply it. No inflow or outflow, so the possibility births bring makes no field, and Λ stays an input.
+- *As a source.* The addition counts as the opposite of a draw, an outflow from where places are born. If the field is linear in the draw, a uniform source in the voids repels, as Λ does. Its size: matter's draw per volume per time is δρc², so births adding P_b each at 3H per place per unit time act as a negative density |ρ_eff|c² = 3HP_b/(δℓ³). In the Newtonian shell, ä/a = (4πG/3)|ρ_eff|, so Λ_eff = 4πG|ρ_eff|/c², and with G = δc³ℓ²/(4πħ), δ cancels:
+
+  Λ_eff = 3H(P_b/ħ)/(ℓc).
+
+  Against the observed Λ ≈ 3Ω_Λ H₀²/c² ≈ 2.1H₀²/c²: Λ_eff/Λ_obs ≈ 1.4 (P_b/ħ)(c/H₀)/ℓ ≈ 8 × 10⁵⁷ at P_b = 5ħ, ℓ = 1.28 × 10⁻³¹ m. The source reading has the right sign and the wrong size by the ratio of the Hubble radius to the hop length; it also falls with H, so it is not a constant. A source of the right size would need P_b ≈ 10⁻⁵⁷ ħ, which does not hold the floor.
+
+**So.** That leaves the in-place reading: the floor holds, births have no field, and Λ stays an input. The source reading, which would have tied births to dark energy, is excluded by size (about 10⁵⁸), a CO version of the cosmological-constant problem: the same two scales (hop length against Hubble radius) to the first power, where quantum field theory's 10¹²⁰ is roughly their square.
+
+**Birth rate.** Unchanged: births per time is the expansion rate in the voids, an identification, not a mechanism. With births now costing the floor nothing, what sets the rate is open; the old wave rule stays excluded.
+
+**Grade.** How much: about P∞ (candidate reading, the value that holds the floor; why, silence). In place: candidate reading. As a source: excluded (Λ_eff/Λ_obs ≈ 10⁵⁸). Λ: input, as before. The author's sense that dark energy comes with new places fits its behaviour as bookkeeping (a fixed amount per place is a fixed amount per volume), not as a source of acceleration.
