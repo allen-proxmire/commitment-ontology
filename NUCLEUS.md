@@ -76,4 +76,4 @@ One loophole with content was checked and is empty. If hold-and-release treated 
 
 ## Status
 
-**CO is a reconstruction, from two primitives, of gravity in empty space and for dust, and of one-particle quantum mechanics up to 1930.** It covers gravity, electromagnetism and the electron, and stops at the nucleus.
+**CO is a reconstruction, from two primitives, of gravity in empty space and for dust, and of quantum mechanics up to 1930 for a fixed number of particles, short of the exchange sign.** It covers gravity, electromagnetism and the electron, and stops at the nucleus.

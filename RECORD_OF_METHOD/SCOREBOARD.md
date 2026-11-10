@@ -2,13 +2,12 @@
 
 What CO has, sorted by where it comes from. Updated after each climb; the records hold the detail. As of 2026-11-10.
 
-**Derived** (from the primitives and CO's own rulings, no outside theorem doing the work)
+**Derived** (from the primitives and CO's own rulings, no outside theorem doing the work; where data chooses among rulings, it says so)
 - One-way time: the record only grows (C3).
 - Universal redshift and free fall: clocks compare as (1 − h_A)/(1 − h_B), independent of mass.
 - Newton's 1/r, and the weak-field clock factor through second order (ratio hopping; Mercury picks the pairing).
 - G constant as the free stock falls (fixed share with a fixed amount per hop).
 - The moving clock: energy splits exactly into turning m²c⁴/E and travel pv.
-- Measurement as commitment through a channel (C8, candidate); no spontaneous collapse.
 - The global tick is a slicing of a circuit of local gates: no universal now on the walk (candidate reading).
 
 **Reconstructed** (CO's rules matched to a known theorem or construction, which then does the work)
@@ -27,6 +26,7 @@ What CO has, sorted by where it comes from. Updated after each climb; the record
 - Measured inputs: G, c, ħ, 1/137, the particle masses, Λ.
 
 **Posited** (CO's own rulings and candidate rulings, beyond the two primitives)
+- Measurement as commitment through a channel (C8, candidate); no spontaneous collapse.
 - P1–P8, C1–C8 (the rules table), including: C3 fixed share δħ; a hop moves one quantum, ħ; light at the walk's c; the which-way field a U(1) phase acting on amplitudes; the bound/emitted split; the palindromic step (needed by data); the half-shift Wilson term; amounts classical (the falsifier rests on it).
 - Constants of CO's own: δ, P_max, Λ. Bounds: ℓ ≲ 1.3 × 10⁻³¹ m (needed, from Crab electrons on the strictly local walk, run L1b), δ ≳ 2 × 10⁻⁷.
 - Ruling 3 read for pulse trains (steering); with it, the stopping number's first bound, N ≳ ~50 (shape; flip-flops between nuclei ruled passages).
