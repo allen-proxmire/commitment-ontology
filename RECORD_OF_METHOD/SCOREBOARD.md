@@ -8,10 +8,10 @@ What CO has, sorted by where it comes from. Updated after each climb; the record
 - Newton's 1/r, and the weak-field clock factor through second order (ratio hopping; Mercury picks the pairing).
 - G constant as the free stock falls (fixed share with a fixed amount per hop).
 - The moving clock: energy splits exactly into turning m²c⁴/E and travel pv.
-- The global tick is a slicing of a circuit of local gates: no universal now on the walk (candidate reading).
 
 **Reconstructed** (CO's rules matched to a known theorem or construction, which then does the work)
 - Einstein's equations outside matter and tensor waves (Lovelock; Regge's form).
+- The global tick is a slicing of a circuit of local gates: no universal now on the walk (candidate reading; GNVW).
 - The Schwarzschild exterior, given the cost's spatial equation (candidate).
 - Three dimensions as a consistency condition (runs R4–R7b).
 - The amplitude rule (Goyal–Knuth–Skilling).

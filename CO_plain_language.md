@@ -171,11 +171,11 @@ The second relation ties the hop length to the two constants gravity already had
 ## Where it stands
 
 **More than reproduction.**
-- Three dimensions follow as a consistency condition of the theory's own rules; the pieces are standard.
-- Mercury's precession comes out right with hops that compare by ratio, the choice scalelessness favours; Mercury excludes the other pairings of hop and weighting.
+- Three dimensions follow as a consistency condition of the theory's own rules (candidate; the runs do not yet reach a lattice); the pieces are standard.
+- Mercury's precession comes out right with hops that compare by ratio, the choice scalelessness favours; Mercury excludes the other pairings of hop and weighting, so this is a fit that fixes the hop rule, not an independent test.
 - Λ has a reason to be the only constant of its kind, if not a value.
 - Mass as frequency recasts the masses question as one about sizes, which a combinatorial structure could fix where frequencies could not.
-- Two primitives and three constants of its own reach the four classical tests, tensor waves with Einstein's coefficient, inflation with its own exit, the matter era, and three dimensions, with the exterior GR's.
+- Two primitives and three constants of its own reach the four classical tests, tensor waves with Einstein's coefficient, an inflation-like epoch with its own exit, the matter and radiation eras, and three dimensions, with the exterior GR's.
 - The amplitude rule is forced given its premises, the Born rule is an identification, and Dirac's equation with spin ½ follows from one added statement by identification with a known construction.
 
 **Where a fair critic pushes.**
