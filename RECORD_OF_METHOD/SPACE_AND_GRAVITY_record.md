@@ -808,3 +808,17 @@ Tolman's integrand, and the active mass of a static self-gravitating body is its
 ## 2026-11-10 — every draw is record (the author's ruling, candidate)
 
 The previous entry's posit is ruled (candidate): what any draw withdraws from the free stock becomes record and stays; for turning as C3's δħ per repeat, for travel, light and field energy as a continuous trace by the mean. One door for the sink. "Where non-record draws go" leaves the owed list. Earlier lines that rest on "light retains no record" (this record line 484; `MATTER_record.md` lines 587 and 989) are superseded on that point: light leaves no events and no count, but it leaves a trace. Results docs updated.
+
+## 2026-11-10 — the clock inside matter: does (1 − h) equal N? (candidate reading, after cold reading)
+
+**The item.** The clock rule runs a renewal at (mc²/ħ)(1 − h), with 1 − h = P_free/P, P the place's whole possibility. The field law gives the lapse as N = P_free/P∞. They agree where P = P∞. Outside matter this is the identification the exterior already uses. Inside matter P also holds what matter engages and the record kept there, so the identification was owed.
+
+**How big the extras are, per place.** With ℓ = ℓ_P√(4π/δ) (q = ħ):
+- *Record.* A nucleon renews at mc²/ħ ≈ 1.4 × 10²⁴ s⁻¹ and keeps δħ each time. Over 4.5 Gyr that is δ × 2 × 10⁴¹ ħ per nucleon. Spread over the places a body occupies (n_nucleons ℓ³ per place), the record per place, in units of ħ, is about 1.5 × 10⁻²⁸ in rock and 1.2 × 10⁻¹⁴ at nuclear density, at the smallest allowed δ (2 × 10⁻⁷); larger δ gives less (record per place scales as δ^{−1/2}). That spreads the record evenly and assumes a body keeps its places. If dents sit where the nucleon is (one Born-random place per renewal, line 409), the record is about 10⁻¹⁴ ħ per place in any matter, for a nucleon at rest on the network for 4.5 Gyr. A nucleon moving through the network leaves its dents along its path: at 370 km/s it crosses its own size in about 5 × 10⁻²¹ s, leaving about 5 × 10⁻⁵² ħ per place. Light's and travel's traces are smaller still in ordinary matter.
+- *Live engagement.* Each nucleon holds ħ continuously (C1, C4), so matter's engaged share per place is ρℓ³/m: about 10⁻⁶² in rock and 10⁻⁴⁹ at nuclear density.
+
+Against P∞ of a few ħ, both are small against a body's own h (7 × 10⁻¹⁰ at Earth's surface): inside matter P = P∞ to at most about one part in 10¹⁴ (a nucleon at rest on the network for 4.5 Gyr with the record counted in P), and far less for matter moving through the network or with the record not counted. Whether a clock difference between nucleons with different record histories could be observed (optical clocks reach 10⁻¹⁸) is open; motion through the network puts it far below that.
+
+**So.** The clock-versus-N identification inside matter reduces to the one already used outside: P = P∞ at a place. With it, (1 − h) = N inside matter as outside, and the source is Tolman's, (ρ + S)N, as the travel rule's reading needs. The owed item becomes the general one, shared with the exterior: what sets a place's whole possibility at the floor, P = P∞. No rule does (P2 caps free possibility only).
+
+**Grade.** Candidate reading: the inside-matter identification holds to the precision above, given P = P∞, which stays an identification for every place, inside matter or not. Retires "the clock-versus-N identification inside matter" as a separate owed item.
