@@ -16,7 +16,7 @@ GR has no global now; QM has no event. CO takes both as primitives. That places 
 
 **[`NUCLEUS.md`](NUCLEUS.md).** The internal state carries charge and no other symmetry; the three lines of space are not colour. One shape and one candidate, costs stated: the proton as three committing quarks bound by a colour field (shape), and entanglement as one pattern sampled twice (candidate). The masses, 1/137 and the count three each need something not in the inventory; CO stops at the nucleus.
 
-**[`CO_plain_language.md`](CO_plain_language.md)** is the theory as it stands, for anyone. The three subject documents above report what stands, results only. **[`OPEN_DIRECTIONS.md`](OPEN_DIRECTIONS.md)** lists what is open and what each would take. **[`RECORD_OF_METHOD/`](RECORD_OF_METHOD/)** holds the working records: every route tried, every withdrawal with its reason, the runs, and a graded tally ([`SCOREBOARD.md`](RECORD_OF_METHOD/SCOREBOARD.md)).
+**[`CO_plain_language.md`](CO_plain_language.md)** is the theory as it stands, for anyone. The three subject documents above report what stands, results only. **[`TECHNICAL_APPENDIX.md`](TECHNICAL_APPENDIX.md)** states the rules as equations, each graded, and derives the weak-field metric from them step by step. **[`OPEN_DIRECTIONS.md`](OPEN_DIRECTIONS.md)** lists what is open and what each would take. **[`RECORD_OF_METHOD/`](RECORD_OF_METHOD/)** holds the working records: every route tried, every withdrawal with its reason, the runs, and a graded tally ([`SCOREBOARD.md`](RECORD_OF_METHOD/SCOREBOARD.md)).
 
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------
