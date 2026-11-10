@@ -1017,3 +1017,20 @@ Throttling births to what the stock can fill does not change this: any newborn p
 **Birth rate.** Unchanged: births per time is the expansion rate in the voids, an identification, not a mechanism. With births now costing the floor nothing, what sets the rate is open; the old wave rule stays excluded.
 
 **Grade.** How much: about P∞ (candidate reading, the value that holds the floor; why, silence). In place: candidate reading. As a source: excluded (Λ_eff/Λ_obs ≈ 10⁵⁸). Λ: input, as before. The author's sense that dark energy comes with new places fits its behaviour as bookkeeping (a fixed amount per place is a fixed amount per volume), not as a source of acceleration.
+
+## 2026-11-10 — the beginning and the inflation-like epoch under "each new place born with its share" (after cold reading)
+
+**What the exit used.** The first epoch ends when the first possibility, spread over new places, leaves every place under capacity: dilution of a fixed stock. If each new place were born with as much as its parent, nothing would dilute, every place would stay over capacity, and the epoch would never end.
+
+**What keeps the exit.** A newborn place brings a fixed amount P_b below capacity. The first excess E₀ over capacity is shared over N places while each brings P_b of its own, so a place holds about P_b + E₀/N (for E₀ ≫ N₀(P_max − P_b); exactly, N_exit = N₀ + E₀/(P_max − P_b); excess drawn into record and matter during the epoch is ignored). The epoch ends when E₀/N falls below P_max − P_b, at N_exit ≈ E₀/(P_max − P_b), and afterwards every place sits near P_b. So:
+- the exit survives, provided P_b < P_max;
+- the floor today is P_b, a fixed birth amount, not the remains of a diluted stock: P∞ = P_b, which is also what "about P∞" in the previous entry needs, now with a reason it stays put;
+- light must pass, so P_b < P_max − ħ (already on record as P∞ < P_max − ħ);
+- most of today's free possibility was brought by births, not by the first few places;
+- the epoch's length, ln(N_exit/N₀) e-folds, needs E₀ and P_max − P_b; not computed.
+
+**Matter at the beginning** (every first commitment fed, matter forming at once) and the unordered first commitments are untouched.
+
+The birth share P_b is then a fixed number of the theory's own, beside δ, P_max and Λ.
+
+**Grade.** Candidate reading: the exit holds if a newborn place brings a fixed P_b < P_max; the floor is then P_b. Owed: the value of P_b against P_max, and the e-fold count.
