@@ -27,7 +27,7 @@ Every statement carries its grade (ruled, candidate, needed, excluded, shape, si
 | C3 | each repeat keeps δħ as record (candidate); dR/dt ≥ 0 |
 | C4 | every commitment engages ħ; mass is the repeat rate, ω₀ = mc²/ħ (ruled) |
 | C5 | a pattern in transit carries a phase θ advancing by one cycle per repeat (ruled; the matter sector's one addition) |
-| C6 | the walk's step is U = A_x A_y A_z F(θ_m) A_z A_y A_x, with A_j = S_j⁺ F(w) S_j⁻ F(−w): S_j⁺ moves the α_j = +1 part one place forward, S_j⁻ the α_j = −1 part one place back, F(a) = exp(−iβa) a turn of the internal state, θ_m = mcℓ/ħ per step (flip ruled; half-shift Wilson form candidate, w ≳ 0.3, run L1b; palindromic order needed, sequential excluded, run L1) |
+| C6 | the walk's step is U = A_x A_y A_z F(θ_m) A_z A_y A_x, with A_j = S_j⁺ F(w) S_j⁻ F(−w): S_j⁺ moves the α_j = +1 part one place forward, S_j⁻ the α_j = −1 part one place back, F(a) = exp(−iβa) a turn of the internal state, θ_m = c₀mcℓ/ħ per step, c₀ = 2cos w the massless speed in hops per step (2 at w = 0: mcℓ/ħ per hop) (flip ruled; half-shift Wilson form candidate, w ≳ 0.3, run L1b; palindromic order needed, sequential excluded, run L1) |
 | C7 | the first possibility, all free in few places, puts every place over capacity; the first commitments are unordered (ruled) |
 | C8 | a commitment may engage a quantum in transit through a channel; which engager takes it is drawn from \|a\|² at the engagers' places (candidate; the \|a\|² draw identified, Born; the coupling and pointer basis imported) |
 
@@ -68,3 +68,33 @@ $$\gamma=1,\qquad \beta=1.$$
 **Free fall,** from the same field: a matter wave of frequency ω = (mc²/ħ)(1 − h) refracts toward higher h, and its group moves as g = c²∇h = c²e^{−U}∇U = c²∇U·(1 + O(U)), toward the mass: Newton's acceleration, independent of m.
 
 **What the derivation uses, in one line.** Ratio hopping (ruled), one quantum per hop (candidate), the fixed share δħ (candidate), C2's clock (ruled), the route factor (ruled, given the occupancy, candidate), and P = P∞ at a place (identification). Beyond the weak field, Lovelock's theorem (given its hypotheses) supplies the exterior; that step uses an imported theorem.
+
+**What kind of derivation this is.** It is derived from CO's rules, step by step, with nothing fitted to the gravitational field except one choice: the hop's pairing, which scalelessness favours and Mercury selects among local power laws. Newton's 1/r, the form of G, universal redshift, free fall and γ = 1 follow without it. Three inputs are candidate (one quantum per hop; the fixed share; the occupancy behind the route factor), one is an identification (P = P∞), and κ = ħ/τ is a choice. It is not a derivation from the two primitives alone.
+
+## 3. A second derivation: Dirac's equation from the walk
+
+**Step 1: the shifts in momentum space.** With P_j^± = (1 ± α_j)/2 and k the momentum in lattice units, a forward shift of the α_j = +1 part and a backward shift of the α_j = −1 part are
+
+$$S_j^{+}=P_j^{+}e^{-ik_j\ell}+P_j^{-},\qquad S_j^{-}=P_j^{+}+P_j^{-}e^{+ik_j\ell}$$
+
+(the run code uses k → −k; same physics).
+
+**Step 2: one conditional shift.** Without the Wilson turn (w = 0), A_j = S_j⁺S_j⁻ = P_j⁺e^{−ik_jℓ} + P_j⁻e^{+ik_jℓ}. Since α_j² = 1, this is
+
+$$A_j=\cos(k_j\ell)-i\alpha_j\sin(k_j\ell)=e^{-ik_j\ell\,\alpha_j}.$$
+
+**Step 3: the palindromic step.** With F(θ) = e^{−iβθ},
+
+$$U=e^{-ik_x\ell\alpha_x}e^{-ik_y\ell\alpha_y}e^{-ik_z\ell\alpha_z}\,e^{-i\beta\theta}\,e^{-ik_z\ell\alpha_z}e^{-ik_y\ell\alpha_y}e^{-ik_x\ell\alpha_x}=\exp\!\Big(-i\big[2\ell\,\boldsymbol\alpha\cdot\mathbf k+\beta\theta\big]+O(\varepsilon^{3})\Big),$$
+
+ε the larger of kℓ and θ. A symmetric product has no second-order commutator term (Strang 1968); a sequential product would leave one, the handedness-dependent term that run L1 excludes, which is why the palindrome is needed.
+
+**Step 4: identify the Hamiltonian.** A step is two hops, of duration τ_s = 2ℓ/c. Writing U = exp(−iτ_sH/ħ) with p = ħk and θ = mc²τ_s/ħ = 2mcℓ/ħ (C6: mcℓ/ħ per hop),
+
+$$H=c\,\boldsymbol\alpha\cdot\mathbf p+\beta\,mc^{2}+\frac{\hbar c}{\ell}\,O(\varepsilon^{3}).$$
+
+With α_j and β the Dirac matrices (four components, the least the Clifford algebra allows in three dimensions; Meyer's no-go rules out a scalar walk), this is Dirac's Hamiltonian, and spin ½ is its rotation generator's internal part. Identification: Bialynicki-Birula (1994); the algebra above is standard symmetric splitting.
+
+**Step 5: what the lattice adds.** At k_jℓ = π, A_j = −1 and U reduces to F(θ); at k_jℓ = π/2, A_j = −iα_j: further species at quasi-energy 0 or π (fermion doubling). The Wilson half-shifts, A_j = S_j⁺F(w)S_j⁻F(−w), cancel at k = 0 and add at the zone edge, giving those species a mass of order wħ/(ℓc); with w ≳ 0.3 one light species remains (candidate; checked numerically, run L1b, not derived here). The cost is a speed excess of a massive pattern over a massless one, s ≈ 0.14·mcℓ/ħ at w = 0.3, which the Crab's PeV electrons bound to ℓ ≲ 1.3 × 10⁻³¹ m (needed). The Wilson turn also changes the k-linear coefficient near k = 0, by cos w: A_j ≈ 1 − ik_jℓ cos w·α_j e^{iβw}, a massless speed of 2cos w hops per step (1.911 at w = 0.3), so τ_s = c₀ℓ/c with c₀ = 2cos w; the speed called c is this renormalised one, at which light is ruled to move (candidate).
+
+**What kind of derivation this is.** The continuum limit is a theorem about the step; that the step is CO's (four components, palindromic order, Wilson half-shifts) rests on C5, C6, two exclusions by data and one candidate. The identification of the result with the electron is by its equation, not derived from the primitives.
