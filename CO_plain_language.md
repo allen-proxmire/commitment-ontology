@@ -20,7 +20,7 @@ GR has no global now; QM has no event. CO takes both as primitives: commitment a
 
 ## Two things exist. The two primitives. 
 
-**Possibility** is the stuff of the universe. There is a fixed amount of it, it sits at places, and it moves between places that are related. It is conserved: never made, never destroyed.
+**Possibility** is the stuff of the universe. It sits at places and moves between places that are related. It is conserved in everything that passes and commits between places; each new place is born with its share (candidate), so the amount per place need not thin as space grows.
 - Ruling P1, *scaleless:* the substrate has no scale of its own, and a hop compares neighbouring places by ratio, the choice scalelessness favours; with the lapse weighting of a conserved flux it is consistent with GR's exterior (given the cost's spatial equation), and Mercury excludes the other pairings. The field is linear in ln P. P is an amount, |a|² where possibility has an amplitude a; the rule acts on amounts and says nothing about phase. Each hop moves one quantum, ħ (candidate).
 - Ruling P2, *capacity:* a place holds at most P_max of free possibility. Over capacity, it commits. The vacuum today is under capacity.
 - Ruling P3, *hold-and-release:* possibility engaged by a commitment is released when it completes, less the share C3 keeps as record; nothing is destroyed. Free possibility at a place is P_free = P(1 − h), h the fraction engaged.
@@ -28,7 +28,7 @@ GR has no global now; QM has no event. CO takes both as primitives: commitment a
 - Ruling P5, *inertia:* possibility in transit keeps its mean direction until a commitment redirects it (its own: the mass step of C6; other patterns bend its route only through the fields their commitments set).
 - Ruling P6, *transit draws:* possibility in transit is not free. A closed whole draws its turning once and its travel twice; light, all travel, draws twice its energy, with one G (candidate rulings, chosen to reproduce GR's source ρ + S). Light gravitates, and moves at the walk's c (candidate).
 - Ruling P7, *relations:* space is who passes possibility to whom. A relation carries an occupancy (how much is in transit across it) and a which-way phase (candidate ruling). Sliding or relabelling places costs nothing: there is no backdrop.
-- Ruling P8, *meeting:* when two routes bring possibility to one place, the amounts combine as |√p₁e^{iθ₁} + √p₂e^{iθ₂}|², forced by conservation, scalelessness and associativity.
+- Ruling P8, *meeting:* when two routes bring possibility to one place, the amounts combine as |√p₁e^{iθ₁} + √p₂e^{iθ₂}|², forced by conservation in passing, scalelessness and associativity.
 
 **Commitment** is the act. One irreversible update to possibility, at a place. It cannot be undone.
 - Ruling C1, *renewal:* a commitment, on completing, engages adjacent free possibility (or, through a channel, a quantum in transit: C8) into its next commitment, releases what it held, and adds one to its count. Any commitment does this while free possibility is adjacent; it halts when none is. Matter is a commitment that keeps being fed.
@@ -62,7 +62,7 @@ which is the Compton frequency physics already knew. The first scale in the theo
 
 $$\text{retained}=\delta\,\hbar ,$$
 
-δ a constant of the theory (candidate in this fixed form: with a hop moving a fixed amount, a fixed share keeps G the same as the free stock falls, and gives one clock factor inside matter, as GR's density term has; inside matter the clock agrees with the lapse given a place's whole possibility at the floor, as outside; pressure comes from the travel rule). The record only grows. That is the arrow of time, said twice: the count goes up, the free stock goes down, and they are one process.
+δ a constant of the theory (candidate in this fixed form: with a hop moving a fixed amount, a fixed share keeps G the same as a place's free stock falls, and gives one clock factor inside matter, as GR's density term has; inside matter the clock agrees with the lapse given a place's whole possibility at the floor, as outside; pressure comes from the travel rule). The record only grows. That is the arrow of time, said twice: the count goes up, each draw takes from the free stock, and they are one process.
 
 **Pattern** is possibility in transit between commitments: light, and matter between its repeats. Possibility in transit keeps its direction until a commitment redirects it. That is inertia, and it costs nothing to state.
 
@@ -134,7 +134,7 @@ $$p=\left|\sqrt{p_1}\,e^{i\theta_1}+\sqrt{p_2}\,e^{i\theta_2}\right|^2 .$$
 
 Square roots of amounts, with phases, added and then squared. That is quantum mechanics' amplitude rule, forced given the three requirements (Goyal, Knuth and Skilling's theorem does the work); the requirements as stated already carry the square-root structure, so this is less a derivation than a tight statement of what the rule rests on.
 
-**The Born rule.** In the usual theory one adds a postulate: the probability of finding the particle is the amplitude squared. Here the thing that commits is identified with the thing that is conserved, so the chance of a commitment somewhere is the possibility there and the chances sum to one. That is an identification, not a derivation; a critic may fairly call it the postulate restated, and the identification is what CO adds.
+**The Born rule.** In the usual theory one adds a postulate: the probability of finding the particle is the amplitude squared. Here the thing that commits is identified with the thing that is conserved in passing, so the chance of a commitment somewhere is the possibility there and the chances sum to one. That is an identification, not a derivation; a critic may fairly call it the postulate restated, and the identification is what CO adds.
 
 **The internal state.** A moving pattern of amplitudes on a network where sliding costs nothing cannot be a single number per place: a theorem (Meyer) says such a thing can only sit still or slide rigidly. To move at all it must carry an internal state. With three directions to move in and a mass, that state must have four components, with the direction operators and the mass operator anticommuting (the Clifford algebra). Those are Dirac's α and β. The two-valued labels that fall out of the four are chirality and spin.
 

@@ -14,7 +14,7 @@ $$p=\left|\sqrt{p_1}\,e^{i\theta_1}+\sqrt{p_2}\,e^{i\theta_2}\right|^2 .$$
 
 Forced given those premises (Goyal, Knuth and Skilling 2010); the premises carry the square-root structure.
 
-**The Born rule.** The thing that commits is identified with the thing that is conserved: the chance of a commitment at a place is the possibility there, and the chances sum to one. An identification, which a reader may call the postulate restated.
+**The Born rule.** The thing that commits is identified with the thing that is conserved in passing: the chance of a commitment at a place is the possibility there, and the chances sum to one. An identification, which a reader may call the postulate restated.
 
 **The internal state.** A walk of amplitudes that is homogeneous (sliding costs nothing), unitary and moves cannot be scalar (Meyer 1996). With three directions whose shift operators anticommute and a mass step anticommuting with all three, the smallest representation is C⁴: Dirac's α and β; chirality × spin is its labelling.
 
