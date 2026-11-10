@@ -1080,3 +1080,7 @@ which is the magnetic 4/7 of the leading 204.4 GHz. The other 3/7 is annihilatio
 against 1420.406 MHz measured. The 0.11% gap is mainly the electron's anomalous moment (a_e ≈ 0.00116, which needs loops, held): with it, 1420.5 MHz; the remaining −50 ppm is relativistic, QED and proton-structure (Zemach).
 
 **Grade.** The split at order v²: candidate, a posit extending the two-pattern ruling, by identification; proposed to the author for confirmation, since it fixes where light begins. The magnetic hyperfine parts: candidate by identification, resting on it (positronium 116.8 GHz; hydrogen 1418.8 MHz at tree level, with g_p imported). Unchanged: the annihilation part, the lifetimes and the anomalous moment (silence; number change and loops held).
+
+## 2026-11-10 — the bound/emitted split ruled (the author's ruling, candidate)
+
+The split at order v² stated in the entry above is ruled by the author (candidate): the part of the which-way field fixed at the same moment by the positions, currents and spins of what passes is bound and acts on the pair amplitude, each pattern's own part counted in its mass; the part that has left its sources is emitted, and is light. It retires the open item "light as the emitted part of the which-way field (the bound/emitted split not stated)". Results carried into `MATTER.md`, `OPEN_DIRECTIONS.md` and the scoreboard: positronium's gross structure and magnetic hyperfine part, hydrogen with recoil and its 21 cm line at tree level (g_p imported), and number change priced and held.

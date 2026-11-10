@@ -1,6 +1,6 @@
 # Scoreboard
 
-What CO has, sorted by where it comes from. Updated after each climb; the records hold the detail. As of 2026-11-09.
+What CO has, sorted by where it comes from. Updated after each climb; the records hold the detail. As of 2026-11-10.
 
 **Derived** (from the primitives and CO's own rulings, no outside theorem doing the work)
 - One-way time: the record only grows (C3).
@@ -19,6 +19,7 @@ What CO has, sorted by where it comes from. Updated after each climb; the record
 - The Dirac electron, spin ½, g = 2 at tree level (Dirac walk; minimal coupling from the phase rulings; up to an O(mcℓ/ħ) lattice artefact).
 - Helium's two-electron Coulomb coupling (branched field, by identification).
 - Hydrogen's levels (fixed classical source, by identification).
+- Positronium's levels and the magnetic part of its hyperfine split; hydrogen with recoil and its 21 cm line at tree level, g_p imported (bound/emitted split, by identification).
 
 **Imported** (taken from standard physics without a reason of CO's own)
 - The Born rule as an identification; Lüders conditioning; the measurement basis (einselection).
@@ -26,7 +27,7 @@ What CO has, sorted by where it comes from. Updated after each climb; the record
 - Measured inputs: G, c, ħ, 1/137, the particle masses, Λ.
 
 **Posited** (CO's own rulings and candidate rulings, beyond the two primitives)
-- P1–P8, C1–C8 (the rules table), including: C3 fixed share δħ; a hop moves one quantum, ħ; light at the walk's c; the which-way field a U(1) phase acting on amplitudes; the palindromic step (needed by data); the half-shift Wilson term; amounts classical (the falsifier rests on it).
+- P1–P8, C1–C8 (the rules table), including: C3 fixed share δħ; a hop moves one quantum, ħ; light at the walk's c; the which-way field a U(1) phase acting on amplitudes; the bound/emitted split; the palindromic step (needed by data); the half-shift Wilson term; amounts classical (the falsifier rests on it).
 - Constants of CO's own: δ, P_max, Λ. Bounds: ℓ ≲ 1.3 × 10⁻³¹ m (needed, from Crab electrons on the strictly local walk, run L1b), δ ≳ 2 × 10⁻⁷.
 - Ruling 3 read for pulse trains (steering); with it, the stopping number's first bound, N ≳ ~50 (shape; flip-flops between nuclei ruled passages).
 
@@ -35,7 +36,7 @@ What CO has, sorted by where it comes from. Updated after each climb; the record
 
 **Shapes** (a form without a rule yet)
 - The stopping number N (CO's one possible prediction: reversal fails beyond a fixed breadth; N ≳ ~50, conditional); the vertex (form found, photon sector and exchange sign owed); Way B to the frame (parked).
-- The pressure rule (turning once, travel twice); field energy drawing as an amount; closure of patterns; routes through added pairs (the sea); quarks commit, gluons as colour-field patterns; the capped light field; dark matter as a third kind.
+- The pressure rule (turning once, travel twice); field energy drawing as an amount; closure of patterns; routes through added pairs (the sea); quarks commit, gluons as colour-field patterns; the capped light field; dark matter as a third kind; number change (pair routes with the capped light field: priced, held).
 
 **Silences and walls** (where the primitives do not speak, or where CO stops)
 - The masses; 1/137; the count three (colour); the exchange sign for patterns; Lorentz invariance once loops come in (the frame dilemma: a degree bounded by quanta per place picks a frame).
