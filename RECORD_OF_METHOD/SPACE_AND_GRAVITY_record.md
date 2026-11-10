@@ -836,3 +836,7 @@ Against P∞ of a few ħ, both are small against a body's own h (7 × 10⁻¹⁰
 - *Costs carried over:* the tensor enters by its mean (semiclassical; Page and Geilker's conservation objection at resolution events stands); the lattice frame (conservation and covariance hold in the continuum limit, with tree-level corrections suppressed by ℓ and loop corrections held with number change).
 
 **Grade.** Shape, with one identification proposed to the author (matter's T^μν is the walk's and the field's) and one construction owed (the walk on the curved network). Taken, with the construction and the check done, it would retire "the full conserved stress tensor" as an owed item for everything CO's matter covers, leaving nuclear stress out of reach as before.
+
+## 2026-11-10 — matter's stress tensor is the walk's and the field's (the author's ruling, candidate)
+
+The identification proposed in the entry above is ruled (candidate): matter's T^μν is the stress tensor of the walk's continuum limit (Dirac, with its action minimally coupled through a tetrad, imported) and of the which-way field (Maxwell), the walk running on the network's full geometry. The draws are its R₀₀ combination. Owed: the construction (CO's palindromic Wilson walk on the curved network, with a spin connection) and the check that the draws equal that combination. "The full conserved stress tensor" leaves the owed lists in that form; the construction takes its place.
