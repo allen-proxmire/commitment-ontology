@@ -38,7 +38,7 @@ with ξ_i of order one and set by the regulator's shape, not suppressed by ℓ (
 - A substrate that picks no frame: not available (sprinkling excluded; Way B parked).
 - Flow to Lorentz invariance at low energy (Chadha–Nielsen 1983; Anber–Donoghue 2011): too slow for QED.
 - The frame only in gravity (Pospelov–Shang 2012): not available; matter walks on the substrate.
-- A symmetry pairing fermions and bosons (Groot Nibbelink–Pospelov 2005): works for breaking below about 10⁷ GeV, but needs partners CO does not have. Shape, outside CO.
+- A symmetry pairing fermions and bosons (Groot Nibbelink–Pospelov, PRL 94, 081601 (2005)): works for breaking below about 10⁷ GeV, but needs partners CO does not have. Shape, outside CO.
 - Tuning the bare speeds to about 1 part in 10¹⁷: permitted.
 
 CO stands where any real-time lattice field theory stands: permitted with a tuning.
@@ -52,3 +52,22 @@ CO stands where any real-time lattice field theory stands: permitted with a tuni
 - *Exact lattice supersymmetry.* Some lattice theories keep part of a fermion–boson symmetry exactly at finite spacing (twisted constructions; Catterall, Kaplan and Ünsal, Phys. Rep. 484, 71 (2009)). They are Euclidean, and they need partners, but they show such a symmetry can live on a lattice.
 - *A common origin for walk and link.* If light were made from the same walk as matter rather than carried separately on links, both would inherit one light cone at tree level. Whether loops would keep them together is the question; in condensed matter, emergent gauge fields inherit the light cone of the fermions that make them, but several species share one only if their Fermi points share a metric, which needs extra symmetry (Volovik 2003).
 - *A discrete real-time analogue of hypercubic symmetry.* Discrete spacetime point sets can carry integral Lorentz transformations (Schild 1948), but no finite-degree graph keeps them. A structure in between, finite-degree but with a symmetry that mixes the tick with the hops, is the unexplored case.
+
+## Symmetry search, step one: supersymmetry on a lattice (after cold reading)
+
+**What exists.** Exact supersymmetry does live on lattices, in three forms:
+- *Hamiltonian, real time, any graph:* H = {Q⁺, Q⁻} with nilpotent fermionic Q (Nicolai 1976; Fendley, Schoutens and de Boer, PRL 90, 120402 (2003)). Time is continuous; space is any graph, in any dimension.
+- *Euclidean:* twisted constructions keep a nilpotent scalar part of the algebra exactly (Catterall, Kaplan and Ünsal 2009).
+- *Discrete time:* supersymmetric quantum cellular automata have been written down (McGuigan, quant-ph/0307176), with doubling as a stated barrier; and every chirally symmetric one-particle walk has a supersymmetric structure (Suzuki 2019), which is a property of one walk, not a fermion–boson pairing.
+
+**What a lattice can keep, and what that protects.** A lattice cannot keep the part of the algebra that closes on momentum, {Q, Q̄} ~ P_μ, because lattice translations are discrete. What it can keep is a charge that commutes with the step (or with H) and with lattice translations, carrying no crystal momentum. That forces partners in one multiplet to have the same energy at every lattice momentum, so their dispersions, and their top speeds, agree exactly, loops included, while the symmetry is unbroken.
+
+**Why that does not reach the dangerous pair.** The speed difference that the data constrain hardest is between the electron and the photon. A supercharge that commutes with electric charge maps the electron (charge −1, spin ½) to a boson of charge −1, never to the photon (charge 0). So, for a supercharge carrying no electric charge, the electron and the photon cannot be partners in one multiplet (in the continuum this is forced for global supersymmetry, Haag–Łopuszański–Sohnius; on a lattice it is an assumption). In the continuum, supersymmetry protects them anyway, through the full algebra that closes on momentum (Groot Nibbelink–Pospelov 2005); that is exactly the part a lattice cannot keep exactly. A lattice-exact supersymmetry would protect electron against its scalar partner, and photon against its fermion partner, but not electron against photon.
+
+**Grade.** Excluded, for a charge-neutral supercharge, as the CO-shaped protection in its direct form: the electron and the photon cannot share a multiplet. The indirect form is a silence on a lattice (whether a partial lattice supersymmetry with the point group forbids an electron–photon speed difference has no known result) and needs partners CO does not have. Step one of the search finds nothing for CO.
+
+## The fork: can CO's lattice be finer than Planck?
+
+From the sink's strength with a fixed amount q per hop, G = δc³ℓ²/(4πq) in general, so ℓ = ℓ_P√(4πq/(δħ)). A lattice finer than Planck (ℓ < ℓ_P) needs q < δħ/(4π) ≤ ħ/(4π): hops carrying less than 1/(4π) ≈ 0.08 of a quantum. The ruling q = ħ (hops move one quantum; it settles the degree of the network against R5) and δ ≤ 1 (a kept fraction) both forbid it. So ℓ ≥ √(4π) ℓ_P is structural, not a choice made along the way: in CO the lattice scale is tied to gravity's strength, and the two-scale protection (Lorentz-violating scale far above Planck) is closed unless gravity's strength comes from somewhere other than the sink's conductance. Induced gravity (Sakharov 1967) is one such source, but there 1/G ~ NΛ², so more species push the cutoff below Planck, not above.
+
+**So.** The two direct routes found so far (lattice supersymmetry; a lattice finer than Planck) are closed for CO as it stands. By the author's plan, the next route is Way B.
