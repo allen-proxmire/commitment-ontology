@@ -120,7 +120,7 @@ Einstein's action, on a network in Regge's form. Lovelock's theorem does the uni
 
 $$H^2=\frac{8\pi G}{3}\rho-\frac{k}{a^2},$$
 
-with the matter era from matter's density. The radiation era follows (candidate): radiation draws twice its energy and falls as a⁻⁴, and the shell's acceleration then takes ρ + 3p, Friedmann's coefficient; with ρ ∝ a⁻⁴ its first integral is Friedmann's equation, curvature the constant of integration. Λ is taken from data; the theory gives it a seat, not a value.
+with the matter era from matter's density. The radiation era follows (candidate): radiation draws twice its energy and falls as a⁻⁴, and the shell's acceleration then takes ρ + 3p, Friedmann's coefficient; with ρ ∝ a⁻⁴ its first integral is Friedmann's equation, curvature the constant of integration. Λ is taken from data; the theory gives it a seat, not a value. Space grows by births: in the voids a new place appears with its share, a possibility-side birth, not a commitment: it leaves no record and does not tick (candidate). Births run at about 3H per place (places of fixed size), slaved to the dynamics; in the late limit, Λ's term in Friedmann's equation (Λc²/3) reads as a constant birth chance per place (shape: a restatement of Λ, not a derivation), about 2 × 10⁻⁵⁷ per tick, its value an input.
 
 ## The quantum sector
 
