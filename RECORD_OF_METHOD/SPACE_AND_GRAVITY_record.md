@@ -782,3 +782,25 @@ Tolman's integrand, and the active mass of a static self-gravitating body is its
 **Still owed.** The clock-versus-N identification inside matter (P_free/P_max against N where P includes record); where non-record draws go (C3 covers turning only); the full conserved T^μν (R_ij, g₀ᵢ, beams, PPN α₁, α₂); positivity of the fixed-amount flux. Out of reach: nuclear stress (neutron stars).
 
 **Grade.** Rules 1 and 2: candidate (the author's rulings). Travel's clock factor: candidate reading. With them, the source is GR's for radiation, gas stars, white dwarfs and planets, and the radiation era follows (the shell's acceleration equation takes ρ + 3p; with ρ ∝ a⁻⁴, Friedmann's coefficient), all conditional on the owed items.
+
+## 2026-11-10 — where the non-record draws go (candidate posit, proposed; after cold reading)
+
+**The question.** Turning's draw has a destination: each repeat keeps δħ as record (C3), withdrawn from the free stock, and that withdrawal is the sink. Travel (drawn twice), light (2E) and field energy now draw too (rulings of 2026-11-10), but no rule says where what they draw goes. Possibility is conserved, so it must go somewhere.
+
+**What the draw is not.**
+- *Not taken from the drawing pattern.* A photon paying its own draw would lose energy with distance: tired light, excluded as the redshift's cause by the time dilation of supernova light curves and the Tolman surface-brightness test; a loss at the draw's own rate is not computed here. A moving body paying for its travel would slow against the network: excluded by inertia (P5). The draw comes from the free stock at the place, as turning's does.
+- *Not returned locally.* Gravity needs a steady sink: under the hopping law the field is the inflow that replaces what is withdrawn. Possibility withdrawn and released again at the same place is no net sink and gives no pull. Release elsewhere (at the absorber, say) would be a source where light is absorbed; not priced.
+- *Not occupancy.* Occupancy lengthens relations (the route factor), which the cost's spatial equation already sets from the energy density; feeding it from the draws would, on this reading, count the source twice in the spatial geometry.
+
+**The candidate: every draw is record.** What any draw withdraws from the free stock becomes record and stays: for turning, as C3's δħ per repeat (dents, events); for travel, light and field energy, as a continuous trace by the mean, since these have no renewals (light never renews; the 2026-11-07 scope ruling makes light's draw a classical amount by its mean). Then pooling's sentence, "the retained fraction is the record, its withdrawal the sink", is again the whole sink: one door for every draw. Conservation reads: free stock + possibility in transit + engaged (record included, since kept is still engaged) + occupancy is constant, and every draw moves free stock into record.
+
+**What it changes.** "Light retains no record" becomes "light leaves no events": its trace is continuous and the same in every branch, so it carries no which-way information and spoils no interference (the independent-draw posit is not needed for it). The record's trace half is then the trace of all draws, not only of renewals; the count half is unchanged: renewals only. Light's coefficient, ruled earlier with "no record" as the reason nothing fixed it, is now set by the travel rule (2E, one G; a ruling chosen to match GR, not derived).
+
+**Costs and checks.**
+- The record grows with radiation as well as matter. In the radiation era that is most of the record's growth; today radiation is about 10⁻⁴ of matter's density, so its share is small. The record does not gravitate (counting it would double count), so this changes no field.
+- If the record is counted in a place's P, the clock inside matter drifts with the age of what has passed through. That is the owed clock-versus-N item, now with light's trace in it as well; not new, but larger in principle.
+- Light's trace is engaged by no pattern: "kept is still engaged" needs a holder.
+- For a superposed body the trace is branch-averaged, the same in every branch, so it carries no which-way information; but half a trace stays permanently along the arm the body did not take, which is Page–Geilker II made permanent. It is harmless only because the record does not gravitate.
+- The drawn amounts are fixed (δ per unit of turning, 2δ per unit of travel); the trace is classical by the mean, so the Page–Geilker costs already on record for light's source carry over unchanged.
+
+**Grade.** Candidate posit, proposed to the author: every draw is record (dents for turning, a continuous trace by the mean for travel, light and field energy). If ruled, it would retire "where non-record draws go" from the owed list and restore one door for the sink. Knock-on lines that say light retains no record, to mark if ruled: `SPACE_AND_GRAVITY.md` line 21; `MATTER_record.md` lines 587, 989; `OPEN_DIRECTIONS.md` line 19; this record line 484. Owed with it: the clock-versus-N identification inside matter, now including light's trace.
