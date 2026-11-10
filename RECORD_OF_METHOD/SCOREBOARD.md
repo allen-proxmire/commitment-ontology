@@ -36,9 +36,9 @@ What CO has, sorted by where it comes from. Updated after each climb; the record
 
 **Shapes** (a form without a rule yet)
 - The stopping number N (CO's one possible prediction: reversal fails beyond a fixed breadth; N ≳ ~50, conditional); the vertex (form found, photon sector and exchange sign owed); Way B to the frame (parked).
-- The pressure rule (turning once, travel twice); field energy drawing as an amount; closure of patterns; routes through added pairs (the sea); quarks commit, gluons as colour-field patterns; the capped light field; dark matter as a third kind; number change (pair routes with the capped light field: priced, held).
+- The pressure rule (turning once, travel twice); field energy drawing as an amount; closure of patterns; routes through added pairs (the sea); quarks commit, gluons as colour-field patterns; the capped light field; dark matter as a third kind; number change (pair routes with the capped light field: priced, held); one sign of matter everywhere from a shared first choice.
 
 **Silences and walls** (where the primitives do not speak, or where CO stops)
-- The masses; 1/137; the count three (colour); the exchange sign for patterns; Lorentz invariance once loops come in (the frame dilemma: a degree bounded by quanta per place picks a frame).
+- The masses; 1/137; the count three (colour); the exchange sign for patterns; Lorentz invariance once loops come in (the frame dilemma: a degree bounded by quanta per place picks a frame; priced: permitted with a tuning of about 10¹⁷, the protecting-symmetry exit outside CO); the baryon-to-photon ratio η.
 
 **Falsifier.** If two masses become entangled through gravity alone, CO is wrong (shared with semiclassical gravity).
