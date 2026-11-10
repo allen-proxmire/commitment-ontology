@@ -21,7 +21,7 @@ GR has no global now; QM has no event. CO takes both as primitives: commitment a
 ## Two things exist. The two primitives. 
 
 **Possibility** is the stuff of the universe. There is a fixed amount of it, it sits at places, and it moves between places that are related. It is conserved: never made, never destroyed.
-- Ruling P1, *scaleless:* the substrate has no scale of its own, and a hop compares neighbouring places by ratio, the choice scalelessness favours; with the lapse weighting of a conserved flux it is consistent with GR's exterior (given the cost's spatial equation), and Mercury excludes the other pairings. The field is linear in ln P. P is an amount, |a|² where possibility has an amplitude a; the rule acts on amounts and says nothing about phase. Each hop moves a fixed amount, P_max (candidate).
+- Ruling P1, *scaleless:* the substrate has no scale of its own, and a hop compares neighbouring places by ratio, the choice scalelessness favours; with the lapse weighting of a conserved flux it is consistent with GR's exterior (given the cost's spatial equation), and Mercury excludes the other pairings. The field is linear in ln P. P is an amount, |a|² where possibility has an amplitude a; the rule acts on amounts and says nothing about phase. Each hop moves one quantum, ħ (candidate).
 - Ruling P2, *capacity:* a place holds at most P_max of free possibility. Over capacity, it commits. The vacuum today is under capacity.
 - Ruling P3, *hold-and-release:* possibility engaged by a commitment is released when it completes, less the share C3 keeps as record; nothing is destroyed. Free possibility at a place is P_free = P(1 − h), h the fraction engaged.
 - Ruling P4, *toward engagement:* on each relation, the net flow of possibility runs toward the end that is engaging more. A place's h is what its relations have delivered to it. This is a rule about one link and its two ends; it needs no "at the same time."
@@ -140,7 +140,7 @@ Square roots of amounts, with phases, added and then squared. That is quantum me
 
 **Mass.** Mass is how often a pattern commits. Each commitment flips the internal state (it is the β step), with amplitude i·mcℓ/ħ per hop, ℓ the hop length. This is Feynman's checkerboard rule, reached from the other side. There is a heaviest possible pattern (one flip per hop), and its Compton wavelength is the hop length:
 
-$$\ell=\frac{\hbar}{m_{\max}c},\qquad \ell=\ell_P\sqrt{\frac{4\pi P_{\max}}{\delta}}.$$
+$$\ell=\frac{\hbar}{m_{\max}c},\qquad \ell=\ell_P\sqrt{\frac{4\pi}{\delta}}.$$
 
 **The moving clock.** A pattern always hops at c; its commitments are its turns. A pattern that travels spends its hops going one way and turns less often per second of the clock it passes, so it commits, and ticks, at ω/γ rather than ω: the slowing of a moving clock, γ = 1/√(1 − v²/c²). Ticking and travelling share one budget of hops (the author's picture). Gravity slows a clock too; in a circular orbit, where v² = GM/r, the slowing from travel is half the slowing from gravity.
 

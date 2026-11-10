@@ -27,7 +27,7 @@ Added principles: the substrate is scaleless; sliding or relabelling places cost
 
 | rule | statement |
 |---|---|
-| ratio hopping | a hop compares neighbours by ratio, the choice the scaleless substrate favours; with the lapse weighting of a conserved flux it is consistent with GR's exterior (given the cost's spatial equation), and Mercury excludes the other pairings: the field is linear in ln P. P is an amount (|a|² where possibility has an amplitude); the rule acts on amounts, not on phase; each hop moves a fixed amount, P_max (candidate) |
+| ratio hopping | a hop compares neighbours by ratio, the choice the scaleless substrate favours; with the lapse weighting of a conserved flux it is consistent with GR's exterior (given the cost's spatial equation), and Mercury excludes the other pairings: the field is linear in ln P. P is an amount (|a|² where possibility has an amplitude); the rule acts on amounts, not on phase; each hop moves one quantum, ħ (candidate) |
 | capacity | a place holds at most P_max free possibility; over capacity it commits. The vacuum today is under capacity |
 | hold-and-release | a renewal engages, completes, releases, less the share kept as record; nothing is destroyed. P_free = P(1 − h), h the fraction engaged |
 | clock | renewal rate = (mc²/ħ)(1 − h) |
@@ -39,13 +39,13 @@ Added principles: the substrate is scaleless; sliding or relabelling places cost
 
 **Clocks.** Two clocks compare as (1 − h_A)/(1 − h_B), independent of their mass: gravitational redshift, universal.
 
-**The field.** Matter is a sink: each renewal retains δħ at the rate mc²/ħ, and each hop moves a fixed amount P_max (both candidate), so the sink against the hop's conductance has strength σ = δmcℓ²/(ħP_max), P_max in units of ħ. Ratio hopping gives
+**The field.** Matter is a sink: each renewal retains δħ at the rate mc²/ħ, and each hop moves one quantum, ħ (both candidate), so the sink against the hop's conductance has strength σ = δmcℓ²/ħ. Ratio hopping gives
 
 $$\nabla^2\ln P_{\text{free}}=\sigma\,\delta(\mathbf r)\quad\Rightarrow\quad \frac{P_{\text{free}}}{P_\infty}=e^{-U},\qquad U=\frac{GM}{c^2 r},$$
 
 with, in hop units,
 
-$$G=\frac{\delta\,c^{3}\,\ell^{2}}{4\pi\hbar P_{\max}}\qquad\Longleftrightarrow\qquad \ell=\ell_P\sqrt{\frac{4\pi P_{\max}}{\delta}} .$$
+$$G=\frac{\delta\,c^{3}\,\ell^{2}}{4\pi\hbar}\qquad\Longleftrightarrow\qquad \ell=\ell_P\sqrt{\frac{4\pi}{\delta}} .$$
 
 This is the weak-field form. On the network the occupancies make (g_ij = ψ⁴δ_ij), possibility conserved as a current carries the lapse weighting N, and ratio hopping gives ∂_i(ψ²∂_i N) = 0, GR's static vacuum equation for the lapse; with the cost's ψ and the sink's flux equal to the mass, the exterior is Schwarzschild (candidate; consistency with the cost, not a derivation of it). It agrees with the line above through U².
 
@@ -71,7 +71,7 @@ The radiation era is not derived: radiation's draw falls as a⁻⁴, but the she
 
 ## Constants
 
-δ (retained share), P_max (capacity), Λ: the theory's own, values not given. G, c, ħ: measured. The hop length ℓ is fixed by δ and P_max through G.
+δ (retained share), P_max (capacity), Λ: the theory's own, values not given. G, c, ħ: measured. The hop length ℓ is fixed by δ through G.
 
 ## Open
 
