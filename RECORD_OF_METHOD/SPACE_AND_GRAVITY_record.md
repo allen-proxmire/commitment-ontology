@@ -917,3 +917,26 @@ So the inflow footprint is the same in every branch and carries no which-way inf
 - *The step.* The walk's step is defined with hops along three axes and a common tick (palindromic, local gates). On each graph, a step with fixed axes and a common tick picks a rest frame; whether superposing graphs removes it is unread. A step defined relative to whatever relations exist, with no axes, would be required.
 
 **Grade.** Ruling (candidate): relations fed by transit. The decoherence route through the inflow footprint: does not exclude option 1 (dent places independent draws, posited). Option 1 as an answer to the loop problem: shape, needing adjacency set by transit (against the formation-only default) and a step rule without axes; consequence if taken: the falsifier reversed if the branched part carries the Newtonian field (unread).
+
+## 2026-11-10 — can relations form and lapse with transit? What holds space together (after cold reading)
+
+**The question.** Option 1 reaches the loop problem only if which relations exist is set by what passes, not laid at the beginning and kept. A relation persists only while fed, and one carrying less than one quantum is not one (the beginning's missing sentence; with q = ħ a relation is fed by a quantum hopping across it each tick, which is why the degree is about the quanta per place, P∞/ħ, R5).
+
+**How much matter and light pass, per relation per tick.** A pattern hops every tick, so the fraction of relations a pattern crosses per tick is about nℓ³, with n its number density. At ℓ = 1.28 × 10⁻³¹ m:
+
+| what passes | patterns per relation per tick |
+|---|---|
+| cosmic background light (411 cm⁻³) | 9 × 10⁻⁸⁵ |
+| sunlight at Earth | 3 × 10⁻⁸⁰ |
+| rock (nucleons) | 4 × 10⁻⁶³ |
+| nuclear matter | 3 × 10⁻⁴⁹ |
+
+Matter and light fall short of one per relation per tick by 49 to 85 orders of magnitude everywhere. (Counting energy as quanta, uℓ⁴/(ħc), gives shortfalls larger still.) If relations were fed only by patterns' and light's transit, no relation would exist anywhere: there would be no space.
+
+**What does feed them.** The only flow of the right size is the free stock's own: a few ħ per place, hopping one quantum at a time. R5 suggests the relations were laid by the free stock's quanta (degree ≈ P∞/ħ + 1 at formation); whether that flow sustains them today meets "the floor falls" (unread). So the reading here: the graph is free possibility in motion, laid at formation and, if it sustains them, kept by the same flow.
+
+**What that means for the ruling of the same day.** If this holds, the same-day ruling ("fed by possibility in transit, not by free possibility drawn in by pooling") is reversed by size: patterns and light add at most one part in 10⁴⁹ of what a relation needs. It returns to the earlier reading (vacuum relations fed by free possibility), which is for the author to re-rule. Free possibility has no amplitude (ruled, candidate), so the graph's adjacency would be set by a classical flow; making it quantum would need the free stock quantum, excluded at the current constants by dent and capacity. Relations forming and lapsing with patterns' transit cannot be what holds space together.
+
+**Where this leaves the frame.** A graph of free possibility is the reading that set option 1 aside: classical, finite in degree because the quanta per place were few at formation, and a classical finite-degree graph picks a frame. The step without axes is then not decisive, because the graph it would run on is still classical. The chain is now explicit: free possibility has no amplitude (candidate; its quantum alternative excluded by data at the current constants) → the graph is classical → its degree is finite (R5) → a frame → matter's loops need tuning. Each link can be checked; the data hold only the alternative to the first (a quantum free stock is excluded).
+
+**Grade.** What the graph is made of: candidate reading, free possibility in motion (laid at formation; sustaining it today unread against the falling floor). Relations sustained by patterns' and light's transit: excluded by size (49 to 85 orders short). The same-day ruling: reversed by size if this holds, for the author to re-rule. Option 1 as an exit from the frame: set aside (a candidate ruling, a reading and a formation run; its quantum route excluded by data). The frame problem now rests on one candidate ruling backed by data (free possibility has no amplitude) and one run-based reading (degree from quanta per place).
