@@ -946,3 +946,18 @@ Matter and light fall short of one per relation per tick by 49 to 85 orders of m
 **Re-ruled (candidate).** A relation is fed by free possibility in motion, the free stock's quanta hopping one at a time; patterns and light add at most one part in 10⁴⁹ of what a relation needs. This reverses the same-day ruling "fed by transit" on size. The graph is free possibility in motion, classical (free possibility has no amplitude), laid at formation with degree set by the quanta per place (R5). The author's question "what is the graph made of?" is answered, for CO as ruled: possibility, the free kind.
 
 **Held.** CO stays at tree level, up to 1930 for a fixed number of particles. The frame is stated in the README and the plain-language doc as the open problem: the chain free possibility has no amplitude → classical graph → finite degree → a frame → loop speeds needing tuning of about 10¹⁷, which CO does not accept. No exit read so far removes it without a change at the foundation: a third primitive for the graph (by the author's cascade test) or the graph made quantum (unsettled, and costly).
+
+## 2026-11-10 — "the floor falls", read against relations fed by free possibility (after cold reading)
+
+**The tension, sharpened.** With relations fed by free possibility, a place can keep at most about P_free/ħ relations, each carrying at least a quantum (the beginning's missing sentence; q = ħ). R5 laid the network at degree ≈ P∞/ħ + 1, so the relations were, at formation, about as many as the floor could feed. The record also says the floor falls: newborn places hold about ħ, and the floor falls everywhere at about the expansion rate ("The wall, and the door"). A falling floor can no longer feed every relation; the unfed ones lapse, and the degree follows the floor down.
+
+**What the data allow.** Three dimensions tolerate degrees of about 4 to 12 (the annealing note: flatness is dimension-blind; the cubic and triangular lattices both qualify). Radiation thinning as a⁻⁴, primordial nucleosynthesis and the cosmic background all need three dimensions from the first seconds on. So since formation the degree can have changed by at most a few relations per place, and the floor by at most a few ħ. A floor falling at about the expansion rate since formation would have fallen by many e-folds and taken the degree below three dimensions long ago; and at today's rate, about one relation per place would lapse every (ħ/P∞)/H₀, a few Gyr.
+
+**So.** Under the re-ruling, "the floor falls at about the expansion rate" and "three dimensions since formation" cannot both hold. One of these must give:
+- *the floor has nearly stopped falling* since formation (what holds it is not in the rules);
+- *newborn places hold several quanta*, not about ħ, so the floor settles where births sit, above four quanta per place (where they would get them is not in the rules);
+- *relations persist without feed* once laid, which is the formation-only default, now in conflict with "fed by free possibility".
+
+The quantity that decides it is how much free possibility a newborn place gets, and whether the floor still falls today; neither is fixed by the rules.
+
+**Grade.** Tension, sharpened by the re-ruling; silence on its resolution. It bears on the frame only indirectly (the graph is classical whichever way it resolves), and directly on whether CO's space holds its dimension over cosmic time.
