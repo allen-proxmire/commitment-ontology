@@ -961,3 +961,17 @@ Matter and light fall short of one per relation per tick by 49 to 85 orders of m
 The quantity that decides it is how much free possibility a newborn place gets, and whether the floor still falls today; neither is fixed by the rules.
 
 **Grade.** Candidate reading (the conflict, sharpened by the re-ruling); silence on its resolution. It bears on the frame only indirectly (the graph is classical whichever way it resolves), and directly on whether CO's space holds its dimension over cosmic time.
+
+## 2026-11-10 — the author's birth idea, reading 2: births only as fast as the stock can fill them (after cold reading)
+
+**The idea (the author's, restated and confirmed as reading 2).** A place is born only when free possibility can fill it to the floor, so births never drain the floor.
+
+**Against conservation and expansion.** In CO distance is hop count, so expansion is births in voids (bound things do not expand); since voids hold nearly all the volume, places multiply about as the volume does, N ∝ a³. With free possibility conserved, and the record growing only slowly (all draws in a Hubble volume take about δE/ħ ≈ 10⁹⁶–10⁹⁷ ħ s⁻¹ against a free stock of about 10¹⁷¹–10¹⁷² ħ, a drain time near 10⁷⁴–10⁷⁵ s), the free stock per place is total over N, so
+
+P_free per place ∝ a⁻³,  d ln P∞/dt ≈ −3H.
+
+Throttling births to what the stock can fill does not change this: any newborn place's quanta come from existing places. The only way to keep the floor is to throttle expansion itself, but births at the observed rate (about 3H₀ per place) are what expansion is in CO, so the floor falls at about 3H₀ whatever the throttle. This is faster than the "about the expansion rate" used earlier, and shortens the lapse time of the previous entry to about a Gyr, sharpening that conflict. Reading 2 cannot hold the floor with today's expansion.
+
+**What that leaves.** The floor holds only if the total free stock grows with the number of places: each newborn place brings possibility of its own (the author's reading 1). That is the behaviour of a cosmological constant, a density that stays fixed as space grows, so total content grows with volume. CO takes Λ from data; reading 1 would give it a CO-shaped reason for its behaviour, though not its value (a few ħ per place per tick is about 10⁹⁸ J m⁻³, some 10¹⁰⁷ times the observed dark-energy density, and in CO the free stock does not itself gravitate, only draws do). Reading 1 breaks conservation of possibility unless "room", possibility of where, is a kind of its own: the third thing of the author's graph question.
+
+**Grade.** Reading 2: excluded as a way to hold the floor (a conserved stock spread over places multiplying as a³ falls as a⁻³). Reading 1: shape, breaking conservation unless room is its own kind; it would hold the floor and give Λ's behaviour a reason (not its value); by the author's cascade test it touches two open items (the floor, Λ) and possibly the frame.
