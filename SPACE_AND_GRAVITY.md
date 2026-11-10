@@ -79,7 +79,7 @@ The radiation era (candidate): radiation draws twice its energy and falls as a�
 
 ## Open
 
-The values of δ, P_max and Λ; the full conserved stress tensor behind matter's source; the mechanism behind the first relating (three dimensions by consistency, not by mechanism); the hole's interior.
+The values of δ, P_max and Λ; the walk on the curved network, which carries matter's stress tensor; the mechanism behind the first relating (three dimensions by consistency, not by mechanism); the hole's interior.
 
 ## Status
 
