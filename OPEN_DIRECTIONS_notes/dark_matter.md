@@ -1,0 +1,29 @@
+# Dark matter: a scratchpad
+
+Shapes and doodles, graded as such. Nothing here is a ruling.
+
+**The shape: a pattern that renews but has no channel.** CO separates two things standard physics bundles together:
+- *What has mass gravitates through renewal.* Each repeat keeps δħ (C3), and that draw is the sink; charge plays no part.
+- *What can be engaged* is anything with a channel: a final state through which another commitment can take a quantum from it (C8, candidate). Charge is a channel for light; colour is a channel for gluons.
+
+A pattern that renews but carries no channel would gravitate fully and be engaged by nothing. In the author's earlier words: *a pattern that commits but never measures.* Standard physics' dark matter (heavy, cold, felt only through gravity) is then permitted in CO with nothing added, though not predicted.
+
+**What it has to do.**
+- *Collisionless:* no channel, no scattering. Halos stay extended; the dark mass in the Bullet Cluster (Clowe et al. 2006) passes through with the galaxies, while the gas, which has channels, is slowed.
+- *Cold:* a channel-less pattern never comes into heat balance with anything, so it keeps whatever speed the beginning gives it; a heavy pattern made slow stays slow. How slow the beginning makes it is not ruled.
+- *Never detected directly:* every underground search looks for a channel, so CO expects them to keep finding nothing. (Gravity-only dark matter models expect the same, so this does not single CO out.)
+- *Made only at the start:* with no channel, nothing later can make it. It would come out of the beginning, when every place was over capacity and committed at once. C7 says matter forms immediately but not which patterns, or how many; that the beginning makes channel-less ones is assumed. Made before the spreading, it faces the same question as ordinary matter made there: how it survives the spreading.
+
+**Two that do not work.**
+- *The record as dark matter:* no. The record is not extra mass; the retained share is how ordinary matter gravitates. Counting it again would double count, and it sits where matter has been, not in halos.
+- *Neutrinos:* no. They are light and fast, and would wash out small structure; they are excluded as the bulk of dark matter. Whatever the dark pattern is, it differs from them.
+
+**How much: the "about five".** Dark matter is about 5.4 times ordinary matter by mass (Planck 2018: Ω_c h² ≈ 0.120 against Ω_b h² ≈ 0.0224). CO cannot derive that ratio without masses, which are inputs. One CO-shaped relation: if the beginning made dark patterns and ordinary matter in equal numbers, by the same "no room for a second pattern" that the author proposes for the matter–antimatter asymmetry, then the dark pattern's mass would be about 5.4 proton masses, around 5 GeV. That matches, in its simplest form, the asymmetric-dark-matter relation of the standard literature (Kaplan, Luty and Zurek 2009, who give 5–15 GeV). The standard version uses a channel to destroy the dark antiparticles; a channel-less pair cannot annihilate, so this needs the beginning to make no dark antipatterns. It would be a number with a mass as input, not a continuous number from the primitives; and a channel-less 5 GeV pattern would show only through gravity, where 5 GeV is hard to tell from heavier.
+
+**The story of threes.** Ordinary matter: patterns that renew with channels, in three families. Dark matter: patterns that renew without. Whether the dark kind also comes in three is open.
+
+**Doodles, flagged as doodles.**
+- *MOND's scale.* MOND's acceleration a₀ ≈ 1.2 × 10⁻¹⁰ m s⁻² is close to cH₀/2π. In CO the floor of possibility falls at about the expansion rate; if a galaxy's outskirts felt that falling floor, the coincidence would have a CO-shaped reason. Not worked.
+- *The network's edge.* An older picture of the author's: at the network's edge (the visible horizon) something overcomes weak gravity, and in the Bullet Cluster the collision jammed the network into a knot that carries the extra pull. The horizon half has a well-known relative: Verlinde's emergent gravity (SciPost Phys. 2, 016 (2017)) derives an apparent dark matter from the de Sitter horizon, with a₀ tied to cH₀. It fits galaxy weak lensing in one test (Brouwer et al. 2017) and has trouble with clusters and with the timing of structure. The knot half would have to travel with the galaxies and not the gas, as the Bullet Cluster's lensing mass does.
+
+**Grade.** Shape: dark matter as a renewing pattern with no channel, made only at the start. The equal-numbers relation (dark pattern ≈ 5 GeV) is a shape resting on the author's matter–antimatter hunch. The MOND and network-edge pictures are ungraded sketches.

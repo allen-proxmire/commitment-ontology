@@ -2,7 +2,7 @@
 
 What is open, graded as elsewhere (candidate: before a ruling; needed: after a ruling forced by data or exclusion; ruled; excluded; shape: a form without a rule; silence: the primitives do not speak). Results-only documents carry what stands; this file carries what does not yet. Working detail and every route tried are in `RECORD_OF_METHOD/`.
 
-Longer notes on open directions are in [`OPEN_DIRECTIONS_notes/`](OPEN_DIRECTIONS_notes/): how patterns combine (the gap under most ladder tops).
+Longer notes on open directions are in [`OPEN_DIRECTIONS_notes/`](OPEN_DIRECTIONS_notes/): how patterns combine (the gap under most ladder tops); dark matter (a scratchpad).
 
 ## Space and gravity
 
@@ -20,7 +20,7 @@ Longer notes on open directions are in [`OPEN_DIRECTIONS_notes/`](OPEN_DIRECTION
 - **Doublers.** Reduced to the Wilson form; the remaining copies are predicted charged particles at the hop scale, above 10¹⁴ GeV. The binding bound on the hop is the electron's speed, ℓ ≲ 1.3 × 10⁻³¹ m. What it would take: a cancellation, or an account of the copies.
 - **Lorentz invariance with loops.** The walk's finite-degree causal structure picks a frame (the global tick is only one slicing of a circuit of local gates; the primitives pick none); with loops, species-dependent speeds of order α/π follow (Collins et al. 2004), against bounds near 10⁻²⁰. What it would take: a walk whose causal structure picks no frame (removing the global tick removes the universal now, not the frame), or a protecting symmetry. Light moves at the walk's c (candidate ruling); whether light carries a time step is open. The dilemma, stated: the network's degree is bounded by quanta per place (R5), and any uniform degree bound picks a frame (Bombelli–Henson–Sorkin 2009). Relations to all past-cone places (causal-set style) would avoid it but contradicts CO's births, degree, distance and locality rulings; discreteness of values rather than places (loop quantum gravity) would avoid it but needs occupancy quantum, against the classical-amounts ruling and CO's falsifier. Nearest relative: energetic causal sets (Cortês–Smolin 2014), which sit on the frame side.
 - **Routes through added patterns (the sea).** Silence: no rule adds a pattern on a route (the pion's force range is read through one). The posit that would fill it (a route may pass through configurations with a pair added, totals conserved) is a shape: it gives the configuration space, not the vertex, the photon sector or the exchange sign. On the Wilson walk it would not tame the lattice self-energy (chiral symmetry broken), and it carries the O(α/π) loop exposure.
-- **Dark matter.** Shape: a pattern that commits but never measures (no sign, no colour, and unlike a neutrino not even weakly interacting; cold; engaging only free stock). Permitted, not predicted; CO's gravity is GR's, so the invisible mass is needed for GR's reasons.
+- **Dark matter.** Shape: a pattern that commits but never measures (no sign, no colour, and unlike a neutrino not even weakly interacting; cold; engaging only free stock). Permitted, not predicted; CO's gravity is GR's, so the invisible mass is needed for GR's reasons. Scratchpad: [`OPEN_DIRECTIONS_notes/dark_matter.md`](OPEN_DIRECTIONS_notes/dark_matter.md).
 - **The masses.** Silence. **1/137.** Input. **g = 2.** Conditional on the coupling.
 
 ## Nucleus
