@@ -50,3 +50,7 @@ Counts now: progressive 6, accommodating 4, neutral 2–3. The gravity side's re
 | one coupling strength for every part (reading) | drag and waves bent with the static strength; light's factor two as ρ + S; active = passive mass for moving sources | turns "the draw sets the relations" **progressive** |
 
 Counts now: progressive 8, accommodating 3, neutral 3.
+
+## Correction, same day (outside check)
+
+The draw's single strength needs local conservation of the walk's stress tensor, not shown: "the draw sets the relations" returns to accommodating, with a shape for its strength. The exchange sign stays progressive as a conditional (Part 2 an identification). Counts: progressive 7, accommodating 4, neutral 3.

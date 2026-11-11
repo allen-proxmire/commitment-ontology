@@ -1300,7 +1300,7 @@ whose totals are (ħ/τ)⟨sin(Hτ/ħ)⟩ and (ħ/ℓ)⟨sin(p_iℓ/ħ)⟩, with
 
 **Check.** A one-dimensional Dirac walk (mass angle 0.3, 64 places, periodic, random start), 1000 ticks: both totals change by ~3 × 10⁻¹⁵ and ~5 × 10⁻¹⁵, machine precision. The random start fills the whole zone, so this tests conservation only, not agreement with the energy.
 
-**Scope.** Energy: exact for any walk the same every tick, a fixed place-dependent coin included (checked: drift ~10⁻¹⁵). Momentum: needs the walk to be the same at every place (a regular lattice; a place-dependent coin gave drift 0.19), which the cubic graph of P7c keeps defined. A field that changes over ticks exchanges energy with the walk, and what must be conserved is matter plus field together; at linear order the source is the free walk's, as above. The local densities' conservation (∂_t ε + D_i j_i = 0 with a matching lattice current) is not shown here; the total, which is what the gauge needs, is.
+**Scope (corrected: the gauge argument needs the local densities' conservation, not shown here; the totals' conservation is necessary, not sufficient).** Energy: exact for any walk the same every tick, a fixed place-dependent coin included (checked: drift ~10⁻¹⁵). Momentum: needs the walk to be the same at every place (a regular lattice; a place-dependent coin gave drift 0.19), which the cubic graph of P7c keeps defined. A field that changes over ticks exchanges energy with the walk, and what must be conserved is matter plus field together; at linear order the source is the free walk's, as above. The local densities' conservation (∂_t ε + D_i j_i = 0 with a matching lattice current) is not shown here; the total, which is what the gauge needs, is.
 
 **Grade.** Reading: the condition the gravity chain rests on is met, exactly, for the free walk.
 
@@ -1361,3 +1361,12 @@ which is GR's static vacuum equation for the lapse, D^iD_iN = ψ⁻⁶∂_i(ψ²
 **What it gives unasked.** (1) Active gravitational mass equals passive for moving and stressed sources: the drag a moving body causes and its gravitomagnetic field come with Einstein's coefficient (h_0i ≈ −4GMv_i/(c³r)), not a new constant. (2) Light's factor two (light draws 2E) is ρ + S for radiation, where S = ρ: the same single coupling, not a separate rule.
 
 **Grade.** Reading: given P7e and conservation, the draw's strength is one constant for every part, fixed by the static case. "A draw sets the relations" moves from accommodating toward progressive: its strength for the parts it was not fitted on now follows.
+
+## 2026-11-11 — outside check of the chain from "no backdrop" (corrections)
+
+One outside reader checked the chain: G1 → one coupling → G → the static lapse → the exchange sign. Findings and corrections:
+- *G1:* valid with assumptions: the carriers assembling into a tensor is an identification; "moving places" acting as a lattice gradient is posited (graph nodes have no positions); long wavelength (cube-anisotropic curvature-squared terms at order (kℓ)² are suppressed, not excluded); the time freedom used is linearised time-reparametrisation, rate changes included, not only a reset of readings. P7e and README reworded accordingly.
+- *One coupling (entry above):* the algebra holds, but it needs **local** conservation, ∂_μT^μν = 0, with T symmetric, and gravity's speed equal to c. The conservation entry's "the total, which is what the gauge needs" was wrong: the gauge argument needs the local densities' conservation, not shown. Grade of "one strength for every part": **shape** until local conservation is shown. The Lakatos update's "progressive" for the draw's strength is withdrawn to accommodating-with-a-shape.
+- *G:* consistency, not a prediction; the appendix wording stands.
+- *Static lapse:* the cost's ψ is itself from Lovelock's hypotheses; SPACE_AND_GRAVITY now says so.
+- *Exchange:* Part 1 rests on posited flatness (on a graph Z₂ is imposed, not inherited); Part 2 is an identification (frame transport defines the phase; cubic frames lift to the spinor's double cover; the belt-trick deformation on the graph), with no non-relativistic theorem behind it. MATTER reworded.
