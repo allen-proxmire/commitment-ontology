@@ -1101,3 +1101,28 @@ the line shape the walk and the phase give (golden rule with a decaying final st
 ## 2026-11-10 — C8: a channel is a final state with its width (the author's ruling, candidate; after cold reading)
 
 The proposal above is ruled. Results docs updated: engagement follows the final state's line shape, Lorentzian near the line; κ = 0 only with no final state or a zero matrix element; "matching within its width". Cold reader: far wings are not Lorentzian (counter-rotating terms, mode density, the matrix element's frequency dependence, pressure broadening), so the evidence against a sharp edge is wings that fall smoothly and stay nonzero many widths off line. The no-spontaneous-collapse bullet's κ = 0 is the no-final-state case and stands. Also from the same read: the engaged share, at most ~10⁻⁴⁹ per place at nuclear density, is an upper limit since ℓ is an upper bound.
+
+## 2026-11-10 — what carries the field: the free stock cannot (candidate; checked twice)
+
+
+Diffusion. Ratio hopping + conservation in passing: ∂f/∂t = D∇²f − sink, f = ln P_free, D = ℓc(ħ/P∞), P∞ ≈ 5ħ.
+With G fixed by step 1 (G = δc³ℓ²/(4πħK) if a hop carries K quanta, κ = Kħ/τ), D = Kℓc ħ/P∞ = δℓ³c/(4πℓ_P²)(ħ/P∞).
+At ℓ = 1.3e-31 m: D = 8e-24 m²/s (δ = 2e-7, K = 1) up to 4e-17 m²/s (δ = 1). Smaller ℓ: smaller D.
+
+Moving bodies. Bodies move through the network (Earth ~370 km/s relative to the CMB frame, if the network's rest frame is that frame; at least 30 km/s around the Sun). The steady field of a sink moving at v through a diffusive medium has Péclet number Pe = v r/D. For Pe ≫ 1 the field is a thin wake, not a 1/r field around the body. Earth's field at r = 1 m, v = 3e4 m/s: Pe ≥ 3e4/4e-17 ≈ 7e20; at 370 km/s and δ = 2e-7: ~5e28. The Sun's field at 1 AU (taking Earth's 30 km/s relative motion): Pe ≥ 1e32; following needs D ≳ v r ≈ 4.5e15 m²/s. Frame-proof: Earth and Sun move relative to each other, so in any frame one of them moves at ≥ 15 km/s; and any speed above about 1 mm/s already gives Pe ~ 1e13 at r = 1 m. In the body's frame the field is ∝ e^{−v(r + x)/2D}/r: it dies within D/v ahead and to the sides and survives only in a wake of width √(Dx/v) behind.
+Setup time even for a body at rest: r²/D, reach in the age of the universe √(D t₀) ≈ 2 mm to 4 m.
+
+Ballistic or mixed transport. If free possibility moves at c with mean free path λ, D ≈ λc/3. Following the Sun needs λ ≳ 1e7 m (D ≳ 4.5e15). But below λ the static profile is ballistic: deficit ∝ 1/r² (potential 1/r²), not Newton's 1/r. The 1/r law holds down to ~50 μm (torsion-balance tests). λ ≤ 5e-5 m gives D ≤ 5e3 m²/s, short by ~1e12. Excluded.
+
+Wave-equation stock. A stock obeying □ ln P = σ would be Lorentz-covariant and a moving body's field the boosted static one, escaping the Péclet argument; but that is a radiating scalar mode, already excluded (the wave test; P7's scalar-wave exclusion).
+
+At rest, too. Even a body at rest builds its field only out to √(D t₀) ≈ 2 mm – 4 m in the age of the universe, so step 1's mechanism fails before motion enters; and read in time it gives h a transport law of its own, against the Hypotheses' "no rule of its own".
+
+Reading (candidate). Transport of the free stock, diffusive, ballistic or mixed, cannot carry the field around moving bodies. The field must be carried by something that moves at c and keeps 1/r at short range: the occupancies (route lengths, the metric), whose dynamics are GR's via Lovelock. Consequences:
+- step 1's balance holds only as the static form of whatever the occupancies do; its mechanism (stock flowing in to feed the sink) cannot be the field's dynamics;
+- G = δc³ℓ²/(4πħ), and with it δ ≳ 2e-7 from ℓ ≲ 1.3e-31 m, rests on that mechanism and loses its basis unless rederived from the occupancies;
+- feeding is not the problem: a moving body sweeps fresh stock (~1e112 quanta/s against Earth's draw ~1e59 at δ = 2e-7).
+
+**Correction.** The cold reading of 2026-11-07 (above, "Cold reading, same day: does not enter") called ∇² ln P = σδ "the steady state of ratio hopping relaxing at the hop speed". Relaxation is diffusive, not at the hop speed; that is the point of this entry.
+
+**Entered.** OPEN_DIRECTIONS ("What carries the field"); TECHNICAL_APPENDIX ("What kind of derivation", now static); README ("static weak field", one sentence).
