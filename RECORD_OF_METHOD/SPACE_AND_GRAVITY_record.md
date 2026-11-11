@@ -1429,8 +1429,31 @@ and since −c h·p gives −(c/2)(∇ × h)·L for an orbit's angular momentum 
 
 **Geodetic.** The Foldy–Wouthuysen reduction of the Obukhov form gives Ω_geo = (γ + ½)(GM/c²r³)(r × v): the ½ from the lapse's spin–orbit term, the γ from the stretch; that form already contains the spin connection, so no nonlinear terms are needed. At γ = 1 this is GR's 3/2.
 
-**Against data.** Gravity Probe B (Everitt et al. 2011): geodetic −6601.8 ± 18.3 mas/yr against GR's −6606.1; frame dragging −37.2 ± 7.2 against −39.2. A rough check of the formulas (circular 642 km polar orbit, no oblateness) gives 6637 and 41 mas/yr, consistent with the published predictions to the few-per-cent the simplification allows. GP-B's rotors carry bulk rotation, which is the orbital angular momentum of their constituents: the data test the orbital coupling (the h·p term) and the geodetic term. The Dirac spin's own ratio of one is predicted here and untested by GP-B.
+**Against data.** Gravity Probe B (Everitt et al. 2011): geodetic −6601.8 ± 18.3 mas/yr against GR's −6606.1; frame dragging −37.2 ± 7.2 against −39.2. A rough check of the formulas (circular 642 km polar orbit, no oblateness) gives 6637 and 41 mas/yr, consistent with the published predictions to the few-per-cent the simplification allows. GP-B's rotors carry bulk rotation, which is the orbital angular momentum of their constituents: the data test the orbital coupling (the h·p term) and the geodetic term. The Dirac spin's own ratio of one follows given the frame identification (next entry) and is untested by GP-B.
 
 **Notes.** (1) The squares (shear) do not enter: in isotropic gauge h_ij ∝ δ_ij, and Earth's oblateness keeps it diagonal; precession is gauge-independent. Not the squares' third use. (2) Correction to the local-conservation entry: its statement that the walk's T is symmetric to O((kℓ)²) holds for plane waves only. Energy current and c² times momentum density differ by the curl of the spin density, an O(k) term; it is divergence-free, so local conservation stands, and the symmetric coupling picks it up.
 
 **Grade.** Candidate reading: it carries the static curved walk's grade (identification, continuum limit owed), the single coupling (reading), γ = 1 (data choice), and the identification that the walk responds to the one-way part as it sources it. GP-B's two numbers are met under these.
+
+## 2026-11-11 — how the walk responds to the carriers, from no backdrop (reading, given P7e applied to the walk, proposed for the author's ruling)
+
+**The owed step.** The gyroscope entry used two identifications: the static curved walk in Obukhov's form, and the walk responding to the one-way part as it sources it. Both are the walk's response to the carriers. This entry asks how far no backdrop fixes that response.
+
+**The premise.** P7e says moving places and reparametrising each place's clock cost nothing. As written it governs the relations' cost. Applied to the walk as well, it says a pattern cannot tell a relabelling from no change: if places are moved by ξ_i(t, x) and their clocks reset by ξ_0(t, x), with x⁰ = ct, the walk on the relabelled network, with the carriers changed by
+
+δh_μν = ∂_μξ_ν + ∂_νξ_μ,
+
+describes the same history. This is the same posit applied to everything on the network; it is proposed for the author's ruling because P7e's row does not yet say it.
+
+**What it fixes.** Take the walk's response linear in the carriers, local, with at most one derivative on them. Couplings to curvature (two derivatives) are suppressed by their own length, the hop ℓ or the pattern's Compton wavelength, against the field's scale.
+
+1. *Moving places,* ξ_i(t): ξ_i(t) gives h_0i = ξ̇_i/c alone (h_00 = h_ij = 0), and in relabelled coordinates the walk's Hamiltonian gains −ξ̇·p. So the coefficient of h_0i on the momentum density is fixed: H ⊃ −c h_0i 𝒫^i.
+2. *Resetting clocks,* ξ_0(x): t → t + ξ_0/c turns p into p + (∇ξ_0)H/c, and gives h_0i = ∂_iξ_0 alone. So the coefficient on the energy current is fixed and equal. Steps 1–2 probe only curl-free h_0i, so they fix the coupling up to a curl term: the canonical and Belinfante densities are not yet told apart.
+3. *Rotating places,* ξ = (ω × x)t: a pure relabelling with h_ij unchanged and ∇ × h_0 = 2ω/c ≠ 0. The orbital term gives −ω·L. Whether the spin term is −ω·S depends on whether the walk's spinor axes turn with the places. That is an identification, not part of P7e (which moves places and clocks, not internal axes): it is the same identification as the exchange sign's (P8b), the places' frames carrying the internal state. Given it, the walk's density is Belinfante's, g = ψ†(−iħ∇)ψ + ½∇ × s, and any extra b s·(∇ × h_0) would be nonzero on this pure relabelling, so b = 0: the spin's ratio is one. Without it the ratio would be zero.
+4. *Lapse and stretch,* ξ_0(t) and ξ_i(x): the same argument fixes h_00 and h_ij to T^00 and the symmetric T^ij. No further coupling with one derivative on h is invariant on its own; the one-derivative spin term present is set by how the walk transforms (step 3). A trace coupling changes under relabelling and is excluded. The result is unique up to field redefinitions (terms that vanish on the walk's equation).
+
+So, in the continuum at linear order, the walk's response is −½ h_μν T^μν with T the walk's symmetric stress tensor, the same single coupling that sources the field. This replaces the gyroscope entry's two identifications with P7e applied to the walk (proposed) and the frame identification already used for the exchange sign. GP-B's numbers depend only on the orbital and geodetic terms (steps 1, 2, 4), which do not use the frame identification; the spin's ratio of one uses it and is untested.
+
+**Not covered.** The lattice form: whether a nearest-neighbour walk coupled to the staggered carriers is exactly unchanged by lattice relabellings (as run G3 found for the carriers' cost). Nonlinear order (Obukhov's form beyond linear order). The cubic graph's rotations are discrete; step 3 uses a displacement field at long wavelength.
+
+**Grade.** Reading, given P7e applied to the walk (proposed) and, for spin, the frame identification (P8b's). In the continuum this is the textbook uniqueness of linear coupling (Weinberg; Deser); what is new is only that CO's no backdrop is the premise.
