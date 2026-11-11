@@ -17,24 +17,7 @@ An accommodating addition is not a failure; it is a debt. It turns progressive w
 
 ## 2. The ladder table
 
-One line per domain, updated when a rung is climbed or lost.
-
-| domain | where CO stands | posits it uses | data it has met | open |
-|---|---|---|---|---|
-| time and its arrow | derived (the record only grows) | C3 | — | — |
-| clocks, redshift, free fall | derived (clock from the commitment cycle, under the free-share rule) | C1, C4, free-share rule | Pound–Rebka, GP-A, strontium coherence | — |
-| static weak field | derived as a static form; two choices fixed by data | P1, q = ħ, P6, P7a | Mercury, Cassini | the field's own dynamics |
-| exterior and waves | reconstructed (Lovelock, given its hypotheses) | P7a–c | Hulse–Taylor, LIGO polarization | the nonlinear rule for the relations |
-| inside matter, radiation era | reconstructed (Tolman's source) | travel rule, field energy as an amount | — | the walk on the curved network; P = P∞ |
-| cosmology | reconstructed (Friedmann); inflation-like epoch as shape | C7, birth share | — | e-folds, ripples, Λ's value |
-| three dimensions | consistency condition | — | — | a lattice from the runs |
-| one particle (Dirac, spin, g = 2) | by identification | C5, C6, P7d | Crab electrons (hop bound) | loops; the frame |
-| two particles | by identification | branched field, bound/emitted split | helium, positronium, 21 cm (tree) | covariance; number change |
-| measurement | partly derived (channels from the walk and phase) | C8 core | vacuum Rabi, line wings | which passages are engagements; N |
-| statistics | compatible, not forced | — | — | the exchange sign |
-| nucleus | wall, stated | — | the count three | a third primitive (not earned) |
-
-Running counts, kept with each update: independent posits; data met; walls turned into ways; walls still standing.
+Kept in [`SCOREBOARD.md`](SCOREBOARD.md), one line per domain, updated when a rung is climbed or lost.
 
 ## 3. What this measure is not
 
