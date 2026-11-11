@@ -1307,3 +1307,7 @@ whose totals are (ħ/τ)⟨sin(Hτ/ħ)⟩ and (ħ/ℓ)⟨sin(p_iℓ/ħ)⟩, with
 ## 2026-11-11 — grade word: "ruled" becomes "posited" in the results docs (the author's decision)
 
 An outside reading noted that "ruled" reads to a physicist as "derived". In the results docs the grade is now "posited": a quality the author has decided, not derived. Where "ruled" had meant derived (NUCLEUS, chirality-blindness from a symmetry argument and a check), the wording now says so. The records keep "ruled" as written at the time. Also: the README scope line now says quantum mechanics is reached "largely by identification with known constructions"; the shot-noise figure in SPACE_AND_GRAVITY now shows its inputs (8 × 10⁻³⁶ rad, the record's value).
+
+## 2026-11-11 — the results docs leaned (the author's request)
+
+The seven results docs were leaned from about 22,800 to about 10,600 words: results forward, one claim per sentence, grades in the appendix's grade column, reasons and history left here. The pre-lean versions are kept whole in `RECORD_OF_METHOD/snapshots/2026-11-11/`. A cold reader compared the two and restored every lost result and caveat (inside-matter conditions and P = P∞; the free-share rule on the clock; Lovelock's hypotheses; Schwarzschild as consistency; Page–Geilker; the imported coupling and pointer basis; Dirac and Mercury as identification and fit).

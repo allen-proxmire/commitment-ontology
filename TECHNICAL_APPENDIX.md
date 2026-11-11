@@ -47,8 +47,9 @@ Each rule's grade is in its own column: posited (a quality the author has decide
 | P4 toward engagement | theorem at equal P (P1, P3); posited otherwise | the clock slaved to the occupancies |
 | P5 inertia | nature | free motion, the walk's momentum |
 | P6 transit draws (turning once, travel twice; light 2E) | match (GR's source ρ + S) | ρ + S in the radiation era, gas stars and moving closed wholes; light's factor two (its one G posited separately) |
-| P7 occupancy | data (a scalar wave is excluded) | γ = 1, tensor waves, the route factor |
-| P7 which-way phase | match (minimal coupling) | charge, g = 2, Aharonov–Bohm, two-body binding |
+| P7a occupancy | data (a scalar wave is excluded) | γ = 1, tensor waves, the route factor |
+| P7a held occupancy; P7b one-way part; P7c frame | posits (the field must be carried by the relations; each part of the metric needs a carrier) | the moving body's field, frame dragging, shear |
+| P7d which-way phase | match (minimal coupling) | charge, g = 2, Aharonov–Bohm, two-body binding |
 | P8 meeting | theorem (conservation, scalelessness, associativity) | interference, the amplitude rule |
 | C1 renewal | nature (an act that repeats while fed) | matter's persistence, the sink |
 | C2 clock | theorem from C1 and C4 under the free-share rule (candidate); the rule is data (redshift; clock coherence against chance ticks, if h counts every mass), its power one is data (Cassini) | redshift, the lapse, free fall |
@@ -59,7 +60,7 @@ Each rule's grade is in its own column: posited (a quality the author has decide
 | C7 the beginning | initial condition | the first epoch |
 | C8 measurement | match, narrowed by data (vacuum Rabi oscillation excludes the literal form); its channel clause (frequency and direction) follows from the walk and the phase for a classical drive and a translation-invariant engager, within a width (candidate) | outcomes, Born's chance |
 
-Of eighteen entries, two are tagged *match* alone: the travel rule, which supplies ρ + S in several settings, and the which-way phase, which carries charge, g = 2, Aharonov–Bohm and two-body binding. C8 is matched and narrowed by data.
+Of the entries, two are tagged *match* alone: the travel rule, which supplies ρ + S in several settings, and the which-way phase, which carries charge, g = 2, Aharonov–Bohm and two-body binding. C8 is matched and narrowed by data.
 
 **Can the set be smaller?** Several qualities are versions of one thing (shape; a merge changes no content; it shows which rules state one assumption more than once):
 - *One commitment cycle:* C1, C2, C3, C4 and P3 describe one act: engage ħ of adjacent free possibility, hold it, release it less δħ kept as record, repeat while fed, at ω = (mc²/ħ)(1 − h). The clock, C2, follows from the rest under the free-share rule (below).
@@ -68,7 +69,9 @@ Of eighteen entries, two are tagged *match* alone: the travel rule, which suppli
 - *Not qualities:* P4 at equal P and P8 follow from others; C7 is an initial condition.
 - *Partly consequences:* C2 follows from C1 and C4 under the free-share rule (below); C8's channel clause (frequency and direction, with recoil, within a width) follows from the walk and the phase for a classical drive, leaving C8's core posited: that a passage can be an engagement, which passages are, single-quantum exchange (held) and the Lüders update.
 
-**The clock from the cycle (candidate).** By C4 a commitment beats at ω₀ = mc²/ħ; by C1 each beat must engage ħ of free possibility. Possibility at a place carries no mark but free or engaged, and the free share 1 − h is set by the place's relations: what hopping brings in against what the sink draws (step 1). Each beat advances the commitment by that share, carrying the remainder, and a tick completes when a whole ħ has been engaged (the *free-share rule*, the author's ruling, candidate). The ticks come regularly, not by chance, at
+On that count the qualities fall into about eight groups: conservation with the birth share, ratio hopping in quanta, capacity, relations with occupancy and phase, the draw, the commitment cycle, the walk, and measurement. Separate choices remain inside them: q = ħ, the birth share, the palindromic order and Wilson form, light's one G, field energy as an amount, amounts classical.
+
+**The clock from the cycle (candidate).** By C4 a commitment beats at ω₀ = mc²/ħ; by C1 each beat must engage ħ of free possibility. Possibility at a place carries no mark but free or engaged, and the free share 1 − h is set by the place's relations: what hopping brings in against what the sink draws (step 1). Each beat advances the commitment by that share, carrying the remainder, and a tick completes when a whole ħ has been engaged (the *free-share rule*, posited, candidate). The ticks come regularly, not by chance, at
 
 $$\omega=\omega_0(1-h)=\frac{mc^{2}}{\hbar}(1-h),$$
 
@@ -82,8 +85,6 @@ $$T_c=\frac{\omega_0}{\omega_{\text{tr}}^{2}\,h}.$$
 For the bound, an atom's count is its whole, ω₀ = Mc²/ħ; independent counts of its parts give the same σ_τ, since their rates add. For strontium (ω₀ = Mc²/ħ = 1.2×10²⁶ s⁻¹, ω_tr = 2.7×10¹⁵ s⁻¹), atoms in one lattice stay in step for 26 s (Zheng et al., Nature 602, 425, 2022), so h ≲ 7×10⁻⁷. The galaxy's potential at the Sun, |Φ|/c² ≈ 1–2×10⁻⁶, already exceeds this, and the bound is 10⁵ times tighter if a transition follows the electron's own beat. Excluded if h counts every mass.
 
 So C2 is C1 and C4 under the free-share rule (candidate: the list of readings is not exhaustive). Under it the leftover share carries to the next beat, so tick times stray from uniform by less than one beat (1/ω₀ ≈ 10⁻²⁶ s for Sr) and never build up; only differences in h are seen, as in GR.
-
-On that count the qualities fall into about eight groups: conservation with the birth share, ratio hopping in quanta, capacity, relations with occupancy and phase, the draw, the commitment cycle, the walk, and measurement. Separate choices remain inside them: q = ħ, the birth share, the palindromic order and Wilson form, light's one G, field energy as an amount, amounts classical.
 
 ## 2. One derivation: the weak-field metric
 
