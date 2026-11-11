@@ -118,7 +118,7 @@ $$\gamma=1,\qquad \beta=1.$$
 
 **What the derivation uses, in one line.** Ratio hopping (ruled), one quantum per hop (candidate), the fixed share δħ (candidate), C2's clock (ruled; via the free-share rule, candidate), the route factor (ruled, given the occupancy, candidate), and P = P∞ at a place (identification). Beyond the weak field, Lovelock's theorem (given its hypotheses) supplies the exterior; that step uses an imported theorem.
 
-**What kind of derivation this is.** It is derived from CO's rules, step by step, with nothing fitted to the gravitational field except one choice: the hop's pairing, which scalelessness favours and Mercury selects among local power laws. Newton's 1/r, the form of G, universal redshift, free fall and γ = 1 follow without it. Three inputs are candidate (one quantum per hop; the fixed share; the occupancy behind the route factor), one is an identification (P = P∞), and κ = ħ/τ is a choice. It is not a derivation from the two primitives alone.
+**What kind of derivation this is.** It is derived from CO's rules, step by step, with two choices made by data: the hop's pairing, which scalelessness favours and Mercury selects among local power laws (β = 1), and the route factor, whose occupancy reading was chosen when a scalar wave was excluded (γ = 1, with Cassini fixing the clock's one quantum per engagement). Newton's 1/r, the form of G, universal redshift and free fall follow without either. Three inputs are candidate (one quantum per hop; the fixed share; the occupancy behind the route factor), one is an identification (P = P∞), and κ = ħ/τ is a choice. It is not a derivation from the two primitives alone.
 
 ## 3. A second derivation: Dirac's equation from the walk
 
