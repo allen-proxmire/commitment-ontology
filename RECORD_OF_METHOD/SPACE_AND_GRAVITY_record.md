@@ -1287,3 +1287,19 @@ So, linearised, every outcome is fixed by analysis already done; the run asked f
 **Where a run would bite.** Two places, both beyond this entry: (1) the full nonlinear rule (a lattice tetrad form on the carriers; Regge alone, on edge lengths, does not hold the frames), needed for strong fields and for the U² terms that the static derivation took from Lovelock; (2) whether the walk's lattice stress tensor obeys a conservation law matching the stencil, and in particular whether its total energy-momentum is exactly conserved, which decides whether the gauge violation stays O(ℓ²) or grows linearly. Either outcome is unknown; (2) is the smaller and comes first.
 
 **Grade.** The rule: built on the author's rulings (P6, P7a–c), candidate; its linearised consequences: reading. Imported: linearised Einstein–Hilbert's form (Lovelock).
+
+## 2026-11-11 — the walk's total energy and momentum are exactly conserved (reading; one numerical check)
+
+**The condition.** The gravity update keeps its gauge only if the source's total energy-momentum is exactly conserved (entry above).
+
+**The identity.** For any one-tick walk operator U, the number ⟨ψ|U|ψ⟩ is unchanged by a tick: ⟨Uψ|U|Uψ⟩ = ⟨ψ|U†UU|ψ⟩ = ⟨ψ|U|ψ⟩. Likewise ⟨ψ|T_i|ψ⟩ for a lattice shift T_i, whenever U commutes with T_i (the free walk is the same at every place). Both are sums of finite-range densities, since U and T_i reach only places one tick away, diagonals included (with (T_iψ)(x) = ψ(x + ℓe_i)):
+
+ε(x) = −(ħ/τ) Im[ψ†(x)(Uψ)(x)],  π_i(x) = (ħ/ℓ) Im[ψ†(x)(T_iψ)(x)],
+
+whose totals are (ħ/τ)⟨sin(Hτ/ħ)⟩ and (ħ/ℓ)⟨sin(p_iℓ/ħ)⟩, with U = e^{−iHτ/ħ}. They are exactly conserved, tick by tick, and equal the energy and momentum up to relative corrections of order (Eτ/ħ)² and (pℓ/ħ)², about 4 × 10⁻³² for a nucleon at ℓ ≈ 10⁻³¹ m, for states supported at |k|ℓ ≪ 1 and |E|τ/ħ ≪ 1; beyond that ε is a conserved quantity but not the energy (at the zone edge sin weighs a doubler like a particle at rest). Taking these as the source's 0ν components makes the total exactly conserved.
+
+**Check.** A one-dimensional Dirac walk (mass angle 0.3, 64 places, periodic, random start), 1000 ticks: both totals change by ~3 × 10⁻¹⁵ and ~5 × 10⁻¹⁵, machine precision. The random start fills the whole zone, so this tests conservation only, not agreement with the energy.
+
+**Scope.** Energy: exact for any walk the same every tick, a fixed place-dependent coin included (checked: drift ~10⁻¹⁵). Momentum: needs the walk to be the same at every place (a regular lattice; a place-dependent coin gave drift 0.19), which the cubic graph of P7c keeps defined. A field that changes over ticks exchanges energy with the walk, and what must be conserved is matter plus field together; at linear order the source is the free walk's, as above. The local densities' conservation (∂_t ε + D_i j_i = 0 with a matching lattice current) is not shown here; the total, which is what the gauge needs, is.
+
+**Grade.** Reading: the condition the gravity chain rests on is met, exactly, for the free walk.
