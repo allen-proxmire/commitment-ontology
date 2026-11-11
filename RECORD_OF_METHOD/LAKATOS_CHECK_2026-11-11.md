@@ -74,3 +74,7 @@ Geodetic and frame-dragging precession meet Gravity Probe B's two numbers with n
 ## Update: no backdrop for the walk (ruled)
 
 Extending no backdrop to the walk, a posit already held for the relations, forces matter's response to the field to be the coupling that sources it. With that, Gravity Probe B's two numbers are met with matter's response forced rather than assumed, and two identifications are retired (the static curved walk at linear order; the walk's response to the one-way part). Fewer assumptions, but no new tested content: the spin's ratio is still untested. The gyroscope result stays **neutral-to-progressive** (continuum, linear order; the lattice form owed). Counts unchanged: progressive 9, accommodating 2, neutral 5.
+
+## Update: run G4
+
+The ruling "no backdrop for the walk" could have failed on the lattice: an exactly symmetric, exactly conserved stress tensor in the staggered placement is not guaranteed on a cubic lattice. It exists, at the smallest range, for the free continuous-time stand-in. A consistency check passed, with modest risk (free matter conserves every function of momentum): the lattice form is discharged for the stand-in, but nothing new follows. **Neutral**; the gyroscope result stays neutral-to-progressive. Counts: progressive 9, accommodating 2, neutral 6.

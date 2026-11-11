@@ -11,7 +11,7 @@ One line per domain; the measure is in [`MEASURE.md`](MEASURE.md). As of 2026-11
 | time and its arrow | derived (the record only grows) | C3 | — | — |
 | clocks, redshift, free fall | derived (clock from the commitment cycle, under the free-share rule) | C1, C4, free-share rule | Pound–Rebka, GP-A, strontium coherence | — |
 | static weak field | derived as a static form; two choices fixed by data; the lapse consistent with GR's at every order, given the cost's ψ | P1, q = ħ, P6, P7a | Mercury, Cassini | the field's own dynamics |
-| exterior and waves | linear order: needed given free clock resetting (run G1: moving places and resetting clocks force linearised Einstein–Hilbert on the cube, isotropic; exactly on the lattice with the carriers staggered, run G3); full exterior: reconstructed (Lovelock) | P7a–c | Hulse–Taylor, LIGO polarization | the nonlinear rule for the relations |
+| exterior and waves | linear order: needed given free clock resetting (run G1: moving places and resetting clocks force linearised Einstein–Hilbert on the cube, isotropic; exactly on the lattice with the carriers staggered, run G3; matter's coupling exact on the lattice too, free continuous-time stand-in, run G4); full exterior: reconstructed (Lovelock) | P7a–c | Hulse–Taylor, LIGO polarization | the nonlinear rule for the relations |
 | inside matter, radiation era | reconstructed (Tolman's source) | travel rule, field energy as an amount | — | the walk on the curved network; P = P∞ |
 | cosmology | reconstructed (Friedmann); inflation-like epoch as shape | C7, birth share | — | e-folds, ripples, Λ's value |
 | three dimensions | consistency condition | — | — | a lattice from the runs |

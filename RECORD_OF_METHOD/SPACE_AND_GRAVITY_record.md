@@ -1463,3 +1463,9 @@ So, in the continuum at linear order, the walk's response is −½ h_μν T^μν
 **Ruled.** No backdrop holds for everything on the network, the walk included: a pattern cannot tell a relabelling of places or clocks from no change. Entered in P7e. With the previous entry, the walk's linear response is −½ h_μν T^μν (needed, given the ruling, locality and at most one derivative; continuum, linear order). The gyroscope result's grade moves accordingly (SPACE_AND_GRAVITY, README). Owed: the lattice form; nonlinear order.
 
 **Also entered (P7a).** A hop takes the mean of its two ends' stretch (the natural default; it matters only at order ℓ/r). Entered as the default, pending the author's confirmation.
+
+## 2026-11-11 — run G4: no backdrop for matter holds exactly on the lattice, at linear order (stand-in)
+
+Registered and run (`SPACE_AND_GRAVITY_runs/G4_lattice_matter_coupling/`), read by the author before entry. For the Wilson–Dirac lattice Hamiltonian in continuous time, a stand-in for the walk, there are local operators at the smallest range tried (one site beyond each object) forming an exactly conserved, exactly symmetric stress tensor placed as the staggered carriers need: energy E at places with Σ E = H; on each link one J_i, the energy current, which serves as the momentum density in the second identity (its total is E v_i, c_eff² times momentum only at long wavelength); P_ii at places; one P_ij per face, shared by the i- and j-momentum fluxes. Found in 2 + 1 (m = 0.3 and m = 0) and 3 + 1 (m = 0.3); both controls solvable; in band states J_i = E v_i and P_ij = E v_i v_j. So the coupling Σ h·T is exactly unchanged by the lattice relabellings at linear order, as run G3 found for the carriers' cost.
+
+Given G3's relabelling rules, of which these identities are the dual. Owed: the discrete-time walk itself; interactions (the stand-in is free matter); nonlinear order. Solutions are not unique (improvement terms free).
