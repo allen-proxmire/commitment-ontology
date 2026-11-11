@@ -1110,3 +1110,17 @@ What the free-share rule, the channel width and "record is not possibility" add 
 - *What stays owed.* N's value, the growth law of breadth, and a test (reversal failing at a fixed breadth, the N signature) are as before. The new pieces narrow the posit (no separate continuum clause) but do not supply it.
 
 Proposed for the results docs (not applied): in MATTER's C8 clause, "a rate only where its final states form a continuum" marked as following from the width.
+
+## 2026-11-10 — correction to the previous entry's first bullet, and how breadth grows (after cold reading; shape)
+
+**Correction.** The previous entry used Γ = (2π/ħ)|V|²ρ_f for the channel's width; that is the decay rate of the initial state into a continuum, not the width of the final state, and the golden rule does not give a discrete level "zero width", it does not apply to one. Corrected: with the width ruling, a final state of width Γ (from its own onward loss) gives the engagement rate
+
+R = 4|V|²/(ħ²Γ) for |V| ≪ ħΓ (weak coupling, irreversible), while for |V| ≫ ħΓ passage stays coherent even on resonance (vacuum Rabi oscillation, a cavity mode broad but slow against the coupling).
+
+So the continuum clause follows as "a rate only where the final state is broad against the coupling" (MATTER updated). The point stands with the corrected criterion: whether passage can be an engagement is set by the final state's width against the coupling.
+
+**How breadth grows.** The previous entry's t_N ~ N/Γ assumed steady, linear spreading: one channel leaking quanta at a rate Γ, B(t) ≈ Γt, so t_N ≈ N/Γ. Real engagers are cascades: an amplifier stage, a phonon splitting into two, a spin cluster in a three-dimensional solid. With gain g per stage of time τ,
+
+B(t) = g^{t/τ},  t_N = τ ln N / ln g.
+
+For a cascade the time to commit grows only as ln N: N ≈ 50 and N ≈ 10⁶ differ by a factor of about 3.5 in time. So timing is a weak signature of N in any detector and the strong one stays size: reversal failing at a fixed breadth. Which law a given engager follows is set by its onward channels; neither is ruled.
