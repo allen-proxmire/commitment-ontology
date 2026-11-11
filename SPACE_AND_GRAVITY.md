@@ -18,7 +18,7 @@ Added principles: the substrate is scaleless; sliding or relabelling places cost
 | **Renewal** | a commitment that engages adjacent free possibility into its next commitment, releases most of what it held, and adds one to its count. Any commitment does this while free possibility is adjacent; it halts when none is |
 | **Matter** | a commitment that keeps being fed. Mass is renewal frequency, ω = mc²/ħ; every renewal engages one quantum ħ |
 | **Time** | matter's count. Read only by ratio, N_A/N_B |
-| **Record** | what every draw withdraws from the free stock and keeps: δħ per renewal (candidate in this fixed form), and a continuous trace by the mean for travel, light and field energy (candidate). The record only grows: the arrow of time |
+| **Record** | what every draw withdraws from the free stock and keeps: δħ per renewal (candidate in this fixed form), and a continuous trace by the mean for travel, light and field energy (candidate). Record is what possibility became, not possibility, and does not count in a place's P (candidate). The record only grows: the arrow of time |
 | **Pattern** | possibility in transit between commitments; transit keeps its mean direction until its own commitment redirects it (inertia; other patterns bend its route only through the fields they set). Possibility in transit is not free: a closed whole draws its turning once and its travel twice, and light, all travel, draws 2ħω (candidate) |
 | **Vacuum** | possibility with no commitment: no count, so no time; no renewal, so no scale |
 | **Relation** | who passes possibility to whom. A relation carries an occupancy (how much is in transit across it) and a which-way phase (candidate ruling) |
