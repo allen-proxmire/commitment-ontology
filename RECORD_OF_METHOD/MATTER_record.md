@@ -1234,3 +1234,19 @@ The doodle asked whether a falling floor of possibility, felt at a galaxy's outs
 **5. Number change is needed.** Pair creation and annihilation are observed in the laboratory every day (positron sources; γγ → e⁺e⁻), and standard cosmology needs a thermal electron–positron population (nucleosynthesis; the relic-neutrino temperature T_ν/T_γ = (4/11)^{1/3} records its annihilation). So number change cannot stay held: it is needed, in a form that conserves net matter minus antimatter (baryon and lepton number; kinds change in weak decays, and neutrino flavours oscillate). The relic neutrinos then can come from pairs in the hot era, as in standard physics, under C7 as ruled; under the literal hunch they would be first patterns. Its rule is not written; adding it brings the loop exposure the frame problem prices.
 
 **Grade.** Reading. N₀ ~ 10⁸⁰ and E₀ in units of P_max − P_b: readings given C7 and the η sketch. The literal-hunch exclusion: withdrawn. Number change: needed (laboratory pair creation; the hot era), rule not written.
+
+**Kept (2026-11-11, the author).** C7 as ruled is kept over the literal hunch, after the correction above: it needs no rule for kinds, and the relic neutrinos come from pairs in the hot era, as in standard physics.
+
+## 2026-11-11 — the number-change rule: a proposal (for the author's ruling)
+
+**What it must do.** Make and end pairs (laboratory; the hot era), conserving energy, momentum and charge, and net matter minus antimatter (baryon and lepton number), so the first commitments set only the net excess.
+
+**A clash it must settle first.** C7 as ruled says only the first commitments start renewing patterns. A pair made from light starts two. So C7 needs one clause, or number change cannot exist: *the net count of patterns is set by the first commitments; afterwards patterns start only in pairs of opposite sign, and a commitment forced by over-capacity starts none.*
+
+**The smallest rule, in CO's terms.** The walk already has negative-energy states (appendix §3: Dirac's Hamiltonian). Read the walk as a field rather than one pattern at a time, with the negative-energy states taken as filled; an antipattern is then a missing negative-energy state, of opposite charge and opposite count. The which-way coupling, already ruled (a U(1) phase acting on amplitudes), then moves a quantum from a filled negative state to a positive one when light supplies at least 2mc²: a pair is made; the reverse ends one and releases light. Nothing new is posited for the coupling; what is posited is the reading of the walk as a field with its negative states filled (or, equivalently, second quantisation of the walk, which with spin ½ admits only anticommutators: Pauli 1940). In standard terms this is lattice quantum electrodynamics on the walk.
+
+**What it gives.** Pair making and annihilation with the walk's own coupling (g = 2 already); the electron–positron bath of the hot era; relic neutrinos (through the weak coupling, which CO has not built: a further gap); net charge and net count conserved automatically, since a pair has zero of each.
+
+**What it costs.** (1) The filled negative states carry a vacuum energy, as in any field theory; in CO it would have to be either not a source of gravity or cancelled, which is the cosmological-constant problem, unsolved here as everywhere. (2) Loops: with pairs, the walk's self-energy shifts each species' speed at order α/π, which is the frame problem (already priced). (3) The weak interaction, needed for neutrinos and for baryon/lepton kinds to change, is not in CO.
+
+**Grade.** Proposed: the C7 clause (a ruling for the author); the walk read as a field with filled negative states (an identification with lattice QED, candidate if ruled). Its consequences beyond what QED already gives: none new.
