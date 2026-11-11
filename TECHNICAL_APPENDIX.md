@@ -24,7 +24,7 @@ Every statement carries its grade (ruled, candidate, needed, excluded, shape, si
 |---|---|
 | C1 | a commitment, on completing, engages ħ of adjacent free possibility (or, through a channel, a quantum in transit, C8), releases what it held, and adds one to its count n; it halts when none is adjacent (ruled). Each beat engages the free share 1 − h of what it meets, carrying the remainder, and a tick completes when a whole ħ is engaged (the free-share rule, candidate, end of §1) |
 | C2 | a commitment repeats at ω = (mc²/ħ)(1 − h) (ruled; its derivation from C1 and C4 under the free-share rule is candidate, end of §1) |
-| C3 | each repeat keeps δħ as record (candidate); dR/dt ≥ 0 |
+| C3 | each repeat keeps δħ as record (candidate); dR/dt ≥ 0; record is what possibility became, not possibility, and does not count in a place's P (the author's ruling, candidate) |
 | C4 | every commitment engages ħ; mass is the repeat rate, ω₀ = mc²/ħ (ruled) |
 | C5 | a pattern in transit carries a phase θ advancing by one cycle per repeat (ruled; the matter sector's one addition) |
 | C6 | the walk's step is U = A_x A_y A_z F(θ_m) A_z A_y A_x, with A_j = S_j⁺ F(w) S_j⁻ F(−w): S_j⁺ moves the α_j = +1 part one place forward, S_j⁻ the α_j = −1 part one place back, F(a) = exp(−iβa) a turn of the internal state, θ_m = c₀mcℓ/ħ per step, c₀ = 2cos w the massless speed in hops per step (2 at w = 0: mcℓ/ħ per hop) (flip ruled; half-shift Wilson form candidate, w ≳ 0.3, run L1b; palindromic order needed, sequential excluded, run L1) |
@@ -95,7 +95,7 @@ $$\ln\frac{P_{\text{free}}}{P_\infty}=-\frac{\sigma}{4\pi r}\equiv -U,\qquad U=\
 
 So ℓ = ℓ_P√(4π/δ). Nothing is fitted here: G is measured, and the relation fixes ℓ given δ.
 
-**Step 3: the clock.** By C2 with P = P∞ at the place (an identification; it holds inside matter to about 10⁻¹⁴, the record per place at nuclear density in ħ), a clock's rate is 1 − h = P_free/P∞ = e^{−U}. A clock is a commitment, so this is the lapse:
+**Step 3: the clock.** By C2 with P = P∞ at the place (an identification; record is not possibility and does not count in P, so inside matter it holds to about 10⁻⁴⁹, the engaged share per place at nuclear density), a clock's rate is 1 − h = P_free/P∞ = e^{−U}. A clock is a commitment, so this is the lapse:
 
 $$N=e^{-U}=1-U+\tfrac{U^{2}}{2}-\dots,\qquad g_{00}=-N^{2}=-\left(1-2U+2U^{2}-\dots\right).$$
 

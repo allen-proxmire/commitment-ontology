@@ -1085,3 +1085,15 @@ So the picture needs δ (P_max/ħ) n ≳ 4×10²⁶ (a_BBN/a_exit)³; with δ �
 **The conflict.** Each place would then hold record exceeding its free possibility (P_b ≈ 5ħ) by some 26 orders. The clock rule's 1 − h = P_free/P matches the lapse N = P_free/P∞ only where P = P∞; inside matter that holds because record is ~10⁻¹⁴ ħ per place at most. If record counts in P, a record of 10²⁶ ħ per place breaks the identification by that factor: harmless only if exactly uniform, and any unevenness left by the first epoch would show as clock-rate differences between places. If record does not count in P, there is no conflict. Which it is, is not ruled.
 
 **Grade.** Silence narrowed to a condition (shape): "record becomes relation" for today's space needs the first epoch to leave ≳ 4×10²⁶ ħ of record per place at nucleosynthesis, and, if record counts in a place's possibility, an exactly uniform record. The beginning's part, space made by the first commitments' repeats, is untouched.
+
+## 2026-11-10 — record is not possibility (the author's ruling, candidate)
+
+Record is what possibility became when it was drawn; it stays at its place but is no longer possibility, so it does not count in a place's P. With it, 1 − h = P_free/P inside matter differs from P_free/P∞ only by the live engaged share, about 10⁻⁴⁹ per place at nuclear density (10⁻⁶² in rock), not by record (10⁻¹⁴ at most). The conflict in the previous entry goes: a large first-epoch record would not touch the clock. "Record becomes relation" for today's space then needs only the condition of the previous entry. Supersedes "with the record counted in P" (entry "the clock inside matter", above) on that point.
+
+## 2026-11-10 — C8's sharp cutoff against the walk's line shape (proposed to the author)
+
+C8 says: outside a channel, none (κ = 0). Read against whole-ħ engagement and the walk. An engagement takes a whole quantum and conserves energy, so a lasting engagement off step needs a final state that absorbs the mismatch; a final state of width Γ (its lifetime) does so with the Lorentzian weight
+
+κ(Δ) ∝ (Γ/2)² / (Δ² + (Γ/2)²),
+
+the line shape the walk and the phase give (golden rule with a decaying final state). Off step the passage amplitude oscillates back (Rabi, peak Ω²/(Ω² + Δ²)) and leaves nothing unless a final state's width covers the mismatch. So whole-ħ engagement does not give a sharp κ = 0; it gives a smooth fall as Γ²/(4Δ²). Measured line wings fall this way (natural and pressure-broadened Lorentzian wings), so a literal sharp cutoff at the channel's edge would be excluded. Proposed reading: a channel is a final state with its width; κ follows its line shape, and is zero only where the coupling's matrix element is zero (no final state, or a selection rule). Not applied to the results docs: C8 is the author's ruling.
