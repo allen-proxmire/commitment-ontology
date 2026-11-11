@@ -40,7 +40,7 @@ With ℓ = ℓ_P√(4π/δ) this gives δ ≳ 2 × 10⁻⁷ and a heaviest patte
 - positronium's levels, −6.80 eV/n², and the magnetic part of its hyperfine split, α⁴mc²/3 = 116.8 GHz;
 - hydrogen with recoil, and its 21 cm line, 1418.8 MHz at tree level (measured 1420.406 MHz; the gap is mainly the electron's anomalous moment, which needs loops; the proton's moment imported).
 
-Annihilation and lifetimes need number change: needed (pairs are made and annihilated in the laboratory and in the hot early universe), its rule not written.
+Number change (identification with lattice QED, candidate; costs: the filled states' vacuum energy, and loops, which bring the frame problem): the walk read as a field with filled negative states, so the which-way coupling makes a pair from light carrying at least 2mc² and ends one releasing light, conserving charge and net count; lifetimes that change kinds need the weak interaction, which CO lacks.
 
 **Branching.** A carried quantity is branched with what sets it, if what sets it has amplitude. Possibility in transit has amplitude; free possibility has no cycle and so none. The which-way flux is branched; the free stock and the clock field are classical.
 

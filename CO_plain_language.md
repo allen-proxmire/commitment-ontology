@@ -1,6 +1,6 @@
 # The Commitment Ontology, in plain language.
 
-An ontology with two primitives, possibility and commitment, and what follows from them: gravity, and, largely by identification with known constructions, quantum mechanics up to 1930 for a fixed number of particles. It is incomplete, and says where.
+An ontology with two primitives, possibility and commitment, and what follows from them: gravity, and, largely by identification with known constructions, quantum mechanics up to 1930 for a fixed number of particles, with pair creation and annihilation by identification (candidate). It is incomplete, and says where.
 
 The results are in [`SPACE_AND_GRAVITY.md`](SPACE_AND_GRAVITY.md), [`MATTER.md`](MATTER.md) and [`NUCLEUS.md`](NUCLEUS.md); the rules as equations, with their grades, in [`TECHNICAL_APPENDIX.md`](TECHNICAL_APPENDIX.md); what is open in [`OPEN_DIRECTIONS.md`](OPEN_DIRECTIONS.md); everything tried and dropped in [`RECORD_OF_METHOD/`](RECORD_OF_METHOD/).
 
@@ -35,7 +35,7 @@ GR has no global now; QM has no event. CO takes both as primitives. A commitment
 - C4, *one quantum:* every commitment engages ħ. Mass is how often commitment falls due, ω = mc²/ħ.
 - C5, *rate:* commitments happen at a rate, and a pattern in transit carries where it is in its cycle, its phase.
 - C6, *the flip:* a commitment turns a pattern's internal state without moving it. The heaviest possible pattern flips every hop.
-- C7, *the beginning:* with all the first possibility free in few places, every place is over capacity and commits, none before another. Only those first commitments start patterns that renew; a commitment the spreading forces later happens once and leaves record.
+- C7, *the beginning:* with all the first possibility free in few places, every place is over capacity and commits, none before another. Only those first commitments start patterns out of over-capacity; a commitment the spreading forces later happens once and leaves record. After that, patterns start only in pairs of opposite sign, made from light, so the net count the beginning set is kept.
 - C8, *measurement:* a commitment may take in a quantum that is passing through, if it has a matching final state (a channel); that resolves the pattern the quantum belonged to.
 
 That is the whole inventory.
