@@ -1337,3 +1337,17 @@ Registered, run and checked (`SPACE_AND_GRAVITY_runs/G1_gauge_isotropy/`). With 
 This shows agreement, not yet that nothing is counted twice. Outside matter N = e^{−U} gives ∇²N = (∇U)²e^{−U}: the static form's U²/2 is the field's own energy drawing, already counted once, by ratio hopping's compounding. (Point 1 needs the same care at second order: the clock's slowing is h = U − U²/2, and that U² piece is this field energy.) So the extension of P6 must be that same draw, read covariantly, not an added source; added on top, β ≠ 1. Owed: show that ratio hopping's compounding is Deser's self-coupling. If it is, ratio hopping was already gravity's self-coupling at second order, a consilience.
 
 **Reading.** If the relations' field energy draws as every other field's does (the extension of P6, proposed for the author's ruling), Deser's three hypotheses are CO's, and full nonlinear Einstein–Hilbert follows from G1 by the bootstrap, with the stress-tensor choices the literature notes. Lovelock (general covariance) becomes a cross-check. Grade: shape until ruled; then candidate, built on G1 (needed, given the clock ruling) and P6.
+
+## 2026-11-11 — the relations' field energy draws (the author's ruling, candidate); the third-order check (reading)
+
+**Ruled.** The relations' own field energy draws as every field's does, not an added source: the draw the flat ln P law's compounding stands in for (see below). Entered: the appendix's P6 row.
+
+**The third order.** Step 1's lapse e^{−U} and GR's isotropic lapse (1 − U/2)/(1 + U/2) differ at U³ (−1/6 against −1/4). Is that a prediction? No: e^{−U} is the flat-network shortcut. On the network the relations make, with spatial factor ψ (g_ij = ψ⁴δ_ij), the conserved, lapse-weighted flux of ratio hopping obeys
+
+∂_i(ψ² ∂_i N) = 0,
+
+which is GR's static vacuum equation for the lapse, D^iD_iN = ψ⁻⁶∂_i(ψ²∂_iN) = 0 (as the reconciliation entry of 2026-11-07 already found). The equation alone gives N = 1 − 2C/(2r + m); with the cost's ψ = 1 + m/(2r) (Schwarzschild, isotropic, m = GM/c²) and C = M, which the cost supplies and hopping does not, N = (1 − m/2r)/(1 + m/2r): ψ²∂_rN = m/r², so r²ψ²∂_rN = m. So CO's static lapse is consistent with GR's at every order, given the cost's ψ and C = M; the U³ difference is the shortcut's, and there is no prediction there. (The spatial factor already differs at U², e^{2U} against (1 + U/2)⁴, and SPACE_AND_GRAVITY's route factor is still e^{U}: the same shortcut.)
+
+**Where the self-coupling sits.** The flat shortcut is not the curved law with ψ = 1: lapse-weighted ratio flux on a flat network gives ∇²N = 0, N = 1 − U and β = ½, excluded. e^{−U} is the unweighted flux on a flat network, leaving out two factors whose effects cancel at U². On the curved network the lapse weighting cancels the logarithm (ψ²N∂ln N = ψ²∂N), so the U² comes only from ψ², the relations' stretch weighting the flow. So the field's own energy drawing is the relations' stretch, not ratio hopping's compounding, which only stands in for it on the flat shortcut; the ruling above is worded accordingly. Beyond the static case, and for ψ itself beyond linear order, the relations' nonlinear rule is still owed: Deser's bootstrap with the ruling above, or Lovelock as a cross-check.
+
+**Grade.** Reading: static agreement with GR at all orders, given the relations' ψ. No new prediction.
