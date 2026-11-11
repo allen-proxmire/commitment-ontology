@@ -54,3 +54,7 @@ Counts now: progressive 8, accommodating 3, neutral 3.
 ## Correction, same day (outside check)
 
 The draw's single strength needs local conservation of the walk's stress tensor, not shown: "the draw sets the relations" returns to accommodating, with a shape for its strength. The exchange sign stays progressive as a conditional (Part 2 an identification). Counts: progressive 7, accommodating 4, neutral 3.
+
+## Update: local conservation shown
+
+The walk's energy and momentum are conserved place by place with finite-range currents (G2 check). The single coupling's premise holds for the free walk up to O(ℓ²): "the draw sets the relations" returns to progressive at linear order. Counts: progressive 8, accommodating 3, neutral 3.
