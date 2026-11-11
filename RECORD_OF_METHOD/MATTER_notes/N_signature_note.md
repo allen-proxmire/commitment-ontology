@@ -4,6 +4,17 @@
 
 **The signature.** Reversal recovers signal up to a breadth K ≈ N and then stops, at the same K whatever the coupling strength and whatever the perturbation. Ordinary mechanisms also limit reversal. Some move with the perturbation: localisation sizes shrink as the perturbation grows (Álvarez, Suter and Kaiser, Science 349, 846 (2015)). Others are perturbation-independent: a Loschmidt-echo decay rate set by the coupling itself (Sánchez et al. 2020), and since cluster growth also tracks the coupling, the breadth at which recovery is lost could stay put under both knobs without any new physics. The distinguishing mark is a ceiling fixed in breadth while the coupling-to-perturbation ratio, the system size and the control fidelity are all varied.
 
+**The sharp test: does the breadth of loss saturate?** Many-body echoes already show a loss that does not depend on the perturbation once interactions dominate (Sánchez et al. 2020; the "central hypothesis of irreversibility" of Pastawski and co-workers). Standard quantum mechanics explains it: in a closed system there is a lower bound on the perturbation below which decay depends on it again, and that bound shrinks as the system grows (Zangara et al., arXiv:1412.4070); by unitarity, recovery is complete in the limit of no unreversed part. Here ε means the whole unreversed part of the evolution, Σ: residual couplings not inverted (heteronuclear, chemical-shift, non-secular dipolar), higher-order average-Hamiltonian and finite-pulse-width terms, field inhomogeneity, coupling to the environment (T₁, T₁ρ), and readout error. It cannot be dialled to zero; what can be varied is its ratio to the coupling, Σ/J, by maximising the coupling relative to the residual (Sánchez et al. scaled the interactions down to vary it).
+
+So the test is stated as a scaling, not an extrapolation. Let K* be the breadth at which recovery is lost:
+
+| as Σ/J is made smaller | prediction |
+|---|---|
+| standard quantum mechanics | K* keeps growing, without limit |
+| CO | K* saturates at N |
+
+A K* that keeps growing as Σ/J falls, past a few hundred quanta, raises the bound on N; a K* that stops at the same breadth in different systems and under different couplings would be N. Two cautions. Some unreversed terms scale with the coupling (the higher-order terms grow as J²τ), so raising J can leave Σ/J unchanged and produce a ceiling fixed in breadth with no new physics: a claimed N needs every term characterised and shown to scale away. And since N ≳ 50 already, the test needs breadths well above 50, so systems of hundreds to thousands of spins or atoms; small arrays cannot reach it.
+
 **Measure size, not time.** Breadth in a real system grows by multiplication (gain g per step of time τ), so the time to reach N is t_N = τ ln N / ln g. A breadth of 50 and one of 10⁶ are reached within a factor of about 3.5 in time, so a delay or a timescale says little about N. The mark is the breadth at which reversal stops.
 
 **What counts as a test.** Two conditions:
