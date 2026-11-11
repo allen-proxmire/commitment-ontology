@@ -1392,3 +1392,21 @@ Registered and run (`SPACE_AND_GRAVITY_runs/G3_lattice_gauge/`), read by the aut
 **Ruled.** The carriers move to the staggered placement (P7a–c rewritten): places carry size (the held share, the stretch), relations carry direction (the one-way part, the displacement, the which-way phase), squares carry shear.
 
 **Consequences, open.** (1) The held possibility is now a place quantity, so the condition P∞ = (d/2)f, derived from relations holding the excess, loses its derivation; how a place's held share relates to its relations' feed is to be re-read. (2) Route length is now the product of the places' stretch along a route; the at-rest route factor P∞/P_free is unchanged. (3) Not covered by G3: longer-range costs for the old placement; discrete time; the nonlinear rule.
+
+## 2026-11-11 — P∞ re-read for the staggered placement: the condition P∞ = (d/2)f is no longer needed (reading)
+
+**What the condition did.** With the held share on relations, a place's h was a sum over its d relations, each holding o f and shared by two ends: h = (d/2) f o / P∞. The route factor per hop was 1 + o, and at rest it had to be P∞/P_free = 1/(1 − h). The two agree (h = k o with k = 1) only if P∞ = (d/2) f. Without k = 1, γ = 1/(nk) (n the clock's quanta per engagement), and Cassini tests nk = 1.
+
+**With the placement of run G3.** The held share and the stretch sit at the same place. With P = P∞ at a place (identification) and held possibility not free,
+
+h = 1 − P_free/P∞,  stretch at rest = P∞/P_free = 1/(1 − h),
+
+both at one place. The factor k of the old placement (h = k o) has no counterpart: P7a's at-rest clause (posited, candidate) ties the stretch to h directly, with no lattice factor and no condition tying P∞ to the relations' feed f. Cassini's γ = 1/n now tests n = 1 alone (the clock's one quantum per engagement). The stretch is also a carrier with its own cost (P7e), so the clause is a second law for it: the two agree at linear order (the static cost gives γ = 1), which is all γ reads; at U² the clause's e^{2U} and Schwarzschild's isotropic (1 + U/2)⁴ differ (2U² against 1.5U²), as step 4 already notes, and the cost decides there. Unstated, harmless at order ℓ/r: which place's stretch a hop takes (an end, or the mean of its ends).
+
+**What follows.**
+1. P∞ = (d/2) f is not needed. It is withdrawn as a consequence, not refuted; P∞ and f are independent.
+2. The tension it carried with R5 dissolves: R5's count (degree ≈ P/ħ + 1 without pairing) no longer has to agree with (d/2)f, and the d = 2 branch no longer arises. The birth share P_b = P∞ keeps the birth ruling (needed: a conserved stock starves under expansion); its size goes back to R5's reading, about (d − 1)ħ without pairing (shape; with pairing R5-B gives a lower degree at the same P).
+3. The stiffness question moves rather than goes: f is no longer fixed by P∞, but if the stiffness tracked the feed (R5-B suggests f ≈ 4–5ħ), G's bound would carry the factor. Whether it tracks f stays open; P7a now says so.
+4. Lost: the reading "the vacuum at a place is its half of what its relations carry". Under the new placement a place's possibility is its own; relations carry direction and feed.
+
+**Grade.** A reading; the result rests on P7a's at-rest clause (posited, candidate), the held ruling and the placement. Nothing new is posited. By the measure: one needed condition removed, one tension (with R5) and the stiffness question left open; one untested consequence (a possible bonus) gone with them. Neutral-to-progressive.

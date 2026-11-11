@@ -8,14 +8,14 @@ Each rule's grade is in its own column: posited (a quality the author has decide
 
 | rule | statement | grade |
 |---|---|---|
-| conservation | Σ_i P_i is unchanged by every hop. Every draw (C3's δħ per repeat; P6's travel, light and field energy) turns possibility into record, so between births Σ_i (P_i + R_i) is unchanged and dR ≥ 0. Births add P_b each, a new place born with its share P_b = P∞ = (d/2)f, f the feed per relation | per hop: posited. P + R: the author's ruling, candidate. P_b = (d/2)f: candidate; its derivation (relations holding the excess) is lost with G3's placement, open; R5's (d − 1)ħ agrees only at f ≈ 1.67ħ, open |
+| conservation | Σ_i P_i is unchanged by every hop. Every draw (C3's δħ per repeat; P6's travel, light and field energy) turns possibility into record, so between births Σ_i (P_i + R_i) is unchanged and dR ≥ 0. Births add P_b each, a new place born with its share P_b = P∞ | per hop: posited. P + R: the author's ruling, candidate. P_b's size: shape, set by R5's count (about (d − 1)ħ without pairing; larger at the same degree with pairing, R5-B); with the held share and stretch at one place, no condition ties P∞ to the relations' feed |
 | P1 | a hop moves one quantum, q = ħ, and compares neighbours by ratio: the flow on ⟨ij⟩ is J_ij = κ ln(P_free,i / P_free,j), κ the hop's conductance | q = ħ: candidate. ratio flow: posited |
 | P2 | P_free,i ≤ P_max; above it the place commits | posited |
 | P3 | P_free,i = P_i(1 − h_i), h_i the engaged fraction; what a commitment engaged is released on completion, less C3's record | posited |
 | P4 | net flow on ⟨ij⟩ runs toward the end with larger h; with P1 and P3, at equal P, J_ij = κ ln[(1 − h_i)/(1 − h_j)] | posited; a consequence at equal P, not a restatement |
 | P5 | possibility in transit keeps its mean direction until its own commitment redirects it: the whole step U commutes with translations, so momentum is conserved | posited |
 | P6 | a closed whole draws δ × (turning + 2 × travel); light draws δ × 2E; every draw becomes record and sets the held share and stretch of the places around it, against a stiffness of one quantum per relation; the relations' own field energy draws as every field's does, the draw the flat ln P law's compounding stands in for (on the curved network, the relations' stretch weighting the flow), not an added source; the draw per volume is δ(ρ + S), and with travel at the local clock rate the source is (ρ + S)N | draws: candidate. setting the held share and stretch, stiffness one quantum: the author's ruling, candidate. (ρ + S)N: candidate reading. The relations' field energy: the author's ruling, candidate |
-| P7a | a place carries the lapse share h and the stretch (the diagonal γ_ii): the excess a draw sets is held at the place, not free for commitments to engage, not drawing, counted in h; a route's length is the product of its places' stretch factors, at rest P∞/P_free. Relations are fed by at least a quantum of free possibility in motion, the vacuum's, which gives the stiffness of one quantum | placement: the author's ruling, candidate (run G3). held: the author's ruling, candidate. feed: candidate. route length: posited, given the stretch, candidate |
+| P7a | a place carries the lapse share h and the stretch (the diagonal γ_ii): the excess a draw sets is held at the place, not free for commitments to engage, not drawing, counted in h; a route's length is the product of its places' stretch factors, at rest P∞/P_free. Relations are fed by at least a quantum of free possibility in motion, the vacuum's, with a stiffness of one quantum (whether the stiffness tracks the feed, open) | placement: the author's ruling, candidate (run G3). held: the author's ruling, candidate. feed: candidate. route length: posited, given the stretch, candidate |
 | P7b | a relation carries the direction-reversing quantities: its one-way part a_ij = (o_ij − o_ji)/2, set by the direction of travelling draws, which carries the shift g_0i, and the displacement of its places, which is pure gauge; only the one-way part's sums around loops are physical, as for a U(1) link | the author's ruling, candidate |
 | P7c | each square between relations carries the shear (the off-diagonal γ_ij, i ≠ j), set by the off-diagonal stress T_ij; the walk reads its local frame from its place's stretch and the surrounding squares' shear; with P7a and P7b every metric component has a carrier on the cubic graph, placed so that no backdrop holds exactly on the lattice (run G3) | the author's ruling, candidate |
 | P7d | a relation carries a which-way phase φ_ij ∈ U(1) | candidate |
@@ -42,7 +42,7 @@ Each rule's grade is in its own column: posited (a quality the author has decide
 
 | quality | origin | what it carries |
 |---|---|---|
-| conservation in passing; birth share | nature; birth share needed (a conserved stock starves under expansion), posited, candidate; size (d/2)f candidate (its derivation from relations holding the excess is lost with G3's placement; open) | P8, the Born identification, the sink, the floor, the inflation-like exit |
+| conservation in passing; birth share | nature; birth share needed (a conserved stock starves under expansion), posited, candidate; size shape (R5's count) | P8, the Born identification, the sink, the floor, the inflation-like exit |
 | P1 ratio hopping, one quantum per hop | nature (scalelessness favours ratio) and data (Mercury selects the pairing); q = ħ for consistency with the degree (R5) | Newton's 1/r, β = 1, the form of G, the lapse-weighted flux |
 | P2 capacity | nature (no infinities) | the beginning, the inflation-like exit, births |
 | P3 hold-and-release | nature (conservation) | the clock's free share, the record |
@@ -106,7 +106,7 @@ So ℓ = ℓ_P√(4π/δ). Nothing is fitted here: G is measured, and the relati
 
 $$N=e^{-U}=1-U+\tfrac{U^{2}}{2}-\dots,\qquad g_{00}=-N^{2}=-\left(1-2U+2U^{2}-\dots\right).$$
 
-**Step 4: routes.** By P7, a route's length is the product of its places' stretch factors, and at rest the stretch gives the route factor P∞/P_free = e^{U} (posited, given the stretch, candidate):
+**Step 4: routes.** By P7, a route's length is the product of its places' stretch factors, and at rest the stretch gives the route factor P∞/P_free = e^{U} (posited, given the stretch, candidate). The stretch and the held share sit at one place, so the clause ties them with no lattice factor; at linear order it agrees with the cost's static solution (γ = 1):
 
 $$g_{ij}=e^{2U}\delta_{ij}=(1+2U+\dots)\,\delta_{ij}.$$
 
