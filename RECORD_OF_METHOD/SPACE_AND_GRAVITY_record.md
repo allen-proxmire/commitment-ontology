@@ -1410,3 +1410,27 @@ both at one place. The factor k of the old placement (h = k o) has no counterpar
 4. Lost: the reading "the vacuum at a place is its half of what its relations carry". Under the new placement a place's possibility is its own; relations carry direction and feed.
 
 **Grade.** A reading; the result rests on P7a's at-rest clause (posited, candidate), the held ruling and the placement. Nothing new is posited. By the measure: one needed condition removed, one tension (with R5) and the stiffness question left open; one untested consequence (a possible bonus) gone with them. Neutral-to-progressive.
+
+## 2026-11-11 — a gyroscope's precession: geodetic and frame dragging (candidate reading; Gravity Probe B)
+
+**Question.** Does a gyroscope precess in CO's field as in GR, from rules already held?
+
+**What is used.** The walk is Dirac's (identification, appendix §3); the static curved walk in Obukhov's form, H = βmc²N + (c/2){F, α·p} with F the ratio of lapse to stretch (candidate reading by identification; its continuum limit owed); the lapse (step 3) and stretch (step 4, γ); the one-way part sourced with the static strength, h_0i ≈ −4GMv_i/(c³r) for a moving source (reading); and the identification that the walk responds to the one-way part through the same coupling that sources it. Convention: a test body couples as −½ h_μν T^μν; the field equation carries the same strength κ_g (entry "one strength for every part"). The walk's own response to the shift was listed as owed (static curved walk entry); this entry uses the identification and does not discharge it.
+
+**Frame dragging.** The carriers h_μν are symmetric, so they couple only to the symmetric part of T. For the walk (Dirac) that is Belinfante's tensor, because the spin tensor is totally antisymmetric:
+
+g = ψ†(−iħ∇)ψ + ½ ∇ × s,  s = (ħ/2) ψ†Σψ.
+
+The h_0i term gives, after an integration by parts,
+
+H ⊃ −c h·p − (c/2) s·(∇ × h),  h_i ≡ h_0i,
+
+and since −c h·p gives −(c/2)(∇ × h)·L for an orbit's angular momentum L, both precess at Ω = −(c/2)∇ × h (gyrogravitational ratio one, as in Kobzarev–Okun). For a rotating body, h = −2G(J × r)/(c³r³), and Ω = (G/c²r³)[3(J·r̂)r̂ − J], Schiff's term.
+
+**Geodetic.** The Foldy–Wouthuysen reduction of the Obukhov form gives Ω_geo = (γ + ½)(GM/c²r³)(r × v): the ½ from the lapse's spin–orbit term, the γ from the stretch; that form already contains the spin connection, so no nonlinear terms are needed. At γ = 1 this is GR's 3/2.
+
+**Against data.** Gravity Probe B (Everitt et al. 2011): geodetic −6601.8 ± 18.3 mas/yr against GR's −6606.1; frame dragging −37.2 ± 7.2 against −39.2. A rough check of the formulas (circular 642 km polar orbit, no oblateness) gives 6637 and 41 mas/yr, consistent with the published predictions to the few-per-cent the simplification allows. GP-B's rotors carry bulk rotation, which is the orbital angular momentum of their constituents: the data test the orbital coupling (the h·p term) and the geodetic term. The Dirac spin's own ratio of one is predicted here and untested by GP-B.
+
+**Notes.** (1) The squares (shear) do not enter: in isotropic gauge h_ij ∝ δ_ij, and Earth's oblateness keeps it diagonal; precession is gauge-independent. Not the squares' third use. (2) Correction to the local-conservation entry: its statement that the walk's T is symmetric to O((kℓ)²) holds for plane waves only. Energy current and c² times momentum density differ by the curl of the spin density, an O(k) term; it is divergence-free, so local conservation stands, and the symmetric coupling picks it up.
+
+**Grade.** Candidate reading: it carries the static curved walk's grade (identification, continuum limit owed), the single coupling (reading), γ = 1 (data choice), and the identification that the walk responds to the one-way part as it sources it. GP-B's two numbers are met under these.

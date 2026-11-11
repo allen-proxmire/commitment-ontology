@@ -66,3 +66,7 @@ Asking that no backdrop hold exactly on the lattice, not just at long wavelength
 ## Update: P∞ re-read for the new placement
 
 With the held share and the stretch at one place, the condition P∞ = (d/2)f is not needed: P7a's at-rest clause ties them directly. One needed condition removed and its tension with R5 gone; the withdrawn bonus stays withdrawn (it was a consequence of the old placement, not of CO). The stiffness-versus-feed question remains open. **Neutral.** Counts unchanged: progressive 9, accommodating 2, neutral 4.
+
+## Update: a gyroscope's precession
+
+Geodetic and frame-dragging precession meet Gravity Probe B's two numbers with nothing added, but under identifications (the static curved walk; the walk responding to the one-way part as it sources it) and γ = 1 (data). A new data contact, not a new prediction: GP-B tests the orbital coupling, and the Dirac spin's ratio of one, predicted here, is untested. The squares do not enter. **Neutral-to-progressive.** The one-way part stays accommodating. Counts: progressive 9, accommodating 2, neutral 5.
