@@ -63,6 +63,7 @@ Of eighteen entries, two are tagged *match* alone: the travel rule, which suppli
 - *One draw:* P6 and the draw half of C3 say the same thing: every draw (turning once, travel twice, light 2E) is δ of its energy and becomes record.
 - *One walk:* P5, C5 and C6 together define transit: hops that keep direction, a phase, and the flip (P5 also acts in formation, lining up relations, R5).
 - *Not qualities:* P4 at equal P and P8 follow from others; C7 is an initial condition.
+- *Partly consequences:* C2 follows from C1 and C4 under the free-share rule (below); C8's channel clause (frequency and direction, with recoil, within a width) follows from the walk and the phase for a classical drive, leaving C8's core posited: that a passage can be an engagement, which passages are, single-quantum exchange (held) and the Lüders update.
 
 **The clock from the cycle (candidate).** By C4 a commitment beats at ω₀ = mc²/ħ; by C1 each beat must engage ħ of free possibility. Possibility at a place carries no mark but free or engaged, and the free share 1 − h is set by the place's relations: what hopping brings in against what the sink draws (step 1). Each beat advances the commitment by that share, carrying the remainder, and a tick completes when a whole ħ has been engaged (the *free-share rule*, the author's ruling, candidate). The ticks come regularly, not by chance, at
 

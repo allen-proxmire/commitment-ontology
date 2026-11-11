@@ -1099,3 +1099,14 @@ The split at order v² stated in the entry above is ruled by the author (candida
 **Where this leaves CO.** Not excluded: permitted with a tuning, the same position as any real-time lattice field theory. The CO-shaped way out, if one exists, would be a real-time discrete structure with a symmetry that ties species' speeds together without a frame-free substrate; none is known, and finding one would be new in its own right.
 
 **Grade.** Silence (Lorentz invariance once loops come in), now priced: exits 1 and 3 not available, 2 excluded as sufficient, 4 a shape outside CO, 5 permitted with a tuning of about 10¹⁷.
+
+## 2026-11-10 — engagement versus route, read with today's pieces (a reading; no ruling)
+
+What the free-share rule, the channel width and "record is not possibility" add to the owed posit (which passages are engagements).
+
+- *The continuum clause becomes a consequence.* With a channel read as a final state of width Γ (the author's ruling, candidate), the golden rule gives Γ = (2π/ħ)|V|²ρ_f, ρ_f the density of final states. A discrete final state (one cavity mode) has no width: passage through it stays coherent even on resonance (vacuum Rabi oscillation), and a rate exists only where final states form a continuum. C8 stated that separately; it now follows from the width.
+- *Width and breadth are one chain seen two ways.* A final state's width is how fast its onward passages spread; the stopping number N is how far they must spread for the engagement to be a commitment. On that reading a chain reaches breadth N after a time of order N/Γ for steady spreading (shape; the growth law of breadth is not read), so N carries a time signature as well as a size one.
+- *Regular clock, chance engagement: no conflict.* The free-share rule acts on free possibility, which has no amplitude, so the clock is regular. Engagement acts on possibility in transit, which has amplitude, so its outcome is a draw from |a|². Chance enters exactly where amplitude does.
+- *What stays owed.* N's value, the growth law of breadth, and a test (reversal failing at a fixed breadth, the N signature) are as before. The new pieces narrow the posit (no separate continuum clause) but do not supply it.
+
+Proposed for the results docs (not applied): in MATTER's C8 clause, "a rate only where its final states form a continuum" marked as following from the width.
