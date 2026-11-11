@@ -31,7 +31,11 @@
 
 **A contrast in the literature, not evidence.** Under the secular Hamiltonian recovery is lost after about 10² correlated spins (Sánchez et al., arXiv:2112.00607); under the double-quantum Hamiltonian, which does not qualify, clusters of about 10⁴ have been reversed (the earlier works cited there). If N were near 10², that is the pattern CO would show; emergent irreversibility gives a dynamics-set ceiling instead, which should shift with crystal and Hamiltonian. The second row of the table separates them.
 
-**Other platforms.** Rydberg gases with dipolar exchange, reversed by state transfer (Geier et al., Phys. Rev. Research 2024, ~10³ atoms); superconducting-qubit lattices with natural photon hopping (Braumüller et al., Nature Phys. 18, 172 (2022); breadth a few quanta so far).
+**Other platforms, for the universality check (literature read 2026-11-11).** No second platform yet reports a breadth in quanta at echo loss under a qualifying Hamiltonian.
+- *Rydberg gases* (Geier et al., Phys. Rev. Research 6, 033197 (2024)): the dipolar exchange between S and P Rydberg states is a flip-flop (XX) Hamiltonian, which qualifies, and its sign is reversed by state transfer; the magnetization revives, with atomic motion identified as the main unreversed part. No cluster size is counted. The step needed: multiple-quantum or out-of-time-order spin counting at the moment of echo loss, which the authors name as an application.
+- *Fluorapatite* (quasi-one-dimensional ¹⁹F chains; Cho, Cappellaro, Cory, Ramanathan 2006; Zhang et al. 2009): spin counting is done under the double-quantum Hamiltonian, which does not qualify.
+- *Superconducting-qubit lattices* with natural photon hopping (Braumüller et al., Nature Phys. 18, 172 (2022)): qualifies; breadth a few quanta so far.
+So the universality row of the test cannot yet be filled from the literature; adamantane under the secular Hamiltonian (about 10² spins) is the only qualifying number.
 
 **Time is a weak signature.** Breadth grows by multiplication, so the time to reach N grows only as ln N: breadths of 50 and 10⁶ are reached within a factor of about 3.5 in time. Measure breadth, not time.
 
