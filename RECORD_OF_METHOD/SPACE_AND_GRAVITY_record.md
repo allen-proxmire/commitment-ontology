@@ -1501,3 +1501,5 @@ S = (c⁴/16πG) ∫ √−g (R − 2Λ) d⁴x + S_matter.
 ## 2026-11-11 — ruled: no backdrop at every order (the author's ruling, candidate)
 
 **Ruled.** Moving places and resetting clocks cost nothing at every order; the freedom may itself depend on the field. Entered in P7e. With the previous entry, the cost is Einstein–Hilbert plus Λ, given locality and two derivatives at every order and Lorentz-invariant interactions (assumptions) and the metric identification. Entered: appendix P7e and the derivation note; SPACE_AND_GRAVITY (static lapse, waves and exterior, references); OPEN_DIRECTIONS (the nonlinear rule; the frame problem now named as an assumption of gravity's nonlinear rule); README; plain doc; SCOREBOARD.
+
+**Confirmed (2026-11-11, the author, candidate).** A hop takes the mean of its two ends' stretch. Reasons: direction-dependent quantities live on relations (the one-way part), so taking one end would put a direction into size and double-count it; the mean is the same averaging the staggered placement uses to bring a place quantity onto a link; its error against the smooth field is of order (ℓ/r)², against ℓ/r for one end.
