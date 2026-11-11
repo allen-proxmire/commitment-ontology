@@ -1,0 +1,9 @@
+# G1 — does relabelling freedom force GR's linear equation on the cubic graph, isotropically?
+
+**Question.** The posit "sliding or relabelling places costs nothing", applied to the ten carriers (P7a–c and the held share), makes changes of the form δh_μν = ∂_μξ_ν + ∂_νξ_μ pure gauge (moving places: ξ_i; resynchronising clocks: ξ_0, which is the one-way part's loop-only behaviour). On the cubic graph only the cubic group and time reversal hold, not full rotations. Count the quadratic, two-derivative, gauge-invariant costs allowed by (a) the cubic group, (b) full rotations, and check whether the cubic case admits any beyond the rotation case.
+
+**Model.** Fourier space. The most general cost Q(h; k) = Σ c_{AB,μν} h_A h_B k_μ k_ν over the ten components h_A and two powers of k. Impose invariance under the group (cubic: axis permutations and reflections; or rotations: add a generic rotation) and time reversal, and gauge invariance, Q(h + δh(ξ); k) = Q(h; k) for all ξ. Solve the linear system for c by random sampling; report the dimension of the solution space and, for each solution, the tensor-wave speed along an axis and along a diagonal.
+
+**Outcome unknown.** If the cubic and rotation counts agree: relabelling freedom plus the cubic graph forces an isotropic cost, linearised Einstein–Hilbert up to its normalisation and the ratio of time to space terms (a speed); the gravity-carrier chain then earns its form from a posit already held (progressive). If the cubic count is larger: anisotropic gauge-invariant costs exist, tensor waves could travel at direction-dependent speeds at leading order, and GW170817 (speed of gravity equal to light's to ~10⁻¹⁵) becomes a constraint needing a further rule.
+
+**Post-run check.** The rotation case must give exactly the expected linearised Einstein–Hilbert family.

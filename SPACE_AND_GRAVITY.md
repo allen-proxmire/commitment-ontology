@@ -45,7 +45,7 @@ This is a static form: read in time, the inflow is diffusion and far too slow to
 
 **The weak field.** The same h slows ticks (1 − U + U²/2 …) and lengthens routes (e^{U}): the isotropic weak-field metric with γ = 1 and β = 1. Light bending 4GM/(c²b), the Shapiro delay, and Mercury's precession (a fit: Mercury selected the hop pairing).
 
-**Waves and the exterior.** A scalar field alone would radiate a sixth of GR's quadrupole power as a breathing mode; both are excluded (Hulse–Taylor, LIGO–Virgo). So relations carry a length that can be out of step with its ends. With sliding free and no higher derivatives (shown at the linearised level, assumed for the full exterior), Lovelock's theorem fixes the cost of mismatch:
+**Waves and the exterior.** A scalar field alone would radiate a sixth of GR's quadrupole power as a breathing mode; both are excluded (Hulse–Taylor, LIGO–Virgo). So relations carry a length that can be out of step with its ends. At linear order the cost is forced on the cubic graph: with moving places and resetting clocks free (the second an extension to time, proposed) and two derivatives, the only costs are linearised Einstein–Hilbert, up to a strength and a speed, and they are isotropic though the cube is not (run G1). With moving places alone, one direction-dependent cost would survive. For the full exterior, with no higher derivatives assumed, Lovelock's theorem fixes the cost of mismatch:
 
 $$S=\frac{1}{16\pi G}\int (R-2\Lambda)\sqrt{-g}\,d^4x .$$
 

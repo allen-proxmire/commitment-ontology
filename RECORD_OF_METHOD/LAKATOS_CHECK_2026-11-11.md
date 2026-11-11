@@ -21,3 +21,7 @@ Measured by `MEASURE.md`. Each addition, what it was added for, what else it gav
 **What would turn the chain progressive.** Showing that the carriers' own rules force GR's linear equation, through the gauge symmetry the one-way part already shows, instead of borrowing its form; or a test of P∞ = (d/2)f against the formation runs.
 
 **Counts (since 10 November).** Progressive: 4. Neutral: 1–2. Accommodating: 4 (one sector). Exclusions found: 1 (the stock as carrier). Posits removed: C2 as an independent quality; most of C8's channel clause.
+
+## Update, same day: run G1
+
+The gauge-symmetry rung was run (G1). Relabelling freedom, a posit held from the start, forces the carriers' cost to linearised Einstein–Hilbert on the cubic graph, isotropically, up to G and a speed. G1 is progressive, conditional on resetting clocks being free (an extension of P7 to time, with the lapse shift). The ten carriers were still added; what follows is their cost, and the cube's isotropy, given that extension. The one-way part and the frame per place stay accommodating until the lapse shift is shown from the rules. Counts: progressive 5, accommodating 4.

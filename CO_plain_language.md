@@ -86,7 +86,7 @@ $$\delta\varphi=\frac{4GM}{c^2b},$$
 
 twice the Newtonian value, Einstein's, with the Shapiro delay alongside.
 
-**The exterior and waves.** Relations can be out of step with their ends. Because sliding places costs nothing, the cost of that can depend only on how relations fit together, and with second-order field equations (assumed for the full exterior), Lovelock's theorem makes Einstein's the only such cost in three dimensions:
+**The exterior and waves.** Relations can be out of step with their ends. Because sliding places costs nothing, and if resetting clocks costs nothing too, the cost of that can depend only on how relations fit together. For small ripples this forces Einstein's cost, the same in every direction even though the lattice is a cube (run G1). For the full exterior, with second-order field equations assumed, Lovelock's theorem makes Einstein's the only such cost in three dimensions:
 
 $$S=\frac{1}{16\pi G}\int (R-2\Lambda)\sqrt{-g}\,d^4x .$$
 
@@ -148,7 +148,7 @@ $$\ell=\frac{\hbar}{m_{\max}c}.$$
 
 **In:** possibility and commitment; the qualities P1–P8, C1–C8; three constants of the theory's own, δ, P_max and Λ, and a birth share; G, c, ħ, 1/137 and the particle masses as measured; three exclusions from experiment (a fixed hop order, a scalar gravitational wave, a one-way hop); from quantum mechanics, the Born rule as an identification, Lüders conditioning, the joint law of an entangled pair, and an interaction's coupling and pointer basis.
 
-**Out:** one-way time; universal redshift and free fall; Newton's law, light bending, the Shapiro delay and Mercury's precession (a fit); the clock rate from the commitment cycle; GR's exterior and tensor waves (given Lovelock's hypotheses); GR's source inside matter; three dimensions as a consistency condition; an inflation with its own exit; Friedmann's matter and radiation eras; the amplitude rule; Dirac's equation with spin ½; Maxwell's equations; two-body binding (helium, positronium, 21 cm) by identification; resonance and recoil.
+**Out:** one-way time; universal redshift and free fall; Newton's law, light bending, the Shapiro delay and Mercury's precession (a fit); the clock rate from the commitment cycle; tensor waves (forced at linear order if moving places and resetting clocks are free) and GR's exterior (given Lovelock's hypotheses); GR's source inside matter; three dimensions as a consistency condition; an inflation with its own exit; Friedmann's matter and radiation eras; the amplitude rule; Dirac's equation with spin ½; Maxwell's equations; two-body binding (helium, positronium, 21 cm) by identification; resonance and recoil.
 
 **Not yet:** the particle masses; the exchange sign; nuclear stress; the values of δ, P_max, Λ and 1/137; colour; the nonlinear rule for the relations; any prediction that differs from established physics.
 
