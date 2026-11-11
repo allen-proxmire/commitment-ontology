@@ -1,10 +1,9 @@
 # Commitment Ontology
 
-Time is a count of irreversible events. Everything else is what follows when that is taken seriously.
-
 CO is an ontology with two primitives, possibility and commitment, and a short list of qualities they are given (P1–P8, C1–C8, each graded in [`TECHNICAL_APPENDIX.md`](TECHNICAL_APPENDIX.md)). From them it reaches gravity and, largely by identification with known constructions, quantum mechanics up to 1930 for a fixed number of particles. It is incomplete, and says where.
 
-*Possibility* sits at places and moves between related places. It is never made or lost in passing; what a draw takes from it becomes record, and new places are born with their share. *Commitment* is an irreversible event that engages possibility. Time is the count of commitments, matter is what keeps re-committing, and gravity is the pull toward where commitments run slow.
+*Possibility* sits at places and moves between related places. It is never made or lost in passing; what a draw takes from it becomes record, and new places are born with their share. 
+*Commitment* is an irreversible event that engages possibility. Time is the count of commitments, matter is what keeps re-committing, and gravity is the pull toward where commitments run slow.
 
 GR has no global now; QM has no event. CO takes both as primitives, which places it among event theories (Haag's programme, Blanchard–Jadczyk) rather than collapse models. A commitment's now is its past light cone, nothing added. When a contact counts as an event is not yet answered.
 
