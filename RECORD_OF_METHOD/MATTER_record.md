@@ -1166,3 +1166,13 @@ For a cascade the time to commit grows only as ln N: N ≈ 50 and N ≈ 10⁶ di
 **Not covered.** Discrete time (the walk's tick); whether a cancellation between species (the walk and the links) could keep the induced speeds equal without exact conservation; non-generic kinematics; 1 + 1 integrable escapes.
 
 **Grade.** Reading. Steps 1–3: given the ruling and the G4 identities. Step 4: the exact-no-backdrop exit for interacting matter on a lattice is excluded by kinematics (collision invariants), with a numerical check. The frame problem stands as before; tuning remains the only exit known.
+
+## 2026-11-11 — the walk–link cancellation exit, read against lattice practice (reading)
+
+**The question.** With exact no backdrop closed for interacting matter (entry above), could the walk (matter) and the links (light) break it in matching ways, so that their induced speeds shift together without any exact conservation?
+
+**The nearest known case.** Lattice gauge theory on anisotropic lattices, where the time step and the space step differ, is the closest well-studied analogue of CO's real-time network: the hypercubic symmetry that mixes time with space is gone, leaving the spatial cubic group. There, the renormalised anisotropy (the effective speed of light) differs from the bare one, and it differs between the gauge sector and the fermion sector: the bare speed in the fermion action and the bare anisotropy of the gauge action must be tuned separately so that both sectors see the same renormalised light cone (Klassen 1998 for the gauge action; dynamical tuning by Morrin, Ó Cais, Peardon, Ryan and Skullerud 2006, where quark and gluon parameters are tuned simultaneously because each feeds the other; reviewed in Fodor and Hoelbling 2012). On the isotropic Euclidean lattice the speed of light is not renormalised, because the operators that could shift it are forbidden by the hypercubic group; that protection is exactly what a real-time network lacks.
+
+**Reading.** No automatic walk–link cancellation is known; in every studied lattice theory without a symmetry mixing time and space, the two sectors' speeds renormalise differently and are matched by tuning. CO's walk and links have different hop rules (the walk's palindromic Wilson step; the links' own update), so there is no structural reason for their induced shifts to agree.
+
+**Grade.** The cancellation exit: not excluded in principle, but unsupported; lattice practice is against it. With this, every exit in the frame note is read: tuning remains the only known one, and a real-time symmetry that mixes the tick with the hops (unknown) the only unexplored one.
