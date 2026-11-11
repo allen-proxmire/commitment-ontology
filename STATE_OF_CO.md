@@ -80,13 +80,13 @@ Newton's acceleration, independent of mass. Free fall is inertia plus refraction
 
 $$\delta\varphi=\frac{4GM}{c^2b},$$
 
-twice the Newtonian value, Einstein's, with the Shapiro delay alongside.
+twice the Newtonian value, Einstein's, with the Shapiro delay alongside, once γ = 1 (fixed by Cassini's time delay).
 
 **The exterior and waves.** The network's parts can be out of step with their neighbours. Because moving places costs nothing, and resetting a clock costs nothing too (time is each commitment's own count, read only by ratio), the cost of that can depend only on how the parts fit together. For small ripples this forces Einstein's cost, the same in every direction even though the lattice is a cube (run G1). Beyond small ripples: if moving places and resetting clocks stay free at every order, and the cost stays local with two derivatives and treats all directions and motions alike, Einstein's cost is the only consistent continuation (Wald; Boulanger, Damour, Gualtieri, Henneaux), at long wavelength, reading the geometry as clock rates and stretch:
 
 $$S=\frac{1}{16\pi G}\int (R-2\Lambda)\sqrt{-g}\,d^4x .$$
 
-So: tensor waves with two polarizations and Einstein's quadrupole coefficient, and Schwarzschild–de Sitter outside a body (Schwarzschild when Λ is zero). Inside matter and in the radiation era, the source is GR's too, from the travel rule, once the walk on the curved network is built. Where CO reaches, it predicts nothing different from GR.
+So: tensor waves with two polarizations and Einstein's quadrupole coefficient, and Schwarzschild–de Sitter outside a body (Schwarzschild when Λ is zero). Inside matter and in the radiation era, the source is GR's too, from the travel rule, once the walk on the curved network is built. Where CO reaches, it predicts nothing different from GR; its one departure from quantum mechanics with gravity is that a superposed mass sources gravity by its mean.
 
 **Three dimensions.** In one or two dimensions relations carry no waves; in even dimensions a signal leaves a tail forever; in four or more there are no stable orbits. Three is the only dimension where every rule holds and nothing is added.
 
@@ -144,15 +144,15 @@ $$\ell=\frac{\hbar}{m_{\max}c}.$$
 
 **In:** possibility and commitment; the qualities P1–P8, C1–C8; three constants of the theory's own, δ, P_max and Λ, and a birth share; G, c, ħ, 1/137 and the particle masses as measured; three exclusions from experiment (a fixed hop order, a scalar gravitational wave, a one-way hop); from quantum mechanics, the Born rule as an identification, Lüders conditioning, the joint law of an entangled pair, and an interaction's coupling and pointer basis.
 
-**Out:** one-way time; universal redshift and free fall; Newton's law, light bending, the Shapiro delay and Mercury's precession (a fit); the clock rate from the commitment cycle; tensor waves (forced at linear order by moving places and resetting clocks being free) and GR's exterior (given no backdrop at every order and the assumptions above); GR's source inside matter; three dimensions as a consistency condition; an inflation with its own exit; Friedmann's matter and radiation eras; the amplitude rule; Dirac's equation with spin ½; Maxwell's equations; two-body binding (helium, positronium, 21 cm) by identification; the exchange sign for two patterns, by identification; resonance and recoil.
+**Out:** one-way time; universal redshift and free fall; Newton's law; light bending and the Shapiro delay (γ fixed by Cassini) and Mercury's precession (β, a fit); the clock rate from the commitment cycle; tensor waves (forced at linear order by moving places and resetting clocks being free) and GR's exterior (given no backdrop at every order and the assumptions above); GR's source inside matter; three dimensions as a consistency condition (shape: its conditions, stable orbits and clean signals, are observed ones); an inflation-like epoch with its own exit (shape: no expansion count or spectrum); Friedmann's matter and radiation eras; the amplitude rule; Dirac's equation with spin ½; Maxwell's equations; two-body binding (helium, positronium, 21 cm) by identification; the exchange sign for two patterns, by identification; resonance and recoil.
 
-**Not yet:** the particle masses; nuclear stress; the values of δ, P_max, Λ and 1/137; colour; the nonlinear cost on the lattice; any prediction that differs from established physics.
+**Not yet:** the particle masses; nuclear stress; the values of δ, P_max, Λ and 1/137; colour; the nonlinear cost on the lattice; a tested prediction that differs from established physics (the mean gravitational source, with its Schrödinger–Newton self-gravity, differs from quantum mechanics with gravity and is untested).
 
 **How it could fail:** two masses becoming entangled through gravity alone (Bose et al. 2017; Marletto–Vedral 2017); any confirmed departure from GR or the Dirac equation, as for them; a cost of mismatch that, derived, is not Einstein's.
 
 ## Where it stands
 
-**What it does.** From two primitives and a short list of qualities, it reaches the four classical tests of gravity (Mercury's as a fit), tensor waves, an inflation-like start, the expansion eras and three dimensions, and Dirac's electron with its charge.
+**What it does.** From two primitives and a short list of qualities, it reaches the four classical tests of gravity (light bending and the Shapiro delay through γ, Mercury's through β, each fixed by data), tensor waves, an inflation-like start, the expansion eras and three dimensions as a consistency condition, and Dirac's electron with its charge.
 
 **Where a fair critic pushes.** Its results come through standard theorems, and its own contribution is the qualities that supply their inputs; where a quality is a choice, the result is a reconstruction, not a derivation. Its two-body numbers are by identification. Its runs are small. The lattice the walk lives on picks a rest frame, and with loops nothing in the rules stops particles getting slightly different top speeds unless their bare speeds are tuned to 1 part in 10¹⁷: the open problem, and why CO stands at tree level. No number has been matched where the standard theories are silent.
 
