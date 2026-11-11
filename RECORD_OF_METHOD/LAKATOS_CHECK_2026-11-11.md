@@ -70,3 +70,7 @@ With the held share and the stretch at one place, the condition P∞ = (d/2)f is
 ## Update: a gyroscope's precession
 
 Geodetic and frame-dragging precession meet Gravity Probe B's two numbers with nothing added, but under identifications (the static curved walk; the walk responding to the one-way part as it sources it) and γ = 1 (data). A new data contact, not a new prediction: GP-B tests the orbital coupling, and the Dirac spin's ratio of one, predicted here, is untested. The squares do not enter. **Neutral-to-progressive.** The one-way part stays accommodating. Counts: progressive 9, accommodating 2, neutral 5.
+
+## Update: no backdrop for the walk (ruled)
+
+Extending no backdrop to the walk, a posit already held for the relations, forces matter's response to the field to be the coupling that sources it. With that, Gravity Probe B's two numbers are met with matter's response forced rather than assumed, and two identifications are retired (the static curved walk at linear order; the walk's response to the one-way part). Fewer assumptions, but no new tested content: the spin's ratio is still untested. The gyroscope result stays **neutral-to-progressive** (continuum, linear order; the lattice form owed). Counts unchanged: progressive 9, accommodating 2, neutral 5.

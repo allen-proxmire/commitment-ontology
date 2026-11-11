@@ -1457,3 +1457,9 @@ So, in the continuum at linear order, the walk's response is −½ h_μν T^μν
 **Not covered.** The lattice form: whether a nearest-neighbour walk coupled to the staggered carriers is exactly unchanged by lattice relabellings (as run G3 found for the carriers' cost). Nonlinear order (Obukhov's form beyond linear order). The cubic graph's rotations are discrete; step 3 uses a displacement field at long wavelength.
 
 **Grade.** Reading, given P7e applied to the walk (proposed) and, for spin, the frame identification (P8b's). In the continuum this is the textbook uniqueness of linear coupling (Weinberg; Deser); what is new is only that CO's no backdrop is the premise.
+
+## 2026-11-11 — ruled: no backdrop applies to the walk (the author's ruling, candidate); a hop takes the mean of its ends' stretch
+
+**Ruled.** No backdrop holds for everything on the network, the walk included: a pattern cannot tell a relabelling of places or clocks from no change. Entered in P7e. With the previous entry, the walk's linear response is −½ h_μν T^μν (needed, given the ruling, locality and at most one derivative; continuum, linear order). The gyroscope result's grade moves accordingly (SPACE_AND_GRAVITY, README). Owed: the lattice form; nonlinear order.
+
+**Also entered (P7a).** A hop takes the mean of its two ends' stretch (the natural default; it matters only at order ℓ/r). Entered as the default, pending the author's confirmation.
