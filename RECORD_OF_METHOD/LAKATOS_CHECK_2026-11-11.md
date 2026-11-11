@@ -94,3 +94,7 @@ The literal matter–antimatter hunch (one matter pattern per saturated place) i
 ## Update: first commitments alone renew (ruled)
 
 Added to fill the gap in the photon-ratio reading: accommodating as added. It also supplies, unasked, the dark-matter shape's "made only at the start" and, with number change held, the survival of the beginning's matter count; that is a second use, so it is not purely accommodating. Graded **neutral-to-progressive**, counted neutral until a use with data appears. Counts: progressive 10, accommodating 2, neutral 9.
+
+## Correction: the literal hunch is not excluded
+
+The exclusion recorded above compared all matter patterns per photon with η, which counts baryons only. Relic neutrinos plus baryons number about 0.8 per photon, inside the literal hunch's 0.02–1. The exclusion is withdrawn; the literal hunch stands as a shape needing a rule for kinds. Exclusions found today: 2 (exact lattice no backdrop for interacting matter; MOND within CO).
