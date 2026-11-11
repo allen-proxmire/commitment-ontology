@@ -1385,9 +1385,9 @@ One outside reader checked the chain: G1 → one coupling → G → the static l
 
 **Grade.** Reading. It supplies the local conservation the single coupling needed: "one strength for every part" returns from shape to a reading, given P7e, at linear order and up to O(ℓ²).
 
-## 2026-11-11 — run G3: no backdrop holds exactly on the lattice only with the carriers staggered (the author's ruling, candidate)
+## 2026-11-11 — run G3: among the placements tested, at nearest-neighbour range, no backdrop holds exactly on the lattice only with the carriers staggered (the author's ruling, candidate)
 
-Registered and run (`SPACE_AND_GRAVITY_runs/G3_lattice_gauge/`), read by the author before entry. With the carriers placed as P7 had them (stretch and one-way part on links, lapse and shear at places), no quadratic cost of nearest-neighbour range is exactly invariant under the lattice's own "moving places" and "reparametrising time"; with shear on the squares, none either. With the carriers staggered (lapse and stretch at places; the one-way part and the displacement of places on relations; shear on the squares) there are eleven, and every one reduces at long wavelength to G1's family (linearised Einstein–Hilbert up to strength and speed; one is a pure lattice-scale term). The staggered case began as the method's check and turned out to be the answer.
+Registered and run (`SPACE_AND_GRAVITY_runs/G3_lattice_gauge/`), read by the author before entry. With the carriers placed as P7 had them (stretch and one-way part on links, lapse and shear at places), no quadratic cost of nearest-neighbour range is exactly invariant under the lattice's own "moving places" and "reparametrising time"; with shear on the squares, none either. With the carriers staggered (lapse and stretch at places; the one-way part and the displacement of places on relations; shear on the squares) there are eleven: ten reduce at long wavelength to G1's family (linearised Einstein–Hilbert up to strength and speed), and one vanishes at leading order, a pure lattice-scale term. The staggered case began as the method's check and turned out to be the answer.
 
 **Ruled.** The carriers move to the staggered placement (P7a–c rewritten): places carry size (the held share, the stretch), relations carry direction (the one-way part, the displacement, the which-way phase), squares carry shear.
 

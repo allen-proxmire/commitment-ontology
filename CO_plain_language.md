@@ -24,7 +24,7 @@ GR has no global now; QM has no event. CO takes both as primitives. A commitment
 - P3, *hold-and-release:* what a commitment engages is released when it completes, less a small share kept as record. Free possibility is P_free = P(1 − h), h the fraction engaged.
 - P4, *toward engagement:* on each relation, possibility flows toward the end that is engaging more. A rule about one link; it needs no "at the same time."
 - P5, *inertia:* possibility in transit keeps its direction until a commitment redirects it.
-- P6, *transit draws:* possibility in transit is not free. A closed whole draws its turning once and its travel twice; light draws twice its energy. Every draw becomes record and puts the relations around it out of step.
+- P6, *transit draws:* possibility in transit is not free. A closed whole draws its turning once and its travel twice; light draws twice its energy. Every draw becomes record and puts the places around it out of step.
 - P7, *relations:* space is who passes possibility to whom. Relations carry direction: a one-way part (passing can be a little slower one way) and a which-way phase. Places carry size: how much of their possibility is held, and how stretched they are. The squares between relations carry twist (shear). Sliding or relabelling places, or resetting a place's clock, costs nothing: there is no backdrop, in space or in time.
 - P8, *meeting:* when two routes bring possibility to one place, the amounts combine as |√p₁e^{iθ₁} + √p₂e^{iθ₂}|².
 
@@ -72,7 +72,7 @@ Two clocks compare as (1 − h_A)/(1 − h_B), the same for every kind of clock:
 
 $$\nabla^2\ln P_{\text{free}}=\sigma\,\delta(\mathbf r)\quad\Rightarrow\quad \frac{P_{\text{free}}}{P_\infty}=e^{-U},\qquad U=\frac{GM}{c^2r}.$$
 
-The first-order part is Newton's 1/r; the second-order part gives Mercury's precession, which picked the hop rule. That inflow is far too slow to build or carry a field in time, so the field is carried by the relations: each draw puts the relations around it out of step, and their stiffness is one quantum.
+The first-order part is Newton's 1/r; the second-order part gives Mercury's precession, which picked the hop rule. That inflow is far too slow to build or carry a field in time, so the field is carried by the network's places, relations and squares: each draw puts the places around it out of step, against a stiffness of one quantum per relation.
 
 **Why things fall.** Ticks are slower where h is higher, so a matter wave turns toward matter, as light turns toward the slow side of a lens:
 
@@ -86,7 +86,7 @@ $$\delta\varphi=\frac{4GM}{c^2b},$$
 
 twice the Newtonian value, Einstein's, with the Shapiro delay alongside.
 
-**The exterior and waves.** Relations can be out of step with their ends. Because moving places costs nothing, and resetting a clock costs nothing too (time is each commitment's own count, read only by ratio), the cost of that can depend only on how relations fit together. For small ripples this forces Einstein's cost, the same in every direction even though the lattice is a cube (run G1). For the full exterior, with second-order field equations assumed, Lovelock's theorem makes Einstein's the only such cost in three dimensions:
+**The exterior and waves.** The network's parts can be out of step with their neighbours. Because moving places costs nothing, and resetting a clock costs nothing too (time is each commitment's own count, read only by ratio), the cost of that can depend only on how the parts fit together. For small ripples this forces Einstein's cost, the same in every direction even though the lattice is a cube (run G1). For the full exterior, with second-order field equations assumed, Lovelock's theorem makes Einstein's the only such cost in three dimensions:
 
 $$S=\frac{1}{16\pi G}\int (R-2\Lambda)\sqrt{-g}\,d^4x .$$
 

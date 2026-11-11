@@ -16,7 +16,7 @@ The matter sector's internal state is four-dimensional, an irreducible represent
 
 ## The wall
 
-On relations, CO carries one real scalar (occupancy and ratio) and one non-commuting matching, space's frame. On patterns it carries one complex phase (charge) and the four. Every three-valued thing in it is a spatial vector. The nucleus needs, on each quark, a three-component *complex* scalar that leaves space alone, and on each relation a unitary 3 × 3 matching between them. Two primitives supply neither. Six routes to that three were tried and closed, each finding the three had been put in by hand: possibility in sorts; the Clifford four; the three lines of space; tiles with a tile mass; one pattern three times on a shared cycle (gives flavour, not colour); parallel relations (removed at formation).
+On the network, CO carries real quantities (held share, stretch, one-way part, shear, ratio) and one non-commuting matching, space's frame. On patterns it carries one complex phase (charge) and the four. Every three-valued thing in it is a spatial vector. The nucleus needs, on each quark, a three-component *complex* scalar that leaves space alone, and on each relation a unitary 3 × 3 matching between them. Two primitives supply neither. Six routes to that three were tried and closed, each finding the three had been put in by hand: possibility in sorts; the Clifford four; the three lines of space; tiles with a tile mass; one pattern three times on a shared cycle (gives flavour, not colour); parallel relations (removed at formation).
 
 **CO's only non-abelian matching is space's; the nucleus needs one that is not; CO stops at the nucleus.**
 

@@ -25,8 +25,8 @@ The substrate is scaleless; moving or relabelling places, and resetting a place'
 | capacity | a place holds at most P_max free possibility; over capacity it commits |
 | hold-and-release | P_free = P(1 − h), h the fraction engaged |
 | clock | renewal rate (mc²/ħ)(1 − h), following from the commitment cycle under the free-share rule |
-| gravity | net transit runs toward the end that engages more; a place's h is the share of its possibility its relations hold. Patterns fall by refraction on the clock-rate field |
-| draws set relations | a draw sets the occupancies of the relations around it, against a stiffness of one quantum per relation |
+| gravity | net transit runs toward the end that engages more; a place's h is the share of its possibility it holds. Patterns fall by refraction on the clock-rate field |
+| draws set the network | a draw sets the held share and stretch of the places around it, against a stiffness of one quantum per relation |
 | now | a commitment's now is its past light cone; spacelike events are not ordered with respect to it |
 
 ## Results
@@ -39,19 +39,19 @@ $$\nabla^2\ln P_{\text{free}}=\sigma\,\delta(\mathbf r),\quad \sigma=\frac{\delt
 
 $$G=\frac{\delta\,c^{3}\,\ell^{2}}{4\pi\hbar}\qquad\Longleftrightarrow\qquad \ell=\ell_P\sqrt{\frac{4\pi}{\delta}} .$$
 
-This is a static form: read in time, the inflow is diffusion and far too slow to build or carry a field, so the field is carried by the relations ([`OPEN_DIRECTIONS.md`](OPEN_DIRECTIONS.md)). On the network the lapse obeys ∂_i(ψ²∂_i N) = 0, GR's static vacuum equation, and with the cost's ψ (itself from Lovelock's hypotheses) the lapse is Schwarzschild's at every order: consistency with the cost, not a derivation of it. The quick form e^{−U} agrees with it through U², where β is read.
+This is a static form: read in time, the inflow is diffusion and far too slow to build or carry a field, so the field is carried by the network's places, relations and squares ([`OPEN_DIRECTIONS.md`](OPEN_DIRECTIONS.md)). On the network the lapse obeys ∂_i(ψ²∂_i N) = 0, GR's static vacuum equation, and with the cost's ψ (itself from Lovelock's hypotheses) the lapse is Schwarzschild's at every order: consistency with the cost, not a derivation of it. The quick form e^{−U} agrees with it through U², where β is read.
 
 **Free fall.** A matter wave refracting on the clock-rate field has g = c²∇h: Newton's acceleration, independent of mass.
 
 **The weak field.** The same h slows ticks (1 − U + U²/2 …) and lengthens routes (e^{U}): the isotropic weak-field metric with γ = 1 and β = 1. Light bending 4GM/(c²b), the Shapiro delay, and Mercury's precession (a fit: Mercury selected the hop pairing).
 
-**Waves and the exterior.** A scalar field alone would radiate a sixth of GR's quadrupole power as a breathing mode; both are excluded (Hulse–Taylor, LIGO–Virgo). So relations carry a length that can be out of step with its ends. At linear order the cost is forced on the cubic graph: with moving places and resetting clocks free and two derivatives, the only costs are linearised Einstein–Hilbert, up to a strength and a speed, and they are isotropic though the cube is not (run G1). With moving places alone, one direction-dependent cost would survive. For the full exterior, with no higher derivatives assumed, Lovelock's theorem fixes the cost of mismatch:
+**Waves and the exterior.** A scalar field alone would radiate a sixth of GR's quadrupole power as a breathing mode; both are excluded (Hulse–Taylor, LIGO–Virgo). So places carry a stretch that can be out of step with their neighbours'. At linear order the cost is forced on the cubic graph: with moving places and resetting clocks free and two derivatives, the only costs are linearised Einstein–Hilbert, up to a strength and a speed, and they are isotropic though the cube is not (run G1). With moving places alone, one direction-dependent cost would survive. For the full exterior, with no higher derivatives assumed, Lovelock's theorem fixes the cost of mismatch:
 
 $$S=\frac{1}{16\pi G}\int (R-2\Lambda)\sqrt{-g}\,d^4x .$$
 
 Tensor waves with two polarizations and Einstein's quadrupole coefficient; Schwarzschild outside a body. The mass that sets the exterior is GR's for dust and Tolman's, ∫(ρ + S)N√γ d³x, for pressure-supported bodies short of nuclear stress, given the walk on the curved network and P = P∞ at a place (an identification).
 
-**What carries each part.** Lapse and stretch: each place's held share and its stretch. Frame dragging: each relation's one-way part, which behaves like a U(1) link (only its loops are physical). Shear: the squares between relations. This staggered placement is the one on which no backdrop holds exactly on the lattice (run G3). Each is set by the matching part of the source: ρ + S, the diagonal stress, the momentum density, the off-diagonal stress.
+**What carries each part.** Lapse and stretch: each place's held share and its stretch. Frame dragging: each relation's one-way part, which behaves like a U(1) link (only its loops are physical). Shear: the squares between relations. Of the three placements tested, this staggered one is the only one on which no backdrop holds exactly, at nearest-neighbour range (run G3). Each is set by the matching part of the source: ρ + S, the diagonal stress, the momentum density, the off-diagonal stress.
 
 **Classical source.** The free stock and h are classical, so a superposed mass sources h by its mean: Møller–Rosenfeld semiclassical gravity, with Schrödinger–Newton as its Newtonian limit. Page–Geilker (1981) excludes a mean source for a body never resolved; CO escapes only if the engagements a large body undergoes resolve it (the engagement criterion, open). So CO expects no entanglement through gravity; Bose et al. 2017 and Marletto–Vedral 2017 would test it, and entanglement through gravity alone would make CO wrong. The sink's shot noise is φ ≈ ωU√(τ/Γ): about 8 × 10⁻³⁶ rad in one second per nucleon on an electron clock at 10⁻¹⁰ m. Costs, open: a mean source that jumps when a body is resolved is not conserved at the jump; the mean-field term must not signal; a linear classical–quantum coupling would carry noise (Oppenheim et al. 2023), which CO avoids only by being nonlinear.
 
