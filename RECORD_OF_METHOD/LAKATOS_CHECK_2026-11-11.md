@@ -98,3 +98,12 @@ Added to fill the gap in the photon-ratio reading: accommodating as added. It al
 ## Correction: the literal hunch is not excluded
 
 The exclusion recorded above compared all matter patterns per photon with η, which counts baryons only. Relic neutrinos plus baryons number about 0.8 per photon, inside the literal hunch's 0.02–1. The exclusion is withdrawn; the literal hunch stands as a shape needing a rule for kinds. Exclusions found today: 2 (exact lattice no backdrop for interacting matter; MOND within CO).
+
+## Update: number change, fields first, the stiffness, and the outside read
+
+- *Number change (ruled: the walk as a field with filled negative states; C7's pairs clause).* Needed by laboratory pair creation and the hot era, filled by identification with lattice QED; nothing new follows. **Neutral.**
+- *Fields first or patterns first.* The patterns-first reading of number change (a sea of actual patterns) is **excluded** by void births and C7; no new consequence. Exclusions found today: 3.
+- *The stiffness.* Only δ over the stiffness is measured; K = 1 is untestable. **Neutral.**
+- *The outside read.* Corrections, not additions: the γ-dependent tests (light bending, Shapiro) are now listed as fits through Cassini, three dimensions as a shape, N as a shape, and the mean gravitational source (Schrödinger–Newton) is stated as CO's one departure from quantum mechanics with gravity. These change no count, but the gravity ladder's "derived" rungs are fewer than the README had claimed.
+
+**Counts at the end of 11 November:** progressive 10, accommodating 2, neutral 11; exclusions found 3 (exact lattice no backdrop for interacting matter; MOND within CO; the patterns-first reading of number change); one exclusion withdrawn (the literal matter–antimatter hunch).
