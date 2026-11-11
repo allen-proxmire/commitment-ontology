@@ -62,3 +62,7 @@ The walk's energy and momentum are conserved place by place with finite-range cu
 ## Update: run G3, the carriers' placement
 
 Asking that no backdrop hold exactly on the lattice, not just at long wavelength, selects one placement among the three tested at nearest-neighbour range: size (held share, stretch) at places, direction (one-way part, displacement) on relations, shear on the squares. An existing posit now places the carriers; before, the placement was chosen to fit GR's components. "A frame per place" is replaced, and shear on squares moves from accommodating to **progressive** (selected, not fitted). The one-way part stays accommodating: G3 requires it on relations but did not add a reason it exists. A cost: P∞ = (d/2)f loses its derivation, which rested on relations holding the excess, so that bonus is withdrawn until it is re-derived for places. Counts: progressive 9, accommodating 2, neutral 3; one bonus withdrawn.
+
+## Update: P∞ re-read for the new placement
+
+With the held share and the stretch at one place, the condition P∞ = (d/2)f is not needed: P7a's at-rest clause ties them directly. One needed condition removed and its tension with R5 gone; the withdrawn bonus stays withdrawn (it was a consequence of the old placement, not of CO). The stiffness-versus-feed question remains open. **Neutral.** Counts unchanged: progressive 9, accommodating 2, neutral 4.
