@@ -1351,3 +1351,13 @@ which is GR's static vacuum equation for the lapse, D^iD_iN = ψ⁻⁶∂_i(ψ²
 **Where the self-coupling sits.** The flat shortcut is not the curved law with ψ = 1: lapse-weighted ratio flux on a flat network gives ∇²N = 0, N = 1 − U and β = ½, excluded. e^{−U} is the unweighted flux on a flat network, leaving out two factors whose effects cancel at U². On the curved network the lapse weighting cancels the logarithm (ψ²N∂ln N = ψ²∂N), so the U² comes only from ψ², the relations' stretch weighting the flow. So the field's own energy drawing is the relations' stretch, not ratio hopping's compounding, which only stands in for it on the flat shortcut; the ruling above is worded accordingly. Beyond the static case, and for ψ itself beyond linear order, the relations' nonlinear rule is still owed: Deser's bootstrap with the ruling above, or Lovelock as a cross-check.
 
 **Grade.** Reading: static agreement with GR at all orders, given the relations' ψ. No new prediction.
+
+## 2026-11-11 — how strongly a draw bends the relations: one strength for every part (reading)
+
+**The debt.** "A draw sets the relations" was graded accommodating: the static strength came from consistency at the body (G = δc³ℓ²/(4πħ) at κ = ħ/τ), but nothing said the drag part, the shear or the waves are bent with the same strength.
+
+**The reading.** With moving places and resetting clocks free (P7e), the carriers' change δh_μν = ∂_μξ_ν + ∂_νξ_μ costs nothing, and so must the coupling to what draws. For a coupling Σ a_μν h_μν T^μν to be unchanged under every ξ, given ∂_μT^μν = 0 (the walk's energy and momentum conserved, entry above), the coefficients a_μν must be one number: a coupling weighted differently for different parts changes under ξ unless T happens to satisfy extra conditions it does not. So the coupling is κ_g h_μν T^μν with a single κ_g = 16πG/c⁴ for every part. The strength fixed in the static case (the lapse, by the draw ρ + S) is therefore the strength for the drag part (momentum), the shear (stress) and the waves.
+
+**What it gives unasked.** (1) Active gravitational mass equals passive for moving and stressed sources: the drag a moving body causes and its gravitomagnetic field come with Einstein's coefficient (h_0i ≈ −4GMv_i/(c³r)), not a new constant. (2) Light's factor two (light draws 2E) is ρ + S for radiation, where S = ρ: the same single coupling, not a separate rule.
+
+**Grade.** Reading: given P7e and conservation, the draw's strength is one constant for every part, fixed by the static case. "A draw sets the relations" moves from accommodating toward progressive: its strength for the parts it was not fitted on now follows.

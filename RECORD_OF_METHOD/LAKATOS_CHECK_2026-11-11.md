@@ -41,3 +41,12 @@ Counts now: progressive 6, accommodating 4, neutral 2–3. The gravity side's re
 | change | what it gave | verdict |
 |---|---|---|
 | the N test restated as a scaling (does K* saturate as Σ/J falls?), the rival account named (Pastawski; Zangara), the qualifying data read | no new posit; a sharper, falsifiable statement; the bound N ≳ 50 confirmed against the large-cluster literature, which does not qualify | **neutral-to-progressive**: no new content, but CO's one testable difference is now stated so an experiment could decide it |
+
+## Update: the exchange sign; the draw's strength
+
+| addition | what else it gave | verdict |
+|---|---|---|
+| exchange factor flat on the graph; sign by the frames' transport (P8b) | ±1 from three dimensions, which CO already had; (−1)^{2s} from the walk's spinor and P7c's frames, which were not added for this; sorts electrons, helium-3, helium-4, rubidium-87, photons correctly | **progressive** (P7c's frames earn a use they were not added for) |
+| one coupling strength for every part (reading) | drag and waves bent with the static strength; light's factor two as ρ + S; active = passive mass for moving sources | turns "the draw sets the relations" **progressive** |
+
+Counts now: progressive 8, accommodating 3, neutral 3.
