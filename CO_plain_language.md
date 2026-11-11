@@ -4,7 +4,7 @@ An ontology with two primitives, possibility and commitment, and what follows fr
 
 The results are in [`SPACE_AND_GRAVITY.md`](SPACE_AND_GRAVITY.md), [`MATTER.md`](MATTER.md) and [`NUCLEUS.md`](NUCLEUS.md); the rules as equations, with their grades, in [`TECHNICAL_APPENDIX.md`](TECHNICAL_APPENDIX.md); what is open in [`OPEN_DIRECTIONS.md`](OPEN_DIRECTIONS.md); everything tried and dropped in [`RECORD_OF_METHOD/`](RECORD_OF_METHOD/).
 
-The method: observe that things happen and that time goes one way; take the two primitives this says exist; infer the qualities they need to act at all, and add those that data or a known result demands (P for possibility, C for commitment); climb from those toward what is observed. Where it reproduces known physics it says so. It uses theorems (Lovelock, Meyer, Clifford, Bialynicki-Birula, Goyal–Knuth–Skilling) as any physics does, and the honest question at each is whether the primitives force the theorem's inputs or merely allow them.
+The method: observe that things happen and that time goes one way; take the two primitives this says exist; infer the qualities they need to act at all, and add those that data or a known result demands (P for possibility, C for commitment); climb from those toward what is observed. Where it reproduces known physics it says so. It uses theorems (Wald and Boulanger–Damour–Gualtieri–Henneaux, Meyer, Clifford, Bialynicki-Birula, Goyal–Knuth–Skilling) as any physics does, and the honest question at each is whether the primitives force the theorem's inputs or merely allow them.
 
 ![How CO was built: observe, deduce, rule, recover](method_arrow.svg)
 
@@ -86,11 +86,11 @@ $$\delta\varphi=\frac{4GM}{c^2b},$$
 
 twice the Newtonian value, Einstein's, with the Shapiro delay alongside.
 
-**The exterior and waves.** The network's parts can be out of step with their neighbours. Because moving places costs nothing, and resetting a clock costs nothing too (time is each commitment's own count, read only by ratio), the cost of that can depend only on how the parts fit together. For small ripples this forces Einstein's cost, the same in every direction even though the lattice is a cube (run G1). For the full exterior, with second-order field equations assumed, Lovelock's theorem makes Einstein's the only such cost in three dimensions:
+**The exterior and waves.** The network's parts can be out of step with their neighbours. Because moving places costs nothing, and resetting a clock costs nothing too (time is each commitment's own count, read only by ratio), the cost of that can depend only on how the parts fit together. For small ripples this forces Einstein's cost, the same in every direction even though the lattice is a cube (run G1). Beyond small ripples: if moving places and resetting clocks stay free at every order, and the cost stays local with two derivatives and treats all directions and motions alike, Einstein's cost is the only consistent continuation (Wald; Boulanger, Damour, Gualtieri, Henneaux), at long wavelength, reading the geometry as clock rates and stretch:
 
 $$S=\frac{1}{16\pi G}\int (R-2\Lambda)\sqrt{-g}\,d^4x .$$
 
-So: tensor waves with two polarizations and Einstein's quadrupole coefficient, and Schwarzschild outside a body. Inside matter and in the radiation era, the source is GR's too, from the travel rule, once the walk on the curved network is built. Where CO reaches, it predicts nothing different from GR.
+So: tensor waves with two polarizations and Einstein's quadrupole coefficient, and Schwarzschild–de Sitter outside a body (Schwarzschild when Λ is zero). Inside matter and in the radiation era, the source is GR's too, from the travel rule, once the walk on the curved network is built. Where CO reaches, it predicts nothing different from GR.
 
 **Three dimensions.** In one or two dimensions relations carry no waves; in even dimensions a signal leaves a tail forever; in four or more there are no stable orbits. Three is the only dimension where every rule holds and nothing is added.
 
@@ -148,9 +148,9 @@ $$\ell=\frac{\hbar}{m_{\max}c}.$$
 
 **In:** possibility and commitment; the qualities P1–P8, C1–C8; three constants of the theory's own, δ, P_max and Λ, and a birth share; G, c, ħ, 1/137 and the particle masses as measured; three exclusions from experiment (a fixed hop order, a scalar gravitational wave, a one-way hop); from quantum mechanics, the Born rule as an identification, Lüders conditioning, the joint law of an entangled pair, and an interaction's coupling and pointer basis.
 
-**Out:** one-way time; universal redshift and free fall; Newton's law, light bending, the Shapiro delay and Mercury's precession (a fit); the clock rate from the commitment cycle; tensor waves (forced at linear order by moving places and resetting clocks being free) and GR's exterior (given Lovelock's hypotheses); GR's source inside matter; three dimensions as a consistency condition; an inflation with its own exit; Friedmann's matter and radiation eras; the amplitude rule; Dirac's equation with spin ½; Maxwell's equations; two-body binding (helium, positronium, 21 cm) by identification; the exchange sign for two patterns, by identification; resonance and recoil.
+**Out:** one-way time; universal redshift and free fall; Newton's law, light bending, the Shapiro delay and Mercury's precession (a fit); the clock rate from the commitment cycle; tensor waves (forced at linear order by moving places and resetting clocks being free) and GR's exterior (given no backdrop at every order and the assumptions above); GR's source inside matter; three dimensions as a consistency condition; an inflation with its own exit; Friedmann's matter and radiation eras; the amplitude rule; Dirac's equation with spin ½; Maxwell's equations; two-body binding (helium, positronium, 21 cm) by identification; the exchange sign for two patterns, by identification; resonance and recoil.
 
-**Not yet:** the particle masses; nuclear stress; the values of δ, P_max, Λ and 1/137; colour; the nonlinear rule for the relations; any prediction that differs from established physics.
+**Not yet:** the particle masses; nuclear stress; the values of δ, P_max, Λ and 1/137; colour; the nonlinear cost on the lattice; any prediction that differs from established physics.
 
 **How it could fail:** two masses becoming entangled through gravity alone (Bose et al. 2017; Marletto–Vedral 2017); any confirmed departure from GR or the Dirac equation, as for them; a cost of mismatch that, derived, is not Einstein's.
 

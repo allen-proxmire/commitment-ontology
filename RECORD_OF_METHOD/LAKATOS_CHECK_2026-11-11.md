@@ -78,3 +78,7 @@ Extending no backdrop to the walk, a posit already held for the relations, force
 ## Update: run G4
 
 The ruling "no backdrop for the walk" could have failed on the lattice: an exactly symmetric, exactly conserved stress tensor in the staggered placement is not guaranteed on a cubic lattice. It exists, at the smallest range, for the free continuous-time stand-in. A consistency check passed, with modest risk (free matter conserves every function of momentum): the lattice form is discharged for the stand-in, but nothing new follows. **Neutral**; the gyroscope result stays neutral-to-progressive. Counts: progressive 9, accommodating 2, neutral 6.
+
+## Update: the nonlinear rule (no backdrop at every order, ruled)
+
+Einstein–Hilbert plus Λ by consistent deformation replaces the contested bootstrap and Lovelock's "metric theory" premise with CO's own (G1's linear cost, no backdrop at every order, matter coupling), plus two assumptions (locality and two derivatives at every order; Lorentz-invariant interactions) and an imported theorem. It supplies P6's self-coupling in the static case without removing the posit (the draw becoming record stays a ruling). Nothing new is predicted. **Neutral.** It also makes the frame problem load-bearing for gravity's nonlinear rule. Counts: progressive 9, accommodating 2, neutral 7.

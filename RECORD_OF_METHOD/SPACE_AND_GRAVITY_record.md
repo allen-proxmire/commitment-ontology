@@ -1497,3 +1497,7 @@ S = (c⁴/16πG) ∫ √−g (R − 2Λ) d⁴x + S_matter.
 **Not covered.** The lattice: a continuum statement at long wavelength; whether a nonlinear cost on the staggered carriers is exactly invariant under a deformed lattice relabelling is open and is where a run would bite. The theorem is classical and perturbative around flat space.
 
 **Grade.** Reading, given: (2) no backdrop at every order (proposed ruling); (3) locality and two derivatives at every order (assumption); (4) Lorentz invariance of the interactions (assumption, tied to the frame problem); and the metric identification. Imports: Wald 1986; BDGH 2001; the Feynman–Deser argument. It replaces the contested Deser route and supplies P6's self-coupling in the static case; it removes no posit outright.
+
+## 2026-11-11 — ruled: no backdrop at every order (the author's ruling, candidate)
+
+**Ruled.** Moving places and resetting clocks cost nothing at every order; the freedom may itself depend on the field. Entered in P7e. With the previous entry, the cost is Einstein–Hilbert plus Λ, given locality and two derivatives at every order and Lorentz-invariant interactions (assumptions) and the metric identification. Entered: appendix P7e and the derivation note; SPACE_AND_GRAVITY (static lapse, waves and exterior, references); OPEN_DIRECTIONS (the nonlinear rule; the frame problem now named as an assumption of gravity's nonlinear rule); README; plain doc; SCOREBOARD.

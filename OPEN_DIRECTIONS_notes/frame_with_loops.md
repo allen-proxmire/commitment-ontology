@@ -1,6 +1,6 @@
 # The frame with loops
 
-**The problem.** CO's matter walks on a lattice with a bounded number of neighbours, and any such lattice picks a frame (Bombelli–Henson–Sorkin 2009; the finite-group argument in the matter record). Gravity at long distances does not see it: Einstein's equations come back through Lovelock's theorem, which assumes a Lorentzian metric as the only field, and with it local Lorentz symmetry. Matter's loops do see it: on a frame-picking lattice they give each species its own top speed at order α/π ≈ 2 × 10⁻³ (Collins et al. 2004, by analogy for QED), against bounds near 5 × 10⁻²⁰. With number change held, CO has no loops yet; nature has them, so the problem is deferred, not avoided.
+**The problem.** CO's matter walks on a lattice with a bounded number of neighbours, and any such lattice picks a frame (Bombelli–Henson–Sorkin 2009; the finite-group argument in the matter record). Gravity's nonlinear rule rests on the same question: Einstein's equations come back by consistent deformation (Wald; Boulanger–Damour–Gualtieri–Henneaux), which assumes Lorentz-invariant interactions. Matter's loops do see it: on a frame-picking lattice they give each species its own top speed at order α/π ≈ 2 × 10⁻³ (Collins et al. 2004, by analogy for QED), against bounds near 5 × 10⁻²⁰. With number change held, CO has no loops yet; nature has them, so the problem is deferred, not avoided.
 
 
 ## Technical statement
