@@ -28,6 +28,7 @@ with ξ_i of order one and set by the regulator's shape, not suppressed by ℓ (
 | frame only in gravity | Pospelov–Shang 2012, suppression (M_LV/M_Pl)² | not available: matter walks on the network |
 | fermion–boson symmetry | Groot Nibbelink–Pospelov 2005; breaking below about 10⁷ GeV by the (M_SUSY/M)² scaling against CO's hop scale | no partners in CO |
 | common origin, two scales | Klinkhamer–Volovik 2005 (hep-ph/0505033); Volovik, *The Universe in a Helium Droplet* (2003): light and gravity induced by the same fermions near a Fermi point are Lorentz invariant up to (E_Pl/E_LV)² | needs E_LV ≫ E_Pl; CO has E_LV = ħc/ℓ ≤ E_Pl/3.5 (about 1.4 × the reduced Planck energy at most) |
+| no backdrop held exactly on the lattice | would conserve the total energy current, forcing equal speeds | excluded for interacting matter: periodic dispersion makes the energy current a non-invariant of 2 → 2 scattering (matter record, 2026-11-11) |
 | tuning | \|ξ_e − ξ_γ\| ≲ 10⁻¹⁷ | permitted, unexplained; not accepted by the author |
 
 **What a CO-shaped protecting symmetry must do.** Act exactly on a finite-degree network in real time; relate the walk (matter) and the link (light), since the dangerous difference is between them; survive the Wilson term; and force equal dimension-four speeds as a consequence, as hypercubic symmetry does on a Euclidean lattice. None is known. Failing one, the next route is Way B (discreteness in values, not places), which reverses the classical-amounts ruling and with it the falsifier.
