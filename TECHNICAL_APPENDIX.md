@@ -21,6 +21,7 @@ Each rule's grade is in its own column: posited (a quality the author has decide
 | P7d | a relation carries a which-way phase φ_ij ∈ U(1) | candidate |
 | P7e | no backdrop: moving or relabelling places, and resetting a place's clock (with the shift of its lapse), cost nothing; at linear order on the cubic graph this forces the relations' cost to linearised Einstein–Hilbert, isotropic (run G1) | places: posited. clocks: the author's ruling, candidate. the linear cost: needed, given both |
 | P8 | two routes meeting at a place combine as p = \|√p₁ e^{iθ₁} + √p₂ e^{iθ₂}\|² | imported theorem (Goyal–Knuth–Skilling: forced by conservation in passing, scalelessness and associativity) |
+| P8b | two patterns of one kind: the exchange factor is flat on the graph (no phase around elementary squares once the which-way phase is removed), so in three dimensions it is ±1; its value is the factor the internal states pick up as the places' frames carry them through the swap, (−1)^{2s} | the author's rulings, candidate; ±1 needed given flatness (Leinaas–Myrheim) |
 
 **Commitment.**
 

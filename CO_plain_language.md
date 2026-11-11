@@ -136,7 +136,7 @@ $$\ell=\frac{\hbar}{m_{\max}c}.$$
 
 **Two patterns.** What a relation carries is one number for each arrangement of what passes. With that, two Dirac walks give helium, positronium and hydrogen's 21 cm line, by identification with standard two-body quantum mechanics.
 
-**Statistics.** Electrons refuse to share a state; light piles into one. CO's walk is compatible with the refusing kind, not forced to it. What two patterns do on the same possibility is open.
+**Statistics.** Electrons refuse to share a state; light piles into one. Two identical patterns can reach the same arrangement two ways, directly or swapped. In three dimensions, if the network adds no stray twist of its own, swapping twice is a loop that shrinks to nothing, so the swap can only add (+1) or cancel (−1). Which one: a swap can be undone into one pattern turning a full turn against the other, and the walk's state is a spinor, which a full turn flips. So spin-½ patterns cancel and refuse to share; whole-spin ones add and pile in. What two patterns do on the same possibility beyond the sign is open.
 
 **Entanglement.** An entangled pair is one pattern sampled twice: one stock, cut once at each end, each end finding it as it stands in its own past. The joint law is taken from quantum mechanics.
 
@@ -148,9 +148,9 @@ $$\ell=\frac{\hbar}{m_{\max}c}.$$
 
 **In:** possibility and commitment; the qualities P1–P8, C1–C8; three constants of the theory's own, δ, P_max and Λ, and a birth share; G, c, ħ, 1/137 and the particle masses as measured; three exclusions from experiment (a fixed hop order, a scalar gravitational wave, a one-way hop); from quantum mechanics, the Born rule as an identification, Lüders conditioning, the joint law of an entangled pair, and an interaction's coupling and pointer basis.
 
-**Out:** one-way time; universal redshift and free fall; Newton's law, light bending, the Shapiro delay and Mercury's precession (a fit); the clock rate from the commitment cycle; tensor waves (forced at linear order by moving places and resetting clocks being free) and GR's exterior (given Lovelock's hypotheses); GR's source inside matter; three dimensions as a consistency condition; an inflation with its own exit; Friedmann's matter and radiation eras; the amplitude rule; Dirac's equation with spin ½; Maxwell's equations; two-body binding (helium, positronium, 21 cm) by identification; resonance and recoil.
+**Out:** one-way time; universal redshift and free fall; Newton's law, light bending, the Shapiro delay and Mercury's precession (a fit); the clock rate from the commitment cycle; tensor waves (forced at linear order by moving places and resetting clocks being free) and GR's exterior (given Lovelock's hypotheses); GR's source inside matter; three dimensions as a consistency condition; an inflation with its own exit; Friedmann's matter and radiation eras; the amplitude rule; Dirac's equation with spin ½; Maxwell's equations; two-body binding (helium, positronium, 21 cm) by identification; the exchange sign for two patterns, by identification; resonance and recoil.
 
-**Not yet:** the particle masses; the exchange sign; nuclear stress; the values of δ, P_max, Λ and 1/137; colour; the nonlinear rule for the relations; any prediction that differs from established physics.
+**Not yet:** the particle masses; nuclear stress; the values of δ, P_max, Λ and 1/137; colour; the nonlinear rule for the relations; any prediction that differs from established physics.
 
 **How it could fail:** two masses becoming entangled through gravity alone (Bose et al. 2017; Marletto–Vedral 2017); any confirmed departure from GR or the Dirac equation, as for them; a cost of mismatch that, derived, is not Einstein's.
 

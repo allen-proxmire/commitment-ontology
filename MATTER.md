@@ -30,7 +30,7 @@ With ℓ = ℓ_P√(4π/δ) this gives δ ≳ 2 × 10⁻⁷ and a heaviest patte
 
 **Charge.** A relation carries a which-way phase that reverses with direction, e^{iA}: a U(1) link. Its unique quadratic cost is Maxwell's. Charge is a sign a pattern carries on the relations it uses; each hop carries e^{±iqA}, which is minimal coupling and gives g = 2 at tree level. The antiparticle is the same pattern with the opposite sign. The strength, 1/137, is from data.
 
-**Statistics.** The walk is symmetric under swapping the carried sign; with the generator odd under the swap, the walk second-quantised in the standard way admits only anticommutators (Pauli 1940). Fermi statistics is compatible with the walk, not forced by it.
+**Statistics.** Two patterns of one kind reach the same configuration by a direct and an exchanged route. In three dimensions, with no coincidence and a flat exchange factor (no stray phase around the network's elementary squares, once the which-way phase is removed), the relative factor can only be ±1 (Leinaas and Myrheim 1977). Which sign: the swap can be deformed into one pattern's internal state turning a full turn against the other's, carried by the places' frames, and the walk's state is a spinor, so the factor is (−1)^{2s}: −1 for spin ½ (electrons, helium-3: exclude), +1 for whole spin (helium-4, rubidium-87, photons: merge). Assumes the nucleons are walk patterns and the photon turns with whole spin. For three or more patterns, parastatistics is not excluded. The walk second-quantised in the standard way admits only anticommutators (Pauli 1940), consistent with this.
 
 ## Two patterns
 

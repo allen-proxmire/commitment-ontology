@@ -26,7 +26,7 @@ The count is measured, not free: the e⁺e⁻ → hadrons ratio and the π⁰ �
 
 ## What a third primitive would cost
 
-A third primitive is admissible on a named contradiction (the rules make the proton elementary; experiment makes it composite) and worth admitting only if it cascades to a second open problem. Filling the slot would take at least four posits: which transit carries the triplet; a 3 × 3 unitary matching on relations with its cost; unit determinant (else a ninth massless vector couples to baryon number, excluded at 10⁻⁴⁷); and a scale. With those, Yang–Mills is the unique quadratic cost. Even then the proton is unbuilt: one triplet gives spin 3/2, not ½; Fermi statistics is open; confinement is named, not obtained; the gluon field would need second quantisation; the fractional charges need charge to become a rational multiple. It cascades to the hadron spectrum and no further. Not earned.
+A third primitive is admissible on a named contradiction (the rules make the proton elementary; experiment makes it composite) and worth admitting only if it cascades to a second open problem. Filling the slot would take at least four posits: which transit carries the triplet; a 3 × 3 unitary matching on relations with its cost; unit determinant (else a ninth massless vector couples to baryon number, excluded at 10⁻⁴⁷); and a scale. With those, Yang–Mills is the unique quadratic cost. Even then the proton is unbuilt: one triplet gives spin 3/2, not ½; the exchange sign of a triplet is not built; confinement is named, not obtained; the gluon field would need second quantisation; the fractional charges need charge to become a rational multiple. It cascades to the hadron spectrum and no further. Not earned.
 
 ## Quarks and gluons (shape)
 
