@@ -20,7 +20,7 @@ GR has no global now; QM has no event. CO takes both as primitives: commitment a
 
 ## Two things exist. The two primitives. 
 
-**Possibility** is the stuff of the universe. It sits at places and moves between places that are related. It is conserved in everything that passes and commits between places; each new place is born with its share (candidate), so the amount per place need not thin as space grows.
+**Possibility** is the stuff of the universe. It sits at places and moves between places that are related. It is conserved in every hop; every draw (a renewal, travel, light, field energy) turns a little into record, which is no longer possibility, so between births possibility plus record never changes, and possibility only ever becomes record, never the reverse (the author's ruling, candidate); each new place is born with its share (candidate), so the amount per place need not thin as space grows.
 - Ruling P1, *scaleless:* the substrate has no scale of its own, and a hop compares neighbouring places by ratio, the choice scalelessness favours; with the lapse weighting of a conserved flux it is consistent with GR's exterior (given the cost's spatial equation), and Mercury excludes the other pairings. The field is linear in ln P. P is an amount, |a|² where possibility has an amplitude a; the rule acts on amounts and says nothing about phase. Each hop moves one quantum, ħ (candidate).
 - Ruling P2, *capacity:* a place holds at most P_max of free possibility. Over capacity, it commits. The vacuum today is under capacity.
 - Ruling P3, *hold-and-release:* possibility engaged by a commitment is released when it completes, less the share C3 keeps as record; nothing is destroyed. Free possibility at a place is P_free = P(1 − h), h the fraction engaged.

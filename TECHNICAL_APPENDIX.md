@@ -8,7 +8,7 @@ Every statement carries its grade (ruled, candidate, needed, excluded, shape, si
 
 | rule | statement |
 |---|---|
-| conservation | Σ_i P_i is unchanged by every passing and every commitment (ruled); births add P_b each, a new place born with its share P_b = P∞ = (d/2)f, f the feed per relation (needed, given the held ruling; R5's (d − 1)ħ agrees only at f ≈ 1.67ħ, open) |
+| conservation | Σ_i P_i is unchanged by every hop (ruled); every draw (C3's δħ per repeat; P6's travel, light and field energy) turns possibility into record, so between births Σ_i (P_i + R_i) is unchanged and dR ≥ 0 (the author's ruling, candidate); births add P_b each, a new place born with its share P_b = P∞ = (d/2)f, f the feed per relation (needed, given the held ruling; R5's (d − 1)ħ agrees only at f ≈ 1.67ħ, open) |
 | P1 | a hop moves one quantum, q = ħ (candidate), and compares neighbours by ratio: the flow on ⟨ij⟩ is J_ij = κ ln(P_free,i / P_free,j), κ the hop's conductance (ruled) |
 | P2 | P_free,i ≤ P_max; above it the place commits (ruled) |
 | P3 | P_free,i = P_i(1 − h_i), h_i the engaged fraction; what a commitment engaged is released on completion, less C3's record (ruled) |
@@ -22,7 +22,7 @@ Every statement carries its grade (ruled, candidate, needed, excluded, shape, si
 
 | rule | statement |
 |---|---|
-| C1 | a commitment, on completing, engages ħ of adjacent free possibility (or, through a channel, a quantum in transit, C8), releases what it held, and adds one to its count n; it halts when none is adjacent (ruled). Each beat engages the free share 1 − h of what it meets, carrying the remainder, and a tick completes when a whole ħ is engaged (the free-share rule, candidate, end of §1) |
+| C1 | a commitment, on completing, engages ħ of adjacent free possibility (or, through a channel, a quantum in transit, C8), releases what it held, less C3's record, and adds one to its count n; it halts when none is adjacent (ruled). Each beat engages the free share 1 − h of what it meets, carrying the remainder, and a tick completes when a whole ħ is engaged (the free-share rule, candidate, end of §1) |
 | C2 | a commitment repeats at ω = (mc²/ħ)(1 − h) (ruled; its derivation from C1 and C4 under the free-share rule is candidate, end of §1) |
 | C3 | each repeat keeps δħ as record (candidate); dR/dt ≥ 0; record is what possibility became, not possibility, and does not count in a place's P (the author's ruling, candidate) |
 | C4 | every commitment engages ħ; mass is the repeat rate, ω₀ = mc²/ħ (ruled) |

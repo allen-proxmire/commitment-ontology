@@ -6,7 +6,7 @@ Results only. The working record, with every route tried and every withdrawal, i
 
 | primitive | statement |
 |---|---|
-| **Possibility** | a quantity held at places, moving between related places, conserved in all passing and committing; each new place is born with its share (candidate); counted in quanta of ħ (units of action) |
+| **Possibility** | a quantity held at places, moving between related places, conserved in every hop; every draw turns some into record, so between births P + R is conserved and possibility only becomes record (the author's ruling, candidate); each new place is born with its share (candidate); counted in quanta of ħ (units of action) |
 | **Commitment** | one irreversible update to possibility, at a place |
 
 Added principles: the substrate is scaleless; sliding or relabelling places costs nothing (there is no backdrop); second-order field equations (no higher-derivative costs).
