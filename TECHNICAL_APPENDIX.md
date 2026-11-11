@@ -22,8 +22,8 @@ Every statement carries its grade (ruled, candidate, needed, excluded, shape, si
 
 | rule | statement |
 |---|---|
-| C1 | a commitment, on completing, engages ħ of adjacent free possibility (or, through a channel, a quantum in transit, C8), releases what it held, and adds one to its count n; it halts when none is adjacent (ruled). Each beat draws ħ evenly from the place's possibility and completes only if what it draws is free (the even draw, candidate, end of §1) |
-| C2 | a commitment repeats at ω = (mc²/ħ)(1 − h) (ruled; its derivation from C1 and C4 under the even draw is candidate, end of §1) |
+| C1 | a commitment, on completing, engages ħ of adjacent free possibility (or, through a channel, a quantum in transit, C8), releases what it held, and adds one to its count n; it halts when none is adjacent (ruled). Each beat engages the free share 1 − h of what it meets, carrying the remainder, and a tick completes when a whole ħ is engaged (the free-share rule, candidate, end of §1) |
+| C2 | a commitment repeats at ω = (mc²/ħ)(1 − h) (ruled; its derivation from C1 and C4 under the free-share rule is candidate, end of §1) |
 | C3 | each repeat keeps δħ as record (candidate); dR/dt ≥ 0 |
 | C4 | every commitment engages ħ; mass is the repeat rate, ω₀ = mc²/ħ (ruled) |
 | C5 | a pattern in transit carries a phase θ advancing by one cycle per repeat (ruled; the matter sector's one addition) |
@@ -48,7 +48,7 @@ Every statement carries its grade (ruled, candidate, needed, excluded, shape, si
 | P7 which-way phase | match (minimal coupling) | charge, g = 2, Aharonov–Bohm, two-body binding |
 | P8 meeting | theorem (conservation, scalelessness, associativity) | interference, the amplitude rule |
 | C1 renewal | nature (an act that repeats while fed) | matter's persistence, the sink |
-| C2 clock | theorem from C1 and C4 under the even draw (candidate); the draw is data (redshift), its power one is data (Cassini) | redshift, the lapse, free fall |
+| C2 clock | theorem from C1 and C4 under the free-share rule (candidate); the rule is data (redshift; clock coherence against chance ticks, if h counts every mass), its power one is data (Cassini) | redshift, the lapse, free fall |
 | C3 retention; fixed share δħ | retention nature (the record only grows); fixed form data (lunar ranging excludes a drifting G) | the arrow of time, the sink; fixed form: G constant |
 | C4 one quantum | nature and data (ħ) | mass as frequency |
 | C5 phase | posit (the matter sector's one addition; interference needs it) | the walk's waves |
@@ -64,21 +64,26 @@ Of eighteen entries, two are tagged *match* alone: the travel rule, which suppli
 - *One walk:* P5, C5 and C6 together define transit: hops that keep direction, a phase, and the flip (P5 also acts in formation, lining up relations, R5).
 - *Not qualities:* P4 at equal P and P8 follow from others; C7 is an initial condition.
 
-**The clock from the cycle (candidate).** By C4 a commitment beats at ω₀ = mc²/ħ; by C1 each beat must engage ħ of free possibility. Possibility at a place carries no mark but free or engaged, so with no further rule a beat lands on the place's possibility evenly (the *even draw*): it finds free possibility with chance 1 − h, and only then completes and counts. The completions, which are the clock's ticks, come at
+**The clock from the cycle (candidate).** By C4 a commitment beats at ω₀ = mc²/ħ; by C1 each beat must engage ħ of free possibility. Possibility at a place carries no mark but free or engaged, and the free share 1 − h is set by the place's relations: what hopping brings in against what the sink draws (step 1). Each beat advances the commitment by that share, carrying the remainder, and a tick completes when a whole ħ has been engaged (the *free-share rule*, the author's ruling, candidate). The ticks come regularly, not by chance, at
 
 $$\omega=\omega_0(1-h)=\frac{mc^{2}}{\hbar}(1-h),$$
 
-which is C2. Two other readings are excluded:
+which is C2. Two other readings are excluded, and a third is excluded if h counts every mass:
 - *It takes free possibility wherever it lies.* While at least ħ is free nearby, nothing waits, ω = ω₀ for every h, and there is no gravitational redshift: excluded by Pound–Rebka and Gravity Probe A.
-- *An engagement is n quanta, each drawn evenly.* Then ω = ω₀(1 − h)ⁿ and N = e^{−nU}. The route factor (step 4) does not change, so g_ij = e^{2U}δ_ij against g₀₀ = −e^{−2nU} gives γ = 1/n. Cassini's γ − 1 = (2.1 ± 2.3)×10⁻⁵ forces n = 1. If each sub-draw is one hop quantum (n = ħ/q), this is q = ħ from a second direction (candidate).
+- *An engagement is n quanta, each needing the free share.* Then ω = ω₀(1 − h)ⁿ and N = e^{−nU}. The route factor (step 4) does not change, so g_ij = e^{2U}δ_ij against g₀₀ = −e^{−2nU} gives γ = 1/n. Cassini's γ − 1 = (2.1 ± 2.3)×10⁻⁵ forces n = 1. If each part is one hop quantum (n = ħ/q), this is q = ħ from a second direction (candidate).
+- *Each beat completes by chance, with probability 1 − h.* The mean rate is again C2, but a clock's own time then wanders by σ_τ = √(h t/ω₀), and two atoms with clock transition ω_tr lose step after
 
-So C2 is C1 and C4 under the even draw, and the even draw is the reading the redshift needs among those listed (candidate: the list is not exhaustive). One consequence is open (shape): the ticks are chance completions, so a clock of N_b beats keeps time with a scatter of √(h/[(1 − h)N_b]) ≈ √(h/N_b) in proportion. Its size depends on what h is measured against (step 2 sets h = 0 far away), and it is not computed.
+$$T_c=\frac{\omega_0}{\omega_{\text{tr}}^{2}\,h}.$$
+
+For the bound, an atom's count is its whole, ω₀ = Mc²/ħ; independent counts of its parts give the same σ_τ, since their rates add. For strontium (ω₀ = Mc²/ħ = 1.2×10²⁶ s⁻¹, ω_tr = 2.7×10¹⁵ s⁻¹), atoms in one lattice stay in step for 26 s (Zheng et al., Nature 602, 425, 2022), so h ≲ 7×10⁻⁷. The galaxy's potential at the Sun, |Φ|/c² ≈ 1–2×10⁻⁶, already exceeds this, and the bound is 10⁵ times tighter if a transition follows the electron's own beat. Excluded if h counts every mass.
+
+So C2 is C1 and C4 under the free-share rule (candidate: the list of readings is not exhaustive). Under it the leftover share carries to the next beat, so tick times stray from uniform by less than one beat (1/ω₀ ≈ 10⁻²⁶ s for Sr) and never build up; only differences in h are seen, as in GR.
 
 On that count the qualities fall into about eight groups: conservation with the birth share, ratio hopping in quanta, capacity, relations with occupancy and phase, the draw, the commitment cycle, the walk, and measurement. Separate choices remain inside them: q = ħ, the birth share, the palindromic order and Wilson form, light's one G, field energy as an amount, amounts classical.
 
 ## 2. One derivation: the weak-field metric
 
-**Step 1: the static field equation.** At rest, every place's flows balance its sink. By P1 the net inflow to place i is κ Σ_j ln(P_free,j / P_free,i); by C3 and C2 the sink of a pattern of mass M is δħ per repeat at ω₀ = Mc²/ħ, δħ·ω₀ = δMc², i.e. δMc²/ħ quanta per unit time. With the conductance of a hop moving one quantum per tick, κ = ħ/τ per relation, and the lattice Laplacian Σ_j(f_j − f_i) → ℓ²∇²f (cubic lattice, d = 6; other networks change this by a factor of order one),
+**Step 1: the static field equation.** At rest, every place's flows balance its sink. By P1 the net inflow to place i is κ Σ_j ln(P_free,j / P_free,i); by C3 and C2 the sink of a pattern of mass M is δħ per repeat at ω₀ = Mc²/ħ (to leading order in U), δħ·ω₀ = δMc², i.e. δMc²/ħ quanta per unit time. With the conductance of a hop moving one quantum per tick, κ = ħ/τ per relation, and the lattice Laplacian Σ_j(f_j − f_i) → ℓ²∇²f (cubic lattice, d = 6; other networks change this by a factor of order one),
 
 $$\ell^{2}\nabla^{2}\ln P_{\text{free}}\cdot\frac{\hbar}{\tau}=\delta\,M c^{2}\,\ell^{3}\,\delta^{3}(\mathbf r)\quad\Rightarrow\quad\nabla^{2}\ln P_{\text{free}}=\sigma\,\delta^{3}(\mathbf r),\qquad \sigma=\frac{\delta M c\,\ell^{2}}{\hbar}.$$
 
@@ -110,7 +115,7 @@ $$\gamma=1,\qquad \beta=1.$$
 
 **Free fall,** from the same field: a matter wave of frequency ω = (mc²/ħ)(1 − h) refracts toward higher h, and its group moves as g = c²∇h = c²e^{−U}∇U = c²∇U·(1 + O(U)), toward the mass: Newton's acceleration, independent of m.
 
-**What the derivation uses, in one line.** Ratio hopping (ruled), one quantum per hop (candidate), the fixed share δħ (candidate), C2's clock (ruled; via the even draw, candidate), the route factor (ruled, given the occupancy, candidate), and P = P∞ at a place (identification). Beyond the weak field, Lovelock's theorem (given its hypotheses) supplies the exterior; that step uses an imported theorem.
+**What the derivation uses, in one line.** Ratio hopping (ruled), one quantum per hop (candidate), the fixed share δħ (candidate), C2's clock (ruled; via the free-share rule, candidate), the route factor (ruled, given the occupancy, candidate), and P = P∞ at a place (identification). Beyond the weak field, Lovelock's theorem (given its hypotheses) supplies the exterior; that step uses an imported theorem.
 
 **What kind of derivation this is.** It is derived from CO's rules, step by step, with nothing fitted to the gravitational field except one choice: the hop's pairing, which scalelessness favours and Mercury selects among local power laws. Newton's 1/r, the form of G, universal redshift, free fall and γ = 1 follow without it. Three inputs are candidate (one quantum per hop; the fixed share; the occupancy behind the route factor), one is an identification (P = P∞), and κ = ħ/τ is a choice. It is not a derivation from the two primitives alone.
 
