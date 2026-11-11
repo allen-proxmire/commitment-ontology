@@ -58,3 +58,7 @@ The draw's single strength needs local conservation of the walk's stress tensor,
 ## Update: local conservation shown
 
 The walk's energy and momentum are conserved place by place with finite-range currents (G2 check). The single coupling's premise holds for the free walk up to O(ℓ²): "the draw sets the relations" returns to progressive at linear order. Counts: progressive 8, accommodating 3, neutral 3.
+
+## Update: run G3, the carriers' placement
+
+Asking that no backdrop hold exactly on the lattice, not just at long wavelength, selects one placement among the three tested at nearest-neighbour range: size (held share, stretch) at places, direction (one-way part, displacement) on relations, shear on the squares. An existing posit now places the carriers; before, the placement was chosen to fit GR's components. "A frame per place" is replaced, and shear on squares moves from accommodating to **progressive** (selected, not fitted). The one-way part stays accommodating: G3 requires it on relations but did not add a reason it exists. A cost: P∞ = (d/2)f loses its derivation, which rested on relations holding the excess, so that bonus is withdrawn until it is re-derived for places. Counts: progressive 9, accommodating 2, neutral 3; one bonus withdrawn.
