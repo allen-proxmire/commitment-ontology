@@ -1060,3 +1060,10 @@ Question: is C2 (ω = ω₀(1 − h)) a separate quality, or does it follow from
 ## 2026-11-10 — the free-share rule: regular ticks, not chance (the author's ruling, candidate; after cold reading)
 
 The even draw read as chance completions predicts clock noise σ_τ = √(h t/ω₀) and atom–atom decoherence after T_c = ω₀/(ω_tr² h). Strontium atoms stay in step 26 s (Zheng et al. 2022), so h ≲ 7×10⁻⁷ (about 1×10⁻⁷ if a beat is a cycle), below the galaxy's |Φ|/c² ≈ 1–2×10⁻⁶; 10⁵ tighter if a transition followed the electron's own beat. The author's ruling: beats do not complete by chance; the rate is set by the relations (hopping in against the sink). Written as the free-share rule: each beat advances by the share 1 − h, carrying the remainder, and a tick completes at a whole ħ. Same C2, no scatter, only differences in h seen. Chance reading excluded if h counts every mass.
+
+## 2026-11-10 — "record becomes relation" against the current rules (one exclusion by size; one silence)
+
+The author's long-held picture: record, over time, becomes relation; space is made of what has happened. Read against the rules in three parts.
+- *Space's stuff, from record made since the radiation era: excluded by size.* Record kept in place grows per comoving volume at δρ_m c² (matter era; the radiation era adds ≈ 4δρ_m c² t_eq, negligible), so today it is at most δρ_m c² t₀/ħ ≈ 2×10³⁵ δ/(2×10⁻⁷) ħ per m³. Places number ℓ⁻³ with ℓ = ℓ_P√(4π/δ). Record per place: 4×10⁻⁵⁸ ħ at δ = 2×10⁻⁷, 2×10⁻⁶¹ ħ at δ = 1 (it falls as δ rises, since places multiply faster than record). A relation needs about ħ of feed; record falls short by 57–61 orders at every allowed δ. The same size test moved the feed of relations from transit to free possibility.
+- *Space's stuff at the beginning: silence.* The first epoch's places came from the first commitments' repeats, so there space was made by what happened. How much record that epoch left is not computed.
+- *Space's shape: partly.* The field is set by the sink, the rate at which record is made (step 1), not by the record stored. What is happening, not what has happened, shapes space (shape).

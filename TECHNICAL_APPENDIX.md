@@ -59,7 +59,7 @@ Every statement carries its grade (ruled, candidate, needed, excluded, shape, si
 Of eighteen entries, two are tagged *match* alone: the travel rule, which supplies ρ + S in several settings, and the which-way phase, which carries charge, g = 2, Aharonov–Bohm and two-body binding. C8 is matched and narrowed by data.
 
 **Can the set be smaller?** Several qualities are versions of one thing (shape; a merge changes no content; it shows which rules state one assumption more than once):
-- *One commitment cycle:* C1, C3, C4 and P3 describe one act: engage ħ of adjacent free possibility, hold it, release it less δħ kept as record, repeat while fed, at ω = mc²/ħ. C2 follows from it, given one reading (below).
+- *One commitment cycle:* C1, C2, C3, C4 and P3 describe one act: engage ħ of adjacent free possibility, hold it, release it less δħ kept as record, repeat while fed, at ω = (mc²/ħ)(1 − h). The clock, C2, follows from the rest under the free-share rule (below).
 - *One draw:* P6 and the draw half of C3 say the same thing: every draw (turning once, travel twice, light 2E) is δ of its energy and becomes record.
 - *One walk:* P5, C5 and C6 together define transit: hops that keep direction, a phase, and the flip (P5 also acts in formation, lining up relations, R5).
 - *Not qualities:* P4 at equal P and P8 follow from others; C7 is an initial condition.
