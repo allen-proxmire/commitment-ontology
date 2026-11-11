@@ -13,7 +13,7 @@ Results only. Grades are in [`TECHNICAL_APPENDIX.md`](TECHNICAL_APPENDIX.md); ev
 | **Time** | matter's count, read only by ratio |
 | **Record** | what every draw keeps: δħ per renewal, and a share of travel, light and field energy. Not possibility. It only grows: the arrow of time |
 | **Pattern** | possibility in transit between commitments. It keeps its mean direction (inertia). A closed whole draws its turning once and its travel twice; light draws 2ħω |
-| **Relation** | who passes possibility to whom. It carries an occupancy (a length, possibly different each way) and a which-way phase |
+| **Relation** | who passes possibility to whom. It carries direction-reversing quantities: a one-way part and a which-way phase. Places carry size (the held share, the stretch); the squares between relations carry shear |
 
 The substrate is scaleless; moving or relabelling places, and resetting a place's clock, cost nothing (there is no backdrop, in space or in time); field equations are second order.
 
@@ -51,7 +51,7 @@ $$S=\frac{1}{16\pi G}\int (R-2\Lambda)\sqrt{-g}\,d^4x .$$
 
 Tensor waves with two polarizations and Einstein's quadrupole coefficient; Schwarzschild outside a body. The mass that sets the exterior is GR's for dust and Tolman's, ∫(ρ + S)N√γ d³x, for pressure-supported bodies short of nuclear stress, given the walk on the curved network and P = P∞ at a place (an identification).
 
-**What carries each part.** Lapse: the share each place's relations hold. Stretch: the relations' lengths. Frame dragging: the one-way part of the occupancy, which behaves like a U(1) link (only its loops are physical). Shear: a frame at each place. Each is set by the matching part of the source: ρ + S, the diagonal stress, the momentum density, the off-diagonal stress.
+**What carries each part.** Lapse and stretch: each place's held share and its stretch. Frame dragging: each relation's one-way part, which behaves like a U(1) link (only its loops are physical). Shear: the squares between relations. This staggered placement is the one on which no backdrop holds exactly on the lattice (run G3). Each is set by the matching part of the source: ρ + S, the diagonal stress, the momentum density, the off-diagonal stress.
 
 **Classical source.** The free stock and h are classical, so a superposed mass sources h by its mean: Møller–Rosenfeld semiclassical gravity, with Schrödinger–Newton as its Newtonian limit. Page–Geilker (1981) excludes a mean source for a body never resolved; CO escapes only if the engagements a large body undergoes resolve it (the engagement criterion, open). So CO expects no entanglement through gravity; Bose et al. 2017 and Marletto–Vedral 2017 would test it, and entanglement through gravity alone would make CO wrong. The sink's shot noise is φ ≈ ωU√(τ/Γ): about 8 × 10⁻³⁶ rad in one second per nucleon on an electron clock at 10⁻¹⁰ m. Costs, open: a mean source that jumps when a body is resolved is not conserved at the jump; the mean-field term must not signal; a linear classical–quantum coupling would carry noise (Oppenheim et al. 2023), which CO avoids only by being nonlinear.
 

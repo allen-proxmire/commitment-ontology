@@ -25,7 +25,7 @@ GR has no global now; QM has no event. CO takes both as primitives. A commitment
 - P4, *toward engagement:* on each relation, possibility flows toward the end that is engaging more. A rule about one link; it needs no "at the same time."
 - P5, *inertia:* possibility in transit keeps its direction until a commitment redirects it.
 - P6, *transit draws:* possibility in transit is not free. A closed whole draws its turning once and its travel twice; light draws twice its energy. Every draw becomes record and puts the relations around it out of step.
-- P7, *relations:* space is who passes possibility to whom. A relation carries an occupancy (a length, which can differ a little each way) and a which-way phase. The out-of-step part of a relation holds possibility. Sliding or relabelling places, or resetting a place's clock, costs nothing: there is no backdrop, in space or in time.
+- P7, *relations:* space is who passes possibility to whom. Relations carry direction: a one-way part (passing can be a little slower one way) and a which-way phase. Places carry size: how much of their possibility is held, and how stretched they are. The squares between relations carry twist (shear). Sliding or relabelling places, or resetting a place's clock, costs nothing: there is no backdrop, in space or in time.
 - P8, *meeting:* when two routes bring possibility to one place, the amounts combine as |√p₁e^{iθ₁} + √p₂e^{iθ₂}|².
 
 **Commitment** is the act: one irreversible update to possibility, at a place.
