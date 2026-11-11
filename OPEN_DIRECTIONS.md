@@ -20,7 +20,7 @@ What is open, each with its status and what it would take. Status words: candida
 - **Doublers.** The remaining copies are predicted charged particles above 10¹⁴ GeV. *Takes:* a cancellation, or an account of them.
 - **Number change.** Held: priced, not added. The smallest rule (a route passing through configurations with a pair added) carries the loop exposure above.
 - **Loop effects.** Silence: the anomalous moment, the Lamb shift, the running of α, the Casimir force are measured; CO has no account of them yet.
-- **Dark matter.** Shape: a pattern that commits but never measures. Permitted, not predicted ([`OPEN_DIRECTIONS_notes/dark_matter.md`](OPEN_DIRECTIONS_notes/dark_matter.md)).
+- **Dark matter.** Shape: a pattern that commits but never measures. Permitted, not predicted. Given the shape, the rules now say: it gravitates with the same single coupling (linear order), new places make none of it, it is free of the frame problem's loop split, and, given CO's present inventory, it is a fermion and so not ultralight (m ≥ 0.13 keV from dwarf galaxies; fuzzy dark matter excluded) ([`OPEN_DIRECTIONS_notes/dark_matter.md`](OPEN_DIRECTIONS_notes/dark_matter.md)).
 - **The masses.** Silence. **1/137.** Input.
 
 ## Nucleus
