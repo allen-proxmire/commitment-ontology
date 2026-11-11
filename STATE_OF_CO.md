@@ -6,10 +6,6 @@ The results are in [`SPACE_AND_GRAVITY.md`](SPACE_AND_GRAVITY.md), [`MATTER.md`]
 
 The method: observe that things happen and that time goes one way; take the two primitives this says exist; infer the qualities they need to act at all, and add those that data or a known result demands (P for possibility, C for commitment); climb from those toward what is observed. Where it reproduces known physics it says so. It uses theorems (Wald and Boulanger–Damour–Gualtieri–Henneaux, Meyer, Clifford, Bialynicki-Birula, Goyal–Knuth–Skilling) as any physics does, and the honest question at each is whether the primitives force the theorem's inputs or merely allow them.
 
-![How CO was built: observe, deduce, rule, recover](method_arrow.svg)
-
-*How CO was built.*
-
 ## The idea in one paragraph.
 
 Time is a count of things that have happened. Not a river, not a dimension: a count. Something happens, and it cannot be undone. That is one tick. Matter is something that keeps happening, and is ticking. Where nothing happens, there is no time. Start from this and ask what physics has to look like.
