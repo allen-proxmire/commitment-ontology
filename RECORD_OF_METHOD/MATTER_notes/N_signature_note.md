@@ -4,6 +4,8 @@
 
 **The signature.** Reversal recovers signal up to a breadth K ≈ N and then stops, at the same K whatever the coupling strength and whatever the perturbation. Ordinary mechanisms also limit reversal. Some move with the perturbation: localisation sizes shrink as the perturbation grows (Álvarez, Suter and Kaiser, Science 349, 846 (2015)). Others are perturbation-independent: a Loschmidt-echo decay rate set by the coupling itself (Sánchez et al. 2020), and since cluster growth also tracks the coupling, the breadth at which recovery is lost could stay put under both knobs without any new physics. The distinguishing mark is a ceiling fixed in breadth while the coupling-to-perturbation ratio, the system size and the control fidelity are all varied.
 
+**Measure size, not time.** Breadth in a real system grows by multiplication (gain g per step of time τ), so the time to reach N is t_N = τ ln N / ln g. A breadth of 50 and one of 10⁶ are reached within a factor of about 3.5 in time, so a delay or a timescale says little about N. The mark is the breadth at which reversal stops.
+
 **What counts as a test.** Two conditions:
 1. **The spreading is carried by the system's own interactions,** such as energy-conserving flip-flops, exchange or excitation hopping. A drive may flip the sign of the Hamiltonian or scale it, with no net energy exchanged per cycle, but it must not supply the quanta at each step. Double-quantum NMR sequences and laser- or gate-built interactions do not test it.
 2. **Breadth is measured before the reversal,** in distinct quanta reached, not only in recovered signal. For a high-temperature spin system that means about half the correlated spins: the up spins inside the region the disturbance has reached.
