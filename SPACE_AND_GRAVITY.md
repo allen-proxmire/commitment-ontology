@@ -39,7 +39,7 @@ Added principles: the substrate is scaleless; sliding or relabelling places cost
 
 **Clocks.** Two clocks compare as (1 − h_A)/(1 − h_B), independent of their mass: gravitational redshift, universal.
 
-**The field.** Matter is a sink: each renewal retains δħ at the rate mc²/ħ, and each hop moves one quantum, ħ (both candidate), so the sink against the hop's conductance has strength σ = δmcℓ²/ħ. Ratio hopping gives
+**The field (static form).** The field is carried by the relations: a draw sets the occupancies of the relations around it, a relation's stiffness one quantum (the author's ruling, candidate); the inflow below is its static form, not its dynamics (`OPEN_DIRECTIONS.md`). Matter is a sink: each renewal retains δħ at the rate mc²/ħ, and each hop moves one quantum, ħ (both candidate), so the sink against the hop's conductance has strength σ = δmcℓ²/ħ. Ratio hopping gives
 
 $$\nabla^2\ln P_{\text{free}}=\sigma\,\delta(\mathbf r)\quad\Rightarrow\quad \frac{P_{\text{free}}}{P_\infty}=e^{-U},\qquad U=\frac{GM}{c^2 r},$$
 
@@ -47,7 +47,7 @@ with, in hop units,
 
 $$G=\frac{\delta\,c^{3}\,\ell^{2}}{4\pi\hbar}\qquad\Longleftrightarrow\qquad \ell=\ell_P\sqrt{\frac{4\pi}{\delta}} .$$
 
-This is the weak-field form. On the network the occupancies make (g_ij = ψ⁴δ_ij), possibility conserved as a current carries the lapse weighting N, and ratio hopping gives ∂_i(ψ²∂_i N) = 0, GR's static vacuum equation for the lapse; with the cost's ψ and the sink's flux equal to the mass, the exterior is Schwarzschild (candidate; consistency with the cost, not a derivation of it). Its lapse agrees with the line above through U², its spatial factor through U.
+This is the static weak-field form. On the network the occupancies make (g_ij = ψ⁴δ_ij), possibility conserved as a current carries the lapse weighting N, and ratio hopping gives ∂_i(ψ²∂_i N) = 0, GR's static vacuum equation for the lapse; with the cost's ψ and the sink's flux equal to the mass, the exterior is Schwarzschild (candidate; consistency with the cost, not a derivation of it). Its lapse agrees with the line above through U², its spatial factor through U.
 
 **Free fall.** A matter wave of frequency mc²/ħ refracting on the clock-rate field has g = c²∇h (toward higher h, where ticks are slower): Newton's acceleration, mass-independent.
 
@@ -57,7 +57,7 @@ This is the weak-field form. On the network the occupancies make (g_ij = ψ⁴δ
 
 $$S=\frac{1}{16\pi G}\int (R-2\Lambda)\sqrt{-g}\,d^4x,$$
 
-Einstein–Hilbert, in Regge's form on the network: tensor waves with two polarizations and Einstein's quadrupole coefficient. Under this cost the exterior of a body is Schwarzschild, horizon included. **Outside matter, gravity has GR's form (given Lovelock's hypotheses);** the mass that sets it is GR's for dust, and Tolman's, ∫(ρ + S)N√γ d³x, for pressure-supported bodies short of nuclear stress (candidate: travel draws twice; field energy as an amount). G is the relations' stiffness against mismatch, already fixed above; Λ is the one constant the symmetry permits and does not fix, taken from data.
+Einstein–Hilbert, in Regge's form on the network: tensor waves with two polarizations and Einstein's quadrupole coefficient. Under this cost the exterior of a body is Schwarzschild, horizon included. **Outside matter, gravity has GR's form (given Lovelock's hypotheses);** the mass that sets it is GR's for dust, and Tolman's, ∫(ρ + S)N√γ d³x, for pressure-supported bodies short of nuclear stress (candidate: travel draws twice; field energy as an amount). G sets how far a draw moves the relations against their stiffness: G = δc³ℓ²/(4πħK_r) up to a factor of order one, the form above for a stiffness of one quantum per relation (G's form, shape); Λ is the one constant the symmetry permits and does not fix, taken from data.
 
 **Hypotheses.** That the occupancies are the only dynamical field. Met by the rules: h is the engaged share a place's relations have delivered (the gravity rule), a functional of matter and of transit on the relations, with no rule of its own; a free-stock wave was set aside by identifying gravitational waves with route shear (R1 excluded it only as the driver of expansion), and a scalar radiating mode is excluded by the wave test above. The clock field is slaved to the occupancies.
 

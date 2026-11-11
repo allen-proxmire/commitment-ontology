@@ -1140,3 +1140,7 @@ With K_r = 1, one quantum of stiffness per relation (relations fed by about one 
 **What it keeps and costs.** Keeps: G's form, the δ–ℓ link, a field that follows moving bodies at c (it is GR's), and the author's picture that what is happening (the draws) shapes space. Costs: a posit, not a reading: *a draw sets the occupancies of the relations around it* (proposed for the author's ruling); the occupancy, which was read as the excess the free stock delivers, becomes what the draws set; and the order-one factor, open until the posit has a concrete form.
 
 **Grade.** Shape. Proposed ruling: the draw, not inflow of free stock, sets the occupancies; stiffness one quantum per relation.
+
+## 2026-11-10 — the draw sets the occupancies (the author's ruling, candidate)
+
+The proposal of the previous entry is ruled: a draw sets the occupancies of the relations around it, a relation's stiffness one quantum (K_r = 1). Entered in the results docs: the P6 row and step 2 of the appendix; OPEN_DIRECTIONS ("What carries the field"); README; SPACE_AND_GRAVITY ("The field (static form)", the stiffness sentence); MATTER (the δ bound); the plain doc. G = δc³ℓ²/(4πħ) and δ ≳ 2 × 10⁻⁷ return on this footing, up to a lattice factor of order one, open.

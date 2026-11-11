@@ -62,7 +62,7 @@ which is the Compton frequency physics already knew. The first scale in the theo
 
 $$\text{retained}=\delta\,\hbar ,$$
 
-δ a constant of the theory (candidate in this fixed form: with a hop moving a fixed amount, a fixed share keeps G the same as a place's free stock falls, and gives one clock factor inside matter, as GR's density term has; inside matter the clock agrees with the lapse given a place's whole possibility at the floor, as outside; pressure comes from the travel rule). The record only grows. That is the arrow of time, said twice: the count goes up, each draw takes from the free stock, and they are one process.
+δ a constant of the theory (candidate in this fixed form: with a relation's stiffness one quantum, a fixed share keeps G the same as a place's free stock falls, and gives one clock factor inside matter, as GR's density term has; inside matter the clock agrees with the lapse given a place's whole possibility at the floor, as outside; pressure comes from the travel rule). The record only grows. That is the arrow of time, said twice: the count goes up, each draw takes from the free stock, and they are one process.
 
 **Pattern** is possibility in transit between commitments: light, and matter between its repeats. Possibility in transit keeps its direction until a commitment redirects it. That is inertia, and it costs nothing to state.
 
@@ -84,7 +84,7 @@ Two clocks in different places compare as (1 − h_A)/(1 − h_B). That is gravi
 
 $$\nabla^2\ln P_{\text{free}}=\sigma\,\delta(\mathbf r)\quad\Rightarrow\quad \frac{P_{\text{free}}}{P_\infty}=e^{-U},\qquad U=\frac{GM}{c^2r}.$$
 
-The first-order part is Newton's 1/r potential; the second-order part gives Mercury's precession its measured value (ratio hopping is chosen by scalelessness; Mercury excludes the other pairings of hop and weighting). This is the weak-field clock factor, correct through second order; it is not the exterior beyond that (see below).
+The first-order part is Newton's 1/r potential; the second-order part gives Mercury's precession its measured value (ratio hopping is chosen by scalelessness; Mercury excludes the other pairings of hop and weighting). This is the weak-field clock factor, correct through second order; it is not the exterior beyond that (see below). It is the static form only: stock flowing in is far too slow to build or carry a field, so the field is carried by the relations, as in GR: each draw puts the relations around it out of step, and a relation's stiffness is one quantum (the author's ruling, candidate).
 
 **Why things fall.** A pattern hops on its place's ticks. Ticks are slower where h is higher, so a wavefront turns toward matter, the way light turns toward the slow side of a lens. For a matter wave of frequency mc²/ħ this gives
 

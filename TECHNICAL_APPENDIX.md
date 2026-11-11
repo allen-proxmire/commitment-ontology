@@ -14,8 +14,8 @@ Every statement carries its grade (ruled, candidate, needed, excluded, shape, si
 | P3 | P_free,i = P_i(1 − h_i), h_i the engaged fraction; what a commitment engaged is released on completion, less C3's record (ruled) |
 | P4 | net flow on ⟨ij⟩ runs toward the end with larger h (ruled; with P1 and P3, at equal P, J_ij = κ ln[(1 − h_i)/(1 − h_j)], a consequence there, not a restatement) |
 | P5 | possibility in transit keeps its mean direction until its own commitment redirects it: the whole step U commutes with translations, so momentum is conserved (ruled) |
-| P6 | a closed whole draws δ × (turning + 2 × travel), light draws δ × 2E, and every draw becomes record (candidate); the draw per volume is δ(ρ + S), and with travel at the local clock rate the source is (ρ + S)N (candidate reading) |
-| P7 | a relation carries an occupancy o_ij, its excess over the vacuum's (each relation is fed by at least a quantum of free possibility in motion, candidate), and a which-way phase φ_ij ∈ U(1) (candidate); a route's length is Π(1 + o) along it, which at rest is P∞/P_free (ruled, given the occupancy, candidate) |
+| P6 | a closed whole draws δ × (turning + 2 × travel), light draws δ × 2E, and every draw becomes record (candidate) and sets the occupancies of the relations around it, a relation's stiffness one quantum (the author's ruling, candidate); the draw per volume is δ(ρ + S), and with travel at the local clock rate the source is (ρ + S)N (candidate reading) |
+| P7 | a relation carries an occupancy o_ij, its excess over the vacuum's, set by the draws (P6) (each relation is fed by at least a quantum of free possibility in motion, the vacuum's, which gives the stiffness of one quantum, candidate), and a which-way phase φ_ij ∈ U(1) (candidate); a route's length is Π(1 + o) along it, which at rest is P∞/P_free (ruled, given the occupancy, candidate) |
 | P8 | two routes meeting at a place combine as p = \|√p₁ e^{iθ₁} + √p₂ e^{iθ₂}\|² (forced by conservation in passing, scalelessness and associativity; Goyal–Knuth–Skilling, an imported theorem) |
 
 **Commitment.**
@@ -31,7 +31,7 @@ Every statement carries its grade (ruled, candidate, needed, excluded, shape, si
 | C7 | the first possibility, all free in few places, puts every place over capacity; the first commitments are unordered (ruled) |
 | C8 | a commitment may engage a quantum in transit through a channel, a final state with its width, at the weight of its line shape (κ = 0 only with no final state or a zero matrix element); which engager takes it is drawn from \|a\|² at the engagers' places (candidate; the \|a\|² draw identified, Born; the coupling and pointer basis imported) |
 
-**Constants of the theory's own:** δ, P_max, Λ (Λ from data); P_b fixed by the degree if the candidate reading holds. **Measured:** G, c, ħ, 1/137, the masses. **Bound:** ℓ ≲ 1.3 × 10⁻³¹ m (needed, Crab PeV electrons), so δ ≳ 2 × 10⁻⁷.
+**Constants of the theory's own:** δ, P_max, Λ (Λ from data); P_b fixed by the degree if the candidate reading holds. **Measured:** G, c, ħ, 1/137, the masses. **Bound:** ℓ ≲ 1.3 × 10⁻³¹ m (needed, Crab PeV electrons), so δ ≳ 2 × 10⁻⁷ (through G's form, up to its order-one factor).
 
 **Where each quality comes from, and what it carries.** The rules are the qualities the two primitives need to act at all, plus those that data or a known result demands. Each is tagged by where it came from (*nature*: from what the primitive is; *data*: forced by an exclusion; *match*: chosen so that a known result comes out; *theorem*: follows from others) and by what it supports, since a quality that carries several independent results earns more than one that carries only the result it was chosen for.
 
@@ -94,7 +94,7 @@ Inputs: P1 (ratio, ruled; q = ħ, candidate), C2–C4, C3's fixed share (candida
 
 $$\ln\frac{P_{\text{free}}}{P_\infty}=-\frac{\sigma}{4\pi r}\equiv -U,\qquad U=\frac{GM}{c^{2}r}\quad\text{with}\quad G=\frac{\sigma c^{2}}{4\pi M}=\frac{\delta c^{3}\ell^{2}}{4\pi\hbar}.$$
 
-So ℓ = ℓ_P√(4π/δ). Nothing is fitted here: G is measured, and the relation fixes ℓ given δ.
+So ℓ = ℓ_P√(4π/δ). Nothing is fitted here: G is measured, and the relation fixes ℓ given δ. Since the inflow is the static form only, the formula's footing is that a draw sets the occupancies of the relations around it, a relation's stiffness one quantum (the author's ruling, candidate): a draw of δ against a stiffness of K_r quanta per relation gives G = δc³ℓ²/(4πħK_r) up to a lattice factor of order one, this formula at K_r = 1 (G's form, shape; the factor open).
 
 **Step 3: the clock.** By C2 with P = P∞ at the place (an identification; record is not possibility and does not count in P, so inside matter it holds to at most ~10⁻⁴⁹, the engaged share per place at nuclear density), a clock's rate is 1 − h = P_free/P∞ = e^{−U}. A clock is a commitment, so this is the lapse:
 
@@ -118,7 +118,7 @@ $$\gamma=1,\qquad \beta=1.$$
 
 **What the derivation uses, in one line.** Ratio hopping (ruled), one quantum per hop (candidate), the fixed share δħ (candidate), C2's clock (ruled; via the free-share rule, candidate), the route factor (ruled, given the occupancy, candidate), and P = P∞ at a place (identification). Beyond the weak field, Lovelock's theorem (given its hypotheses) supplies the exterior; that step uses an imported theorem.
 
-**What kind of derivation this is.** It is derived from CO's rules, step by step, with two choices made by data: the hop's pairing, which scalelessness favours and Mercury selects among local power laws (β = 1), and the route factor, whose occupancy reading was chosen when a scalar wave was excluded (γ = 1, with Cassini fixing the clock's one quantum per engagement). Newton's 1/r, the form of G, universal redshift and free fall follow without either. Three inputs are candidate (one quantum per hop; the fixed share; the occupancy behind the route factor), one is an identification (P = P∞), and κ = ħ/τ is a choice. It is not a derivation from the two primitives alone. It is a static derivation: read in time, step 1's inflow is diffusion, far too slow to set up or carry a field (`OPEN_DIRECTIONS.md`, "What carries the field"), so the equation stands only as a static form; the inflow cannot be the field's dynamics, and G's formula rests on it.
+**What kind of derivation this is.** It is derived from CO's rules, step by step, with two choices made by data: the hop's pairing, which scalelessness favours and Mercury selects among local power laws (β = 1), and the route factor, whose occupancy reading was chosen when a scalar wave was excluded (γ = 1, with Cassini fixing the clock's one quantum per engagement). Newton's 1/r, the form of G, universal redshift and free fall follow without either. Three inputs are candidate (one quantum per hop; the fixed share; the occupancy behind the route factor), one is an identification (P = P∞), and κ = ħ/τ is a choice. It is not a derivation from the two primitives alone. It is a static derivation: read in time, step 1's inflow is diffusion, far too slow to set up or carry a field (`OPEN_DIRECTIONS.md`, "What carries the field"), so the equation stands only as a static form; the inflow cannot be the field's dynamics; G's formula rests on the draws setting the relations (step 2; shape, the order-one factor open).
 
 ## 3. A second derivation: Dirac's equation from the walk
 
