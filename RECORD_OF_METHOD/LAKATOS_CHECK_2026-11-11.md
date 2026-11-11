@@ -25,3 +25,13 @@ Measured by `MEASURE.md`. Each addition, what it was added for, what else it gav
 ## Update, same day: run G1
 
 The gauge-symmetry rung was run (G1). Relabelling freedom, a posit held from the start, forces the carriers' cost to linearised Einstein–Hilbert on the cubic graph, isotropically, up to G and a speed. G1 is progressive, conditional on resetting clocks being free (an extension of P7 to time, with the lapse shift). The ten carriers were still added; what follows is their cost, and the cube's isotropy, given that extension. The one-way part and the frame per place stay accommodating until the lapse shift is shown from the rules. Counts: progressive 5, accommodating 4.
+
+## Update: clock resetting, field energy, the third order
+
+| addition | added for | what else it gave | verdict |
+|---|---|---|---|
+| resetting clocks costs nothing | to complete G1's gauge freedom | "no backdrop" now covers time as well as space, which time-as-count already implied; with it G1 forces linearised Einstein–Hilbert, isotropic | **progressive** (via G1) |
+| the relations' field energy draws | to meet Deser's third hypothesis | it names what the static form's U²/2 already was: the field's own energy, carried by the relations' stretch | accommodating, with one clarification |
+| the third-order check | to see whether e^{−U} and GR part at U³ | none: the lapse is GR's at every order given the cost's ψ; the U³ gap was the flat shortcut's | neutral (no prediction) |
+
+Counts now: progressive 6, accommodating 4, neutral 2–3. The gravity side's remaining debt: the nonlinear rule for the relations (Deser's bootstrap, contested in the literature, or Lovelock).
