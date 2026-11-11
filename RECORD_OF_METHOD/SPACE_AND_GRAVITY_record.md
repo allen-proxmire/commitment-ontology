@@ -1469,3 +1469,31 @@ So, in the continuum at linear order, the walk's response is −½ h_μν T^μν
 Registered and run (`SPACE_AND_GRAVITY_runs/G4_lattice_matter_coupling/`), read by the author before entry. For the Wilson–Dirac lattice Hamiltonian in continuous time, a stand-in for the walk, there are local operators at the smallest range tried (one site beyond each object) forming an exactly conserved, exactly symmetric stress tensor placed as the staggered carriers need: energy E at places with Σ E = H; on each link one J_i, the energy current, which serves as the momentum density in the second identity (its total is E v_i, c_eff² times momentum only at long wavelength); P_ii at places; one P_ij per face, shared by the i- and j-momentum fluxes. Found in 2 + 1 (m = 0.3 and m = 0) and 3 + 1 (m = 0.3); both controls solvable; in band states J_i = E v_i and P_ij = E v_i v_j. So the coupling Σ h·T is exactly unchanged by the lattice relabellings at linear order, as run G3 found for the carriers' cost.
 
 Given G3's relabelling rules, of which these identities are the dual. Owed: the discrete-time walk itself; interactions (the stand-in is free matter); nonlinear order. Solutions are not unique (improvement terms free).
+
+## 2026-11-11 — the nonlinear rule by consistent deformation (reading, given four premises; one proposed for the author's ruling)
+
+**The question.** At linear order the relations' cost is forced to Fierz–Pauli, linearised Einstein–Hilbert (run G1, given P7e). What fixes the cost beyond linear order? Two routes were named: Deser's bootstrap (contested: Padmanabhan 2008; Butcher, Hobson and Lasenby 2009) and Lovelock's theorem (imported, assuming a metric theory with divergence-free field equations).
+
+**A third route: consistent deformation.** Wald (1986) showed that if the linear gauge freedom of a massless spin-2 field is kept at every order (allowed to deform, not broken), the deformed freedom must be the diffeomorphism algebra: general covariance. Boulanger, Damour, Gualtieri and Henneaux (2001), by the BRST deformation method of Barnich and Henneaux, showed for a collection of such fields, with locality, Poincaré invariance, the Fierz–Pauli action as free limit and at most two derivatives in the Lagrangian, that the only consistent deformations are separate Einstein–Hilbert actions (with cosmological terms), no cross-couplings. For one field (the case N = 1) this is Einstein–Hilbert plus Λ, up to field redefinitions, or the free theory undeformed.
+
+**The premises, and where CO stands on each.**
+1. *Fierz–Pauli free limit:* run G1 (needed, given P7e and the tensor identification), isotropic on the cube at long wavelength. Supplied.
+2. *No backdrop at every order*, with the relabelling freedom allowed to depend on the field. P7e as ruled is linearised. Proposed for the author's ruling: *moving places and resetting clocks cost nothing at every order*.
+3. *Locality and at most two derivatives at every order:* G1 assumed these for the quadratic cost; at every order it is an extended assumption, and it is the one that removes R², R³ (whose coefficients were already "assumed" of order one in hop units). Assumption.
+4. *Lorentz invariance of the interactions, not only of the free limit,* at long wavelength: open in CO. The frame problem (a per-sector speed allowed by the lattice) bears directly on it, and G1's speed equal to c is owed. Assumption.
+
+**Not the free branch.** If matter couples and feels the field, its own stress tensor is no longer conserved, and a coupling to an unconserved source breaks the linear gauge freedom at second order (the Feynman–Deser argument); so the field must source itself and the free branch is excluded. BDGH treat pure gravity (with scalar matter for the no-cross-coupling result); that the single-field deformation stays Einstein–Hilbert with general matter is a further import. Matter's response here is the author's ruling (P7e for the walk), candidate.
+
+**What follows, given the four premises.** The relations' cost is, up to field redefinitions,
+
+S = (c⁴/16πG) ∫ √−g (R − 2Λ) d⁴x + S_matter.
+
+1. *Self-coupling.* The self-coupling P6 names (the relations' field energy draws) is supplied by Einstein–Hilbert, and it matches the static reading (the stretch weighting ψ²). "Field energy" as a local density is gauge-dependent here (a pseudotensor), and that the draw becomes record (dR ≥ 0) does not follow: that part stays the author's ruling, candidate.
+2. *Exterior.* Schwarzschild–de Sitter (Birkhoff with Λ; Schwarzschild for Λ → 0), supplying the cost's ψ that the static lapse used. At third order the lapse coefficient is GR's (−1/4 U³ in g₀₀'s isotropic expansion against the flat shortcut e^{−U}'s −1/6), so the shortcut is superseded there; the route factor e^{U} in SPACE_AND_GRAVITY's weak-field paragraph is likewise first-order only (already noted at U²).
+3. *Λ* allowed, not fixed: CO's Λ stays an input.
+4. *Identification:* field redefinitions leave open which metric matter couples to; reading g₀₀ = −N² and g_ij = ψ⁴δ_ij as CO's clock rates and stretch is an identification (the one the static lapse entries already use).
+5. Lovelock's theorem is replaced as the route to the exterior by a different import (Wald; BDGH), whose premises are partly CO's own (1, 2) and partly assumptions (3, 4).
+
+**Not covered.** The lattice: a continuum statement at long wavelength; whether a nonlinear cost on the staggered carriers is exactly invariant under a deformed lattice relabelling is open and is where a run would bite. The theorem is classical and perturbative around flat space.
+
+**Grade.** Reading, given: (2) no backdrop at every order (proposed ruling); (3) locality and two derivatives at every order (assumption); (4) Lorentz invariance of the interactions (assumption, tied to the frame problem); and the metric identification. Imports: Wald 1986; BDGH 2001; the Feynman–Deser argument. It replaces the contested Deser route and supplies P6's self-coupling in the static case; it removes no posit outright.
