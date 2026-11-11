@@ -17,7 +17,7 @@ One line per domain; the measure is in [`MEASURE.md`](MEASURE.md). As of 2026-11
 | three dimensions | consistency condition | — | — | a lattice from the runs |
 | one particle (Dirac, spin, g = 2) | by identification | C5, C6, P7d | Crab electrons (hop bound) | loops; the frame |
 | two particles | by identification | branched field, bound/emitted split | helium, positronium, 21 cm (tree) | covariance; number change |
-| measurement | partly derived (channels from the walk and phase) | C8 core | vacuum Rabi, line wings | which passages are engagements; N |
+| measurement | partly derived (channels from the walk and phase) | C8 core | vacuum Rabi, line wings; N ≳ 50 (Sánchez 2020) | which passages are engagements; N (test: does the breadth of loss saturate as Σ/J falls) |
 | statistics | compatible, not forced | — | — | the exchange sign |
 | nucleus | wall, stated | — | the count three | a third primitive (not earned) |
 

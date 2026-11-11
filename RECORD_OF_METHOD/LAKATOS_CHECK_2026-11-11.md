@@ -35,3 +35,9 @@ The gauge-symmetry rung was run (G1). Relabelling freedom, a posit held from the
 | the third-order check | to see whether e^{−U} and GR part at U³ | none: the lapse is GR's at every order given the cost's ψ; the U³ gap was the flat shortcut's | neutral (no prediction) |
 
 Counts now: progressive 6, accommodating 4, neutral 2–3. The gravity side's remaining debt: the nonlinear rule for the relations (Deser's bootstrap, contested in the literature, or Lovelock).
+
+## Update: the stopping number N
+
+| change | what it gave | verdict |
+|---|---|---|
+| the N test restated as a scaling (does K* saturate as Σ/J falls?), the rival account named (Pastawski; Zangara), the qualifying data read | no new posit; a sharper, falsifiable statement; the bound N ≳ 50 confirmed against the large-cluster literature, which does not qualify | **neutral-to-progressive**: no new content, but CO's one testable difference is now stated so an experiment could decide it |
