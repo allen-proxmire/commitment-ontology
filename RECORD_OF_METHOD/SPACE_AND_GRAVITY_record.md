@@ -1515,3 +1515,21 @@ S = (c⁴/16πG) ∫ √−g (R − 2Λ) d⁴x + S_matter.
 So, for interacting matter on the walk, no backdrop holds up to lattice corrections: limiting-speed differences of order mcℓ/ħ (L1b, Crab) and dispersion terms of order (kℓ)², present even for one species (the scattering check); at loop level, exactly as large as the frame problem leaves them. Cubic symmetry, parity and time reversal exclude an order-kℓ term. Discrete time is settled at tree level by L1b, which was run on the walk itself; the quasi-energy-π (doubler) sector is unread but gapped, so it does not touch the long-wavelength argument. A run would measure these known terms; it would not decide anything.
 
 **Grade.** Reading. P7e's "interactions owed" now reads: with interactions, holds up to lattice corrections (limiting-speed differences of order mcℓ/ħ; dispersion terms of order (kℓ)²) and, at loop level, the frame problem. The discrete-time walk's free case remains a consistency check like G4, not run.
+
+## 2026-11-11 — why one quantum of stiffness per relation: the stiffness and δ enter only together (reading; a proposal to retire a posit)
+
+**The question.** P6 says a draw sets the held share and stretch of the places around it "against a stiffness of one quantum per relation" (the author's ruling, candidate). Why one?
+
+**What the stiffness does.** With a stiffness of K quanta per relation, static consistency gives
+
+G = δ c³ ℓ² / (4π ħ K),
+
+so K enters only in the combination δ/K. The hop length is ℓ = ℓ_P √(4πK/δ), the Crab bound on ℓ (run L1b) bounds δ/K ≳ 2 × 10⁻⁷, and in the cost's own terms the Einstein–Hilbert coefficient per lattice cell is ℓ²/(16πℓ_P²) = K/(4δ) quanta, the "energy-sourced estimate K_r ≈ 1/(4δ)" of earlier entries at K = 1.
+
+**Where δ appears alone.** Everywhere δ meets data it does so through G and ℓ, that is as δ/K: the strength of gravity, the hop's bound, the fixed form of G (lunar ranging). The one place δ appears alone is the amount of record a repeat keeps (C3's δħ, and the record budgets that follow from it), and no measurement reaches it.
+
+**Reading.** The stiffness is not a separate physical choice: in every measured quantity it is degenerate with δ. Setting K = 1 fixes what δ means (the draw measured in units of a relation's stiffness), not a fact about relations. So "why one quantum" has the answer "it is a unit": with K absorbed, δ is the draw per renewal relative to a relation's stiffness, and the posit retires. What remains physical is δ/K, bounded below by L1b, and the record per repeat, δħ, which would distinguish them only if record were ever measured.
+
+**Proposal (for the author's ruling).** Replace "against a stiffness of one quantum per relation" in P6 by "against the relations' stiffness, which sets the unit of δ (only δ over the stiffness is measured)". One posit fewer; nothing measured changes.
+
+**Grade.** Reading; proposed. If ruled, a posit removed (by the measure, progressive).
