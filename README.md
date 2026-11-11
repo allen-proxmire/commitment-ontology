@@ -1,6 +1,6 @@
 # Commitment Ontology
 
-Time is a count of irreversible events. Everything else is what follows when that is taken seriously. **A reconstruction, from two primitives with graded rulings and some imported pieces, of gravity (in empty space and for dust; inside matter and in the radiation era by candidate rulings) and of quantum mechanics up to 1930 for a fixed number of particles, short of the exchange sign.**
+Time is a count of irreversible events. Everything else is what follows when that is taken seriously. **A reconstruction, from two primitives and the qualities CO gives them (P1–P8, C1–C8, graded), with some pieces imported, of gravity (in empty space and for dust; inside matter and in the radiation era by candidate rulings) and of quantum mechanics up to 1930 for a fixed number of particles, short of the exchange sign.**
 
 *Possibility* sits at places and moves between related places, conserved in everything that passes and commits; each new place is born with its share (candidate). *Commitment* is an irreversible event that engages possibility. Time is the count of commitments, matter is what keeps re-committing, and gravity is the pull toward where commitments run slow.
 

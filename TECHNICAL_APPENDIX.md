@@ -33,6 +33,39 @@ Every statement carries its grade (ruled, candidate, needed, excluded, shape, si
 
 **Constants of the theory's own:** δ, P_max, Λ (Λ from data); P_b fixed by the degree if the candidate reading holds. **Measured:** G, c, ħ, 1/137, the masses. **Bound:** ℓ ≲ 1.3 × 10⁻³¹ m (needed, Crab PeV electrons), so δ ≳ 2 × 10⁻⁷.
 
+**Where each quality comes from, and what it carries.** The rules are the qualities the two primitives need to act at all, plus those that data or a known result demands. Each is tagged by where it came from (*nature*: from what the primitive is; *data*: forced by an exclusion; *match*: chosen so that a known result comes out; *theorem*: follows from others) and by what it supports, since a quality that carries several independent results earns more than one that carries only the result it was chosen for.
+
+| quality | origin | what it carries |
+|---|---|---|
+| conservation in passing; birth share | nature; birth share needed (a conserved stock starves under expansion), ruled candidate; size ≈ (d − 1)ħ candidate | P8, the Born identification, the sink, the floor, the inflation-like exit |
+| P1 ratio hopping, one quantum per hop | nature (scalelessness favours ratio) and data (Mercury selects the pairing); q = ħ for consistency with the degree (R5) | Newton's 1/r, β = 1, the form of G, the lapse-weighted flux |
+| P2 capacity | nature (no infinities) | the beginning, the inflation-like exit, births |
+| P3 hold-and-release | nature (conservation) | the clock's free share, the record |
+| P4 toward engagement | theorem at equal P (P1, P3); ruled otherwise | the clock slaved to the occupancies |
+| P5 inertia | nature | free motion, the walk's momentum |
+| P6 transit draws (turning once, travel twice; light 2E) | match (GR's source ρ + S) | ρ + S in the radiation era, gas stars and moving closed wholes; light's factor two (its one G ruled separately) |
+| P7 occupancy | data (a scalar wave is excluded) | γ = 1, tensor waves, the route factor |
+| P7 which-way phase | match (minimal coupling) | charge, g = 2, Aharonov–Bohm, two-body binding |
+| P8 meeting | theorem (conservation, scalelessness, associativity) | interference, the amplitude rule |
+| C1 renewal | nature (an act that repeats while fed) | matter's persistence, the sink |
+| C2 clock | nature (less free possibility, slower repeats) | redshift, the lapse, free fall |
+| C3 retention; fixed share δħ | retention nature (the record only grows); fixed form data (lunar ranging excludes a drifting G) | the arrow of time, the sink; fixed form: G constant |
+| C4 one quantum | nature and data (ħ) | mass as frequency |
+| C5 phase | posit (the matter sector's one addition; interference needs it) | the walk's waves |
+| C6 the flip | identification (Feynman's checkerboard); palindrome needed by data; Wilson form candidate | mass in the walk, Dirac's equation |
+| C7 the beginning | initial condition | the first epoch |
+| C8 measurement | match, narrowed by data (vacuum Rabi oscillation excludes the literal form) | outcomes, Born's chance |
+
+Of eighteen entries, two are tagged *match* alone: the travel rule, which supplies ρ + S in several settings, and the which-way phase, which carries charge, g = 2, Aharonov–Bohm and two-body binding. C8 is matched and narrowed by data.
+
+**Can the set be smaller?** Several qualities are versions of one thing (shape; a merge changes no content; it shows which rules state one assumption more than once):
+- *One commitment cycle:* C1, C3, C4 and P3 describe one act: engage ħ of adjacent free possibility, hold it, release it less δħ kept as record, repeat while fed, at ω = mc²/ħ. C2 may follow from it: if a renewal waits for adjacent free possibility, its rate is proportional to the free share, 1 − h (a reading, not checked).
+- *One draw:* P6 and the draw half of C3 say the same thing: every draw (turning once, travel twice, light 2E) is δ of its energy and becomes record.
+- *One walk:* P5, C5 and C6 together define transit: hops that keep direction, a phase, and the flip (P5 also acts in formation, lining up relations, R5).
+- *Not qualities:* P4 at equal P and P8 follow from others; C7 is an initial condition.
+
+On that count the qualities fall into about eight groups: conservation with the birth share, ratio hopping in quanta, capacity, relations with occupancy and phase, the draw, the commitment cycle, the walk, and measurement. Separate choices remain inside them: q = ħ, the birth share, the palindromic order and Wilson form, light's one G, field energy as an amount, amounts classical.
+
 ## 2. One derivation: the weak-field metric
 
 **Step 1: the static field equation.** At rest, every place's flows balance its sink. By P1 the net inflow to place i is κ Σ_j ln(P_free,j / P_free,i); by C3 and C2 the sink of a pattern of mass M is δħ per repeat at ω₀ = Mc²/ħ, δħ·ω₀ = δMc², i.e. δMc²/ħ quanta per unit time. With the conductance of a hop moving one quantum per tick, κ = ħ/τ per relation, and the lattice Laplacian Σ_j(f_j − f_i) → ℓ²∇²f (cubic lattice, d = 6; other networks change this by a factor of order one),
