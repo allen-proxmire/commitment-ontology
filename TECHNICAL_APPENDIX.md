@@ -1,38 +1,38 @@
 # Technical appendix: the rules as equations, and one derivation
 
-Every statement carries its grade (ruled, candidate, needed, excluded, shape, silence) or says where it is imported or identified. Notation: places i on a network of finite degree d; neighbouring places joined by relations ⟨ij⟩; hop length ℓ, tick τ = ℓ/c; amounts of possibility in units of ħ.
+Each rule's grade (ruled, candidate, needed, excluded, shape, silence; or imported, identified) is in its own column. Notation: places i on a network of finite degree d; neighbouring places joined by relations ⟨ij⟩; hop length ℓ, tick τ = ℓ/c; amounts of possibility in units of ħ.
 
 ## 1. The rules
 
 **Possibility.**
 
-| rule | statement |
-|---|---|
-| conservation | Σ_i P_i is unchanged by every hop (ruled); every draw (C3's δħ per repeat; P6's travel, light and field energy) turns possibility into record, so between births Σ_i (P_i + R_i) is unchanged and dR ≥ 0 (the author's ruling, candidate); births add P_b each, a new place born with its share P_b = P∞ = (d/2)f, f the feed per relation (needed, given the held ruling; R5's (d − 1)ħ agrees only at f ≈ 1.67ħ, open) |
-| P1 | a hop moves one quantum, q = ħ (candidate), and compares neighbours by ratio: the flow on ⟨ij⟩ is J_ij = κ ln(P_free,i / P_free,j), κ the hop's conductance (ruled) |
-| P2 | P_free,i ≤ P_max; above it the place commits (ruled) |
-| P3 | P_free,i = P_i(1 − h_i), h_i the engaged fraction; what a commitment engaged is released on completion, less C3's record (ruled) |
-| P4 | net flow on ⟨ij⟩ runs toward the end with larger h (ruled; with P1 and P3, at equal P, J_ij = κ ln[(1 − h_i)/(1 − h_j)], a consequence there, not a restatement) |
-| P5 | possibility in transit keeps its mean direction until its own commitment redirects it: the whole step U commutes with translations, so momentum is conserved (ruled) |
-| P6 | a closed whole draws δ × (turning + 2 × travel), light draws δ × 2E, and every draw becomes record (candidate) and sets the occupancies of the relations around it, a relation's stiffness one quantum (the author's ruling, candidate); the draw per volume is δ(ρ + S), and with travel at the local clock rate the source is (ρ + S)N (candidate reading) |
-| P7a | a relation carries an occupancy o_ij, its excess over the vacuum's, set by the draws (P6), each relation fed by at least a quantum of free possibility in motion, the vacuum's, which gives the stiffness of one quantum (candidate); the excess is held in the relation: not free for commitments to engage, not drawing, counted in h (the author's ruling, candidate); a route's length is Π(1 + o) along it, which at rest is P∞/P_free (ruled, given the occupancy, candidate) |
-| P7b | the occupancy may differ by direction: its one-way part a_ij = (o_ij − o_ji)/2, set by the direction of travelling draws, carries the shift g_0i; only its sums around loops are physical, as for a U(1) link (the author's ruling, candidate) |
-| P7c | each place carries the shear of its local frame, the off-diagonal γ_ij (i ≠ j) in the graph's coordinates, in the walk's local unitary, set by the off-diagonal stress T_ij (i ≠ j) as the one-way part is by T_0i; with the axis occupancies (γ_ii) and P7b's shift, every metric component has a carrier on the cubic graph (the author's ruling, candidate) |
-| P7d | a relation carries a which-way phase φ_ij ∈ U(1) (candidate) |
-| P8 | two routes meeting at a place combine as p = \|√p₁ e^{iθ₁} + √p₂ e^{iθ₂}\|² (forced by conservation in passing, scalelessness and associativity; Goyal–Knuth–Skilling, an imported theorem) |
+| rule | statement | grade |
+|---|---|---|
+| conservation | Σ_i P_i is unchanged by every hop. Every draw (C3's δħ per repeat; P6's travel, light and field energy) turns possibility into record, so between births Σ_i (P_i + R_i) is unchanged and dR ≥ 0. Births add P_b each, a new place born with its share P_b = P∞ = (d/2)f, f the feed per relation | per hop: ruled. P + R: the author's ruling, candidate. P_b = (d/2)f: needed, given the held ruling; R5's (d − 1)ħ agrees only at f ≈ 1.67ħ, open |
+| P1 | a hop moves one quantum, q = ħ, and compares neighbours by ratio: the flow on ⟨ij⟩ is J_ij = κ ln(P_free,i / P_free,j), κ the hop's conductance | q = ħ: candidate. ratio flow: ruled |
+| P2 | P_free,i ≤ P_max; above it the place commits | ruled |
+| P3 | P_free,i = P_i(1 − h_i), h_i the engaged fraction; what a commitment engaged is released on completion, less C3's record | ruled |
+| P4 | net flow on ⟨ij⟩ runs toward the end with larger h; with P1 and P3, at equal P, J_ij = κ ln[(1 − h_i)/(1 − h_j)] | ruled; a consequence at equal P, not a restatement |
+| P5 | possibility in transit keeps its mean direction until its own commitment redirects it: the whole step U commutes with translations, so momentum is conserved | ruled |
+| P6 | a closed whole draws δ × (turning + 2 × travel); light draws δ × 2E; every draw becomes record and sets the occupancies of the relations around it, a relation's stiffness one quantum; the draw per volume is δ(ρ + S), and with travel at the local clock rate the source is (ρ + S)N | draws: candidate. setting the occupancies, stiffness one quantum: the author's ruling, candidate. (ρ + S)N: candidate reading |
+| P7a | a relation carries an occupancy o_ij, its excess over the vacuum's, set by the draws (P6); each relation is fed by at least a quantum of free possibility in motion, the vacuum's, which gives the stiffness of one quantum. The excess is held in the relation: not free for commitments to engage, not drawing, counted in h. A route's length is Π(1 + o) along it, at rest P∞/P_free | feed: candidate. held: the author's ruling, candidate. route length: ruled, given the occupancy, candidate |
+| P7b | the occupancy may differ by direction: its one-way part a_ij = (o_ij − o_ji)/2, set by the direction of travelling draws, carries the shift g_0i; only its sums around loops are physical, as for a U(1) link | the author's ruling, candidate |
+| P7c | each place carries the shear of its local frame, the off-diagonal γ_ij (i ≠ j) in the graph's coordinates, in the walk's local unitary, set by the off-diagonal stress T_ij (i ≠ j) as the one-way part is by T_0i; with the axis occupancies (γ_ii) and P7b's shift, every metric component has a carrier on the cubic graph | the author's ruling, candidate |
+| P7d | a relation carries a which-way phase φ_ij ∈ U(1) | candidate |
+| P8 | two routes meeting at a place combine as p = \|√p₁ e^{iθ₁} + √p₂ e^{iθ₂}\|² | imported theorem (Goyal–Knuth–Skilling: forced by conservation in passing, scalelessness and associativity) |
 
 **Commitment.**
 
-| rule | statement |
-|---|---|
-| C1 | a commitment, on completing, engages ħ of adjacent free possibility (or, through a channel, a quantum in transit, C8), releases what it held, less C3's record, and adds one to its count n; it halts when none is adjacent (ruled). Each beat engages the free share 1 − h of what it meets, carrying the remainder, and a tick completes when a whole ħ is engaged (the free-share rule, candidate, end of §1) |
-| C2 | a commitment repeats at ω = (mc²/ħ)(1 − h) (ruled; its derivation from C1 and C4 under the free-share rule is candidate, end of §1) |
-| C3 | each repeat keeps δħ as record (candidate); dR/dt ≥ 0; record is what possibility became, not possibility, and does not count in a place's P (the author's ruling, candidate) |
-| C4 | every commitment engages ħ; mass is the repeat rate, ω₀ = mc²/ħ (ruled) |
-| C5 | a pattern in transit carries a phase θ advancing by one cycle per repeat (ruled; the matter sector's one addition) |
-| C6 | the walk's step is U = A_x A_y A_z F(θ_m) A_z A_y A_x, with A_j = S_j⁺ F(w) S_j⁻ F(−w): S_j⁺ moves the α_j = +1 part one place forward, S_j⁻ the α_j = −1 part one place back, F(a) = exp(−iβa) a turn of the internal state, θ_m = c₀mcℓ/ħ per step, c₀ = 2cos w the massless speed in hops per step (2 at w = 0: mcℓ/ħ per hop) (flip ruled; half-shift Wilson form candidate, w ≳ 0.3, run L1b; palindromic order needed, sequential excluded, run L1) |
-| C7 | the first possibility, all free in few places, puts every place over capacity; the first commitments are unordered (ruled) |
-| C8 | a commitment may engage a quantum in transit through a channel, a final state with its width, at the weight of its line shape (κ = 0 only with no final state or a zero matrix element); which engager takes it is drawn from \|a\|² at the engagers' places (candidate; the \|a\|² draw identified, Born; the coupling and pointer basis imported) |
+| rule | statement | grade |
+|---|---|---|
+| C1 | a commitment, on completing, engages ħ of adjacent free possibility (or, through a channel, a quantum in transit, C8), releases what it held, less C3's record, and adds one to its count n; it halts when none is adjacent. Each beat engages the free share 1 − h of what it meets, carrying the remainder; a tick completes when a whole ħ is engaged (the free-share rule, end of §1) | ruled; the free-share rule: candidate |
+| C2 | a commitment repeats at ω = (mc²/ħ)(1 − h) | ruled; its derivation from C1 and C4 under the free-share rule: candidate |
+| C3 | each repeat keeps δħ as record; dR/dt ≥ 0; record is what possibility became, not possibility, and does not count in a place's P | δħ: candidate. record not possibility: the author's ruling, candidate |
+| C4 | every commitment engages ħ; mass is the repeat rate, ω₀ = mc²/ħ | ruled |
+| C5 | a pattern in transit carries a phase θ advancing by one cycle per repeat | ruled; the matter sector's one addition |
+| C6 | the walk's step is U = A_x A_y A_z F(θ_m) A_z A_y A_x, with A_j = S_j⁺ F(w) S_j⁻ F(−w): S_j⁺ moves the α_j = +1 part one place forward, S_j⁻ the α_j = −1 part one place back, F(a) = exp(−iβa) a turn of the internal state, θ_m = c₀mcℓ/ħ per step, c₀ = 2cos w the massless speed in hops per step (2 at w = 0: mcℓ/ħ per hop) | flip: ruled. half-shift Wilson form: candidate, w ≳ 0.3 (run L1b). palindromic order: needed; sequential excluded (run L1) |
+| C7 | the first possibility, all free in few places, puts every place over capacity; the first commitments are unordered | ruled |
+| C8 | a commitment may engage a quantum in transit through a channel, a final state with its width, at the weight of its line shape (κ = 0 only with no final state or a zero matrix element); which engager takes it is drawn from \|a\|² at the engagers' places | candidate; the \|a\|² draw identified (Born); the coupling and pointer basis imported |
 
 **Constants of the theory's own:** δ, P_max, Λ (Λ from data); P_b fixed by the degree if the candidate reading holds. **Measured:** G, c, ħ, 1/137, the masses. **Bound:** ℓ ≲ 1.3 × 10⁻³¹ m (needed, Crab PeV electrons), so δ ≳ 2 × 10⁻⁷ (through G's formula).
 
