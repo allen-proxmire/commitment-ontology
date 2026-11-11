@@ -1269,3 +1269,21 @@ vanishes at the origin as k⁴ (leading speed c in every direction, exact along 
 **What it gives the walk.** With lapse N, frame e_i^a and shift, the walk's local unitary takes the tetrad form of the curved-space Dirac walks in the literature (arXiv:1609.00305); the static Obukhov form already in hand is its diagonal, shift-free case.
 
 **Owed.** The update rule written for all ten carriers on the cubic graph, its gauge constraints, and the registered stability run.
+
+## 2026-11-11 — the update rule for all ten carriers, and why it needs no run (reading)
+
+**The rule.** Write the ten carriers as h̄_μν in the graph's coordinates (lapse and stretch from the held shares and link lengths, shift from the one-way occupancies, shear from the place frames; P7a–c). Each tick, every component is updated by the same stencil, the three-axis split with the fourth-order Wilson-type term (entries above), with its own source:
+
+h̄_μν(t + τ) = 2 W h̄_μν(t) − h̄_μν(t − τ) + τ²c² (16πG/c⁴) T_μν(t),
+
+where W is the stencil's operator, (W f)(k) = Π_i c_i − r[Σ_{i<j}(1 − c_i)(1 − c_j) − (3/2)Π_i(1 − c_i)], c_i = cos(k_iℓ), 0 < r < 1/2, τ = ℓ/c. Each step reaches a place's diagonal neighbours through its axis relations; each value depends only on values one tick and two ticks back. Signature (−+++); the lapse h_00 = ½(h̄_00 + h̄_ii) is sourced by ρc² + S, the draw.
+
+**Why it needs no run.** The run protocol registers a run only when its outcome is unknown and would change a ruling. Here:
+- *Stability.* In harmonic gauge, linearised Einstein–Hilbert decouples: each of the ten components obeys the same scalar equation with its own source. So the ten-carrier system is stable exactly where the scalar stencil is, 0 < r < 1/2 (the scan above): bounded, apart from linear growth where W = ±1 (at k = (π, π, π)/ℓ the Wilson bracket vanishes, W = −1 exactly, a double root and an alternating mode growing linearly). Group speed never above c (checked for r = 0.1–0.45).
+- *Gauge.* The constraint C_ν = D^μ h̄_μν (D a lattice divergence) satisfies the same stencil with source D^μ T_μν, since translation-invariant lattice operators commute. If the source obeys the matching lattice conservation, C stays zero from zero starting data; this also settles whether the Wilson term keeps the gauge (it does, by the same commuting). Lattice stress tensors are in general conserved locally only to O(ℓ²), so C is sourced at O(ℓ²); it stays small only if the source's total energy-momentum Q = Σ_x T_0ν is exactly conserved, since at k = 0 the constraint obeys D_t²C ∝ D_tQ and an O(ℓ²) drift in Q makes C grow linearly in time. (In a periodic box h̄'s own k = 0 mode also grows as t² unless its mean is removed.)
+- *Moving source.* The response is the lattice Green function of a linear, translation-invariant scheme convolved with the moving source: the boosted field (Newton's 1/r and the gravitomagnetic h_0i ≈ −4GMv_i/(c³r), x⁰ = ct, the sign from the lower-index T_0i = −ρcv_i) with corrections of order (ℓ/r)², the field's dispersion error: about 10⁻⁸⁴ at ℓ ≈ 10⁻³¹ m and r ≈ 1 AU (10⁻⁵⁹ at ℓ ≈ 10⁻¹⁸ m). The matter walk's own error is first order, s ≈ 0.14 mcℓ/ħ, about 10⁻¹⁶ for nucleons at ℓ ≈ 10⁻³¹ m: some seventy orders larger, a matter-sector effect already bounded by L1b, and still far under the preferred-frame bounds (α₁ ≲ 10⁻⁵, α₂ ≲ 10⁻⁹).
+So, linearised, every outcome is fixed by analysis already done; the run asked for last night is not needed.
+
+**Where a run would bite.** Two places, both beyond this entry: (1) the full nonlinear rule (a lattice tetrad form on the carriers; Regge alone, on edge lengths, does not hold the frames), needed for strong fields and for the U² terms that the static derivation took from Lovelock; (2) whether the walk's lattice stress tensor obeys a conservation law matching the stencil, and in particular whether its total energy-momentum is exactly conserved, which decides whether the gauge violation stays O(ℓ²) or grows linearly. Either outcome is unknown; (2) is the smaller and comes first.
+
+**Grade.** The rule: built on the author's rulings (P6, P7a–c), candidate; its linearised consequences: reading. Imported: linearised Einstein–Hilbert's form (Lovelock).
