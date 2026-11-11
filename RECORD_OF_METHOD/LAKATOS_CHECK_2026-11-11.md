@@ -90,3 +90,7 @@ The dark-matter shape (added for dark matter) gains consequences it was not adde
 ## Update: the photon ratio against the beginning
 
 The literal matter–antimatter hunch (one matter pattern per saturated place) is excluded by η given stated assumptions (**excluded**, kept with its reason); its first-places version turns η from a silence into a shape, η ≈ N₀(P_max − P_b)/E₀, with a rule missing. Neutral overall. Counts: progressive 10, accommodating 2, neutral 8; exclusions found today: 2 (exact lattice no backdrop for interacting matter; the literal hunch).
+
+## Update: first commitments alone renew (ruled)
+
+Added to fill the gap in the photon-ratio reading: accommodating as added. It also supplies, unasked, the dark-matter shape's "made only at the start" and, with number change held, the survival of the beginning's matter count; that is a second use, so it is not purely accommodating. Graded **neutral-to-progressive**, counted neutral until a use with data appears. Counts: progressive 10, accommodating 2, neutral 9.

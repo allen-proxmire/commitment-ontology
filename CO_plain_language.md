@@ -29,13 +29,13 @@ GR has no global now; QM has no event. CO takes both as primitives. A commitment
 - P8, *meeting:* when two routes bring possibility to one place, the amounts combine as |√p₁e^{iθ₁} + √p₂e^{iθ₂}|².
 
 **Commitment** is the act: one irreversible update to possibility, at a place.
-- C1, *renewal:* a commitment, on completing, engages free possibility next to it into its next commitment and releases what it held. It halts when none is near. Matter is a commitment that keeps being fed.
+- C1, *renewal:* a pattern's commitment, on completing, engages free possibility next to it into its next commitment and releases what it held. It halts when none is near. Matter is a commitment that keeps being fed.
 - C2, *the clock:* a commitment repeats at (mc²/ħ)(1 − h): less free possibility, slower repeats. This follows from C1 and C4 under the free-share rule.
 - C3, *retention:* each repeat keeps δħ as record. The record only grows: the arrow of time.
 - C4, *one quantum:* every commitment engages ħ. Mass is how often commitment falls due, ω = mc²/ħ.
 - C5, *rate:* commitments happen at a rate, and a pattern in transit carries where it is in its cycle, its phase.
 - C6, *the flip:* a commitment turns a pattern's internal state without moving it. The heaviest possible pattern flips every hop.
-- C7, *the beginning:* with all the first possibility free in few places, every place is over capacity and commits, none before another.
+- C7, *the beginning:* with all the first possibility free in few places, every place is over capacity and commits, none before another. Only those first commitments start patterns that renew; a commitment the spreading forces later happens once and leaves record.
 - C8, *measurement:* a commitment may take in a quantum that is passing through, if it has a matching final state (a channel); that resolves the pattern the quantum belonged to.
 
 That is the whole inventory.
