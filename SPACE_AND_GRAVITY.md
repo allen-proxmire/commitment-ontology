@@ -39,7 +39,7 @@ $$\nabla^2\ln P_{\text{free}}=\sigma\,\delta(\mathbf r),\quad \sigma=\frac{\delt
 
 $$G=\frac{\delta\,c^{3}\,\ell^{2}}{4\pi\hbar}\qquad\Longleftrightarrow\qquad \ell=\ell_P\sqrt{\frac{4\pi}{\delta}} .$$
 
-This is a static form: read in time, the inflow is diffusion and far too slow to build or carry a field, so the field is carried by the relations ([`OPEN_DIRECTIONS.md`](OPEN_DIRECTIONS.md)). On the network the lapse obeys ∂_i(ψ²∂_i N) = 0, GR's static vacuum equation, and the exterior is Schwarzschild: consistency with the cost, not a derivation of it.
+This is a static form: read in time, the inflow is diffusion and far too slow to build or carry a field, so the field is carried by the relations ([`OPEN_DIRECTIONS.md`](OPEN_DIRECTIONS.md)). On the network the lapse obeys ∂_i(ψ²∂_i N) = 0, GR's static vacuum equation, and with the cost's ψ the lapse is Schwarzschild's at every order: consistency with the cost, not a derivation of it. The quick form e^{−U} agrees with it through U², where β is read.
 
 **Free fall.** A matter wave refracting on the clock-rate field has g = c²∇h: Newton's acceleration, independent of mass.
 
