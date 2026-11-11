@@ -22,7 +22,7 @@ Forced given those premises (Goyal, Knuth and Skilling 2010); the premises carry
 
 $$\ell=\frac{\hbar}{m_{\max}c},\qquad \ell\lesssim 1.3\times10^{-31}\ \text{m}.$$
 
-The bound is set by the electron's speed (below), and with ℓ = ℓ_P√(4π/δ) (G's form, from the draws setting the relations, candidate, up to an order-one factor) it gives δ ≳ 2 × 10⁻⁷. The heaviest pattern is then above 10¹⁵ GeV.
+The bound is set by the electron's speed (below), and with ℓ = ℓ_P√(4π/δ) (G's formula, from the draws setting the relations, candidate) it gives δ ≳ 2 × 10⁻⁷. The heaviest pattern is then above 10¹⁵ GeV.
 
 **The Dirac equation.** Possibility hopping at c with the four-component state, flipping at the mass rate, has the Dirac equation as its continuum limit (Bialynicki-Birula 1994). Spin ½ follows. The magnetic moment g = 2 follows from Dirac's equation with minimal coupling to the which-way field; that coupling is a candidate (below). The rules are identified with a construction known to yield Dirac's equation; this is not an independent derivation of it.
 

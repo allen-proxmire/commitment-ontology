@@ -1144,3 +1144,29 @@ With K_r = 1, one quantum of stiffness per relation (relations fed by about one 
 ## 2026-11-10 — the draw sets the occupancies (the author's ruling, candidate)
 
 The proposal of the previous entry is ruled: a draw sets the occupancies of the relations around it, a relation's stiffness one quantum (K_r = 1). Entered in the results docs: the P6 row and step 2 of the appendix; OPEN_DIRECTIONS ("What carries the field"); README; SPACE_AND_GRAVITY ("The field (static form)", the stiffness sentence); MATTER (the δ bound); the plain doc. G = δc³ℓ²/(4πħ) and δ ≳ 2 × 10⁻⁷ return on this footing, up to a lattice factor of order one, open.
+
+## 2026-11-10 — the order-one factor, fixed by static consistency (candidate reading)
+
+**The condition.** Under the ruling, the relations carry the field and set, at rest, the route factor P∞/P_free = e^{U} (P7: at rest a route's length is P∞/P_free). So the free stock's profile near a body is not built by inflow from far away; it is imposed by the occupancies. The sink is still real: a body draws δMc²/ħ quanta per unit time, and what it draws reaches it by ratio hopping across the last hops, a local supply, not a transport over distance. A static body needs the two to agree: ratio hopping across the profile the relations impose must deliver exactly the draw.
+
+**The count.** Through a sphere of radius r there are about 4πr²/ℓ² relations; each carries κ ln(P_j/P_i)/ħ quanta per unit time, ≈ (κ/ħ) ℓ ∂_r ln P_free = (κ/ħ) ℓ U/r inward. With U = GM/(c²r), the inflow is
+
+4πr²/ℓ² × (κ/ħ)ℓ × GM/(c²r²) = 4πκGM/(ħc²ℓ),
+
+independent of r, as a steady flux must be. Setting it equal to the draw, δMc²/ħ:
+
+G = δc⁴ℓ/(4πκ), and with κ = K_r ħ/τ, τ = ℓ/c,
+
+G = δc³ℓ² / (4πħ K_r).
+
+This is the previous entry's form with the factor fixed to exactly 1 (for the cubic lattice whose Laplacian step 1 uses; other networks change it by order one, as step 1 already says). Nothing is fitted: the factor follows from the draw and the hop's conductance meeting at the body.
+
+**What it ties together.** K_r, the relations' stiffness in quanta, and κ = K_r ħ/τ, the hop's conductance, are one number: a relation that resists with one quantum passes one quantum per hop. The two choices on the books (one quantum per hop; stiffness one quantum per relation) become one. With K_r = 1, G = δc³ℓ²/(4πħ), ℓ = ℓ_P√(4π/δ) and δ ≳ 2 × 10⁻⁷ stand at the grade of that one choice (candidate), not at shape.
+
+**What it is.** It is step 1's flux balance, read as a consistency condition at the body rather than as the field's transport: the steady flux through every sphere is the draw, and the profile carrying it is the one the relations impose. The exclusion of the previous entries removed step 1 as dynamics, not this static relation, so the order-one factor of the stiffness estimate is fixed by it.
+
+**What it does not do.** For a moving body the imposed profile sweeps past each place: at fixed place ∂_t ln P_free = v·∇U, while outside the body ratio hopping across the profile has no divergence (∇²U = 0) to supply that change. So if possibility is conserved in passing, the stock near a moving body cannot follow the relations by hopping alone; it would have to move with them, as free possibility in motion on the relations (the feed P7 already names), at the relations' speed. Whether the rules give that is open, and it is now the question the moving-source exclusion leaves: not what carries the field, but whether the free stock is carried with it.
+
+**Grade.** Candidate reading: the order-one factor is 1 by static consistency between the profile the relations impose and the body's draw; K_r = κτ/ħ.
+
+**Cold reading, same day.** Three corrections to the entry above. (1) Static consistency fixes G in terms of the hop's conductance, G = δc⁴ℓ/(4πκ), δc³ℓ²/(4πħ) at κ = ħ/τ (a choice); it fixes only the ratio of the stiffness estimate's lattice factor to K_r, not each, so "K_r = κτ/ħ, one choice" was a relabelling: equating stiffness with conductance is a further posit (shape). Checked against the stiffness estimate itself: with the source the energy, not the draw, K_rħ ≈ c³ℓ²/(16πG) gives K_r ≈ 1/(4δ), not 1. (2) "A local supply, not a transport over distance" was wrong: the same flux crosses every sphere, so possibility moves radially in from far away; what is new is that the gradient is imposed, not built. (3) For a moving body the stock would have to move with the profile at the body's velocity, not at the relations' speed. Results docs entered with these corrections.
