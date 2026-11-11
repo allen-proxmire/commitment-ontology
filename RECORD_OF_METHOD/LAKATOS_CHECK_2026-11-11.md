@@ -86,3 +86,7 @@ Einstein–Hilbert plus Λ by consistent deformation replaces the contested boot
 ## Update: dark matter read against the rules
 
 The dark-matter shape (added for dark matter) gains consequences it was not added for: universal coupling at linear order, freedom from the frame problem's loop split, and, given the present inventory, a fermionic dark pattern, which meets data (the dwarf-galaxy Pauli bound, m ≥ 0.13 keV) and excludes ultralight bosonic dark matter, a risky claim a detection could refute. As a shape it was not counted before; as readings these are **progressive** for the shape, conditional on the inventory. Counts: progressive 10, accommodating 2, neutral 7.
+
+## Update: the photon ratio against the beginning
+
+The literal matter–antimatter hunch (one matter pattern per saturated place) is excluded by η given stated assumptions (**excluded**, kept with its reason); its first-places version turns η from a silence into a shape, η ≈ N₀(P_max − P_b)/E₀, with a rule missing. Neutral overall. Counts: progressive 10, accommodating 2, neutral 8; exclusions found today: 2 (exact lattice no backdrop for interacting matter; the literal hunch).
