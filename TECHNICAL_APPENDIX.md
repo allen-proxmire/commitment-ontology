@@ -19,6 +19,7 @@ Each rule's grade is in its own column: posited (a quality the author has decide
 | P7b | the occupancy may differ by direction: its one-way part a_ij = (o_ij − o_ji)/2, set by the direction of travelling draws, carries the shift g_0i; only its sums around loops are physical, as for a U(1) link | the author's ruling, candidate |
 | P7c | each place carries the shear of its local frame, the off-diagonal γ_ij (i ≠ j) in the graph's coordinates, in the walk's local unitary, set by the off-diagonal stress T_ij (i ≠ j) as the one-way part is by T_0i; with the axis occupancies (γ_ii) and P7b's shift, every metric component has a carrier on the cubic graph | the author's ruling, candidate |
 | P7d | a relation carries a which-way phase φ_ij ∈ U(1) | candidate |
+| P7e | no backdrop: moving or relabelling places, and resetting a place's clock (with the shift of its lapse), cost nothing; at linear order on the cubic graph this forces the relations' cost to linearised Einstein–Hilbert, isotropic (run G1) | places: posited. clocks: the author's ruling, candidate. the linear cost: needed, given both |
 | P8 | two routes meeting at a place combine as p = \|√p₁ e^{iθ₁} + √p₂ e^{iθ₂}\|² | imported theorem (Goyal–Knuth–Skilling: forced by conservation in passing, scalelessness and associativity) |
 
 **Commitment.**
