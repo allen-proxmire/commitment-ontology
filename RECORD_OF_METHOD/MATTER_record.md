@@ -1124,3 +1124,13 @@ So the continuum clause follows as "a rate only where the final state is broad a
 B(t) = g^{t/τ},  t_N = τ ln N / ln g.
 
 For a cascade the time to commit grows only as ln N: N ≈ 50 and N ≈ 10⁶ differ by a factor of about 3.5 in time. So timing is a weak signature of N in any detector and the strong one stays size: reversal failing at a fixed breadth. Which law a given engager follows is set by its onward channels; neither is ruled.
+
+## 2026-11-11 — G1's method turned on the frame problem (reading; no run needed)
+
+**The idea.** Run G1 counted the costs that the cubic group plus a gauge freedom allow for gravity's carriers and found them isotropic. Could the same count show that the walk's symmetries (cubic group, C, the palindromic order, time reversal) forbid species-dependent top speeds at one loop?
+
+**Why the outcome is already known.** The term loops generate is c_μν ψ̄γ^μ∂^ν ψ with c_μν ∝ u_μu_ν, u the lattice's rest frame (Collins et al. 2004): an isotropic rescaling of a species' time against its space, its speed. It is invariant under every rotation, so under the cubic group too, and under C, P and T. G1 itself shows the same thing on the gravity side: its two-dimensional space was a strength and a speed, and the gauge freedom did not fix the speed. So the count would return one allowed speed term per species, as it returned one for gravity. No symmetry the walk has forbids it, and the protocol does not call for a run.
+
+**What it adds.** (1) The frame problem has the same structure in every sector, gravity included: each sector carries a speed that symmetry leaves free. At tree level CO sets them equal by giving every sector the same tick (one hop per tick, ℓ/c), and the walk's Wilson angle sets matter's massless speed c₀ = 2cos w, so equality at tree level also needs one w for all species. Loops renormalise each sector's speed separately. (2) GW170817, gravity's speed equal to light's to ~10⁻¹⁵, is a bound in the same family as the Crab bounds on matter: CO must keep gravity's speed and light's together through loops too. (3) What would protect equality is a symmetry relating sectors' speeds; in the continuum that is Lorentz boosts. Universal coupling to one metric (every walk reading the same local frame, P7c) makes speeds equal at tree level, not under loops.
+
+**Grade.** Reading. The frame problem stands; its statement now includes gravity's speed, bounded by GW170817.
