@@ -8,14 +8,14 @@ Every statement carries its grade (ruled, candidate, needed, excluded, shape, si
 
 | rule | statement |
 |---|---|
-| conservation | Σ_i P_i is unchanged by every passing and every commitment (ruled); births add P_b each, a new place born with its share P_b ≈ (d − 1)ħ (candidate) |
+| conservation | Σ_i P_i is unchanged by every passing and every commitment (ruled); births add P_b each, a new place born with its share P_b = P∞ = (d/2)f, f the feed per relation (needed, given the held ruling; R5's (d − 1)ħ agrees only at f ≈ 1.67ħ, open) |
 | P1 | a hop moves one quantum, q = ħ (candidate), and compares neighbours by ratio: the flow on ⟨ij⟩ is J_ij = κ ln(P_free,i / P_free,j), κ the hop's conductance (ruled) |
 | P2 | P_free,i ≤ P_max; above it the place commits (ruled) |
 | P3 | P_free,i = P_i(1 − h_i), h_i the engaged fraction; what a commitment engaged is released on completion, less C3's record (ruled) |
 | P4 | net flow on ⟨ij⟩ runs toward the end with larger h (ruled; with P1 and P3, at equal P, J_ij = κ ln[(1 − h_i)/(1 − h_j)], a consequence there, not a restatement) |
 | P5 | possibility in transit keeps its mean direction until its own commitment redirects it: the whole step U commutes with translations, so momentum is conserved (ruled) |
 | P6 | a closed whole draws δ × (turning + 2 × travel), light draws δ × 2E, and every draw becomes record (candidate) and sets the occupancies of the relations around it, a relation's stiffness one quantum (the author's ruling, candidate); the draw per volume is δ(ρ + S), and with travel at the local clock rate the source is (ρ + S)N (candidate reading) |
-| P7 | a relation carries an occupancy o_ij, its excess over the vacuum's, set by the draws (P6) (each relation is fed by at least a quantum of free possibility in motion, the vacuum's, which gives the stiffness of one quantum, candidate), and a which-way phase φ_ij ∈ U(1) (candidate); a route's length is Π(1 + o) along it, which at rest is P∞/P_free (ruled, given the occupancy, candidate) |
+| P7 | a relation carries an occupancy o_ij, its excess over the vacuum's, set by the draws (P6), each relation fed by at least a quantum of free possibility in motion, the vacuum's, which gives the stiffness of one quantum (candidate); the excess is held in the relation: not free for commitments to engage, not drawing, counted in h (the author's ruling, candidate); and a which-way phase φ_ij ∈ U(1) (candidate); a route's length is Π(1 + o) along it, which at rest is P∞/P_free (ruled, given the occupancy, candidate) |
 | P8 | two routes meeting at a place combine as p = \|√p₁ e^{iθ₁} + √p₂ e^{iθ₂}\|² (forced by conservation in passing, scalelessness and associativity; Goyal–Knuth–Skilling, an imported theorem) |
 
 **Commitment.**
@@ -37,7 +37,7 @@ Every statement carries its grade (ruled, candidate, needed, excluded, shape, si
 
 | quality | origin | what it carries |
 |---|---|---|
-| conservation in passing; birth share | nature; birth share needed (a conserved stock starves under expansion), ruled candidate; size ≈ (d − 1)ħ candidate | P8, the Born identification, the sink, the floor, the inflation-like exit |
+| conservation in passing; birth share | nature; birth share needed (a conserved stock starves under expansion), ruled candidate; size (d/2)f needed (held ruling and P7's at-rest clause) | P8, the Born identification, the sink, the floor, the inflation-like exit |
 | P1 ratio hopping, one quantum per hop | nature (scalelessness favours ratio) and data (Mercury selects the pairing); q = ħ for consistency with the degree (R5) | Newton's 1/r, β = 1, the form of G, the lapse-weighted flux |
 | P2 capacity | nature (no infinities) | the beginning, the inflation-like exit, births |
 | P3 hold-and-release | nature (conservation) | the clock's free share, the record |

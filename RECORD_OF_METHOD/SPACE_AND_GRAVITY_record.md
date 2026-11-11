@@ -1184,3 +1184,19 @@ carried by h, not by the amount of possibility at the place. The excess occupanc
 **What stays.** The static balance (previous entries) is unchanged: across the free share's profile, ratio hopping carries the body's draw through every sphere. The stock's role is food and the steady stream; its *shape* near a body is the relations' doing.
 
 **Grade (after cold reading).** A posit, not a reading: P3 and C1 define h as what commitments engage, and P7 makes the vacuum's feed free possibility in motion; possibility *held* by a relation is new. Proposed for the author's ruling: *the excess occupancy a draw sets is possibility held in the relation, not free for commitments to engage, and it does not draw; h counts that share.* Both clauses are needed: if held possibility were free to engage, clocks would not slow; if it drew, the held amount (growing as R² with radius) would change the U² terms and β. With it, "the stock carried with the body" and "the clock reads the relations" coincide. Owed, an order-one check: with the vacuum's occupancy about ħ per relation, three relations per place and P∞ ≈ 5ħ, h ≈ (3/5)o, while a route factor 1/(1 − h) per hop needs o ≈ h; the lattice must set the factor.
+
+## 2026-11-10 — held possibility (the author's ruling, candidate), and the order-one check it sets (needed, by Cassini)
+
+**Ruled.** The posit of the previous entry: the excess occupancy a draw sets is possibility held in the relation, not free for commitments to engage, and it does not draw; h counts that share. Entered: P7 row, OPEN_DIRECTIONS, README.
+
+**The check.** Let each relation carry a feed f in the vacuum (P7: at least a quantum, f ≥ ħ), and o be the excess as a fraction of f, so a relation holds o f. Each relation has two ends and a place has d relations, so a place's held possibility is (d/2) o f and
+
+h = (d/2) f o / P∞.
+
+The route factor per hop is 1 + o, and at rest it must be P∞/P_free = 1/(1 − h), so o ≈ h to first order. If instead h = k o, the route factor is e^{U/k} against the lapse e^{−U}, giving γ = 1/(nk) with n the clock's quanta per engagement (appendix §1). P7's at-rest clause (ruled) already sets the route factor to P∞/P_free, so k = 1 follows from that clause plus the held ruling; Cassini tests only nk = 1, confirming k = 1 together with n = 1. So
+
+P∞ = (d/2) f: a place's whole possibility is its share of its relations' feed (needed, for P7's two route clauses to agree, to first order in U, with the excess equal on a place's d relations).
+
+**Against the other counts.** With f = ħ and d = 6 this gives P∞ = 3ħ, not the (d − 1)ħ ≈ 5ħ of R5's count (degree ≈ P/ħ + 1). Both hold together if f = 2(d − 1)ħ/d ≈ 1.67ħ for d = 6, which P7's "at least a quantum" allows. The birth share P_b = P∞ follows the same condition. This works only if R5's count stays in units of ħ while the feed is f; if R5's count is re-read with the feed f, (d − 1)f = (d/2)f gives d = 2, and R5's count must give way. Which gives way is open; the condition itself is fixed. The birth-share entry above (P_b ≈ (d − 1)ħ) ignored that each relation is shared by two ends; the appendix's conservation rows now carry (d/2)f.
+
+**Reading.** In plain terms: the vacuum at a place is nothing but its half of what its relations carry. That is the author's "space made of relations" as a consistency condition, needed for P7's two route clauses to agree once relations hold the field.
