@@ -1303,3 +1303,7 @@ whose totals are (ħ/τ)⟨sin(Hτ/ħ)⟩ and (ħ/ℓ)⟨sin(p_iℓ/ħ)⟩, with
 **Scope.** Energy: exact for any walk the same every tick, a fixed place-dependent coin included (checked: drift ~10⁻¹⁵). Momentum: needs the walk to be the same at every place (a regular lattice; a place-dependent coin gave drift 0.19), which the cubic graph of P7c keeps defined. A field that changes over ticks exchanges energy with the walk, and what must be conserved is matter plus field together; at linear order the source is the free walk's, as above. The local densities' conservation (∂_t ε + D_i j_i = 0 with a matching lattice current) is not shown here; the total, which is what the gauge needs, is.
 
 **Grade.** Reading: the condition the gravity chain rests on is met, exactly, for the free walk.
+
+## 2026-11-11 — grade word: "ruled" becomes "posited" in the results docs (the author's decision)
+
+An outside reading noted that "ruled" reads to a physicist as "derived". In the results docs the grade is now "posited": a quality the author has decided, not derived. Where "ruled" had meant derived (NUCLEUS, chirality-blindness from a symmetry argument and a check), the wording now says so. The records keep "ruled" as written at the time. Also: the README scope line now says quantum mechanics is reached "largely by identification with known constructions"; the shot-noise figure in SPACE_AND_GRAVITY now shows its inputs (8 × 10⁻³⁶ rad, the record's value).
