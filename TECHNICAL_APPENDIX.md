@@ -54,7 +54,7 @@ Every statement carries its grade (ruled, candidate, needed, excluded, shape, si
 | C5 phase | posit (the matter sector's one addition; interference needs it) | the walk's waves |
 | C6 the flip | identification (Feynman's checkerboard); palindrome needed by data; Wilson form candidate | mass in the walk, Dirac's equation |
 | C7 the beginning | initial condition | the first epoch |
-| C8 measurement | match, narrowed by data (vacuum Rabi oscillation excludes the literal form) | outcomes, Born's chance |
+| C8 measurement | match, narrowed by data (vacuum Rabi oscillation excludes the literal form); its channel clause (frequency and direction) follows from the walk and the phase for a classical drive and a translation-invariant engager, within a width (candidate) | outcomes, Born's chance |
 
 Of eighteen entries, two are tagged *match* alone: the travel rule, which supplies ρ + S in several settings, and the which-way phase, which carries charge, g = 2, Aharonov–Bohm and two-body binding. C8 is matched and narrowed by data.
 
