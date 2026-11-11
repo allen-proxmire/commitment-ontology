@@ -1204,3 +1204,23 @@ P∞ = (d/2) f: a place's whole possibility is its share of its relations' feed 
 ## 2026-11-10 — possibility plus record is conserved (the author's ruling, candidate)
 
 An outside reading caught a contradiction: conservation said Σ P unchanged by every commitment (ruled), while "record is not possibility" (ruled today) and C3 turn δħ per repeat into record. Resolved (after cold reading): Σ P is unchanged by every hop; every draw (C3's δħ per repeat; P6's travel, light and field energy) turns possibility into record; between births Σ(P + R) is unchanged and dR ≥ 0, so possibility only ever becomes record, never the reverse. Supersedes "unchanged by every commitment". Why the far-field P∞ does not run down: births bring each new place its share (candidate; size needed, entry above), and the draw over the universe's age is small against the stock (record per place ~10⁻⁵⁸ ħ, entry above). Entered in README, the plain doc, SPACE_AND_GRAVITY's glossary and the appendix's conservation row.
+
+## 2026-11-10 — the relations' update rule: a first form, and what blocks it (shape; after cold reading)
+
+**The aim.** The outside reading asked for the relations' update rule, run with a moving source. A first form was written and read against standard lattice analysis before any run.
+
+**First form (proposed, then corrected).** Each tick, every relation's occupancy and every place's held share updated from neighbours over the last two ticks and from the sources at their ends: linearised Einstein–Hilbert in harmonic gauge, signature (−+++),
+
+−(1/c²) D_t² h̄_μν + Δ_ℓ h̄_μν = −(16πG/c⁴) T_μν,
+
+D_t² the second difference over ticks, Δ_ℓ the nearest-neighbour lattice Laplacian. The lapse h_00 = ½(h̄_00 + h̄_ii) is sourced by T_00 + Σ T_ii = ρc² + S, i.e. R₀₀ = (4πG/c⁴)(ρc² + S): the draw. δ sits in G; equivalently the draw density δ(ρ + S) couples with G/δ = c³ℓ²/(4πħ), so δ is not counted twice.
+
+**What the cold reading found.**
+1. *Unstable at CO's own tick.* With time steps the dispersion is sin²(ωτ/2) = (cτ/ℓ)² Σ_i sin²(k_iℓ/2). At τ = ℓ/c and k = (π, π, π)/ℓ the right side is 3: no real ω, growth by a factor ≈ 9.9 per tick. A nearest-neighbour update in three dimensions is stable only for cτ ≤ ℓ/√3. So a strictly local nearest-neighbour field update at CO's tick blows up.
+2. *A stable form exists and has the walk's structure.* The product stencil cos ωτ = Π_i cos(k_iℓ) is stable at cτ = ℓ and has speed c at long wavelength. It is what three one-axis steps per tick give, the same split the Dirac walk uses (TECHNICAL_APPENDIX §3); its reach is the diagonal neighbours, as the split walk's is. It has a spurious static mode at k = (π, π, 0)/ℓ and its permutations, a doubler of the field, the counterpart of the walk's doublers; whether a Wilson-type term removes it, as for the walk, is not read.
+3. *Too few carriers.* A place's held share and its three axis occupancies carry h_00 and h_ii only. Nothing carries h_xy (the cross polarization) or h_0i (the gravitomagnetic part, which a boosted field needs, h_0i ≈ −4Uv_i, and which α₁ measures). A cubic lattice's edge lengths do not fix a Regge metric either.
+4. *Gauge.* Harmonic gauge holds to O(ℓ²) only if the lattice T obeys the matching lattice conservation, with four constraints on the starting data.
+
+**What survives.** The static limit (lattice Poisson, Newton with O(ℓ²/r²) corrections). If items 2 and 3 are met, preferred-frame effects in the field scale as (ℓ/r)² (the scheme is symmetric in time and space, so no odd-order term): α₁, α₂ ~ 10⁻⁸⁴ in the solar system, scale-dependent, against bounds of about 10⁻⁵ and 10⁻⁹. Until then the moving-body, α₁ and radiation lines are open.
+
+**Grade.** Shape: continuum GR imported, its lattice form open. Owed: carriers for h_0i and h_ij (relations need more than a length: a shift and a shear), the field doubler, and a short stability run once the carriers are written (outcome unknown; registered then).
