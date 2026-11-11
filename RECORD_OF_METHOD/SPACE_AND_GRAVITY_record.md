@@ -1067,3 +1067,21 @@ The author's long-held picture: record, over time, becomes relation; space is ma
 - *Space's stuff, from record made since the radiation era: excluded by size.* Record kept in place grows per comoving volume at δρ_m c² (matter era; the radiation era adds ≈ 4δρ_m c² t_eq, negligible), so today it is at most δρ_m c² t₀/ħ ≈ 2×10³⁵ δ/(2×10⁻⁷) ħ per m³. Places number ℓ⁻³ with ℓ = ℓ_P√(4π/δ). Record per place: 4×10⁻⁵⁸ ħ at δ = 2×10⁻⁷, 2×10⁻⁶¹ ħ at δ = 1 (it falls as δ rises, since places multiply faster than record). A relation needs about ħ of feed; record falls short by 57–61 orders at every allowed δ. The same size test moved the feed of relations from transit to free possibility.
 - *Space's stuff at the beginning: silence.* The first epoch's places came from the first commitments' repeats, so there space was made by what happened. How much record that epoch left is not computed.
 - *Space's shape: partly.* The field is set by the sink, the rate at which record is made (step 1), not by the record stored. What is happening, not what has happened, shapes space (shape).
+
+## 2026-11-10 — record from the first epoch: what "record becomes relation" would need (a condition; one conflict)
+
+**Dilution since nucleosynthesis.** Distance is hop count, so the number of places in a comoving volume grows as a³, and new places since the first epoch are born possibility-side, with no record (the author's ruling). Since nucleosynthesis (T ≈ 0.1 MeV, 1 + z ≈ 4×10⁸) places have multiplied by about 10²⁶. Record made since then is ~10⁻⁵⁸ ħ per place (previous entry). For record to feed today's relations, about P_b ≈ (d − 1)ħ ≈ 5ħ per place, each place at nucleosynthesis must already have held
+
+R_BBN ≳ 5ħ × (1 + z_BBN)³ ≈ 4×10²⁶ ħ,
+
+and more for any growth between the first epoch's end and nucleosynthesis.
+
+**What the first epoch can supply.** During the epoch a place holds at most P_max, so at most P_max/ħ commitments, each keeping δħ per repeat: record per place per tick ≤ δP_max. Over n ticks, and diluted from the epoch's end to nucleosynthesis,
+
+R_BBN ≤ δ (P_max/ħ) n ħ × (a_exit/a_BBN)³.
+
+So the picture needs δ (P_max/ħ) n ≳ 4×10²⁶ (a_BBN/a_exit)³; with δ ≤ 1, (P_max/ħ) n ≳ 4×10²⁶ at the very least. CO's numbers (P_max, the epoch's length) are open, so this is a condition, not an exclusion.
+
+**The conflict.** Each place would then hold record exceeding its free possibility (P_b ≈ 5ħ) by some 26 orders. The clock rule's 1 − h = P_free/P matches the lapse N = P_free/P∞ only where P = P∞; inside matter that holds because record is ~10⁻¹⁴ ħ per place at most. If record counts in P, a record of 10²⁶ ħ per place breaks the identification by that factor: harmless only if exactly uniform, and any unevenness left by the first epoch would show as clock-rate differences between places. If record does not count in P, there is no conflict. Which it is, is not ruled.
+
+**Grade.** Silence narrowed to a condition (shape): "record becomes relation" for today's space needs the first epoch to leave ≳ 4×10²⁶ ħ of record per place at nucleosynthesis, and, if record counts in a place's possibility, an exactly uniform record. The beginning's part, space made by the first commitments' repeats, is untouched.
