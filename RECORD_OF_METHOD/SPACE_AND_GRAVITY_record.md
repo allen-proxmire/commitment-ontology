@@ -1126,3 +1126,17 @@ Reading (candidate). Transport of the free stock, diffusive, ballistic or mixed,
 **Correction.** The cold reading of 2026-11-07 (above, "Cold reading, same day: does not enter") called ∇² ln P = σδ "the steady state of ratio hopping relaxing at the hop speed". Relaxation is diffusive, not at the hop speed; that is the point of this entry.
 
 **Entered.** OPEN_DIRECTIONS ("What carries the field"); TECHNICAL_APPENDIX ("What kind of derivation", now static); README ("static weak field", one sentence).
+
+## 2026-11-10 — the static field and G from the occupancies (shape; one ruling proposed to the author)
+
+**The move.** With the free stock unable to carry the field (previous entry), let the draw set the relations directly: what every draw withdraws as record puts the relations around it out of step (their occupancies), and the cost of relations being out of step is Einstein–Hilbert (Lovelock, given its hypotheses), whose dynamics run at c. Nothing flows in; the field is carried by the relations.
+
+**G's form from two numbers.** Two quantities meet: the source, the draw, δ of the energy present per tick; and the stiffness, what a relation's mismatch costs. On the lattice a cell is ℓ³ × τ; the Einstein–Hilbert density (c³/16πG)R over a cell, with a unit mismatch on a relation giving R ~ 1/ℓ², costs about c³ℓ²/(16πG) per tick. If a unit mismatch costs K_r ħ per tick (K_r the stiffness in quanta), and curvature is sourced by the draw (δ of the energy) rather than by the energy itself,
+
+G = δ c³ℓ² / (4πħ K_r) × (a lattice factor of order one).
+
+With K_r = 1, one quantum of stiffness per relation (relations fed by about one quantum, the reading already used for the birth share), this is step 1's G = δc³ℓ²/(4πħ), up to the order-one factor that a concrete rule for how a draw sets occupancies would fix (4π against 16π is that kind of factor). ℓ = ℓ_P√(4π/δ) and δ ≳ 2 × 10⁻⁷ then return on this footing, at shape grade, conditional on K_r = 1.
+
+**What it keeps and costs.** Keeps: G's form, the δ–ℓ link, a field that follows moving bodies at c (it is GR's), and the author's picture that what is happening (the draws) shapes space. Costs: a posit, not a reading: *a draw sets the occupancies of the relations around it* (proposed for the author's ruling); the occupancy, which was read as the excess the free stock delivers, becomes what the draws set; and the order-one factor, open until the posit has a concrete form.
+
+**Grade.** Shape. Proposed ruling: the draw, not inflow of free stock, sets the occupancies; stiffness one quantum per relation.
