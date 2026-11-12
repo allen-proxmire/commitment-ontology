@@ -150,3 +150,33 @@ B splits in two: B1, colour (now C9, candidate) and B2, the kind label (not rule
 **The chip C9 makes cheap.** With C9, the tuning and a posited colour coupling, CO's colour sector is lattice QCD: parts on the places, a colour matching on the relations, a coupling weak at the hop scale. Lattice QCD at weak coupling and the continuum limit is the standard computation of confinement and the hadron spectrum. The nucleon's mass comes out about 940 MeV from Λ_QCD and the light quark masses, most of it binding (the trace anomaly). So confinement, the spectrum and the nucleon's mass from beneath follow by identification, conditional on C9, tuning, the coupling and the quark masses as inputs. Confinement is established there numerically, not proved (the Yang–Mills mass gap). CO adds nothing of its own; the gain is that these items move from "missing" to "by identification", as the QED loop effects did. This needs a cold read before entering NUCLEUS.
 
 **The next hollow.** The weak interaction now waits on three pieces at once: the kind label (B2), a one-handed field on the lattice (C) and a source of masses (H, symmetry breaking). Together these are the electroweak sector. C and H also sit under the doublers, dark matter's mass and every mass. So the next edge is the electroweak sector as one block. It imports the most: the kind label's two, a chiral lattice construction (an open problem of lattice physics) and a Higgs-type field with its couplings. Masses stay inputs even with it, since the Higgs mechanism places masses but does not compute them.
+
+## Refresh at the end of 12 November
+
+Pieces now: C9 (colour, candidate); B2 + C + H merged as the electroweak block, whose one named missing piece is **S, a scalar doublet at each place** (the boson part of the two-part split; no CO-native source: gravity's place scalars cannot carry the kind label, a link field gives a triplet, minimal fermion pairing is excluded by the top and Higgs masses). The kind label, its one-handedness and the chiral lattice construction (C) ride with S.
+
+| open item | waits on |
+|---|---|
+| gravity's nonlinear rule | E |
+| inside matter, the radiation era | D |
+| doublers | C |
+| number change (its costs) | K |
+| the weak interaction | S (with the kind label, one-handedness, C) |
+| up and down charges | S block (the kind label) |
+| the masses | S block (places them; values stay inputs) |
+| dark matter (its mass) | G, H |
+| the photon ratio η | G |
+| colour; confinement; the spectrum; the nucleon's mass | C9 (candidate) and identification with lattice QCD (conditional) |
+| statistics; two patterns; QED loop effects | settled or by identification (conditional on tuning) |
+| entanglement's joint law | inherited |
+| N | experiment only |
+
+**Counts.** S block: 3 (4 with the doublers' C) · G: 2 · D, E, K: 1 each.
+
+**Reading.** CO's open edges at the end of the day are four:
+- **S**, the electroweak block: one missing boson, with the kind label, one-handedness and the chiral construction behind it.
+- **G**, the beginning's numbers (P_max, N₀, E₀), under dark matter and η.
+- **The gravity sector's lattice debts:** E (the nonlinear cost on the lattice carriers) and D (the walk on the curved network).
+- **K**, the vacuum energy.
+
+The frame problem is tuned. Colour, the nucleon and the QED corrections are housed by identification under named conditions. **Where work should go, by the shape:** S is the largest, but it is an import with no CO lead. E and D are CO's own gravity sector, with no external problem attached, and might be climbable with CO's tools. G is CO's cosmology, where C7 and the beginning's numbers already stand.
