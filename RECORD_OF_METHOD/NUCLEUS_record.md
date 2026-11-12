@@ -466,3 +466,19 @@ The same oddness turns up twice already: Witten's global anomaly needs N_c odd, 
 - The emergent field's dynamics (Yang–Mills) still needs quantisation and loops, so the frame problem's exposure is unchanged.
 
 **Grade.** Shape, ungraded. It offers a reason for three (the least odd splitting of a fermion into alike fermions) and an on-site home for colour, which are exactly what the price list said would have to be imported. It turns "the sizes by hand" into "minimal splitting, a posit". Not ruled; read against the cascade bar only if the author wants to go on.
+
+**Cold read of the poke, applied (2026-11-12).** What holds:
+- The algebra is right: the redundancy is SU(N), not U(N); an overall phase sends c to e^{iNθ}c, and Z_N sits inside SU(N).
+- The singlet sector at one site matches c's two states.
+- "Least odd N above one" is sound for parts that are all fermions.
+
+What is corrected:
+- *Spin (error).* Parts alike in every respect make the colour part antisymmetric, so spin and position must be symmetric. Three such spin-½ parts at one site make spin 3/2 (Δ⁺⁺-like, the original argument for colour), not a spin-½ whole. So "alike" must mean *alike in colour only*: interchangeable in one label, free to differ in flavour and spin. The SU(3) redundancy acts on that one label, which is all the argument needs. A spin-½ nucleon then needs its parts to differ in flavour.
+- *Charges (error).* Parts alike in charge carry Q/3 each, so +1 splits into thirds of +1/3, never +2/3 and −1/3. Up and down charges need the parts to differ in kind (flavour). With the kind label in hand, anomaly cancellation gives Q_u − Q_d = 1 from the kind label and the offset 1/(2N_c) = 1/6 from three colours, so uud = +1. The split supplies N_c = 3; the kind label supplies the difference. The leftover parton U(1) carries Q_c/3 (baryon number as one third of parton number, kept by the walk).
+- *Gauss law (overstated).* On-site singlets hold only at infinite coupling. With a dynamical gauge field, Gauss's law includes flux on the relations, so separated parts joined by flux are physical states. The match with the 5 Nov "one pattern" point holds in that sense: one pattern equals a global singlet with its flux.
+- *The coupling at the cutoff (the main missing caveat).* An emergent gauge field has no cost of its own at the hop scale, and the cost induced by integrating out the parts makes it strongly coupled there. Asymptotic freedom makes it stronger still at lower energies, so confinement would sit near the hop scale. That contradicts α_s ≈ 0.02 extrapolated to 10¹⁵ GeV and quarks resolved as pointlike up to TeV energies. Getting a weak coupling at the cutoff needs tuning or very many heavy species (the induced-QCD problem, Kazakov and Migdal 1993). So the field's own quadratic cost and its coupling (posits (ii) and (iv) of 9 Nov) are still needed. The split supplies the label and its size, not the dynamics.
+- *Also:* the SU(3) is real only for a mean-field state that keeps it; otherwise it breaks to U(1)² or Z₃. Weinberg–Witten is evaded, since gauge currents are not gauge-invariant. 't Hooft anomaly matching applies.
+
+Prior art: Jain 1989 (partons); Wen 1999 (projective construction) and 2002 (PRB 65, 165113), Wen's book (2004); Levin and Wen 2005; preon and rishon models (Harari 1979).
+
+**Where it lands.** Against the price list, the split replaces the on-site label and its size three (posit (i), "the sizes by hand") with two choices: parts alike in colour, and the least odd split. The gauge field's cost and coupling (posits (ii) and (iv)) stay posited, as in the standard theory, where Λ_QCD is an input. The kind label is still needed for the charges. Net: one import becomes a minimality posit; the rest of the bill is unchanged. Grade: shape. The price list stays held.
