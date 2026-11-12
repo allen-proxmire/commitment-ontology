@@ -28,6 +28,7 @@ What is open, each with its status and what it would take. Status words: candida
 
 - **The wall.** Colour needs a complex three-component matching that two primitives do not supply; six routes closed. A third primitive would need at least four posits, and the proton would still be unbuilt.
 - **Quarks and gluons.** Shape: quarks as a second kind of commitment, gluons as patterns of a colour field. Missing: the three, the non-commuting matching, confinement.
+- **Baryons as twists.** Shape: a nucleon as a winding of the flip's direction over the three directions of space (Skyrme), with the Δ as its next rotation state and three as dimension twice over (space and label). Candidate, held: the renewal's flip has a direction in a two-valued label's space, set place by place; its ripples are pions. The two-valued label is the staggered fermion's taste: three one-axis tiles are the 2³ corners of a cell, which hold two Dirac fields (checked term for term), so the doublers become the label rather than heavy particles. *Takes:* a cost for twisting and a reason twists hold their size; whether the discrete-time walk keeps the exact remnant symmetry (Meyer's lemma); why nature's two light kinds would be these two. See [`OPEN_DIRECTIONS_notes/how_patterns_combine.md`](OPEN_DIRECTIONS_notes/how_patterns_combine.md).
 - **Entanglement.** Candidate: a pair is one pattern with one undivided stock, and the measurement is the cut. Inherited, not supplied: the joint law and the marginal at one place.
 
 ## Method
