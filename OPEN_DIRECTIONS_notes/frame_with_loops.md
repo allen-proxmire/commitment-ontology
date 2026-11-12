@@ -28,6 +28,7 @@ with ξ_i of order one and set by the regulator's shape, not suppressed by ℓ (
 | frame only in gravity | Pospelov–Shang 2012, suppression (M_LV/M_Pl)² | not available: matter walks on the network |
 | fermion–boson symmetry | Groot Nibbelink–Pospelov 2005; breaking below about 10⁷ GeV by the (M_SUSY/M)² scaling against CO's hop scale | no partners in CO |
 | common origin, two scales | Klinkhamer–Volovik 2005 (hep-ph/0505033); Volovik, *The Universe in a Helium Droplet* (2003): light and gravity induced by the same fermions near a Fermi point are Lorentz invariant up to (E_Pl/E_LV)² | needs E_LV ≫ E_Pl; CO has E_LV = ħc/ℓ ≤ E_Pl/3.5 (about 1.4 × the reduced Planck energy at most) |
+| common origin, gauge side (12 Nov) | fields made from the walk's parts | closed: induced speed splits at O(1/ln(1/mℓ)) ~ 1/40; CO's fields need their own cost (weak coupling at the hop scale) |
 | no backdrop held exactly on the lattice | would conserve the total energy current, forcing equal speeds | excluded for interacting matter: periodic dispersion makes the energy current a non-invariant of 2 → 2 scattering (matter record, 2026-11-11) |
 | walk–link cancellation | matter and light break no backdrop in matching ways | unsupported: on anisotropic lattices the gauge and fermion speeds renormalise differently and are tuned separately (Klassen 1998; Morrin et al. 2006); matter record, 2026-11-11 |
 | tuning | \|ξ_e − ξ_γ\| ≲ 10⁻¹⁷ | permitted, unexplained; not accepted by the author |
@@ -76,3 +77,23 @@ From the sink's strength with a fixed amount q per hop, G = δc³ℓ²/(4πq) in
 
 
 **Sketch, ungraded (the author, 2026-11-11): the frame is where space is being made.** New places are born at the same rate everywhere in one frame, the one in which the expansion looks the same in every direction: the frame the microwave background picks out (Earth moves through it at about 370 km/s). So the lattice's rest frame has a physical home, and any speed differences between species would line up with motion through the microwave background. Dark energy alone picks no frame (empty space with only Λ looks the same to every observer); matter, radiation and the making of places do. This names the frame; it does not shrink the loop-induced speed differences, which remain the problem.
+
+## The common-origin exit, tested (12 Nov; reading)
+
+**The question** (from the negative-space map). If the gauge fields are made from the walk's parts (the parton poke for colour; induced fields generally), do they inherit the walk's light cone, so that walk and link speeds cannot split?
+
+**At tree level, yes; past that, no.** A gauge field with no cost of its own gets one from the loops of the fermions that make it:
+
+1/g²_ind ≈ (Σ_i q_i² / 12π²) ln(1/(m_i ℓ)).
+
+The coefficients of the electric and magnetic parts (E² and B²), whose ratio is the field's speed, each carry this logarithm with the same weight. The logarithm is fed equally by every scale up to the hop scale, though, and near the hop scale the walk's dispersion is not Lorentz invariant, so the two coefficients pick up different finite parts of order one. The induced field's speed then differs from the walk's by
+
+|c_γ − c_f|/c ~ O(1)/ln(1/(mℓ)) ≈ 1/40 (electron, ℓ ~ 10⁻³¹ m),
+
+far worse than the α/π split it was meant to cure, against bounds near 10⁻²⁰. This is the frame table's "common origin" row seen from the gauge side: Volovik's protection needs the Lorentz-violating scale far above the scale at which the field's cost is made, and CO has one scale.
+
+**A second, lower scale does not rescue it.** If the fields formed only below some Λ ≪ ħc/ℓ, loops would be cut at Λ and the split would fall to α(Λℓ)². But the fermions that induce the field exist, with their coupling, all the way to the hop scale; the redundancy is exact at every scale, so the induced cost is still fed from there.
+
+**And the parton poke already gave the field its own cost.** Its cold read found that a weak coupling at the hop scale (needed for asymptotic freedom) requires the gauge field's own quadratic cost, posited, not induced. A field mostly carried by its own cost is a carrier beside the walk, and its speed is free again.
+
+**Result.** The common-origin exit closes for CO: induced fields split at O(1/ln), and the fields CO needs carry their own cost. The exits table now has one unexplored entry, a real-time symmetry mixing the tick with the hops, plus tuning (permitted, not accepted by the author). Grade: reading.
