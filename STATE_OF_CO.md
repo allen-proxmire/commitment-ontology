@@ -146,7 +146,7 @@ $$\ell=\frac{\hbar}{m_{\max}c}.$$
 
 **Out:** one-way time; universal redshift and free fall; Newton's law; light bending and the Shapiro delay (γ fixed by Cassini) and Mercury's precession (β, a fit); the clock rate from the commitment cycle; tensor waves (forced at linear order by moving places and resetting clocks being free) and GR's exterior (given no backdrop at every order and the assumptions above); GR's source inside matter; three dimensions as a consistency condition (shape: its conditions, stable orbits and clean signals, are observed ones); an inflation-like epoch with its own exit (shape: no expansion count or spectrum); Friedmann's matter and radiation eras; the amplitude rule; Dirac's equation with spin ½; Maxwell's equations; two-body binding (helium, positronium, 21 cm) by identification; the exchange sign for two patterns, by identification; resonance and recoil.
 
-**Not yet:** the particle masses; nuclear stress; the values of δ, P_max, Λ, N and 1/137; colour's charges and confinement; the nonlinear cost on the lattice; a tested prediction that differs from established physics (gravity sourced by engagements, the author's ruling, candidate, entangles nothing, unlike quantum gravity, and is untested).
+**Not yet:** the particle masses; nuclear stress; the values of δ, P_max, Λ, N and 1/137; colour's charges; the nonlinear cost on the lattice; a tested prediction that differs from established physics (gravity sourced by engagements, the author's ruling, candidate, entangles nothing, unlike quantum gravity, and is untested).
 
 **How it could fail:** two masses becoming entangled through gravity alone (Bose et al. 2017; Marletto–Vedral 2017); any confirmed departure from GR or the Dirac equation, as for them; a cost of mismatch that, derived, is not Einstein's.
 
@@ -158,6 +158,6 @@ $$\ell=\frac{\hbar}{m_{\max}c}.$$
 
 **Relatives.** Causal sets (events, with a random sprinkling to keep Lorentz invariance); energetic causal sets (Cortês and Smolin: events creating events, time real); quantum walks and cellular automata (Dirac from local rules; CO's matter sector is identified with this); event-based quantum theory (Haag, Blanchard–Jadczyk); quantum graphity (space as a cooled graph); loop quantum gravity (background independence).
 
-The space-and-gravity sector stops where the two primitives stop forcing; the matter sector stops where its one addition stops forcing. What remains, the masses and the field's strength, each needs something new; colour has a candidate (C9, a split into three parts alike in colour), with its charges and confinement still open; that is the nucleus, and CO stops there.
+The space-and-gravity sector stops where the two primitives stop forcing; the matter sector stops where its one addition stops forcing. What remains, the masses and the field's strength, each needs something new; colour has a candidate (C9, a split into three parts alike in colour), with its charges still open and confinement and the hadron spectrum by identification with lattice QCD; that is the nucleus, and CO stops there.
 
 Independent, speculative, not peer-reviewed.
