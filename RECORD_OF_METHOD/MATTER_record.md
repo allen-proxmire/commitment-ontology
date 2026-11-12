@@ -1321,3 +1321,23 @@ The doodle asked whether a falling floor of possibility, felt at a galaxy's outs
 **Ruled (2026-11-11, the author, candidate).** The engagement criterion as proposed above. Entered: appendix C8; MATTER ("Which contacts are engagements"; open: the value of N); SPACE_AND_GRAVITY ("Classical source").
 
 *Cold-read notes on the ruling.* The count is in quanta (ruling 6, quanta not patterns); it is invariant for inertial observers and free final states, and how breadth is taken in a superposition of chains is still owed. The criterion relies on the earlier ruling that exchanges inside one body are passages; without it an isolated body whose internal chains pass N would engage itself.
+
+## 2026-11-11 — B2's pull on a monitored oscillator: what the record would show (reading)
+
+**Setup.** A mechanical oscillator (mass M, frequency ω_c) is measured continuously (record dy = ⟨x⟩_c dt + dW/(2√k)), with a thermal bath. Under B2 its gravity is sourced by its state given the record so far, the causally conditioned (filtered) state ρ_c. For a crystal, the self-gravity of a narrow state is a harmonic pull toward the source's centre (Yang et al. 2013):
+
+H_SN = ½ M ω_SN² (x − ⟨x⟩_c)²,  ω_SN ≈ 0.036 s⁻¹ (Si, 10 K), 0.36–0.49 s⁻¹ for W, Os (Helou et al. 2017).
+
+**The conditioned state stays Gaussian** (all terms linear or quadratic). Its mean obeys
+
+d⟨x⟩_c = (⟨p⟩_c/M) dt + 2√k V_x dW,  d⟨p⟩_c = −(M ω_c² ⟨x⟩_c + γ⟨p⟩_c) dt − Mω_SN²(⟨x⟩_c − ⟨x⟩_c) dt + 2√k C_xp dW,
+
+so the self-pull cancels in the mean: the pull is toward the mean itself. (⟨x⟩_c in H_SN is random but multiplies only a dt term, so there is no Itô correction.) It enters only the covariance (V_x, C_xp, V_p): the variance equations use ω_q² = ω_c² + ω_SN² where the mean's use ω_c², so the pull changes only the steady gains 2√k V_x, 2√k C_xp.
+
+**So the record has no line at ω_q.** B2 assumes the record has Born statistics from the B2-evolved ρ_c, so dW is a Wiener process under B2's own law, and any other observer's filter sees the same record statistics. The record's spectrum is then set by the mean's dynamics (poles at ω_c, width γ) driven by the innovation with those gains: S_y(ω) = (1/4k)|1 + 2√k (iω − A)⁻¹ K|² in the usual notation, with A the mean's matrix (ω_c, γ) and K the gains. B2 changes K, not A: the height and shape of the feature at ω_c relative to shot noise shift, by a fraction of order ω_SN²/ω_c² when ω_c ≫ ω_SN and of order one for the low-frequency pendula these tests use (ω_c ~ ω_SN), and there is no new feature at ω_q. In steady state C_xp = 4kM V_x², so the gains depend on V_x alone, and a change of bath temperature reproduces the spectrum exactly at fixed k, γ and ω_c: the change is degenerate with temperature calibration.
+
+**Against the published prescriptions.** Helou et al. (PRD 96, 044008 (2017)) find a feature at ω_q under both of their prescriptions: a peak when the potential is sourced by the incoming state (pre-selection), a dip when it is sourced by the state fixed at the end (post-selection). B2's causal conditioning is neither. It is the causal-conditional prescription worked out by Liu, Miao, Chen and Ma (arXiv:2207.05966), in which the mirror's state is conditionally prepared by the outgoing light and the potential feeds back along the measurement trajectory; this entry's result agrees with theirs that thermal noise hides the difference.
+
+**Reading.** Under B2 the optomechanical tests of Schrödinger–Newton gravity would see no line at ω_q; a line there would count against B2 (and for a different source), and its absence would not distinguish B2 from standard quantum mechanics with quantum gravity unless the gains at ω_c are calibrated to a fraction ω_SN²/ω_c². B2 is therefore close to untestable with this method, as a self-consistent pull toward the conditional mean should be.
+
+**Grade.** Reading (linear–Gaussian filtering; the thermal bath and back-action included in A and K). Not registered: the result follows analytically and the causal-conditional case is published (Liu et al., arXiv:2207.05966).
