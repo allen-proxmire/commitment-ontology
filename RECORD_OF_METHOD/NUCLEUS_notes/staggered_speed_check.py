@@ -1,4 +1,4 @@
-exec(open('dt.py').read().split("for th in")[0])
+import os; exec(open(os.path.join(os.path.dirname(os.path.abspath(__file__)),'staggered_walk_base.py')).read().split("for th in")[0])
 def E(q,th,thm): return np.sort(np.abs(np.angle(np.linalg.eigvals(U(q,th,thm)))))[0]
 th=0.5; u=np.array([1,0,0.]); w=np.array([1,1,1.])/np.sqrt(3)
 for d in (u,w):

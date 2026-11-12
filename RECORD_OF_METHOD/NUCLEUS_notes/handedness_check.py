@@ -1,4 +1,4 @@
-exec(open('dt.py').read().split("for th in")[0])
+import os; exec(open(os.path.join(os.path.dirname(os.path.abspath(__file__)),'staggered_walk_base.py')).read().split("for th in")[0])
 P=[I,X,Y,Z]; nm="IXYZ"
 def pauli(o):
     t=[]
