@@ -1301,3 +1301,19 @@ The doodle asked whether a falling floor of possibility, felt at a galaxy's outs
 **Costs, open.** The source jumps at each engagement, so energy and momentum are conserved only on average; the decoherence–diffusion trade-off sets a floor on how faithfully a weakly engaged body can source gravity, to be computed; "the record of engagements" needs the engagement criterion (which contacts are engagements), still a silence, now load-bearing for gravity too.
 
 **Grade.** The ruling: candidate. B2: reading. The previous stance (mean source): excluded by signalling.
+
+## 2026-11-11 — the engagement criterion, now load-bearing for gravity: a candidate statement (proposed for the author's ruling)
+
+**Why now.** With gravity sourced by engagements (B2), the question "which contacts are engagements?" decides both when a pattern is resolved and when its gravity learns where it is. MATTER already holds two parts of an answer: a rate needs a final state broad against the coupling (|V| ≪ ħΓ, else passage stays coherent); and the chain a contact opens has a breadth in quanta, with a stopping number N (N ≳ 50).
+
+**Candidate (for the author's ruling).** *A contact through a channel is an engagement when its final state is broad against the coupling and the chain it opens reaches N quanta; until then it is a passage, and can still be undone.* Both parts are already in CO; the candidate joins them into one criterion and makes it the single trigger for the Lüders update and for gravity's source.
+
+**What it gives, read against cases.**
+- *A thermal photon leaving a warm body:* emission into the continuum is broad (a rate), but one escaping photon is a chain of breadth one; it becomes an engagement where it is absorbed into a wall or detector whose cascade reaches N. So a body's position is resolved, and its gravity updated, through the environment's cascades, at rates far above what Page–Geilker needs.
+- *A molecule in an interferometer* (10⁴–10⁵ atomic mass units, coherent): its contacts with stray gas or light are rare and, while it stays coherent, none reaches N; it is unresolved, and its gravity is not updated, consistent with the interference seen.
+- *NMR echoes:* a correlated cluster below N quanta can be reversed (observed to about 10² spins under the qualifying Hamiltonian), so N ≳ 50 holds; the N test (MATTER_notes) is now also a test of when gravity updates.
+- *A laser-monitored oscillator:* scattered light reaches photodetectors, whose cascades exceed N at once; so the mirror is engaged continuously, and B2's pull toward the recorded position applies (the optomechanics question, open).
+
+**What it costs.** N is not derived; the criterion turns one unknown number into the trigger for measurement and gravity alike, which is economical (one number, two jobs) but makes N carry more. "Reaches N quanta" needs the breadth counted in a way that is the same for every observer (a frame-independent count): counting quanta in the chain's final state is invariant; counting places is not.
+
+**Grade.** Proposed, shape: a joining of two existing clauses, with N its one unknown. If ruled, the silence "which contacts are engagements" becomes a candidate with one free number.
