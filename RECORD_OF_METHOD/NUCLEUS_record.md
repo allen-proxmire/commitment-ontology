@@ -510,3 +510,28 @@ Prior art: Jain 1989 (partons); Wen 1999 (projective construction) and 2002 (PRB
 Not ruled.
 
 **Ruled (2026-11-12, the author): the colour split only, as C9, candidate.** The kind label stays held. Entered: TECHNICAL_APPENDIX (C9), NUCLEUS ("Colour as a split"), OPEN_DIRECTIONS (Colour; Quarks and gluons), README (C1–C9; the nucleus line), STATE_OF_CO, SCOREBOARD. Of the 9 Nov four posits: which transit carries the triplet (a split whole) and unit determinant (from ε) now come with the split; the matching's cost and its scale stay posited. Of the 9 Nov "proton still unbuilt" list: spin 3/2 is answered by flavours (two needed); the exchange sign by the parts being fermions; second quantisation by C6's field reading under tuning, for the parts (the colour field's, open); confinement stays named; the fractional charges wait on the kind label.
+
+## 2026-11-12 (evening) — poke: a reason for "two", and the electroweak price list (shape, ungraded; for the author)
+
+**The poke.** C9 splits a fermion whole into parts alike in colour that are all fermions. The parts must then be odd in number, and the least split is three, with redundancy SU(3) (the singlet ε^{abc}). Now let the parts be mixed. A fermion whole made of two parts needs one boson and one fermion: two fermions make a boson, which is the author's "two do not make a pattern" read exactly. Two parts sharing a two-valued label, joined by the singlet ε_{ab}, carry an SU(2) redundancy (unit determinant from ε, as before):
+
+c = ε_{ab} h^a ψ^b  (h a boson doublet, ψ a fermion doublet).
+
+So the least splits of a fermion are three alike fermions (SU(3)) or a boson with a fermion (SU(2)). Three and two come from one rule: the least split whose parts share a label closed by ε.
+
+**This is how the Standard Model can already be read.** In the Fröhlich–Morchio–Strocchi reading, with complementarity (Fradkin and Shenker 1979; Abbott and Farhi 1981, "Are the weak interactions strong?"), the physical left-handed electron and neutrino are gauge-invariant composites of the Higgs doublet with the lepton doublet, h†L, and likewise for quarks. The weak SU(2) is the redundancy of that split. The Higgs phase and a confining phase of SU(2) with a fundamental scalar are continuously connected. So the poke is not new physics. It reads the electroweak sector as the second least split, beside C9's first.
+
+**What it would bring together.**
+- *The kind label and the mass source arrive as one piece.* The boson part of the split is the Higgs doublet, so B2 (the kind label) and H (a source of masses) are not separate imports.
+- *Q = T₃ + Y.* The leftover phase of the split is hypercharge, and with exact gauge invariance anomaly cancellation fixes the charges (+2/3, −1/3, 0, −1), as read earlier today.
+- *Both of the Standard Model's non-abelian factors* would come from one rule (the least split closed by ε), with the abelian factor as the leftover phase.
+
+**What it does not supply (the electroweak price list).**
+- *Which handedness is split.* Only left-handed fermions are; right-handed ones are unsplit. That is the weak interaction's one-handedness, still a choice (allowed, not chosen).
+- *A boson part.* CO's walk patterns are fermions and its bosons are link fields. A scalar doublet at each place is new to the inventory. Scalar walks are trivial without interaction (D'Ariano and Perinotti), so the Higgs would need its own rule.
+- *The Higgs potential and its value (246 GeV), and every Yukawa coupling.* These are inputs. The Higgs places masses but does not compute them.
+- *A chiral gauge field on the lattice* (C): Ginsparg–Wilson (the locality ruling allows it) or mirror gapping. An open problem of lattice physics, inherited.
+- *The SU(2) field's own cost and coupling* (g, with sin²θ_W), posited.
+- *Three generations*, and *the minimality choice* (as for C9).
+
+**Against the cascade bar.** As a ruling, it would reach the weak interaction, the up–down charges, the kind label's two and the mass source's existence, four items, with data (the charges; neutral atoms; the W and Z). It imports a scalar boson part, a chiral lattice construction and many inputs. Grade: shape, ungraded. Not for ruling yet: the boson part is the new thing CO would have to supply, and nothing in CO supplies a scalar at a place.
