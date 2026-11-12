@@ -1397,3 +1397,15 @@ n_Γ = ħΓρ = 2π|V|²ρ²,  and  ħΓ/|V| = 2π|V|ρ,  so  n_Γ = (ħΓ/|V|)�
 ## 2026-11-12 — N posited as a constant of CO's own (the author's ruling)
 
 Given the dilemma above (a universal N cannot come from the continuum or from CO's other constants; a system-dependent N is not a prediction), the author rules: **N is a constant of CO's own, posited, set only by experiment.** It is the fourth, beside δ, P_max and Λ. Present bound N ≳ ~50, conditional on ruling 3 and the warm-sample posits; no upper bound except a universal reversal ceiling, if one exists. Routes closed on the way: ties to the other constants (needs an erasable record), the web's spare capacity (fails the detector test), a cap on the joint amplitude (excluded by reversed NMR clusters), the continuum (system-dependent). What it keeps: CO's one distinct prediction, the same N in every system. Results docs updated (README, STATE_OF_CO, MATTER, SPACE_AND_GRAVITY, TECHNICAL_APPENDIX, OPEN_DIRECTIONS, SCOREBOARD).
+
+## 2026-11-12 — C8's broad clause made sharp: |V| < ħΓ/4 (the author's ruling, candidate)
+
+**Before.** C8 called a final state broad when |V| ≪ ħΓ: a second threshold, never set (continuum entry above).
+
+**The line standard physics supplies.** A long-lived source amplitude a coupled with strength g = |V|/ħ to a final state b that loses its amplitude at rate Γ/2 (energy width ħΓ):
+
+da/dt = −i g b,  db/dt = −i g a − (Γ/2) b,  so  λ = −Γ/4 ± √((Γ/4)² − g²).
+
+For g > Γ/4 the roots are complex: the quantum oscillates back and forth (vacuum Rabi splitting, coherent passage). For g < Γ/4 they are real: it only leaks away, and for g ≪ Γ/4 at the golden-rule rate 4g²/Γ = 4|V|²/(ħ²Γ), the rate MATTER already quotes. With a source of its own width γ the line is g = |Γ − γ|/4 and the weak rate becomes 4g²/(Γ + γ). This is the exceptional point (for γ = 0 also cavity physics' usual strong–weak boundary; with γ, strong coupling is often quoted as g > (Γ + γ)/4, a resolvable splitting), not a new constant.
+
+**Ruling.** The broad clause reads |V| < ħΓ/4: the contact does not oscillate back. Engagement = no oscillating back, and a chain reaching N quanta. C8 now has one free number, N, posited. Docs updated: MATTER (Channels; Which contacts are engagements), TECHNICAL_APPENDIX C8, OPEN_DIRECTIONS.
