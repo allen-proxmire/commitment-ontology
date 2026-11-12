@@ -147,3 +147,25 @@ So the two kinds swap when a pattern's momentum is carried once around the zone 
 So the openings from the locality ruling come down to one named cost: a kind-dependent charge needs light's mass tuned to zero. Handedness (the weak form) carries the same cost, since it rests on the same label. Grade: shape, held; the cost is named, not excluded.
 
 *The author's ruling (12 Nov): C6 held exact.* Charge stays exactly conserved, so a charge that differs between the staggered walk's two kinds is excluded within CO; light's mass is not tuned. The staggered walk stays a shape for the quark sector, with its two kinds sharing one charge; the up–down charge difference needs another source. Kept from the thread: the three-tile pattern as the staggered cell; the staggered walk in CO's step order (no doublers beyond two kinds, exact sublattice symmetry protecting the mass, no mass-linear speed shift); the weak interaction's form as paired kind flips (a shape); the kind label's twist over the momentum zone, each kind generator left alone along exactly one axis (noted, not read).
+
+## The up–down charge difference (12 Nov, reading; shape)
+
+*Where the difference lives.* In every pair nature has, the two members differ in charge by exactly one unit: up (+2/3) and down (−1/3), neutrino (0) and electron (−1). The standard account is
+
+Q = T₃ + Y,
+
+with T₃ = ±½ the kind label (weak isospin) and Y one shared number per pair (hypercharge). The unit difference is T₃ itself. So the difference is not a property of the two patterns separately: it is light coupling to the kind label, which is what the weak interaction gauges. Within CO, the up–down charge question and the weak interaction are one question. On the staggered walk it is blocked (the twist; C6 exact). On two separate walk fields with their own charges, the values are free to assign but not explained, and "exactly one unit in every pair" is a coincidence.
+
+*What fixes the values: the lattice itself (poke).* A chiral gauge field, one that couples to the left-handed kind only as the weak interaction does, can be put on a lattice with exact gauge invariance only if its gauge anomalies cancel. That holds for U(1) (Lüscher 1999), and gauge-anomaly cancellation is necessary generally. For a theory that is a lattice, as CO is, anomaly cancellation is not an extra demand: it is a condition for the gauge field to exist at all. For one generation (left-handed Weyl fields Q, u^c, d^c, L, e^c, with N_c colours), the conditions are
+
+SU(N_c)²·U(1): 2y_Q + y_u + y_d = 0;  SU(2)²·U(1): N_c y_Q + y_L = 0;  gravity²·U(1): 2y_L + y_e = 0 (given the first);  U(1)³: 2N_c y_Q³ + N_c(y_u³ + y_d³) + 2y_L³ + y_e³ = 0.
+
+With the electron's charge as the unit (y_L = −½) they have one solution, up to swapping u and d (checked, [`charges_from_anomalies.py`](../RECORD_OF_METHOD/NUCLEUS_notes/charges_from_anomalies.py)):
+
+Q_u = ½ + 1/(2N_c),  Q_d = −½ + 1/(2N_c),  Q_ν = 0,  Q_e = −1.
+
+For N_c = 3: +2/3 and −1/3. For any N_c, the proton (with (N_c+1)/2 ups and (N_c−1)/2 downs) has charge exactly +1, equal and opposite to the electron: atoms are neutral for any colour count, which is tested to about 10⁻²¹ (Geng and Marshak 1989; Babu and Mohapatra 1989; Bär and Wiese 2001 on the N_c dependence). Witten's global anomaly needs N_c + 1 doublets to be even, so N_c is odd, the same condition under which Skyrme's twisted baryon is a fermion.
+
+*Reading for CO.* The up–down charges are not a separate problem. They are fixed once CO has two things: the weak interaction as a chiral gauge field on its lattice, which then must be anomaly-free, and the colour count. The difference of one is the kind label; the offset 1/(2N_c) is colour's. Three walls fold into two: colour, and a chiral gauge field on the lattice. The second is a known hard problem of lattice physics. The one working construction (Lüscher's, for U(1)) uses Ginsparg–Wilson fermions, which are exponentially local, not strictly local. That is exactly what the locality ruling (fast-fading tail) now allows. So the locality ruling has a use after all: it permits the only known lattice route to a one-handed gauge field.
+
+Costs and limits. With a right-handed neutrino the solution is unique only up to a shift by B − L. The non-abelian (SU(2)) lattice construction is not established. Colour is still CO's wall: without it (N_c = 1) the rule gives up +1 and down 0, which is wrong. Grade: shape. Up and down as two kinds of the weak doublet, with charges forced by anomaly freedom on CO's lattice once colour and a chiral gauge field are in hand.
