@@ -66,3 +66,7 @@ Read (frame note, "The tick–hop exit"). Walks carry a deformed Lorentz symmetr
 - a network with non-commuting coordinates (κ-Poincaré-type quantum-group translations, relative locality), with the soccer-ball cost. Non-commuting network translations would not do: Gromov's theorem returns them to the abelian case or to large-scale curvature.
 
 The map's largest hollow has a sharper edge: CO with local vertices must tune, unless the pair-boost loophole holds.
+
+## Update: the pair-boost loophole (same day)
+
+Closed on the evidence (frame note). The loophole is equivalent to equal one-loop speed shifts across species, and Wilson-type lattice actions, including the Hamiltonian limit, show unequal shifts that must be tuned. For CO with local vertices on a commuting network, A's exits are now tuning, or a network with non-commuting coordinates. The largest hollow is a fork, not a search: accept one tuned number, or change what the network's coordinates are.
