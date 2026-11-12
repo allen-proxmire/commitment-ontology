@@ -73,6 +73,6 @@ for the matter era, and for the radiation era with radiation drawing twice its e
 
 ## Open
 
-The values of δ, P_max, Λ and the birth share; the nonlinear cost on the lattice carriers (strong fields); the walk on the curved network; the mechanism of the first relating; the hole's interior.
+The values of δ, P_max, Λ, N and the birth share; the nonlinear cost on the lattice carriers (strong fields); the walk on the curved network; the mechanism of the first relating; the hole's interior.
 
 References: Wald (1986), Boulanger–Damour–Gualtieri–Henneaux (2001), Lovelock (1971), Regge (1961), Tegmark (1997), Trugenberger (2017–19), Yilmaz (exponential metric; not a solution of these dynamics).
