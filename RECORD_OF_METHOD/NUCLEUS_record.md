@@ -535,3 +535,22 @@ So the least splits of a fermion are three alike fermions (SU(3)) or a boson wit
 - *Three generations*, and *the minimality choice* (as for C9).
 
 **Against the cascade bar.** As a ruling, it would reach the weak interaction, the up–down charges, the kind label's two and the mass source's existence, four items, with data (the charges; neutral atoms; the W and Z). It imports a scalar boson part, a chiral lattice construction and many inputs. Grade: shape, ungraded. Not for ruling yet: the boson part is the new thing CO would have to supply, and nothing in CO supplies a scalar at a place.
+
+**Cold read of the poke, applied (2026-11-12).**
+- *The redundancy is U(2), not SU(2).* For complex doublets, c = ε_{ab} h^a ψ^b is unchanged under h → Ah, ψ → Aψ/det A for any unitary A. That includes an opposite phase on the two parts (h → e^{iθ}h, ψ → e^{−iθ}ψ), a real redundancy because a boson part and a fermion part can be phased oppositely. Unit determinant follows only in the all-alike case (εfff). The Standard Model's composite h†L is U(2)-invariant with no ε at all. So the split's redundancy is U(2) = SU(2) × U(1)/Z₂, the shape of the electroweak group, but gauging only SU(2), with hypercharge as a separate U(1), is a choice.
+- *The rule is tailored.* With h†ψ closure the least boson-plus-fermion split is one doublet pair at any label size n, with U(1) redundancy (the standard slave boson). "Two" follows only because ε closure ties the label's size to the number of parts. And if mixed parts are allowed, the least split is always two, so three needs a second rule (all parts fermions). Corrected statement: two rules sharing ε closure; ε closure and the parts' kinds are choices. Not "one rule". (Lee and Wen's SU(2) is a different mechanism, particle–hole mixing, and is not cited as support.)
+- *FMS, plainly.* h†L ≈ v·L in unitary gauge: a gauge-invariant restatement, not substructure. Abbott and Farhi's is a separate strong-coupling model. Complementarity (Fradkin and Shenker 1979; Osterwalder and Seiler 1978) is shown for a fundamental lattice Higgs without chiral fermions or U(1)_Y.
+- *D'Ariano and Perinotti:* one-component walks are trivial under homogeneity and isotropy, whatever their statistics.
+- *Hypercharge:* anomaly cancellation fixes Y given the whole field content, the unsplit right-handed fields included; with ν_R, Y can mix with B − L. Witten's anomaly (N_c + 1 doublets even) ties colour to the weak sector.
+
+Grade stays shape, ungraded, with "one rule" withdrawn.
+
+## 2026-11-12 (evening) — poke: where the boson part could come from (reading)
+
+The electroweak reading needs a complex scalar doublet at each place. Candidates from what CO has:
+- *The gravity carriers at places* (held share, stretch). Real, colour- and kind-blind, coupled to everything alike. They cannot be a doublet of the kind label. Excluded as the boson part.
+- *A link field.* CO's links carry vectors. The temporal component of an SU(2) link field is a triplet (adjoint), not a doublet. A doublet from link components needs a larger gauge group broken down (gauge–Higgs unification, e.g. SU(3) on links with sin²θ_W = 1/4 at tree level), a further import. Not supplied.
+- *A pair of walk patterns* (a composite Higgs from fermion pairing: Nambu–Jona-Lasinio; top condensation, Bardeen, Hill and Lindner 1990). It is CO-native in spirit, since patterns already pair. In its minimal form, with the cutoff at the hop scale, it predicts a top mass near 220–250 GeV and a heavy Higgs, against 173 and 125 GeV. Minimal form excluded; extended forms import more structure.
+- *A new scalar walk.* One-component walks are trivial (D'Ariano and Perinotti), so a scalar doublet would need its own rule with interaction.
+
+**Result.** No CO-native source for the boson part. The electroweak block stays a shape: the kind label, its one-handedness, the boson part and the inputs are all still imports. Gained: the electroweak redundancy has the electroweak group's shape, U(2), from a two-part split, and the boson part is identified as the single thing CO would have to supply.
