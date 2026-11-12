@@ -70,3 +70,40 @@ The map's largest hollow has a sharper edge: CO with local vertices must tune, u
 ## Update: the pair-boost loophole (same day)
 
 Closed on the evidence (frame note). The loophole is equivalent to equal one-loop speed shifts across species, and Wilson-type lattice actions, including the Hamiltonian limit, show unequal shifts that must be tuned. For CO with local vertices on a commuting network, A's exits are now tuning, or a network with non-commuting coordinates. The largest hollow is a fork, not a search: accept one tuned number, or change what the network's coordinates are.
+
+## Refresh after tuning (12 Nov, evening)
+
+With tuning accepted for now, A's frame part is settled (tuned), and loops on the lattice are permitted. What each item still waits on:
+
+| open item | waits on |
+|---|---|
+| gravity's nonlinear rule | E (A tuned) |
+| inside matter, the radiation era | D |
+| the now and the frame | settled by tuning (the frame stays picked at (kℓ)²) |
+| statistics (beyond two) | F |
+| two patterns | F |
+| doublers | C |
+| number change (its costs) | K (loops: tuned) |
+| the weak interaction | B, C, H |
+| loop effects (g − 2, Lamb shift, running α, Casimir) | none beyond identification with lattice QED, given tuning |
+| dark matter (its mass) | G, H |
+| the masses | H |
+| 1/137 | input |
+| the colour wall | B (plus the gauge cost and coupling, posited as in the standard theory) |
+| quarks and gluons, confinement | B |
+| baryons as twists (a stability term) | B |
+| up and down charges | B, C |
+| entanglement's joint law | F |
+| the nucleon's mass from beneath | B |
+| the photon ratio η | G |
+| N | experiment only |
+
+**Counts.** B: 6 · C: 3 · F: 3 · H: 3 · G: 2 · D: 1 · E: 1 · K: 1 · A: 0 (tuned).
+
+**Reading.** The largest hollow is now B, the on-site internal label, under six items: the weak interaction, colour, confinement, baryons as twists, the up–down charges and the nucleon's mass. C rides with it on two of them. Together B and C are the Standard Model's gauge structure. The parton reading has already cut B's import from "the sizes three and two by hand" to "parts alike in colour, the least odd split", plus the kind label.
+
+**Two chips the tuning makes cheap.**
+- *Loop effects* move from silence toward identification: with species' speeds tuned, CO's walk with its U(1) links is lattice QED, and the anomalous moment, the Lamb shift and the running of α follow as they do there (a reading, conditional on tuning).
+- *F (two patterns, statistics, the joint law) may already be paid by C6.* The walk is read as a field with filled negative states, and a filled sea needs exclusion, so walk patterns obey Fermi statistics, which excludes parastatistics for them. Two patterns are then two excitations of one field, with QFT's joint law. To check before claiming.
+
+**Where work should go, by the shape.** B is the largest hollow, and it is a ruling (the price list, held). F may be a free chip: one reading to see whether C6's field identification already pays statistics, the two-pattern dynamics and the joint law.
