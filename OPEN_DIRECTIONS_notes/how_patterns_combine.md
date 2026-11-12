@@ -85,3 +85,11 @@ So far: three as the least number of one-axis tiles moving in space; an exact do
 4. *A new primitive field.* Excluded by method unless it cascades.
 
 So the candidate is 3: the pion field as the vacuum's orientation, the baryon as its twist, three as dimension twice over, and the fermion sign from the 2π turn. Of its three needs, (c) is a known lattice problem with a known form of solution; (b) is the substantive one: what in CO pairs left and right strongly.
+
+*Need 2: what in CO pairs left and right.* CO already has it. In the walk, mass is the flip F(θ_m) = exp(−iβθ_m), Feynman's checkerboard turn between the two movers on each step: a pairing of left- and right-handed parts, θ_m = c₀mcℓ/ħ per step, and the renewal rate is the mass (C1–C2). What it lacks is a direction. For a field carrying the two-valued label, the flip can turn the movers into each other along any direction in the label's space:
+
+F(θ_m, U) = exp(−iθ_m β (P_R U + P_L U†)),  U = exp(iτ·π/f) ∈ SU(2),
+
+with P_{R,L} the handedness projections and τ the label's generators. With U = 1 this is the present flip; the flip's strength, the renewal rate, fixes the mass, while its direction U is not fixed by any rule. Read as set place by place, U(x) is the three-valued field of piece 1, and the vacuum's choice of a uniform U is the spontaneous breaking: slow turnings of U are pions, and windings of U over the three directions of space are Skyrme's twists, the baryons. This is the chiral (sigma-model) form of a mass term, m ψ̄(σ + iγ₅τ·π)ψ with σ² + π² = 1, written as CO's flip.
+
+So the candidate for needs 1 and 2 together: *the renewal's flip has a direction in the label's space, set place by place.* What it would give: pions as ripples of the flip's direction, nearly massless (their 140 MeV, small against the nucleon's 939 MeV, from a small fixed tilt, as quark masses do in QCD); nucleons getting their mass from the flip's strength; baryons as twists. What remains: (a) a cost for gradients of U, and Skyrme's extra term (or another reason) for twists to hold their size; (b) the Wilson term, which flips with a fixed direction and so breaks the symmetry by hand (need 3: a Ginsparg–Wilson walk); (c) why the label is two-valued (in nature: two light quark kinds). Grade: shape; a proposal that would need the author's ruling before it is a posit.
