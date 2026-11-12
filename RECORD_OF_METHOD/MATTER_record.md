@@ -1341,3 +1341,19 @@ so the self-pull cancels in the mean: the pull is toward the mean itself. (⟨x�
 **Reading.** Under B2 the optomechanical tests of Schrödinger–Newton gravity would see no line at ω_q; a line there would count against B2 (and for a different source), and its absence would not distinguish B2 from standard quantum mechanics with quantum gravity unless the gains at ω_c are calibrated to a fraction ω_SN²/ω_c². B2 is therefore close to untestable with this method, as a self-consistent pull toward the conditional mean should be.
 
 **Grade.** Reading (linear–Gaussian filtering; the thermal bath and back-action included in A and K). Not registered: the result follows analytically and the causal-conditional case is published (Liu et al., arXiv:2207.05966).
+
+## 2026-11-12: locality relaxed to "local up to a fast-fading tail" (the author's ruling, candidate)
+
+**Before.** The walk and everything that couples to it were strictly local: each step reaches only neighbouring places (C6, run L1b). Three routes in the particle sketch stopped there: exact lattice chiral symmetry (Ginsparg–Wilson), a charge that differs between the staggered walk's two kinds, and a one-handed coupling to those kinds. Each needs a reach that falls off exponentially over a few spacings and never reaches exactly zero (OPEN_DIRECTIONS_notes/how_patterns_combine.md).
+
+**Ruling.** Locality is "local up to a tail that fades exponentially at the hop scale": a coupling between places a distance d apart may be nonzero, bounded by C e^{−d/ξ} with ξ a few hops. The free walk may stay strictly local. Signals still travel at c, up to leakage of order e^{−d/ξ}, which is nothing at any measurable distance. This is the standard of locality in lattice field theory (Hernández, Jansen and Lüscher 1999). Grade: the author's ruling, candidate.
+
+**What it opens.** Route 1 is reopened. The staggered walk's exact kind label (reach ≈ 0.3 per cell) can carry a kind-dependent charge, and its kept left and right kind rotations can carry a one-handed coupling (the weak interaction's form: permitted, not predicted).
+
+**Owed.** A cold read; the speed check (below); the results docs (TECHNICAL_APPENDIX C6, MATTER "The step") after the cold read.
+
+**Speed check, staggered walk ([`staggered_speed_check.py`](NUCLEUS_notes/staggered_speed_check.py)).** The fading tail touches only couplings, not free motion, so the question is the staggered walk's own speeds. The mass enters its dispersion only as m²:
+
+E(q, m)² − E(q, 0)² = θ_m² (1 − O(q²)),
+
+which holds to eight digits at θ_m = 10⁻³ and 10⁻², with ratios 0.99997, 0.9992, 0.9969, 0.9877, 0.951 at q = 0.01, 0.05, 0.1, 0.2, 0.4 (θ = 0.5). There is no term linear in the mass: a massive pattern's speed at q ≫ θ_m follows the Lorentz form, v = v₀(1 − θ_m²/2E₀²), to within 3 × 10⁻⁴ θ_m (finite-difference noise). The earlier "top speed below light's by (0.46–0.81)θ_m" was the peak of the curve where mass and lattice curvature meet, not a shift of the limiting speed. That earlier figure is withdrawn. The Wilson walk's limiting-speed excess, s ≈ 0.24 r mcℓ/ħ, came from its momentum-dependent mass. It is what made the Crab bound ℓ ≲ 1.3 × 10⁻³¹ m. The staggered walk has no such term, so for a staggered pattern the leading departures are the lattice's (kℓ)² terms, bounded only through quadratic (n = 2) tests, which are far weaker. Consequence: if electrons are staggered (the twin read as the neutrino), CO's tightest bound on ℓ goes, and the bound becomes a quadratic one (not yet computed). If only quarks are staggered, the electron bound stands.
