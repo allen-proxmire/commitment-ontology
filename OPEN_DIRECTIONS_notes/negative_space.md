@@ -119,3 +119,34 @@ With tuning accepted for now, A's frame part is settled (tuned), and loops on th
 **Loop effects.** With tuning, CO's walk and U(1) links are identified with lattice QED, and the QED contributions follow by identification with its continuum limit (speeds, the Wilson mass and the charge all tuned; the U(1) in its Coulomb phase): the electron's anomalous moment to the order QED gives it, the running of α, the Casimir force. Hadronic and weak parts (the muon's moment; a_e at its measured precision; the Lamb shift's proton radius) wait on B and the weak interaction. Silence becomes identification for the QED parts, conditional on tuning; CO adds nothing of its own to them.
 
 **Net.** F's dynamics part follows by identification. Its statistics part is B in another form. That is a further reason B is the largest hollow: colour, confinement, the weak form, the charges and now statistics beyond two all meet there.
+
+## Refresh after C9 (12 Nov, evening)
+
+B splits in two: B1, colour (now C9, candidate) and B2, the kind label (not ruled).
+
+| open item | waits on |
+|---|---|
+| gravity's nonlinear rule | E |
+| inside matter, the radiation era | D |
+| statistics beyond two | settled under C9 (the one hidden label is colour; leptons ordinary) |
+| two patterns | by identification (lattice QED's two-body sector, given tuning) |
+| doublers | C |
+| number change (its costs) | K |
+| the weak interaction | B2, C, H |
+| loop effects (QED parts) | by identification, given tuning |
+| dark matter (its mass) | G, H |
+| the masses | H |
+| the colour wall | C9 (candidate; field cost and coupling posited) |
+| confinement, the hadron spectrum | by identification with lattice QCD, given C9, tuning and the quark masses as input (a chip, below) |
+| baryons as twists | shape; Skyrme as the low-energy reading of the same sector |
+| up and down charges | B2, C |
+| the nucleon's mass from beneath | as confinement, by identification with lattice QCD |
+| entanglement's joint law | inherited (Born rule an identification) |
+| the photon ratio η | G |
+| N | experiment only |
+
+**Counts.** C: 3 · H: 3 · B2: 2 · G: 2 · D: 1 · E: 1 · K: 1.
+
+**The chip C9 makes cheap.** With C9, the tuning and a posited colour coupling, CO's colour sector is lattice QCD: parts on the places, a colour matching on the relations, a coupling weak at the hop scale. Lattice QCD at weak coupling and the continuum limit is the standard computation of confinement and the hadron spectrum. The nucleon's mass comes out about 940 MeV from Λ_QCD and the light quark masses, most of it binding (the trace anomaly). So confinement, the spectrum and the nucleon's mass from beneath follow by identification, conditional on C9, tuning, the coupling and the quark masses as inputs. Confinement is established there numerically, not proved (the Yang–Mills mass gap). CO adds nothing of its own; the gain is that these items move from "missing" to "by identification", as the QED loop effects did. This needs a cold read before entering NUCLEUS.
+
+**The next hollow.** The weak interaction now waits on three pieces at once: the kind label (B2), a one-handed field on the lattice (C) and a source of masses (H, symmetry breaking). Together these are the electroweak sector. C and H also sit under the doublers, dark matter's mass and every mass. So the next edge is the electroweak sector as one block. It imports the most: the kind label's two, a chiral lattice construction (an open problem of lattice physics) and a Higgs-type field with its couplings. Masses stay inputs even with it, since the Higgs mechanism places masses but does not compute them.
