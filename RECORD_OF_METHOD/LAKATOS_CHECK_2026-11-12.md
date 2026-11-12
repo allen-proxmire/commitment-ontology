@@ -32,3 +32,7 @@ The unit charge difference in every pair is the kind label (Q = T₃ + Y), so th
 ## Update: tuning accepted for now (evening)
 
 The author accepted tuning for the frame problem, after the day's readings closed the other exits for CO's network as it stands. **Accommodating** (added to fit, buys nothing new). Counts at the end of 12 November: progressive 11, accommodating 3, neutral 15. Exclusions also found this afternoon (exits closed, not additions): a common origin for walk and links; a deformed Lorentz symmetry for interactions on a commuting network; pair boosts with backreaction (on the evidence). Exclusions: 9 in all.
+
+## Update: C9, colour as a split (evening)
+
+Added for colour, the nucleus wall. What else it gave, unasked: unit determinant (from ε, one of the 9 Nov four posits no longer separate); an on-site home for the label (the condition for gauging); "no parastatistics" joined to "no hidden label"; N_c odd, matching Witten's global anomaly and the twisted baryon's fermion condition. Nothing new is predicted, and two choices remain (alike in colour; the least split), as do the field's cost and coupling. **Neutral-to-progressive**, counted neutral. Counts at the end of 12 November: progressive 11, accommodating 3, neutral 16; exclusions 9.
