@@ -402,3 +402,32 @@ The Bell paragraphs in `NUCLEUS.md` and the plain doc said two things that canno
 **Cold reading, same day; corrected.** The anomaly formula completed (γ_m); "mostly the anomaly" qualified; nuclear binding read through the full meson-exchange force, not pions alone, with colour beneath nucleon and mesons; four debts are two, not three; the bar applied on even terms (the spectrum and the nucleon's source are one cascade, both needing quantisation); the dust claim corrected (measured nucleon mass assumes closure, debt (1) taken on; dust alone cannot test it); "necessary" narrowed to deriving from beneath; the roots' overlaps and missing items added and the comparative sentence marked an assessment.
 
 **Grade.** Reading. The colour posit remains not earned; the count of four debts is withdrawn (two debts: the nucleon's source, for which colour is needed from beneath and not sufficient, and a nucleus's binding, which belongs mainly to the sea's silence and the field-energy posit). Nucleon closure joins elementary closure as an assumption gravity for dust makes.
+
+## 2026-11-12 — price list: an on-site internal label (reading, for the author's decision; not ruled)
+
+**Why now.** The 12 Nov particle thread (MATTER-side notes, `OPEN_DIRECTIONS_notes/how_patterns_combine.md`) narrowed colour, the weak interaction and the up–down charges to one missing piece. A gauge field couples consistently only to a label that acts at each place by itself (on-site; Wang–Wen; DeMarco–Wen). The labels CO's walk does have, its doublers' corners and tastes, are tied to momentum (the twist), so they can supply a generation's count but not its charges. The missing piece is an internal label at each place. The 9 Nov verdict (colour posit not earned) is read again below with what has changed since.
+
+**The posit.** Each place carries, for matter in transit, an internal label space: amplitudes with a colour index (three values) and, for the left-handed parts, a kind index (two values). Relations carry the matching unitary for each, with a quadratic cost. Charges are then set by consistency, not posited one by one.
+
+**What it would buy (cascade).**
+1. *Colour as a gauge field* (SU(3) on relations): the 9 Nov posits (i)–(iv), now with an on-site home.
+2. *The weak interaction's form*, now a silence: SU(2) on the left-handed kind label, the paired kind flips (Fermi's form, a shape since 12 Nov), with handedness allowed but not chosen.
+3. *The charge values.* With exact gauge invariance, anomaly cancellation forces Q_u = ½ + 1/(2N_c), Q_d = −½ + 1/(2N_c), Q_ν = 0, Q_e = −1. With N_c = 3: +2/3, −1/3. The 9 Nov reading said the colour posit "does not pay the fractional charges"; with the kind label beside it, it does.
+4. *Atoms neutral* to the measured 10⁻²¹, for any odd N_c, with nothing added.
+5. *N_c odd* (Witten's global anomaly), matching the condition under which Skyrme's twisted baryon is a fermion (the baryons-as-twists shape).
+6. *If one-handed fields come by mirror gapping* (symmetric mass generation): sixteen Weyl fields per generation, so a right-handed neutrino. This is a consequence of the route, not forced for the Standard Model group alone.
+
+**What it would cost.**
+- *The sizes by hand:* three colours, two kinds, and a hypercharge unit. The label space is imported, not derived; "three as dimension" does not supply it, since the on-site rule separates internal labels from directions of space.
+- *A third kind of thing in CO:* an internal space at each place, beside possibility and commitment. Whether that is a third primitive or a quality of possibility in transit is itself a ruling.
+- *Quantisation and loops,* which colour's cascade to the hadron spectrum needs (9 Nov). Number change is now ruled (C6: the walk as a field), so second quantisation is partly in hand. Loops bring the frame problem's exposure at O(α_s/π), much larger than electromagnetism's O(α/π).
+- *A one-handed field on the lattice:* by Ginsparg–Wilson fermions (exponentially local; the locality ruling allows them; non-abelian established only to all orders in perturbation theory), or by mirror gapping (on-site; non-perturbative in 3+1D not yet shown). Either way an open problem of lattice physics, inherited.
+- *What it still leaves open:* the weak interaction's symmetry breaking (a Higgs-type field, a silence), every mass, the mixing angles, three generations, confinement (shape only), the nucleon's mass from beneath.
+
+**Against the cascade bar.** The bar admits a posit only on a named contradiction (the proton is composite; CO's ruled set makes it elementary), and calls it worth admitting only if it brings a second open problem with it. On 9 Nov the colour posit alone cascaded only to the hadron spectrum, and in CO not even that, since the proton stays unbuilt without quantisation. With the kind label beside it, the posit now reaches three further open items with data attached: the fractional charges, atomic neutrality and the weak interaction's form. On the bar's own terms that is a cascade, not one primitive for one input. Against it, the label space's sizes are imported, and most of what it buys is the Standard Model's own consistency, read in CO's terms, not CO deriving anything new.
+
+**Reading, for the author.** The bar's verdict could now change, from "not earned" to "earned, at the price of an imported label space". What is gained would be structural: colour, the weak form and the charge values as one posit with consistency doing the rest. No new prediction comes with it beyond, conditionally, the right-handed neutrino. Three choices:
+- *Hold*: keep the wall as it is, with this price list on file.
+- *Rule as a candidate*: "matter in transit carries an on-site internal label space (colour, kind)". The cascade is entered, and every import is named in "What goes in".
+- *Rule only the kind label*: the weak form and charge structure, colour still waiting. This is cheaper, but the charges then need N_c, so items 3–5 stay conditional.
+Not ruled.
