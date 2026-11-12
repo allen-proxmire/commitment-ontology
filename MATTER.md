@@ -52,7 +52,9 @@ Number change (identification with lattice QED, candidate; costs: the filled sta
 
 **Channels.** Only through a channel: a final state of the engager, with its width Γ. Engagement follows the line shape, κ(Δ) ∝ (Γ/2)²/(Δ² + (Γ/2)²) near the line; with no final state, or a zero matrix element, there is none. A rate needs the final state to be broad against the coupling, 4|V|²/(ħ²Γ) for |V| ≪ ħΓ; for |V| ≫ ħΓ passage stays coherent, as in vacuum Rabi oscillation. The frequency and direction matching (with recoil) follow from the walk and the which-way phase. The place of an engagement is drawn from |a|², resolved only as finely as the channel is localised.
 
-**What stays open.** Which contacts through a channel are engagements rather than passages: a chain with a stopping number N counting its breadth in quanta, bounded below by NMR reversals of correlated-spin clusters. Where the resolved pattern's possibility elsewhere goes.
+**Which contacts are engagements** (the author's ruling, candidate). A contact through a channel is an engagement when its final state is broad against the coupling and the chain it opens reaches N quanta; before that it is a passage and can be undone. Engagements trigger both the Lüders update and gravity's source. N is not derived. Exchanges inside one body are passages (the earlier N rulings), so an isolated body does not engage itself and stays unresolved however its internal chains grow.
+
+**What stays open.** The value of N, a chain's breadth in quanta, bounded below by NMR reversals of correlated-spin clusters. Where the resolved pattern's possibility elsewhere goes.
 
 **Bound states on a fixed source.** One electron on a fixed Z = 1 source has the Dirac–Coulomb operator as its continuum limit; its levels are Dirac's, with the electron mass and 1/137 as input.
 
@@ -62,6 +64,6 @@ No classical current gives g = 2 (loops give g = 1); spin from orbital circulati
 
 ## Open
 
-The masses; the value of 1/137; the anomalous moment (needs loops); what two patterns do on one stock; the covariant coupled walk between commitments; the engagement criterion.
+The masses; the value of 1/137; the anomalous moment (needs loops); what two patterns do on one stock; the covariant coupled walk between commitments; the value of N.
 
 References: Goyal, Knuth and Skilling (2010); Meyer (1996); Bialynicki-Birula (1994); Feynman and Hibbs (1965); Nielsen and Ninomiya (1981); Karsten and Smit (1981); Wilson (1974); Strang (1968); Collins, Pérez, Sudarsky, Urrutia and Vucetich (2004); Christ, Friedberg and Lee (1982); Perantonis and Wheater (1988); Gupta and Short (2026); Hylleraas (1929); Pauli (1940); Tilloy and Diósi (2016); D'Ariano and Perinotti (2014); Bisio, D'Ariano and Tosini (2015).

@@ -136,7 +136,7 @@ $$\ell=\frac{\hbar}{m_{\max}c}.$$
 
 **Entanglement.** An entangled pair is one pattern sampled twice: one stock, cut once at each end, each end finding it as it stands in its own past. The joint law is taken from quantum mechanics.
 
-**No collapse.** A renewal draws only free possibility, which has no amplitude, and leaves a dent drawn independently from |a|², so it records nothing about where the pattern went. A pattern left alone is never resolved, however massive. Resolution needs another pattern engaging it, and when a contact does that is not yet in the rules.
+**No collapse.** A renewal draws only free possibility, which has no amplitude, and leaves a dent drawn independently from |a|², so it records nothing about where the pattern went. A pattern left alone is never resolved, however massive. Resolution needs another pattern engaging it: a contact into a broad final state whose chain reaches N quanta (C8, candidate); N is not derived.
 
 **What the quantum sector does not say.** The particle masses; the value of 1/137; colour, which needs an internal three the inventory lacks ([`NUCLEUS.md`](NUCLEUS.md)).
 

@@ -1317,3 +1317,7 @@ The doodle asked whether a falling floor of possibility, felt at a galaxy's outs
 **What it costs.** N is not derived; the criterion turns one unknown number into the trigger for measurement and gravity alike, which is economical (one number, two jobs) but makes N carry more. "Reaches N quanta" needs the breadth counted in a way that is the same for every observer (a frame-independent count): counting quanta in the chain's final state is invariant; counting places is not.
 
 **Grade.** Proposed, shape: a joining of two existing clauses, with N its one unknown. If ruled, the silence "which contacts are engagements" becomes a candidate with one free number.
+
+**Ruled (2026-11-11, the author, candidate).** The engagement criterion as proposed above. Entered: appendix C8; MATTER ("Which contacts are engagements"; open: the value of N); SPACE_AND_GRAVITY ("Classical source").
+
+*Cold-read notes on the ruling.* The count is in quanta (ruling 6, quanta not patterns); it is invariant for inertial observers and free final states, and how breadth is taken in a superposition of chains is still owed. The criterion relies on the earlier ruling that exchanges inside one body are passages; without it an isolated body whose internal chains pass N would engage itself.
