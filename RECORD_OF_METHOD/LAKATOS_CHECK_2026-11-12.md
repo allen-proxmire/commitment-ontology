@@ -23,8 +23,12 @@ Measured by `MEASURE.md`. It starts from the counts at the end of 11 November: p
 
 **Reading.** The day's rule-level additions were neutral or accommodating: the locality ruling has not yet paid back. The progressive entry is a shape whose bonuses came unasked, and whose intended use failed on a named obstacle. The status changes (N a constant, the broad clause sharp, inside chains counting) cost no prediction and make CO's one distinct prediction stated without hedging. Watch: the locality ruling stays accommodating until something it opens meets data.
 
-**Counts at the end of 12 November:** progressive 11, accommodating 3, neutral 13. Exclusions: 6 in all, 3 found today. One reading withdrawn.
+**Counts, morning of 12 November:** progressive 11, accommodating 3, neutral 13. Exclusions: 6 in all, 3 found today. One reading withdrawn.
 
 ## Update: the up–down charges (afternoon)
 
 The unit charge difference in every pair is the kind label (Q = T₃ + Y), so the up–down question folds into the weak interaction. With exact gauge invariance, anomaly cancellation then fixes the charges given colour: Q_u = ½ + 1/(2N_c), Q_d = −½ + 1/(2N_c), atoms neutral for any odd N_c, and N_c odd. This is established physics, written into CO's terms. It folds three walls into two (colour; a chiral gauge field on the lattice) without adding a rule. **Neutral** as a shape. It also gives the locality ruling its first use: the best-established lattice route to a one-handed gauge field (Ginsparg–Wilson) needs exponential locality. That moves the ruling from accommodating to **neutral-to-progressive**, counted neutral until it meets data. Counts: progressive 11, accommodating 2, neutral 15.
+
+## Update: tuning accepted for now (evening)
+
+The author accepted tuning for the frame problem, after the day's readings closed the other exits for CO's network as it stands. **Accommodating** (added to fit, buys nothing new). Counts at the end of 12 November: progressive 11, accommodating 3, neutral 15. Exclusions also found this afternoon (exits closed, not additions): a common origin for walk and links; a deformed Lorentz symmetry for interactions on a commuting network; pair boosts with backreaction (on the evidence). Exclusions: 9 in all.

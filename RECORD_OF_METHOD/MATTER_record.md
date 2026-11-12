@@ -1415,3 +1415,17 @@ For g > Γ/4 the roots are complex: the quantum oscillates back and forth (vacuu
 **The contradiction found.** The 9 Nov ruling made exchanges between patterns inside one body passages that count toward a chain's breadth; the N test (one crystal's spins) and the bound N ≳ ~50 rest on it. MATTER and OPEN_DIRECTIONS said instead that "an isolated body does not engage itself and stays unresolved however its internal chains grow", and the cold-read note on C8 (11 Nov) leaned the same way. Read that way, the N test in one crystal could never show N, and the bound would bound nothing.
 
 **Ruled (the author).** The 9 Nov reading stands: exchanges between patterns inside one body are passages and count toward the chain. A single pattern left alone is never resolved; a body of many patterns commits internally once a chain inside it reaches N. The place of an internal commitment is an independent draw that records nothing about where the body is (ruling 7), so molecule interferometry is unaffected, and gravity's source (B2) stays where the last outside engagement put it (an internal record carries no place). Cold read: condition 1 (|V| < ħΓ/4) for spins in a crystal pairs one dipolar coupling J against a local-field width ~√z·J, so it can hold in dense 3D solids and fails in few-spin clusters (ferrocene's mesoscopic echoes); the N test assumes it, checked by local polarization decaying without oscillating back (added to the N note). MATTER and OPEN_DIRECTIONS corrected; the 11 Nov cold-read note is superseded.
+
+## 2026-11-12 — the frame problem: tuning accepted for now (the author's ruling)
+
+**Before.** The author had not accepted tuning (11 Nov). The negative-space map (OPEN_DIRECTIONS_notes/negative_space.md) found interactions on the lattice under 12 of 21 open items. The day's readings (frame note) then closed the remaining exits for CO's network as it stands:
+- a common origin for walk and links: induced fields split at about 1/ln(1/mℓ);
+- a deformed Lorentz symmetry: exact only for free patterns near long wavelength; additive lattice momentum allows no continuous boosts;
+- boosts on pairs with backreaction: equivalent to equal one-loop speed shifts, which Wilson-type lattices do not have.
+What was left was a fork: tune, or a network whose coordinates do not commute.
+
+**Ruled (the author).** Tuning is accepted for now. The loop counter-terms that keep species' top speeds equal, to the 10⁻²⁰ the data require (|ξ_e − ξ_γ| ≲ 10⁻¹⁷ at the dimension-four level), are set by hand, named in "What goes in" beside the four constants. This is not a fifth constant in the same sense: it is a set of counter-terms, one per pair of sectors, fixed by requiring equal speeds. The door to non-commuting coordinates stays open as a direction. The frame problem is no longer counted as the open problem blocking the items it sat under; they are now conditional on the tuning.
+
+**Lakatos.** Tuning is accommodating by definition: added to fit, buys nothing new. Counts at the end of 12 November: progressive 11, accommodating 3, neutral 15.
+
+Results docs updated: README ("What goes in"), STATE_OF_CO, OPEN_DIRECTIONS (Lorentz invariance with loops), TECHNICAL_APPENDIX, SCOREBOARD.
