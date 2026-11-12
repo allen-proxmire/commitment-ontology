@@ -4,7 +4,7 @@ What the two primitives do not reach, and why. Results only; every route tried i
 
 ## The three open problems
 
-The particle masses, the strength of the electromagnetic coupling (1/137), and colour. Each needs something not in the inventory.
+The particle masses, the strength of the electromagnetic coupling (1/137), and colour. Each needs something not in the two primitives; C9 now adds colour (candidate).
 
 ## Colour is not space
 
@@ -18,23 +18,29 @@ The matter sector's internal state is four-dimensional, an irreducible represent
 
 On the network, CO carries real quantities (held share, stretch, one-way part, shear, ratio) and one non-commuting matching, space's frame. On patterns it carries one complex phase (charge) and the four. Every three-valued thing in it is a spatial vector. The nucleus needs, on each quark, a three-component *complex* scalar that leaves space alone, and on each relation a unitary 3 × 3 matching between them. Two primitives supply neither. Six routes to that three were tried and closed, each finding the three had been put in by hand: possibility in sorts; the Clifford four; the three lines of space; tiles with a tile mass; one pattern three times on a shared cycle (gives flavour, not colour); parallel relations (removed at formation).
 
-**CO's only non-abelian matching is space's; the nucleus needs one that is not; CO stops at the nucleus.**
+**From the two primitives alone, CO's only non-abelian matching is space's; the nucleus needs one that is not. C9 (below) adds it.**
 
-The earliest place the rules say "one" where the nucleus needs "three" is the amplitude rule: possibility in transit carries one complex amplitude. A transit carrying a complex triplet would be the object; nothing supplies it, and nothing forbids it.
+The earliest place the rules say "one" where the nucleus needs "three" is the amplitude rule: possibility in transit carries one complex amplitude. A transit carrying a complex triplet would be the object; nothing in the two primitives supplies it, and nothing forbids it; C9 does.
 
 The count is measured, not free: the e⁺e⁻ → hadrons ratio and the π⁰ → γγ rate both give three, with charges ⅔ and −⅓. Any route must give exactly three.
 
-## What a third primitive would cost
+## Colour as a split (C9, the author's ruling, candidate)
+
+Matter in transit may be a split whole: parts alike in colour, held at one place. If the whole is a fermion and its parts are fermions, their number must be odd. One part is no split, and two would make a boson. C9 takes the least odd split, three (a choice). Rotating the parts' colour labels by any unitary of unit determinant leaves the whole unchanged, c = (1/3!) ε^{abc} f_a f_b f_c, so the rotation is an SU(3) redundancy at each place, carried on the relations as a matching. Unit determinant follows (ε is preserved by SU(3), not by U(3)), and the label lives on-site, so it can carry a gauge field. A physical state is a singlet, with flux on the relations between separated parts.
+
+What C9 still takes: the matching's own quadratic cost and its coupling (posited, as in the standard theory, where Λ_QCD is an input; a field induced only by the parts would be strongly coupled at the hop scale), flavours (parts alike in everything give spin 3/2; a spin-½ nucleon needs two), the flavours' charges (+⅔, −⅓, which wait on a kind label, not ruled; with it, anomaly cancellation fixes them, given no right-handed neutrino or one with a Majorana mass), and confinement (named, not obtained). Leptons are unsplit. Without a hidden label, walk patterns are ordinary fermions; colour is the gauged form of what Greenberg's order-3 paraquarks first expressed. Colour's loops fall under the tuning accepted for species' speeds. Prior art: partons (Jain 1989; Wen 1999, 2002).
+
+## What a third primitive would cost (before C9)
 
 A third primitive is admissible on a named contradiction (the rules make the proton elementary; experiment makes it composite) and worth admitting only if it cascades to a second open problem. Filling the slot would take at least four posits: which transit carries the triplet; a 3 × 3 unitary matching on relations with its cost; unit determinant (else a ninth massless vector couples to baryon number, excluded at 10⁻⁴⁷); and a scale. With those, Yang–Mills is the unique quadratic cost. Even then the proton is unbuilt: one triplet gives spin 3/2, not ½; the exchange sign of a triplet is not built; confinement is named, not obtained; the gluon field would need second quantisation; the fractional charges need charge to become a rational multiple. It cascades to the hadron spectrum and no further. Not earned.
 
 ## Quarks and gluons (shape)
 
-A quark is a pattern that renews, as an electron does, but of a second kind. Gluons are patterns of a colour field on relations, as light is of the which-way field. A proton is three quarks bound by that field. A linear binding cost needs the relations between quarks to hold one quantum per grain a: E = (ħc/a²)L, the strong-coupling flux string (Kogut–Susskind 1975), with a = ħc/√σ ≈ 0.45 fm, the QCD scale renamed. Missing: the three, the dynamical matching, gluon self-coupling, confinement itself.
+Quarks are the parts of a split whole (C9); gluons are patterns of the colour field on the relations, as light is of the which-way field. A proton is three parts bound by that field. A linear binding cost needs the relations between quarks to hold one quantum per grain a: E = (ħc/a²)L, the strong-coupling flux string (Kogut–Susskind 1975), with a = ħc/√σ ≈ 0.45 fm, the QCD scale renamed. Missing: confinement itself (named, not obtained); the colour field's dynamics, under the tuning accepted for loops.
 
 ## Three kinds of wall
 
-- **Silences.** Nothing selects N = 3. Passable only by a new rule.
+- **Silences.** Nothing selects N = 3. Passable only by a new rule; C9 is that rule.
 - **Representation theorems.** The four carries only U(1) (Schur). No lattice premise; not passable from inside.
 - **Continuum no-gos.** Nielsen–Ninomiya and Coleman–Mandula assume premises that fail at the hop, so they have loopholes; using the Coleman–Mandula loophole lands on Schur. Hold-and-release is chirality-blind (checked to 10⁻¹⁴, [`hold_chirality_check.py`](RECORD_OF_METHOD/NUCLEUS_notes/hold_chirality_check.py)).
 

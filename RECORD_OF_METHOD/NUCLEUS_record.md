@@ -508,3 +508,5 @@ Prior art: Jain 1989 (partons); Wen 1999 (projective construction) and 2002 (PRB
 - Rule both labels as a candidate, with the split as the reason for three.
 - Rule only the colour split, keeping the kind label held. This is the cheaper, more CO-native half: it rests on the author's three-fold hunch. The charges then wait on the kind label.
 Not ruled.
+
+**Ruled (2026-11-12, the author): the colour split only, as C9, candidate.** The kind label stays held. Entered: TECHNICAL_APPENDIX (C9), NUCLEUS ("Colour as a split"), OPEN_DIRECTIONS (Colour; Quarks and gluons), README (C1–C9; the nucleus line), STATE_OF_CO, SCOREBOARD. Of the 9 Nov four posits: which transit carries the triplet (a split whole) and unit determinant (from ε) now come with the split; the matching's cost and its scale stay posited. Of the 9 Nov "proton still unbuilt" list: spin 3/2 is answered by flavours (two needed); the exchange sign by the parts being fermions; second quantisation by C6's field reading under tuning, for the parts (the colour field's, open); confinement stays named; the fractional charges wait on the kind label.
