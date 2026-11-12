@@ -482,3 +482,29 @@ What is corrected:
 Prior art: Jain 1989 (partons); Wen 1999 (projective construction) and 2002 (PRB 65, 165113), Wen's book (2004); Levin and Wen 2005; preon and rishon models (Harari 1979).
 
 **Where it lands.** Against the price list, the split replaces the on-site label and its size three (posit (i), "the sizes by hand") with two choices: parts alike in colour, and the least odd split. The gauge field's cost and coupling (posits (ii) and (iv)) stay posited, as in the standard theory, where Λ_QCD is an input. The kind label is still needed for the charges. Net: one import becomes a minimality posit; the rest of the bill is unchanged. Grade: shape. The price list stays held.
+
+## 2026-11-12 (evening) — the price list revised with the day's readings (for the author's ruling; not ruled)
+
+**What changed since the price list was held.**
+- *The size three is no longer imported outright.* The parton reading, after cold reading, gives three as the least odd split of a fermion into parts alike in colour. The choices that remain are "alike in colour" (the kinship ruling's spirit) and "the least split" (a minimality posit). The kind label's size two is still put in.
+- *Statistics beyond two joins it.* Parastatistics is ordinary statistics plus a hidden internal label (Drühl–Haag–Roberts; Doplicher–Roberts), so "no parastatistics" and "no internal label" are one question. With the label, quarks carry what Greenberg's order-3 paraquarks first expressed; without it, every walk pattern is an ordinary fermion.
+- *The frame problem is tuned* (the author's ruling, for now). Colour's loops (order α_s/π) fall under the same tuning, so the label no longer worsens an open wall. It adds counter-terms for one more sector.
+- *The negative-space map* (refreshed after tuning) puts seven open items under the label: the weak interaction, the colour wall, confinement, baryons as twists, the up–down charges, the nucleon's mass from beneath, and statistics beyond two.
+
+**The posit, revised.** Matter in transit may be a split whole: N parts alike in colour, held at one place, with N the least odd number above one (three). Their interchange is an SU(3) redundancy on the relations. Left-handed matter carries a two-valued kind label, also with its redundancy on the relations. The gauge fields' own costs and couplings are posited, as in the standard theory (Λ_QCD and the electroweak couplings are inputs).
+
+**What it buys:** the seven items above, with consistency doing the rest: the charge values (+2/3, −1/3, 0, −1), neutral atoms for any odd N_c, N_c odd, and, conditionally, a right-handed neutrino.
+
+**What it still costs.**
+- Choices: "alike in colour", the least split, and the kind label's two.
+- Inputs: the gauge couplings.
+- Open problems inherited: a chiral gauge field on the lattice (Ginsparg–Wilson, which the locality ruling allows, or mirror gapping); the weak interaction's breaking (a Higgs-type field, a silence); the masses; three generations.
+- One new sector to tune.
+
+**Against the cascade bar.** It now reaches seven open items, three of them with data (the charges, neutrality, the weak form). That is a cascade by the bar's terms. Most of it is still the Standard Model's own consistency, read in CO's terms, and it predicts nothing beyond the conditional right-handed neutrino.
+
+**For the author, three choices as before.**
+- Hold.
+- Rule both labels as a candidate, with the split as the reason for three.
+- Rule only the colour split, keeping the kind label held. This is the cheaper, more CO-native half: it rests on the author's three-fold hunch. The charges then wait on the kind label.
+Not ruled.
