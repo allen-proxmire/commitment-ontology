@@ -1375,3 +1375,21 @@ which would make N naturally modest (a logarithm) and derived. Tried with CO's o
 **3. What is left.** What sets an engagement apart is its broad final state (|V| ≪ ħΓ); N is how far the chain through it must spread. The remaining routes would tie N to the final state's continuum (how many modes within the width a chain must reach), not to the pattern or to CO's constants. None is worked out. Until one is, N is a fourth constant of CO's own, bounded below by experiment (≳ 50, conditional on ruling 3 and the warm-sample posits) and above by nothing but a universal reversal ceiling, if one exists.
 
 **Grade.** Reading. The amplitude-cap route is excluded; experiments matching quantum mechanics cannot bound N from above (a consequence of CO's equivalence to quantum mechanics without reversal). N stays a shape.
+
+## 2026-11-12 — the continuum route to N (reading; closes as a derivation, leaves a dilemma)
+
+**The route.** An engagement's distinguishing mark is its broad final state. Could N be a count set by that continuum, such as how many modes within the width a chain must reach?
+
+**The broad clause is already a count.** With the golden rule, Γ = 2π|V|²ρ/ħ (ρ the density of final states), the number of final states within the width is
+
+n_Γ = ħΓρ = 2π|V|²ρ²,  and  ħΓ/|V| = 2π|V|ρ,  so  n_Γ = (ħΓ/|V|)² / 2π.
+
+"Broad against the coupling" (|V| ≪ ħΓ) is the same as "one quantum shared over many final states" (n_Γ ≫ 1). C8 therefore holds two thresholds, not one: how many modes a single quantum's final state must span (the "≪", unset) and how many quanta the chain must reach (N). Both say "spread over many"; they count different things (modes, quanta).
+
+**Why the continuum cannot set N.** Every count the continuum offers, n_Γ, the ratio of the recurrence (Heisenberg) time ħρ to the decay time 1/Γ (which is the same number, ħρΓ = n_Γ), or the modes reached by a chain of given breadth, depends on the system's coupling and density of states. These vary by many orders of magnitude between a nucleus, an atom in free space and a spin in a crystal. A number built from them is system-dependent. The N test, though, rests on N being the same everywhere: that is what separates CO from emergent irreversibility, whose ceilings are set by each system's dynamics. Two cases follow.
+- N universal: the continuum cannot supply it; CO's constants cannot either (2026-11-09: the ties need a new, erasable record); so N is a fourth constant, set by experiment.
+- N system-dependent, set by the continuum: then CO's ceiling shifts from system to system as emergent irreversibility's does, and the universality row of the test no longer separates them. N stops being a distinct prediction.
+
+**Folding the two thresholds into one (a poke, excluded).** Requiring the chain's breadth in modes, not quanta, to reach N would make one threshold do both jobs. But a single photon emitted into free space spans an unbounded number of modes, so every spontaneous emission would engage at once, and ruling 6 counts quanta precisely to avoid the resonator exclusion (one phonon moving 10¹³–10¹⁷ atoms). Excluded.
+
+**Grade.** Reading. The continuum route closes as a derivation of a universal N. What is gained is the dilemma, stated sharply: N is either a fourth constant of CO's own, set by experiment, or not a prediction at all. Also stated: C8's "≪" is a second, unset threshold (in modes).
