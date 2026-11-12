@@ -431,3 +431,38 @@ The Bell paragraphs in `NUCLEUS.md` and the plain doc said two things that canno
 - *Rule as a candidate*: "matter in transit carries an on-site internal label space (colour, kind)". The cascade is entered, and every import is named in "What goes in".
 - *Rule only the kind label*: the weak form and charge structure, colour still waiting. This is cheaper, but the charges then need N_c, so items 3–5 stay conditional.
 Not ruled.
+
+**Held (2026-11-12, the author).** The on-site label is held, not ruled; the price list stays on file. The next question is whether CO's own pieces supply the label instead of importing it.
+
+## 2026-11-12 — poke: colour as the redundancy of splitting a fermion into alike parts (shape, ungraded)
+
+**The author's hunch, restated.** "One tile alone is a design, two do not make a pattern, three completes it; the parts keep switching roles."
+
+**Tiles held at one place, read as partons.** Let the whole be a fermion c at a place, and let it be made of N alike parts f_a, all at that same place:
+
+c = (1/N!) ε^{a₁…a_N} f_{a₁} ⋯ f_{a_N}.
+
+Because the parts are alike (kin), which part is which is not physical. Rotating the parts among themselves by any unitary with unit determinant leaves c unchanged, since ε is preserved by SU(N). So the splitting carries an SU(N) redundancy at each place. In condensed-matter physics this is the parton, or projective, construction: such a redundancy becomes an emergent SU(N) gauge field on the relations (Wen, *Quantum Field Theory of Many-Body Systems*, 2004). "The parts keep switching roles" is the redundancy itself.
+
+**Why three.**
+- The whole is a fermion. Parts that are all alike must then all be fermions.
+- A product of N fermions is a fermion only for N odd.
+- N = 1 is no splitting ("a design").
+- N = 2 would give a boson ("two do not make a pattern").
+- The least odd N above one is three ("three completes it").
+
+The same oddness turns up twice already: Witten's global anomaly needs N_c odd, and Skyrme's twisted baryon is a fermion only for N_c odd.
+
+**Why this meets today's constraint.** The label must act on-site to be gauged, and here it does: the parts sit at one place, so the SU(3) redundancy is local by construction. That is the property the corners and tastes lacked.
+
+**One more match.** A physical state at a place must be a singlet of the redundancy (its Gauss law). That is the narrow point kept on 5 Nov: whether "one pattern" coincides with the colour-singlet constraint. Here it does, by construction.
+
+**Leptons.** Unsplit (N = 1): no colour, the "design". This fits the author's three kinds of pattern: whole patterns (electron), three-fold patterns (quarks as the parts of a split whole), and dark.
+
+**What it does not do.**
+- "All parts alike" and "the least splitting" are two choices. The first is the kinship ruling's spirit; the second is a minimality posit (five would also be odd).
+- Which whole is split, and with what charges, is not given. The anomaly conditions then set the parts' charges once the kind label is in hand. A proton of charge +1 split three ways gives the up and down charges only with the kind label beside it.
+- An emergent gauge field from partons is an effective field below the lattice scale. Whether CO's split gives a confining SU(3) with QCD's running is open.
+- The emergent field's dynamics (Yang–Mills) still needs quantisation and loops, so the frame problem's exposure is unchanged.
+
+**Grade.** Shape, ungraded. It offers a reason for three (the least odd splitting of a fermion into alike fermions) and an on-site home for colour, which are exactly what the price list said would have to be imported. It turns "the sizes by hand" into "minimal splitting, a posit". Not ruled; read against the cascade bar only if the author wants to go on.
