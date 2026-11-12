@@ -58,10 +58,11 @@ By the frame note's exits table, every exit from A has been read except two: a r
 
 Closed (frame note, "The common-origin exit, tested"). Fields made from the walk's parts get their cost from loops fed up to the hop scale, where the walk is not Lorentz invariant, so their speed splits from matter's at about 1/ln(1/(mℓ)) ≈ 1/40. Also, the fields CO needs must carry their own cost to be weak at the hop scale. So the edge shared by A and B is not a way through A. A's exits are now: tuning (permitted, not accepted), or a real-time symmetry that mixes the tick with the hops, the one unexplored entry. The map's largest hollow narrows to that single question.
 
-## Update: the tick–hop exit (same day)
+## Update: the tick–hop exit (same day, after cold reading)
 
-Read (frame note, "The tick–hop exit"). Walks do carry a deformed Lorentz symmetry, but on CO's network it holds only for free patterns. Every local vertex conserves momentum additively, because the network's translations commute, and additive conservation survives only a linear deformation. A's exits are now:
+Read (frame note, "The tick–hop exit"). Walks carry a deformed Lorentz symmetry near long wavelength. On CO's network, local vertices conserve momentum additively, and the additive maps of the momentum torus form a discrete group (GL(3, ℤ)), so no continuous boosts survive. One loophole is open: boosts acting on pairs with backreaction (Gubitosi–Mercati). A's exits are now:
 - tuning (permitted, not accepted);
-- a network whose translations do not commute (momentum space curved at the hop scale; relative locality, with its soccer-ball problem).
+- boosts acting on pairs with backreaction (unexplored);
+- a network with non-commuting coordinates (κ-Poincaré-type quantum-group translations, relative locality), with the soccer-ball cost. Non-commuting network translations would not do: Gromov's theorem returns them to the abelian case or to large-scale curvature.
 
-The map's largest hollow has a definite edge: CO with a commuting network and local vertices must tune. The one way round is a deep change to what the network is.
+The map's largest hollow has a sharper edge: CO with local vertices must tune, unless the pair-boost loophole holds.
