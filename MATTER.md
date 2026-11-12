@@ -44,7 +44,7 @@ Number change (identification with lattice QED, candidate; costs: the filled sta
 
 **Branching.** A carried quantity is branched with what sets it, if what sets it has amplitude. Possibility in transit has amplitude; free possibility has no cycle and so none. The which-way flux is branched; the free stock and the clock field are classical.
 
-**The dents.** Each renewal leaves a dent of δħ in the free stock, drawn independently from |a|², carrying no which-way information. A pattern left alone is not resolved. The dents act back through h, a Schrödinger–Newton term at G as measured. The nearest established relative is Tilloy–Diósi 2016.
+**The dents.** Each renewal leaves a dent of δħ in the free stock, drawn independently from |a|², carrying no which-way information. A pattern left alone is not resolved. The dents do not act back on an unresolved pattern: gravity's source follows engagements (SPACE_AND_GRAVITY, "Classical source"), so there is no Schrödinger–Newton term. The nearest established relative is measurement-and-feedback classical–quantum dynamics (Tilloy–Diósi 2016, without gravity's own engagements).
 
 ## Measurement
 

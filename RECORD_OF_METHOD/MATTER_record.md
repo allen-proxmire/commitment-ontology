@@ -1281,3 +1281,23 @@ The doodle asked whether a falling floor of possibility, felt at a galaxy's outs
 **Reading.** The second branch is the one closest to CO's own picture (dents left by renewals and engagements in the free stock, read as the source), and it would turn the engagement criterion from a silence into the source of gravity's classical field. But it is a change of stance with testable cost. The first reverses the falsifier and conflicts with the no-amplitude ruling. The third discards imported measurement. This is a ruling for the author.
 
 **Grade.** Reading. The present combination (no collapse, mean source, Lüders, no signalling) is excluded by the signalling argument; Schrödinger–Newton's size, ω_SN ≈ 0.036 s⁻¹ for silicon, stands only under the first-listed stance and is moot under the others.
+
+**Ruled (2026-11-11, the author, candidate): engagements source gravity.** Of the fork above, the second branch: gravity's classical source is set by engagements, not by the mean of an unresolved state.
+
+## 2026-11-11 — engagements as gravity's source, worked out: two forms, and the one that keeps no collapse (reading)
+
+**Two forms of the ruling.**
+- *B1, gravity itself engages* (Tilloy–Diósi): the mass density is continuously, weakly measured by gravity, and the outcomes source the potential. Consistent and no-signalling, but it is a collapse model with a rate and a heating set by a smearing length R₀. The Gran Sasso test of gravity-related collapse (Donadi et al., Nature Physics 17, 74 (2021)) excludes the parameter-free form for R₀ below about 0.5 × 10⁻¹⁰ m. CO's own length is the hop, ℓ ≲ 1.3 × 10⁻³¹ m, twenty-one orders smaller: B1 with CO's scale is excluded, and with R₀ ≳ 0.5 Å it needs a length CO does not have.
+- *B2, only the engagements already happening source gravity:* gravity adds no engagements of its own. Its source is the body's state given the record of its engagements (with light, with other patterns), evolved forward between them, as in the consistent Tilloy–Diósi form but without gravity's own engagements. Consistent: the source depends only on local outcomes, whose statistics do not depend on distant choices, so there is no signalling; the coupling is measurement followed by classical feedback, the standard consistent form of classical–quantum dynamics, so it carries the decoherence–diffusion trade-off (Oppenheim et al. 2023) with the decoherence supplied by the engagements themselves. It adds no collapse; the field noise the trade-off requires, and the small heating it brings, is set by how often a body is engaged, small for constantly engaged bodies. It is not Kafri–Taylor–Milburn, in which gravity makes its own measurements (B1-like, excluded in pairwise form: Altamirano et al. 2018); B2 uses only engagements that happen anyway.
+
+**Reading: B2 is the form to keep.** It keeps three of the four (no collapse, the Lüders update, no signalling) and drops only the mean source, replacing it with the record of engagements. B1 is excluded at CO's scale.
+
+**What B2 predicts.**
+1. *No entanglement through gravity* (unchanged; Bose et al. 2017 and Marletto–Vedral 2017 would test it, and entanglement would make CO wrong).
+2. *No self-gravity of an unresolved state:* an unengaged body's gravity does not follow its own wavefunction. A continuously monitored body is another matter: its source follows its conditioned state and acts back on it, a pull toward the recorded position of Schrödinger–Newton size, with noise; so the optomechanics test of Helou et al., whose mass is watched by a laser, is open under B2.
+3. *Page–Geilker passed:* macroscopic bodies are engaged constantly (about 10¹⁹ thermal photons per second for a gram at room temperature, and about 10²³ gas collisions per second in air), so their source follows where they are.
+4. *A new, presently untestable signature:* a body left unengaged gravitates from its record evolved forward, not from its present superposition.
+
+**Costs, open.** The source jumps at each engagement, so energy and momentum are conserved only on average; the decoherence–diffusion trade-off sets a floor on how faithfully a weakly engaged body can source gravity, to be computed; "the record of engagements" needs the engagement criterion (which contacts are engagements), still a silence, now load-bearing for gravity too.
+
+**Grade.** The ruling: candidate. B2: reading. The previous stance (mean source): excluded by signalling.
