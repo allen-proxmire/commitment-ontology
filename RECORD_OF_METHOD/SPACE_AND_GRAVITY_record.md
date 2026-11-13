@@ -1555,16 +1555,27 @@ E₀/N₀ ≈ (P_max − P_b) / η × (0.1 to 1),
 
 and with the gap above ħ and η = 6 × 10⁻¹⁰,
 
-E₀/N₀ ≳ 2 × 10⁸ ħ to 2 × 10⁹ ħ.
+E₀/N₀ ≳ 1.7 × 10⁸ ħ (f = 0.1) to 1.7 × 10⁹ ħ (f = 1),
 
-So, given the sketch's assumptions, C7 and the light-passing bound, **the first commitments began about 10⁸–10⁹ quanta over capacity each.** With P_max of a few ħ (P_b ≈ 5ħ plus a gap of order ħ), that is about 10⁸ times capacity. Read the other way, the photon ratio measures how far over capacity the first commitments were, in units of the gap a newborn place sits below capacity:
+with f the sketch's factor (0.1 to 1), one over the photons per place. It is a lower bound because the gap is bounded only from below.
+
+So, given the sketch's assumptions, C7 and the light-passing bound, **the first commitments began at least 10⁸–10⁹ quanta over capacity each.** With P_max ≳ 6ħ (P_b ≈ 5ħ plus a gap of at least ħ), that is about 3 × 10⁷–3 × 10⁸ times capacity. In general the excess in units of capacity is E₀/(N₀P_max) = (gap/P_max)·f/η ≤ f/η, so it has a ceiling of about 1.7 × 10⁹. Read the other way, the photon ratio measures how far over capacity the first commitments were, in units of the gap a newborn place sits below capacity:
 
 η ≈ (P_max − P_b) / (E₀/N₀) × (0.1 to 1).
 
 **What would pin them.** Three things, none in hand:
-- the fluctuation spectrum the over-capacity epoch leaves (amplitude about 2 × 10⁻⁹, tilt n_s ≈ 0.965), a CO-specific computation from the gap's history;
+- the fluctuation spectrum the over-capacity epoch leaves (power amplitude A_s ≈ 2.1 × 10⁻⁹, density ripples about 10⁻⁵; tilt n_s ≈ 0.965), a CO-specific computation from the gap's history;
 - the network's whole size, for N₀;
 - an upper bound on the gap, for P_max.
 The first is the one with data attached.
 
-**Grade.** Shape, conditional on assumptions (a)–(c) of the photon-ratio sketch, C7 (candidate) and P_b = P∞ (candidate). N₀ and P_max are not pinned. The first excess per first commitment is bounded below at about 10⁸–10⁹ ħ. The next rung is the epoch's fluctuation spectrum.
+**Hidden assumptions, flagged (cold read).**
+- f = 1/(photons per place) holds only for P_max ≲ 10⁴ ħ; at very large P_max, f falls to about 0.02 and the bound weakens.
+- The light is spread evenly over all places.
+- N_exit ≈ E₀/gap requires E₀/gap ≫ N₀.
+- N₀ must be the net baryon count; if any first patterns are neutrinos, N₀ overcounts.
+- The S/3.6 step treats all entropy as photons; today s ≈ 7.04 n_γ, a factor of about 2, inside the 0.1–1 range.
+
+**The plain statement.** So the matter-to-light ratio is really a measurement of how far over capacity the very first commitments were.
+
+**Grade.** Shape, conditional on assumptions (a)–(c) of the photon-ratio sketch, C7 (candidate), P_b = P∞ (candidate) and the flags above. N₀ and P_max are not pinned. The first excess per first commitment is bounded below at about 10⁸–10⁹ ħ. The next rung is the epoch's fluctuation spectrum.
