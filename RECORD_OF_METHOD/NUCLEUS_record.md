@@ -554,3 +554,18 @@ The electroweak reading needs a complex scalar doublet at each place. Candidates
 - *A new scalar walk.* One-component walks are trivial (D'Ariano and Perinotti), so a scalar doublet would need its own rule with interaction.
 
 **Result.** No CO-native source for the boson part. The electroweak block stays a shape: the kind label, its one-handedness, the boson part and the inputs are all still imports. Gained: the electroweak redundancy has the electroweak group's shape, U(2), from a two-part split, and the boson part is identified as the single thing CO would have to supply.
+
+## 2026-11-13 — reading: can "contrast" replace C9's minimality choice? (shape)
+
+**The author's idea.** Properties are contrasts. A thing alone has none ("one is none"). Two things give one relation, and when they differ the relation carries more than either. Emergence is contrast built on contrast. Restated for three: three is the first count at which the relations themselves can contrast.
+
+**Made precise.** Among parts that all relate to each other (parts held at one place, as in C9: every pair related), n parts carry n(n − 1)/2 relations:
+- *n = 2:* one relation, so no loop. There is nothing for the relation to contrast with.
+- *n = 3:* three relations, A–B, B–C, C–A, closing into the first loop. Going around A → B → C → A can fail to return to where it started. That failure is the lattice's definition of a field strength or curvature (a holonomy), and it is the first contrast between relations.
+So for mutually related parts, the first closed loop of relations, and with it the first contrast of contrasts, comes at three. (On CO's cubic network the smallest loop between places is a square of four; the count three belongs to parts that all relate to each other, as parts at one place do, not to the network's places.)
+
+**Against C9.** C9 takes "the least odd split above one" as a choice. The contrast reading replaces it with one principle: *a split pattern is complete at the first count where its parts' relations close a loop.* That gives three directly. Three is also odd, so the parts can all be fermions in a fermion whole: the two readings agree. They also give the same reason why two is not complete ("two do not make a pattern"): one relation, no loop. What the principle does not do is forbid larger splits. It says the first complete one is three, which is still a choice of "first", but a reasoned one in place of a bare minimum.
+
+**Against the "two" poke** (the weak SU(2) as a two-part split; cold read: tailored). By this principle a two-part split is not a complete pattern. The contrast reading therefore does not support reading the weak interaction as a split, consistent with withdrawing "one rule gives both 3 and 2". Colour gets a reason; the weak "two" does not.
+
+**Grade.** Shape. C9's minimality choice becomes a principle ("complete at the first closed loop of mutual relations"), still a posit, now tied to the author's account of emergence. Not entered in C9's row until the author rules it. The idea itself is written up in `OPEN_DIRECTIONS_notes/contrast.md`.
