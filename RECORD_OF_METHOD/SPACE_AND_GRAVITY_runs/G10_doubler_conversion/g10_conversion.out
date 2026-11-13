@@ -1,0 +1,6 @@
+theta=0.0 event alpha=0.0: doubler group speed +1.082; after: weight near k=0 (light species) 0.0000, near k=pi 1.0000
+theta=0.0 event alpha=0.3: doubler group speed +1.082; after: weight near k=0 (light species) 0.0338, near k=pi 0.9662
+theta=0.0 event alpha=1.0: doubler group speed +1.082; after: weight near k=0 (light species) 0.2077, near k=pi 0.7923
+theta=0.05 event alpha=0.0: doubler group speed +1.115; after: weight near k=0 (light species) 0.0000, near k=pi 1.0000
+theta=0.05 event alpha=0.3: doubler group speed +1.115; after: weight near k=0 (light species) 0.0332, near k=pi 0.9668
+theta=0.05 event alpha=1.0: doubler group speed +1.115; after: weight near k=0 (light species) 0.2108, near k=pi 0.7892
