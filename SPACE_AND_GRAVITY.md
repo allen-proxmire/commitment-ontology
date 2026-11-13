@@ -75,6 +75,6 @@ for the matter era, and for the radiation era with radiation drawing twice its e
 
 ## Open
 
-The values of δ, P_max, Λ, N and the birth share; the nonlinear cost on the lattice carriers (strong fields); the walk on the curved network written out (candidate, by analogy with a known curved-spacetime quantum walk, its frame read from the carriers; its lapse and stretch entries checked in a uniform weak field, past a point mass for light, and the shift's on both axes (sheared, rotating and curl-free nudges); a spinning body's field, three dimensions and strong fields open); the mechanism of the first relating; the hole's interior.
+The values of δ, P_max, Λ, N and the birth share; the nonlinear cost on the lattice carriers (strong fields; Regge's form reduces to the linear cost at weak field, run E1; the cell's cut and its longer diagonals open); the walk on the curved network written out (candidate, by analogy with a known curved-spacetime quantum walk, its frame read from the carriers; its lapse and stretch entries checked in a uniform weak field, past a point mass for light, and the shift's on both axes (sheared, rotating and curl-free nudges); a spinning body's field, three dimensions and strong fields open); the mechanism of the first relating; the hole's interior.
 
 References: Wald (1986), Boulanger–Damour–Gualtieri–Henneaux (2001), Lovelock (1971), Regge (1961), Tegmark (1997), Trugenberger (2017–19), Yilmaz (exponential metric; not a solution of these dynamics).

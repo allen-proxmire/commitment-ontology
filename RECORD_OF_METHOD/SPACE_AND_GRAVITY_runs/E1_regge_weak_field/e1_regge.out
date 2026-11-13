@@ -1,0 +1,15 @@
+L=16 n=(1, 0, 0, 0): gauge mode S2/(eps^2 |k|^2 |xi|^2) = -1.57e-06
+L=16 n=(1, 1, 0, 0): gauge mode S2/(eps^2 |k|^2 |xi|^2) = -3.64e-04
+L=16 n=(1, 1, 1, 0): gauge mode S2/(eps^2 |k|^2 |xi|^2) = -2.17e-03
+L=16 n=(1, 2, 0, 0): gauge mode S2/(eps^2 |k|^2 |xi|^2) = -1.74e-03
+L=16: S2/Q per cube across polarisations and directions: mean -0.24415, spread 3.31e-02
+L=32 n=(1, 0, 0, 0): gauge mode S2/(eps^2 |k|^2 |xi|^2) = -6.17e-06
+L=32 n=(1, 1, 0, 0): gauge mode S2/(eps^2 |k|^2 |xi|^2) = -7.89e-05
+L=32 n=(1, 1, 1, 0): gauge mode S2/(eps^2 |k|^2 |xi|^2) = -4.84e-05
+L=32 n=(1, 2, 0, 0): gauge mode S2/(eps^2 |k|^2 |xi|^2) = -1.16e-05
+L=32: S2/Q per cube across polarisations and directions: mean -0.24825, spread 1.28e-02
+L=64 n=(1, 0, 0, 0): gauge mode S2/(eps^2 |k|^2 |xi|^2) = -8.77e-05
+L=64 n=(1, 1, 0, 0): gauge mode S2/(eps^2 |k|^2 |xi|^2) = -9.08e-06
+L=64 n=(1, 1, 1, 0): gauge mode S2/(eps^2 |k|^2 |xi|^2) = -3.71e-05
+L=64 n=(1, 2, 0, 0): gauge mode S2/(eps^2 |k|^2 |xi|^2) = -1.07e-05
+L=64: S2/Q per cube across polarisations and directions: mean -0.25008, spread 4.07e-03
