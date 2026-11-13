@@ -1620,3 +1620,32 @@ The cascade poke, in its simple form, fails on four counts:
 A field with logarithmic correlations in three dimensions has exactly the scale-invariant spectrum, but the known way to make one is a massless field's fluctuations frozen during exponential expansion over the observed span, which is inflation again. **The simple cascade is excluded.** A cascade with η ≈ −1 and Gaussian statistics would be needed, and none is known. No simulation run: the analytic objections decide it.
 
 **Where the beginning stands.** The epoch is not the ripples' source. Graininess is excluded, and the simple critical cascade is excluded. The ripples are an initial condition of the beginning (a silence), unless CO has a later horizon-shrinking stage, which it does not yet have. Grade: reading.
+
+## 2026-11-13 — the beginning's fork: a broad start or a seed (reading; both held)
+
+**The question (the author's).** CO already has an inflation-like exit: the over-capacity epoch, commitments outpacing the formation of space. Does it give the ripples?
+
+**It depends on one assumption, and that makes a fork.**
+
+**A. A broad start.** Many first places, one pattern each: about 10⁸⁰ first places for the observable patch, about 10²⁷ across. This is the author's "started to commit at many places at once", with C7 as ruled (only the first commitments start patterns) and the photon-ratio reading. The epoch is short (6–7 e-folds in length) and its horizon is a few hops, so it cannot lay down the observed ripples: they are an initial condition of the beginning (a silence). In A, the matter-to-light ratio is a measurement of how far over capacity the very first commitments were.
+
+**B. A seed.** The observable patch grows from about one place. The epoch must then stretch it by ln(10²⁷) ≈ 62 e-folds in length (about 186 in places), close to the ~60 that standard inflation needs. That is a coincidence of numbers, not a derivation. Everything observed was once inside a region a few hops wide, so the epoch can lay down the ripples as inflation does, with their size and tilt set by how its multiplication rate changes. The cost: matter cannot come from one pattern per first place, since one place cannot start 10⁸⁰ patterns.
+
+**Can matter come out right in B? (reading)** The natural pairing for B is the author's literal hunch, already on file as not excluded (dark matter note): every place over capacity during the epoch starts one pattern, not only the first places. Then:
+- *Patterns per photon.* About one pattern per place, against the sketch's 1–10 photons per place, gives about 0.1–1 patterns per photon. Relic neutrinos and baryons together number about 0.8 per photon today (336 against 411 cm⁻³). The count fits.
+- *Matter over antimatter.* The hunch's "no room for a second pattern in a saturated place" gives one sign. The relic neutrinos are then of one sign (not testable through N_eff; Majorana neutrinos have no sign).
+- *η.* It is no longer the ratio of first places to all places. It becomes the share of the epoch's patterns that are baryons (about 10⁻⁹), which needs a rule for kinds. Kinds change only through the weak interaction, a silence in CO, so in B η is a silence of the kind rule.
+- *C7 would change.* "Only the first commitments start patterns" would become "every commitment forced by over-capacity during the epoch starts one pattern; afterwards patterns start only in opposite-sign pairs". The pairs clause, which keeps the net count, stays.
+
+**Side by side.**
+
+| | A, a broad start | B, a seed |
+|---|---|---|
+| the beginning | many places at once (the author's picture) | one place, then the epoch |
+| e-folds in length | 6–7 | about 62 |
+| the ripples | a silence of the beginning | from the epoch, as inflation; size and tilt computable |
+| where matter comes from | the first places (C7 as ruled) | every over-capacity place in the epoch (the literal hunch; C7 restated) |
+| patterns per photon | not predicted | about 0.1–1, against 0.8 observed (baryons and neutrinos) |
+| η | how far over capacity the first commitments were | the baryon share of the epoch's patterns (a kind rule; silence) |
+
+**Reading.** Both are held. B makes the ripples possible and fits the total count of patterns to light, at the cost of C7's form and of η's meaning: the sentence "the matter-to-light ratio is a measurement of how far over capacity the very first commitments were" holds in A, not in B. A keeps C7 and that reading, and leaves the ripples a silence. Next in B would be the epoch's multiplication rate over about 186 e-folds in places, with A_s ≈ 2.1 × 10⁻⁹ and n_s ≈ 0.965 as targets.
