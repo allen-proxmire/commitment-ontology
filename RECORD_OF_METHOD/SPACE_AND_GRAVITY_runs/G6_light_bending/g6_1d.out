@@ -1,9 +1,10 @@
-theta=0.1 sig=150: pure stretch a/(g c0^2)=-0.0082   clock 0.9959   clock+stretch 0.9863
-theta=0.1 sig=300: pure stretch a/(g c0^2)=-0.0027   clock 1.0075   clock+stretch 1.0034
-theta=0.1 sig=600: pure stretch a/(g c0^2)=-0.0013   clock 1.0105   clock+stretch 1.0078
-theta=0.2 sig=150: pure stretch a/(g c0^2)=-0.0021   clock 1.0134   clock+stretch 1.0106
-theta=0.2 sig=300: pure stretch a/(g c0^2)=-0.0008   clock 1.0163   clock+stretch 1.0147
-theta=0.2 sig=600: pure stretch a/(g c0^2)=-0.0005   clock 1.0170   clock+stretch 1.0157
-theta=0.4 sig=150: pure stretch a/(g c0^2)=-0.0005   clock 1.0069   clock+stretch 1.0060
-theta=0.4 sig=300: pure stretch a/(g c0^2)=-0.0003   clock 1.0076   clock+stretch 1.0069
-theta=0.4 sig=600: pure stretch a/(g c0^2)=-0.0002   clock 1.0077   clock+stretch 1.0071
+theta=0.1 sig=150: pure stretch -0.00741   clock 0.9966   clock+stretch 0.9891
+theta=0.1 sig=300: pure stretch -0.00188   clock 1.0082   clock+stretch 1.0062
+theta=0.1 sig=600: pure stretch -0.00047   clock 1.0111   clock+stretch 1.0106
+theta=0.2 sig=150: pure stretch -0.00172   clock 1.0137   clock+stretch 1.0120
+theta=0.2 sig=300: pure stretch -0.00043   clock 1.0166   clock+stretch 1.0161
+theta=0.2 sig=600: pure stretch -0.00011   clock 1.0173   clock+stretch 1.0172
+theta=0.4 sig=150: pure stretch -0.00033   clock 1.0071   clock+stretch 1.0068
+theta=0.4 sig=300: pure stretch -0.00008   clock 1.0077   clock+stretch 1.0076
+theta=0.4 sig=600: pure stretch -0.00002   clock 1.0079   clock+stretch 1.0078
+done

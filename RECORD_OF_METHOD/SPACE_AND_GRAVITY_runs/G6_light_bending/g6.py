@@ -1,7 +1,7 @@
 import numpy as np
 # 2D palindromic Wilson walk: U = Ax Ay F(theta N) Ay Ax.  Ax = Sx+ F(w) Sx- F(-w) (hops in sigma_z basis);
 # Ay = R (same along y) R^dag, R = exp(-i pi/4 sigma_x): hops along y in the sigma_y basis; flips stay sigma_x.
-# Field along x: lapse N = 1 - g x, hop stretch psi = 1 + kappa' g x. Rule: 2 cos w(x) = c0 * N/psi (light's local speed); mass flip theta*N.
+# Field along x: lapse N = 1 - g x, hop stretch psi (= the standard conformal factor squared) = 1 + g x. Rule: 2 cos w(x) = c0 * N/psi (light's local speed); mass flip theta*N.
 Lx,Ly=400,256; w0=0.3; c0=2*np.cos(w0)
 x=(np.arange(Lx)-Lx//2)[:,None]*np.ones((1,Ly))
 sx=np.array([[0,1],[1,0]],complex); I2=np.eye(2)
@@ -30,7 +30,7 @@ def packet(th,k0y,sig):
             ev,V=np.linalg.eig(Uk(a,b,th,w0)); phi[:,i,j]=amp*V[:,np.argmin(np.angle(ev))]
     p=np.array([np.fft.ifft2(phi[0]),np.fft.ifft2(phi[1])])
     p=np.roll(p,(Lx//2,Ly//2),axis=(1,2)); return p/np.sqrt(np.sum(abs(p)**2))
-def run(th,k0y,g,kap,sig=30,T=150):
+def run(th,k0y,g,kap,sig=30,T=150):   # early single-sign version, not used by g6_final; np.clip hides a failed arccos
     N=1-g*x; psi=1+kap*g*x
     w=np.arccos(np.clip(c0*N/psi/2,-1,1)); ang=th*N
     p=packet(th,k0y,sig); xs=[];ys=[]

@@ -1,6 +1,7 @@
 import numpy as np
 # 1D: pure stretch field (lapse 1), light's local speed c0/psi set via the Wilson flip: 2 cos w(z) = c0/(1+g z).
-# Slow matter should feel no push at first order (GR). Also clock-only and clock+stretch, for comparison.
+# Slow matter at rest should feel no push at first order (GR). Each field at +g and -g; linear response = odd part.
+# Here psi is the hop stretch (route factor), the standard conformal factor squared.
 L=8000; w0=0.3; c0=2*np.cos(w0); z=np.arange(L)-L//2
 def Fop(p,a): c=np.cos(a); s=np.sin(a); u,d=p; return np.array([c*u-1j*s*d, c*d-1j*s*u])
 def A(p,w): p=Fop(p,-w); p=np.array([p[0],np.roll(p[1],-1)]); p=Fop(p,w); return np.array([np.roll(p[0],1),p[1]])
@@ -21,7 +22,7 @@ def acc(th,sig,g,lapse,stretch,T=1500):
         xs.append(np.sum(np.sum(abs(p)**2,0)*z)); p=step(p,w,th*N)
     return 2*np.polyfit(np.arange(T+1),xs,2)[0]
 g=2e-6
+def odd(th,sig,la,st): return (acc(th,sig,g,la,st)-acc(th,sig,-g,la,st))/2/(g*c0**2)
 for th in [0.1,0.2,0.4]:
     for sig in [150,300,600]:
-        a_s=acc(th,sig,g,0,1); a_c=acc(th,sig,g,1,0); a_f=acc(th,sig,g,1,1)
-        print(f"theta={th} sig={sig}: pure stretch a/(g c0^2)={a_s/(g*c0**2):+.4f}   clock {a_c/(g*c0**2):.4f}   clock+stretch {a_f/(g*c0**2):.4f}")
+        print(f"theta={th} sig={sig}: pure stretch {odd(th,sig,0,1):+.5f}   clock {odd(th,sig,1,0):.4f}   clock+stretch {odd(th,sig,1,1):.4f}")

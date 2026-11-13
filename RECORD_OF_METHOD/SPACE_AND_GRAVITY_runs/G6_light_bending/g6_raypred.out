@@ -1,0 +1,4 @@
+light k0y=0.05: ray prediction a/(g c0^2): clock 0.9972  clock+stretch 1.9943
+light k0y=0.1: ray prediction a/(g c0^2): clock 0.9890  clock+stretch 1.9779
+light k0y=0.15: ray prediction a/(g c0^2): clock 0.9751  clock+stretch 1.9502
+light k0y=0.3: ray prediction a/(g c0^2): clock 0.8982  clock+stretch 1.7964
