@@ -1,0 +1,3 @@
+b=0.1: light +y +2.0818, light -y -1.6840  (tilt +0.1989, mean speed 1.8829);  matter drift +0.1995;  sin(b)*2 = 0.1997
+b=0.2: light +y +2.2782, light -y -1.4873  (tilt +0.3955, mean speed 1.8827);  matter drift +0.3971;  sin(b)*2 = 0.3973
+b=0.4: light +y +2.6545, light -y -1.1061  (tilt +0.7742, mean speed 1.8803);  matter drift +0.7782;  sin(b)*2 = 0.7788

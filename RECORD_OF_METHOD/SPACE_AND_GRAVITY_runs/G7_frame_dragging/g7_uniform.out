@@ -1,0 +1,15 @@
+b=0.0 light +y: v_y=+1.89087  x drift -2.9522  norm 1.000000000000
+b=0.0 light -y: v_y=-1.89087  x drift +1.9019  norm 1.000000000000
+b=0.0 matter 0.2: v_y=+0.00000  x drift -1.0523  norm 1.000000000000
+b=0.0 matter 0.4: v_y=+0.00000  x drift -0.5900  norm 1.000000000000
+   light: (v+ - |v-|)/2 = +0.00000, mean speed 1.89087;  matter drifts +0.00000, +0.00000
+b=0.02 light +y: v_y=+1.93005  x drift -2.9522  norm 1.000000000000
+b=0.02 light -y: v_y=-1.85169  x drift +1.9019  norm 1.000000000000
+b=0.02 matter 0.2: v_y=+0.03999  x drift -1.0523  norm 1.000000000000
+b=0.02 matter 0.4: v_y=+0.03998  x drift -0.5900  norm 1.000000000000
+   light: (v+ - |v-|)/2 = +0.03918, mean speed 1.89087;  matter drifts +0.03999, +0.03998
+b=0.05 light +y: v_y=+1.98879  x drift -2.9522  norm 1.000000000000
+b=0.05 light -y: v_y=-1.79295  x drift +1.9019  norm 1.000000000000
+b=0.05 matter 0.2: v_y=+0.09993  x drift -1.0523  norm 1.000000000000
+b=0.05 matter 0.4: v_y=+0.09992  x drift -0.5900  norm 1.000000000000
+   light: (v+ - |v-|)/2 = +0.09792, mean speed 1.89087;  matter drifts +0.09993, +0.09992

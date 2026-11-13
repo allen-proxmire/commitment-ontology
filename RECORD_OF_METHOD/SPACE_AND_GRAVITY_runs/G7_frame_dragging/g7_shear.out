@@ -1,0 +1,6 @@
+light +y w25: dk_x/dt=-3.9439e-05 (pred -3.9734e-05, ratio 0.9926) | a_x=-3.3942e-04 (ray -3.6165e-04, ratio 0.9385)
+light +y w50: dk_x/dt=-3.9707e-05 (pred -3.9734e-05, ratio 0.9993) | a_x=-3.5894e-04 (ray -3.6165e-04, ratio 0.9925)
+light -y w50: dk_x/dt=+3.9707e-05 (pred +3.9734e-05, ratio 0.9993) | a_x=+3.5894e-04 (ray +3.6165e-04, ratio 0.9925)
+matter 0.4 at rest w50: dk_x/dt=+2.8340e-13 (pred -0.0000e+00, ratio 0.0000) | a_x=-5.1378e-11 (ray -0.0000e+00, ratio 0.0000)
+matter 0.4 moving +y w25: dk_x/dt=-1.9881e-05 (pred -1.9967e-05, ratio 0.9957) | a_x=-1.5770e-04 (ray -1.6369e-04, ratio 0.9634)
+matter 0.4 moving +y w50: dk_x/dt=-1.9926e-05 (pred -1.9967e-05, ratio 0.9980) | a_x=-1.6228e-04 (ray -1.6369e-04, ratio 0.9914)
