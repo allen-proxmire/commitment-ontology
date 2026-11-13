@@ -20,9 +20,13 @@ So the ladder is: one, nothing; two, a relation; three, a relation among relatio
 ## Where it touches CO
 
 - **Gravity is contrast in commitment rates.** CO's gravity is the pull toward where clocks run slowest, a difference in how fast places commit. Without the contrast between rates there is no pull.
-- **Colour closes three ways.** In C9, a colour singlet ties three parts together with a three-way closure (ε^{abc}), which no pair can make. The contrast reading supplies C9's "three": a split pattern is complete at the first count where its parts' relations close a loop (reading, 13 Nov, NUCLEUS record; not yet ruled into C9).
+- **Colour closes three ways.** In C9, a colour singlet ties three parts together with a three-way closure (ε^{abc}), which no pair can make. The contrast reading supplies C9's "three": a split pattern is complete at the first count where its parts' relations close a loop (ruled into C9 by the author, 13 Nov: three as the first complete split).
 - **The weak "two" is not supported.** By the same reading a two-part split is not complete, which fits the record's withdrawal of "one rule gives both three and two".
 - **Space.** CO's long-held line, "record, over time, becomes relation: space is made of what has happened", reads naturally here: space would be the accumulated contrasts between committed events.
+
+## A mindset, not a numerology
+
+This is not a claim that everything comes in threes. There will be twos and fours and other counts in physics, each with its own reason; the weak interaction's two is one, and CO's network has squares of four. The note offers a way of looking: ask what contrasts, and what the contrasts between contrasts are, and see what emerges. It is meant to open minds and prompt thoughts, not to close them.
 
 ## What it is not, yet
 

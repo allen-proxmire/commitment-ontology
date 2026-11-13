@@ -100,7 +100,7 @@ With tuning accepted for now, A's frame part is settled (tuned), and loops on th
 
 **Counts.** B: 6 · C: 3 · F: 3 · H: 3 · G: 2 · D: 1 · E: 1 · K: 1 · A: 0 (tuned).
 
-**Reading.** The largest hollow is now B, the on-site internal label, under six items: the weak interaction, colour, confinement, baryons as twists, the up–down charges and the nucleon's mass. C rides with it on two of them. Together B and C are the Standard Model's gauge structure. The parton reading has already cut B's import from "the sizes three and two by hand" to "parts alike in colour, the least odd split", plus the kind label.
+**Reading.** The largest hollow is now B, the on-site internal label, under six items: the weak interaction, colour, confinement, baryons as twists, the up–down charges and the nucleon's mass. C rides with it on two of them. Together B and C are the Standard Model's gauge structure. The parton reading has already cut B's import from "the sizes three and two by hand" to "parts alike in colour, three as the first complete split (contrast principle; also the least odd split)", plus the kind label.
 
 **Two chips the tuning makes cheap.**
 - *Loop effects* move from silence toward identification: with species' speeds tuned, CO's walk with its U(1) links is lattice QED, and the anomalous moment, the Lamb shift and the running of α follow as they do there (a reading, conditional on tuning).
