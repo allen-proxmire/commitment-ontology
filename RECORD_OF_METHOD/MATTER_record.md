@@ -1429,3 +1429,7 @@ What was left was a fork: tune, or a network whose coordinates do not commute.
 **Lakatos.** Tuning is accommodating by definition: added to fit, buys nothing new. Counts at the end of 12 November: progressive 11, accommodating 3, neutral 15.
 
 Results docs updated: README ("What goes in"), STATE_OF_CO, OPEN_DIRECTIONS (Lorentz invariance with loops), TECHNICAL_APPENDIX, SCOREBOARD.
+
+## 2026-11-13 — B1: does a bound pattern's speed excess follow its parts or its whole mass?
+
+Registered (MATTER_runs/B1_bound_excess/REGISTRATION.md): two patterns on the 1D walk held by a linear potential. Pre-check passed (a free pair gives s(θ) exactly). The confined cases did not confine: a linear vector potential (a phase) lets Dirac patterns escape through negative energy (Klein), so the criteria were not met (neither). A scalar potential would confine but would put the binding into mass-flip energy, giving "whole" by construction; in CO's nucleus the binding is the colour field on links. By import (Gagnon and Moore 2004): a composite's limiting speed is a momentum-weighted average over its parts, intensive. So the excess per nucleon is at most of order the nucleon's, from the share tied to quark masses, and does not scale with a nucleus's whole mass; MICROSCOPE gives no bound on ℓ beyond the Crab. **Grade: reading, by an imported result; the walk's own link-bound state not computed.**

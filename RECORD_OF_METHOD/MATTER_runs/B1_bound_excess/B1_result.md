@@ -1,0 +1,11 @@
+# B1 — result (13 Nov 2026)
+
+**Pre-check passed.** σ = 0, θ = 0.005: s_comp = 0.000382 = s(θ), as a free pair at threshold must give.
+
+**The confined cases did not confine** (b1_bound.out, b1_run2.out). With the phase e^{−iσ|r|} (a vector potential, like an electric one) the "bound" states spread over the whole ring (rms separation ≈ L/√12, the value for a uniform spread) and their energies jump between K values, so s_comp comes out at nonsense values (−0.98 to +49). This is the Klein effect: a Dirac pattern in a rising vector potential converts to negative energy and escapes, so a linear vector potential does not hold two Dirac patterns together. The registered criteria are not met: **neither**, as found.
+
+**Why a repair does not decide it.** A potential that does confine Dirac patterns is a scalar one, a mass flip growing with separation. But then the binding energy is mass-flip energy, which carries the Wilson excess by construction, and the run would give "whole" by its set-up. Which answer holds depends on what carries the binding. In CO's nucleus the binding is the colour field on the links (massless carriers, by the identification with lattice QCD), not a mass flip.
+
+**The answer by import.** For a composite in which each species has its own limiting speed, the composite's speed is a weighted average over its parts, the weights set by the parts' share of its momentum (Gagnon and Moore 2004, Phys. Rev. D 70, 065002, for protons). The average is intensive: it does not grow with the number of parts or the whole mass. For CO, the excess belongs to each part's mass flip (s ≈ 0.077 θ_part), and the colour field's massless carriers have none at this order. So a nucleon's excess is at most of order s(m_N) and comes only from the share of its mass tied to quark masses; a nucleus's excess per nucleon is about the nucleon's, not s of the whole nucleus. Titanium and platinum then differ only through their small differences in composition and binding (below a part in 10³ of the per-nucleon value), far under MICROSCOPE's 10⁻¹⁵ at the Crab bound on ℓ. **The whole-nucleus scaling does not arise; MICROSCOPE gives no bound on ℓ beyond the Crab.** Grade: reading, by an imported result; the walk's own bound state with a link-carried binding is not computed.
+
+Scripts: b1_bound.py (b1_bound.out), b1_run2.py (b1_run2.out).

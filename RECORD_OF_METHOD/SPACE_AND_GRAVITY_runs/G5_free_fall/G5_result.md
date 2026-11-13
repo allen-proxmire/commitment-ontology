@@ -26,7 +26,7 @@ The excess is twice the known tree-level speed excess of a massive pattern (MATT
 
 **Reading.**
 - A pattern on CO's own walk falls toward slower clocks at Einstein's weak-field rate g c², linear in the field, with nothing added beyond the clock rule.
-- Every mass falls alike up to 2s ≈ 0.15 θ, which vanishes in the continuum limit. At the Crab bound on ℓ (1.3 × 10⁻³¹ m), 2s ≈ 10⁻¹⁹ for an electron and 2 × 10⁻¹⁶ for a nucleon taken whole. How the excess adds up in bound patterns is open. Per elementary pattern it sits far under MICROSCOPE's 10⁻¹⁵. If it scaled with a nucleus's whole mass, titanium and platinum would differ by about 0.29 × 147 m_u cℓ/ħ ≈ 3 × 10⁻¹⁴ at that ℓ, and MICROSCOPE would need ℓ ≲ 5 × 10⁻³³ m, tighter than the Crab.
+- Every mass falls alike up to 2s ≈ 0.15 θ, which vanishes in the continuum limit. At the Crab bound on ℓ (1.3 × 10⁻³¹ m), 2s ≈ 10⁻¹⁹ for an electron and 2 × 10⁻¹⁶ for a nucleon taken whole. If the excess scaled with a nucleus's whole mass, titanium and platinum would differ by about 0.29 × 147 m_u cℓ/ħ ≈ 3 × 10⁻¹⁴ at that ℓ, and MICROSCOPE would need ℓ ≲ 5 × 10⁻³³ m. It does not: a bound pattern's limiting speed is a weighted average over its parts (run B1, by import from Gagnon and Moore 2004), so the difference is far under MICROSCOPE's 10⁻¹⁵.
 - Not tested: the stretching of space (light bending needs it), more than one dimension, strong fields.
 
 Grade: reading (a check of the curved walk's lapse part, D).

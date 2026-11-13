@@ -1,0 +1,8 @@
+clock -1%: k/pi=[0. 0. 0.]  rest energy 0.0500 -> ratio 0.9900  (equivalence needs 0.99)
+clock -1%: k/pi=[1. 0. 0.]  rest energy 1.1500 -> ratio 1.1076  (equivalence needs 0.99)
+clock -1%: k/pi=[1. 1. 0.]  rest energy 2.3500 -> ratio 1.1051  (equivalence needs 0.99)
+clock -1%: k/pi=[1. 1. 1.]  rest energy 2.7332 -> ratio 0.8646  (equivalence needs 0.99)
+stretch +1%: k/pi=[0. 0. 0.]  rest energy 0.0500 -> ratio 1.0000  (equivalence needs 1.0)
+stretch +1%: k/pi=[1. 0. 0.]  rest energy 1.1500 -> ratio 1.1061  (equivalence needs 1.0)
+stretch +1%: k/pi=[1. 1. 0.]  rest energy 2.3500 -> ratio 1.1039  (equivalence needs 1.0)
+stretch +1%: k/pi=[1. 1. 1.]  rest energy 2.7332 -> ratio 0.8661  (equivalence needs 1.0)
