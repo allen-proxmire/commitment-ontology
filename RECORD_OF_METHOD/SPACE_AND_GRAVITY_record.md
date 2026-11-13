@@ -1656,3 +1656,28 @@ A field with logarithmic correlations in three dimensions has exactly the scale-
 - Also corrected above: 68 e-folds in length (204 in places), not 62, and the match to inflation's ~60 is by construction.
 
 **Where the fork stands.** A is unaffected: C7 as ruled, the ripples a silence, and the matter-to-light ratio a measurement of how far over capacity the very first commitments were. B needs a source of matter other than the literal hunch, and a birth rate at least about ten times below the tick rate. Both stay held; A is the stronger.
+
+## 2026-11-13 — gravity's lattice debts, a first reading (E: the nonlinear cost on the carriers; D: the walk on a curved network)
+
+**E. The nonlinear cost on CO's carriers.**
+
+*What CO has.* The carriers are staggered (G3): places carry the held share h (the lapse) and stretch; relations carry the one-way part (the shift) and displacement (edge lengths); squares carry shear (the angles between edges). In the continuum, the nonlinear cost is Einstein–Hilbert plus Λ, by consistent deformation (given its assumptions).
+
+*The natural lattice form.* Regge calculus puts curvature on the codimension-two hinges as deficit angles, with cost S = Σ_hinges A_h ε_h (area times deficit angle). On CO's network the hinges of a spatial slice are the squares, and in 3+1 the squares swept in time. Two matches stand out:
+- Curvature lives where CO's shear carriers sit, on the squares.
+- A cubic cell is not rigid from its edge lengths alone; it also needs its face angles, which are exactly the shear on the squares. CO's carrier set (edge displacements plus square shears) is the data that makes cubic Regge calculus well defined (hypercuboidal Regge models, Bahr and Steinhaus).
+Candidate form: the nonlinear cost is Regge's, Σ_squares A ε, on CO's carriers, reducing to the linear cost G1 already has at weak field. This is a reading, not checked.
+
+*The known obstacle.* In four dimensions the Regge action breaks the continuum's diffeomorphism symmetry, which is CO's "no backdrop", on curved solutions. The breaking is quadratic in the curvature (Bahr and Dittrich 2009, (Broken) gauge symmetries and constraints in Regge calculus, arXiv:0905.1670). Discrete actions with exact symmetry ("perfect actions") are known in three dimensions, with or without Λ, not in four. So on the lattice, P7e's no backdrop at every order would hold up to corrections of relative order (ℓ²R)²: the same footing as P7e already has for interacting matter ("up to lattice corrections"). For any curvature short of the hop scale that is invisible: near a solar-mass black hole's horizon, ℓ²R ~ (10⁻³¹ m / 3 km)² ~ 10⁻⁶⁹. It matters only where curvature reaches the hop scale, at the singularities, which CO's "no infinities" already says it must treat differently.
+
+*Grade.* Shape: a Regge-type cost on CO's squares, its no backdrop broken at order (ℓ²R)², invisible short of hop-scale curvature. Owed: writing the cubic Regge action in CO's carriers and checking that it reproduces G1's linear cost (a computation, not registered: the linear limit is expected).
+
+**D. The walk on a curved network.**
+
+*What CO has.* G4: matter's coupling is exact at linear order for a free, continuous-time stand-in. CO's clock rule (a pattern's phase advances as ω(1 − h)) is already the lapse acting on the walk's flip.
+
+*The known construction.* Quantum walks in curved spacetime: Dirac walks whose coin and hop amplitudes depend on the local metric, giving the curved Dirac equation in the continuum limit, in 1+1 and in 3+1 (Di Molfetta, Debbasch and Brachet 2013; Arrighi and Facchini, quantum walking in curved spacetime, (3+1) dimensions and beyond, 2017). CO's walk with the flip scaled by the lapse and the hops by the stretch and the one-way part is of that kind.
+
+*Grade.* Candidate by identification: the walk on a curved network is a curved-spacetime quantum walk, with CO's carriers as its metric data. Owed: the spin connection's form on CO's squares, which carry the angles a spinor needs when it is carried round a loop.
+
+**Where the debts stand.** Neither is a wall. E has a natural form (Regge on the squares) and a known, small obstacle (broken symmetry at order (ℓ²R)², invisible short of the hop scale). D has a known construction to identify with. Both turn on the squares: curvature for E, spinor transport for D.
