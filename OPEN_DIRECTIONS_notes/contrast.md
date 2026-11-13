@@ -20,8 +20,8 @@ So the ladder is: one, nothing; two, a relation; three, a relation among relatio
 ## Where it touches CO
 
 - **Gravity is contrast in commitment rates.** CO's gravity is the pull toward where clocks run slowest, a difference in how fast places commit. Without the contrast between rates there is no pull.
-- **Colour closes three ways.** In C9, a colour singlet ties three parts together with a three-way closure (ε^{abc}), which no pair can make. The contrast reading supplies C9's "three": a split pattern is complete at the first count where its parts' relations close a loop (ruled into C9 by the author, 13 Nov: three as the first complete split).
-- **The weak "two" is not supported.** By the same reading a two-part split is not complete, which fits the record's withdrawal of "one rule gives both three and two".
+- **Colour closes three ways.** In C9, a colour singlet ties three parts together with a three-way closure (ε^{abc}), which no pair can make. Contrast offers a way of seeing why three is special. It is not C9's rule: C9's three rests on fermion statistics (an odd number of fermion parts) and a least-split choice. A contrast rule ("two parts cannot make a complete pattern") would be false as physics: a meson is a complete, colourless pattern of two parts, a quark and an antiquark. (It was briefly ruled into C9 on 13 Nov and withdrawn the same morning for this reason.)
+- **Twos are real.** Mesons are two-part patterns, and the weak interaction pairs kinds in twos. Contrast between two things is already rich; the ladder's point is what appears at each step, not that only three completes.
 - **Space.** CO's long-held line, "record, over time, becomes relation: space is made of what has happened", reads naturally here: space would be the accumulated contrasts between committed events.
 
 ## A mindset, not a numerology
