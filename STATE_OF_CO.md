@@ -86,7 +86,7 @@ twice the Newtonian value, Einstein's, with the Shapiro delay alongside, once γ
 
 $$S=\frac{1}{16\pi G}\int (R-2\Lambda)\sqrt{-g}\,d^4x .$$
 
-So: tensor waves with two polarizations and Einstein's quadrupole coefficient, and Schwarzschild–de Sitter outside a body (Schwarzschild when Λ is zero). Inside matter and in the radiation era, the source is GR's too, from the travel rule, once the walk on the curved network is written out (candidate, by analogy with a known curved-spacetime quantum walk, its frame read from CO's carriers; on CO's own walk its lapse and stretch entries give free fall at Einstein's rate and, with γ = 1, light's doubled bending, in a uniform weak field, and its shift entry the shift's drift, the gravitomagnetic push and a rotating frame's Coriolis push, on both axes). Where CO reaches, it predicts nothing different from GR; its one departure from quantum mechanics with gravity is that gravity's source follows a body's engagements, not its unresolved state.
+So: tensor waves with two polarizations and Einstein's quadrupole coefficient, and Schwarzschild–de Sitter outside a body (Schwarzschild when Λ is zero). Inside matter and in the radiation era, the source is GR's too, from the travel rule, given the walk on the curved network. The field reaches CO's own walk through its flips (clock and stretch) and a directed hop on each relation (the shift); the author's ruling, candidate. In weak fields, in one and two dimensions, this gives free fall at Einstein's rate, every mass alike; light bending twice the clock-only value once γ = 1 is carried, in a uniform field and past a point mass; and the shift's drift, its gravitomagnetic push and a rotating frame's Coriolis push, for light and matter alike. A spinning body's field is untested. Beyond weak fields the walk is taken, by analogy, to be of the class of a known curved-spacetime quantum walk, its frame read from CO's carriers. At weak field, gravity's full cost in Regge's form (area times deficit at hinges) reduces on CO's lattice to the linear cost. Where CO reaches, it predicts nothing different from GR; its one departure from quantum mechanics with gravity is that gravity's source follows a body's engagements, not its unresolved state.
 
 **Three dimensions.** In one or two dimensions relations carry no waves; in even dimensions a signal leaves a tail forever; in four or more there are no stable orbits. Three is the only dimension where every rule holds and nothing is added.
 
@@ -100,7 +100,7 @@ So: tensor waves with two polarizations and Einstein's quadrupole coefficient, a
 
 $$H^2=\frac{8\pi G}{3}\rho-\frac{k}{a^2}+\frac{\Lambda c^2}{3},$$
 
-for the matter and radiation eras. Space grows by births: in the voids a new place appears with its share, leaving no record. Λ reads as a constant birth chance per place; its value is an input.
+for the matter and radiation eras. Space grows by births: in the voids a new place appears with its share, leaving no record, and carries a passing pattern smoothly (needed: a newborn place left empty would scramble the light of distant sources). Λ reads as a constant birth chance per place; its value is an input.
 
 ## The quantum sector
 

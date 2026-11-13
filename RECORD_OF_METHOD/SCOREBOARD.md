@@ -1,18 +1,18 @@
 # Scoreboard
 
-What CO has, sorted by where it comes from. Updated after each climb; the records hold the detail. As of 2026-11-12.
+What CO has, sorted by where it comes from. Updated after each climb; the records hold the detail. As of 2026-11-13.
 
 ## Ladder table (by domain)
 
-One line per domain; the measure is in [`MEASURE.md`](MEASURE.md). As of 2026-11-11.
+One line per domain; the measure is in [`MEASURE.md`](MEASURE.md). As of 2026-11-13.
 
 | domain | where CO stands | posits it uses | data it has met | open |
 |---|---|---|---|---|
 | time and its arrow | derived (the record only grows) | C3 | — | — |
-| clocks, redshift, free fall | derived (clock from the commitment cycle, under the free-share rule) | C1, C4, free-share rule | Pound–Rebka, GP-A, strontium coherence | — |
+| clocks, redshift, free fall | derived (clock from the commitment cycle, under the free-share rule); free fall on CO's own walk at Einstein's rate, every mass alike up to twice the Wilson excess (run G5) | C1, C4, free-share rule, P7f | Pound–Rebka, GP-A, strontium coherence; MICROSCOPE (by import, run B1; no bound beyond the Crab) | — |
 | static weak field | derived as a static form; two choices fixed by data; the lapse consistent with GR's at every order, given the cost's ψ | P1, q = ħ, P6, P7a | Mercury, Cassini | the field's own dynamics |
 | exterior and waves | linear order: needed given free clock resetting (run G1: moving places and resetting clocks force linearised Einstein–Hilbert on the cube, isotropic; exactly on the lattice with the carriers staggered, run G3; matter's coupling exact on the lattice too, free continuous-time stand-in, run G4); full exterior: Einstein–Hilbert by consistent deformation, given no backdrop at every order (ruled), locality and two derivatives, Lorentz-invariant interactions (assumed) | P7a–c | Hulse–Taylor, LIGO polarization | the nonlinear rule for the relations |
-| inside matter, radiation era | reconstructed (Tolman's source) | travel rule, field energy as an amount | — | the walk on the curved network; P = P∞ |
+| inside matter, radiation era | reconstructed (Tolman's source) | travel rule, field energy as an amount | — | the walk beyond weak fields (P7f checked in weak fields: light bending twice the clock-only value with γ = 1, the shift's pushes, runs G6–G8, G12; a spinning body untested); P = P∞ |
 | cosmology | reconstructed (Friedmann); inflation-like epoch as shape | C7, birth share | — | e-folds, ripples, Λ's value |
 | three dimensions | consistency condition | — | — | a lattice from the runs |
 | one particle (Dirac, spin, g = 2) | by identification | C5, C6, P7d | Crab electrons (hop bound) | loops; the frame |
@@ -31,9 +31,10 @@ Running counts, kept with each update: independent posits; data met; walls turne
 - Newton's 1/r, and the weak-field clock factor through second order (ratio hopping; Mercury picks the pairing).
 - G constant as the free stock falls (fixed share with a fixed amount per hop).
 - The moving clock: energy splits exactly into turning m²c⁴/E and travel pv.
+- Weak-field gravity on CO's own walk (1D, 2D): free fall, every mass alike; light bending twice the clock-only value once γ = 1 is carried (light); the shift's drift, gravitomagnetic and Coriolis pushes, for light and matter alike (runs G5–G8, G12; P7f, candidate).
 
 **Reconstructed** (CO's rules matched to a known theorem or construction, which then does the work)
-- Einstein's equations beyond linear order (consistent deformation: Wald; Boulanger–Damour–Gualtieri–Henneaux), and Regge's form.
+- Einstein's equations beyond linear order (consistent deformation: Wald; Boulanger–Damour–Gualtieri–Henneaux), and Regge's form, which on CO's lattice reduces at weak field to the linear cost (run E1, Euclidean; the cut and long diagonals held; Roček–Williams).
 - The global tick is a slicing of a circuit of local gates: no universal now on the walk (candidate reading; GNVW).
 - The Schwarzschild exterior, given the cost's spatial equation (candidate).
 - Three dimensions as a consistency condition (runs R4–R7b).
@@ -50,13 +51,13 @@ Running counts, kept with each update: independent posits; data met; walls turne
 
 **Posited** (CO's own rulings and candidate rulings, beyond the two primitives)
 - Measurement as commitment through a channel (C8, candidate); no spontaneous collapse.
-- P1–P8, C1–C9 (the rules table; C9 colour as a split, the author's ruling, candidate, 12 Nov), including: C3 fixed share δħ; a hop moves one quantum, ħ; light at the walk's c; the which-way field a U(1) phase acting on amplitudes; the bound/emitted split; the travel rule (turning once, travel twice, light 2E) and field energy as an amount; every draw is record; possibility conserved in passing, each new place born with its share; matter's stress tensor is the walk's and the field's; the palindromic step (needed by data); the half-shift Wilson term; amounts classical (the falsifier rests on it).
+- P1–P8, C1–C9 (the rules table; C9 colour as a split, the author's ruling, candidate, 12 Nov), including: C3 fixed share δħ; a hop moves one quantum, ħ; light at the walk's c; the which-way field a U(1) phase acting on amplitudes; the bound/emitted split; the travel rule (turning once, travel twice, light 2E) and field energy as an amount; every draw is record; possibility conserved in passing, each new place born with its share; matter's stress tensor is the walk's and the field's; the palindromic step (needed by data); the half-shift Wilson term; the field's entry into the walk through its flips and a directed hop (P7f, candidate); only the flip slot is a commitment (candidate); smooth births (needed by light); amounts classical (the falsifier rests on it).
 - Constants of CO's own: δ, P_max, Λ, N (N posited 12 Nov, the author's ruling; set only by experiment, N ≳ ~50 conditional). Tuned, accepted for now (12 Nov, the author's ruling): the loop counter-terms that keep species' speeds equal. Bounds: ℓ ≲ 1.3 × 10⁻³¹ m (needed, from Crab electrons on the strictly local walk, run L1b), δ ≳ 2 × 10⁻⁷.
 - Locality: local up to a tail fading exponentially at the hop scale; the free walk may stay strictly local (the author's ruling, candidate, 12 Nov); opens nothing on the staggered walk (the twist, not locality, is the obstacle).
 - Ruling 3 read for pulse trains (steering); with it, the stopping number's first bound, N ≳ ~50 (conditional; flip-flops between nuclei ruled passages).
 
 **Excluded** (tried and closed, with the reason on record; a sample)
-- The sequential step order (Crab electrons, run L1); the one-way hop (electron lifetime); the exponential metric as the exterior; CO's commitments as a sprinkled causal set; a quantum free stock (recomputed: by dent and capacity alone, and by ~10¹⁵ with the clock); the old share δħ·P_free/P_max (makes G drift); six routes to colour at the nucleus; the unbounded quantised-light link ("no infinities"); the colour posit as paying four debts (it is two, and not earned); Way A to the frame (all neighbours) against CO's births, degree and distance rulings. A charge that differs between the staggered walk's two kinds, with charge exactly conserved (C6): no kind label found is both exact and local at the hop scale (the natural one is twisted over the momentum zone; no other split is proved absent).
+- The sequential step order (Crab electrons, run L1); the one-way hop (electron lifetime); the exponential metric as the exterior; CO's commitments as a sprinkled causal set; a quantum free stock (recomputed: by dent and capacity alone, and by ~10¹⁵ with the clock); the old share δħ·P_free/P_max (makes G drift); six routes to colour at the nucleus; the unbounded quantised-light link ("no infinities"); the colour posit as paying four debts (it is two, and not earned); Way A to the frame (all neighbours) against CO's births, degree and distance rulings. The walk's extra species as stable particles (they would fall wrongly, run G9, and overfill the universe); births that leave a newborn place empty (they scramble light, run G11); a bound pattern's speed excess scaling with its whole mass (by import, run B1). A charge that differs between the staggered walk's two kinds, with charge exactly conserved (C6): no kind label found is both exact and local at the hop scale (the natural one is twisted over the momentum zone; no other split is proved absent).
 
 **Shapes** (a form without a rule yet)
 - The vertex (form found, photon sector and exchange sign owed); Way B to the frame (parked).
