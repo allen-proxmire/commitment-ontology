@@ -1,0 +1,7 @@
+theta=0 k0y=0.15 sig=40 g=5e-05:  clock: odd +0.9214 even +0.0154 | stretch: odd +0.9214 even +0.0154 | clock+stretch: odd +1.8550 even +0.0494
+theta=0 k0y=0.15 sig=40 g=2.5e-05:  clock: odd +0.9195 even +0.0081 | stretch: odd +0.9195 even +0.0081 | clock+stretch: odd +1.8428 even +0.0308
+theta=0 k0y=0.3 sig=30 g=5e-05:  clock: odd +0.8881 even -0.0005 | stretch: odd +0.8881 even -0.0006 | clock+stretch: odd +1.7755 even -0.0020
+theta=0 k0y=0.3 sig=30 g=2.5e-05:  clock: odd +0.8882 even -0.0002 | stretch: odd +0.8881 even -0.0003 | clock+stretch: odd +1.7762 even -0.0011
+theta=0.4 k0y=0 sig=40 g=5e-05:  clock: odd +0.9940 even -0.0041 | stretch: odd -0.0001 even -0.0050 | clock+stretch: odd +0.9934 even -0.0181
+theta=0.4 k0y=0 sig=40 g=2.5e-05:  clock: odd +0.9948 even -0.0021 | stretch: odd -0.0001 even -0.0025 | clock+stretch: odd +0.9946 even -0.0092
+done
