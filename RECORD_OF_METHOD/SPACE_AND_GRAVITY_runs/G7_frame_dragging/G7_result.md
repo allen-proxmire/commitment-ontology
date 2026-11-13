@@ -41,7 +41,7 @@ Opposite directions of travel are pushed opposite ways, a pattern with no moment
 - The directed hop acts as GR's shift for every pattern near the zone centre: one drift (2 sin b) for every mass, light's cone tilted by the same amount at long wavelength with its mean speed unchanged, the sideways push dk_x/dt = −(∂_x v_s) sin k_y on moving patterns (at long wavelength an acceleration −(∂_x v_s) v_y, v_y relative to the drift; gravitomagnetic, opposite for opposite travel), and none on a pattern carried with the drift.
 - The walk's heavy extra species are dragged the opposite way.
 - The shift does not use the Wilson flip's margin; its form matches up to about 40% of light's speed and fails near light's speed.
-- Not tested: a spinning body's field (frame dragging proper, Lense–Thirring), a curl-free nudge (b varying along the relation, which GR says is pure gauge, a direct check that only the loops are physical), the (k·∇)β part of the force (packets moving across the shear), a shift not along an axis, 3D, strong fields.
+- Not tested: a spinning body's field (frame dragging proper, Lense–Thirring), a curl-free nudge (b varying along the relation; not pure gauge when steady: the Painlevé–Gullstrand form of a static field, run in G12), the (k·∇)β part of the force (packets moving across the shear), a shift not along an axis, 3D, strong fields.
 
 Grade: reading (the rule's condition met).
 

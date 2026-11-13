@@ -1,0 +1,5 @@
+matter 0.4, zero momentum at y0=200.0: y(T)=212.365 predicted 212.367 (moved 12.365 vs 12.367, ratio 0.9998); k_y drift -2.8e-10
+matter 0.2, zero momentum at y0=200.0: y(T)=212.364 predicted 212.366 (moved 12.365 vs 12.367, ratio 0.9998); k_y drift -4.9e-10
+matter 0.1, zero momentum at y0=200.0: y(T)=212.357 predicted 212.360 (moved 12.364 vs 12.367, ratio 0.9997); k_y drift +5.6e-09
+light +y: shift from the nudge at T: measured -0.920, ray -0.980, ratio 0.9389; k_y change -1.723e-02 vs ray -1.773e-02
+light -y: shift from the nudge at T: measured +0.920, ray +0.980, ratio 0.9389; k_y change +1.723e-02 vs ray +1.773e-02
