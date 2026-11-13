@@ -49,6 +49,8 @@ and η = 6 × 10⁻¹⁰ asks N_exit/N₀ ≈ 10⁸–10⁹: about 18–21 e-fol
 
 Grade: the literal hunch (one pattern per saturated place, all places) is not excluded once η is read as baryons per photon; it needs a rule for kinds (and kinds change only through the weak interaction, a silence in CO). With the C7 ruling (the other reading), the first-places version is a shape: η ≈ N₀(P_max − P_b)/E₀ × (0.1–1), relating η to the beginning's first excess, given (a)–(c), with (d) supplied by C7's pairs clause (candidate); the value of η is not derived (N₀, E₀ and P_max are open).
 
+*Read further (2026-11-13, space and gravity record).* With the gap P_max − P_b above ħ (light must pass), the relation bounds the first excess per first commitment: E₀/N₀ ≳ 2 × 10⁸–2 × 10⁹ ħ. The photon ratio measures how far over capacity the first commitments were, in units of the gap a newborn place sits below capacity. N₀ and P_max are not pinned.
+
 **The story of threes.** Ordinary matter: patterns that renew with channels, in three families. Dark matter: patterns that renew without. Whether the dark kind also comes in three is open.
 
 **Doodles, flagged as doodles.**

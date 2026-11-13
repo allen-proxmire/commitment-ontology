@@ -1535,3 +1535,36 @@ so K enters only in the combination δ/K. The hop length is ℓ = ℓ_P √(4πK
 **Grade.** Reading; proposed. If ruled, a posit removed (by the measure, progressive).
 
 **Correction (same day, cold reading).** The entry above overstates. (1) Static consistency gives G = δc⁴ℓ/(4πκ), with κ the hop's conductance; the stiffness K enters G only through the further posit that stiffness equals conductance, K = κτ/ħ (shape, appendix step 2). What data fix is δ/(κτ/ħ); with that posit, δ/K. (2) δ already has a meaning (C3: each repeat keeps δħ), so K = 1 is not a unit for δ but a choice that measurement cannot test: data fix only δ/K. (3) Two different "stiffnesses" were run together: the draw-against-stiffness K of P6 (one quantum), and the Einstein–Hilbert coefficient per lattice cell, ℓ²/(16πℓ_P²) = K/(4δ), about 10⁶ quanta at K = 1. (4) No constant goes away: δ/K replaces δ in G and ℓ, while the record per repeat (δħ) and the trace mark still use δ alone. So the answer to "why one quantum" is: it is untestable by any present measurement, given stiffness = conductance; the proposal to retire it is withdrawn and replaced by a grade note: *K = 1 is a choice data cannot test (only δ/K is measured).* Neutral.
+
+## 2026-11-13 — can C7 and the first commitments pin the beginning's numbers? (reading; shape)
+
+**What is in hand.**
+- C7: only the first commitments start patterns, and afterwards only in opposite-sign pairs, so the net count N₀ is set once.
+- The epoch's end: N_exit = N₀ + E₀/(P_max − P_b) places once every place is under capacity.
+- The birth share P_b = P∞ (posited per hop; candidate). Its size is a shape, about (d − 1)ħ from R5's count, ≈ 5ħ at degree six.
+- Light must pass: P∞ < P_max − ħ, so the gap P_max − P_b exceeds ħ.
+- The photon-ratio sketch, given its assumptions (a)–(c): η ≈ N₀(P_max − P_b)/E₀ × (0.1 to 1).
+
+**N₀: not pinned.** C7 makes N₀ the net count of patterns, conserved since. The observable patch holds about 10⁸⁰ baryons, so N₀ ≳ 10⁸⁰ × (the whole network's size / the observable patch's). CO's "no infinities" makes the whole finite, but nothing in hand sets its size. Lower bound only.
+
+**P_max: not pinned.** It enters only through the gap, which is bounded below (> ħ) and not above. Larger gaps need a larger first excess (below); nothing forbids them.
+
+**What the relation does give: the first excess per first commitment.** Rearranged,
+
+E₀/N₀ ≈ (P_max − P_b) / η × (0.1 to 1),
+
+and with the gap above ħ and η = 6 × 10⁻¹⁰,
+
+E₀/N₀ ≳ 2 × 10⁸ ħ to 2 × 10⁹ ħ.
+
+So, given the sketch's assumptions, C7 and the light-passing bound, **the first commitments began about 10⁸–10⁹ quanta over capacity each.** With P_max of a few ħ (P_b ≈ 5ħ plus a gap of order ħ), that is about 10⁸ times capacity. Read the other way, the photon ratio measures how far over capacity the first commitments were, in units of the gap a newborn place sits below capacity:
+
+η ≈ (P_max − P_b) / (E₀/N₀) × (0.1 to 1).
+
+**What would pin them.** Three things, none in hand:
+- the fluctuation spectrum the over-capacity epoch leaves (amplitude about 2 × 10⁻⁹, tilt n_s ≈ 0.965), a CO-specific computation from the gap's history;
+- the network's whole size, for N₀;
+- an upper bound on the gap, for P_max.
+The first is the one with data attached.
+
+**Grade.** Shape, conditional on assumptions (a)–(c) of the photon-ratio sketch, C7 (candidate) and P_b = P∞ (candidate). N₀ and P_max are not pinned. The first excess per first commitment is bounded below at about 10⁸–10⁹ ħ. The next rung is the epoch's fluctuation spectrum.
