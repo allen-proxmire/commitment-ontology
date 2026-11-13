@@ -1,0 +1,10 @@
+side 1, no field: kx=-8.67e-19 final x=119.94
+  clock only: delta kx toward mass = -5.35206e-03  angle -1.07041e-02  x shift -3.399
+  clock+stretch: delta kx toward mass = -1.07351e-02  angle -2.14703e-02  x shift -6.789
+side -1, no field: kx=-8.67e-19 final x=-119.97
+  clock only: delta kx toward mass = -5.45737e-03  angle -1.09147e-02  x shift -3.465
+  clock+stretch: delta kx toward mass = -1.09305e-02  angle -2.18611e-02  x shift -6.910
+clock only: mean angle -1.08094e-02
+clock+stretch: mean angle -2.16657e-02
+continuum full deflection 4A/b x path factor = 1.92934e-02; measured/continuum: full 1.1230, clock 1.1205; ratio full/clock 2.0043
+done
