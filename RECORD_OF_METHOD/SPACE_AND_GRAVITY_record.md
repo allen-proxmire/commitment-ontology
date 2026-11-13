@@ -1683,3 +1683,28 @@ Candidate form: the nonlinear cost is Regge's, Σ_squares A ε, on CO's carriers
 **Where the debts stand.** Neither is a wall. E has a natural form (Regge on the squares) and a known, small obstacle (broken symmetry at order (ℓ²R)², invisible short of the hop scale). D has a known construction to identify with. Both meet at the squares, as the 4D hinges where curvature (E) and the spin connection's holonomy (D) are read. Cold read applied, 13 Nov: hinge dimensions, the shear–deficit distinction, cuboids against parallelepipeds, the spinor transporters, the curvature scale.
 
 **D, checked (13 Nov).** Arrighi and Facchini (arXiv:1609.00305) recover the massive curved Dirac equation in 3+1 "for any bounded metric in any coordinate system, together with an electromagnetic field". They work with a general metric and its tetrad (frame), so lapse and shift are covered implicitly, though the paper never names them. The restriction to synchronous coordinates belongs to an earlier, competing (2+1) model, not to theirs. Their price: coordinates are rescaled so that the physical light cones fit inside the lattice's causal cones, which needs the metric bounded. Their summary: the metric field can be represented by a field of local unitaries over a lattice. For CO: the walk on a curved network is a curved-spacetime quantum walk of this class, with CO's carriers supplying the frame. The bounded-metric condition is CO's own light cone, the walk's top speed, which holds away from hop-scale curvature. Owed: writing CO's carriers (lapse h, stretch, one-way part, displacement, shear) as that frame. **D: candidate by identification, with one owed translation.**
+
+## 2026-11-13 — D: CO's carriers as the walk's frame (reading)
+
+**The metric in CO's carriers (ADM form).**
+
+ds² = −N²c² dt² + γ_ij (dx^i + β^i dt)(dx^j + β^j dt),
+
+with each piece read from a carrier:
+- *Lapse* N = 1 − h, the held share at a place (CO's clock rule: a pattern's phase advances as ω(1 − h)). This is the rate of a clock moving normal to the slices; a clock sitting at a place ticks at √(N² − γ_ij β^i β^j), equal to N when β = 0.
+- *Shift* β^i, the one-way part on the relation along i (frame dragging).
+- *Spatial metric* γ_ij = (ℓ_i ℓ_j / ℓ²) cos θ_ij, from the cell's edges and angles. Edge lengths ℓ_i = ℓ(1 + u_i) come from the displacement on the relation along i. The angles θ_ij = π/2 − s_ij come from the shear s_ij on the ij square. The stretch at a place is then derived, not an independent carrier: √γ = (ℓ₁ℓ₂ℓ₃/ℓ³)√(1 − Σcos²θ_ij + 2 cos θ₁₂ cos θ₁₃ cos θ₂₃) follows from the edges and angles. (Equivalently, stretch can carry the trace and the edges only the traceless part; as written, an independent stretch would over-determine the cell.)
+
+**The frame.** A parallelepiped cell's three edge vectors, divided by ℓ, form the matrix E_i^a with γ_ij = Σ_a E_i^a E_j^a. That is a spatial frame (triad) read directly from the carriers: edge lengths and the angles between edges fix it up to a rotation. The rotation is the local frame freedom, which the walk's spinor absorbs. The full frame is then
+
+e⁰ = Nc dt,  e^a = E_i^a (dx^i + β^i dt),
+
+which is the input Arrighi and Facchini's walk takes (a tetrad for any bounded metric). The carriers sit at different places (lapse and stretch at places, shift and edges on relations, angles on squares), so the walk's coefficients at a place use values averaged from the neighbouring relations and squares. That is the same rule the hop already follows for stretch (P7a: a hop takes the mean of its two ends).
+
+**The walk's condition.** Arrighi and Facchini need the physical light cone inside the lattice's causal cone. In these carriers that reads, per direction and in hop units,
+
+|β^i| + N √(γ^{ii}) ≤ 1,
+
+In flat space with c at the lattice's own top speed, N√(γ^{ii}) = 1 already saturates this, so any shift or stretch would break it. The condition needs c strictly below the walk's causal speed, by a margin covering |β| and the stretch; it is not automatic. Arrighi and Facchini build in that margin by rescaling. CO's palindromic step reaches up to two hops per tick along each axis while light's speed is the long-wavelength slope, so CO's walk has a margin; its size, and so the largest shift and stretch it tolerates, is not checked.
+
+**Grade.** Candidate, by analogy with a known construction, not by identification. A walk of this class exists, local, unitary and with the curved Dirac equation as its continuum limit (Arrighi and Facchini's split-step walk, for any bounded metric); CO's own Wilson-type walk at fixed ℓ on a curved network is not yet shown to be one. The frame is read from CO's carriers as above. The spin connection is CO's own construction, not theirs: it follows from the frame and its changes between neighbouring places, with its transporters on the links and its holonomy on the squares. Cold read applied (13 Nov): the lapse as the normal clock, stretch derived, the light-cone margin, analogy rather than identification. Not computed: the walk's coefficients written out, and a numerical check that a wave packet follows a geodesic in a weak field. G4 already has the linear case.
