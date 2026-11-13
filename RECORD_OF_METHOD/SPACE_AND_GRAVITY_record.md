@@ -1751,3 +1751,11 @@ Under P7f the light species responds exactly, but the extra species (zone corner
 ## 2026-11-13 — The walk's extra species: ruled not particles
 
 **Ruled.** The walk's extra species (the doublers left heavy by the Wilson term) are not particles. The author's ruling, candidate. Owed: a cancellation, or an account of what they are. With it, G9's failure of P7f for the extra species no longer counts against P7f, which stands as a candidate for the light species, as tested (G5–G8; a spinning body and a curl-free nudge untested). If no cancellation or account is found, the failure returns. This reverses MATTER's earlier "physical particles with the electron's quantum numbers" and the README's "heavy doubler particles" signature. Cold read applied.
+
+## 2026-11-13 — The extra species could not be stable particles (reading)
+
+**The beginning makes them.** The over-capacity epoch ends at about one quantum per hop, T_exit ≈ ħc/ℓ (the assumption already used above; about 1.5 × 10¹⁵ GeV at ℓ = 1.3 × 10⁻³¹ m). The extra species' rest energies are 1.15, 2.35 and 2.73 per tick at w = 0.3, θ = 0.05 (run G9), and a tick is τ = c₀ℓ/c, so their masses are E/c₀ × ħc/ℓ = 0.60, 1.23 and 1.43 times T_exit (about 0.9 to 2.2 × 10¹⁵ GeV). Both scale with ℓ, so the ratio does not depend on the hop length: the epoch's end is hot enough to make them in bulk, with Boltzmann factors of order e⁻¹.
+
+**As stable particles they would overclose.** A stable relic made at T ≈ m keeps a share of order 10⁻³ of the photons unless it annihilates. Annihilation cannot bring a thermal relic heavier than about 340 TeV down to the observed dark-matter density (the unitarity bound, Griest and Kamionkowski 1990); at 10¹⁵ GeV the excess is at least (10¹⁵ GeV / 340 TeV)² ≈ 10¹⁹.
+
+**Reading.** As stable particles the extra species are excluded twice: by how they would fall (G9) and by how many the beginning would leave. So "not particles" is needed, given T_exit ≈ ħc/ℓ and that they are made at the epoch's end. The ruling's owed part, a cancellation or an account, stands. Grade: reading.
