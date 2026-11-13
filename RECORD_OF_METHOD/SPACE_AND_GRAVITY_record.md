@@ -1708,3 +1708,16 @@ which is the input Arrighi and Facchini's walk takes (a tetrad for any bounded m
 In flat space with c at the lattice's own top speed, N√(γ^{ii}) = 1 already saturates this, so any shift or stretch would break it. The condition needs c strictly below the walk's causal speed, by a margin covering |β| and the stretch; it is not automatic. Arrighi and Facchini build in that margin by rescaling. CO's palindromic step reaches up to two hops per tick along each axis while light's speed is the long-wavelength slope, so CO's walk has a margin; its size, and so the largest shift and stretch it tolerates, is not checked.
 
 **Grade.** Candidate, by analogy with a known construction, not by identification. A walk of this class exists, local, unitary and with the curved Dirac equation as its continuum limit (Arrighi and Facchini's split-step walk, for any bounded metric); CO's own Wilson-type walk at fixed ℓ on a curved network is not yet shown to be one. The frame is read from CO's carriers as above. The spin connection is CO's own construction, not theirs: it follows from the frame and its changes between neighbouring places, with its transporters on the links and its holonomy on the squares. Cold read applied (13 Nov): the lapse as the normal clock, stretch derived, the light-cone margin, analogy rather than identification. Not computed: the walk's coefficients written out, and a numerical check that a wave packet follows a geodesic in a weak field. G4 already has the linear case.
+
+## 2026-11-13 — D: the walk's headroom (reading, from run L1b)
+
+**Numbers already measured.** CO's strictly local palindromic walk (L1b) moves light, the massless pattern at long wavelength, at c₀ = 1.911 hops per tick (w = 0.3; 1.902 at w = π/10), the same along axis, face and body diagonals. Its strict causal reach is 2 hops per tick along each axis (the palindrome; L1b's pre-run check). The tightest direction is along an axis, so the headroom is
+
+2 / 1.911 − 1 ≈ 4.7% (5.2% at w = π/10).
+
+**What the headroom must cover.** The light-cone condition per axis reads c₀(N√γ^{ii}) + |β^i| ≤ 2 hops per tick. So:
+- *Static fields* (lapse and stretch) slow the coordinate speed of light (N/ψ² < 1 in isotropic Schwarzschild coordinates: the Shapiro delay), so they use none of the headroom.
+- *Shift* (frame dragging) uses it directly: |β| must stay below about 0.09 hops per tick, about 4.7% of c. Around Earth and the Sun frame dragging is about 10⁻⁹ c or less. Near a fast-spinning black hole it reaches order c (inside the ergosphere), which this margin does not cover in the usual coordinates.
+- *Expansion* is carried by place births, not by shift, so it uses none.
+
+**Reading.** CO's walk has a real margin of about 5% between light's speed and its causal reach. It covers every weak or static field, and frame dragging up to about 5% of c. It does not cover the strongest rotating fields (near-horizon regions of spinning black holes), which are strong-field anyway and wait on the nonlinear cost (E). Grade: reading.
