@@ -1579,3 +1579,17 @@ The first is the one with data attached.
 **The plain statement.** So the matter-to-light ratio is really a measurement of how far over capacity the very first commitments were.
 
 **Grade.** Shape, conditional on assumptions (a)–(c) of the photon-ratio sketch, C7 (candidate), P_b = P∞ (candidate) and the flags above. N₀ and P_max are not pinned. The first excess per first commitment is bounded below at about 10⁸–10⁹ ħ. The next rung is the epoch's fluctuation spectrum.
+
+## 2026-11-13 — the ripples: what the beginning's epoch would have to leave (reading; not yet cold-read)
+
+**The data.** Primordial curvature ripples with power amplitude A_s ≈ 2.1 × 10⁻⁹ (density ripples about 10⁻⁵), nearly the same at every scale, tilt n_s ≈ 0.965. They are seen from the largest CMB scales (k ≈ 10⁻⁴ Mpc⁻¹) to about 1 Mpc⁻¹: about 9 e-folds of scale.
+
+**Two ways CO's epoch could make them, read against the data.**
+- *From discreteness (Poisson ripples in the first commitments).* A region holding N first patterns fluctuates by about N^{−1/2}. That gives white noise, P(k) ≈ constant, which is n_s ≈ 0 in the usual convention, against 0.965. Its size on a galaxy's scale (about 10⁶⁸ baryons) is about 10⁻³⁴, against 10⁻⁵. **Excluded** as the source: wrong shape, and wrong size by about 29 orders.
+- *From the over-capacity epoch, as in inflation.* Ripples are laid down at each scale as places multiply, and they come out nearly the same at every scale if the multiplication rate changes slowly. This needs the epoch to cover at least the observed range of scales, about 9 e-folds in length. The photon-ratio reading (C7; dark matter note) puts the epoch at 18–21 e-folds in the number of places, **6–7 in length**: short by at least two e-folds of the observed span. The tilt would follow from how the multiplication rate changes during the epoch (in inflation, n_s − 1 ≈ −2ε − η_V); CO's rate has not been worked out.
+
+**Reading.** This is the first concrete pressure on the beginning's sketch. If CO's ripples come from the over-capacity epoch, either that epoch is longer than the photon-ratio reading allows (then one of its assumptions (a)–(c) fails, or the light does not end spread evenly over all places), or part of the observed span was laid down after the epoch by something CO does not yet have. Discreteness alone is excluded. CO's beginning commits everywhere at once, so it needs no long epoch for the horizon problem, but the ripples still need a span of scales.
+
+**What the next step would compute.** The multiplication rate of places during the over-capacity epoch, from the gap's history (renewals releasing possibility, places born at the renewal rate while over capacity). From it: the number of e-folds, how the rate changes (the tilt), and what sets the ripples' size (the amplitude). A_s ≈ 2.1 × 10⁻⁹ and n_s ≈ 0.965 are the targets.
+
+**Grade.** Reading. Poisson ripples are excluded; the inflation-like route is open, with an e-fold tension (6–7 against at least 9) that is conditional on the photon-ratio reading.
