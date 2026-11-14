@@ -1,0 +1,19 @@
+# Progressive-or-degenerating check: the additions of 14 November 2026
+
+Measured by `MEASURE.md`. It starts from the counts at the end of 13 November: progressive 12, accommodating 3, neutral 20, and 15 exclusions.
+
+| addition | added for | what else it gave | verdict |
+|---|---|---|---|
+| the Wilson flip's window, π/4 < w < 3π/8, w ≠ π/3 (needed) | to remove extra massless species that L1b's grid had missed at w = 0.3 | an exact formula for the speed excess, s = ½ sin w·mcℓ/ħ; the extra species' corner energies 4nw mod 2π; a tighter Crab bound | **progressive** (forced by the walk's own spectrum; a correction that sharpened a bound) |
+| w = 5π/16 (posited) | the largest gap for the extra species inside the window | light at c₀ = 1.111 hops per step, below the directed hop's drift cap of 2, which made the strong-field entry possible (G15–G17), a result it was not chosen for | **progressive** |
+| every link field runs straight: c₂ = 0 for light, gluons and gravity (posited inside a needed window, c₂ ≳ −4 × 10⁻⁴) | to keep composite matter from outrunning light and gravity at the highest cosmic-ray energies | a candidate test: photons split into electron pairs above about 10 PeV at the Crab bound, with a confirmed photon above about 300 PeV excluding it outright. The window is forced by data; the zero is chosen; counted as a tuning | **accommodating** for the zero (a tuning to fit data), **progressive** for the test it carries; net counted **neutral** |
+| strong gravity enters the walk as the shift alone, with lapse and stretch at 1 and w fixed (the author's ruling, candidate) | to keep P7f's Wilson flip inside its window near compact masses | a horizon and its interior on the walk (G15, G16), and a black hole forming from collapsing matter, horizons on time to 0.6% (G17), results it was not brought for. Reproduces GR | **neutral** (agreement; no new number), with the black hole from matter the strongest agreement yet |
+| the closed loop: matter sourcing a field that evolves on the lattice and acts back (G13 in 1D, G14 in 2D with the stretch) | to put matter and field in one run | Newton's attraction, causal, with the walk's own (1 + s)² factor | **neutral** (agreement) |
+
+**Exclusions and withdrawals found.**
+- Excluded: light as a separate link field of the standard lattice form (protons and nuclei would outrun it); two-mode light, conditional on the emission rate above threshold; the unimproved Regge graviton at every allowed ℓ for extragalactic cosmic rays; the self-consistency route to the tuning under P7f (P7f scales every species alike).
+- Withdrawn: the cosmic-ray "floor" prediction (the tuning could swallow it, and the walk's bending dwarfs it at those energies); L1b's "the extra species are gapped at w = 0.3"; the Crab bound's factor of 2 (ℓ ≲ 3 × 10⁻³² m, not 1.3 × 10⁻³¹); the first photon-decay threshold (low by about 2.3); G7's "a curl-free shift is pure gauge" (it is the Painlevé–Gullstrand form of a static field).
+
+**Reading.** A day of corrections and one real gain. The corrections came from cold reads and continuous searches, and each tightened rather than loosened CO: the Wilson window, the Crab bound, the light rule. The gain is the first candidate test that a running experiment can cross, carried by a rule (straight link fields) that is itself a tuning, so the test's value lies in whether the window it sits in is crossed, not in the zero. The strong-field entry turned the window's limit into a black hole forming on the walk. Watch: the tunings now number three kinds (speed counter-terms, mass counter-terms, the link fields' form); each new one should be counted, not absorbed.
+
+**Counts at the end of 14 November:** progressive 14, accommodating 3, neutral 23. Exclusions: 19 in all (4 today). Readings withdrawn today: 5.
