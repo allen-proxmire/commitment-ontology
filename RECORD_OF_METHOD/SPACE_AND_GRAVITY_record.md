@@ -1800,3 +1800,7 @@ Under P7f light's local speed is set through the Wilson flip, 2 cos w = c₀N/ψ
 ## 2026-11-14 — E: strong gravity through the shift (run G15; ruled)
 
 Run G15 (1D, w = 5π/16): the directed hop alone, with lapse and stretch at 1 and w fixed, carries a drift to 1.8 c₀; matter is carried at the drift exactly, light's cone tilts by it to within 0.6% with its half-width within 1%, and at a drift of c₀ upstream light stalls (a horizon), beyond it is carried inward. **Ruled.** Strong gravity enters the walk as the shift alone, with lapse and stretch left at 1, wherever spacetime admits unit lapse and flat slices (Painlevé–Gullstrand for non-rotating masses, Doran for rotating ones); P7f's flip entries serve weak fields. The author's ruling, candidate. Details: SPACE_AND_GRAVITY_runs/G15_shift_past_light/. Grade: reading (G15).
+
+## 2026-11-14 — E: a black hole on the walk (run G16)
+
+The shift-only entry on the 2D walk at w = 5π/16, a non-rotating hole in Painlevé–Gullstrand form (drift √(2GM/r) inward, r_s = 40 hops, softened and capped at the centre). Fail conditions stated first. Zero-momentum packets fall as the form's free-fallers to 0.1 hop far out and through the horizon; light sent outward escapes from outside r_s and is swept in from inside it; near the horizon and the centre the packets' centres lag the single ray by the packets' width. Passed. Details: SPACE_AND_GRAVITY_runs/G16_black_hole_PG/. **E's strong-field entry passes a black hole in 2D. Grade: reading.**

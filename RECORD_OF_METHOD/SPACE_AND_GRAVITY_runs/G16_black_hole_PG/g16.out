@@ -1,0 +1,6 @@
+c0=1.1111, horizon r_s=40.0
+zero-momentum matter from r=150: r(t) at t=0,50,100,150: [150.  119.8  85.   42.1]  PG free-faller: [150.  119.8  85.1  40.9]
+zero-momentum matter from r=110: r(t) at t=0,50,100,150: [110.   73.4  25.5  -7.1]  PG free-faller: [110.   73.4  22.6   0. ]
+light outward from r=70 (group speed 1.096): r at t=0,25,50,100: [ 69.9  77.5  85.4 102.3]  ray: [ 70.   76.9  84.8 103.2]
+light outward from r=50 (group speed 1.096): r at t=0,25,50,100: [49.9 53.4 55.9 58.6]  ray: [50.  53.  56.7 66.7]
+light outward from r=32 (group speed 1.096): r at t=0,25,50,100: [31.9 26.7 17.5  4.1]  ray: [32.  27.8 20.4  2.8]
