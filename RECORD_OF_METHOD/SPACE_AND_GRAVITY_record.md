@@ -1796,3 +1796,7 @@ Under P7f light's local speed is set through the Wilson flip, 2 cos w = c₀N/ψ
 - Neutron stars (Φ ≈ 0.1 to 0.3 at the surface) cross the first; regions within a few gravitational radii of a black hole cross both.
 
 **Reading.** P7f keeps every species gapped only for |Φ| ≲ 0.05: it is a weak-field rule. In the solar system and around white dwarfs (Φ ≲ 10⁻⁴) nothing changes. Near neutron stars and black holes, the low-energy effect is confined to a shell about 10⁻¹⁹ m thick, so it is likely negligible; the π-sector band is an open question about the walk at the hop scale. Strong fields need the field to reach the walk without moving w across the window: an entry for E (the strong-field rule), not a repair of P7f. Grade: reading.
+
+## 2026-11-14 — E: strong gravity through the shift (run G15; ruled)
+
+Run G15 (1D, w = 5π/16): the directed hop alone, with lapse and stretch at 1 and w fixed, carries a drift to 1.8 c₀; matter is carried at the drift exactly, light's cone tilts by it to within 0.6% with its half-width within 1%, and at a drift of c₀ upstream light stalls (a horizon), beyond it is carried inward. **Ruled.** Strong gravity enters the walk as the shift alone, with lapse and stretch left at 1, wherever spacetime admits unit lapse and flat slices (Painlevé–Gullstrand for non-rotating masses, Doran for rotating ones); P7f's flip entries serve weak fields. The author's ruling, candidate. Details: SPACE_AND_GRAVITY_runs/G15_shift_past_light/. Grade: reading (G15).

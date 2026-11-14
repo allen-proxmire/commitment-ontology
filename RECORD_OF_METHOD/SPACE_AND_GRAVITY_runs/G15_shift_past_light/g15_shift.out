@@ -1,0 +1,9 @@
+c0 = 1.1111404660392046
+b=0.0: drift 2 sin b = 0.000 (0.00 c0); light +: +1.110, light -: -1.110 (tilt -0.000, half-width 1.110); matter drift +0.000
+b=0.2: drift 2 sin b = 0.397 (0.36 c0); light +: +1.506, light -: -0.715 (tilt +0.395, half-width 1.110); matter drift +0.397
+b=0.4: drift 2 sin b = 0.779 (0.70 c0); light +: +1.885, light -: -0.335 (tilt +0.775, half-width 1.110); matter drift +0.779
+b=0.6: drift 2 sin b = 1.129 (1.02 c0); light +: +2.233, light -: +0.015 (tilt +1.124, half-width 1.109); matter drift +1.129
+b=0.8: drift 2 sin b = 1.435 (1.29 c0); light +: +2.534, light -: +0.320 (tilt +1.427, half-width 1.107); matter drift +1.434
+b=1.0: drift 2 sin b = 1.683 (1.51 c0); light +: +2.772, light -: +0.567 (tilt +1.670, half-width 1.102); matter drift +1.683
+b=1.2: drift 2 sin b = 1.864 (1.68 c0); light +: +2.936, light -: +0.744 (tilt +1.840, half-width 1.096); matter drift +1.863
+b=1.5: drift 2 sin b = 1.995 (1.80 c0); light +: +3.026, light -: +0.861 (tilt +1.944, half-width 1.083); matter drift +1.994
