@@ -1,0 +1,15 @@
+F1: eps=0
+  L= 8 m=1.584e-02
+  L=12 m=3.733e-03
+  L=16 m=8.113e-04
+  L=20 m=1.709e-04
+  slope=-0.3778/place R2=0.99971  F1 PASS
+F2: L=16
+  eps=0.05: coherent m=6.094e-04 (crossing k=+0.0072); random max m=7.048e-04 median 6.607e-04; leak=1.41e-02
+  eps=0.1: coherent m=5.666e-04 (crossing k=+0.0144); random max m=6.381e-04 median 5.740e-04; leak=6.38e-03
+  eps=0.2: coherent m=5.316e-04 (crossing k=+0.0291); random max m=8.687e-04 median 5.202e-04; leak=4.34e-03
+  worst leak=1.41e-02  F2 FAIL
+Control: plain 1D walk, theta=0
+  eps=0.05: m=4.9375e-02 leak=0.987  informative
+  eps=0.1: m=9.8773e-02 leak=0.988  informative
+  eps=0.2: m=1.9762e-01 leak=0.988  informative
