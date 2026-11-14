@@ -9,7 +9,7 @@
 
 E² = p²c_i² + m_i²c_i⁴ + O(p³c²ℓ/ħ),
 
-where the c_i are Coleman and Glashow's dimension-four parametrisation and the p³ term is dimension five (Myers–Pospelov 2003). On CO's palindromic Wilson walk all species hop on the same network with the same hop rule, so at tree level c_i = c for every species, and the leading Lorentz-violating term is dimension five, a massive pattern outrunning a massless one by s ≈ 0.14·mcℓ/ħ (run L1b), which the Crab's PeV electrons bound to ℓ ≲ 1.3 × 10⁻³¹ m.
+where the c_i are Coleman and Glashow's dimension-four parametrisation and the p³ term is dimension five (Myers–Pospelov 2003). On CO's palindromic Wilson walk all species hop on the same network with the same hop rule, so at tree level c_i = c for every species, and the leading Lorentz-violating term is dimension five, a massive pattern outrunning a massless one by s ≈ ½ sin w·mcℓ/ħ (run L1b), which the Crab's PeV electrons bound to ℓ ≲ 5 × 10⁻³² m (with π/4 < w < 3π/8).
 
 **The loop problem.** With interactions, self-energies computed with the network as regulator shift each species' limiting speed at dimension four:
 
