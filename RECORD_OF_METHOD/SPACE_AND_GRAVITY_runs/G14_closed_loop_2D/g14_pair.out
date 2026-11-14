@@ -1,0 +1,7 @@
+field front arrives at t = 360
+t=323: dx_a +0.0022 (pred +0.0000), dx_b -0.0023 (pred -0.0000), (theta_a dx_a + theta_b dx_b)/(theta_a |dx_a|) = +0.235
+t=300: dx_a +0.0010 (pred +0.0000), dx_b -0.0010 (pred -0.0000), (theta_a dx_a + theta_b dx_b)/(theta_a |dx_a|) = +0.256
+t=450: dx_a +0.0360 (pred +0.0395), dx_b -0.0411 (pred -0.0527), (theta_a dx_a + theta_b dx_b)/(theta_a |dx_a|) = +0.144
+t=600: dx_a +0.1411 (pred +0.1499), dx_b -0.1696 (pred -0.1998), (theta_a dx_a + theta_b dx_b)/(theta_a |dx_a|) = +0.099
+t=700: dx_a +0.2395 (pred +0.2471), dx_b -0.2905 (pred -0.3295), (theta_a dx_a + theta_b dx_b)/(theta_a |dx_a|) = +0.090
+done

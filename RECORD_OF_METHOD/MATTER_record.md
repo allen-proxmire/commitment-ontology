@@ -1447,3 +1447,27 @@ Registered (MATTER_runs/B1_bound_excess/REGISTRATION.md): two patterns on the 1D
 - Runs at w = 0.3 whose forms do not depend on the extra species stand (G5, G6, G7, G8, G12, G13: slow or long-wavelength patterns, built from the light band); their numbers (c₀, κ_w) move with w. G6's "the flip can speed light up by at most about 1%" is withdrawn (it rested on the grid check).
 
 Cold read applied (14 Nov): the window widened to π/4 < w < 3π/8 except π/3; the off-corner wording; the n = 2 closing quoted at 3π/8; the slowing limit under P7f noted as open.
+
+## 2026-11-14 — Light's lattice form (ruled) and what it decides at high energy (reading)
+
+**The question.** Light's speed at long wavelength is the walk's c₀ (posited). Its next term, how its speed falls at short wavelength, depends on the lattice form of the link field's own cost, which CO had not fixed. At ultra-high energy that term, set against the walk's own, decides whether charged matter outruns light.
+
+**The numbers** (w = 5π/16; group speed v = c₀(1 + c₂(kℓ)²)):
+
+| direction | matter (the massless walk) | light as a separate link field (standard lattice form) | light as two walk modes sharing its momentum, ω(k) = 2E_walk(k/2) |
+|---|---|---|---|
+| axis | −0.086 | −0.125 (light slower by 0.039) | −0.022 (light faster by 0.065) |
+| face diagonal | −0.068 | −0.063 (faster by 0.005) | −0.017 (faster by 0.051) |
+| body diagonal | −0.062 | −0.042 (faster by 0.020) | −0.015 (faster by 0.046) |
+
+**Light as a separate link field: excluded by cosmic rays** (for every allowed ℓ). Along the lattice's axes, matter would outrun light by 0.039 (kℓ)², and a charged particle faster than light radiates above E_th, where the speed excess equals (mc²/E)²/2. At the Crab bound on ℓ (ħc/ℓ ≈ 4 × 10¹⁵ GeV), quarks in a 10²⁰ eV proton (kℓ ~ 5 × 10⁻⁶) exceed the threshold by about 10¹⁰, and those in an iron nucleus at 10²⁰ eV by about 10³. Electrons at 10¹⁷ eV in air showers exceed it too, even at the smallest ℓ allowed (3.5 ℓ_P): 3 × 10⁻²³ against 1.3 × 10⁻²³.
+
+**Light as two walk modes: safe for matter, with a photon-decay threshold.** Light is faster than matter in every direction (by 0.046 to 0.065 (kℓ)²), so charged matter never outruns it. Light faster than electrons can split into an electron pair above E⁴ ≈ 4(mₑc²)²(ħc/ℓ)²/Δc₂, about 4 PeV at the Crab bound on ℓ, rising as ℓ falls (1.4 × 10⁸ GeV at 3.5 ℓ_P). Photons are seen to 1.4 PeV (LHAASO), so this is not yet excluded, and photons above a few PeV would bound ℓ through it. This is the quantum-walk theory of light (Bisio, D'Ariano and Perinotti 2016, light as a pair of Weyl walks).
+
+**Ruled.** Light hops as matter hops: its dispersion is that of two walk modes sharing its momentum, ω_light(k) = 2E_walk(k/2). The author's ruling, candidate. Open: how this sits with light as the U(1) link phase of the which-way field (the link field still carries the phase; the ruling fixes its lattice dynamics to the walk's), and the photon-decay threshold as a test.
+
+Grade: reading (the two options' consequences); the author's ruling, candidate (the choice).
+
+## 2026-11-14 — The Wilson flip's value (ruled)
+
+**Ruled.** w = 5π/16, the value in the window π/4 < w < 3π/8 (w ≠ π/3) that gives the extra species their largest smallest gap, π/4 at the corners (0.70 per step anywhere in the zone). The author's ruling, posited. With it: c₀ = 2cos(5π/16) = 1.111 hops per step; κ_w = ½ sin(5π/16) = 0.416; the Crab bound ℓ ≲ 4.6 × 10⁻³² m, δ ≳ 1.5 × 10⁻⁶.
