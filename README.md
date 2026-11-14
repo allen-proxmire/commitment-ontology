@@ -1,5 +1,7 @@
 # Commitment Ontology
 
+*On one page: [`ONE_PAGE.md`](ONE_PAGE.md).*
+
 CO is an ontology with two primitives, possibility and commitment, and a short list of qualities they are given (P1–P8, C1–C9, each graded in [`TECHNICAL_APPENDIX.md`](TECHNICAL_APPENDIX.md)). From them it reaches gravity and, largely by identification with known constructions, quantum mechanics up to 1930 for a fixed number of particles, with pair creation and annihilation by identification (candidate). It is incomplete, and says where.
 
 *Possibility* sits at places and moves between related places. It is never made or lost in passing; what a draw takes from it becomes record, and new places are born with their share. 
