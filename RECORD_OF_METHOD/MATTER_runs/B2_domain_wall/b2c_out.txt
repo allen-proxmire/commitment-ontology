@@ -1,0 +1,13 @@
+case a L= 8  dP2=2.431e-01  (P2 at t=0 4.5e-02)
+case a L=12  dP2=5.438e-02  (P2 at t=0 5.5e-03)
+case a L=16  dP2=2.673e-02  (P2 at t=0 3.3e-03)
+case b L= 8  dP2=5.096e-02  (P2 at t=0 4.5e-02)
+case b L=12  dP2=6.266e-03  (P2 at t=0 5.5e-03)
+case b L=16  dP2=4.040e-03  (P2 at t=0 3.3e-03)
+case c L= 8  dP2=2.124e-02  (P2 at t=0 4.5e-02)
+case c L=12  dP2=2.282e-02  (P2 at t=0 5.5e-03)
+case c L=16  dP2=2.318e-02  (P2 at t=0 3.3e-03)
+case a: F1 FAIL  F2 FAIL
+case b: F1 FAIL  F2 PASS
+control UNINFORMATIVE
+B2c FAIL/UNINFORMATIVE

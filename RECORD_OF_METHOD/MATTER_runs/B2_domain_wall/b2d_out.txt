@@ -1,0 +1,8 @@
+(a) L= 8 m=0.019246397431397007 crossings=1
+(a) L=12 m=0.00374625456812338 crossings=1
+(a) L=16 m=0.0005760618178245972 crossings=1
+(b) L=16 seeds 12-14: [np.float64(0.0005405363762213517), np.float64(0.0005625645594284296), np.float64(0.0005924699814490696)]
+control L=16 m=0.0014811373156724018 crossings=1
+F1 PASS F2 PASS control UNINFORMATIVE
+
+[exited with code 0]

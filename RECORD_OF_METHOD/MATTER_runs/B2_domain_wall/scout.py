@@ -1,7 +1,7 @@
 import numpy as np, sys; sys.path.insert(0,'.')
 from dw import *
 w=5*np.pi/16
-# bulk gaps at quasienergy 0 and pi, and Chern number of the band below 0 (Fukui-Hatsugai) for a scan of theta
+# bulk gaps at quasienergy 0 and pi, and Chern number of the band above 0 (Fukui-Hatsugai) for a scan of theta
 def chern(th,w,N=60):
     ks=2*np.pi*np.arange(N)/N; V=np.zeros((N,N,2),complex)
     for i,a in enumerate(ks):
