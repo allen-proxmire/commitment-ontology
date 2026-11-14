@@ -12,6 +12,15 @@
 
 **What goes in by hand.** Two primitives and their qualities (P1–P8, C1–C9, each posited or candidate). Four constants of CO's own (δ, P_max, Λ and the stopping number N) and a birth share. Measured inputs: G, c, ħ, 1/137, the masses. From quantum mechanics: Lüders conditioning, the joint law of an entangled pair, an interaction's coupling and pointer basis. For gravity beyond linear order: locality, two derivatives, Lorentz-invariant interactions. Tunings, accepted for now: counter-terms that keep every species' top speed equal; a counter-term per fermion mass; and an improved lattice form for every field between places (light, gluons, gravity), so that none slows at short wavelength (the window needed by cosmic rays, the zero posited).
 
+**CO's own constants.**
+
+| constant | what it is | what it sets | value |
+|---|---|---|---|
+| δ | the share of each renewal kept as record: every repeat of a commitment keeps δħ, the rest returns to free possibility | gravity's strength, G = δc³ℓ²/(4πħ), so with G measured it fixes the hop length ℓ | δ ≤ 1; δ ≳ 3.5 × 10⁻⁶ (Crab electrons) |
+| P_max | capacity: the most free possibility a place can hold; above it the place commits on its own | the beginning (every place over capacity) and how it ends | not given |
+| Λ | the birth chance: new places appear in the voids at a constant chance per place, each with its share (the birth share) | the cosmological constant, the accelerating expansion | from data, about 2 × 10⁻⁵⁷ per place per tick |
+| N | the stopping number: a contact's chain completes a measurement once it reaches N quanta | where measurement ends | set only by experiment; N ≳ 50 |
+
 **How it could fail.**
 - *Photons that split.* In standard physics a photon never decays. In CO, light runs straight while electrons bend slightly at short wavelength, so photons above a threshold split into electron pairs: about 10 PeV if the hop is at its upper bound and the speed counter-terms leave the mass-dependent speed excess in place (higher if the hop is smaller). A confirmed photon above about 300 PeV excludes CO's form of light at every allowed hop, whatever the counter-terms do. LHAASO's highest so far is 2.5 PeV. A candidate test, conditional on a composite's speed excess following its parts (an imported result); light's straight form is itself a tuning.
 - *Gravity that entangles.* Gravity's source in CO follows a body's engagements, not its unresolved state (the author's ruling, candidate), so two masses cannot become entangled through gravity alone, as in every classical-gravity model. Observing it (Bose et al. 2017; Marletto and Vedral 2017) would falsify CO's gravity.
