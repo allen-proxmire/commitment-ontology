@@ -1,0 +1,4 @@
+c0=1.1111; cloud's horizon radius 2GM/c0^2 = 150.0
+shell q=0.1: r at t=0,100,200,300,420: [445.1 423.5 393.4 337.1 225.2]  predicted [445.1 424.5 403.3 381.6 354.7]  (no gravity [445.1 441.2]);  crosses its horizon r=15 at t=-1 (pred -1)
+shell q=0.5: r at t=0,100,200,300,420: [499.5 455.5 412.1 368.2 307.5]  predicted [499.5 455.5 409.2 360.1 296.3]  (no gravity [499.5 499.5]);  crosses its horizon r=75 at t=-1 (pred -1)
+shell q=0.9: r at t=0,100,200,300,420: [553.9 497.9 438.2 388.1 353.5]  predicted [553.9 497.6 437.9 373.8 288.6]  (no gravity [553.9 557.8]);  crosses its horizon r=135 at t=-1 (pred -1)

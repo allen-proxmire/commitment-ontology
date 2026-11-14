@@ -1,0 +1,4 @@
+q=0.5: r at t=T (2037): 155 (pred 170); crosses its horizon r=300 at t=1931 (pred 1934)
+q=0.7: r at t=T (2037): 168 (pred 191); crosses its horizon r=420 at t=1851 (pred 1863)
+q=0.9: r at t=T (2037): 205 (pred 221); crosses its horizon r=540 at t=1787 (pred 1798)
+q=0.97: r at t=T (2037): 293 (pred 268); crosses its horizon r=582 at t=1808 (pred 1798)
