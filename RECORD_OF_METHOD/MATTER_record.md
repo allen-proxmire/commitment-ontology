@@ -1659,3 +1659,5 @@ The fourth tuning (light's electric and magnetic terms by direction) entered REA
 - *Induced speed:* +3.8%, +4.3%, +5.0%, +5.9%, +7.2%, +9.0% above light at θ = 10⁻⁴ … 3×10⁻², falling as 1/ln(1/θ) with a finite-part mismatch Δ ≈ 0.70, so about +0.7% at ln(1/θ) = 53 (the palindromic walk: about −0.1%). The overall light-speed counter-term (tuning 1) stays; it is now one number, the same in every direction.
 
 **Reading.** The flow step passes the check set by the author's ruling: induced light on it is isotropic by symmetry, right-signed at every mass, and grows as the light species' leading log within 1%. It removes tuning 4 at its cause. Before a candidate ruling: how the field enters the flow step (P7f restated) and the walk-specific numbers redone (speed excess, photon-splitting coefficients).
+
+**The author's ruling (on C3i).** CO's step is the one-tick flow of the cube-symmetric Wilson–Dirac Hamiltonian, U = exp(−iτH_W), replacing the palindromic hop sequence. Candidate. Before it enters the results docs: P7f restated for the flow, the walk-specific numbers redone, and a cold read.
