@@ -1686,3 +1686,7 @@ The flow step's own claims reproduce (one light species, gaps, full cubic symmet
 - Verdict: the switch can enter the results docs as a candidate once these numbers are in and every palindrome-only result is marked not rerun.
 
 **The author's ruling (on r, after the cold read).** r = 0.5 stays posited, with electrons subluminal in every direction and no electron Crab band; the bound on ℓ comes from photons until the synchrotron-cutoff check says otherwise.
+
+## 2026-11-15 — The Crab synchrotron cutoff with subluminal electrons (C3s, desk)
+
+At r = 0.5 electrons are capped at γ_max = [2μ(√(2|c₂|) − r/2)]^(−1/2) (μ = ℓ/λ_C). Requiring γ for 100 MeV synchrotron photons (Jacobson–Liberati–Mattingly form), weakest direction (body diagonal): ℓ ≲ 3.2×10⁻³² m (s kept) or 1.1×10⁻³² m (s absorbed) at B = 125 μG; 2.6×10⁻³¹ m or 8.8×10⁻³² m at 1 mG. Candidate bound, conditional on the nebular field and on synchrotron's form up to γ_max; the photon bound (4.2×10⁻³¹ m) stays the model-independent floor. δ ≳ 3×10⁻⁶ (125 μG, s kept) to 2×10⁻⁸.
