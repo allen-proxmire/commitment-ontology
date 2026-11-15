@@ -1,0 +1,3 @@
+U(xyz) unitary: 1.1102230246251565e-15
+W = sum_s U_s P_s unitary? max|W^dag W - I| = 0.2167587504590736
+singular values of W: min 0.05724756020869217  max 1.7136553825180554

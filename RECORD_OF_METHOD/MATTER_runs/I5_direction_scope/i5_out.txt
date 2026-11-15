@@ -1,0 +1,8 @@
+(1) off-diagonal permittivity, w=5pi/16
+  axes [ 0.047399  0.053515 -0.028992]
+  eps_xy = -8.11e-10  (eps along diagonal 0.050457)
+  eps_xz = -8.16e-10  (eps along diagonal 0.009204)
+  eps_yz = -8.14e-10  (eps along diagonal 0.012262)
+(2) other w
+  w=0.95: eps=(+0.04224,+0.04006,-0.02483) eps_z-eps_x=-0.0671 eps_y-eps_x=-0.0022  Z_B(B_y)=-0.00744 Z_B(B_z)=+0.05661 B offset=-0.0640
+  w=1.1: eps=(-0.07530,-0.02843,-0.10580) eps_z-eps_x=-0.0305 eps_y-eps_x=+0.0469  Z_B(B_y)=-0.02891 Z_B(B_z)=+0.00790 B offset=-0.0368
