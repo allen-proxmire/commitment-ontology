@@ -1,0 +1,8 @@
+theta=0.1 width=150: a/(g(1+rm)) = 11.28870   a/g = 12.69978
+theta=0.1 width=300: a/(g(1+rm)) = 21.57951   a/g = 24.27695
+theta=0.1 width=300 g doubled: a/g ratio change = -1.24e+00
+theta=0.2 width=150: a/(g(1+rm)) = -3.07984   a/g = -3.84980
+theta=0.2 width=300: a/(g(1+rm)) = -7.15905   a/g = -8.94882
+theta=0.2 width=300 g doubled: a/g ratio change = +3.87e+00
+g=0 sanity: a = 1.86e-19 (vs 2.25e-06)
+F1 FAIL F2 FAIL sanity PASS

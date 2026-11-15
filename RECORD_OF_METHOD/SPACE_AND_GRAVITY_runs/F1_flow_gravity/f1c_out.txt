@@ -1,0 +1,10 @@
+tick 0
+tick 1000
+tick 2000
+tick 3000
+tick 4000
+tick 5000
+before: a_a/pred=+0.0198 a_b/pred=+0.0198
+after:  a_a/pred=0.9929 a_b/pred=0.9910
+balance +0.0573 (predicted +0.0556)
+F1 PASS F2 PASS F3 PASS
