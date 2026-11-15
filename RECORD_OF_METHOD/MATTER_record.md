@@ -1673,3 +1673,16 @@ MATTER_runs/C3_wilson_flow/C3_P7f_and_numbers.md. P7f on the flow: H = ½{N/ψ²
 **C3j (registered).** At r = 0.5: both induced coefficients positive at θ = 10⁻³, 3×10⁻⁴, 10⁻⁴; local slopes +0.4% and +0.5% from τ/(6π²): F1, F2 PASS. Induced light runs 3.5% slow at θ = 10⁻⁴ (−0.6% extrapolated to ln(1/θ) = 53); the light-speed counter-term remains, one number in every direction.
 
 **F1 (SPACE_AND_GRAVITY_runs/F1_flow_gravity, registered).** Free fall (F1a): a = g(1 + rm) to 3×10⁻⁴ (first run invalid through a packet-gauge bug, fixed and rerun unchanged). Light bending (F1b): a_x = 1.995g, 0.986 of the ray prediction 2g·ωω_xx. Closed loop (F1c): no pull before the field front (0.02 of prediction), then 0.993 and 0.991 of Newton's mutual attraction with the lattice factor, balance +0.057 against +0.056. All PASS. The palindrome's G5, G6 and G13 carry to the flow step under P7f restated.
+
+## 2026-11-15 — The flow step: the cold read (reading)
+
+The flow step's own claims reproduce (one light species, gaps, full cubic symmetry, the vacuum is H_W's Dirac sea, induced light, F1's code). Corrections (detail in C3_P7f_and_numbers.md):
+- **No electron Crab bound at r = 0.5** (the earlier 3.8×10⁻³² m was an artefact of discarding negative quadratic terms). A vacuum-Cherenkov band needs Σn_j⁴ < r², i.e. r > 1/√3.
+- **The bound on ℓ** then rests on LHAASO's 2.5 PeV photon surviving photon splitting: C at r = 0.5 is 2.58–3.96 (s absorbed) or 2.92–5.10 (s kept); ℓ < 4.2×10⁻³¹ m in the weakest direction, δ ≳ 2×10⁻⁸; a photon above about 1.1–2.1×10¹⁷ eV excludes straight light at every allowed ℓ. Subluminal electrons cap the Crab synchrotron cutoff (a Jacobson–Liberati–Mattingly-type bound), which may restore an electron bound near 10⁻³² m: not computed.
+- **Strong fields:** the tick condition bites only through a shift above 4.85 (deep inside a hole); expected to carry, not rerun.
+- **Extra species in a field** gravitate through N/ψ² under P7f restated (about twice the clock's change, same sign), not as on the palindrome (G9).
+- **F1c** used the lapse alone (D = N), as G13 did.
+- **Not carried over (rerun or regrade):** the domain-wall runs (B2–B2h, palindrome-based), the w window and L1/L1b (moot), the I1–I5 series (replaced by C3i/C3j), G7–G9, G12, G14, G15–G17, two-mode light, the Crab-based ℓ and δ bounds. Carried: G5, G6, G13 (F1), two-index isotropy, B1 (s rescaled by r/sin w).
+- Verdict: the switch can enter the results docs as a candidate once these numbers are in and every palindrome-only result is marked not rerun.
+
+**The author's ruling (on r, after the cold read).** r = 0.5 stays posited, with electrons subluminal in every direction and no electron Crab band; the bound on ℓ comes from photons until the synchrotron-cutoff check says otherwise.
