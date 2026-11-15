@@ -1,0 +1,4 @@
+1D Wilson walk: speed 1.111140, c2 (E = v k (1 + c2 k^2)) = -0.0288
+1+1D domain-wall mode: speed 1.111137, c2 (E = v k (1 + c2 k^2)) = -0.1152
+ratio of quadratic terms (wall/walk) = 4.000; threshold coefficient C scales as ratio^(-1/4) = 0.707
+3D walk axis value for reference: -sin^2 w/8 = -0.08641771452281811

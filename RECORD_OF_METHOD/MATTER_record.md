@@ -1641,3 +1641,11 @@ The fourth tuning (light's electric and magnetic terms by direction) entered REA
 - *Other w:* at w = 0.95, ε_z − ε_x = −0.067, ε_y − ε_x = −0.002, B offset (B along y against B along z) −0.064; at w = 1.10, −0.031, +0.047, −0.037 (at w = 1.10 the permittivities themselves are negative at θ = 0.01: the window's edge, where corner species near π dominate). Registered outcome: present across the window. Tuning 4's "at w = 5π/16" qualifier can be dropped for the window.
 
 **C2 (MATTER_runs/C2_sublattice_order).** Choosing the nesting order by sublattice is not a rule on CO's step: the step is a product of whole-lattice operators, and the natural place-by-place definition W = Σ_s U_(order s) P_s is not unitary (max |W†W − I| = 0.22; singular values 0.057–1.71). A unitary version would need a new partitioned construction, whose gap, species and symmetry are unknown. Silence.
+
+## 2026-11-15 — A cube-symmetric step (C3, desk); photon splitting for domain-wall matter (B2h, desk)
+
+**C3.** The step as a one-tick flow of the cube-symmetric Wilson–Dirac Hamiltonian, U = exp(−iτH_W), allowed by the author's 12 Nov ruling (fast-fading reach). At τ = 0.4, r = 1: one light species (extra species at quasienergies 0.83, 1.63, 2.43), π-gap 0.71, reach falling faster than exponentially (1.6×10⁻² at two places, 1.4×10⁻⁴ at three), and R U(k) R† = U(Pk) for the cyclic axis permutation to 6×10⁻¹⁶: every two-index response is isotropic by symmetry, so tuning 4 would vanish. A literature search found no strictly local cube-symmetric gapped Dirac walk with one light species. Shape, for the author's ruling; to check first: the induced-light response on this step and how the field enters (P7f restated). Walk-specific numbers (s, the w window, the photon-splitting coefficients) would be redone.
+
+**B2h.** In 1+1D the massless domain-wall mode bends exactly four times as much as the plain 1D walk (c₂ = −sin²w/6 against −sin²w/24). If the factor carried to 3+1D, the photon-splitting coefficient (s-free case, 3.8–4.1) would fall by 4^(−1/4) to 2.7–2.9 and LHAASO's 2.5 PeV photon would bound ℓ < 1.2×10⁻³¹ m. The 3+1D quadratic term is not known.
+
+**The author's ruling (on C3).** The step as a one-tick flow of the cube-symmetric Wilson–Dirac Hamiltonian: shape, to be checked by its induced-light response before any candidate ruling.

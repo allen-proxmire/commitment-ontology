@@ -1,0 +1,16 @@
+max |E| of H over the zone (bandwidth): 6.075000000000002
+tau*bandwidth (must stay below pi for a gap at quasienergy pi): 2.430000000000001
+corner [0 0 0] smallest |quasienergy| 0.03
+corner [0 0 1] smallest |quasienergy| 0.83
+corner [0 1 0] smallest |quasienergy| 0.83
+corner [0 1 1] smallest |quasienergy| 1.63
+corner [1 0 0] smallest |quasienergy| 0.83
+corner [1 0 1] smallest |quasienergy| 1.63
+corner [1 1 0] smallest |quasienergy| 1.63
+corner [1 1 1] smallest |quasienergy| 2.43
+0-gap smallest found: 0.03
+pi-gap smallest found: 0.7116
+permutation check: |spec(k)-spec(Pk)| = 2.220446049250313e-16
+amplitude reach along an axis, n = 0..7 places: [1.85e+00 5.42e-01 1.57e-02 1.36e-04 5.60e-07 1.34e-09 2.11e-12 2.20e-15]
+massless speed per step: [0.399998 0.399993 0.399973]
+R U(k) R^dag = U(Pk) for the cyclic permutation: max error 5.978733960281817e-16
