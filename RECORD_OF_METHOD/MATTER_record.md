@@ -1649,3 +1649,13 @@ The fourth tuning (light's electric and magnetic terms by direction) entered REA
 **B2h.** In 1+1D the massless domain-wall mode bends exactly four times as much as the plain 1D walk (c₂ = −sin²w/6 against −sin²w/24). If the factor carried to 3+1D, the photon-splitting coefficient (s-free case, 3.8–4.1) would fall by 4^(−1/4) to 2.7–2.9 and LHAASO's 2.5 PeV photon would bound ℓ < 1.2×10⁻³¹ m. The 3+1D quadratic term is not known.
 
 **The author's ruling (on C3).** The step as a one-tick flow of the cube-symmetric Wilson–Dirac Hamiltonian: shape, to be checked by its induced-light response before any candidate ruling.
+
+## 2026-11-15 — Induced light on the flow step (C3i)
+
+**Result (MATTER_runs/C3_wilson_flow, REGISTRATION_C3i.md).** τ = 0.4, r = 1, vacuum as ruled.
+- *Cube symmetry:* ε_z − ε_x = −5×10⁻¹², Z_B(z,x) − Z_B(x,y) = 1×10⁻⁹. The direction dependence of I4 is absent; tuning 4 does not arise on this step.
+- *Sign:* both coefficients positive at every mass computed (θ = 10⁻⁴ to 3×10⁻²), with no wrong-sign region (the palindromic walk's appeared below θ ≈ 0.1 only).
+- *Growth:* as registered F2 failed, through a units error in the registration (here the potential enters the Hamiltonian, so both coefficients carry a factor τ and both leading-log slopes are τ/(6π²) = 0.006755; the registered Z_E value 1/(6π²τ) was wrong), and against the corrected value the straight-line slopes over 10⁻³–3×10⁻² were +10% and +13% (an O(θ) term, as in I2). The further check, registered before running: local slopes between θ = 10⁻⁴ and 3×10⁻⁴ are 0.006792 (+0.6%) and 0.006810 (+0.8%): PASS.
+- *Induced speed:* +3.8%, +4.3%, +5.0%, +5.9%, +7.2%, +9.0% above light at θ = 10⁻⁴ … 3×10⁻², falling as 1/ln(1/θ) with a finite-part mismatch Δ ≈ 0.70, so about +0.7% at ln(1/θ) = 53 (the palindromic walk: about −0.1%). The overall light-speed counter-term (tuning 1) stays; it is now one number, the same in every direction.
+
+**Reading.** The flow step passes the check set by the author's ruling: induced light on it is isotropic by symmetry, right-signed at every mass, and grows as the light species' leading log within 1%. It removes tuning 4 at its cause. Before a candidate ruling: how the field enters the flow step (P7f restated) and the walk-specific numbers redone (speed excess, photon-splitting coefficients).
