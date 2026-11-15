@@ -1,0 +1,9 @@
+eps=0: m(L) = ['1.00e+00'] slope -1.000 R2 1.0000
+control (plain flow, m=0, eps=0.2): mass per tick 6.6197e-02  (informative)
+coherent  m(L)=6.51e-03 1.36e-03 2.46e-04 4.24e-05 7.55e-06 slope -0.425 R2 0.9996 ok
+draw0     m(L)=6.51e-03 1.38e-03 2.71e-04 2.97e-05 4.61e-06 slope -0.459 R2 0.9955 ok
+draw1     m(L)=3.51e-03 8.56e-04 1.41e-04 2.37e-05 4.00e-06 slope -0.429 R2 0.9981 ok
+draw2     m(L)=6.34e-03 1.50e-03 2.24e-04 2.36e-05 3.67e-06 slope -0.477 R2 0.9951 ok
+draw3     m(L)=6.01e-03 1.16e-03 1.51e-04 2.51e-05 3.36e-06 slope -0.470 R2 0.9989 ok
+draw4     m(L)=6.24e-03 9.28e-04 1.42e-04 1.86e-05 4.52e-06 slope -0.459 R2 0.9971 ok
+F1 PASS F2 PASS

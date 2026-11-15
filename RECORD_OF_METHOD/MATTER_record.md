@@ -1690,3 +1690,11 @@ The flow step's own claims reproduce (one light species, gaps, full cubic symmet
 ## 2026-11-15 — The Crab synchrotron cutoff with subluminal electrons (C3s, desk)
 
 At r = 0.5 electrons are capped at γ_max = [2μ(√(2|c₂|) − r/2)]^(−1/2) (μ = ℓ/λ_C). Requiring γ for 100 MeV synchrotron photons (Jacobson–Liberati–Mattingly form), weakest direction (body diagonal): ℓ ≲ 3.2×10⁻³² m (s kept) or 1.1×10⁻³² m (s absorbed) at B = 125 μG; 2.6×10⁻³¹ m or 8.8×10⁻³² m at 1 mG. Candidate bound, conditional on the nebular field and on synchrotron's form up to γ_max; the photon bound (4.2×10⁻³¹ m) stays the model-independent floor. δ ≳ 3×10⁻⁶ (125 μG, s kept) to 2×10⁻⁸.
+
+## 2026-11-15 — The domain wall on the flow step (B3, B3b)
+
+**B3 (registered; MATTER_runs/B3_domain_wall_flow).** 2D flow (τ = 0.4, r = 0.5), x physical, inner ring of 2L places with a mass wall ±0.5. F1 PASS: undisturbed leftover mass 3.2×10⁻³, 7.0×10⁻⁴, 1.4×10⁻⁴, 2.6×10⁻⁵, 4.7×10⁻⁶ for L = 8 … 24 (slope −0.41 per place, R² = 0.9995). F2 FAIL at ε = 0.2: the coherent case fell cleanly, the random draws unevenly (R² 0.43–0.98), though all m(24) stayed below 1% of the control's leak. Cause: ε copied from B2 without scaling to this step's bulk gap (τM = 0.2 rad per tick, equal to ε; on the palindrome ε/gap = 0.4), so the disturbance could close the gap locally and the sub-gap window admitted bulk levels.
+
+**B3b (registered after B3, before running).** ε = 0.08 (ε/gap = 0.4, as in B2), same draws and conditions. All six cases fall cleanly (slopes −0.43 to −0.48 per place, R² ≥ 0.995), m(24) = 3.4–7.6×10⁻⁶ against the control's leak of 6.6×10⁻² per tick. PASS. (b3b_out.txt's "eps=0" line is a placeholder; the undisturbed case is B3's.)
+
+**Reading.** Tuning 2's candidate removal carries to the flow step for disturbances below the bulk gap, as it should: the protection holds while the gap is open. Still to show: interactions, time-varying disturbances, and the 3+1D form (a 4+1D flow).
