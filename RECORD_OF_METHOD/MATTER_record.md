@@ -1555,3 +1555,17 @@ Grade: reading (the two options' consequences); the author's ruling, candidate (
 **Reading.** If this holds in 3+1D, domain-wall matter carries no electron Crab bound on ℓ from s; the case already recorded applies (photon-splitting C ≈ 3.8–4.1; LHAASO's 2.5 PeV photon gives ℓ < 2.3×10⁻³¹ m). A 1+1D result; not a claim for the results docs.
 
 **The author's ruling (for the induced-light computation).** The walk's vacuum: every state with quasienergy in (−π, 0) filled. Candidate. A commitment reading (the vacuum as the walk's state with no commitments) is a shape.
+
+## 2026-11-14 — B2g: the cold read (reading)
+
+**The −0.014 m was a fit artefact; corrected: no linear excess.** The registered fit (Δv = s − A/k² on k ∈ [5m, 20m]) returns s = −4.73×10⁻⁵ for every m when applied to an exactly relativistic E = √(m² + c₀²k²): the window scales with m, so the next relativistic term leaves a constant. B2g's values are that constant plus a term of order m². With measures free of this bias (D = E_m² − E_0² − m² on a fixed window; the speed residual against the walk's own relativistic form), fitting s = a m + b m²: at L = 16 the linear coefficient is |a| ≲ 0.003 across six coupling directions and row choices, tracking the leftover gap (a ≈ 2–3 m₀) and falling with L (L = 12: ~0.01; L = 20: ~0.0003); the m² term is a deficit in every case, its size set by the coupling (b from −1.2 to −9). The same measure on the 1D Wilson walk gives κ = 0.4157 = ½ sin w exactly (B2g's 0.405 was the fit's bias). Withdrawn: "about 25× smaller and negative"; "tops out just below light" is true of any massive particle and not a finding.
+
+**Corrected reading.** In 1+1D, the domain-wall walk's massive mode carries no speed excess linear in its mass (zero up to the finite-L leftover); a deficit of order (mℓ)² remains, negligible for the electron and giving no vacuum-Cherenkov bound. If this carries to 3+1D, domain-wall matter has no electron Crab bound on ℓ from s.
+
+**What 3+1D needs.** The wall must carry a 3+1D Dirac mode, which takes a 4-space-dimension bulk with a second-Chern-type phase. CO's 3D walk already has four components (α_j, β); a 4D bulk needs five mutually anticommuting 4×4 matrices (α₁–α₃, β and their product), which exist, so a four-component 4D walk is not ruled out, but it is not computed. On a 3+1D wall the mode is a two-spinor; a generic spin-turning wall-to-wall coupling n̂·σ is not a pure Dirac mass (E² = k² + Δ² ± 2Δ|k × n̂| for a model wall pair), so the coupling's spin form is part of the rule to be named. The 1+1D result does not carry over unchanged.
+
+**Method.** A calibration passes only where the signal and the bias are of similar size; the bias is now also checked on an exact relativistic dispersion.
+
+## 2026-11-14 — Induced light, first rung (I1)
+
+**Result (MATTER_runs/I1_induced_light).** CO's 3D walk, vacuum as ruled, static magnetic field and static potential. At θ = 0.3 and 0.5: Z_E = −0.036, −0.089; Z_B = −0.034, −0.074; induced light speed 0.984 and 0.910 hops per step, 11.5% and 18.1% below c₀ (registered outcome: unequal). θ = 0.8 invalid (fit residual 6%). Both Z negative: at lattice-scale masses the posited vacuum induces a wrong-sign field. |Z| falls as θ falls (0.24, 0.089, 0.036), consistent with a positive leading log (ln(1/θ) ≈ 1 here) eating a negative lattice-scale term; these masses cannot show a sign change. The reading is not tested where it matters (θ ≈ 10⁻²³, ln(1/θ) ≈ 53).
