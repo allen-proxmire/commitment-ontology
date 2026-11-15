@@ -7,3 +7,9 @@ The working records: every route tried, every withdrawal with its reason, the ru
 - [`NUCLEUS_record.md`](NUCLEUS_record.md)
 
 The method: a rule is added only where the primitives are silent and only if it retires something; a rule may also be added on a named contradiction with the world; a rule whose prerequisites are not ruled stays candidate; nothing is deleted, only struck through with its reason.
+
+Lessons from runs (each cost a failed registration):
+- A calibration checks a fit's bias only where the signal and the bias are of similar size; check the bias on an exact case as well (B2g).
+- A disturbance's strength is set relative to the gap of the step under test, not copied from another step (B3).
+- A registration's predicted value is derived in the units the run measures (C3i).
+- With absorbing or capped regions, every part of the probability (absorbed, still inside the absorber, passed through) is placed before any statistic is taken (F1e–F1g).
