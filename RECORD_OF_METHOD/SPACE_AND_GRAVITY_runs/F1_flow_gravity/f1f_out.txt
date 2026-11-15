@@ -1,0 +1,5 @@
+rho_pred= 799.9: median=800, deviation +0.0004 of distance fallen; weight remaining 1.000; |b| at prediction 0.71
+rho_pred= 399.8: median=400, deviation +0.0003 of distance fallen; weight remaining 1.000; |b| at prediction 1.00
+rho_pred= 199.7: median=220, deviation +0.0203 of distance fallen; weight remaining 0.879; |b| at prediction 1.42
+rho_pred= 119.7: median=179, deviation +0.0549 of distance fallen; weight remaining 0.710; |b| at prediction 1.83
+F1 FAIL
