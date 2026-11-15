@@ -33,9 +33,10 @@ def pair_shift(k,q,th,w,field):
     U0,U1,U2=pair_ops(k,q,th,w,field)
     T,V=schur(U0,output='complex'); lam=np.diag(T)
     A1=V.conj().T@U1@V; A2=V.conj().T@U2@V; tot=0.
+    FILLED=np.angle(lam)<0
     for n in range(8):
         if np.angle(lam[n])>=0: continue
-        d=lam[n]-lam; mask=np.abs(d)>1e-12
+        d=lam[n]-lam; mask=(np.abs(d)>1e-12)&~FILLED  # filled-filled pairs cancel exactly by unitarity; dropped to avoid round-off
         l2=A2[n,n]+np.sum(A1[n,mask]*A1[mask,n]/d[mask])
         tot+=np.imag(l2/lam[n])
     return tot
