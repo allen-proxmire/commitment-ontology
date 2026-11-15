@@ -23,7 +23,7 @@ with ξ_i of order one and set by the regulator's shape, not suppressed by ℓ (
 
 | exit | mechanism | for CO |
 |---|---|---|
-| frame-free substrate | random sprinkling (Bombelli–Henson–Sorkin 2009) | excluded (births, degree, locality); Way B with quantum values keeps a frame-picking regulator; with a quantum graph, unsettled |
+| frame-free substrate | random sprinkling (Bombelli–Henson–Sorkin 2009) | excluded (births, degree, locality: matter moves on persistent places with bounded neighbours; a causal-set-style kernel on events, fading along the invariant interval, would avoid the degree argument but has no events to live on: the vacuum holds no commitments, and birth events at Λ ≈ 2 × 10⁻⁵⁷ per place per tick are spaced about 5 × 10¹⁴ ℓ apart, a grain at 10⁻¹⁷–10⁻¹⁶ m that colliders exclude); Way B with quantum values keeps a frame-picking regulator; with a quantum graph, unsettled |
 | infrared flow | Chadha–Nielsen 1983; Anber–Donoghue 2011 | too slow for QED |
 | frame only in gravity | Pospelov–Shang 2012, suppression (M_LV/M_Pl)² | not available: matter walks on the network |
 | fermion–boson symmetry | Groot Nibbelink–Pospelov 2005; breaking below about 10⁷ GeV by the (M_SUSY/M)² scaling against CO's hop scale | no partners in CO |
