@@ -1605,3 +1605,11 @@ Grade: reading (the two options' consequences); the author's ruling, candidate (
 - *Coupling:* 1/α = 4π√(Z_E Z_B) (unit charge, Heaviside–Lorentz, ħ = 1): about 11 for one species at ln(1/θ) = 53. The tuning map's 77 counts charged fermions only with a Planck cutoff; the W boson contributes with the opposite sign (roughly −44).
 
 **Found while preparing the bending test (exploratory, not registered).** The static potential's response depends on the axis it varies along: at θ = 0.03, Z_E = +0.029 (x), +0.034 (y), −0.049 (z); the time-varying transverse response along y matches the y value. A brute-force real-space check matches the pair method to 10⁻⁷ along x and z (θ = 0.3). The palindrome's fixed nesting order (x outermost, z innermost) breaks cubic symmetry in the vacuum's lattice-scale (finite) parts while the leading log stays isotropic. For registration next: whether the spread stays finite as the log grows.
+
+## 2026-11-14 — Induced light depends on direction (I4)
+
+**Result (MATTER_runs/I1_induced_light, REGISTRATION_I4.md, i4_out.txt).** Registered outcome: anisotropic (spread of D_ij at θ = 10⁻³ is 36, against the 0.01 bar; the D metric is inflated where ε_z is small, and z-polarised speeds are undefined at θ ≥ 3×10⁻³ where ε_z < 0). In plainer form, the direction dependence is a constant offset in the finite parts, with the leading log the same in every direction:
+- Permittivity: ε_z − ε_x = −0.0757, −0.0759, −0.0764, −0.0778 and ε_y − ε_x = +0.0065, +0.0064, +0.0061, +0.0053 at θ = 10⁻³, 3×10⁻³, 10⁻², 3×10⁻².
+- Magnetic coefficient: for B along y (phases on x-hops varying along z, or on z-hops varying along x) about 0.063 below the other two (0.0384 against 0.1014 at θ = 10⁻³; offsets −0.0630, −0.0631, −0.0635, −0.0646); B along x and z agree to 3×10⁻⁴.
+
+**Reading.** The palindrome's fixed nesting order (x outermost, z innermost) breaks cubic symmetry in the vacuum's lattice-scale response by an amount that does not shrink as the mass falls. At ln(1/θ) = 53, where the isotropic log parts are about 0.81 (ε) and 0.99 (Z_B), the offsets are 9% and 6%: induced light would depend on direction and polarisation at the level of several percent, against bounds many orders tighter. Induced from this walk, light needs direction-dependent counter-terms (more tuning), unless the walk restores cubic symmetry.

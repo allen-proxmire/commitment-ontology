@@ -1,0 +1,29 @@
+th=1e-03 prop=x pol=y Z_B=+0.10139 eps_pol=+0.09006 c/c0-1=-0.04509 D=-0.6230
+th=1e-03 prop=x pol=z Z_B=+0.03842 eps_pol=+0.00786 c/c0-1=+0.99046 D=+13.6837
+th=1e-03 prop=y pol=x Z_B=+0.10139 eps_pol=+0.08357 c/c0-1=-0.00872 D=-0.1205
+th=1e-03 prop=y pol=z Z_B=+0.10142 eps_pol=+0.00786 c/c0-1=+2.23383 D=+30.8616
+th=1e-03 prop=z pol=x Z_B=+0.03842 eps_pol=+0.08357 c/c0-1=-0.38975 D=-5.3846
+th=1e-03 prop=z pol=y Z_B=+0.10142 eps_pol=+0.09006 c/c0-1=-0.04492 D=-0.6206
+th=1e-03 eps(x,y,z)=(+0.08357,+0.09006,+0.00786)  spread of D=36.2462
+th=3e-03 prop=x pol=y Z_B=+0.08034 eps_pol=+0.07298 c/c0-1=-0.05572 D=-0.6474
+th=3e-03 prop=x pol=z Z_B=+0.01727 eps_pol=-0.00929 c/c0-1=+nan D=+nan
+th=3e-03 prop=y pol=x Z_B=+0.08034 eps_pol=+0.06658 c/c0-1=-0.01135 D=-0.1319
+th=3e-03 prop=y pol=z Z_B=+0.08045 eps_pol=-0.00929 c/c0-1=+nan D=+nan
+th=3e-03 prop=z pol=x Z_B=+0.01727 eps_pol=+0.06658 c/c0-1=-0.54167 D=-6.2933
+th=3e-03 prop=z pol=y Z_B=+0.08045 eps_pol=+0.07298 c/c0-1=-0.05508 D=-0.6400
+th=3e-03 eps(x,y,z)=(+0.06658,+0.07298,-0.00929)  spread of D=6.1614
+th=1e-02 prop=x pol=y Z_B=+0.05653 eps_pol=+0.05352 c/c0-1=-0.07505 D=-0.6912
+th=1e-02 prop=x pol=z Z_B=-0.00695 eps_pol=-0.02899 c/c0-1=-0.55935 D=-5.1518
+th=1e-02 prop=y pol=x Z_B=+0.05653 eps_pol=+0.04740 c/c0-1=-0.01719 D=-0.1583
+th=1e-02 prop=y pol=z Z_B=+0.05690 eps_pol=-0.02899 c/c0-1=+nan D=+nan
+th=1e-02 prop=z pol=x Z_B=-0.00695 eps_pol=+0.04740 c/c0-1=+nan D=+nan
+th=1e-02 prop=z pol=y Z_B=+0.05690 eps_pol=+0.05352 c/c0-1=-0.07201 D=-0.6632
+th=1e-02 eps(x,y,z)=(+0.04740,+0.05352,-0.02899)  spread of D=4.9936
+th=3e-02 prop=x pol=y Z_B=+0.03319 eps_pol=+0.03396 c/c0-1=-0.11027 D=-0.7733
+th=3e-02 prop=x pol=z Z_B=-0.03144 eps_pol=-0.04921 c/c0-1=-0.28070 D=-1.9686
+th=3e-02 prop=y pol=x Z_B=+0.03319 eps_pol=+0.02864 c/c0-1=-0.03116 D=-0.2185
+th=3e-02 prop=y pol=z Z_B=+0.03438 eps_pol=-0.04921 c/c0-1=+nan D=+nan
+th=3e-02 prop=z pol=x Z_B=-0.03144 eps_pol=+0.02864 c/c0-1=+nan D=+nan
+th=3e-02 prop=z pol=y Z_B=+0.03438 eps_pol=+0.03396 c/c0-1=-0.09448 D=-0.6626
+th=3e-02 eps(x,y,z)=(+0.02864,+0.03396,-0.04921)  spread of D=1.7500
+outcome: ANISOTROPIC
