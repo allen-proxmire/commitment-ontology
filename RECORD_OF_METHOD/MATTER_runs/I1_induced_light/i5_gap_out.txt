@@ -1,0 +1,3 @@
+six orders    smallest |phase| found: 8.30e-13   smallest distance from pi: 8.75e-13  (light-species gap at k=0: 0.180)
+three cyclic  smallest |phase| found: 5.40e-13   smallest distance from pi: 6.23e-13  (light-species gap at k=0: 0.090)
+single xyz    smallest |phase| found: 3.00e-02   smallest distance from pi: 7.55e-01  (light-species gap at k=0: 0.030)
