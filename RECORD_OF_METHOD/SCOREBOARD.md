@@ -1,5 +1,7 @@
 # Scoreboard
 
+*Tallied 13 Nov 2026, before the flow step: the G-runs, the Wilson window and the ℓ bound listed here are the earlier palindromic walk's; see MATTER_record.md (15 Nov) for the step that replaced it.*
+
 What CO has, sorted by where it comes from. Updated after each climb; the records hold the detail. As of 2026-11-13.
 
 ## Ladder table (by domain)
