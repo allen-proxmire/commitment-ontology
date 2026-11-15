@@ -1547,3 +1547,11 @@ Grade: reading (the two options' consequences); the author's ruling, candidate (
 **Results docs.** Tuning 2's candidate removal entered README, STATE_OF_CO, ONE_PAGE, MATTER and TECHNICAL_APPENDIX with "shown in one space dimension, without interactions", the speeds unprotected, and the Wilson-walk scope.
 
 **The author's ruling (on the correction above).** The inner-reflection ruling is withdrawn. The handednesses' speeds are not protected; tuning 1 takes a speed counter-term per handedness.
+
+## 2026-11-14 — Domain-wall walk: the massive mode's speed excess (B2g)
+
+**Result (b2g_out.txt).** Calibration on CO's plain 1D Wilson walk: ds/dm = 0.405 (analytic ½ sin w = 0.416). Domain-wall walk (L = 16, mass from the spin-turning wall-to-wall coupling, m = 0.004–0.011): s/m = −0.015, −0.013, −0.014, −0.016. Straight-line fit R² = 0.97, below the registered 0.99: as registered, not a clean mass-linear term. What it shows: the excess is about 25× smaller than the Wilson walk's and negative (the massive mode tops out just below light). The first run crashed (fit window past the bulk gap at the planned masses); the range was amended before any domain-wall result. The massless wall mode runs 9.8×10⁻⁴ below c₀ (a speed offset, tuning 1).
+
+**Reading.** If this holds in 3+1D, domain-wall matter carries no electron Crab bound on ℓ from s; the case already recorded applies (photon-splitting C ≈ 3.8–4.1; LHAASO's 2.5 PeV photon gives ℓ < 2.3×10⁻³¹ m). A 1+1D result; not a claim for the results docs.
+
+**The author's ruling (for the induced-light computation).** The walk's vacuum: every state with quasienergy in (−π, 0) filled. Candidate. A commitment reading (the vacuum as the walk's state with no commitments) is a shape.

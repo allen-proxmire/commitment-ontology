@@ -1,0 +1,7 @@
+calibration 1D Wilson: s(m)= ['2.025e-03', '4.085e-03', '8.162e-03', '1.613e-02']  ds/dm=0.4045  ds/dm/c0=0.3640  R2=0.9999
+massless wall mode speed at k=0.05: 1.110057  c0=1.111140  offset=-9.75e-04
+mu=0.015: m=4.0503e-03 k*=-1.17e-06 s=-5.9364e-05
+mu=0.02: m=5.5254e-03 k*=-2.78e-06 s=-7.3460e-05
+mu=0.03: m=8.4897e-03 k*=-7.92e-06 s=-1.1678e-04
+mu=0.04: m=1.1460e-02 k*=-1.57e-05 s=-1.8101e-04
+domain wall: ds/dm=-0.0148  ds/dm/c0=-0.0133  R2=0.9690   ratio to 1D calibration=-0.037
