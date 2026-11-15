@@ -1,0 +1,8 @@
+th=1e-03 Z_E=+8.49639e-02 Z_B=-2.12337e+03 c_ind=nan c_ind/c0-1=+nan
+th=3e-03 Z_E=+6.63622e-02 Z_B=-2.33177e+02 c_ind=nan c_ind/c0-1=+nan
+th=1e-02 Z_E=+4.73890e-02 Z_B=-2.01510e+01 c_ind=nan c_ind/c0-1=+nan
+th=3e-02 Z_E=+2.86231e-02 Z_B=-2.01550e+00 c_ind=nan c_ind/c0-1=+nan
+th=1e-01 Z_E=+4.16901e-03 Z_B=-1.62350e-01 c_ind=nan c_ind/c0-1=+nan
+th=3e-01 Z_E=-3.55631e-02 Z_B=-3.51598e-02 c_ind=0.99431 c_ind/c0-1=-0.1051
+slope Z_E=0.01648 (leading log 0.01520, +0.084); slope Z_B=-573.95917 (leading log 0.01876, -30589.842); intercepts Z_E -0.0290 Z_B +2394.0168
+F1 FAIL F2 FAIL

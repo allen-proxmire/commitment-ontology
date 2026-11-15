@@ -1,0 +1,8 @@
+th=1e-03 C0(fit)=-1.0617e-06 C0(direct, constant A on same grid)=-1.0617e-06 ratio=1.0001  Z_B=+1.01498e-01 Z_E=+8.49639e-02 c_ind=1.09298 c_ind/c0-1=-0.0163
+th=3e-03 C0(fit)=-1.0497e-06 C0(direct, constant A on same grid)=-1.0496e-06 ratio=1.0001  Z_B=+8.03183e-02 Z_E=+6.63622e-02 c_ind=1.10014 c_ind/c0-1=-0.0099
+th=1e-02 C0(fit)=-1.0104e-06 C0(direct, constant A on same grid)=-1.0103e-06 ratio=1.0001  Z_B=+5.65045e-02 Z_E=+4.73890e-02 c_ind=1.09195 c_ind/c0-1=-0.0173
+th=3e-02 C0(fit)=-9.2190e-07 C0(direct, constant A on same grid)=-9.2185e-07 ratio=1.0000  Z_B=+3.31663e-02 Z_E=+2.86231e-02 c_ind=1.07644 c_ind/c0-1=-0.0312
+th=1e-01 C0(fit)=-8.2953e-07 C0(direct, constant A on same grid)=-8.2948e-07 ratio=1.0001  Z_B=+3.55585e-03 Z_E=+4.16901e-03 c_ind=0.92354 c_ind/c0-1=-0.1688
+th=3e-01 C0(fit)=+1.0517e-09 C0(direct, constant A on same grid)=+1.0845e-09 ratio=0.9698  Z_B=-3.51831e-02 Z_E=-3.55631e-02 c_ind=0.99464 c_ind/c0-1=-0.1048
+slope Z_E=0.01648 (leading log 0.01520, +0.084); slope Z_B=0.02006 (leading log 0.01876, +0.069); intercepts Z_E -0.0290 Z_B -0.0366
+F1 PASS F2 PASS

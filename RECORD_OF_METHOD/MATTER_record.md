@@ -1569,3 +1569,27 @@ Grade: reading (the two options' consequences); the author's ruling, candidate (
 ## 2026-11-14 — Induced light, first rung (I1)
 
 **Result (MATTER_runs/I1_induced_light).** CO's 3D walk, vacuum as ruled, static magnetic field and static potential. At θ = 0.3 and 0.5: Z_E = −0.036, −0.089; Z_B = −0.034, −0.074; induced light speed 0.984 and 0.910 hops per step, 11.5% and 18.1% below c₀ (registered outcome: unequal). θ = 0.8 invalid (fit residual 6%). Both Z negative: at lattice-scale masses the posited vacuum induces a wrong-sign field. |Z| falls as θ falls (0.24, 0.089, 0.036), consistent with a positive leading log (ln(1/θ) ≈ 1 here) eating a negative lattice-scale term; these masses cannot show a sign change. The reading is not tested where it matters (θ ≈ 10⁻²³, ln(1/θ) ≈ 53).
+
+## 2026-11-14 — Induced light: I1's cold read, and small masses (I2)
+
+**I1 corrections (cold read).**
+- *Checked and holding:* filling angle < 0 equals the true E < 0 sea exactly (a determinant identity: Σ E = −arg det U stays 0 while no level crosses π); the energy signs (C_E = −Z_E q̂²/4, C_B = +Z_B q̂²/4); the units (c₀ measured 1.11118 places per step); the potential's placement (D U D, D²U, U D² isospectral) and its gauge consistency. "Both Z negative" is a real result.
+- *Mechanism corrected:* the wrong sign comes from the three (π,0,0)-type corner species, whose eigenphase ±(5π/4 − θ) sits |π/4 − θ| from π (0.485 at θ = 0.3, 0.285 at θ = 0.5): at θ = 0.5 they are closer to π than the light species is to 0. A filled–empty pair more than π apart contributes with the opposite sign (δE_n = (a²/2) Σ_m |V_mn|² cot((E_n − E_m)/2)). Withdrawn: "heavy extra species"; "consistent with a positive log eating a negative lattice term" (the fall of |Z| follows the π-gap opening, a slope about 7× the log).
+- *θ = 0.8:* past the π-gap closing at θ = π/4 (gap 0.015, smaller than the field), so the method fails there; its Z is dropped from any trend.
+- *θ = 0.3:* a constant-A_y grid offset (about 8% of C_B at n = 1) moves c_ind/c₀ − 1 to −10% to −12%. I1's summary: induced light 10–18% slow at θ = 0.3–0.5.
+
+**I2 (small masses; MATTER_runs/I1_induced_light, REGISTRATION_I2.md).** Exact second-order response on momentum pairs (validated against I1 to 10⁻⁷ in C_E), nested-cube Brillouin-zone quadrature.
+- As registered, F1 and F2 failed through Z_B, which scaled as 1/θ²: the quadrature (not translation-invariant in k_y) left a finite response to a uniform A_y, which gauge invariance sets to zero, and the registered extrapolation had no constant term. Fix chosen before rerunning Z_B: fit C₀ + c₂q̂² + c₄q̂⁴ at q = θ/20, θ/10, θ/5, gated on C₀ matching the directly computed uniform-A_y response on the same quadrature within 2%. Gate: met to 10⁻⁴ for θ ≤ 0.1; missed at θ = 0.3 (3%; C₀ ≈ 10⁻⁹ there), outside the slope fit.
+
+| θ | Z_E | Z_B | c_ind/c₀ − 1 |
+|---|---|---|---|
+| 10⁻³ | +0.0850 | +0.1015 | −1.6% |
+| 3×10⁻³ | +0.0664 | +0.0803 | −1.0% |
+| 10⁻² | +0.0474 | +0.0565 | −1.7% |
+| 3×10⁻² | +0.0286 | +0.0332 | −3.1% |
+| 0.1 | +0.0042 | +0.0036 | −16.9% |
+| 0.3 | −0.0356 | −0.0352 | −10.5% (gate missed) |
+
+- F1 (both positive at θ = 10⁻³): PASS. F2 (slopes within 10% of the leading log): PASS, dZ_E/d ln(1/θ) = 0.01648 (leading log 1/(6π²c₀) = 0.01520, +8.4%), dZ_B/d ln(1/θ) = 0.02006 (c₀/(6π²) = 0.01876, +6.9%). Intercepts −0.029, −0.037. The sign turns right between θ = 0.3 and 0.1.
+
+**Reading.** Below θ ≈ 0.1 the induced field has the right sign and its growth is the light species' leading log within 7–8%; induced light runs within 1–3% of c₀ at θ ≤ 0.03. At physical masses (ln(1/θ) ≈ 53) the log dominates the finite parts: with leading-log slopes and the fitted intercepts, induced light sits about 4×10⁻⁴ below c₀ (with the fitted slopes, 8×10⁻³; the slopes' own 7–8% excess is not resolved). Either way the induced speed differs from matter's at 10⁻⁴–10⁻², far above the 10⁻²⁰ the data require: induced light does not remove light's speed counter-term. A single unit-charge species gives 1/α = 4π Z ≈ 11 at ln(1/θ) = 53; all known charged species, about 77 (tuning map). Light's bending c₂ (frequency-dependent terms) is not computed; the tuning-3 reading's main test is still ahead.
