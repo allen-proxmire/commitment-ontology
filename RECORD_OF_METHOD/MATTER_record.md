@@ -1665,3 +1665,5 @@ The fourth tuning (light's electric and magnetic terms by direction) entered REA
 ## 2026-11-15 — The flow step: P7f restated, numbers redone (desk)
 
 MATTER_runs/C3_wilson_flow/C3_P7f_and_numbers.md. P7f on the flow: H = ½{N/ψ², K} + βmN + ½Σ_j{b_j, sin k_j}, K the Wilson–Dirac hop term; local light speed N/ψ², mass mN, shift as a spin-blind drift; no Wilson window to leave (the palindrome's P7f failed at GM/rc² ≈ 0.053), only τ·(N/ψ²·bandwidth + |b|) < π. Shape. Numbers: s = ½ r mcℓ/ħ; c₂(n̂) = 3(r²/8 − Σn_j⁴/6), positive off the axes for r > 2/3 (electron vacuum Cherenkov from the quadratic term; photons split only along the axes), negative everywhere for r < 2/3. Crab bound: r = 1, ℓ < 1.4×10⁻³² m (s kept), 2.9×10⁻³² m (s absorbed); r = 0.5, ℓ < 3.8×10⁻³² m (s kept), none (s absorbed). Photon splitting (s absorbed): r = 1, C = 3.46 on the axes only; r = 0.5, C = 2.58–3.96 by direction. r is a posited value (w's role); r < 2/3 keeps the palindrome's pattern.
+
+**The author's ruling (on r).** The flow's Wilson parameter r = 0.5. Posited (electrons bend below straight light in every direction; extra species at Wilson masses 1, 2, 3 in flow units).
