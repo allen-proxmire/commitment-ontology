@@ -1523,3 +1523,13 @@ Grade: reading (the two options' consequences); the author's ruling, candidate (
 - *Topology.* Chern −1 is relative to C = 0 for θ < 0; the 0-gap count is the Floquet winding W₀, and one mode per wall follows because the π-gap stays open across the wall (smallest half-gap 0.285). W_π was not computed.
 
 **The ruling, restated.** Tuning 2 (the mass counter-term) is removed by a domain-wall walk; a physical mass enters as a spin-turning wall-to-wall coupling. The author's ruling, candidate. Not removed: speed counter-terms, now per handedness. Still to show: x-variation through a longer period, the w window, interactions, the 3+1D form.
+
+## 2026-11-14 — Domain-wall walk: x-momentum couplings, the handedness speeds, the w window (B2e, B2f)
+
+**B2e (period 32 along x).** Five wall-to-wall crossings at every L (the zero-momentum one and four that couple through the disturbance's x-momentum). m at the zero-momentum crossing: 1.86×10⁻², 3.62×10⁻³, 5.58×10⁻⁴ (L = 8, 12, 16); at the x-momentum crossings: 0.67–1.67×10⁻³, 0.77–3.47×10⁻⁴, 2.3–4.3×10⁻⁵. Control (spin-turning wall-to-wall mass): 6×10⁻². F1, F2 pass; informative. B2e uses a shift-invert eigensolver for the levels near quasienergy 0 (checked against full diagonalisation; a first run with full diagonalisation was stopped after L = 8 for cost and gave the same L = 8 numbers).
+
+**B2f (the two walls' speeds).** A disturbance that differs between the walls splits the two handednesses' speeds by an amount that does not fall with L (ε = 0.2: median 4.0×10⁻³, 6.3×10⁻³, 1.2×10⁻² at L = 8, 16, 24): not protected, as registered. A disturbance the same at every inner place leaves them equal to 10⁻¹⁴ for all four spin directions tried. Follow-up (unregistered, b2f_symmetry.py): the protecting symmetry is the inner reflection s → L − 1 − s, which keeps θ(s) and exchanges the walls; random disturbances respecting it keep the speeds equal to 5×10⁻¹⁵, and those breaking it (a half-ring shift copy, a reflection fixing the walls) do not.
+
+**w window (w_window.py).** At wall height θ = ±0.5, wall modes need w ≈ 4.4π/16 to 5.6π/16 (θ = +0.5 at Chern −1, θ = −0.5 at 0, the π-gap open along the wall): below, neither side is topological; above about 5.7π/16, θ = −0.5 also turns topological (C = +1) and the π-gap nearly closes. The π-gap along the wall peaks near 5.3π/16 (0.49); at the posited 5π/16 it is 0.285.
+
+**Ruled.** The domain-wall rule keeps the inner reflection s → L − 1 − s. The author's ruling, candidate. With it, loop corrections that respect CO's rules cannot split the two handednesses' speeds: tuning 1 stays one speed counter-term per species. Still to show: that interactions keep the reflection, and the 3+1D form.

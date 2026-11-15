@@ -1,0 +1,12 @@
+w=0.795 (4.05 pi/16)  C(+0.5)=-0 C(-0.5)=-0  0-gap at walls=0.237  min pi-gap on path=0.024
+w=0.829 (4.22 pi/16)  C(+0.5)=+0 C(-0.5)=+0  0-gap at walls=0.104  min pi-gap on path=0.024
+w=0.863 (4.40 pi/16)  C(+0.5)=-1 C(-0.5)=+0  0-gap at walls=0.122  min pi-gap on path=0.011
+w=0.897 (4.57 pi/16)  C(+0.5)=-1 C(-0.5)=+0  0-gap at walls=0.393  min pi-gap on path=0.047
+w=0.931 (4.74 pi/16)  C(+0.5)=-1 C(-0.5)=-0  0-gap at walls=0.500  min pi-gap on path=0.082
+w=0.965 (4.91 pi/16)  C(+0.5)=-1 C(-0.5)=+0  0-gap at walls=0.500  min pi-gap on path=0.218
+w=0.999 (5.09 pi/16)  C(+0.5)=-1 C(-0.5)=+0  0-gap at walls=0.500  min pi-gap on path=0.353
+w=1.033 (5.26 pi/16)  C(+0.5)=-1 C(-0.5)=+0  0-gap at walls=0.500  min pi-gap on path=0.489
+w=1.066 (5.43 pi/16)  C(+0.5)=-1 C(-0.5)=+0  0-gap at walls=0.500  min pi-gap on path=0.393
+w=1.100 (5.60 pi/16)  C(+0.5)=-1 C(-0.5)=+0  0-gap at walls=0.500  min pi-gap on path=0.122
+w=1.134 (5.78 pi/16)  C(+0.5)=-1 C(-0.5)=+1  0-gap at walls=0.500  min pi-gap on path=0.049
+w=1.168 (5.95 pi/16)  C(+0.5)=-1 C(-0.5)=+1  0-gap at walls=0.500  min pi-gap on path=0.020

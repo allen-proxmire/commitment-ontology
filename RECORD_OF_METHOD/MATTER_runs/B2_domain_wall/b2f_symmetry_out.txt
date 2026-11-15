@@ -1,0 +1,4 @@
+half-ring shift copy   v1=1.078887 v2=1.089447 diff=1.1e-02
+mirror s->2L-1-s       v1=1.089098 v2=1.070353 diff=1.9e-02
+mirror about each wall v1=1.075539 v2=1.075539 diff=2.2e-14
+reflect s->L-1-s       v1=1.056491 v2=1.056491 diff=5.3e-15
