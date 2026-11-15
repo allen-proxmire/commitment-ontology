@@ -1,0 +1,9 @@
+split factor f_max = 0.08333
+--- r = 1.0: speed excess s = r m l / 2;  extra species masses 2r, 4r, 6r (flow units)
+  axis: c2 = -0.1250 (numeric -0.1250); photon splitting (s absorbed) C = 3.46; Crab bound (s kept) l < 1.89e-32 m; no Crab bound (s absorbed)
+  face: c2 = +0.1250 (numeric +0.1249); Crab bound (s kept) l < 1.57e-32 m; Crab bound (s absorbed) l < 3.78e-32 m
+  body: c2 = +0.2083 (numeric +0.2083); Crab bound (s kept) l < 1.44e-32 m; Crab bound (s absorbed) l < 2.93e-32 m
+--- r = 0.5: speed excess s = r m l / 2;  extra species masses 2r, 4r, 6r (flow units)
+  axis: c2 = -0.4062 (numeric -0.4062); photon splitting (s absorbed) C = 2.58; Crab bound (s kept) l < 3.78e-32 m; no Crab bound (s absorbed)
+  face: c2 = -0.1562 (numeric -0.1562); photon splitting (s absorbed) C = 3.28; Crab bound (s kept) l < 3.78e-32 m; no Crab bound (s absorbed)
+  body: c2 = -0.0729 (numeric -0.0729); photon splitting (s absorbed) C = 3.96; Crab bound (s kept) l < 3.78e-32 m; no Crab bound (s absorbed)
