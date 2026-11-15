@@ -10,7 +10,7 @@ def build(Lx,m,r,N,D):
 def packet(Lx,m,r,sig,k0=0.0):
     ks=2*np.pi*np.fft.fftfreq(Lx); ph=np.zeros((Lx,2),complex)
     for i,k in enumerate(ks):
-        kk=(k+np.pi)%(2*np.pi)-np.pi; amp=np.exp(-((kk-k0)*sig)**2/2)
+        dk=((k-k0)+np.pi)%(2*np.pi)-np.pi; amp=np.exp(-(dk*sig)**2/2)
         if amp<1e-12: continue
         h=np.sin(k)*sx+(r*(1-np.cos(k))+m)*sz; e,v=np.linalg.eigh(h); u=v[:,1]; u=u*np.exp(-1j*np.angle(u[0])) if abs(u[0])>1e-12 else u; ph[i]=amp*u   # smooth gauge
     p=np.fft.ifft(ph,axis=0); p=np.roll(p,Lx//2,axis=0); return (p/np.linalg.norm(p)).reshape(-1)
