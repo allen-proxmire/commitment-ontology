@@ -1,0 +1,5 @@
+none: <k_x>/k_y = +1.38778e-17
+clock: <k_x>/k_y = -1.87715e-03
+full: <k_x>/k_y = -3.75615e-03
+deflection: clock -1.87715e-03 (rays -1.40422e-03, +0.3368); full -3.75615e-03 (rays -2.79436e-03, +0.3442); ratio 2.0010
+F5 FAIL

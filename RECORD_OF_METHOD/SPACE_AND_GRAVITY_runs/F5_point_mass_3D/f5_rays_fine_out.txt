@@ -1,0 +1,2 @@
+clock: centre ray -6.26595e-03; position-averaged -6.17257e-03; momentum factor 0.0845; packet average -5.21636e-04
+full : centre ray -1.25598e-02; position-averaged -1.23745e-02; momentum factor 0.0798; packet average -9.88049e-04

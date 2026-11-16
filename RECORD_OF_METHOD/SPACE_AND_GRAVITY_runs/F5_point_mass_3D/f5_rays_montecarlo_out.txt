@@ -1,0 +1,2 @@
+clock: packet-averaged deflection (dk_x/k_y) = -1.74022e-03 ± 2.2e-04
+full : packet-averaged deflection (dk_x/k_y) = -3.48329e-03 ± 4.4e-04

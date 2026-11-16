@@ -1,0 +1,2 @@
+clock: packet-averaged deflection (dk_x/k_y) = -1.40422e-03 (Gauss-Hermite, 625 rays); centre ray -6.26595e-03
+full : packet-averaged deflection (dk_x/k_y) = -2.79436e-03 (Gauss-Hermite, 625 rays); centre ray -1.25598e-02
