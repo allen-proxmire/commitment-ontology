@@ -1,165 +1,129 @@
-# The Commitment Ontology, in plain language.
+# The Commitment Ontology, in plain language
 
-An ontology with two primitives, possibility and commitment, and what follows from them: gravity, and, largely by identification with known constructions, quantum mechanics up to 1930 for a fixed number of particles, with pair creation and annihilation by identification (candidate). It is incomplete, and says where.
+## The idea
 
-The results are in [`SPACE_AND_GRAVITY.md`](SPACE_AND_GRAVITY.md), [`MATTER.md`](MATTER.md) and [`NUCLEUS.md`](NUCLEUS.md); the rules as equations, with their grades, in [`TECHNICAL_APPENDIX.md`](TECHNICAL_APPENDIX.md); what is open in [`OPEN_DIRECTIONS.md`](OPEN_DIRECTIONS.md); everything tried and dropped in [`RECORD_OF_METHOD/`](RECORD_OF_METHOD/).
+Time is a count of things that have happened. Not a river, not a dimension: a count. Something happens, and it cannot be undone. That is one tick. Matter is something that keeps happening. Where nothing happens, there is no time. Start from this and ask what physics has to look like.
 
-The method: observe that things happen and that time goes one way; take the two primitives this says exist; infer the qualities they need to act at all, and add those that data or a known result demands (P for possibility, C for commitment); climb from those toward what is observed. Where it reproduces known physics it says so. It uses theorems (Wald and Boulanger–Damour–Gualtieri–Henneaux, Meyer, Clifford, Bialynicki-Birula, Goyal–Knuth–Skilling) as any physics does, and the honest question at each is whether the primitives force the theorem's inputs or merely allow them.
+CO starts from two things. Picture a network of places, like the points of a grid (the *lattice*). **Possibility** is what could happen: it sits at places and moves between places that are related. A **commitment** is something actually happening: an event that takes in some possibility and cannot be undone. Everything else is built from these two.
 
-## The idea in one paragraph.
+Relativity has no single "now" for the whole universe, and quantum mechanics has no event, only chances. CO takes events as basic and adds no universal now: an event's now is everything that could have reached it.
 
-Time is a count of things that have happened. Not a river, not a dimension: a count. Something happens, and it cannot be undone. That is one tick. Matter is something that keeps happening, and is ticking. Where nothing happens, there is no time. Start from this and ask what physics has to look like.
+## The rules, in brief
 
-GR has no global now; QM has no event. CO takes both as primitives. A commitment's now is its past light cone, as relativity has it; nothing is added. When a contact counts as an event is not yet answered.
+Possibility (the P rules):
+- It has no size scale of its own, so places compare their neighbours by ratio. Each hop carries one quantum, ħ (Planck's constant, the smallest unit of action).
+- A place can hold only so much free possibility. Overfilled, it commits on its own.
+- What an event takes in is given back when it finishes, except a small share kept as record.
+- Possibility flows toward wherever more is being taken in.
+- Possibility on the move keeps its direction until an event turns it.
+- Possibility on the move is not free; what it uses becomes record.
+- Space is just who passes possibility to whom. Sliding places around, relabelling them, or resetting a place's clock costs nothing: there is no backdrop.
+- When two routes bring possibility to one place, they combine the way waves do.
 
-## Two things exist.
+Commitment (the C rules):
+- Matter is an event that, on finishing, takes in the free possibility next to it for its next round. It stops when none is near.
+- Each round takes in one quantum, ħ. How often the rounds come due is the mass.
+- Each round keeps a small share of its quantum, δħ (δ is a small number of CO's own), as record. The record only grows: that is the arrow of time.
+- At the beginning, every place was overfilled and everything committed at once.
+- A measurement is an event taking in a passing quantum through a matching channel; once the chain of contacts reaches N quanta, it cannot be undone.
 
-**Possibility** is the stuff of the universe. It sits at places and moves between places that are related. It is never made or lost in passing; what a draw takes from it becomes record, which is no longer possibility; new places are born with their share.
-- P1, *scaleless:* the substrate has no scale of its own, so a hop compares neighbours by ratio. Each hop moves one quantum, ħ.
-- P2, *capacity:* a place holds at most P_max of free possibility. Over capacity, it commits.
-- P3, *hold-and-release:* what a commitment engages is released when it completes, less a small share kept as record. Free possibility is P_free = P(1 − h), h the fraction engaged.
-- P4, *toward engagement:* on each relation, possibility flows toward the end that is engaging more. A rule about one link; it needs no "at the same time."
-- P5, *inertia:* possibility in transit keeps its direction until a commitment redirects it.
-- P6, *transit draws:* possibility in transit is not free. A closed whole draws its turning once and its travel twice; light draws twice its energy. Every draw becomes record and puts the places around it out of step.
-- P7, *relations:* space is who passes possibility to whom. Relations carry direction: a one-way part (passing can be a little slower one way) and a which-way phase. Places carry size: how much of their possibility is held, and how stretched they are. The squares between relations carry twist (shear). Sliding or relabelling places, or resetting a place's clock, costs nothing: there is no backdrop, in space or in time.
-- P8, *meeting:* when two routes bring possibility to one place, the amounts combine as |√p₁e^{iθ₁} + √p₂e^{iθ₂}|².
+The full list, with equations and grades, is in [`TECHNICAL_APPENDIX.md`](TECHNICAL_APPENDIX.md).
 
-**Commitment** is the act: one irreversible update to possibility, at a place.
-- C1, *renewal:* a pattern's commitment, on completing, engages free possibility next to it into its next commitment and releases what it held. It halts when none is near. Matter is a commitment that keeps being fed.
-- C2, *the clock:* a commitment repeats at (mc²/ħ)(1 − h): less free possibility, slower repeats. This follows from C1 and C4 under the free-share rule.
-- C3, *retention:* each repeat keeps δħ as record. The record only grows: the arrow of time.
-- C4, *one quantum:* every commitment engages ħ. Mass is how often commitment falls due, ω = mc²/ħ.
-- C5, *rate:* commitments happen at a rate, and a pattern in transit carries where it is in its cycle, its phase.
-- C6, *the flip:* a commitment turns a pattern's internal state without moving it.
-- C7, *the beginning:* with all the first possibility free in few places, every place is over capacity and commits, none before another. Only those first commitments start patterns out of over-capacity; a commitment the spreading forces later happens once and leaves record. After that, patterns start only in pairs of opposite sign, made from light, so the net count the beginning set is kept.
-- C8, *measurement:* a commitment may take in a quantum that is passing through, if it has a matching final state (a channel); that resolves the pattern the quantum belonged to.
+## What follows
 
-That is the whole inventory.
-
-## What follows.
-
-**Matter** is a commitment that keeps getting fed. Starve it and it stops; what is left is a record. Matter is not a kind of thing; it is a commitment's condition.
-
-**Time** is matter's count. There is no clock of the world, only counts, compared as ratios:
+**Time** is matter's count. There is no clock of the world, only counts, compared:
 
 $$\frac{\text{time at } A}{\text{time at } B}=\frac{N_A}{N_B}.$$
 
-**Mass** is how often the upkeep falls due. Every repeat engages ħ, so a thing of mass m repeats at
+**Mass** is how often the rounds come due. Each round takes one quantum, so a thing of mass m ticks at
 
 $$\omega=\frac{mc^2}{\hbar},$$
 
-the Compton frequency physics already knew.
+the frequency physics already gives every particle.
 
-**Record** is what a commitment leaves behind: each repeat keeps δħ. The record only grows; the count goes up and the free stock is drawn down, one process.
-
-**Pattern** is possibility in transit: light, and matter between its repeats.
-
-**The vacuum** is possibility with no commitment: no count, so no time; no repeat, so no scale. A place commits on its own only if it is over capacity, and the vacuum today is under.
+**The vacuum** is possibility with nothing happening: no count, so no time.
 
 ## Gravity
 
-**Why clocks slow.** Near matter a larger fraction h of the local possibility is engaged, so a clock has less to repeat on:
+**Why clocks run slow near matter.** Near matter, more of the local possibility is already taken in (call the fraction h), so a clock has less to tick on:
 
 $$\text{rate}=\frac{mc^2}{\hbar}\,(1-h).$$
 
-Two clocks compare as (1 − h_A)/(1 − h_B), the same for every kind of clock: gravitational redshift. The ticks come regularly, not by chance; chance ticks would make neighbouring atoms drift out of step, and strontium clocks show they do not.
+Every kind of clock slows by the same factor. That is gravitational redshift.
 
-**Why there is a field.** Each repeat keeps a crumb as record, so matter is a steady sink, and possibility flows in by comparing neighbours by ratio. In the static case
+**Why there is a pull.** Each tick keeps a crumb as record, so matter is a steady drain, and possibility flows in from around it. In the static case
 
 $$\nabla^2\ln P_{\text{free}}=\sigma\,\delta(\mathbf r)\quad\Rightarrow\quad \frac{P_{\text{free}}}{P_\infty}=e^{-U},\qquad U=\frac{GM}{c^2r}.$$
 
-The first-order part is Newton's 1/r; the second-order part gives Mercury's precession, which picked the hop rule. That inflow is far too slow to build or carry a field in time, so the field is carried by the network's places, relations and squares: each draw puts the places around it out of step, against a stiffness of one quantum per relation.
+The first part is Newton's 1/r. The next part bears on Mercury's orbit, and Mercury's measured orbit picks one of two ways to write the rule (a number fixed by data, β = 1). The inflow alone is far too slow to carry a changing pull; the network's places and links carry it.
 
-**Why things fall.** Ticks are slower where h is higher, so a matter wave turns toward matter, as light turns toward the slow side of a lens:
+**Why things fall.** Ticks are slower where h is higher, so a moving wave of matter turns toward matter, as light turns toward the thick side of a lens:
 
 $$\mathbf g=c^2\nabla h,$$
 
-Newton's acceleration, independent of mass. Free fall is inertia plus refraction.
+the same for every mass. Falling is just moving straight in a medium that slows clocks.
 
-**Light.** The same h that slows ticks lengthens routes, so light bends by
+**Light.** The same h lengthens routes, so light passing the Sun bends by
 
 $$\delta\varphi=\frac{4GM}{c^2b},$$
 
-twice the Newtonian value, Einstein's, with the Shapiro delay alongside, once γ = 1 (fixed by Cassini's time delay).
+Einstein's value, twice Newton's. This needs one number fixed by measurement: γ = 1, from the delay of radio signals from the Cassini spacecraft passing the Sun.
 
-**The exterior and waves.** The network's parts can be out of step with their neighbours. Because moving places costs nothing, and resetting a clock costs nothing too (time is each commitment's own count, read only by ratio), the cost of that can depend only on how the parts fit together. For small ripples this forces Einstein's cost, the same in every direction even though the lattice is a cube (run G1). Beyond small ripples: if moving places and resetting clocks stay free at every order, and the cost stays local with two derivatives and treats all directions and motions alike, Einstein's cost is the only consistent continuation (Wald; Boulanger, Damour, Gualtieri, Henneaux), at long wavelength, reading the geometry as clock rates and stretch:
+**Waves and the full theory.** Because moving places and resetting clocks cost nothing, the only allowed cost for the network being out of step is Einstein's, at least for small ripples. Assuming the same holds for large ones, plus a few standard assumptions (the cost is local, smooth, and treats all motions alike), Einstein's full equations are the only consistent choice (a known theorem does this step). So gravity has waves that stretch space in two ways (two polarizations), and black holes look as Einstein said from outside. This holds in the smooth, long-wavelength picture; on CO's own lattice, beyond small ripples, it is still open.
 
-$$S=\frac{1}{16\pi G}\int (R-2\Lambda)\sqrt{-g}\,d^4x .$$
+**On CO's own lattice.** How gravity enters matter's step is a choice (through the clock, the stretch of the hop, and a drift), still a candidate. With it, simulations in one and two dimensions show free fall at Einstein's rate, light bending twice the simple value, and two bodies attracting only after each one's pull has crossed to the other; in one dimension, a fall straight through a black hole's edge along Einstein's path. Three dimensions and strong fields are still open.
 
-So: tensor waves with two polarizations and Einstein's quadrupole coefficient, and Schwarzschild–de Sitter outside a body (Schwarzschild when Λ is zero). Inside matter and in the radiation era, the source is GR's too, from the travel rule, given the walk on the curved network. The field reaches CO's own step through the clock, the hop's stretch and a directed drift (the shift); chosen, candidate. In one and two dimensions this gives free fall at Einstein's rate up to the lattice's small factor, light bending twice the clock-only value, two patterns attracting only after each one's field has crossed to the other, and a fall through a black hole's horizon on the path of a body dropped from infinity (radial). The shift's gravitomagnetic push, a rotating frame's Coriolis push and light past a point mass matched on the earlier palindromic walk, not rerun on the step. A spinning body's field is untested. At weak field, gravity's full cost in Regge's form (area times deficit at hinges) reduces on CO's lattice to the linear cost. Where CO reaches, it predicts nothing different from GR; its one departure from quantum mechanics with gravity is that gravity's source follows a body's engagements, not its unresolved state.
+**Where CO differs.** CO takes gravity's source to be what a body actually engages, not its undecided quantum state (a choice, still a candidate). So gravity cannot entangle two masses. If experiment shows that it can, CO's gravity is wrong.
 
-**Three dimensions.** In one or two dimensions relations carry no waves; in even dimensions a signal leaves a tail forever; in four or more there are no stable orbits. Three is the only dimension where every rule holds and nothing is added.
+**Three dimensions.** In one or two dimensions there are no gravity waves; in four or more there are no stable orbits; in even dimensions signals leave echoes forever. Three is the only dimension consistent with what is observed. That is a consistency check, not yet a reason.
 
 ## The universe
 
-**The beginning.** All the first possibility free in a few places: every place over capacity, so everything commits at once, none before another. The first repeats spread possibility into new places, each born with a share below capacity, until every place is under capacity and commitment stops. That rapid making of places is an inflation, with its own end. If the first commitments made one choice together, such as matter over antimatter, it would give one sign everywhere, as observed.
+**The beginning.** All the first possibility in a few places: every place overfilled, so everything commits at once. Those events spread possibility into new places until every place is below the limit and the rush stops. That rapid making of places looks like inflation, with its own end. This is a shape only: no numbers yet for how long it lasted or the ripples it left.
 
-**How space got its shape.** At first every place is related to every other. A relation lasts only while possibility passes through it, so each place keeps as many as it can feed; passing quanta pair the relations into lines; the cost of mismatch pulls the whole toward flat. Small runs support each step; a clean lattice is not yet reached.
+**Expansion.** New places appear in empty regions at a steady chance per place. That steady chance is the cosmological constant, Λ, which drives the accelerating expansion. Its value comes from data. Newton's law on a growing shell gives the expansion rate H of the matter and radiation eras (Friedmann's equation):
 
-**Expansion.** Newton's law on a shell gives Friedmann's equation,
+$$H^2=\frac{8\pi G}{3}\rho-\frac{k}{a^2}+\frac{\Lambda c^2}{3}.$$
 
-$$H^2=\frac{8\pi G}{3}\rho-\frac{k}{a^2}+\frac{\Lambda c^2}{3},$$
+## Quantum mechanics
 
-for the matter and radiation eras. Space grows by births: in the voids a new place appears with its share, leaving no record, and carries a passing pattern smoothly (needed: a newborn place left empty would scramble the light of distant sources). Λ reads as a constant birth chance per place; its value is an input.
+**Waves.** Matter ticks, so it has a phase: where it is in its cycle. When two routes meet, the only consistent way to combine them is quantum mechanics' rule:
 
-## The quantum sector
+$$p=\left|\sqrt{p_1}\,e^{i\theta_1}+\sqrt{p_2}\,e^{i\theta_2}\right|^2 .$$
 
-**Phase.** Matter repeats, so it has a phase, where it is in its cycle, and a pattern in transit carries it.
+**Chances.** The chance of an event somewhere is the possibility there. That is the Born rule, taken as a definition, not derived.
 
-**When routes meet.** Two routes bring amounts p₁ and p₂ with a phase difference. Conservation, scalelessness and consistency leave one rule:
+**The electron.** A moving pattern on a network with no backdrop needs four components, not one number per place. Matter steps on the lattice by a short flow that treats every direction of the cube alike (α and β are Dirac's matrices, k the wavenumber in each direction, τ_f the flow per tick, m the mass):
 
-$$p=\left|\sqrt{p_1}\,e^{i\theta_1}+\sqrt{p_2}\,e^{i\theta_2}\right|^2 ,$$
+$$U=e^{-i\tau_f H},\quad H=\sum_j \alpha_j\sin k_j+\beta\Big(m+r\sum_j(1-\cos k_j)\Big),\quad r=\tfrac12 .$$
 
-quantum mechanics' amplitude rule.
+At long wavelengths this is Dirac's equation: the electron, with spin ½. A lattice also carries extra copies of each particle. The small extra term (the r term) makes them enormously heavy, at the hop scale. They must not be particles: as particles they would fall at about 0.6 of matter's rate. Treating their weight as not-matter is a choice.
 
-**The Born rule.** The thing that commits is identified with the thing conserved in passing, so the chance of a commitment somewhere is the possibility there. An identification, not a derivation.
+**The moving clock.** A pattern's hops are shared between ticking and travelling, so a moving clock ticks slower: time dilation.
 
-**The internal state.** A moving pattern on a network with no backdrop cannot be one number per place (Meyer). With three directions and a mass it must carry four components: Dirac's α and β, whose labels are chirality and spin.
+**Charge and light.** A relation also carries which way possibility passed. Its field equations are Maxwell's. Charge is a sign a pattern carries; the antiparticle is the same pattern with the sign reversed. The strength of the force, 1/137, comes from data.
 
-**Mass and the hop.** Each commitment turns the internal state, at a rate set by the mass, mc²/ħ: Feynman's checkerboard, in the continuum. (On the earlier palindromic walk the heaviest pattern flipped every hop, ℓ = ħ/(m_max c); the flow step below does not carry that relation.)
+**Atoms.** With two patterns, the standard two-body constructions give helium, positronium and hydrogen's 21 cm line.
 
-**The moving clock.** A pattern's velocity is always ±c in each direction (the velocity operator); its commitments are its turns. Travelling, it turns less often, so it ticks at ω/γ: the slowing of a moving clock. Ticking and travelling share one budget of hops.
+**Why electrons don't share.** In three dimensions, swapping two identical patterns twice is a loop that shrinks to nothing, so one swap can only keep the sign (+1) or flip it (−1). Which: one swap can be turned into one pattern making a full turn around the other (an assumption, still a candidate). An electron's state flips sign under a full turn, so two electrons cancel and cannot share a state. Light doesn't flip, so photons pile in.
 
-**The result.** Matter's step is one tick of the lattice Dirac flow with a Wilson term (candidate):
+**No collapse.** A pattern left alone is never resolved, however big. Resolution needs an engagement: a contact whose chain reaches N quanta. N is a constant of CO's own, set only by experiment; present data say N is at least about 50.
 
-$$U=e^{-i\tau_f H},\quad H=\sum_j \alpha_j\sin k_j+\beta\Big(m+r\sum_j(1-\cos k_j)\Big),\quad r=\tfrac12\ \text{(posited)}.$$
-
-Possibility moves only between related places under H; a tick is a finite flow of it, reaching n places with amplitude falling about as τ_fⁿ/n!. Its continuum limit is the Dirac equation (Wilson): the electron's equation with spin ½, by identification with a known construction. The step is symmetric under every rotation and reflection of the cube, so every two-index response (light's permittivity and permeability, the speed tensors) is the same in every direction; the earlier palindromic hop sequence singled out its nesting order.
-
-**One pattern, not eight.** A lattice carries extra copies of the particle at the shortest wavelength (every lattice theory meets this). A small turn inside the hop (the Wilson term) gives them masses 2r, 4r and 6r in units of ħ/(ℓc), at the hop scale. They sit above 10¹⁴ GeV and are not particles (needed). Their weight is mostly the turn inside the hop, which is not a commitment (chosen, candidate), so by CO's definition of mass they are not matter. As particles they would break the equivalence principle: in a field they fall at about 0.6 of matter's rate. With r = 1/2 a massive pattern never outruns light; its speed is capped just below it. LHAASO's 3.7 PeV photon bounds the hop, ℓ ≲ 2.4 × 10⁻³¹ m; the Crab Nebula's synchrotron glow, which needs electrons near that cap, gives ℓ ≲ 3 × 10⁻³² m (candidate, at the standard nebular field).
-
-**Charge.** A relation also carries which way possibility passed: a phase that reverses with direction. With sliding free, its field equations are Maxwell's. Charge is a sign a pattern carries on the relations it uses; that coupling gives the electron's g = 2. The antiparticle is the same pattern with the sign reversed. The strength, 1/137, is from data.
-
-**Resonance.** An atom takes in a light wave only when the wave's beat matches the difference between two of its own beats, and it recoils by the light's momentum. Both follow from the walk and the which-way phase.
-
-**Two patterns.** What a relation carries is one number for each arrangement of what passes. With that, two Dirac walks give helium, positronium and hydrogen's 21 cm line, by identification with standard two-body quantum mechanics.
-
-**Statistics.** Electrons refuse to share a state; light piles into one. Two identical patterns can reach the same arrangement two ways, directly or swapped. In three dimensions, if the network adds no stray twist of its own, swapping twice is a loop that shrinks to nothing, so the swap can only add (+1) or cancel (−1). Which one: a swap can be undone into one pattern turning a full turn against the other, and the walk's state is a spinor, which a full turn flips. So spin-½ patterns cancel and refuse to share; whole-spin ones add and pile in. What two patterns do on the same possibility beyond the sign is open.
-
-**Entanglement.** An entangled pair is one pattern sampled twice: one stock, cut once at each end, each end finding it as it stands in its own past. The joint law is taken from quantum mechanics.
-
-**No collapse.** A renewal draws only free possibility, which has no amplitude, and leaves a dent drawn independently from |a|², so it records nothing about where the pattern went. A pattern left alone is never resolved, however massive. Resolution needs an engagement, by another pattern or, for a body of many patterns, between its own parts: a contact into a broad final state whose chain reaches N quanta (C8, candidate); N is a constant of CO's own (posited), not derived, set only by experiment.
-
-**What the quantum sector does not say.** The particle masses; the value of 1/137; colour, now a candidate as a split into three parts alike in colour (C9), with the colour field's cost and coupling posited and the quarks' charges waiting on a kind label ([`NUCLEUS.md`](NUCLEUS.md)).
-
-## What goes in, what comes out
-
-**In:** possibility and commitment; the qualities P1–P8, C1–C9; four constants of the theory's own, δ, P_max, Λ and N, and a birth share; tunings, accepted for now (the loop counter-terms that keep species' speeds equal, one per species and handedness, the same in every direction; a mass counter-term for each fermion, removable (candidate; shown in one space dimension, without interactions) by binding matter to a wall in a short inner direction; and an improved lattice form for every field between places, its short-wavelength bending posited zero inside the window the highest-energy cosmic rays need); matter's step as a one-tick Wilson–Dirac flow (candidate) with r = 1/2 (posited); G, c, ħ, 1/137 and the particle masses as measured; four exclusions from experiment and observation (a sequential hop order on the earlier walk, a scalar gravitational wave, a one-way hop, a newborn place left empty); from quantum mechanics, the Born rule as an identification, Lüders conditioning, the joint law of an entangled pair, and an interaction's coupling and pointer basis.
-
-**Out:** one-way time; universal redshift and free fall; Newton's law; light bending and the Shapiro delay (γ fixed by Cassini) and Mercury's precession (β, a fit); the clock rate from the commitment cycle; tensor waves (forced at linear order by moving places and resetting clocks being free) and GR's exterior (given no backdrop at every order and the assumptions above); GR's source inside matter; three dimensions as a consistency condition (shape: its conditions, stable orbits and clean signals, are observed ones); an inflation-like epoch with its own exit (shape: no expansion count or spectrum); Friedmann's matter and radiation eras; the amplitude rule; Dirac's equation with spin ½; Maxwell's equations; two-body binding (helium, positronium, 21 cm) by identification; the exchange sign for two patterns, by identification; resonance and recoil.
-
-**Not yet:** the particle masses; nuclear stress; the values of δ, P_max, Λ, N and 1/137; colour's charges; the nonlinear cost on the lattice; a tested prediction that differs from established physics (gravity sourced by engagements, chosen, candidate, entangles nothing, unlike quantum gravity, and is untested; photons splitting into electron pairs above about 10 PeV, a candidate test, untested).
-
-**How it could fail:** two masses becoming entangled through gravity alone (Bose et al. 2017; Marletto–Vedral 2017); any confirmed departure from GR or the Dirac equation, as for them; a cost of mismatch that, derived, is not Einstein's.
+**The nucleus.** "Colour" is the name physics gives the strong force's charge. In CO it is a split of a pattern into three parts alike (a choice: odd is forced, three is the least). With that, and the colour field's strength put in by hand as in standard physics, confinement and the proton's mass follow by matching to lattice QCD (the standard computer simulations of the strong force). The quark masses and charges are not supplied.
 
 ## Where it stands
 
-**What it does.** From two primitives and a short list of qualities, it reaches the four classical tests of gravity (light bending and the Shapiro delay through γ, Mercury's through β, each fixed by data), tensor waves, an inflation-like start, the expansion eras and three dimensions as a consistency condition, and Dirac's electron with its charge.
+**What it does.** From two starting things and a short list of rules, it reaches the classic tests of gravity (two numbers fixed by data), gravity waves, an inflation-like start, the expansion eras, three dimensions, the electron with its charge and spin, and, by matching to standard constructions, atoms and the nucleus. It has no tested prediction that differs from established physics, and no number matched where the standard theories are silent.
 
-**Where a fair critic pushes.** Its results come through standard theorems, and its own contribution is the qualities that supply their inputs; where a quality is a choice, the result is a reconstruction, not a derivation. Its two-body numbers are by identification. Its runs are small. The lattice matter lives on picks a rest frame, and with loops nothing in the rules stops particles getting slightly different top speeds unless their bare speeds are tuned, to 1 part in 10¹⁷ of the loop-sized shift: accepted for now as tuning (chosen), and why CO stands at tree level. No number has been matched where the standard theories are silent.
+**What it borrows.** Many results come through known theorems and constructions; where a rule was a choice, the result is a reconstruction, not a derivation. The masses, 1/137 and the weak force are not explained.
 
-**Relatives.** Causal sets (events, with a random sprinkling to keep Lorentz invariance); energetic causal sets (Cortês and Smolin: events creating events, time real); lattice fermions (Wilson: Dirac from a lattice Hamiltonian; CO's matter step is identified with this) and quantum walks (Dirac from local rules); event-based quantum theory (Haag, Blanchard–Jadczyk); quantum graphity (space as a cooled graph); loop quantum gravity (background independence).
+**Its weakest point.** The lattice picks a rest frame. Once quantum corrections come in, different particles could get slightly different top speeds unless those speeds are set equal by hand. CO accepts that tuning for now, so it stands at tree level: the simplest level, before those quantum corrections.
 
-The space-and-gravity sector stops where the two primitives stop forcing; the matter sector stops where its one addition stops forcing. What remains, the masses and the field's strength, each needs something new; colour has a candidate (C9, a split into three parts alike in colour), with its charges still open and confinement and the hadron spectrum by identification with lattice QCD; that is the nucleus, and CO stops there.
+**How it could be tested.** Three ways, each in [`ONE_PAGE.md`](ONE_PAGE.md) and [`TESTS_FOR_EXPERIMENTERS/`](TESTS_FOR_EXPERIMENTERS/):
+- Very high-energy photons should split into electron pairs above a ceiling: roughly 5–9 PeV (peta-electronvolts) at the present bound, higher if the hop is smaller, and the same for every source in a given direction. The highest seen so far is 3.7 PeV.
+- Gravity should never entangle two masses.
+- The number N should be the same in every system.
+
+**Relatives.** Causal sets; energetic causal sets (Cortês and Smolin); lattice fermions and quantum walks; event-based quantum theory (Haag, Blanchard–Jadczyk); quantum graphity; loop quantum gravity.
 
 Independent, speculative, not peer-reviewed.
