@@ -1,0 +1,28 @@
+# A proposed measurement: does the breadth of an irreversible echo stop growing?
+
+*For groups running many-body spin echoes (solid-state NMR, Rydberg arrays, qubit lattices). One page; detail in [`RECORD_OF_METHOD/MATTER_notes/N_signature_note.md`](../RECORD_OF_METHOD/MATTER_notes/N_signature_note.md).*
+
+**The question.** When a local disturbance spreads through an interacting spin system and the dynamics is then reversed, the echo is eventually lost. At that moment the disturbance has spread over some breadth K*, counted in quanta handed on (K from multiple-quantum spin counting; quanta ≈ K/2 for a high-temperature spin system). How does K* behave as the unreversed part of the evolution is made smaller?
+
+**Two answers.**
+- *Standard quantum mechanics:* nothing in the theory caps K*. Reversal fails only because part of the evolution is left unreversed (Σ: imperfect pulses, truncated average-Hamiltonian terms, field inhomogeneity, coupling to the environment, readout error). Once Σ is small enough against the coupling J, below the crossover where the echo's decay depends on Σ again (Sánchez et al., PRA 105, 052232 (2022), arXiv:2112.00607; its shift with system size, Zangara et al., PRA 91, 042112 (2015)), K* keeps growing as Σ/J falls, up to the size of the system. Above that crossover the decay looks perturbation-independent (Sánchez et al., PRL 124, 030601 (2020)) and K* is set by each system's dynamics.
+- *The Commitment Ontology* (a proposed framework in which time is a count of irreversible events): a spreading disturbance becomes irreversible once the chain of handed-on quanta reaches a fixed number N, the same in every system. This presumes each hand-on does not oscillate back (local polarization injected at one spin decays without returning), which holds in dense three-dimensional dipolar solids and fails in few-spin clusters. K* then stops growing at N, however small Σ/J is made, and the ceiling is the same in different crystals, Hamiltonians and platforms, counted in quanta.
+
+**What a run must do.**
+1. Spread the disturbance by the system's own energy-conserving interactions (flip-flops, exchange, excitation hopping). Reversing or scaling the Hamiltonian is fine; a drive that supplies the quanta at each step is not. The double-quantum Hamiltonian of multiple-quantum NMR does not qualify: it flips pairs of like spins, with the Zeeman energy made up by the pulse train. (Clusters of about 10⁴ spins have been reversed under it, so this criterion carries weight. It comes from the framework; standard quantum mechanics draws no such line.)
+2. Measure breadth before reversal, in quanta (multiple-quantum or out-of-time-order spin counting; for a high-temperature spin system about half the correlated spins).
+3. Characterise every term in Σ. Some scale with J (higher-order average-Hamiltonian terms grow as J²τ), so raising J can leave Σ/J unchanged and imitate a ceiling.
+4. Report breadth, not time: how fast breadth grows depends on the Hamiltonian (exponential under the double-quantum Hamiltonian, diffusive under the secular one; Sánchez et al. 2022), so the time at echo loss cannot be compared across Hamiltonians or systems.
+
+**Where things stand.** Under the secular dipolar Hamiltonian (zz plus flip-flop terms) in adamantane, information spread over about 10² correlated spins has been recovered (Sánchez et al. 2022, arXiv:2112.00607). So N, if it exists, is at least about 50.
+
+**The cheapest run.** Sánchez et al. (arXiv:2112.00607, adamantane) already reverse the secular dipolar Hamiltonian scaled by a factor k (about 0.05–0.45 in one scheme, 0.1–0.9 in another, set by off-resonance irradiation), with the unreversed part roughly constant, so Σ/J is nominally ∝ 1/k (the real range is set by measuring Σ at each k). Add spin counting at the moment the echo falls to a fixed fraction, at each k, starting from a transverse state and encoding about an axis perpendicular to the scaled Hamiltonian's own axis (the secular Hamiltonian conserves total z, so z-encoding shows no growth; Wei, Ramanathan and Cappellaro, PRL 120, 070501 (2018)). A flat result in this regime separates nothing on its own: in the perturbation-independent regime the echo decays at a rate ∝ kJ while clusters grow at a rate ∝ kJ, so standard quantum mechanics also gives a flat K*. What separates the two answers is:
+
+| check | standard quantum mechanics | Commitment Ontology |
+|---|---|---|
+| Σ/J pushed below the crossover where the decay depends on Σ again (smaller or more isolated systems; only those with more than N spins can show N) | K* grows | K* stops at N |
+| the ceiling compared across crystals, Hamiltonians and platforms, in quanta | it shifts with geometry and coupling topology | the same N everywhere |
+
+**Other platforms for the second row.** Rydberg gases with flip-flop dipolar exchange and sign reversal by state transfer (Geier et al., Phys. Rev. Research 6, 033197 (2024)) qualify, and need spin counting at echo loss. Superconducting-qubit lattices with natural photon hopping (Braumüller et al., Nature Phys. 18, 172 (2022)) qualify, with breadths of a few quanta so far.
+
+**What a result would mean.** A K* that keeps growing as Σ/J falls, beyond about 10² spins under a qualifying Hamiltonian, raises the lower bound on N toward the largest breadth reached; a K* that follows standard quantum mechanics up to the size of the system leaves no room for N below that size. A K* that stops at the same breadth in different systems, with Σ fully characterised, would be a quantity standard quantum mechanics does not have.

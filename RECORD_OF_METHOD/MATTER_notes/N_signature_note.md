@@ -43,6 +43,6 @@ Below N the spreading is unitary and can be reversed; at N it cannot. N is a con
 - *Superconducting-qubit lattices* with natural photon hopping (Braumüller et al., Nature Phys. 18, 172 (2022)): qualifies; breadth a few quanta so far.
 So the universality row of the test cannot yet be filled from the literature; adamantane under the secular Hamiltonian (about 10² spins) is the only qualifying number.
 
-**Time is a weak signature.** Breadth grows by multiplication, so the time to reach N grows only as ln N: breadths of 50 and 10⁶ are reached within a factor of about 3.5 in time. Measure breadth, not time.
+**Time is a weak signature.** How fast breadth grows depends on the Hamiltonian (exponential under the double-quantum Hamiltonian, diffusive under the secular one; Sánchez et al., arXiv:2112.00607), so the time at echo loss cannot be compared across Hamiltonians or systems. Measure breadth, not time. (Corrected 16 Nov 2026: an earlier version assumed multiplicative growth, time ∝ ln K, which holds only under the double-quantum Hamiltonian.)
 
 Record: [`MATTER_record.md`](../MATTER_record.md), entries on the stopping number.
