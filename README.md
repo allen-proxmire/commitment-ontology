@@ -21,9 +21,9 @@ GR has no global now; QM has no event. CO takes both as primitives, which places
 - *Not supplied:* the masses, 1/137, the weak interaction, three generations.
 
 **How it could fail.**
-- *Photons that split* (candidate test). Above E_th = C√(mₑc²·ħc/ℓ), C = 2.9–5.1 by direction, photons should split into electron pairs, with one ceiling per direction whatever the source's distance. Highest seen: 3.7 PeV (LHAASO). A confirmed photon above about 2.1 × 10¹⁷ eV would exclude CO's form of light. Conditional on a composite's speed excess following its parts (an imported result).
 - *Gravity that entangles.* CO's gravity follows what a body engages, not its unresolved state (chosen, candidate), so two masses entangled through gravity alone would falsify it.
 - *A stopping number that isn't universal.* Measurement completes at N quanta, the same N in every system. Present data: N ≳ 50 ([the test](TESTS_FOR_EXPERIMENTERS/stopping_number_echo.md)).
+- *Photons that split* (candidate test; a side effect of one choice, keeping a lattice with a real frame, not part of CO's core). Above E_th = C√(mₑc²·ħc/ℓ), C = 2.9–5.1 by direction, photons should split into electron pairs, with one ceiling per direction whatever the source's distance. Highest seen: 3.7 PeV (LHAASO). A confirmed photon above about 2.1 × 10¹⁷ eV would exclude CO's form of light. Conditional on a composite's speed excess following its parts (an imported result).
 
 Notes for the experiments that could check these: [`TESTS_FOR_EXPERIMENTERS/`](TESTS_FOR_EXPERIMENTERS/).
 

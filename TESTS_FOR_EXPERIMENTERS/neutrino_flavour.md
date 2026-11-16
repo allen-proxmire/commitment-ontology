@@ -10,7 +10,7 @@
 
 $$\Delta E=\frac{\Delta m^2c^4}{2E}+E\,\frac{r\,(m_3-m_2)\,c^2}{2E_\ell},\qquad E_\ell=\frac{\hbar c}{\ell}.$$
 
-The second term grows with energy, is the same in every direction and at every time of day, is the same for antineutrinos, and acts through the standard mixing angles: an energy-dependent addition to Δm²₃₂, P(ν_μ → ν_τ) = sin²2θ₂₃ sin²(ΔE·L/(2ħc)).
+(This follows from one choice in the framework, keeping a lattice with a real frame; it is not part of the framework's core idea.) The second term grows with energy, is the same in every direction and at every time of day, is the same for antineutrinos, and acts through the standard mixing angles: an energy-dependent addition to Δm²₃₂, P(ν_μ → ν_τ) = sin²2θ₂₃ sin²(ΔE·L/(2ħc)).
 
 **The mark.** Extra ν_μ disappearance for up-going neutrinos, rising with energy and path length as E·L, with the standard mixing's shape. In the dimension-four language of Lorentz-violation searches it is a real, isotropic μτ coefficient |c_μτ| = r(m₃ − m₂) sin 2θ₂₃/(4E_ℓ), its texture tied to the mass matrix.
 

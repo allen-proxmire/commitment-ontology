@@ -120,9 +120,9 @@ At long wavelengths this is Dirac's equation: the electron, with spin ½. A latt
 **Its weakest point.** The lattice picks a rest frame. Once quantum corrections come in, different particles could get slightly different top speeds unless those speeds are set equal by hand. CO keeps that tuning on purpose: the same frame is what makes its photon and neutrino tests possible, and the only known way out would remove the photon test (and, in one form, the neutrino test). So it stands at tree level: the simplest level, before those quantum corrections.
 
 **How it could be tested.** Three ways, each in [`ONE_PAGE.md`](ONE_PAGE.md) and [`TESTS_FOR_EXPERIMENTERS/`](TESTS_FOR_EXPERIMENTERS/):
-- Very high-energy photons should split into electron pairs above a ceiling: roughly 9–16 PeV (peta-electronvolts) at the present candidate bound, higher if the hop is smaller, and the same for every source in a given direction. The highest seen so far is 3.7 PeV.
 - Gravity should never entangle two masses.
 - The number N should be the same in every system.
+- Very high-energy photons should split into electron pairs above a ceiling (a side effect of one choice, keeping a lattice with a real frame, not part of CO's core): roughly 9–16 PeV (peta-electronvolts) at the present candidate bound, higher if the hop is smaller, and the same for every source in a given direction. The highest seen so far is 3.7 PeV.
 
 **Relatives.** Causal sets; energetic causal sets (Cortês and Smolin); lattice fermions and quantum walks; event-based quantum theory (Haag, Blanchard–Jadczyk); quantum graphity; loop quantum gravity.
 

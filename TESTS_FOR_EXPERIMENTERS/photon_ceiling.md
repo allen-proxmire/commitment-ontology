@@ -10,7 +10,7 @@
 
 $$E_{\rm th}=C\sqrt{m_ec^2\,\hbar c/\ell},\qquad C=2.9\text{–}5.1$$
 
-by direction against the lattice. Above threshold the decay length is far shorter than any source distance, so a photon could cross kiloparsecs only within about 10⁻²⁰ of threshold.
+by direction against the lattice. (This follows from one choice in the framework, keeping a lattice with a real frame; it is not part of the framework's core idea.) Above threshold the decay length is far shorter than any source distance, so a photon could cross kiloparsecs only within about 10⁻²⁰ of threshold.
 
 **The mark.**
 1. A ceiling common to every source in a direction, near or far (absorption on the microwave background depends on distance).
