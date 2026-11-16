@@ -1,0 +1,18 @@
+n=(1, 0, 0), k=0.001: E3-E2 = 1.012000e-12; standard 1.200e-14 + lattice k r dm/2 1.000000e-12 = 1.012000e-12 (ratio 1.000000)
+n=(1, 0, 0), k=0.01: E3-E2 = 1.000125e-11; standard 1.200e-15 + lattice k r dm/2 1.000000e-11 = 1.000120e-11 (ratio 1.000005)
+n=(1, 0, 0), k=0.03: E3-E2 = 3.000181e-11; standard 4.000e-16 + lattice k r dm/2 3.000000e-11 = 3.000040e-11 (ratio 1.000047)
+n=(1, 1, 0), k=0.001: E3-E2 = 1.012000e-12; standard 1.200e-14 + lattice k r dm/2 1.000000e-12 = 1.012000e-12 (ratio 1.000000)
+n=(1, 1, 0), k=0.01: E3-E2 = 1.000121e-11; standard 1.200e-15 + lattice k r dm/2 1.000000e-11 = 1.000120e-11 (ratio 1.000001)
+n=(1, 1, 0), k=0.03: E3-E2 = 3.000068e-11; standard 4.000e-16 + lattice k r dm/2 3.000000e-11 = 3.000040e-11 (ratio 1.000009)
+n=(1, 1, 1), k=0.001: E3-E2 = 1.012000e-12; standard 1.200e-14 + lattice k r dm/2 1.000000e-12 = 1.012000e-12 (ratio 1.000000)
+n=(1, 1, 1), k=0.01: E3-E2 = 1.000120e-11; standard 1.200e-15 + lattice k r dm/2 1.000000e-11 = 1.000120e-11 (ratio 1.000000)
+n=(1, 1, 1), k=0.03: E3-E2 = 3.000030e-11; standard 4.000e-16 + lattice k r dm/2 3.000000e-11 = 3.000040e-11 (ratio 0.999997)
+l = 2.4e-31 m: E_l = 8.22e+23 eV, c_eff = r dm sin2th23/(4 E_l) = 6.23e-27
+l = 3.2e-32 m: E_l = 6.17e+24 eV, c_eff = r dm sin2th23/(4 E_l) = 8.31e-28
+bound: E_l >= 1.90e+25 eV, l <= 1.04e-32 m; delta >= 3.2e-05
+  dm = 0.027 eV (normal, m1~0.03): l <= 1.58e-32 m
+  dm = 0.05 eV (inverted, lightest~0): l <= 8.52e-33 m
+  dm = 0.0028 eV (quasi-degenerate at KATRIN): l <= 1.52e-31 m
+at the bound the lattice term equals the standard one at E = 1.50e+12 eV
+photon ceiling at that l, C=2.92: 9.1 PeV
+photon ceiling at that l, C=5.1: 15.9 PeV

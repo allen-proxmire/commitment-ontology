@@ -49,14 +49,14 @@
 
 | constant | what it is | what it sets | value |
 |---|---|---|---|
-| δ | the share of each renewal kept as record: every repeat of a commitment keeps δħ, the rest returns to free possibility | gravity's strength, G = δc³ℓ²/(4πħ), so with G measured it fixes the hop length ℓ | δ ≤ 1; δ ≳ 6 × 10⁻⁸ (LHAASO's photon); δ ≳ 3 × 10⁻⁶ (Crab synchrotron cutoff, candidate) |
+| δ | the share of each renewal kept as record: every repeat of a commitment keeps δħ, the rest returns to free possibility | gravity's strength, G = δc³ℓ²/(4πħ), so with G measured it fixes the hop length ℓ | δ ≤ 1; δ ≳ 6 × 10⁻⁸ (LHAASO's photon); δ ≳ 3 × 10⁻⁵ (IceCube's atmospheric neutrinos, candidate) |
 | P_max | capacity: the most free possibility a place can hold; above it the place commits on its own | the beginning (every place over capacity) and how it ends | not given |
 | Λ | the birth chance: new places appear in the voids at a constant chance per place, each with its share | the cosmological constant, the accelerating expansion | from data, about 2 × 10⁻⁵⁷ per place per tick |
 | N | the stopping number: a contact's chain completes a measurement once it reaches N quanta | where measurement ends | set only by experiment; N ≳ 50 |
 
 ## How it could fail
 
-- *Photons that split* (candidate test). Light runs straight while electrons bend slightly at short wavelength, so photons above E_th = C√(mₑc²·ħc/ℓ) split into electron pairs, C = 2.6–5.1 by direction and by what the speed counter-terms do: about 5–9 PeV at the candidate synchrotron bound. The ceiling is the same for every source in a direction, whatever its distance, and varies across the sky by up to 1.75 (1.5 if the counter-terms absorb the excess) in the cube's pattern. A confirmed photon above about 2.1 × 10¹⁷ eV excludes CO's form of light at every allowed hop, whatever the counter-terms do. LHAASO's highest so far: 3.7 PeV. Conditional on a composite's speed excess following its parts (an imported result); light's straight form is itself a tuning.
+- *Photons that split* (candidate test). Light runs straight while electrons bend slightly at short wavelength, so photons above E_th = C√(mₑc²·ħc/ℓ) split into electron pairs, C = 2.9–5.1 by direction: about 9–16 PeV at the candidate neutrino bound, higher if the hop is smaller. The ceiling is the same for every source in a direction, whatever its distance, and varies across the sky by up to 1.75 in the cube's pattern. A confirmed photon above about 2.1 × 10¹⁷ eV excludes CO's form of light at every allowed hop, whatever the counter-terms do. LHAASO's highest so far: 3.7 PeV. Conditional on a composite's speed excess following its parts (an imported result); light's straight form is itself a tuning.
 - *Gravity that entangles.* Gravity's source follows a body's engagements, not its unresolved state (chosen, candidate), so two masses cannot become entangled through gravity alone (Bose et al. 2017; Marletto and Vedral 2017).
 - *A stopping number that isn't universal.* Measurement completes once a contact's chain reaches N quanta (N posited; C8 chosen, candidate). As a many-body echo is reversed more exactly, the number of spins the disturbance has spread over when the echo is lost should stop growing at the same N in every system; quantum mechanics has it keep growing to the system's size. A system-dependent ceiling would falsify it. Present data give N ≳ 50.
 
@@ -64,7 +64,7 @@ Notes for the experiments: [`TESTS_FOR_EXPERIMENTERS/`](TESTS_FOR_EXPERIMENTERS/
 
 ## Bounds and exclusions the data already set
 
-- Hop length ℓ ≲ 2.4 × 10⁻³¹ m, δ ≳ 6 × 10⁻⁸ (LHAASO's 3.7 PeV photon from Cygnus X-3 has not split; needed); candidate ℓ ≲ 3 × 10⁻³² m, δ ≳ 3 × 10⁻⁶ (the Crab synchrotron cutoff at the standard nebular field).
+- Hop length ℓ ≲ 2.4 × 10⁻³¹ m, δ ≳ 6 × 10⁻⁸ (LHAASO's 3.7 PeV photon from Cygnus X-3 has not split; needed); candidate ℓ ≲ 1.0 × 10⁻³² m, δ ≳ 3 × 10⁻⁵ (IceCube's atmospheric neutrinos show no extra flavour change growing with energy; given a massive pattern's speed excess kept, chosen, and neutrinos as patterns on the step with Dirac masses, the weak interaction being absent, the lightest near zero).
 - Excluded: a sequential hop order (on the earlier walk), a scalar gravitational wave, a one-way hop, a newborn place left empty, ticks that come by chance (atomic-clock coherence, if h counts every mass).
 
 ## What it does not do

@@ -10,15 +10,15 @@
 
 $$E_{\rm th}=C\sqrt{m_ec^2\,\hbar c/\ell},\qquad C=2.9\text{–}5.1$$
 
-by direction against the lattice (2.6–4.0 if the theory's speed counter-terms absorb a mass-dependent term). Above threshold the decay length is far shorter than any source distance, so a photon could cross kiloparsecs only within about 10⁻²⁰ of threshold.
+by direction against the lattice. Above threshold the decay length is far shorter than any source distance, so a photon could cross kiloparsecs only within about 10⁻²⁰ of threshold.
 
 **The mark.**
 1. A ceiling common to every source in a direction, near or far (absorption on the microwave background depends on distance).
-2. A ceiling that varies across the sky by up to a factor of 1.75 (1.5 with the counter-terms absorbing that term), with the symmetry of a cube, fixed to the lattice's rest frame; its orientation is unknown (one energy scale, three angles).
+2. A ceiling that varies across the sky by up to a factor of 1.75, with the symmetry of a cube, fixed to the lattice's rest frame; its orientation is unknown (one energy scale, three angles).
 
-**Where things stand.** The highest photons seen are 3.73 ± 0.41 PeV and 3.08 ± 0.34 PeV from Cygnus X-3 at about 9 kpc (LHAASO Collaboration, arXiv:2512.16638). Under the framework they were below threshold, which bounds the lattice spacing at ℓ ≲ 2.4 × 10⁻³¹ m (lower energy, weakest direction). At the framework's candidate bound from the Crab Nebula's synchrotron cutoff (ℓ ≲ 3.2 × 10⁻³² m) the ceiling would sit at about 5–9 PeV.
+**Where things stand.** The highest photons seen are 3.73 ± 0.41 PeV and 3.08 ± 0.34 PeV from Cygnus X-3 at about 9 kpc (LHAASO Collaboration, arXiv:2512.16638). Under the framework they were below threshold, which bounds the lattice spacing at ℓ ≲ 2.4 × 10⁻³¹ m (lower energy, weakest direction). At the framework's candidate bound from atmospheric neutrinos (ℓ ≲ 1.0 × 10⁻³² m; see [`neutrino_flavour.md`](neutrino_flavour.md)) the ceiling would sit at about 9–16 PeV or higher.
 
 **What a result would mean.**
-- A photon above about 10 PeV from any direction pushes ℓ below the synchrotron value (each factor 2 in a surviving photon's energy cuts the bound on ℓ by 4).
+- A photon above about 16 PeV from any direction pushes ℓ below the neutrino value (each factor 2 in a surviving photon's energy cuts the bound on ℓ by 4).
 - Photon maximum energies that line up by direction rather than by source distance, varying across the sky in a cubic pattern, would be the framework's mark.
 - One confirmed photon above about 2.1 × 10¹⁷ eV, from any direction (above about 1.1 × 10¹⁷ eV along a lattice axis), excludes the framework's form of light at every allowed lattice spacing. The Pierre Auger Observatory's photon searches reach this range; seeing no photons there separates nothing, since standard physics also expects a flux below present sensitivity.
