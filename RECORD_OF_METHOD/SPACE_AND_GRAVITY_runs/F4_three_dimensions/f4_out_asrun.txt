@@ -1,0 +1,8 @@
+F4a: m=0.25, fall along axis: a = 1.94547e-04 vs -g(1+rm) = -2.25000e-04 (-1.8647)
+F4a: m=0.25, fall along body diagonal: a = 1.94547e-04 vs -g(1+rm) = -2.25000e-04 (-1.8647)
+F4a: m=0.25: axis / body diagonal = 1.00000
+F4a: m=0.5, fall along axis: a = 2.31305e-04 vs -g(1+rm) = -2.50000e-04 (-1.9252)
+F4a: m=0.5, fall along body diagonal: a = 2.31305e-04 vs -g(1+rm) = -2.50000e-04 (-1.9252)
+F4a: m=0.5: axis / body diagonal = 1.00000
+F4b: light k_y=0.3: full a_x = 3.02356e-04, clock only 1.51178e-04, ratio 2.0000; full / (2 g w w_xx) = -0.7475
+F4 FAIL

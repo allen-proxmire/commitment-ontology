@@ -1,0 +1,5 @@
+rays: m=0.25, along axis: a = 1.93354e-04  (point packet g(1+rm) = 2.25000e-04)
+rays: m=0.25, along body diagonal: a = 1.90620e-04  (point packet g(1+rm) = 2.25000e-04)
+rays: m=0.5, along axis: a = 2.31889e-04  (point packet g(1+rm) = 2.50000e-04)
+rays: m=0.5, along body diagonal: a = 2.30991e-04  (point packet g(1+rm) = 2.50000e-04)
+rays: light k_y=0.3: full a_x = 3.06476e-04, clock 1.53240e-04, ratio 2.0000
