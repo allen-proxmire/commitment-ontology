@@ -1,6 +1,6 @@
 # Negative space: what the open items wait on (12 Nov 2026)
 
-The idea (the author's): physics has a true shape underneath. Each result chips the block, and the hollows that keep reappearing under separate open items show where the next constraint has to land. This note lays every open item in `OPEN_DIRECTIONS.md` against the missing pieces it waits on, and counts.
+The idea: physics has a true shape underneath. Each result chips the block, and the hollows that keep reappearing under separate open items show where the next constraint has to land. This note lays every open item in `OPEN_DIRECTIONS.md` against the missing pieces it waits on, and counts.
 
 ## The missing pieces
 
@@ -61,7 +61,7 @@ Closed (frame note, "The common-origin exit, tested"). Fields made from the walk
 ## Update: the tick–hop exit (same day, after cold reading)
 
 Read (frame note, "The tick–hop exit"). Walks carry a deformed Lorentz symmetry near long wavelength. On CO's network, local vertices conserve momentum additively, and the additive maps of the momentum torus form a discrete group (GL(3, ℤ)), so no continuous boosts survive. One loophole is open: boosts acting on pairs with backreaction (Gubitosi–Mercati). A's exits are now:
-- tuning (permitted; accepted for now, the author's ruling, 12 Nov);
+- tuning (permitted; accepted for now, chosen 12 Nov);
 - boosts acting on pairs with backreaction (unexplored);
 - a network with non-commuting coordinates (κ-Poincaré-type quantum-group translations, relative locality), with the soccer-ball cost. Non-commuting network translations would not do: Gromov's theorem returns them to the abelian case or to large-scale curvature.
 

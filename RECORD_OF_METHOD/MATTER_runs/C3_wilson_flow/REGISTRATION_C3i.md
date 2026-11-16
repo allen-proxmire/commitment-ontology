@@ -1,6 +1,6 @@
 # C3i: induced light on the flow step: registration (15 Nov 2026, before the run)
 
-**Reading.** On the one-tick Wilson–Dirac flow (U = exp(−iτH_W), τ = 0.4, r = 1; shape, the author's ruling), the vacuum (quasienergies in (−π, 0) filled, as ruled) induces a field with the right sign at small mass, growing as the light species' leading log, and the same in every direction by symmetry.
+**Reading.** On the one-tick Wilson–Dirac flow (U = exp(−iτH_W), τ = 0.4, r = 1; shape, ruled), the vacuum (quasienergies in (−π, 0) filled, as ruled) induces a field with the right sign at small mass, growing as the light species' leading log, and the same in every direction by symmetry.
 
 **Method.** I2/I4's pair method (exact second order; filled–filled pairs dropped), with U(a) = exp(−iτ(H₀ + aH₁ + a²H₂)) and its Taylor blocks taken exactly from the exponential of a block upper-triangular matrix (checked against finite differences to 2×10⁻⁹). Peierls coupling: a link phase A on j-hops enters as H_W(k_j + A) to second order (diagonal part halved per pair); a potential V enters as H_W + V. Nested-cube quadrature (9 cells); each coefficient fitted as C₀ + c₂q̂² + c₄q̂⁴ at q = θ/20, θ/10, θ/5. θ = τm (the mass per tick) = 10⁻³, 3×10⁻³, 10⁻², 3×10⁻². ε_x from a potential along x; Z_B from a phase on y-hops varying along x.
 

@@ -1,4 +1,4 @@
-# G4 result (held for the author) — matter's coupling to the staggered carriers on the lattice
+# G4 result — matter's coupling to the staggered carriers on the lattice
 
 Registered first ([`REGISTRATION.md`](REGISTRATION.md)). Matter: the Wilson–Dirac lattice Hamiltonian, continuous time, r = 1.
 

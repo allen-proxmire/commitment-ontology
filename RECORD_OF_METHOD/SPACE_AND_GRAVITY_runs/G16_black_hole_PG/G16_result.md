@@ -1,6 +1,6 @@
 # G16 — a black hole on CO's walk, in Painlevé–Gullstrand form (14 Nov 2026)
 
-**Rule tested.** E's strong-field entry (the author's ruling, candidate): gravity as the shift alone, lapse and stretch at 1, w = 5π/16 fixed. A non-rotating mass in Painlevé–Gullstrand form: the drift v(r) = √(2GM/r) inward, carried by directed hops on both axes (drift 2 sin b per axis, nudge set by the drift's component at each link's midpoint). Horizon at r_s = 2GM/c₀² = 40 hops (c₀ = 1.111). The drift is softened at the centre (r → √(r² + 4²)) and capped at 1.9 hops per step (inside r ≈ 14).
+**Rule tested.** E's strong-field entry (ruled, candidate): gravity as the shift alone, lapse and stretch at 1, w = 5π/16 fixed. A non-rotating mass in Painlevé–Gullstrand form: the drift v(r) = √(2GM/r) inward, carried by directed hops on both axes (drift 2 sin b per axis, nudge set by the drift's component at each link's midpoint). Horizon at r_s = 2GM/c₀² = 40 hops (c₀ = 1.111). The drift is softened at the centre (r → √(r² + 4²)) and capped at 1.9 hops per step (inside r ≈ 14).
 
 **Fail conditions, stated first.** Zero-momentum packets (the form's free-fallers, from rest far away) not following dr/dt = −v(r), through the horizon; light sent outward not escaping from outside r_s, or not swept in from inside it.
 

@@ -2,7 +2,7 @@
 
 **Why.** Tuning 4 traces to the palindrome's nesting order. Cycling the order (no gap), choosing it by sublattice (not unitary) and the body-centred-cubic automaton (doubled, first-order Lorentz violation) all fail. A literature search finds no strictly local, cube-symmetric, gapped Dirac walk with one light species (Bialynicki-Birula 1994 and Bisio–D'Ariano–Perinotti build theirs on body-centred-cubic neighbourhoods; Meyer's no-go forces partitioning for strictly local homogeneous automata).
 
-**Candidate.** Drop strict locality to fast-fading reach, which the author's ruling of 12 Nov 2026 allows: the step is the flow, for one tick τ, of the standard cube-symmetric Wilson–Dirac Hamiltonian,
+**Candidate.** Drop strict locality to fast-fading reach, which the ruling of 12 Nov 2026 allows: the step is the flow, for one tick τ, of the standard cube-symmetric Wilson–Dirac Hamiltonian,
 U = exp(−iτ H_W),  H_W(k) = Σ_j α_j sin k_j + β (m + r Σ_j (1 − cos k_j)).
 H_W is nearest-neighbour; U reaches every distance, with amplitudes falling faster than exponentially (Bessel-like).
 
@@ -15,4 +15,4 @@ H_W is nearest-neighbour; U reaches every distance, with amplitudes falling fast
 
 **What it changes.** CO's step would no longer be a sequence of hops but one tick of a nearest-neighbour flow. The continuum physics is the same Dirac field; the lattice-scale structure differs, so walk-specific numbers (the speed excess s = ½ sin w·mcℓ/ħ, the Wilson window in w, the quadratic terms behind the photon-splitting coefficients, P7f's Wilson-flip rule for the field) would be redone for H_W (here the Wilson parameter r plays w's role; the speed excess for H_W is about ½ r m). The domain-wall construction for tuning 2 is native to Wilson–Dirac Hamiltonians (Kaplan's original). Tuning 1's time-versus-space part is untouched.
 
-**Status.** Shape, for the author's ruling: the step as a one-tick Wilson–Dirac flow. Checks before any ruling: the induced-light response (isotropy by symmetry, the sign at small mass, and the π-gap's effect) and how the field enters (P7f restated).
+**Status.** Shape, for the ruling: the step as a one-tick Wilson–Dirac flow. Checks before any ruling: the induced-light response (isotropy by symmetry, the sign at small mass, and the π-gap's effect) and how the field enters (P7f restated).

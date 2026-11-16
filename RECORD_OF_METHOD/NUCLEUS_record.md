@@ -14,7 +14,7 @@ Continues from [`MATTER_record.md`](MATTER_record.md), which stops where its one
 
 **The choice.** Either a third primitive that carries an internal space (nothing on the board forces one, so the method would need a named contradiction to admit it), or CO stops at the physics of 1930 and says so.
 
-**The cascade criterion (Allen).** A third primitive is admissible on a named contradiction with the world (the ruled set makes the proton elementary; experiment makes it composite, bound by a force the ruled set lacks, with most of its mass in the binding). It is *worth* admitting only if it cascades: if positing it brings a second open problem with it. One primitive for one input is the trade the restart exists to refuse. Note for the record: in the standard theory, colour plus one coupling does cascade, to the whole hadron spectrum (lattice QCD computes hadron masses from α_s and the quark masses); it does not reach the lepton masses or α.
+**The cascade criterion.** A third primitive is admissible on a named contradiction with the world (the ruled set makes the proton elementary; experiment makes it composite, bound by a force the ruled set lacks, with most of its mass in the binding). It is *worth* admitting only if it cascades: if positing it brings a second open problem with it. One primitive for one input is the trade the restart exists to refuse. Note for the record: in the standard theory, colour plus one coupling does cascade, to the whole hadron spectrum (lattice QCD computes hadron masses from α_s and the quark masses); it does not reach the lepton masses or α.
 
 ## Open
 - Colour: an internal three, or a stop.
@@ -350,7 +350,7 @@ The second and third describe the same contact and give opposite answers. If eve
 
 ## 2026-11-07 — entanglement wording made single: two events, one stock
 
-The Bell paragraphs in `NUCLEUS.md` and the plain doc said two things that cannot both stand: "two separate events, each finding the pair's possibility given its own past" and "one event increments the count at both ends." The second was reading B, withdrawn earlier today (no past cone of its own; no content beyond "one stock has one cut"), and left standing in the prose. Struck; the paragraphs now say: one stock, cut once; each end's commitment its own event, finding the stock as it stands in its own past cone. "A pattern sampled twice" survives as a description of the stock, not of the event. This is also what the no-signalling of the semiclassical back-action rests on (gravity record, same day): the local source stays the unconditioned marginal until the far event is in the local past cone. Falsifier wording in `SPACE_AND_GRAVITY.md` set as the author asked: if two masses become entangled through gravity alone, CO is wrong, not downgraded.
+The Bell paragraphs in `NUCLEUS.md` and the plain doc said two things that cannot both stand: "two separate events, each finding the pair's possibility given its own past" and "one event increments the count at both ends." The second was reading B, withdrawn earlier today (no past cone of its own; no content beyond "one stock has one cut"), and left standing in the prose. Struck; the paragraphs now say: one stock, cut once; each end's commitment its own event, finding the stock as it stands in its own past cone. "A pattern sampled twice" survives as a description of the stock, not of the event. This is also what the no-signalling of the semiclassical back-action rests on (gravity record, same day): the local source stays the unconditioned marginal until the far event is in the local past cone. Falsifier wording in `SPACE_AND_GRAVITY.md` set as asked: if two masses become entangled through gravity alone, CO is wrong, not downgraded.
 
 ## 2026-11-08 — quarks commit: two kinds of commitment, gluons as colour on relations (the author's working picture, shape)
 
@@ -403,7 +403,7 @@ The Bell paragraphs in `NUCLEUS.md` and the plain doc said two things that canno
 
 **Grade.** Reading. The colour posit remains not earned; the count of four debts is withdrawn (two debts: the nucleon's source, for which colour is needed from beneath and not sufficient, and a nucleus's binding, which belongs mainly to the sea's silence and the field-energy posit). Nucleon closure joins elementary closure as an assumption gravity for dust makes.
 
-## 2026-11-12 — price list: an on-site internal label (reading, for the author's decision; not ruled)
+## 2026-11-12 — price list: an on-site internal label (reading, open for a ruling; not ruled)
 
 **Why now.** The 12 Nov particle thread (MATTER-side notes, `OPEN_DIRECTIONS_notes/how_patterns_combine.md`) narrowed colour, the weak interaction and the up–down charges to one missing piece. A gauge field couples consistently only to a label that acts at each place by itself (on-site; Wang–Wen; DeMarco–Wen). The labels CO's walk does have, its doublers' corners and tastes, are tied to momentum (the twist), so they can supply a generation's count but not its charges. The missing piece is an internal label at each place. The 9 Nov verdict (colour posit not earned) is read again below with what has changed since.
 
@@ -426,13 +426,13 @@ The Bell paragraphs in `NUCLEUS.md` and the plain doc said two things that canno
 
 **Against the cascade bar.** The bar admits a posit only on a named contradiction (the proton is composite; CO's ruled set makes it elementary), and calls it worth admitting only if it brings a second open problem with it. On 9 Nov the colour posit alone cascaded only to the hadron spectrum, and in CO not even that, since the proton stays unbuilt without quantisation. With the kind label beside it, the posit now reaches three further open items with data attached: the fractional charges, atomic neutrality and the weak interaction's form. On the bar's own terms that is a cascade, not one primitive for one input. Against it, the label space's sizes are imported, and most of what it buys is the Standard Model's own consistency, read in CO's terms, not CO deriving anything new.
 
-**Reading, for the author.** The bar's verdict could now change, from "not earned" to "earned, at the price of an imported label space". What is gained would be structural: colour, the weak form and the charge values as one posit with consistency doing the rest. No new prediction comes with it beyond, conditionally, the right-handed neutrino. Three choices:
+**Reading.** The bar's verdict could now change, from "not earned" to "earned, at the price of an imported label space". What is gained would be structural: colour, the weak form and the charge values as one posit with consistency doing the rest. No new prediction comes with it beyond, conditionally, the right-handed neutrino. Three choices:
 - *Hold*: keep the wall as it is, with this price list on file.
 - *Rule as a candidate*: "matter in transit carries an on-site internal label space (colour, kind)". The cascade is entered, and every import is named in "What goes in".
 - *Rule only the kind label*: the weak form and charge structure, colour still waiting. This is cheaper, but the charges then need N_c, so items 3–5 stay conditional.
 Not ruled.
 
-**Held (2026-11-12, the author).** The on-site label is held, not ruled; the price list stays on file. The next question is whether CO's own pieces supply the label instead of importing it.
+**Held (2026-11-12).** The on-site label is held, not ruled; the price list stays on file. The next question is whether CO's own pieces supply the label instead of importing it.
 
 ## 2026-11-12 — poke: colour as the redundancy of splitting a fermion into alike parts (shape, ungraded)
 
@@ -465,7 +465,7 @@ The same oddness turns up twice already: Witten's global anomaly needs N_c odd, 
 - An emergent gauge field from partons is an effective field below the lattice scale. Whether CO's split gives a confining SU(3) with QCD's running is open.
 - The emergent field's dynamics (Yang–Mills) still needs quantisation and loops, so the frame problem's exposure is unchanged.
 
-**Grade.** Shape, ungraded. It offers a reason for three (the least odd splitting of a fermion into alike fermions) and an on-site home for colour, which are exactly what the price list said would have to be imported. It turns "the sizes by hand" into "minimal splitting, a posit". Not ruled; read against the cascade bar only if the author wants to go on.
+**Grade.** Shape, ungraded. It offers a reason for three (the least odd splitting of a fermion into alike fermions) and an on-site home for colour, which are exactly what the price list said would have to be imported. It turns "the sizes by hand" into "minimal splitting, a posit". Not ruled; read against the cascade bar only if the work goes on.
 
 **Cold read of the poke, applied (2026-11-12).** What holds:
 - The algebra is right: the redundancy is SU(N), not U(N); an overall phase sends c to e^{iNθ}c, and Z_N sits inside SU(N).
@@ -483,12 +483,12 @@ Prior art: Jain 1989 (partons); Wen 1999 (projective construction) and 2002 (PRB
 
 **Where it lands.** Against the price list, the split replaces the on-site label and its size three (posit (i), "the sizes by hand") with two choices: parts alike in colour, and the least odd split. The gauge field's cost and coupling (posits (ii) and (iv)) stay posited, as in the standard theory, where Λ_QCD is an input. The kind label is still needed for the charges. Net: one import becomes a minimality posit; the rest of the bill is unchanged. Grade: shape. The price list stays held.
 
-## 2026-11-12 (evening) — the price list revised with the day's readings (for the author's ruling; not ruled)
+## 2026-11-12 (evening) — the price list revised with the day's readings (for the ruling; not ruled)
 
 **What changed since the price list was held.**
 - *The size three is no longer imported outright.* The parton reading, after cold reading, gives three as the least odd split of a fermion into parts alike in colour. The choices that remain are "alike in colour" (the kinship ruling's spirit) and "the least split" (a minimality posit). The kind label's size two is still put in.
 - *Statistics beyond two joins it.* Parastatistics is ordinary statistics plus a hidden internal label (Drühl–Haag–Roberts; Doplicher–Roberts), so "no parastatistics" and "no internal label" are one question. With the label, quarks carry what Greenberg's order-3 paraquarks first expressed; without it, every walk pattern is an ordinary fermion.
-- *The frame problem is tuned* (the author's ruling, for now). Colour's loops (order α_s/π) fall under the same tuning, so the label no longer worsens an open wall. It adds counter-terms for one more sector.
+- *The frame problem is tuned* (ruled, for now). Colour's loops (order α_s/π) fall under the same tuning, so the label no longer worsens an open wall. It adds counter-terms for one more sector.
 - *The negative-space map* (refreshed after tuning) puts seven open items under the label: the weak interaction, the colour wall, confinement, baryons as twists, the up–down charges, the nucleon's mass from beneath, and statistics beyond two.
 
 **The posit, revised.** Matter in transit may be a split whole: N parts alike in colour, held at one place, with N the least odd number above one (three). Their interchange is an SU(3) redundancy on the relations. Left-handed matter carries a two-valued kind label, also with its redundancy on the relations. The gauge fields' own costs and couplings are posited, as in the standard theory (Λ_QCD and the electroweak couplings are inputs).
@@ -503,15 +503,15 @@ Prior art: Jain 1989 (partons); Wen 1999 (projective construction) and 2002 (PRB
 
 **Against the cascade bar.** It now reaches seven open items, three of them with data (the charges, neutrality, the weak form). That is a cascade by the bar's terms. Most of it is still the Standard Model's own consistency, read in CO's terms, and it predicts nothing beyond the conditional right-handed neutrino.
 
-**For the author, three choices as before.**
+**Three choices as before.**
 - Hold.
 - Rule both labels as a candidate, with the split as the reason for three.
 - Rule only the colour split, keeping the kind label held. This is the cheaper, more CO-native half: it rests on the author's three-fold hunch. The charges then wait on the kind label.
 Not ruled.
 
-**Ruled (2026-11-12, the author): the colour split only, as C9, candidate.** The kind label stays held. Entered: TECHNICAL_APPENDIX (C9), NUCLEUS ("Colour as a split"), OPEN_DIRECTIONS (Colour; Quarks and gluons), README (C1–C9; the nucleus line), STATE_OF_CO, SCOREBOARD. Of the 9 Nov four posits: which transit carries the triplet (a split whole) and unit determinant (from ε) now come with the split; the matching's cost and its scale stay posited. Of the 9 Nov "proton still unbuilt" list: spin 3/2 is answered by flavours (two needed); the exchange sign by the parts being fermions; second quantisation by C6's field reading under tuning, for the parts (the colour field's, open); confinement stays named; the fractional charges wait on the kind label.
+**Ruled (2026-11-12): the colour split only, as C9, candidate.** The kind label stays held. Entered: TECHNICAL_APPENDIX (C9), NUCLEUS ("Colour as a split"), OPEN_DIRECTIONS (Colour; Quarks and gluons), README (C1–C9; the nucleus line), STATE_OF_CO, SCOREBOARD. Of the 9 Nov four posits: which transit carries the triplet (a split whole) and unit determinant (from ε) now come with the split; the matching's cost and its scale stay posited. Of the 9 Nov "proton still unbuilt" list: spin 3/2 is answered by flavours (two needed); the exchange sign by the parts being fermions; second quantisation by C6's field reading under tuning, for the parts (the colour field's, open); confinement stays named; the fractional charges wait on the kind label.
 
-## 2026-11-12 (evening) — poke: a reason for "two", and the electroweak price list (shape, ungraded; for the author)
+## 2026-11-12 (evening) — poke: a reason for "two", and the electroweak price list (shape, ungraded)
 
 **The poke.** C9 splits a fermion whole into parts alike in colour that are all fermions. The parts must then be odd in number, and the least split is three, with redundancy SU(3) (the singlet ε^{abc}). Now let the parts be mixed. A fermion whole made of two parts needs one boson and one fermion: two fermions make a boson, which is the author's "two do not make a pattern" read exactly. Two parts sharing a two-valued label, joined by the singlet ε_{ab}, carry an SU(2) redundancy (unit determinant from ε, as before):
 
@@ -568,9 +568,9 @@ So for mutually related parts, the first closed loop of relations, and with it t
 
 **Against the "two" poke** (the weak SU(2) as a two-part split; cold read: tailored). By this principle a two-part split is not a complete pattern. The contrast reading therefore does not support reading the weak interaction as a split, consistent with withdrawing "one rule gives both 3 and 2". Colour gets a reason; the weak "two" does not.
 
-**Grade.** Shape. C9's minimality choice becomes a principle ("complete at the first closed loop of mutual relations"), still a posit, now tied to the author's account of emergence. Not entered in C9's row until the author rules it. The idea itself is written up in `OPEN_DIRECTIONS_notes/contrast.md`.
+**Grade.** Shape. C9's minimality choice becomes a principle ("complete at the first closed loop of mutual relations"), still a posit, now tied to the author's account of emergence. Not entered in C9's row until ruled. The idea itself is written up in `OPEN_DIRECTIONS_notes/contrast.md`.
 
-**Ruled (2026-11-13, the author).** C9's "least odd split" is replaced by the contrast principle: three as the first count at which the parts' mutual relations close a loop (also the least odd split; larger splits not forbidden). The author's caution, kept with it: this is a mindset, not a rule that everything is three; twos and fours have their own reasons. Entered: TECHNICAL_APPENDIX C9, NUCLEUS, README, OPEN_DIRECTIONS, the contrast note.
+**Ruled (2026-11-13).** C9's "least odd split" is replaced by the contrast principle: three as the first count at which the parts' mutual relations close a loop (also the least odd split; larger splits not forbidden). The author's caution, kept with it: this is a mindset, not a rule that everything is three; twos and fours have their own reasons. Entered: TECHNICAL_APPENDIX C9, NUCLEUS, README, OPEN_DIRECTIONS, the contrast note.
 Cold read: for C9's parts, which sit at one place, the closure is the three-way tie ε^{abc}, not a holonomy (the colour matching's loops run between places). The "failure to return around a loop" in the reading above is the general picture of contrast between relations, not C9's mechanism. Appendix marked "a posit tied to a principle, not derived".
 
-**Reverted (2026-11-13, the author).** C9's reason for three goes back to the least odd split: odd is forced by fermion statistics, least is a choice. Why: the contrast wording linked to the physics only by analogy (the cold read found the closure is ε^{abc}, not a loop), and "two parts cannot make a complete pattern" is false as physics, since a meson is a complete two-part colour singlet. The old wording handles mesons (boson wholes may have two parts). The contrast idea stays as a philosophy note, a mindset rather than a rule, with the meson point added. Reverted in: TECHNICAL_APPENDIX C9, NUCLEUS, README, OPEN_DIRECTIONS, the contrast note.
+**Reverted (2026-11-13).** C9's reason for three goes back to the least odd split: odd is forced by fermion statistics, least is a choice. Why: the contrast wording linked to the physics only by analogy (the cold read found the closure is ε^{abc}, not a loop), and "two parts cannot make a complete pattern" is false as physics, since a meson is a complete two-part colour singlet. The old wording handles mesons (boson wholes may have two parts). The contrast idea stays as a philosophy note, a mindset rather than a rule, with the meson point added. Reverted in: TECHNICAL_APPENDIX C9, NUCLEUS, README, OPEN_DIRECTIONS, the contrast note.

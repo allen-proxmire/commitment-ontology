@@ -1,6 +1,6 @@
 # F1: gravity's key cases on the flow step (15 Nov 2026)
 
-Flow step U = exp(−iτH), τ = 0.4, r = 0.5 (the author's rulings), field entering by P7f restated: H = ½{N/ψ², K} + σ_z mN. Flow units (light speed 1).
+Flow step U = exp(−iτH), τ = 0.4, r = 0.5 (ruleds), field entering by P7f restated: H = ½{N/ψ², K} + σ_z mN. Flow units (light speed 1).
 
 | run | case | prediction | result | outcome |
 |---|---|---|---|---|

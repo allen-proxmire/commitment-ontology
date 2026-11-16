@@ -1,6 +1,6 @@
 # G4 — matter's coupling to the staggered carriers, exactly on the lattice
 
-**Question.** The author's ruling (P7e) says no backdrop holds for the walk too. In the continuum, at linear order, that fixes matter's response to the carriers as −½ h_μν T^μν with T the symmetric stress tensor. On the lattice, the coupling Σ h·T is exactly unchanged by the staggered relabellings of run G3 (lapse and stretch at places; one-way part and place displacement on links; shear on faces) if and only if matter has local operators
+**Question.** Ruled (P7e) says no backdrop holds for the walk too. In the continuum, at linear order, that fixes matter's response to the carriers as −½ h_μν T^μν with T the symmetric stress tensor. On the lattice, the coupling Σ h·T is exactly unchanged by the staggered relabellings of run G3 (lapse and stretch at places; one-way part and place displacement on links; shear on faces) if and only if matter has local operators
 
 - E at places (energy density), with Σ_x E_x = H,
 - J_i on the links along i,

@@ -1,4 +1,4 @@
-# Contrast: an idea behind CO (the author's, 13 Nov 2026)
+# Contrast: an idea behind CO (13 Nov 2026)
 
 A philosophy note, saved for anyone who works on CO later. It is not a rule. Where it touches the rules, it says so.
 
@@ -15,7 +15,7 @@ CO is relational, but relations are not its deepest point. **Contrast** is.
 
 With two things there is one relation and nothing for it to contrast with. With three things that all relate to each other, there are three relations, A–B, B–C and C–A, and they close into a loop. Now the relations themselves can differ: going around the loop may not return you to where you started. That is contrast between contrasts, and three is the first count where it can happen. In physics, that failure to return around a closed loop is how a force field or a curvature is defined on a lattice.
 
-So the ladder is: one, nothing; two, a relation; three, a relation among relations, the first complete pattern. It matches the author's earlier picture of tiles: one tile is a design, two do not make a pattern, three complete it.
+So the ladder is: one, nothing; two, a relation; three, a relation among relations, the first complete pattern. It matches an earlier picture of tiles: one tile is a design, two do not make a pattern, three complete it.
 
 ## Where it touches CO
 

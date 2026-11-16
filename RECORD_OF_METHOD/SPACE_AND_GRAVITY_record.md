@@ -406,7 +406,7 @@ Both are right about the thing they are each talking about, and they are talking
 
 **The window, computed** (`MATTER_notes/vacuum_spread_window.py`): the dent argument needs Γ = (δħ/σ)²ω below the collapse ceiling, σ ≳ 4 × 10⁻¹² ħ (≳ 10⁻¹⁶ ħ even for the loosest heating floor). Clock coherence over one second needs ω σ_h,eff t ≲ 1: for an electron (N ≈ 6 × 10¹⁶) σ ≲ 9 × 10⁻¹³ ħ; for a nucleon in an atom interferometer (N ≈ 10⁷) σ ≲ 7 × 10⁻²¹ ħ. **Lower bound 10⁻¹² ħ, upper bound 10⁻²¹ ħ: empty by nine orders.** The only escape, "the clock couples to ⟨ĥ⟩, not ĥ," removes the quantum vacuum by the same rule (the dent would couple to ⟨P̂⟩) and returns to the sharp or classical case.
 
-**Standing: vacuum spread excluded, on both sides.** With it falls the no-collapse statement's third layer as entered. What remains open for the trace, by the cases enumerated: a *classical* stock, dented at one Born-random place per renewal with no back-action on the pattern (case 4b: observationally open; set aside only by the branched-field ruling), or the mean-field sink. Either makes the free stock and h classical and unbranched, while the which-way flux (set by transit) stays branched; the asymmetry then has a reason (transit is a pattern's amplitude; the stock is the vacuum's), and the gravity cost (ii) of the branched-field entry reverses: h sourced by the mean or by a stochastic classical sink, not per branch, so CO would stand on the semiclassical side of the gravitationally-mediated-entanglement question. Not entered; the author decides. Everything that rested on "branched trace" in the results documents is to be re-read against this.
+**Standing: vacuum spread excluded, on both sides.** With it falls the no-collapse statement's third layer as entered. What remains open for the trace, by the cases enumerated: a *classical* stock, dented at one Born-random place per renewal with no back-action on the pattern (case 4b: observationally open; set aside only by the branched-field ruling), or the mean-field sink. Either makes the free stock and h classical and unbranched, while the which-way flux (set by transit) stays branched; the asymmetry then has a reason (transit is a pattern's amplitude; the stock is the vacuum's), and the gravity cost (ii) of the branched-field entry reverses: h sourced by the mean or by a stochastic classical sink, not per branch, so CO would stand on the semiclassical side of the gravitationally-mediated-entanglement question. Not entered; open for a ruling. Everything that rested on "branched trace" in the results documents is to be re-read against this.
 
 ## 2026-11-08 — second order from the static law CO already derives (candidate)
 
@@ -461,7 +461,7 @@ which is GR's static vacuum lapse equation (R_00 = 0); the remaining equations, 
 - transit (P6), by its frequency ħω: the energy density.
 For dust (p = 0) both give ρ and agree with GR. For radiation (T = 0, p = ρ/3) GR needs 2ρ and CO gives ρ: the factor two already recorded against the radiation era. For a pressure-supported body (a neutron star; any star's interior) CO lacks the 3p, and its renewal draw even carries −3p for the matter's own pressure. Sum over a stationary bound body: von Laue's theorem (∫T_ij dV = 0) holds for the full stress, field stresses included; for a self-gravitating body matter's own ∫3p dV = |E_grav| ≠ 0, so the totals differ at binding order and the exterior mass is affected (corrected by the next entry's cold reading).
 
-**What would supply it, in the table's terms.** Pressure is momentum flux. A pattern in transit carries a direction (P5) and so a momentum; isotropic transit has a momentum flux p in each direction. A single extension of P6 supplies GR's source: *possibility in transit draws by its frequency and by the flux of its momentum*, the latter counted in each of the three directions. Radiation then draws ρ + 3(ρ/3) = 2ρ, the factor the radiation era needs (BBN, CMB); a gas of fast particles draws its pressure; but the clause does not supply negative stress: the momentum flux of patterns in transit is positive-definite, and binding stress sits in the fields commitments set (P5), which are not transit. Without a further ruling that bound fields draw by ρ + S, the clause adds +3p without the −3p and breaks von Laue (active against passive mass for binding energy: Kreuzer 1968, lunar laser ranging). If adopted together with a rest-energy renewal draw and bound fields drawing by ρ + S, the clause supplies the radiation era and pressure by ruling; it is chosen to reproduce 2T₀₀ − T, not derived. Not in the rules now; proposed to the author as a ruling.
+**What would supply it, in the table's terms.** Pressure is momentum flux. A pattern in transit carries a direction (P5) and so a momentum; isotropic transit has a momentum flux p in each direction. A single extension of P6 supplies GR's source: *possibility in transit draws by its frequency and by the flux of its momentum*, the latter counted in each of the three directions. Radiation then draws ρ + 3(ρ/3) = 2ρ, the factor the radiation era needs (BBN, CMB); a gas of fast particles draws its pressure; but the clause does not supply negative stress: the momentum flux of patterns in transit is positive-definite, and binding stress sits in the fields commitments set (P5), which are not transit. Without a further ruling that bound fields draw by ρ + S, the clause adds +3p without the −3p and breaks von Laue (active against passive mass for binding energy: Kreuzer 1968, lunar laser ranging). If adopted together with a rest-energy renewal draw and bound fields drawing by ρ + S, the clause supplies the radiation era and pressure by ruling; it is chosen to reproduce 2T₀₀ − T, not derived. Not in the rules now; proposed as a ruling.
 
 **Costs.** Counting a gas's kinetic energy as transit gives renewal plus transit = nmc²⟨1/γ + γ − 1⟩ ≈ the rest energy, not ρ. Under the proposed clause the sum is 2ρ − nmc², short of GR's 2ρ − T by nmc²(1 − ⟨1/γ⟩) (the kinetic energy, non-relativistically). GR's source is reached only if the renewal draw is the rest energy nmc² rather than the trace, a change to the renewal draw with its own cost (the draw would no longer follow the renewal rate). The extension fixes only the combination that sources R₀₀; the R_ij equations, beams (Tolman–Ehrenfest–Podolsky) and the Bianchi identity need the full conserved T^μν, and the sink's conservation is not shown.
 
@@ -547,11 +547,11 @@ With ℓ ≲ 6 × 10⁻¹⁹ m, (q/ħ)/δ ≲ 1.1 × 10³².
 
 **Cold reading, same day; corrected.** Algebra, β values, G, ℓ and the δ figure confirmed. "Scalelessness does the door's job" corrected (a fixed q is itself a scale; what does the job is alike scaling); the case list completed (power laws, occupancy, q = P_max, whole P with way 1 as a competitor); the old exclusion's reason corrected (q ∝ P, not difference versus ratio); the dent windows stand rather than move; the vacuum-spread closure's dependence on the choice of q added; the clock-versus-N identification inside matter named as owed; notation a → q.
 
-**Grade.** Candidate, resting on the lapse-weighted ratio flux (candidate) and a fixed q (candidate choice). C3's amendment to a fixed share is proposed to the author, conditional on the conductance choice. q = ħ and q = P_max are alternative posits. Owed: positivity of the flux; the clock-versus-N identification inside matter.
+**Grade.** Candidate, resting on the lapse-weighted ratio flux (candidate) and a fixed q (candidate choice). C3's amendment to a fixed share is proposed, conditional on the conductance choice. q = ħ and q = P_max are alternative posits. Owed: positivity of the flux; the clock-versus-N identification inside matter.
 
-## 2026-11-08 — C3 in the fixed form; a hop moves P_max (the author's rulings, candidate)
+## 2026-11-08 — C3 in the fixed form; a hop moves P_max (ruleds, candidate)
 
-Ruled by the author on the entry above: C3 becomes "each repeat keeps δħ"; a hop moves a fixed amount, q = P_max, so G = δc³ℓ²/(4πħP_max) and every results-doc number stands. Entered in `CO_plain_language.md` (C3, Record) and `SPACE_AND_GRAVITY.md` (Record, the field's σ = δmcℓ²/(ħP_max)). Superseded in this record, not deleted: the pooling sentence's share δħ·(P_free/P_max), the door paragraph's reason, self-screening (only the clock's (1 − h) remains), the Ġ/G argument in the difference form. Still owed: flux positivity; the clock-versus-N identification inside matter; pressure.
+Ruled on the entry above: C3 becomes "each repeat keeps δħ"; a hop moves a fixed amount, q = P_max, so G = δc³ℓ²/(4πħP_max) and every results-doc number stands. Entered in `CO_plain_language.md` (C3, Record) and `SPACE_AND_GRAVITY.md` (Record, the field's σ = δmcℓ²/(ħP_max)). Superseded in this record, not deleted: the pooling sentence's share δħ·(P_free/P_max), the door paragraph's reason, self-screening (only the clock's (1 − h) remains), the Ġ/G argument in the difference form. Still owed: flux positivity; the clock-versus-N identification inside matter; pressure.
 
 ## 2026-11-08 — pressure: turning and travel, and travel drawing twice (shape, after cold reading)
 
@@ -616,7 +616,7 @@ The negative number is a cross term, not a negative density: |E₁ + E₂|² is 
 
 **Cold reading, same day; corrected.** Arithmetic and Maxwell stress confirmed. Where the fields add and oppose corrected (they add between the charges); binding energy is K, not the field's 2K deficit; the field E restored as the flux conjugate to the ratio A (the MATTER record's correction), not the ratio itself; P8 dropped as the source (same algebra, not a reason): a posit, not a reading; P2 does not cap field energy, the lattice does, and the dressed self-field would draw twice (≈ 10³ mₑ); the lunar-ranging claim withdrawn (nuclear electrostatics); von Laue's inheritance made conditional on conservation.
 
-**Grade.** Candidate (posit; the author's ruling needed): the which-way field's energy draws as a classical amount by its mean, which removes the negative draw for the binding cross term and reproduces GR's count for atoms at order v². Conditional on the self parts (a self-energy of about 10³ mₑ per charge must not draw twice), which could exclude it. The pressure rule stays shape: the nuclear half has no object, and the active-mass bounds sit mainly on it.
+**Grade.** Candidate (posit; the ruling needed): the which-way field's energy draws as a classical amount by its mean, which removes the negative draw for the binding cross term and reproduces GR's count for atoms at order v². Conditional on the self parts (a self-energy of about 10³ mₑ per charge must not draw twice), which could exclude it. The pressure rule stays shape: the nuclear half has no object, and the active-mass bounds sit mainly on it.
 
 ## 2026-11-08 — the self parts: a pattern's bound field is the pattern's; travel draws only between and emitted (shape, after cold reading)
 
@@ -740,9 +740,9 @@ With G fixed by measurement, a clock at distance r feels the dents only through 
 
 **Grade.** Candidate reading. Three-dimensional annealing does not fix P∞/ħ; a value follows only from the cubic walk's identification, and only if a relation's feeding quantum is ħ: an integer-sized ratio, not a continuous number. The lead does not give CO its first continuous number. It exposes a conflict between the fixed hop amount q = P_max and R5's degree count, which q = ħ would remove now that its cost is gone.
 
-## 2026-11-09 — a hop moves one quantum, ħ (the author's ruling, candidate; replaces q = P_max)
+## 2026-11-09 — a hop moves one quantum, ħ (ruled, candidate; replaces q = P_max)
 
-Ruled by the author on the entry above: each hop moves one quantum, q = ħ, in place of q = P_max. Reason: with q = P_max the quantum a relation must carry to persist would be P_max, and R5's degree ≈ P∞/q + 1 would fall below two, leaving no three-dimensional lattice; with q = ħ the degree count stands as run. The cost recorded against q = ħ on 2026-11-08 (the quantum-vacuum exclusion's dependence on P∞) is gone: that exclusion now holds by the dent and capacity alone. Consequences: G = δc³ℓ²/(4πħ), ℓ = ℓ_P√(4π/δ); P_max leaves G and the hop relation; at the hop bound δ ≳ 1.9 × 10⁻⁷, independent of P_max; the P_max < ħ question stays closed. The vacuum-spread table's δ values (which used δ ∝ P_max) become the P_max = ħ column. Entered in `SPACE_AND_GRAVITY.md` (the field, G, constants), `MATTER.md` (mass), the plain doc (P1, the hop relation) and the scoreboard.
+Ruled on the entry above: each hop moves one quantum, q = ħ, in place of q = P_max. Reason: with q = P_max the quantum a relation must carry to persist would be P_max, and R5's degree ≈ P∞/q + 1 would fall below two, leaving no three-dimensional lattice; with q = ħ the degree count stands as run. The cost recorded against q = ħ on 2026-11-08 (the quantum-vacuum exclusion's dependence on P∞) is gone: that exclusion now holds by the dent and capacity alone. Consequences: G = δc³ℓ²/(4πħ), ℓ = ℓ_P√(4π/δ); P_max leaves G and the hop relation; at the hop bound δ ≳ 1.9 × 10⁻⁷, independent of P_max; the P_max < ħ question stays closed. The vacuum-spread table's δ values (which used δ ∝ P_max) become the P_max = ħ column. Entered in `SPACE_AND_GRAVITY.md` (the field, G, constants), `MATTER.md` (mass), the plain doc (P1, the hop relation) and the scoreboard.
 
 ## 2026-11-10 — pressure, priced: what the trace draw already gets right, what is missing, and what would close it (shape; rulings proposed; after cold reading)
 
@@ -765,7 +765,7 @@ The plain-language sentence "wrong against GR for any body held up by pressure" 
 
 **Grade.** Shape. The finding: CO's trace draw is already GR's for closed bodies at rest by von Laue; the missing term is 2S, nonzero only for radiation, self-gravity and moving wholes. Closing it costs one posit stated at the level of closed wholes (rule 1, proposed), the field-energy posit for solids (rule 2, on record, proposed), and three owed pieces of structure (rule 3). Taken, pressure would be candidate for radiation, gas stars and white dwarfs, and for planets with rule 2, conditional on rule 3.
 
-## 2026-11-10 — the travel rule and field energy ruled (the author's rulings, candidate); travel's clock factor read
+## 2026-11-10 — the travel rule and field energy ruled (ruleds, candidate); travel's clock factor read
 
 **Ruled (candidate).**
 1. *The travel rule:* a closed whole draws its turning once and its travel twice, applied at the largest closed whole; light, all travel, draws 2E. A closed whole is anything whose rest mass is measured as a whole; closure is an input. Chosen to reproduce GR's source ρ + S. Nuclei counted as closed wholes make the composition tests of active against passive mass empty by construction.
@@ -781,7 +781,7 @@ Tolman's integrand, and the active mass of a static self-gravitating body is its
 
 **Still owed.** The clock-versus-N identification inside matter (P_free/P_max against N where P includes record); where non-record draws go (C3 covers turning only); the full conserved T^μν (R_ij, g₀ᵢ, beams, PPN α₁, α₂); positivity of the fixed-amount flux. Out of reach: nuclear stress (neutron stars).
 
-**Grade.** Rules 1 and 2: candidate (the author's rulings). Travel's clock factor: candidate reading. With them, the source is GR's for radiation, gas stars, white dwarfs and planets, and the radiation era follows (the shell's acceleration equation takes ρ + 3p; with ρ ∝ a⁻⁴, Friedmann's coefficient), all conditional on the owed items.
+**Grade.** Rules 1 and 2: candidate (ruleds). Travel's clock factor: candidate reading. With them, the source is GR's for radiation, gas stars, white dwarfs and planets, and the radiation era follows (the shell's acceleration equation takes ρ + 3p; with ρ ∝ a⁻⁴, Friedmann's coefficient), all conditional on the owed items.
 
 ## 2026-11-10 — where the non-record draws go (candidate posit, proposed; after cold reading)
 
@@ -803,9 +803,9 @@ Tolman's integrand, and the active mass of a static self-gravitating body is its
 - For a superposed body the trace is branch-averaged, the same in every branch, so it carries no which-way information; but half a trace stays permanently along the arm the body did not take, which is Page–Geilker II made permanent. It is harmless only because the record does not gravitate.
 - The drawn amounts are fixed (δ per unit of turning, 2δ per unit of travel); the trace is classical by the mean, so the Page–Geilker costs already on record for light's source carry over unchanged.
 
-**Grade.** Candidate posit, proposed to the author: every draw is record (dents for turning, a continuous trace by the mean for travel, light and field energy). If ruled, it would retire "where non-record draws go" from the owed list and restore one door for the sink. Knock-on lines that say light retains no record, to mark if ruled: `SPACE_AND_GRAVITY.md` line 21; `MATTER_record.md` lines 587, 989; `OPEN_DIRECTIONS.md` line 19; this record line 484. Owed with it: the clock-versus-N identification inside matter, now including light's trace.
+**Grade.** Candidate posit proposed: every draw is record (dents for turning, a continuous trace by the mean for travel, light and field energy). If ruled, it would retire "where non-record draws go" from the owed list and restore one door for the sink. Knock-on lines that say light retains no record, to mark if ruled: `SPACE_AND_GRAVITY.md` line 21; `MATTER_record.md` lines 587, 989; `OPEN_DIRECTIONS.md` line 19; this record line 484. Owed with it: the clock-versus-N identification inside matter, now including light's trace.
 
-## 2026-11-10 — every draw is record (the author's ruling, candidate)
+## 2026-11-10 — every draw is record (ruled, candidate)
 
 The previous entry's posit is ruled (candidate): what any draw withdraws from the free stock becomes record and stays; for turning as C3's δħ per repeat, for travel, light and field energy as a continuous trace by the mean. One door for the sink. "Where non-record draws go" leaves the owed list. Earlier lines that rest on "light retains no record" (this record line 484; `MATTER_record.md` lines 587 and 989) are superseded on that point: light leaves no events and no count, but it leaves a trace. Results docs updated.
 
@@ -835,9 +835,9 @@ Against P∞ of a few ħ, both are small against a body's own h (7 × 10⁻¹⁰
 - *A check, owed:* that the scalar draws equal this tensor's R₀₀ combination with the clock factor already read (Tolman's (ρ + S)N); for free patterns and closed wholes this is the 2026-11-08 identity, so it is expected.
 - *Costs carried over:* the tensor enters by its mean (semiclassical; Page and Geilker's conservation objection at resolution events stands); the lattice frame (conservation and covariance hold in the continuum limit, with tree-level corrections suppressed by ℓ and loop corrections held with number change).
 
-**Grade.** Shape, with one identification proposed to the author (matter's T^μν is the walk's and the field's) and one construction owed (the walk on the curved network). Taken, with the construction and the check done, it would retire "the full conserved stress tensor" as an owed item for everything CO's matter covers, leaving nuclear stress out of reach as before.
+**Grade.** Shape, with one identification proposed (matter's T^μν is the walk's and the field's) and one construction owed (the walk on the curved network). Taken, with the construction and the check done, it would retire "the full conserved stress tensor" as an owed item for everything CO's matter covers, leaving nuclear stress out of reach as before.
 
-## 2026-11-10 — matter's stress tensor is the walk's and the field's (the author's ruling, candidate)
+## 2026-11-10 — matter's stress tensor is the walk's and the field's (ruled, candidate)
 
 The identification proposed in the entry above is ruled (candidate): matter's T^μν is the stress tensor of the walk's continuum limit (Dirac, with its action minimally coupled through a tetrad, imported) and of the which-way field (Maxwell), the walk running on the network's full geometry. The draws are its R₀₀ combination. Owed: the construction (CO's palindromic Wilson walk on the curved network, with a spin connection) and the check that the draws equal that combination. "The full conserved stress tensor" leaves the owed lists in that form; the construction takes its place.
 
@@ -874,7 +874,7 @@ H = βmc²N + (c/2){F, α·p},  F = N/ψ²
 - Way A (all neighbours): against births, degree, distance and locality;
 - Way B as recorded (quantum values): does not reach the loop problem;
 - Way B with a quantum graph: unsettled, and costs the substrate as ruled;
-- tuning: permitted, not accepted by the author.
+- tuning: permitted, not accepted.
 
 **Grade.** Way B as recorded: excluded as an answer to the loop problem (it keeps a frame-picking regulator). Way B with a quantum graph: shape, with no known result that matter's loops on a sum over finite-degree graphs avoid dimension-four violation, and a cost of the substrate as ruled. As ruled, CO's network picks a frame that matter's loops would see; no exit read so far removes it without tuning or a change of ruling.
 
@@ -896,9 +896,9 @@ H = βmc²N + (c/2){F, α·p},  F = N/ψ²
 
 **What follows.** As read, the frame rests on one candidate ruling (free possibility has no amplitude), one reading (vacuum relations fed by free possibility drawn in by pooling) and one exclusion by data (a quantum free stock). Option 2 meets Way A's reading (not supported by the rules). Option 3 is a third primitive. The reading is the hinge: if a relation is fed by transit, as P6, P7 and the missing sentence suggest, option 1 is open again, and its next test is occupancy's own dent exposure with a hop moving ħ.
 
-**Grade.** Option 1: set aside by a candidate ruling and a reading; its route through a quantum free stock excluded; open again if relations are fed by transit (a ruling for the author). Option 2: not supported (as Way A). Option 3: open, a third primitive that would have to carry a graph with no frame and earn its place by the author's cascade test.
+**Grade.** Option 1: set aside by a candidate ruling and a reading; its route through a quantum free stock excluded; open again if relations are fed by transit (needs a ruling). Option 2: not supported (as Way A). Option 3: open, a third primitive that would have to carry a graph with no frame and earn its place by the author's cascade test.
 
-## 2026-11-10 — a relation is fed by transit (the author's ruling, candidate); option 1's next test read (after cold reading)
+## 2026-11-10 — a relation is fed by transit (ruled, candidate); option 1's next test read (after cold reading)
 
 **Ruled (candidate).** A relation is fed by possibility in transit, not by free possibility drawn in by pooling. This follows P7 (a relation carries how much is in transit across it), P6 (possibility in transit is not free) and the beginning's missing sentence (a relation carrying less than one quantum passes no pattern and is not one). Since amplitude belongs to transit (P8), what a relation carries can carry amplitude: option 1 of the graph question is open. The classical-amounts ruling is reversed for occupancy fed by transit; the free stock, the record and the dents stay classical.
 
@@ -935,11 +935,11 @@ Matter and light fall short of one per relation per tick by 49 to 85 orders of m
 
 **What does feed them.** The only flow of the right size is the free stock's own: a few ħ per place, hopping one quantum at a time. R5 suggests the relations were laid by the free stock's quanta (degree ≈ P∞/ħ + 1 at formation); whether that flow sustains them today meets "the floor falls" (unread). So the reading here: the graph is free possibility in motion, laid at formation and, if it sustains them, kept by the same flow.
 
-**What that means for the ruling of the same day.** If this holds, the same-day ruling ("fed by possibility in transit, not by free possibility drawn in by pooling") is reversed by size: patterns and light add at most one part in 10⁴⁹ of what a relation needs. It returns to the earlier reading (vacuum relations fed by free possibility), which is for the author to re-rule. Free possibility has no amplitude (ruled, candidate), so the graph's adjacency would be set by a classical flow; making it quantum would need the free stock quantum, excluded at the current constants by dent and capacity. Relations forming and lapsing with patterns' transit cannot be what holds space together.
+**What that means for the ruling of the same day.** If this holds, the same-day ruling ("fed by possibility in transit, not by free possibility drawn in by pooling") is reversed by size: patterns and light add at most one part in 10⁴⁹ of what a relation needs. It returns to the earlier reading (vacuum relations fed by free possibility), which is open to re-ruling. Free possibility has no amplitude (ruled, candidate), so the graph's adjacency would be set by a classical flow; making it quantum would need the free stock quantum, excluded at the current constants by dent and capacity. Relations forming and lapsing with patterns' transit cannot be what holds space together.
 
 **Where this leaves the frame.** A graph of free possibility is the reading that set option 1 aside: classical, finite in degree because the quanta per place were few at formation, and a classical finite-degree graph picks a frame. The step without axes is then not decisive, because the graph it would run on is still classical. The chain is now explicit: free possibility has no amplitude (candidate; its quantum alternative excluded by data at the current constants) → the graph is classical → its degree is finite (R5) → a frame → matter's loops need tuning. Each link can be checked; the data hold only the alternative to the first (a quantum free stock is excluded).
 
-**Grade.** What the graph is made of: candidate reading, free possibility in motion (laid at formation; sustaining it today unread against the falling floor). Relations sustained by patterns' and light's transit: excluded by size (49 to 85 orders short). The same-day ruling: reversed by size if this holds, for the author to re-rule. Option 1 as an exit from the frame: set aside (a candidate ruling, a reading and a formation run; its quantum route excluded by data). The frame problem now rests on one candidate ruling backed by data (free possibility has no amplitude) and one run-based reading (degree from quanta per place).
+**Grade.** What the graph is made of: candidate reading, free possibility in motion (laid at formation; sustaining it today unread against the falling floor). Relations sustained by patterns' and light's transit: excluded by size (49 to 85 orders short). The same-day ruling: reversed by size if this holds, open to re-ruling. Option 1 as an exit from the frame: set aside (a candidate ruling, a reading and a formation run; its quantum route excluded by data). The frame problem now rests on one candidate ruling backed by data (free possibility has no amplitude) and one run-based reading (degree from quanta per place).
 
 ## 2026-11-10 — relations fed by free possibility (the author's re-ruling, candidate); CO held at tree level with the frame as its open problem
 
@@ -990,11 +990,11 @@ Throttling births to what the stock can fill does not change this: any newborn p
 
 **Grade.** Shape, no ruling. Owed before any ruling: what room a new place brings and why; whether room has amplitude, and what it does; whether room is drawn on by renewals; whether room counts in P in 1 − h = P_free/P; how R5's formation run reads with room in place of quanta of the free stock.
 
-**A sharper point the cold reading found: the amount itself must be replenished.** Independently of room, the free amount meets a hard floor: a renewal engages ħ of adjacent free possibility and halts when none is adjacent (C1, C4), and the record already states P∞ ≥ ħ always, since matter keeps renewing. With births as expansion (distance is hop count) and the free stock conserved, the amount per place thins as a⁻³ and falls below ħ within a 1.7-fold growth of a; R1 found the same from the other side (with the stock conserved, expansion stops, H ∝ a⁻⁹; the "born of record" rescue was withdrawn). So, given distance as hop count, births as expansion and matter renewing at fixed quanta, a conserved free stock is excluded: newborn places must bring free possibility of their own, or nearly so. That is the author's reading 1 applied to the amount itself, and it is needed by exclusion under those rulings, not a choice. It contradicts the plain-language statement that possibility is "never made, never destroyed"; how to state the rule (possibility conserved in what passes between places, made with each new place) is for the author. If made per place, the amount per volume is fixed as space grows, the behaviour of a cosmological constant.
+**A sharper point the cold reading found: the amount itself must be replenished.** Independently of room, the free amount meets a hard floor: a renewal engages ħ of adjacent free possibility and halts when none is adjacent (C1, C4), and the record already states P∞ ≥ ħ always, since matter keeps renewing. With births as expansion (distance is hop count) and the free stock conserved, the amount per place thins as a⁻³ and falls below ħ within a 1.7-fold growth of a; R1 found the same from the other side (with the stock conserved, expansion stops, H ∝ a⁻⁹; the "born of record" rescue was withdrawn). So, given distance as hop count, births as expansion and matter renewing at fixed quanta, a conserved free stock is excluded: newborn places must bring free possibility of their own, or nearly so. That is the author's reading 1 applied to the amount itself, and it is needed by exclusion under those rulings, not a choice. It contradicts the plain-language statement that possibility is "never made, never destroyed"; how to state the rule (possibility conserved in what passes between places, made with each new place) is open for a ruling. If made per place, the amount per volume is fixed as space grows, the behaviour of a cosmological constant.
 
-**Grade, added.** Needed (by exclusion, under the rulings named): newborn places bring free possibility; possibility is not conserved under births. Proposed to the author for a ruling on how to state it.
+**Grade, added.** Needed (by exclusion, under the rulings named): newborn places bring free possibility; possibility is not conserved under births. Proposed for a ruling on how to state it.
 
-## 2026-11-10 — possibility made with each new place (the author's ruling, candidate)
+## 2026-11-10 — possibility made with each new place (ruled, candidate)
 
 **Ruled (candidate).** Possibility is conserved in all passing and committing between places; each new place is born with its share. It replaces "a fixed amount, never made, never destroyed". The author's own view: dark energy comes with new places, and the conservation statement had to change. What it keeps: every result drawn from conservation within passing (the meeting rule P8, the Born identification, the hopping law, the sink) happens between existing places and is unchanged. What it retires: the starving free stock (C4 under a⁻³ thinning) and R1's stalled expansion with a conserved stock; the floor tension is retired if a new place brings about P∞ (owed). What it gives: a density of possibility fixed as space grows; a cosmological constant's behaviour (not its value) if that possibility sources gravity (owed).
 
@@ -1045,9 +1045,9 @@ The birth share P_b is then a fixed number of the theory's own, beside δ, P_max
 
 **What a birth is.** The record's candidate "a place is born by its first commitment" meets the constant-chance part: in a void under capacity nothing commits (the threshold), and the third ways to commit tried earlier were excluded or set aside. With possibility now made with each new place, a birth can be read on the possibility side instead: a place appearing with its share, not a commitment. Then voids need not commit for space to grow, and births leave no record (no draw, and so no field, as the in-place reading of the previous entry needs). The excluded row "free possibility commits on its own" (births ∝ places) had the same form; its reason, that the vacuum would commit, does not reach possibility-side births. This would retire "born by its first commitment" for void births; births at commitments mid-transit (a pattern committing where no place was) stay as they were.
 
-**Grade.** Birth share P_b ≈ (d − 1)ħ: candidate reading, tying it to the degree. Birth rate on demand, slaved to the dynamics: candidate reading (an identification, as before). Constant per-place chance: shape; Λ restated as a birth rate of about 10⁻⁵⁷ per place per tick, value an input. Births as possibility-side events, not commitments, in voids: shape, proposed to the author.
+**Grade.** Birth share P_b ≈ (d − 1)ħ: candidate reading, tying it to the degree. Birth rate on demand, slaved to the dynamics: candidate reading (an identification, as before). Constant per-place chance: shape; Λ restated as a birth rate of about 10⁻⁵⁷ per place per tick, value an input. Births as possibility-side events, not commitments, in voids: shape proposed.
 
-## 2026-11-10 — void births are possibility events (the author's ruling, candidate)
+## 2026-11-10 — void births are possibility events (ruled, candidate)
 
 **Ruled (candidate).** In the voids a new place appears with its share: a possibility-side birth, not a commitment. It leaves no record, does not tick, and makes no field. "A place is born by its first commitment" is retired for void births; places made where a pattern commits mid-transit, and the first epoch's places, made as the first commitments' repeats spread possibility outward, stay as they were. Births run at 3H per place on average (places of fixed size), slaved to the dynamics (Friedmann's equation with Λ); in the late limit the Λ term reads as a constant birth chance per place, r = c√(3Λ) ≈ 5.5 × 10⁻¹⁸ s⁻¹, about 2 × 10⁻⁵⁷ per tick, its value an input.
 
@@ -1057,9 +1057,9 @@ The birth share P_b is then a fixed number of the theory's own, beside δ, P_max
 
 Question: is C2 (ω = ω₀(1 − h)) a separate quality, or does it follow from C1 and C4? Reading checked: each beat at ω₀ draws ħ evenly from the place's possibility and completes only if what it draws is free, which gives a mean completion rate ω₀(1 − h), exactly C2. Alternatives: taking free possibility wherever it lies gives no redshift (excluded, Pound–Rebka, Gravity Probe A); n even sub-draws give N = e^{−nU} and, with the route factor unchanged, γ = 1/n (Cassini forces n = 1; this is q = ħ only if each sub-draw is one hop quantum). Cold reader: the even draw is picked by redshift data, not by "adding no rule"; C1's wording was the excluded reading and now states the even draw; scatter √(h/[(1 − h)N_b]). Open (shape): the size of the clock scatter, which depends on what h is measured against.
 
-## 2026-11-10 — the free-share rule: regular ticks, not chance (the author's ruling, candidate; after cold reading)
+## 2026-11-10 — the free-share rule: regular ticks, not chance (ruled, candidate; after cold reading)
 
-The even draw read as chance completions predicts clock noise σ_τ = √(h t/ω₀) and atom–atom decoherence after T_c = ω₀/(ω_tr² h). Strontium atoms stay in step 26 s (Zheng et al. 2022), so h ≲ 7×10⁻⁷ (about 1×10⁻⁷ if a beat is a cycle), below the galaxy's |Φ|/c² ≈ 1–2×10⁻⁶; 10⁵ tighter if a transition followed the electron's own beat. The author's ruling: beats do not complete by chance; the rate is set by the relations (hopping in against the sink). Written as the free-share rule: each beat advances by the share 1 − h, carrying the remainder, and a tick completes at a whole ħ. Same C2, no scatter, only differences in h seen. Chance reading excluded if h counts every mass.
+The even draw read as chance completions predicts clock noise σ_τ = √(h t/ω₀) and atom–atom decoherence after T_c = ω₀/(ω_tr² h). Strontium atoms stay in step 26 s (Zheng et al. 2022), so h ≲ 7×10⁻⁷ (about 1×10⁻⁷ if a beat is a cycle), below the galaxy's |Φ|/c² ≈ 1–2×10⁻⁶; 10⁵ tighter if a transition followed the electron's own beat. Ruled: beats do not complete by chance; the rate is set by the relations (hopping in against the sink). Written as the free-share rule: each beat advances by the share 1 − h, carrying the remainder, and a tick completes at a whole ħ. Same C2, no scatter, only differences in h seen. Chance reading excluded if h counts every mass.
 
 ## 2026-11-10 — "record becomes relation" against the current rules (one exclusion by size; one silence)
 
@@ -1070,7 +1070,7 @@ The author's long-held picture: record, over time, becomes relation; space is ma
 
 ## 2026-11-10 — record from the first epoch: what "record becomes relation" would need (a condition; one conflict)
 
-**Dilution since nucleosynthesis.** Distance is hop count, so the number of places in a comoving volume grows as a³, and new places since the first epoch are born possibility-side, with no record (the author's ruling). Since nucleosynthesis (T ≈ 0.1 MeV, 1 + z ≈ 4×10⁸) places have multiplied by about 10²⁶. Record made since then is ~10⁻⁵⁸ ħ per place (previous entry). For record to feed today's relations, about P_b ≈ (d − 1)ħ ≈ 5ħ per place, each place at nucleosynthesis must already have held
+**Dilution since nucleosynthesis.** Distance is hop count, so the number of places in a comoving volume grows as a³, and new places since the first epoch are born possibility-side, with no record (ruled). Since nucleosynthesis (T ≈ 0.1 MeV, 1 + z ≈ 4×10⁸) places have multiplied by about 10²⁶. Record made since then is ~10⁻⁵⁸ ħ per place (previous entry). For record to feed today's relations, about P_b ≈ (d − 1)ħ ≈ 5ħ per place, each place at nucleosynthesis must already have held
 
 R_BBN ≳ 5ħ × (1 + z_BBN)³ ≈ 4×10²⁶ ħ,
 
@@ -1086,19 +1086,19 @@ So the picture needs δ (P_max/ħ) n ≳ 4×10²⁶ (a_BBN/a_exit)³; with δ �
 
 **Grade.** Silence narrowed to a condition (shape): "record becomes relation" for today's space needs the first epoch to leave ≳ 4×10²⁶ ħ of record per place at nucleosynthesis, and, if record counts in a place's possibility, an exactly uniform record. The beginning's part, space made by the first commitments' repeats, is untouched.
 
-## 2026-11-10 — record is not possibility (the author's ruling, candidate)
+## 2026-11-10 — record is not possibility (ruled, candidate)
 
 Record is what possibility became when it was drawn; it stays at its place but is no longer possibility, so it does not count in a place's P. With it, 1 − h = P_free/P inside matter differs from P_free/P∞ only by the live engaged share, about 10⁻⁴⁹ per place at nuclear density (10⁻⁶² in rock), not by record (10⁻¹⁴ at most). The conflict in the previous entry goes: a large first-epoch record would not touch the clock. "Record becomes relation" for today's space then needs only the condition of the previous entry. Supersedes "with the record counted in P" (entry "the clock inside matter", above) on that point.
 
-## 2026-11-10 — C8's sharp cutoff against the walk's line shape (proposed to the author)
+## 2026-11-10 — C8's sharp cutoff against the walk's line shape ( proposed)
 
 C8 says: outside a channel, none (κ = 0). Read against whole-ħ engagement and the walk. An engagement takes a whole quantum and conserves energy, so a lasting engagement off step needs a final state that absorbs the mismatch; a final state of width Γ (its lifetime) does so with the Lorentzian weight
 
 κ(Δ) ∝ (Γ/2)² / (Δ² + (Γ/2)²),
 
-the line shape the walk and the phase give (golden rule with a decaying final state). Off step the passage amplitude oscillates back (Rabi, peak Ω²/(Ω² + Δ²)) and leaves nothing unless a final state's width covers the mismatch. So whole-ħ engagement does not give a sharp κ = 0; it gives a smooth fall as Γ²/(4Δ²). Measured line wings fall this way (natural and pressure-broadened Lorentzian wings), so a literal sharp cutoff at the channel's edge would be excluded. Proposed reading: a channel is a final state with its width; κ follows its line shape, and is zero only where the coupling's matrix element is zero (no final state, or a selection rule). Not applied to the results docs: C8 is the author's ruling.
+the line shape the walk and the phase give (golden rule with a decaying final state). Off step the passage amplitude oscillates back (Rabi, peak Ω²/(Ω² + Δ²)) and leaves nothing unless a final state's width covers the mismatch. So whole-ħ engagement does not give a sharp κ = 0; it gives a smooth fall as Γ²/(4Δ²). Measured line wings fall this way (natural and pressure-broadened Lorentzian wings), so a literal sharp cutoff at the channel's edge would be excluded. Proposed reading: a channel is a final state with its width; κ follows its line shape, and is zero only where the coupling's matrix element is zero (no final state, or a selection rule). Not applied to the results docs: C8 is the ruling.
 
-## 2026-11-10 — C8: a channel is a final state with its width (the author's ruling, candidate; after cold reading)
+## 2026-11-10 — C8: a channel is a final state with its width (ruled, candidate; after cold reading)
 
 The proposal above is ruled. Results docs updated: engagement follows the final state's line shape, Lorentzian near the line; κ = 0 only with no final state or a zero matrix element; "matching within its width". Cold reader: far wings are not Lorentzian (counter-rotating terms, mode density, the matrix element's frequency dependence, pressure broadening), so the evidence against a sharp edge is wings that fall smoothly and stay nonzero many widths off line. The no-spontaneous-collapse bullet's κ = 0 is the no-final-state case and stands. Also from the same read: the engaged share, at most ~10⁻⁴⁹ per place at nuclear density, is an upper limit since ℓ is an upper bound.
 
@@ -1127,7 +1127,7 @@ Reading (candidate). Transport of the free stock, diffusive, ballistic or mixed,
 
 **Entered.** OPEN_DIRECTIONS ("What carries the field"); TECHNICAL_APPENDIX ("What kind of derivation", now static); README ("static weak field", one sentence).
 
-## 2026-11-10 — the static field and G from the occupancies (shape; one ruling proposed to the author)
+## 2026-11-10 — the static field and G from the occupancies (shape; one ruling proposed)
 
 **The move.** With the free stock unable to carry the field (previous entry), let the draw set the relations directly: what every draw withdraws as record puts the relations around it out of step (their occupancies), and the cost of relations being out of step is Einstein–Hilbert (Lovelock, given its hypotheses), whose dynamics run at c. Nothing flows in; the field is carried by the relations.
 
@@ -1137,11 +1137,11 @@ G = δ c³ℓ² / (4πħ K_r) × (a lattice factor of order one).
 
 With K_r = 1, one quantum of stiffness per relation (relations fed by about one quantum, the reading already used for the birth share), this is step 1's G = δc³ℓ²/(4πħ), up to the order-one factor that a concrete rule for how a draw sets occupancies would fix (4π against 16π is that kind of factor). ℓ = ℓ_P√(4π/δ) and δ ≳ 2 × 10⁻⁷ then return on this footing, at shape grade, conditional on K_r = 1.
 
-**What it keeps and costs.** Keeps: G's form, the δ–ℓ link, a field that follows moving bodies at c (it is GR's), and the author's picture that what is happening (the draws) shapes space. Costs: a posit, not a reading: *a draw sets the occupancies of the relations around it* (proposed for the author's ruling); the occupancy, which was read as the excess the free stock delivers, becomes what the draws set; and the order-one factor, open until the posit has a concrete form.
+**What it keeps and costs.** Keeps: G's form, the δ–ℓ link, a field that follows moving bodies at c (it is GR's), and the author's picture that what is happening (the draws) shapes space. Costs: a posit, not a reading: *a draw sets the occupancies of the relations around it* (proposed for the ruling); the occupancy, which was read as the excess the free stock delivers, becomes what the draws set; and the order-one factor, open until the posit has a concrete form.
 
 **Grade.** Shape. Proposed ruling: the draw, not inflow of free stock, sets the occupancies; stiffness one quantum per relation.
 
-## 2026-11-10 — the draw sets the occupancies (the author's ruling, candidate)
+## 2026-11-10 — the draw sets the occupancies (ruled, candidate)
 
 The proposal of the previous entry is ruled: a draw sets the occupancies of the relations around it, a relation's stiffness one quantum (K_r = 1). Entered in the results docs: the P6 row and step 2 of the appendix; OPEN_DIRECTIONS ("What carries the field"); README; SPACE_AND_GRAVITY ("The field (static form)", the stiffness sentence); MATTER (the δ bound); the plain doc. G = δc³ℓ²/(4πħ) and δ ≳ 2 × 10⁻⁷ return on this footing, up to a lattice factor of order one, open.
 
@@ -1183,9 +1183,9 @@ carried by h, not by the amount of possibility at the place. The excess occupanc
 
 **What stays.** The static balance (previous entries) is unchanged: across the free share's profile, ratio hopping carries the body's draw through every sphere. The stock's role is food and the steady stream; its *shape* near a body is the relations' doing.
 
-**Grade (after cold reading).** A posit, not a reading: P3 and C1 define h as what commitments engage, and P7 makes the vacuum's feed free possibility in motion; possibility *held* by a relation is new. Proposed for the author's ruling: *the excess occupancy a draw sets is possibility held in the relation, not free for commitments to engage, and it does not draw; h counts that share.* Both clauses are needed: if held possibility were free to engage, clocks would not slow; if it drew, the held amount (growing as R² with radius) would change the U² terms and β. With it, "the stock carried with the body" and "the clock reads the relations" coincide. Owed, an order-one check: with the vacuum's occupancy about ħ per relation, three relations per place and P∞ ≈ 5ħ, h ≈ (3/5)o, while a route factor 1/(1 − h) per hop needs o ≈ h; the lattice must set the factor.
+**Grade (after cold reading).** A posit, not a reading: P3 and C1 define h as what commitments engage, and P7 makes the vacuum's feed free possibility in motion; possibility *held* by a relation is new. Proposed for the ruling: *the excess occupancy a draw sets is possibility held in the relation, not free for commitments to engage, and it does not draw; h counts that share.* Both clauses are needed: if held possibility were free to engage, clocks would not slow; if it drew, the held amount (growing as R² with radius) would change the U² terms and β. With it, "the stock carried with the body" and "the clock reads the relations" coincide. Owed, an order-one check: with the vacuum's occupancy about ħ per relation, three relations per place and P∞ ≈ 5ħ, h ≈ (3/5)o, while a route factor 1/(1 − h) per hop needs o ≈ h; the lattice must set the factor.
 
-## 2026-11-10 — held possibility (the author's ruling, candidate), and the order-one check it sets (needed, by Cassini)
+## 2026-11-10 — held possibility (ruled, candidate), and the order-one check it sets (needed, by Cassini)
 
 **Ruled.** The posit of the previous entry: the excess occupancy a draw sets is possibility held in the relation, not free for commitments to engage, and it does not draw; h counts that share. Entered: P7 row, OPEN_DIRECTIONS, README.
 
@@ -1201,7 +1201,7 @@ P∞ = (d/2) f: a place's whole possibility is its share of its relations' feed 
 
 **Reading.** In plain terms: the vacuum at a place is nothing but its half of what its relations carry. That is the author's "space made of relations" as a consistency condition, needed for P7's two route clauses to agree once relations hold the field.
 
-## 2026-11-10 — possibility plus record is conserved (the author's ruling, candidate)
+## 2026-11-10 — possibility plus record is conserved (ruled, candidate)
 
 An outside reading caught a contradiction: conservation said Σ P unchanged by every commitment (ruled), while "record is not possibility" (ruled today) and C3 turn δħ per repeat into record. Resolved (after cold reading): Σ P is unchanged by every hop; every draw (C3's δħ per repeat; P6's travel, light and field energy) turns possibility into record; between births Σ(P + R) is unchanged and dR ≥ 0, so possibility only ever becomes record, never the reverse. Supersedes "unchanged by every commitment". Why the far-field P∞ does not run down: births bring each new place its share (candidate; size needed, entry above), and the draw over the universe's age is small against the stock (record per place ~10⁻⁵⁸ ħ, entry above). Entered in README, the plain doc, SPACE_AND_GRAVITY's glossary and the appendix's conservation row.
 
@@ -1234,7 +1234,7 @@ D_t² the second difference over ticks, Δ_ℓ the nearest-neighbour lattice Lap
 - (b) a disordered network whose relations point in many directions, with γ_ij read statistically over a neighbourhood: random-lattice Regge (Christ, Friedberg and Lee 1982) and causal sets (Bombelli, Lee, Meyer and Sorkin 1987) take this route. Cost: by Maxwell counting a three-dimensional network of mean degree below 6 has floppy modes, so at R7b's annealed degree of 4–6 the lengths underdetermine the geometry; and the walk and its frame on a disordered graph are unread.
 Grade: shape for both; neither ruled.
 
-## 2026-11-11 — rulings on the carriers, and the field doubler (the author's rulings, candidate; scan entered at the author's go-ahead)
+## 2026-11-11 — rulings on the carriers, and the field doubler (ruleds, candidate; scan entered at go-ahead)
 
 **Ruled.** (1) Drag: the occupancy may differ by direction; its one-way part, set by the direction of travelling draws, carries the shift. (2) Shear: the relations point in many directions, a grown network of mean degree 6, so shear is read over a neighbourhood. Mean degree 6 is Maxwell's isostatic count in three dimensions (2 × 3): the lowest mean degree at which lengths can fix a generic network's shape (necessary, not sufficient; the cubic lattice, also degree 6, is floppy), and the walk's degree; noted as a shape, not a derivation. Owed by (2): the walk and its frame on such a network. Entered: P7 split into P7a–d, with the conflicts with the cubic lattice listed under P7c; OPEN_DIRECTIONS ("What carries the field").
 
@@ -1256,7 +1256,7 @@ vanishes at the origin as k⁴ (leading speed c in every direction, exact along 
 - (b) a grown network (ruled, candidate): keeps mean degree 6; costs every cubic result (the walk, Wilson, L1b, §2's factor, the doubler scan, R7b) and a 3+1 massive Dirac walk on irregular graphs, not known.
 - (c) a frame per place on the cubic graph: keeps every cubic result and the degree; the curved 3+1 Dirac walk is known for it; costs a new place quantity (the frame, six components of the spatial metric modulo rotations, plus the shift already carried by P7b) and makes shear a property of places rather than of relations.
 
-**Reading.** (c) carries shear at the least cost on present knowledge, and the walk in curved space is already written for it. It runs against (b), ruled the same morning; nothing changes in the results docs until the author rules. If (c) is taken, item 2 (L1b on a grown network) falls away: the hop-length bound stays the cubic one.
+**Reading.** (c) carries shear at the least cost on present knowledge, and the walk in curved space is already written for it. It runs against (b), ruled the same morning; nothing changes in the results docs until ruled. If (c) is taken, item 2 (L1b on a grown network) falls away: the hop-length bound stays the cubic one.
 
 ## 2026-11-11 — shear carried by a frame per place (the author's re-ruling, candidate); how the draws set it
 
@@ -1286,7 +1286,7 @@ So, linearised, every outcome is fixed by analysis already done; the run asked f
 
 **Where a run would bite.** Two places, both beyond this entry: (1) the full nonlinear rule (a lattice tetrad form on the carriers; Regge alone, on edge lengths, does not hold the frames), needed for strong fields and for the U² terms that the static derivation took from Lovelock; (2) whether the walk's lattice stress tensor obeys a conservation law matching the stencil, and in particular whether its total energy-momentum is exactly conserved, which decides whether the gauge violation stays O(ℓ²) or grows linearly. Either outcome is unknown; (2) is the smaller and comes first.
 
-**Grade.** The rule: built on the author's rulings (P6, P7a–c), candidate; its linearised consequences: reading. Imported: linearised Einstein–Hilbert's form (Lovelock).
+**Grade.** The rule: built on the rulings (P6, P7a–c), candidate; its linearised consequences: reading. Imported: linearised Einstein–Hilbert's form (Lovelock).
 
 ## 2026-11-11 — the walk's total energy and momentum are exactly conserved (reading; one numerical check)
 
@@ -1306,9 +1306,9 @@ whose totals are (ħ/τ)⟨sin(Hτ/ħ)⟩ and (ħ/ℓ)⟨sin(p_iℓ/ħ)⟩, with
 
 ## 2026-11-11 — grade word: "ruled" becomes "posited" in the results docs (the author's decision)
 
-An outside reading noted that "ruled" reads to a physicist as "derived". In the results docs the grade is now "posited": a quality the author has decided, not derived. Where "ruled" had meant derived (NUCLEUS, chirality-blindness from a symmetry argument and a check), the wording now says so. The records keep "ruled" as written at the time. Also: the README scope line now says quantum mechanics is reached "largely by identification with known constructions"; the shot-noise figure in SPACE_AND_GRAVITY now shows its inputs (8 × 10⁻³⁶ rad, the record's value).
+An outside reading noted that "ruled" reads to a physicist as "derived". In the results docs the grade is now "posited": a quality decided, not derived. Where "ruled" had meant derived (NUCLEUS, chirality-blindness from a symmetry argument and a check), the wording now says so. The records keep "ruled" as written at the time. Also: the README scope line now says quantum mechanics is reached "largely by identification with known constructions"; the shot-noise figure in SPACE_AND_GRAVITY now shows its inputs (8 × 10⁻³⁶ rad, the record's value).
 
-## 2026-11-11 — the results docs leaned (the author's request)
+## 2026-11-11 — the results docs leaned
 
 The seven results docs were leaned from about 22,800 to about 10,600 words: results forward, one claim per sentence, grades in the appendix's grade column, reasons and history left here. The pre-lean versions are kept whole in `RECORD_OF_METHOD/snapshots/2026-11-11/`. A cold reader compared the two and restored every lost result and caveat (inside-matter conditions and P = P∞; the free-share rule on the clock; Lovelock's hypotheses; Schwarzschild as consistency; Page–Geilker; the imported coupling and pointer basis; Dirac and Mercury as identification and fit).
 
@@ -1318,9 +1318,9 @@ The held-possibility condition P∞ = (d/2)f says a place's possibility is its s
 
 ## 2026-11-11 — run G1: relabelling freedom forces linearised Einstein–Hilbert on the cube (needed, at linear order)
 
-Registered, run and checked (`SPACE_AND_GRAVITY_runs/G1_gauge_isotropy/`). With "sliding or relabelling costs nothing" applied to the ten carriers (moving places: ξ_i; resetting clocks: ξ_0, the one-way part's loop-only behaviour), the quadratic two-derivative costs allowed by the cubic group form a two-dimensional space, the same as under full rotations; it contains Fierz–Pauli exactly, and every member propagates tensor waves isotropically. So at linear order the relations' cost is linearised Einstein–Hilbert up to a strength and a speed, without assuming Lorentz invariance, given that resetting clocks (with the lapse shift) is free as well as moving places. Cold reading: moving places alone leaves one direction-dependent cost (8 against 7); resetting clocks is an extension of P7 to time, proposed for the author's ruling; the speed and its sign are not fixed by G1. Read by the author before entry. Results docs updated: "given Lovelock's hypotheses" now applies to the full exterior only.
+Registered, run and checked (`SPACE_AND_GRAVITY_runs/G1_gauge_isotropy/`). With "sliding or relabelling costs nothing" applied to the ten carriers (moving places: ξ_i; resetting clocks: ξ_0, the one-way part's loop-only behaviour), the quadratic two-derivative costs allowed by the cubic group form a two-dimensional space, the same as under full rotations; it contains Fierz–Pauli exactly, and every member propagates tensor waves isotropically. So at linear order the relations' cost is linearised Einstein–Hilbert up to a strength and a speed, without assuming Lorentz invariance, given that resetting clocks (with the lapse shift) is free as well as moving places. Cold reading: moving places alone leaves one direction-dependent cost (8 against 7); resetting clocks is an extension of P7 to time, proposed for the ruling; the speed and its sign are not fixed by G1. Read before entry. Results docs updated: "given Lovelock's hypotheses" now applies to the full exterior only.
 
-## 2026-11-11 — resetting clocks costs nothing (the author's ruling, candidate)
+## 2026-11-11 — resetting clocks costs nothing (ruled, candidate)
 
 "No backdrop" extended to time: resetting a place's clock, with the shift of its lapse, costs nothing, as moving or relabelling places does. Reason: a place's clock reading has no meaning of its own; only ratios of counts are read. With it, run G1's result holds in full: at linear order on the cubic graph the relations' cost is linearised Einstein–Hilbert, isotropic. Entered: the appendix (P7e), SPACE_AND_GRAVITY, README, the plain doc.
 
@@ -1336,9 +1336,9 @@ Registered, run and checked (`SPACE_AND_GRAVITY_runs/G1_gauge_isotropy/`). With 
 - *The consistency at the body uses leading order only* (the flux through a sphere uses U to first order), and on the curved network ratio hopping with lapse weighting gives GR's static lapse equation, ∂_i(ψ²∂_iN) = 0.
 This shows agreement, not yet that nothing is counted twice. Outside matter N = e^{−U} gives ∇²N = (∇U)²e^{−U}: the static form's U²/2 is the field's own energy drawing, already counted once, by ratio hopping's compounding. (Point 1 needs the same care at second order: the clock's slowing is h = U − U²/2, and that U² piece is this field energy.) So the extension of P6 must be that same draw, read covariantly, not an added source; added on top, β ≠ 1. Owed: show that ratio hopping's compounding is Deser's self-coupling. If it is, ratio hopping was already gravity's self-coupling at second order, a consilience.
 
-**Reading.** If the relations' field energy draws as every other field's does (the extension of P6, proposed for the author's ruling), Deser's three hypotheses are CO's, and full nonlinear Einstein–Hilbert follows from G1 by the bootstrap, with the stress-tensor choices the literature notes. Lovelock (general covariance) becomes a cross-check. Grade: shape until ruled; then candidate, built on G1 (needed, given the clock ruling) and P6.
+**Reading.** If the relations' field energy draws as every other field's does (the extension of P6, proposed for the ruling), Deser's three hypotheses are CO's, and full nonlinear Einstein–Hilbert follows from G1 by the bootstrap, with the stress-tensor choices the literature notes. Lovelock (general covariance) becomes a cross-check. Grade: shape until ruled; then candidate, built on G1 (needed, given the clock ruling) and P6.
 
-## 2026-11-11 — the relations' field energy draws (the author's ruling, candidate); the third-order check (reading)
+## 2026-11-11 — the relations' field energy draws (ruled, candidate); the third-order check (reading)
 
 **Ruled.** The relations' own field energy draws as every field's does, not an added source: the draw the flat ln P law's compounding stands in for (see below). Entered: the appendix's P6 row.
 
@@ -1385,9 +1385,9 @@ One outside reader checked the chain: G1 → one coupling → G → the static l
 
 **Grade.** Reading. It supplies the local conservation the single coupling needed: "one strength for every part" returns from shape to a reading, given P7e, at linear order and up to O(ℓ²).
 
-## 2026-11-11 — run G3: among the placements tested, at nearest-neighbour range, no backdrop holds exactly on the lattice only with the carriers staggered (the author's ruling, candidate)
+## 2026-11-11 — run G3: among the placements tested, at nearest-neighbour range, no backdrop holds exactly on the lattice only with the carriers staggered (ruled, candidate)
 
-Registered and run (`SPACE_AND_GRAVITY_runs/G3_lattice_gauge/`), read by the author before entry. With the carriers placed as P7 had them (stretch and one-way part on links, lapse and shear at places), no quadratic cost of nearest-neighbour range is exactly invariant under the lattice's own "moving places" and "reparametrising time"; with shear on the squares, none either. With the carriers staggered (lapse and stretch at places; the one-way part and the displacement of places on relations; shear on the squares) there are eleven: ten reduce at long wavelength to G1's family (linearised Einstein–Hilbert up to strength and speed), and one vanishes at leading order, a pure lattice-scale term. The staggered case began as the method's check and turned out to be the answer.
+Registered and run (`SPACE_AND_GRAVITY_runs/G3_lattice_gauge/`), read before entry. With the carriers placed as P7 had them (stretch and one-way part on links, lapse and shear at places), no quadratic cost of nearest-neighbour range is exactly invariant under the lattice's own "moving places" and "reparametrising time"; with shear on the squares, none either. With the carriers staggered (lapse and stretch at places; the one-way part and the displacement of places on relations; shear on the squares) there are eleven: ten reduce at long wavelength to G1's family (linearised Einstein–Hilbert up to strength and speed), and one vanishes at leading order, a pure lattice-scale term. The staggered case began as the method's check and turned out to be the answer.
 
 **Ruled.** The carriers move to the staggered placement (P7a–c rewritten): places carry size (the held share, the stretch), relations carry direction (the one-way part, the displacement, the which-way phase), squares carry shear.
 
@@ -1435,7 +1435,7 @@ and since −c h·p gives −(c/2)(∇ × h)·L for an orbit's angular momentum 
 
 **Grade.** Candidate reading: it carries the static curved walk's grade (identification, continuum limit owed), the single coupling (reading), γ = 1 (data choice), and the identification that the walk responds to the one-way part as it sources it. GP-B's two numbers are met under these.
 
-## 2026-11-11 — how the walk responds to the carriers, from no backdrop (reading, given P7e applied to the walk, proposed for the author's ruling)
+## 2026-11-11 — how the walk responds to the carriers, from no backdrop (reading, given P7e applied to the walk, proposed for the ruling)
 
 **The owed step.** The gyroscope entry used two identifications: the static curved walk in Obukhov's form, and the walk responding to the one-way part as it sources it. Both are the walk's response to the carriers. This entry asks how far no backdrop fixes that response.
 
@@ -1443,7 +1443,7 @@ and since −c h·p gives −(c/2)(∇ × h)·L for an orbit's angular momentum 
 
 δh_μν = ∂_μξ_ν + ∂_νξ_μ,
 
-describes the same history. This is the same posit applied to everything on the network; it is proposed for the author's ruling because P7e's row does not yet say it.
+describes the same history. This is the same posit applied to everything on the network; it is proposed for the ruling because P7e's row does not yet say it.
 
 **What it fixes.** Take the walk's response linear in the carriers, local, with at most one derivative on them. Couplings to curvature (two derivatives) are suppressed by their own length, the hop ℓ or the pattern's Compton wavelength, against the field's scale.
 
@@ -1458,7 +1458,7 @@ So, in the continuum at linear order, the walk's response is −½ h_μν T^μν
 
 **Grade.** Reading, given P7e applied to the walk (proposed) and, for spin, the frame identification (P8b's). In the continuum this is the textbook uniqueness of linear coupling (Weinberg; Deser); what is new is only that CO's no backdrop is the premise.
 
-## 2026-11-11 — ruled: no backdrop applies to the walk (the author's ruling, candidate); a hop takes the mean of its ends' stretch
+## 2026-11-11 — ruled: no backdrop applies to the walk (ruled, candidate); a hop takes the mean of its ends' stretch
 
 **Ruled.** No backdrop holds for everything on the network, the walk included: a pattern cannot tell a relabelling of places or clocks from no change. Entered in P7e. With the previous entry, the walk's linear response is −½ h_μν T^μν (needed, given the ruling, locality and at most one derivative; continuum, linear order). The gyroscope result's grade moves accordingly (SPACE_AND_GRAVITY, README). Owed: the lattice form; nonlinear order.
 
@@ -1466,11 +1466,11 @@ So, in the continuum at linear order, the walk's response is −½ h_μν T^μν
 
 ## 2026-11-11 — run G4: no backdrop for matter holds exactly on the lattice, at linear order (stand-in)
 
-Registered and run (`SPACE_AND_GRAVITY_runs/G4_lattice_matter_coupling/`), read by the author before entry. For the Wilson–Dirac lattice Hamiltonian in continuous time, a stand-in for the walk, there are local operators at the smallest range tried (one site beyond each object) forming an exactly conserved, exactly symmetric stress tensor placed as the staggered carriers need: energy E at places with Σ E = H; on each link one J_i, the energy current, which serves as the momentum density in the second identity (its total is E v_i, c_eff² times momentum only at long wavelength); P_ii at places; one P_ij per face, shared by the i- and j-momentum fluxes. Found in 2 + 1 (m = 0.3 and m = 0) and 3 + 1 (m = 0.3); both controls solvable; in band states J_i = E v_i and P_ij = E v_i v_j. So the coupling Σ h·T is exactly unchanged by the lattice relabellings at linear order, as run G3 found for the carriers' cost.
+Registered and run (`SPACE_AND_GRAVITY_runs/G4_lattice_matter_coupling/`), read before entry. For the Wilson–Dirac lattice Hamiltonian in continuous time, a stand-in for the walk, there are local operators at the smallest range tried (one site beyond each object) forming an exactly conserved, exactly symmetric stress tensor placed as the staggered carriers need: energy E at places with Σ E = H; on each link one J_i, the energy current, which serves as the momentum density in the second identity (its total is E v_i, c_eff² times momentum only at long wavelength); P_ii at places; one P_ij per face, shared by the i- and j-momentum fluxes. Found in 2 + 1 (m = 0.3 and m = 0) and 3 + 1 (m = 0.3); both controls solvable; in band states J_i = E v_i and P_ij = E v_i v_j. So the coupling Σ h·T is exactly unchanged by the lattice relabellings at linear order, as run G3 found for the carriers' cost.
 
 Given G3's relabelling rules, of which these identities are the dual. Owed: the discrete-time walk itself; interactions (the stand-in is free matter); nonlinear order. Solutions are not unique (improvement terms free).
 
-## 2026-11-11 — the nonlinear rule by consistent deformation (reading, given four premises; one proposed for the author's ruling)
+## 2026-11-11 — the nonlinear rule by consistent deformation (reading, given four premises; one proposed for the ruling)
 
 **The question.** At linear order the relations' cost is forced to Fierz–Pauli, linearised Einstein–Hilbert (run G1, given P7e). What fixes the cost beyond linear order? Two routes were named: Deser's bootstrap (contested: Padmanabhan 2008; Butcher, Hobson and Lasenby 2009) and Lovelock's theorem (imported, assuming a metric theory with divergence-free field equations).
 
@@ -1478,17 +1478,17 @@ Given G3's relabelling rules, of which these identities are the dual. Owed: the 
 
 **The premises, and where CO stands on each.**
 1. *Fierz–Pauli free limit:* run G1 (needed, given P7e and the tensor identification), isotropic on the cube at long wavelength. Supplied.
-2. *No backdrop at every order*, with the relabelling freedom allowed to depend on the field. P7e as ruled is linearised. Proposed for the author's ruling: *moving places and resetting clocks cost nothing at every order*.
+2. *No backdrop at every order*, with the relabelling freedom allowed to depend on the field. P7e as ruled is linearised. Proposed for the ruling: *moving places and resetting clocks cost nothing at every order*.
 3. *Locality and at most two derivatives at every order:* G1 assumed these for the quadratic cost; at every order it is an extended assumption, and it is the one that removes R², R³ (whose coefficients were already "assumed" of order one in hop units). Assumption.
 4. *Lorentz invariance of the interactions, not only of the free limit,* at long wavelength: open in CO. The frame problem (a per-sector speed allowed by the lattice) bears directly on it, and G1's speed equal to c is owed. Assumption.
 
-**Not the free branch.** If matter couples and feels the field, its own stress tensor is no longer conserved, and a coupling to an unconserved source breaks the linear gauge freedom at second order (the Feynman–Deser argument); so the field must source itself and the free branch is excluded. BDGH treat pure gravity (with scalar matter for the no-cross-coupling result); that the single-field deformation stays Einstein–Hilbert with general matter is a further import. Matter's response here is the author's ruling (P7e for the walk), candidate.
+**Not the free branch.** If matter couples and feels the field, its own stress tensor is no longer conserved, and a coupling to an unconserved source breaks the linear gauge freedom at second order (the Feynman–Deser argument); so the field must source itself and the free branch is excluded. BDGH treat pure gravity (with scalar matter for the no-cross-coupling result); that the single-field deformation stays Einstein–Hilbert with general matter is a further import. Matter's response here is the ruling (P7e for the walk), candidate.
 
 **What follows, given the four premises.** The relations' cost is, up to field redefinitions,
 
 S = (c⁴/16πG) ∫ √−g (R − 2Λ) d⁴x + S_matter.
 
-1. *Self-coupling.* The self-coupling P6 names (the relations' field energy draws) is supplied by Einstein–Hilbert, and it matches the static reading (the stretch weighting ψ²). "Field energy" as a local density is gauge-dependent here (a pseudotensor), and that the draw becomes record (dR ≥ 0) does not follow: that part stays the author's ruling, candidate.
+1. *Self-coupling.* The self-coupling P6 names (the relations' field energy draws) is supplied by Einstein–Hilbert, and it matches the static reading (the stretch weighting ψ²). "Field energy" as a local density is gauge-dependent here (a pseudotensor), and that the draw becomes record (dR ≥ 0) does not follow: that part stays the ruling, candidate.
 2. *Exterior.* Schwarzschild–de Sitter (Birkhoff with Λ; Schwarzschild for Λ → 0), supplying the cost's ψ that the static lapse used. At third order the lapse coefficient is GR's (−1/4 U³ in g₀₀'s isotropic expansion against the flat shortcut e^{−U}'s −1/6), so the shortcut is superseded there; the route factor e^{U} in SPACE_AND_GRAVITY's weak-field paragraph is likewise first-order only (already noted at U²).
 3. *Λ* allowed, not fixed: CO's Λ stays an input.
 4. *Identification:* field redefinitions leave open which metric matter couples to; reading g₀₀ = −N² and g_ij = ψ⁴δ_ij as CO's clock rates and stretch is an identification (the one the static lapse entries already use).
@@ -1498,11 +1498,11 @@ S = (c⁴/16πG) ∫ √−g (R − 2Λ) d⁴x + S_matter.
 
 **Grade.** Reading, given: (2) no backdrop at every order (proposed ruling); (3) locality and two derivatives at every order (assumption); (4) Lorentz invariance of the interactions (assumption, tied to the frame problem); and the metric identification. Imports: Wald 1986; BDGH 2001; the Feynman–Deser argument. It replaces the contested Deser route and supplies P6's self-coupling in the static case; it removes no posit outright.
 
-## 2026-11-11 — ruled: no backdrop at every order (the author's ruling, candidate)
+## 2026-11-11 — ruled: no backdrop at every order (ruled, candidate)
 
 **Ruled.** Moving places and resetting clocks cost nothing at every order; the freedom may itself depend on the field. Entered in P7e. With the previous entry, the cost is Einstein–Hilbert plus Λ, given locality and two derivatives at every order and Lorentz-invariant interactions (assumptions) and the metric identification. Entered: appendix P7e and the derivation note; SPACE_AND_GRAVITY (static lapse, waves and exterior, references); OPEN_DIRECTIONS (the nonlinear rule; the frame problem now named as an assumption of gravity's nonlinear rule); README; plain doc; SCOREBOARD.
 
-**Confirmed (2026-11-11, the author, candidate).** A hop takes the mean of its two ends' stretch. Reasons: direction-dependent quantities live on relations (the one-way part), so taking one end would put a direction into size and double-count it; the mean is the same averaging the staggered placement uses to bring a place quantity onto a link; its error against the smooth field is of order (ℓ/r)², against ℓ/r for one end.
+**Confirmed (2026-11-11, candidate).** A hop takes the mean of its two ends' stretch. Reasons: direction-dependent quantities live on relations (the one-way part), so taking one end would put a direction into size and double-count it; the mean is the same averaging the staggered placement uses to bring a place quantity onto a link; its error against the smooth field is of order (ℓ/r)², against ℓ/r for one end.
 
 ## 2026-11-11 — no backdrop for interacting matter on the walk: how much it fails is already known (reading; the proposed run G5 not registered)
 
@@ -1518,7 +1518,7 @@ So, for interacting matter on the walk, no backdrop holds up to lattice correcti
 
 ## 2026-11-11 — why one quantum of stiffness per relation: the stiffness and δ enter only together (reading; a proposal to retire a posit)
 
-**The question.** P6 says a draw sets the held share and stretch of the places around it "against a stiffness of one quantum per relation" (the author's ruling, candidate). Why one?
+**The question.** P6 says a draw sets the held share and stretch of the places around it "against a stiffness of one quantum per relation" (ruled, candidate). Why one?
 
 **What the stiffness does.** With a stiffness of K quanta per relation, static consistency gives
 
@@ -1530,7 +1530,7 @@ so K enters only in the combination δ/K. The hop length is ℓ = ℓ_P √(4πK
 
 **Reading.** The stiffness is not a separate physical choice: in every measured quantity it is degenerate with δ. Setting K = 1 fixes what δ means (the draw measured in units of a relation's stiffness), not a fact about relations. So "why one quantum" has the answer "it is a unit": with K absorbed, δ is the draw per renewal relative to a relation's stiffness, and the posit retires. What remains physical is δ/K, bounded below by L1b, and the record per repeat, δħ, which would distinguish them only if record were ever measured.
 
-**Proposal (for the author's ruling).** Replace "against a stiffness of one quantum per relation" in P6 by "against the relations' stiffness, which sets the unit of δ (only δ over the stiffness is measured)". One posit fewer; nothing measured changes.
+**Proposal (for the ruling).** Replace "against a stiffness of one quantum per relation" in P6 by "against the relations' stiffness, which sets the unit of δ (only δ over the stiffness is measured)". One posit fewer; nothing measured changes.
 
 **Grade.** Reading; proposed. If ruled, a posit removed (by the measure, progressive).
 
@@ -1730,13 +1730,13 @@ In flat space with c at the lattice's own top speed, N√(γ^{ii}) = 1 already s
 
 **The gap.** G5's lapse entered only the mass flip, which is enough for slow matter. Light has no mass flip, so for light to bend the field must reach the hops. On the uniform palindromic walk, light's long-wavelength speed is exactly 2 cos w and the rest energy exactly θ for every Wilson flip w, so w sets light's long-wavelength speed and leaves the rest energy unchanged (it also shapes the massive dispersion at finite k and the doublers' masses).
 
-**Ruled.** The field reaches the walk at each place through the mass flip, θ → θN (the clock rule), and through the Wilson flip, 2 cos w = c₀N/ψ² (light's local speed, with ψ² the hop stretch, the route factor). The author's ruling, candidate, conditional on G6. A scalar flip changes light's speed alike in every direction and cannot tilt the light cone, so the shift (frame dragging) needs another entry. The flip can speed light up by at most about 1% before the doublers' gap closes (G6); static fields normalised at infinity need none.
+**Ruled.** The field reaches the walk at each place through the mass flip, θ → θN (the clock rule), and through the Wilson flip, 2 cos w = c₀N/ψ² (light's local speed, with ψ² the hop stretch, the route factor). Ruled, candidate, conditional on G6. A scalar flip changes light's speed alike in every direction and cannot tilt the light cone, so the shift (frame dragging) needs another entry. The flip can speed light up by at most about 1% before the doublers' gap closes (G6); static fields normalised at infinity need none.
 
 **Run G6** (2D walk, field along x, each field at ±g, linear response as the odd part). Light follows the local speed the flip sets (its bending matches the lattice ray prediction, which tends to the continuum value as kℓ → 0); with γ = 1 the clock and the stretch each give half, together 2.00 to 2.01 times the clock-only value, Einstein's amount, by construction once γ = 1, so the run checks that the walk carries γ = 1 correctly. Slow matter at rest: falls at 0.994 of g c₀²; the stretch adds −0.0001, none at first order, as in GR (it follows from the rest energy being θ for every w). An apparent 3% push on matter in single-sign runs was the field's second order, removed by the ±g split. Details: SPACE_AND_GRAVITY_runs/G6_light_bending/. Cold read applied (13 Nov): the doubling as γ = 1 carried, not an independent prediction; the flip's speed-up margin; ψ² for the hop stretch; the Crab number per pattern and the bound-state question; convergence figures. **The condition is met: the rule stands as a candidate. D: the lapse and stretch entries checked on CO's own walk (uniform weak field; 1D and 2D). Grade: reading.**
 
 ## 2026-11-13 — D: the shift's entry; drift and gravitomagnetic push (run G7)
 
-**Ruled.** The one-way part on a relation enters the walk as a spin-blind directed hop: a link rotation by b/2 generated by i|j+1⟩⟨j| − i|j⟩⟨j+1|, the same for both spinor parts, applied as a brickwork (even links, then odd), the same conveyor at both ends of the step, U = C(b) A_x A_y F(θ) A_y A_x C(b) (not a layer palindrome; the difference is small). The author's ruling, candidate, conditional on G7. The directed hop is odd under reversing the relation, as the one-way part is, and couples to momentum, as GR's shift does (ω = E(k) − β·k for geodesics at unit lapse on flat slices); it is not a U(1) phase on the existing hops, which would couple as a charge. It adds 2 sin b · sin k to the quasi-energy (found, exact for patterns with zero momentum).
+**Ruled.** The one-way part on a relation enters the walk as a spin-blind directed hop: a link rotation by b/2 generated by i|j+1⟩⟨j| − i|j⟩⟨j+1|, the same for both spinor parts, applied as a brickwork (even links, then odd), the same conveyor at both ends of the step, U = C(b) A_x A_y F(θ) A_y A_x C(b) (not a layer palindrome; the difference is small). Ruled, candidate, conditional on G7. The directed hop is odd under reversing the relation, as the one-way part is, and couples to momentum, as GR's shift does (ω = E(k) − β·k for geodesics at unit lapse on flat slices); it is not a U(1) phase on the existing hops, which would couple as a charge. It adds 2 sin b · sin k to the quasi-energy (found, exact for patterns with zero momentum).
 
 **Run G7** (2D). Uniform nudge: matter of both masses drifts at 2 sin b (0.03999 and 0.03998 at b = 0.02); light's cone tilts by 2 sin b · cos k (the brickwork's dispersion) with its mean speed unchanged. Large nudges (b up to 0.4): light along the nudge reaches 2.65 hops per tick, since the brickwork carries its own reach (the strict cone along nudged relations widens to 6 hops per tick, still strictly local); light's tilt and matter's drift stay equal up to about 40% of light's speed. The drift tops out at 2 sin b ≤ 2 hops per tick, and past about 40% the tilt falls below it, so a shift near light's speed (inside a horizon) is not matched. Shear: the push dk_x/dt matches −2b₁ sin k to 0.1%, the sideways acceleration matches the ray prediction to 1% at width 50, opposite for opposite travel; a pattern with zero momentum, carried with the drift, feels 10⁻¹¹ of it. The walk's extra species at the zone edge drift at −2 sin b, the opposite way. A uniform shift is pure gauge in GR, so the uniform runs are a calibration; frame dragging by a spinning body, a curl-free nudge and 3D are untested. Cold read applied (13 Nov): the headroom claim withdrawn, zero momentum for "at rest", the doublers' drift, the U(1) analogy, naming. Details: SPACE_AND_GRAVITY_runs/G7_frame_dragging/. **The condition is met for patterns near the zone centre: the rule stands as a candidate. D: the lapse and stretch entries checked in a uniform weak field, the shift's in uniform and sheared nudges along one axis (2D). Grade: reading.**
 
@@ -1750,7 +1750,7 @@ Under P7f the light species responds exactly, but the extra species (zone corner
 
 ## 2026-11-13 — The walk's extra species: ruled not particles
 
-**Ruled.** The walk's extra species (the doublers left heavy by the Wilson term) are not particles. The author's ruling, candidate. Owed: a cancellation, or an account of what they are. With it, G9's failure of P7f for the extra species no longer counts against P7f, which stands as a candidate for the light species, as tested (G5–G8; a spinning body and a curl-free nudge untested). If no cancellation or account is found, the failure returns. This reverses MATTER's earlier "physical particles with the electron's quantum numbers" and the README's "heavy doubler particles" signature. Cold read applied.
+**Ruled.** The walk's extra species (the doublers left heavy by the Wilson term) are not particles. Ruled, candidate. Owed: a cancellation, or an account of what they are. With it, G9's failure of P7f for the extra species no longer counts against P7f, which stands as a candidate for the light species, as tested (G5–G8; a spinning body and a curl-free nudge untested). If no cancellation or account is found, the failure returns. This reverses MATTER's earlier "physical particles with the electron's quantum numbers" and the README's "heavy doubler particles" signature. Cold read applied.
 
 ## 2026-11-13 — The extra species could not be stable particles (reading)
 
@@ -1764,7 +1764,7 @@ Under P7f the light species responds exactly, but the extra species (zone corner
 
 **The reading.** At a zone corner with n components at π, each axis step collapses to one flip, A_j = −F(−2w), so the whole step is U = F(θ − 4nw), an operator identity; |E| = |θ − 4nw|, folded mod 2π (1.15, 2.35, 2.73 at w = 0.3, θ = 0.05, as G9 measured). At k = 0 the half-shifts cancel (A_j = 1) and the light species' rest energy is θ alone. So most of an extra species' rest energy is the Wilson turn, not the mass flip. At the corners the walk cannot tell the two apart as operators, so which flips are commitments needs a rule.
 
-**Ruled.** Only the flip in the step's flip slot is a commitment; the turn between half-shifts is part of the hop, not a commitment. The author's ruling, candidate. With C1 and C4 (mass is renewal frequency), an extra species' rest energy is then mostly not renewals, and the extra species are not matter: possibility in transit held by the hop's turn at the shortest wavelengths. The author's ruling, candidate. The label applies near the corners; the bands are continuous, and the states between are not assigned. It explains why P7f, which makes renewals follow the clock, does not scale them (G9). It does not by itself remove G9's violation: energy that falls wrongly matters if present, so the exit rests on whether that energy passes into the light species before the epoch ends. The account depends on the Wilson form of the walk. Cold read applied (the posit made explicit; "no commitments" and "renewals count against it" withdrawn; G9 not discharged by the account alone).
+**Ruled.** Only the flip in the step's flip slot is a commitment; the turn between half-shifts is part of the hop, not a commitment. Ruled, candidate. With C1 and C4 (mass is renewal frequency), an extra species' rest energy is then mostly not renewals, and the extra species are not matter: possibility in transit held by the hop's turn at the shortest wavelengths. Ruled, candidate. The label applies near the corners; the bands are continuous, and the states between are not assigned. It explains why P7f, which makes renewals follow the clock, does not scale them (G9). It does not by itself remove G9's violation: energy that falls wrongly matters if present, so the exit rests on whether that energy passes into the light species before the epoch ends. The account depends on the Wilson form of the walk. Cold read applied (the posit made explicit; "no commitments" and "renewals count against it" withdrawn; G9 not discharged by the account alone).
 
 **Run G10.** A single hop-scale event (an extra flip α at one place) passes about 0.4α² of an extra-species packet into the light species (0.03 at α = 0.3, 0.21 at α = 1.0), with or without the mass flip: no conserved number keeps energy in the extra species. Whether conversion empties them before the epoch ends is not computed. Details: SPACE_AND_GRAVITY_runs/G10_doubler_conversion/. Grade: reading.
 
@@ -1778,7 +1778,7 @@ During the epoch and just after it, each place commits about once per tick and a
 
 **Needed.** A newborn place carries a passing pattern smoothly, its amplitude the mean of its neighbours': born empty, places would scramble light, against the clean redshift of distant light. With it, the extra species' energy redshifts with the radiation, and none stays at the corner after the post-epoch stretch of about 10²⁸, so the freeze-in bound on p is not needed. Grade: needed (smooth births); reading (the extra species redshift; 1D).
 
-**Regraded.** "The extra species are not particles" moves from the author's ruling, candidate, to needed: as particles they are excluded by how they would fall (G9) and by the relic count. The flip-slot posit stays the author's ruling, candidate.
+**Regraded.** "The extra species are not particles" moves from the ruling, candidate, to needed: as particles they are excluded by how they would fall (G9) and by the relic count. The flip-slot posit stays the ruling, candidate.
 
 ## 2026-11-13 — D: the shift on both axes (run G12)
 
@@ -1799,7 +1799,7 @@ Under P7f light's local speed is set through the Wilson flip, 2 cos w = c₀N/ψ
 
 ## 2026-11-14 — E: strong gravity through the shift (run G15; ruled)
 
-Run G15 (1D, w = 5π/16): the directed hop alone, with lapse and stretch at 1 and w fixed, carries a drift to 1.8 c₀; matter is carried at the drift exactly, light's cone tilts by it to within 0.6% with its half-width within 1%, and at a drift of c₀ upstream light stalls (a horizon), beyond it is carried inward. **Ruled.** Strong gravity enters the walk as the shift alone, with lapse and stretch left at 1, wherever spacetime admits unit lapse and flat slices (Painlevé–Gullstrand for non-rotating masses, Doran for rotating ones); P7f's flip entries serve weak fields. The author's ruling, candidate. Details: SPACE_AND_GRAVITY_runs/G15_shift_past_light/. Grade: reading (G15).
+Run G15 (1D, w = 5π/16): the directed hop alone, with lapse and stretch at 1 and w fixed, carries a drift to 1.8 c₀; matter is carried at the drift exactly, light's cone tilts by it to within 0.6% with its half-width within 1%, and at a drift of c₀ upstream light stalls (a horizon), beyond it is carried inward. **Ruled.** Strong gravity enters the walk as the shift alone, with lapse and stretch left at 1, wherever spacetime admits unit lapse and flat slices (Painlevé–Gullstrand for non-rotating masses, Doran for rotating ones); P7f's flip entries serve weak fields. Ruled, candidate. Details: SPACE_AND_GRAVITY_runs/G15_shift_past_light/. Grade: reading (G15).
 
 ## 2026-11-14 — E: a black hole on the walk (run G16)
 
@@ -1811,7 +1811,7 @@ The shift-only entry on the 2D walk at w = 5π/16, a non-rotating hole in Painle
 
 **Reading.** Unimproved, gravity bends a few hundred times more than composite matter (c₂ ≈ −4 × 10⁻⁴), and its two polarisations bend differently off the body diagonal. Protons would outrun gravitons: at 10²⁰ eV by about 0.1(E/Λ)², about 2 × 10⁻¹¹ at the Crab bound on ℓ and 10⁻¹⁶ at 3.5 ℓ_P, against gravitational-Cherenkov bounds of order 10⁻¹⁵ (Galactic sources) to 10⁻¹⁹ (extragalactic) for a constant speed difference (Moore and Nelson 2001), with dimension-6 gravity operators bounded from the same process (Kostelecký and Tasson 2015). So, as for light: **needed, gravity's quadratic term no lower than composites' in every direction and for both polarisations**; the unimproved Regge form fails it at every allowed ℓ for extragalactic cosmic rays. Gravity needs its own improved lattice form, a further tuning (folded below into one link-field rule), unless a reason is found. (At L = 96 the ratio S₂/Q passes 1 by 10⁻³, a small normalisation offset in the fit; the ruling does not depend on the numbers.) Grade: reading.
 
-**Ruled.** Every link field runs straight: light, gluons and gravity each take an improved lattice form under which their group speed has no quadratic term in any direction and for each polarisation, v = c₀(1 + O((kℓ)⁴)). Needed: each field's quadratic term no lower than composite matter's (c₂ ≳ −4 × 10⁻⁴), from the highest-energy cosmic rays (vacuum and gravitational Cherenkov), given the Gagnon–Moore import. Posited: zero inside that window (the author's ruling). One principle for all the fields between places; counted honestly as a tuning (its coefficients set against unimproved values near 0.1, and held against loop feed). It extends the straight-light ruling to gluons and gravity.
+**Ruled.** Every link field runs straight: light, gluons and gravity each take an improved lattice form under which their group speed has no quadratic term in any direction and for each polarisation, v = c₀(1 + O((kℓ)⁴)). Needed: each field's quadratic term no lower than composite matter's (c₂ ≳ −4 × 10⁻⁴), from the highest-energy cosmic rays (vacuum and gravitational Cherenkov), given the Gagnon–Moore import. Posited: zero inside that window (ruled). One principle for all the fields between places; counted honestly as a tuning (its coefficients set against unimproved values near 0.1, and held against loop feed). It extends the straight-light ruling to gluons and gravity.
 
 Cold read applied (14 Nov): README's tunings and test reworded (needed window and posited zero kept apart; the test's conditions placed; the frame problem's tree-level cost updated); STATE and appendix aligned.
 

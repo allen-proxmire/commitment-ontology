@@ -2,7 +2,7 @@
 
 **Question.** With the field reaching the walk through the Wilson flip as well as the mass flip, does the walk's light follow the local speed the flip gives it, so that with the route factor's stretch (γ = 1) it bends by Einstein's amount, and does slow matter still fall at G5's rate with no push from the stretch?
 
-**The rule tested** (the author's ruling, candidate, conditional on this run). At each place:
+**The rule tested** (ruled, candidate, conditional on this run). At each place:
 - mass flip θ → θN (the clock rule, as in G5);
 - Wilson flip w set by light's local speed: 2 cos w = c₀N/ψ², with N the lapse and ψ² the hop stretch (the route factor; ψ the standard conformal factor, γ_ij = ψ⁴δ_ij).
 

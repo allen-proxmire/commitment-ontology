@@ -1,4 +1,4 @@
-# G3 result (held for the author) — no backdrop on the lattice carriers
+# G3 result — no backdrop on the lattice carriers
 
 Registered first ([`REGISTRATION.md`](REGISTRATION.md)); variant B and the control were added to it before they ran.
 
