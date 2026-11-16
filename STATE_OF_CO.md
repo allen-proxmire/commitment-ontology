@@ -117,7 +117,7 @@ At long wavelengths this is Dirac's equation: the electron, with spin ½. A latt
 
 **What it borrows.** Many results come through known theorems and constructions; where a rule was a choice, the result is a reconstruction, not a derivation. The masses, 1/137 and the weak force are not explained.
 
-**Its weakest point.** The lattice picks a rest frame. Once quantum corrections come in, different particles could get slightly different top speeds unless those speeds are set equal by hand. CO keeps that tuning on purpose: the same frame is what makes its photon and neutrino tests possible, and the only known way out would remove them. So it stands at tree level: the simplest level, before those quantum corrections.
+**Its weakest point.** The lattice picks a rest frame. Once quantum corrections come in, different particles could get slightly different top speeds unless those speeds are set equal by hand. CO keeps that tuning on purpose: the same frame is what makes its photon and neutrino tests possible, and the only known way out would remove the photon test (and, in one form, the neutrino test). So it stands at tree level: the simplest level, before those quantum corrections.
 
 **How it could be tested.** Three ways, each in [`ONE_PAGE.md`](ONE_PAGE.md) and [`TESTS_FOR_EXPERIMENTERS/`](TESTS_FOR_EXPERIMENTERS/):
 - Very high-energy photons should split into electron pairs above a ceiling: roughly 9–16 PeV (peta-electronvolts) at the present candidate bound, higher if the hop is smaller, and the same for every source in a given direction. The highest seen so far is 3.7 PeV.

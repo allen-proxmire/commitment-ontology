@@ -1,6 +1,6 @@
 # The tuning, mapped (14 Nov 2026; reading)
 
-**What is tuned.** On a lattice that picks a frame, loops shift each species' limiting speed at dimension four by about its coupling over π (α/π ≈ 2 × 10⁻³ for charged leptons in QED; Collins et al. 2004, by analogy). CO holds the species' speeds equal by counter-terms set by hand (chosen, 16 Nov: the frame kept, since it carries the photon and neutrino tests). One counter-term per species' speed relative to light; the precision each needs is set by that species' best bound:
+**What is tuned.** On a lattice that picks a frame, loops shift each species' limiting speed at dimension four by about its coupling over π (α/π ≈ 2 × 10⁻³ for charged leptons in QED; Collins et al. 2004, by analogy). CO holds the species' speeds equal by counter-terms set by hand (chosen: the frame kept, since it carries the photon and neutrino tests). One counter-term per species' speed relative to light; the precision each needs is set by that species' best bound:
 
 | speed held equal to light's | loop shift (order) | bound | precision of the counter-term |
 |---|---|---|---|

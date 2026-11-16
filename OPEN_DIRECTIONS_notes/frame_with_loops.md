@@ -33,7 +33,7 @@ with ξ_i of order one and set by the regulator's shape, not suppressed by ℓ (
 | walk–link cancellation | matter and light break no backdrop in matching ways | unsupported: on anisotropic lattices the gauge and fermion speeds renormalise differently and are tuned separately (Klassen 1998; Morrin et al. 2006); matter record, 2026-11-11 |
 | deformed (tick–hop) symmetry (12 Nov) | Bisio, D'Ariano, Perinotti 2016: nonlinear Lorentz action on walks, DSR-type | free patterns near long wavelength only; additive lattice momentum allows no continuous boosts (GL(3,ℤ)); open loophole: boosts acting on pairs with backreaction; beyond, non-commuting coordinates (κ-Poincaré, relative locality) |
 | pair boosts with backreaction (12 Nov) | Gubitosi–Mercati-type coproduct for boosts | maps exist, but the loophole is equivalent to equal one-loop speed shifts across species; Wilson-type anisotropic lattices (Hamiltonian limit included) show unequal shifts needing tuning; closed on the evidence |
-| tuning | \|ξ_e − ξ_γ\| ≲ 10⁻¹⁷ | permitted, unexplained; accepted for now (chosen, 12 Nov) |
+| tuning | \|ξ_e − ξ_γ\| ≲ 10⁻¹⁷ | permitted, unexplained; chosen (12 Nov; kept as a standing choice 16 Nov) |
 
 **What a CO-shaped protecting symmetry must do.** Act exactly on a finite-degree network in real time; relate the walk (matter) and the link (light), since the dangerous difference is between them; survive the Wilson term; and force equal dimension-four speeds as a consequence, as hypercubic symmetry does on a Euclidean lattice. None is known. Failing one, the next route is Way B (discreteness in values, not places), which reverses the classical-amounts ruling and with it the falsifier.
 
@@ -126,7 +126,7 @@ far worse than the α/π split it was meant to cure, against bounds near 10⁻²
 
 **Result.** The pair-boost loophole is closed on the evidence for walks of CO's kind. One check would close it for CO's own walk: a one-loop computation of the electron's and the photon's speed shifts on the palindromic Wilson walk with its U(1) links. Its outcome is expected (unequal), so by the run rule it is not registered unless the loophole is to be shut by CO's own numbers. Grade: reading.
 
-**Where the frame problem stands.** For CO with commuting translations and local vertices, every exit read is closed: tuning is permitted (accepted for now, chosen 12 Nov), and the one remaining door is a network with non-commuting coordinates (κ-Poincaré-type, relative locality), with the soccer-ball cost.
+**Where the frame problem stands.** For CO with commuting translations and local vertices, every exit read is closed: tuning is permitted (chosen 12 Nov; kept as a standing choice 16 Nov), and the one remaining door is a network with non-commuting coordinates (κ-Poincaré-type, relative locality), with the soccer-ball cost.
 
 **The non-commuting door, looked at (desk, 16 Nov 2026).** Two forms are on record in the literature, and neither fits CO's network as it stands.
 
