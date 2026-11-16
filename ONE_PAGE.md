@@ -38,7 +38,7 @@
 
 **Tunings, accepted for now.**
 - The lattice picks a rest frame. Its loops would give species different top speeds; counter-terms set by hand keep them equal to the 10⁻²⁰ the data require (one per species and handedness, the same in every direction). CO stands at tree level; the one open exit is a network whose coordinates do not commute.
-- A counter-term per fermion mass, unless matter is the mode bound to a wall in a short inner direction (candidate; shown in one space dimension, without interactions).
+- A counter-term per fermion mass, unless matter is the mode bound to a wall in a short inner direction (candidate; one-handed at each wall in three space dimensions, free fermions; no interactions yet).
 - A straight lattice form for every field between places (light, gluons, gravity), so none slows at short wavelength (the window needed by cosmic rays, the zero posited).
 
 **Shapes.** G's form, G = δc³ℓ²/(4πħ), resting on a relation's stiffness equalling the hop's conductance; a beginning in which every place is over capacity and commits at once, ending as an inflation-like epoch; the ratio of matter to light set by that beginning (its value open); dark matter as a pattern that renews with no channel (given CO's present inventory a fermion, so, if the shape holds, not ultralight, m ≥ 0.13 keV; [`OPEN_DIRECTIONS_notes/dark_matter.md`](OPEN_DIRECTIONS_notes/dark_matter.md)).

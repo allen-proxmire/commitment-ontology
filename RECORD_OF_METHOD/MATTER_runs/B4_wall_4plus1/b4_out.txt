@@ -1,0 +1,16 @@
+B4a axis: lowest |E| = [0.04998 0.04998 0.04998 0.04998 0.52243 0.52243] -> four light states
+   E = +0.04998  <g5> = -0.99997  speed |E|/|k| = 0.99961
+   E = -0.04998  <g5> = +0.99994  speed |E|/|k| = 0.99961
+   E = -0.04998  <g5> = -0.99994  speed |E|/|k| = 0.99961
+   E = +0.04998  <g5> = +0.99997  speed |E|/|k| = 0.99961
+B4a body diagonal: lowest |E| = [0.04999 0.04999 0.04999 0.04999 0.52243 0.52243] -> four light states
+   E = -0.04999  <g5> = -0.99997  speed |E|/|k| = 0.99988
+   E = -0.04999  <g5> = +0.99997  speed |E|/|k| = 0.99988
+   E = +0.04999  <g5> = +0.99993  speed |E|/|k| = 0.99988
+   E = +0.04999  <g5> = -0.99993  speed |E|/|k| = 0.99988
+B4b: E = +0.04998, <g5> = -1.0000: weight near the wall between places L-1|L 0.981, near the wall at 2L-1|0 0.000
+B4b: E = -0.04998, <g5> = +0.9999: weight near the wall between places L-1|L 0.000, near the wall at 2L-1|0 0.981
+B4b: E = -0.04998, <g5> = -0.9999: weight near the wall between places L-1|L 0.981, near the wall at 2L-1|0 0.000
+B4b: E = +0.04998, <g5> = +1.0000: weight near the wall between places L-1|L 0.000, near the wall at 2L-1|0 0.981
+B4d: leftover |E| at k=0: L=4: 2.90e-02, L=5: 3.20e-02, L=6: 1.61e-02, L=7: 1.48e-02, L=8: 8.08e-03, L=9: 6.71e-03, L=10: 3.83e-03, L=11: 2.97e-03, L=12: 1.75e-03, L=13: 1.30e-03, L=14: 7.83e-04 ; kappa = 0.4050 per place
+B4 PASS
