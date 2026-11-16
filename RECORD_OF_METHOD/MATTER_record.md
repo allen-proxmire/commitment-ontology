@@ -1745,3 +1745,7 @@ LHAASO's photons from Cygnus X-3 (arXiv:2512.16638; 3.73 ± 0.41 PeV and 3.08 ±
 ## 2026-11-16 — Matter bound to the walls in 3+1 dimensions (run B4)
 
 Fail conditions written first (MATTER_runs/B4_wall_4plus1/). The step in three space directions plus the inner ring (2L places, mass walls ±0.5, r = ½ in all four directions), free fermions, exact at each momentum. At |k| = 0.05: four light states, the next at 0.522; two on one wall with γ₅ = −1, two on the other with γ₅ = +1 (|⟨γ₅⟩| ≥ 0.99993); light speed 0.9996 (axis), 0.9999 (body diagonal); leftover mass at k = 0 falling at κ = 0.405 per place (1+1D: 0.41), alternating even–odd. Passed. Reading: the wall-bound matter of tuning 2's removal is one-handed at each wall in 3+1 dimensions, free fermions. Results docs updated.
+
+## 2026-11-16 — Charged wall matter in a magnetic field (run B5)
+
+Fail conditions written first (MATTER_runs/B5_wall_charge/). B4's set-up with a uniform magnetic field along z through the which-way phase (Landau gauge, qB = 2π/120), exact at each (k_y, k_z). Lowest level one-way on each wall, E/k_z = ±0.9997, opposite on the two walls and set by handedness; next level 0.3190 against √(2qB) = 0.3236; exactly one light state per wall. Passed. Reading: the wall-bound fermions carry charge as ordinary particles do (vector-like charge, free fermions, static field).

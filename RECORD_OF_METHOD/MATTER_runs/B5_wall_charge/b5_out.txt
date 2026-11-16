@@ -1,0 +1,11 @@
+ky=0.0, kz=+0.05: states below half the first level: 2: E=+0.04998 <g5>=-1.000; E=-0.04998 <g5>=+1.000
+ky=0.0, kz=-0.05: states below half the first level: 2: E=-0.04998 <g5>=-1.000; E=+0.04998 <g5>=+1.000
+   chirality -1: E/k_z = [0.9997 0.9997]
+   chirality +1: E/k_z = [-0.9997 -0.9997]
+   next level at k_z=0: 0.31899 vs sqrt(2qB) = 0.32360 (-0.0142)
+ky=0.7, kz=+0.05: states below half the first level: 2: E=-0.04998 <g5>=+1.000; E=+0.04998 <g5>=-1.000
+ky=0.7, kz=-0.05: states below half the first level: 2: E=-0.04998 <g5>=-1.000; E=+0.04998 <g5>=+1.000
+   chirality +1: E/k_z = [-0.9997 -0.9997]
+   chirality -1: E/k_z = [0.9997 0.9997]
+   next level at k_z=0: 0.31899 vs sqrt(2qB) = 0.32360 (-0.0142)
+B5 PASS
