@@ -1,0 +1,7 @@
+ky=0.0, wall A: 4 low points, k_z range -0.147..+0.147; zero crossings [(np.float64(0.0), 'down')]
+ky=0.0, wall B: 4 low points, k_z range -0.147..+0.147; zero crossings [(np.float64(0.0), 'up')]
+ky=0.0: stray low states (bulk, |E|<0.15): 0
+ky=0.7, wall A: 4 low points, k_z range -0.147..+0.147; zero crossings [(np.float64(0.0), 'down')]
+ky=0.7, wall B: 4 low points, k_z range -0.147..+0.147; zero crossings [(np.float64(0.0), 'up')]
+ky=0.7: stray low states (bulk, |E|<0.15): 0
+B6 PASS

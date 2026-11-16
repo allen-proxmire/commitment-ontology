@@ -1749,3 +1749,7 @@ Fail conditions written first (MATTER_runs/B4_wall_4plus1/). The step in three s
 ## 2026-11-16 — Charged wall matter in a magnetic field (run B5)
 
 Fail conditions written first (MATTER_runs/B5_wall_charge/). B4's set-up with a uniform magnetic field along z through the which-way phase (Landau gauge, qB = 2π/120), exact at each (k_y, k_z). Lowest level one-way on each wall, E/k_z = ±0.9997, opposite on the two walls and set by handedness; next level 0.3190 against √(2qB) = 0.3236; exactly one light state per wall. Passed. Reading: the wall-bound fermions carry charge as ordinary particles do (vector-like charge, free fermions, static field).
+
+## 2026-11-16 — The chiral anomaly on the walls (run B6)
+
+Fail conditions written first (MATTER_runs/B6_chiral_anomaly/). B5's set-up, k_z swept over the zone (64 points) at two k_y. Each wall's lowest level crosses zero exactly once, upward on one wall and downward on the other; no other state below |E| = 0.15 anywhere in the zone. Passed. Reading: an electric field along the magnetic one moves charge between the walls through the ring at (q²/4π²)E·B per unit volume per wall, opposite in sign: the chiral anomaly, coefficient 1 per Weyl fermion, with inflow through the ring. Free fermions, static fields, coarse k_z grid. B4 and B5 orient the inner direction oppositely, so which handedness sits on which wall is a convention; the docs state only that the walls are opposite.
