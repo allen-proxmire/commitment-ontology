@@ -46,3 +46,5 @@ Opposite directions of travel are pushed opposite ways, a pattern with no moment
 Grade: reading (the rule's condition met).
 
 Scripts: g7.py (walk with the brickwork; uses ../G6_light_bending/g6.py), g7_uniform.py, g7_shear.py, g7_big.py, each with its .out; cold-read Bloch checks in bloch_checks/. With no nudge, light packets drift sideways (−2.95 hops over 120 steps along +y, +1.90 along −y), unexplained and inherited from G6's walk; it cancels in every comparison.
+
+On the flow step: run F2a (F2_flow_reruns).

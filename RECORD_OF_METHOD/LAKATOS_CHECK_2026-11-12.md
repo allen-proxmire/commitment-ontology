@@ -31,7 +31,7 @@ The unit charge difference in every pair is the kind label (Q = T₃ + Y), so th
 
 ## Update: tuning accepted for now (evening)
 
-The author accepted tuning for the frame problem, after the day's readings closed the other exits for CO's network as it stands. **Accommodating** (added to fit, buys nothing new). Counts at the end of 12 November: progressive 11, accommodating 3, neutral 15. Exclusions also found this afternoon (exits closed, not additions): a common origin for walk and links; a deformed Lorentz symmetry for interactions on a commuting network; pair boosts with backreaction (on the evidence). Exclusions: 9 in all.
+Tuning was accepted for the frame problem, after the day's readings closed the other exits for CO's network as it stands. **Accommodating** (added to fit, buys nothing new). Counts at the end of 12 November: progressive 11, accommodating 3, neutral 15. Exclusions also found this afternoon (exits closed, not additions): a common origin for walk and links; a deformed Lorentz symmetry for interactions on a commuting network; pair boosts with backreaction (on the evidence). Exclusions: 9 in all.
 
 ## Update: C9, colour as a split (evening)
 

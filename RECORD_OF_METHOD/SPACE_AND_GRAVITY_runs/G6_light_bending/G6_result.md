@@ -35,3 +35,5 @@ The light k_y = 0.15 clock + stretch row is not fully converged in g: its even p
 Grade: reading (the rule's condition met).
 
 Scripts: g6.py (the 2D walk; its run() clips arccos and is not used), g6_final.py (the ±g runs; g6_final.out), g6_raypred.py (ray prediction; g6_raypred.out), g6_1d.py (1D, ±g; g6_1d.out), g6_doubler_gap.py (g6_doubler_gap.out).
+
+On the flow step: run F1b (F1_flow_gravity) and, past a point mass, F2b and F5.

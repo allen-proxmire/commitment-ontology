@@ -17,3 +17,5 @@
 **Reading.** Passed. Zero-momentum packets fall as the form's free-fallers to within 0.1 hop far out, and through the horizon; light sent outward escapes from outside the horizon, at the rate the ray gives far out, and is swept inward from inside it. Near the horizon and the softened centre the packets (10–12 hops wide) straddle regions of very different drift, and their centres lag the single ray (light from 50: 58.6 against 66.7; matter near r ≈ 25: 25.5 against 22.6). With the drift alone and w fixed, CO's walk carries a black hole's horizon and interior, the tidal stretching coming from the drift's variation. Not tested: 3D, a rotating hole (Doran form), the hole's formation from matter (here the drift is given, not sourced), the centre. Grade: reading.
 
 Scripts: g16.py (g16.out; uses ../G12_rotation_and_gradient/g12.py and ../G6_light_bending/g6.py at w = 5π/16).
+
+On the flow step: run F2e (F2_flow_reruns).
