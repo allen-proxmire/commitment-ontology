@@ -11,7 +11,7 @@ GR has no global now; QM has no event. CO takes both as primitives, which places
 - Measured values: G, c, ħ, 1/137, the particle masses.
 - From quantum mechanics: the Born rule as an identification, Lüders conditioning, the joint law of an entangled pair, an interaction's coupling and pointer basis.
 - For gravity beyond linear order: no backdrop at every order, locality, two derivatives, Lorentz-invariant interactions, the metric identification.
-- Tunings, accepted for now: equal top speeds for every species, set by hand; a counter-term per fermion mass (unless matter is bound to a wall, candidate); a straight lattice form for light, gluons and gravity (posited).
+- Tunings, chosen (the lattice's frame is kept: it carries CO's photon and neutrino tests, and the one exit costs both): equal top speeds for every species, set by hand; a counter-term per fermion mass (unless matter is bound to a wall, candidate); a straight lattice form for light, gluons and gravity (posited).
 
 **What comes out.**
 - *Gravity* ([`SPACE_AND_GRAVITY.md`](SPACE_AND_GRAVITY.md)): Newton, redshift, free fall; light bending, the Shapiro delay and Mercury's precession once data fix γ = 1 and β = 1; linearised Einstein forced, given no backdrop, locality and two derivatives; full Einstein the only consistent continuation, given the inputs above (continuum). On CO's own step in one and two dimensions, with free fall and light bending also in three (weak uniform field; free fall alike along an axis and a body diagonal) (chosen, candidate): free fall, light bending, the shift's pushes, a fall through a horizon, a 2D black hole and a radial collapse to one, as Einstein has them.

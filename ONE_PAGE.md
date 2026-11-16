@@ -36,7 +36,7 @@
 - Locality as a reach that fades fast at the hop scale.
 - How the field enters matter's step; gravity's source following engagements; no backdrop at every order; colour as a split (C9); measurement completing at N quanta (C8).
 
-**Tunings, accepted for now.**
+**Tunings, chosen.** The lattice's frame is kept on purpose: it carries the photon and neutrino tests, and the one exit (coordinates that do not commute) would remove them along with places definite in every direction.
 - The lattice picks a rest frame. Its loops would give species different top speeds; counter-terms set by hand keep them equal to the 10⁻²⁰ the data require (one per species and handedness, the same in every direction). CO stands at tree level; the one open exit is a network whose coordinates do not commute.
 - A counter-term per fermion mass, unless matter is the mode bound to a wall in a short inner direction (candidate; one-handed at each wall in three space dimensions, free fermions; no interactions yet).
 - A straight lattice form for every field between places (light, gluons, gravity), so none slows at short wavelength (the window needed by cosmic rays, the zero posited).

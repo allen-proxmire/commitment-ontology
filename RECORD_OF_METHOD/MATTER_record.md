@@ -1753,3 +1753,9 @@ Fail conditions written first (MATTER_runs/B5_wall_charge/). B4's set-up with a 
 ## 2026-11-16 — The chiral anomaly on the walls (run B6)
 
 Fail conditions written first (MATTER_runs/B6_chiral_anomaly/). B5's set-up, k_z swept over the zone (64 points) at two k_y. Each wall's lowest level crosses zero exactly once, upward on one wall and downward on the other; no other state below |E| = 0.15 anywhere in the zone. Passed. Reading: an electric field along the magnetic one moves charge between the walls through the ring at (q²/4π²)E·B per unit volume per wall, opposite in sign: the chiral anomaly, coefficient 1 per Weyl fermion, with inflow through the ring. Free fermions, static fields, coarse k_z grid. B4 and B5 orient the inner direction oppositely, so which handedness sits on which wall is a convention; the docs state only that the walls are opposite.
+
+## 2026-11-16 — The non-commuting door (desk)
+
+Snyder's space keeps Lorentz symmetry exactly with discrete spatial spectra (so no loop splitting of species' speeds), its field theory partly regularized but with UV/IR mixing; κ-Poincaré deforms the symmetry (record above). Either needs places that are not definite in every direction, against P7, P2 and births per place, and either removes the photon ceiling (Snyder by exact symmetry, κ-Poincaré because a relativity principle forbids the decay at every energy); Snyder also removes the neutrino flavour term. Cold read applied. Reading: the exit from tuning is a re-foundation of place and costs CO its near-term tests. Note: OPEN_DIRECTIONS_notes/frame_with_loops.md. Grade: shape.
+
+**Ruled (16 Nov).** The lattice's frame is kept, and the species' speed counter-terms are a standing choice, not a placeholder: the frame carries the photon ceiling and the neutrino flavour term, and the one open exit (non-commuting coordinates) would remove them and places definite in every direction. Results docs: "accepted for now" replaced by "chosen".
