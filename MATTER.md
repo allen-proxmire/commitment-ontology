@@ -16,11 +16,11 @@ $$p=\left|\sqrt{p_1}\,e^{i\theta_1}+\sqrt{p_2}\,e^{i\theta_2}\right|^2 .$$
 
 **The internal state.** A homogeneous, unitary walk that moves cannot be scalar (Meyer 1996). With three anticommuting shifts and a mass step anticommuting with all three, the smallest representation is C⁴: Dirac's α and β.
 
-**Mass.** The mass step turns the internal state without moving it, at the rate mc²/ħ (Feynman's checkerboard weight, in the continuum). On the earlier palindromic walk the heaviest pattern flipped once per hop, ℓ = ħ/(m_max c); on the flow step below the heaviest mass is limited only by the tick, τ_f(m + 6r) < π, so that relation is not carried. Bounds on the hop: LHAASO's 2.5 PeV photon, which has not split (photon splitting, weakest direction), and the Crab Nebula's synchrotron cutoff (candidate, at the standard nebular field):
+**Mass.** The mass step turns the internal state without moving it, at the rate mc²/ħ (Feynman's checkerboard weight, in the continuum). On the earlier palindromic walk the heaviest pattern flipped once per hop, ℓ = ħ/(m_max c); on the flow step below the heaviest mass is limited only by the tick, τ_f(m + 6r) < π, so that relation is not carried. Bounds on the hop: LHAASO's 3.7 PeV photon from Cygnus X-3 (9 kpc), which has not split (photon splitting, weakest direction), and the Crab Nebula's synchrotron cutoff (candidate, at the standard nebular field):
 
-$$\ell\lesssim 4.2\times10^{-31}\ \text{m}\quad(\text{photon}),\qquad \ell\lesssim 3.2\times10^{-32}\ \text{m}\quad(\text{synchrotron}).$$
+$$\ell\lesssim 2.4\times10^{-31}\ \text{m}\quad(\text{photon}),\qquad \ell\lesssim 3.2\times10^{-32}\ \text{m}\quad(\text{synchrotron}).$$
 
-With ℓ = ℓ_P√(4π/δ) these give δ ≳ 2 × 10⁻⁸ and, from the synchrotron bound, δ ≳ 3 × 10⁻⁶.
+With ℓ = ℓ_P√(4π/δ) these give δ ≳ 6 × 10⁻⁸ and, from the synchrotron bound, δ ≳ 3 × 10⁻⁶.
 
 **The Dirac equation.** Matter's step is one tick of the lattice Dirac flow with a Wilson term (candidate; the author's ruling):
 
