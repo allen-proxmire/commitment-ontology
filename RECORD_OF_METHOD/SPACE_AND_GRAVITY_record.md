@@ -1818,3 +1818,16 @@ Cold read applied (14 Nov): README's tunings and test reworded (needed window an
 ## 2026-11-14 — E: a black hole forming from matter (run G17)
 
 The strong-field entry with the river sourced by the cloud itself: radial reduction of the walk (s-wave, far from the centre), a many-pattern cloud carried by one wavefunction (self-share neglected), v(r) = √(2GM(<r)/r) set each step from the enclosed mass (GR's constraint for spherical symmetry), zero momentum. Fail condition stated first. A hollow shell crosses itself and is not a test of the no-crossing formula. A uniform ball collapses with each shell at 0.95–1.01, 0.95–0.98, 0.98–0.99 of the dust prediction (cloud sizes 500, 1000, 2000), converging as the cloud grows; shells cross their own horizons within 0.6% of the predicted times. **Passed: a black hole forms from matter on the walk** (radial reduction; centre not modelled). Details: SPACE_AND_GRAVITY_runs/G17_collapse/. Grade: reading.
+
+## 2026-11-16 — The earlier walk's gravity runs on the flow step (runs F2a–f)
+
+Fail conditions written first (SPACE_AND_GRAVITY_runs/F2_flow_reruns/FAIL_CONDITIONS.md). Each run repeats a result claimed on the palindromic walk.
+
+- **F2a (G7).** Uniform shift: drift 0.998–0.999 b for two masses and light's tilt. Shear: the push matches −sin k_x⟨b′⟩t to 0.02–0.10%, reversing with travel. Passed. The first pass compared with b′ at the packet's centre, ignoring its 15-place width across a sine-shaped shear (5–6% low); the prediction was corrected to the packet average (a prediction error, not the run's).
+- **F2b (G8).** Light past a 1/r mass: stretch ÷ clock-only bending 2.0115. Size 1.219 of the single-ray continuum value, outside the stated 0.85–1.20: **failed as stated.** Diagnostic after the run: the flow's own rays averaged over the packet give 2.400 ± 0.056 × 10⁻², the run 2.352 × 10⁻² (0.98); the excess is the packet's width, as on the walk (G8: 1.12, its packet-averaged ray 1.18). The window was set against the single ray; not rerun.
+- **F2c (G12).** Rotating shift: Coriolis push to 0.01–0.23%. Curl-free shift: zero-momentum packets of three masses ride y₀e^{gt} to 0.1% of the distance, momentum held. Passed. The first pass used a sine-shaped b_y instead of the stated linear one, whose curvature fed momentum into the lightest packet (2.8% off); rerun with b_y linear where the packets go.
+- **F2d (G14).** 2D closed loop with the stretch (m = 0.4, 0.3, 200 apart): motion before the front 3% of the final; after it 0.994 and 0.972 of the point-pattern prediction. Passed.
+- **F2e (G16).** 2D Painlevé–Gullstrand hole, r_s = 40: free-fallers to 0.1–1.2% of the distance fallen through the horizon; light escapes from 70 and 50, is swept in from 32; packets lag the single ray near the horizon, as on the walk. Passed.
+- **F2f (G17).** Uniform ball sourcing its own drift (radial reduction): shells within 10.01%, 5.2%, 2.3% of the dust prediction at cloud sizes 500, 1000, 2000; **failed as stated** by 0.01% at the smallest (q = 0.7, 0.8999), converging as on the walk (G17: 0.90). Horizons crossed within 0.7% of the predicted times.
+
+**Reading.** The walk's weak- and strong-field gravity results carry to the flow step. Results docs updated: the "not rerun" marks replaced. Grade: reading.

@@ -1,0 +1,13 @@
+rotating w=0.001: m=0.0, ky=+0.3: dk_x = -0.022370 vs -0.022372 (-0.0001)
+rotating w=0.001: m=0.0, ky=-0.3: dk_x = +0.022370 vs +0.022372 (-0.0001)
+rotating w=0.001: m=0.25, ky=+0.3: dk_x = -0.022561 vs -0.022596 (-0.0015)
+rotating w=0.001: m=0.25, ky=-0.3: dk_x = +0.022561 vs +0.022596 (-0.0015)
+rotating w=0.001: m=0.5, ky=+0.3: dk_x = -0.022748 vs -0.022799 (-0.0023)
+rotating w=0.001: m=0.5, ky=-0.3: dk_x = +0.022748 vs +0.022799 (-0.0023)
+curl-free g=0.005: m=0.1, y0=40: y 40.00 -> 85.724 vs 84.495 (+0.0276 of distance); straight y0 e^(gt) = 89.02; <k_y> = +2.7e-03
+curl-free g=0.005: m=0.1, y0=80: y 80.00 -> 163.384 vs 161.319 (+0.0254 of distance); straight y0 e^(gt) = 178.04; <k_y> = +5.4e-03
+curl-free g=0.005: m=0.25, y0=40: y 40.00 -> 86.622 vs 86.285 (+0.0073 of distance); straight y0 e^(gt) = 89.02; <k_y> = +1.6e-03
+curl-free g=0.005: m=0.25, y0=80: y 80.00 -> 164.760 vs 164.155 (+0.0072 of distance); straight y0 e^(gt) = 178.04; <k_y> = +3.2e-03
+curl-free g=0.005: m=0.5, y0=40: y 40.00 -> 86.917 vs 86.835 (+0.0017 of distance); straight y0 e^(gt) = 89.02; <k_y> = +9.5e-04
+curl-free g=0.005: m=0.5, y0=80: y 80.00 -> 165.170 vs 165.025 (+0.0017 of distance); straight y0 e^(gt) = 178.04; <k_y> = +1.9e-03
+F2c FAIL

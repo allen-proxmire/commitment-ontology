@@ -1,0 +1,14 @@
+# rotating lines: same code as first pass (unchanged); curl-free lines: rerun with linear b
+rotating w=0.001: m=0.0, ky=+0.3: dk_x = -0.022370 vs -0.022372 (-0.0001)
+rotating w=0.001: m=0.0, ky=-0.3: dk_x = +0.022370 vs +0.022372 (-0.0001)
+rotating w=0.001: m=0.25, ky=+0.3: dk_x = -0.022561 vs -0.022596 (-0.0015)
+rotating w=0.001: m=0.25, ky=-0.3: dk_x = +0.022561 vs +0.022596 (-0.0015)
+rotating w=0.001: m=0.5, ky=+0.3: dk_x = -0.022748 vs -0.022799 (-0.0023)
+rotating w=0.001: m=0.5, ky=-0.3: dk_x = +0.022748 vs +0.022799 (-0.0023)
+curl-free g=0.005: m=0.1, y0=40: y 40.00 -> 88.953 vs 88.987 (-0.0007 of distance); straight y0 e^(gt) = 89.02; <k_y> = +9.5e-07
+curl-free g=0.005: m=0.1, y0=80: y 80.00 -> 177.861 vs 177.854 (+0.0001 of distance); straight y0 e^(gt) = 178.04; <k_y> = +4.8e-04
+curl-free g=0.005: m=0.25, y0=40: y 40.00 -> 88.940 vs 88.987 (-0.0010 of distance); straight y0 e^(gt) = 89.02; <k_y> = +3.2e-11
+curl-free g=0.005: m=0.25, y0=80: y 80.00 -> 177.880 vs 177.974 (-0.0010 of distance); straight y0 e^(gt) = 178.04; <k_y> = +7.0e-06
+curl-free g=0.005: m=0.5, y0=40: y 40.00 -> 88.936 vs 88.987 (-0.0011 of distance); straight y0 e^(gt) = 89.02; <k_y> = +8.4e-18
+curl-free g=0.005: m=0.5, y0=80: y 80.00 -> 177.871 vs 177.974 (-0.0011 of distance); straight y0 e^(gt) = 178.04; <k_y> = +1.0e-08
+F2c PASS

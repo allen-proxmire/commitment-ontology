@@ -26,7 +26,7 @@ N is a constant set only by experiment (N ≳ 50 under the stated readings). The
 
 ## Not predictions (agreement only, or below every test)
 
-Weak-field gravity on the walk (G5–G8, G12); the composite excess at MICROSCOPE's level (B1); the extra species (not particles); the first ripples (a silence).
+Weak-field gravity on the walk (G5–G8, G12; on the step F1a–c, F2a–d); the composite excess at MICROSCOPE's level (B1); the extra species (not particles); the first ripples (a silence).
 
 **Reading.** The lattice makes the highest-energy cosmic rays CO's natural test, but the number waits on two choices: light's lattice form and what the counter-terms equalise. The nearest-term CO-specific number may be classical gravity's decoherence-or-diffusion trade-off (Oppenheim et al. 2023), applied to gravity sourced by engagements.
 

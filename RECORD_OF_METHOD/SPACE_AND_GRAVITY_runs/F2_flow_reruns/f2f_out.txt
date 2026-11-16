@@ -1,0 +1,4 @@
+scale 1: t_c=609, run to t=487: q=0.1: 226->66 (pred 69, ratio 0.962); q=0.3: 326->97 (pred 100, ratio 0.968); q=0.5: 387->108 (pred 119, ratio 0.908); q=0.7: 433->119 (pred 133, ratio 0.900); q=0.9: 472->145 (pred 147, ratio 0.993); worst 0.100
+scale 2: t_c=1217, run to t=974: q=0.1: 453->136 (pred 139, ratio 0.979); q=0.3: 653->196 (pred 201, ratio 0.976); q=0.5: 775->234 (pred 238, ratio 0.983); q=0.7: 867->253 (pred 267, ratio 0.948); q=0.9: 945->287 (pred 294, ratio 0.974); worst 0.052
+scale 4: t_c=2434, run to t=1947: q=0.1: 906->275 (pred 279, ratio 0.985); q=0.3: 1307->400 (pred 403, ratio 0.993); q=0.5: 1550->472 (pred 477, ratio 0.988); q=0.7: 1734->526 (pred 534, ratio 0.985); q=0.9: 1890->576 (pred 590, ratio 0.977); q=0.97: 1953->635 (pred 631, ratio 1.008); worst 0.023
+F2f FAIL

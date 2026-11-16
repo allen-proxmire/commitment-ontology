@@ -1,0 +1,2 @@
+clock: single ray 1.04607e-02; packet-averaged 1.19310e-02 ± 2.8e-04
+full : single ray 2.10089e-02; packet-averaged 2.40023e-02 ± 5.6e-04

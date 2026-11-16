@@ -1,0 +1,8 @@
+side +1 none: <kx>*side = -1.734723e-18, y end 439.3
+side +1 clock: <kx>*side = -5.787509e-03, y end 436.5
+side +1 full: <kx>*side = -1.164065e-02, y end 433.6
+side -1 none: <kx>*side = +1.734723e-18, y end 439.3
+side -1 clock: <kx>*side = -5.906668e-03, y end 436.5
+side -1 full: <kx>*side = -1.188179e-02, y end 433.5
+angles: clock 1.16942e-02, full 2.35224e-02; ratio 2.0115; full / continuum 4A/b over the path (1.92898e-02) = 1.2194; sides differ by 0.021 (raw)
+F2b FAIL

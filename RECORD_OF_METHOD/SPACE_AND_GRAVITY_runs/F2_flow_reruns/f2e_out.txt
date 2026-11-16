@@ -1,0 +1,19 @@
+matter from 150: t=55.1: r=120.09 vs free-faller 120.0 (+0.0031 of distance fallen)
+matter from 150: t=111.0: r=85.09 vs free-faller 85.0 (+0.0014 of distance fallen)
+matter from 150: t=165.0: r=43.32 vs free-faller 42.0 (+0.0123 of distance fallen)
+matter from 110: t=55.9: r=73.13 vs free-faller 73.0 (+0.0035 of distance fallen)
+matter from 110: t=94.9: r=40.10 vs free-faller 40.0 (+0.0014 of distance fallen)
+matter from 110: t=108.4: r=27.41 vs free-faller 25.0 (+0.0284 of distance fallen) [inside r_s, reported]
+light out from 70: t=25: r=75.89 vs ray 76.40
+light out from 70: t=50: r=82.12 vs ray 83.57
+light out from 70: t=100: r=95.63 vs ray 100.21
+  -> escapes (r_s = 40)
+light out from 50: t=25: r=52.45 vs ray 53.11
+light out from 50: t=50: r=54.21 vs ray 56.85
+light out from 50: t=100: r=55.36 vs ray 66.51
+  -> escapes (r_s = 40)
+light out from 32: t=25: r=27.23 vs ray 28.97
+light out from 32: t=50: r=18.09 vs ray 23.62
+light out from 32: t=100: r=2.48 vs ray -15.80
+  -> swept in (r_s = 40)
+F2e PASS

@@ -1,0 +1,4 @@
+q=0.5: start r=1550, crossed own horizon 300 at t=2146 vs 2149 predicted (-0.0014)
+q=0.7: start r=1734, crossed own horizon 420 at t=2057 vs 2069 predicted (-0.0057)
+q=0.9: start r=1890, crossed own horizon 540 at t=1984 vs 1998 predicted (-0.0067)
+q=0.97: start r=1953, crossed own horizon 582 at t=2002 vs 1997 predicted (+0.0028)
