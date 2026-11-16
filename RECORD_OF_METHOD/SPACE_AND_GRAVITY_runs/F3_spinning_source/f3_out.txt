@@ -1,0 +1,7 @@
+F3a: source L = 11.9620; <-i d_phi> = 12.0432 (-0.0067); winding n = 12; <sigma_z>/2 = +0.4567
+F3b: Omega at centre (curl/2) = 7.39397e-04; thin-shell prediction 8.45726e-04, in the periodic box 7.39397e-04 (-0.0000); sense with the ring
+F3c: m=0.0, ky=+0.3: dk_x = -1.30135e-02 vs -Omega sin(ky) t = -1.31104e-02 (-0.0074)
+F3c: m=0.0, ky=-0.3: dk_x = +1.30135e-02 vs -Omega sin(ky) t = +1.31104e-02 (-0.0074)
+F3c: m=0.5, ky=+0.3: dk_x = -1.30759e-02 vs -Omega sin(ky) t = -1.31104e-02 (-0.0026)
+F3c: m=0.5, ky=-0.3: dk_x = +1.30759e-02 vs -Omega sin(ky) t = +1.31104e-02 (-0.0026)
+F3 PASS

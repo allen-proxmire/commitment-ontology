@@ -1831,3 +1831,11 @@ Fail conditions written first (SPACE_AND_GRAVITY_runs/F2_flow_reruns/FAIL_CONDIT
 - **F2f (G17).** Uniform ball sourcing its own drift (radial reduction): shells within 10.01%, 5.2%, 2.3% of the dust prediction at cloud sizes 500, 1000, 2000; **failed as stated** by 0.01% at the smallest (q = 0.7, 0.8999), converging as on the walk (G17: 0.90). Horizons crossed within 0.7% of the predicted times.
 
 **Reading.** The walk's weak- and strong-field gravity results carry to the flow step. Results docs updated: the "not rerun" marks replaced. Grade: reading.
+
+## 2026-11-16 — A spinning source on the step (run F3); the shift's spin term (ruled)
+
+Fail conditions written first (SPACE_AND_GRAVITY_runs/F3_spinning_source/). A steady ring (m = 0.5, radius 60, winding 12) sources the shift through the linear cost, ∇²b = −κ_b P, P_i = Re ψ†(sin k_i ψ), κ_b = 4κ. Its source carries the ring's angular momentum to 0.7%; inside, the shift turns rigidly in the ring's sense at the thin-shell rate (Thirring, 2D); light and matter crossing the centre are pushed as in a rotating frame to 0.7% and 0.3%. Passed. The first pass had the shift equation's sign reversed and compared with the free-space value instead of the periodic box's (13% lower); both corrected.
+
+**Desk.** P7f restated entered the shift spin-blind, ½{b_j, sin k_j}⊗1. The Dirac Hamiltonian in a general metric (Obukhov, Silenko and Teryaev 2009) carries the same orbital term plus ¼(∇×b)·Σ, which completes H − Ω·(L + S) for a rigid rotation. Without it a rotating relabelling of places is not free for spinors (against P7e), intrinsic spin neither feels nor sources frame dragging, and the source misses the spin density's curl. Not observable at present (about 10⁻¹⁴ rad/s on Earth).
+
+**Ruled.** The shift carries the spin term: H = ½{N/ψ², K} + βmN + ½Σ_j{b_j, sin k_j} + ¼(∇×b)·Σ. Ruled, candidate. Local, spin-only; F2 and F3's orbital results unchanged.
