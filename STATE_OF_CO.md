@@ -2,7 +2,7 @@
 
 ## The idea
 
-Time is a count of things that have happened. Not a river, not a dimension: a count. Something happens, and it cannot be undone. That is one tick. Matter is something that keeps happening. Where nothing happens, there is no time. Start from this and ask what physics has to look like.
+Time is a count of things that have happened. Something happens, and it cannot be undone. That is one tick. Matter is something that keeps happening. Where nothing happens, there is no time. Start from this and ask what physics has to look like.
 
 CO starts from two things. Picture a network of places, like the points of a grid (the *lattice*). **Possibility** is what could happen: it sits at places and moves between places that are related. A **commitment** is something actually happening: an event that takes in some possibility and cannot be undone. Everything else is built from these two.
 
