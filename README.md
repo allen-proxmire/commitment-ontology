@@ -7,7 +7,7 @@ Time is the count of commitments, matter is what keeps re-committing, and gravit
 
 GR has no global now; QM has no event. CO takes both as primitives, which places it among event theories (Haag's programme, Blanchard–Jadczyk) rather than collapse models.
 
-It is incomplete, and says where
+It is incomplete, and says where.
 
 **What goes in.**
 - The two primitives and their qualities, P1–P8 and C1–C9, each posited or candidate ([`TECHNICAL_APPENDIX.md`](TECHNICAL_APPENDIX.md)).
