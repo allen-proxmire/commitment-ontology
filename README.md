@@ -1,8 +1,13 @@
 # Commitment Ontology
 
-CO is an ontology with two primitives, possibility and commitment. *Possibility* sits at places on a network and moves between related places; it is never made or lost in passing. A *commitment* is an irreversible event that engages possibility. Time is the count of commitments, matter is what keeps re-committing, and gravity is the pull toward where commitments run slow. From these it reaches gravity and, largely by identification with known constructions, quantum mechanics up to 1930 for a fixed number of particles. It is incomplete, and says where.
+CO is an ontology with two primitives, possibility and commitment. 
+- *Possibility* sits at places on a network and moves between related places; it is never made or lost in passing.
+- A *commitment* is an irreversible event that engages possibility.
+Time is the count of commitments, matter is what keeps re-committing, and gravity is the pull toward where commitments run slow. From these it reaches gravity and, largely by identification with known constructions, quantum mechanics up to 1930 for a fixed number of particles.
 
 GR has no global now; QM has no event. CO takes both as primitives, which places it among event theories (Haag's programme, Blanchard–Jadczyk) rather than collapse models.
+
+It is incomplete, and says where
 
 **What goes in.**
 - The two primitives and their qualities, P1–P8 and C1–C9, each posited or candidate ([`TECHNICAL_APPENDIX.md`](TECHNICAL_APPENDIX.md)).
@@ -29,10 +34,11 @@ Notes for the experiments that could check these: [`TESTS_FOR_EXPERIMENTERS/`](T
 
 **The documents.** [`STATE_OF_CO.md`](STATE_OF_CO.md): the theory in plain language. [`ONE_PAGE.md`](ONE_PAGE.md): everything that goes in and comes out, with grades, constants and bounds. [`TECHNICAL_APPENDIX.md`](TECHNICAL_APPENDIX.md): the rules as equations. [`OPEN_DIRECTIONS.md`](OPEN_DIRECTIONS.md): what is open. [`RECORD_OF_METHOD/`](RECORD_OF_METHOD/): every route tried, with the runs.
 
-It asks to be judged as an ontology without a measurement dynamics is judged, the standard applied to Haag's programme and to the interpretations: internal consistency, economy of assumptions, recovery of what is known, and, if it comes to differ, a difference that can be tested.
+It asks to be judged as an ontology without a measurement dynamics is judged, the standard applied to Haag's programme and to the interpretations: internal consistency, economy of assumptions, recovery of what is known, and, if a difference that can be tested.
 
-The ontology has been in development for all of 2026. The intent is that it resonates as a logical story of how the universe operates, and for others to advance the ideas if possible.
+The intent is that it resonates as a logical story of how the universe operates, and for others to advance the ideas if possible.
 
+---------------------------------------------------------------------------------------------------------------------
 "Wen considered the nature of time and understood that the universe is, instant by instant, recreated anew. Blink your eyes, and the world you see next did not exist when you closed them.... The sky you see now, you have never seen before. The perfect moment is now. Be glad of it.” Lu-Tze, from Terry Pratchett's _Thief of Time._
 
 Independent, speculative, not peer-reviewed.
