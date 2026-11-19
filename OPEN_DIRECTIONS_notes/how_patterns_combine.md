@@ -188,3 +188,23 @@ Two consequences for CO:
 - *Sixteen per generation.* Symmetric mass generation is possible only when all anomalies cancel, including discrete ones. In 3+1 dimensions, with the discrete symmetry of SO(10)-type models kept, that needs a multiple of sixteen Weyl fields: Catterall's reduced staggered construction lands on exactly sixteen, Wang and Wen on the SO(10) 16. One generation of the Standard Model has fifteen without a right-handed neutrino. So if CO's one-handed fields come by this route, each generation carries a right-handed neutrino. This is not forced for the Standard Model group alone (Wang and Wen also propose a fifteen-field SU(5) route), so it is a consequence of the route, not of CO.
 
 Grade: reading. The corner-colour poke stays ungraded: the count fits, but the charges cannot live on corners. Colour, the weak label and the charges all wait on one posit, an on-site internal label, and the mirror-gapping route (exponential locality not needed for it; on-site interactions instead).
+
+## Baryons as twists, on the flow step (19 Nov, desk; shape)
+
+*What changed since 12 Nov.* The staggered walk's two kinds are gone: on the flow step the doublers are heavy (C6), so the two-valued label no longer comes from the lattice. Three other pieces arrived: quarks as coloured patterns in three states (C9, restated 19 Nov), matter bound to two walls with one handedness on each (B4–B6), and quark masses read as a coupling between the walls (tuning 2's removal).
+
+*The twist, re-read.* Take two light flavours (u, d; as C9 takes them). With one handedness on each wall, the flavour symmetry of the light quarks is SU(2) on one wall times SU(2) on the other: the chiral symmetry of two-flavour QCD, in the form lattice QCD gives it with domain-wall quarks. CO's colour sector by identification (NUCLEUS) breaks it to one SU(2), isospin, the diagonal one (numerical, not proved, as for confinement): the quarks' wall-to-wall coupling condenses with a direction in flavour space,
+
+$$\langle \bar q_{R}^{\,b}\, q_{L}^{\,a}\rangle \;\propto\; U^{ab}(x),\qquad U(x)\in SU(2)\cong S^3,$$
+
+with q_L and q_R the two walls' quarks.
+
+So the "flip's direction, set place by place" of 12 Nov is the direction of the wall-to-wall coupling in flavour space: its slow ripples are pions (light, 140 MeV against the nucleon's 939, from the small quark masses), and a winding of U over the three directions of space,
+
+$$B=\frac{1}{24\pi^2}\int d^3x\;\varepsilon^{ijk}\,\mathrm{tr}\big(U^\dagger\partial_iU\,U^\dagger\partial_jU\,U^\dagger\partial_kU\big)=1,$$
+
+is a baryon (Skyrme 1961). In the twist with B = 1, the hedgehog, the flavour direction points along the direction in space at each place: turning the pattern in space and turning it in flavour are the same turn. Its rotation states form one tower with spin equal to isospin, the nucleon (½, ½) then the Δ (3/2, 3/2), with energies M + J(J + 1)/(2𝓘); it is a fermion exactly when the number of colours is odd (Witten 1983), so C9's three makes it one.
+
+*Where the two threes sit.* Colour's three is internal (C9; not space). The twist's three is space's three directions locked to the three directions of the flavour turn. A rotation of a three-dimensional pattern belongs here, in how three quarks bind into a baryon, not in colour.
+
+*What it gives and does not.* With the twist's two numbers fitted to the nucleon and Δ masses, the Skyrme model gives the nucleon's other properties to about 30% (Adkins, Nappi and Witten 1983: the magnetic-moment ratio μ_p/μ_n ≈ −1.43 against −1.46 measured; the axial coupling g_A ≈ 0.61 against 1.27; and the fit itself needs the pion decay constant at about 65 MeV against 93). The pion field and its leading cost are QCD's long-distance description; the extra term that holds the twist's size is a model's, not derived, so the 12 Nov *takes* stay: a cost for twisting and a reason twists hold their size, supplied by QCD only in principle. Conditional on everything the nucleus already takes (C9, the colour field's cost and coupling), on the walls' handedness extended to interactions (B4–B6 are free or static-field runs), and on reading quark mass as a coupling between the walls, which the weak interaction's one-wall shape would re-read; at most one of the two readings survives (`weak_interaction.md`). Grade: shape; the pions and chiral breaking by identification (candidate; conditional as stated). It replaces the 12 Nov candidate (the staggered walk's label), whose source is gone with the flow step.
