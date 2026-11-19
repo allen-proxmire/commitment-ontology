@@ -109,7 +109,7 @@ At long wavelengths this is Dirac's equation: the electron, with spin ½. A latt
 
 **No collapse.** A pattern left alone is never resolved, however big. Resolution needs an engagement: a contact whose chain reaches N quanta. N is a constant of CO's own, set only by experiment; present data say N is at least about 50.
 
-**The nucleus.** "Colour" is the name physics gives the strong force's charge. In CO it is a split of a pattern into three parts alike (a choice: odd is forced, three is the least). With that, and the colour field's strength put in by hand as in standard physics, confinement and the proton's mass follow by matching to lattice QCD (the standard computer simulations of the strong force). The quark masses and charges are not supplied.
+**The nucleus.** "Colour" is the name physics gives the strong force's charge. In CO there are two kinds of matter pattern as far as colour goes: the electron's, and the quark's. A quark comes in three states, the three colours, which are like three directions an arrow can point in a small inner space that has nothing to do with ordinary space. Only colour-neutral combinations are seen: a quark with an antiquark, or three quarks together. The three is chosen to match measurement. With that, and the colour field's strength put in by hand as in standard physics, confinement and the proton's mass follow by matching to lattice QCD (the standard computer simulations of the strong force). The quark masses and charges are not supplied.
 
 ## Where it stands
 

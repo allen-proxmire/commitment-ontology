@@ -19,7 +19,7 @@
 - Light bending, the Shapiro delay, Mercury's precession, once Cassini fixes γ = 1 and Mercury β = 1. Gravity Probe B's two precessions (candidate).
 - The Dirac equation and spin ½ (lattice Dirac fermions); Maxwell's equations from the which-way phase (the phase a relation carries for the direction possibility passed).
 - Helium, positronium and hydrogen's 21 cm line at tree level; pair creation and annihilation (lattice QED, candidate); the exchange sign, ±1 in three dimensions given a flat exchange factor, and (−1)^{2s} (candidate).
-- Colour as a split into three (C9, chosen, candidate); confinement and the hadron masses (lattice QCD, candidate; conditional on C9, the tunings and the quark masses).
+- Colour as three states of a second kind of pattern, turned into each other by SU(3) (C9, chosen, candidate); confinement and the hadron masses (lattice QCD, candidate; conditional on C9, the tunings and the quark masses).
 - Friedmann's eras.
 
 **Imported** (taken from standard physics without a reason of CO's own).
@@ -34,7 +34,7 @@
 **Chosen** (readings the rules leave open, picked; candidate).
 - Matter's step: one tick of the lattice Dirac flow with a Wilson term.
 - Locality as a reach that fades fast at the hop scale.
-- How the field enters matter's step; gravity's source following engagements; no backdrop at every order; colour as a split (C9); measurement completing at N quanta (C8).
+- How the field enters matter's step; gravity's source following engagements; no backdrop at every order; colour as a three-state kind (C9); measurement completing at N quanta (C8).
 
 **Tunings.** The lattice's frame is kept on purpose (the speed tuning, chosen): it carries the photon and neutrino tests, and the one exit (coordinates that do not commute) would remove the photon test, in Snyder's form the neutrino test too, along with places definite in every direction.
 - The lattice picks a rest frame. Its loops would give species different top speeds; counter-terms set by hand keep them equal to the 10⁻²⁰ the data require (one per species and handedness, the same in every direction). CO stands at tree level; the one open exit is a network whose coordinates do not commute.

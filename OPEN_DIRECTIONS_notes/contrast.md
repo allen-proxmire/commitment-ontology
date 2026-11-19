@@ -20,7 +20,7 @@ So the ladder is: one, nothing; two, a relation; three, a relation among relatio
 ## Where it touches CO
 
 - **Gravity is contrast in commitment rates.** CO's gravity is the pull toward where clocks run slowest, a difference in how fast places commit. Without the contrast between rates there is no pull.
-- **Colour closes three ways.** In C9, a colour singlet ties three parts together with a three-way closure (ε^{abc}), which no pair can make. Contrast offers a way of seeing why three is special. It is not C9's rule: C9's three rests on fermion statistics (an odd number of fermion parts) and a least-split choice. A contrast rule ("two parts cannot make a complete pattern") would be false as physics: a meson is a complete, colourless pattern of two parts, a quark and an antiquark. (It was briefly ruled into C9 on 13 Nov and withdrawn the same morning for this reason.)
+- **Colour closes three ways.** In C9, a colour singlet ties three quarks together with a three-way closure (ε^{abc}), which no pair can make. Contrast offers a way of seeing why three is special. It is not C9's rule: C9 chooses three (the measured count); the split reading (recorded alternative) rests it on fermion statistics (an odd number of fermion parts) and a least-split choice. A contrast rule ("two parts cannot make a complete pattern") would be false as physics: a meson is a complete, colourless pattern of two parts, a quark and an antiquark. (It was briefly ruled into C9 on 13 Nov and withdrawn the same morning for this reason.)
 - **Twos are real.** Mesons are two-part patterns, and the weak interaction pairs kinds in twos. Contrast between two things is already rich; the ladder's point is what appears at each step, not that only three completes.
 - **Space.** CO's long-held line, "record, over time, becomes relation: space is made of what has happened", reads naturally here: space would be the accumulated contrasts between committed events.
 
@@ -30,4 +30,4 @@ This is not a claim that everything comes in threes. There will be twos and four
 
 ## What it is not, yet
 
-It is not a derivation. It does not forbid larger splits, only names the first complete one. It does not yet say what time is in these terms; one natural question is whether time itself is a contrast, before against after. Saved as a direction: a principle that might, in time, turn CO's choices into consequences.
+It is not a derivation. It does not forbid larger groupings, only names the first complete one. It does not yet say what time is in these terms; one natural question is whether time itself is a contrast, before against after. Saved as a direction: a principle that might, in time, turn CO's choices into consequences.
