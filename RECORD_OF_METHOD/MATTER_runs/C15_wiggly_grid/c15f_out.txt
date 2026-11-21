@@ -1,0 +1,4 @@
+displacement 0.05: four neighbours: leftover per place 2.27e-02; cell sizes 0.879 to 1.154
+displacement 0.05: eight neighbours: leftover per place 3.02e-11; cell sizes 0.916 to 1.096
+displacement 0.15: four neighbours: leftover per place 6.74e-02; cell sizes 0.665 to 1.504
+displacement 0.15: eight neighbours: leftover per place 2.48e-11; cell sizes 0.772 to 1.319

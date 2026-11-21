@@ -1,0 +1,18 @@
+even grid, eight neighbours: leftover of the conditions 3.3e-16; Hermitian to 0e+00
+   k = 0.295: loss rate 5.051e-16 per hop time; forward share 0.9949 0.9949 0.9949 0.9949 0.9949; norm 1.000000
+   k = 0.442: loss rate 5.962e-16 per hop time; forward share 0.9949 0.9949 0.9949 0.9949 0.9949; norm 1.000000
+   k = 0.589: loss rate 7.615e-16 per hop time; forward share 0.9949 0.9949 0.9949 0.9949 0.9949; norm 1.000000
+   k = 0.785: loss rate 1.119e-15 per hop time; forward share 0.9949 0.9949 0.9949 0.9949 0.9949; norm 1.000000
+four neighbours, displaced: leftover of the conditions 7.0e-02; Hermitian to 0e+00
+   k = 0.295: loss rate 1.812e-04 per hop time; forward share 0.9949 0.9852 0.9782 0.9729 0.9648; norm 1.000000
+   k = 0.442: loss rate 8.983e-04 per hop time; forward share 0.9949 0.9461 0.9138 0.8825 0.8471; norm 1.000000
+   k = 0.589: loss rate 2.634e-03 per hop time; forward share 0.9949 0.8356 0.7320 0.6434 0.5643; norm 1.000000
+   k = 0.785: loss rate 4.905e-03 per hop time; forward share 0.9949 0.5346 0.3416 0.2229 0.1697; norm 1.000000
+eight neighbours, displaced: leftover of the conditions 7.8e-09; Hermitian to 0e+00
+   k = 0.295: loss rate 1.229e-03 per hop time; forward share 0.9949 0.9505 0.8960 0.8470 0.8009; norm 1.000000
+   k = 0.442: loss rate 2.432e-03 per hop time; forward share 0.9949 0.8750 0.7782 0.6980 0.5970; norm 1.000000
+   k = 0.589: loss rate 3.801e-03 per hop time; forward share 0.9949 0.7653 0.6012 0.4802 0.3772; norm 1.000000
+   k = 0.785: loss rate 5.073e-03 per hop time; forward share 0.9949 0.6145 0.3835 0.2369 0.1691; norm 1.000000
+four neighbours, displaced: power of k (first three) 3.87
+eight neighbours, displaced: power of k (first three) 1.63
+at k = 0.3: four-neighbour rate over eight-neighbour rate = 0

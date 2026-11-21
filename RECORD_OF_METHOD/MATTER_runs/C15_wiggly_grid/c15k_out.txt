@@ -1,0 +1,7 @@
+1. eight neighbours, cell sizes held at 1: leftover per place after n local rounds: 0: 2.1e-01, 10: 1.2e-01, 100: 6.5e-02, 1000: 3.1e-02, 3000: 1.9e-02
+1. four neighbours, cell sizes held at 1: leftover per place after n local rounds: 0: 2.1e-01, 10: 1.6e-01, 100: 1.4e-01, 1000: 1.4e-01, 3000: 1.4e-01
+   count of weights against conditions per place, cells held: d z/2 against d + d^2: needs z >= 2(1 + d) neighbours: 6 in two dimensions, 8 in three (a cubic grid has 6).
+2. l = 1e-32 m, the Earth (mean): renewals per place per second 4.7e-42; over the universe's age 2.0e-24; if each renewal reaches every place its pattern spans (about 6e+50): 1.2e+27
+2. l = 1e-32 m, a void (0.02 nucleons per m^3): renewals per place per second 2.9e-74; over the universe's age 1.2e-56; if each renewal reaches every place its pattern spans (about 6e+50): 7.4e-06
+2. l = 5.7e-35 m, the Earth (mean): renewals per place per second 8.8e-49; over the universe's age 3.8e-31; if each renewal reaches every place its pattern spans (about 3e+57): 1.2e+27
+2. l = 5.7e-35 m, a void (0.02 nucleons per m^3): renewals per place per second 5.4e-81; over the universe's age 2.3e-63; if each renewal reaches every place its pattern spans (about 3e+57): 7.4e-06

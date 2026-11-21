@@ -1,0 +1,10 @@
+four k=0.098 E=0.0977 residual=8.422e-03 res/k^2=0.874 res/k=0.086
+four k=0.196 E=0.1944 residual=1.371e-02 res/k^2=0.356 res/k=0.070
+four k=0.393 E=0.3806 residual=3.545e-02 res/k^2=0.230 res/k=0.090
+four k=0.785 E=0.6970 residual=1.164e-01 res/k^2=0.189 res/k=0.148
+eight k=0.098 E=0.0980 residual=1.634e-03 res/k^2=0.170 res/k=0.017
+eight k=0.196 E=0.1949 residual=6.504e-03 res/k^2=0.169 res/k=0.033
+eight k=0.393 E=0.3814 residual=2.551e-02 res/k^2=0.165 res/k=0.065
+eight k=0.785 E=0.6973 residual=9.423e-02 res/k^2=0.153 res/k=0.120
+
+[exited with code 0]

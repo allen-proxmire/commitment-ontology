@@ -1,0 +1,5 @@
+displacement 0.15, alike over 0 hops (neighbour-to-neighbour 0.213): conditions' leftover 6.9e-02; k=0.33: leftover 2.7e-02, loss rate 3.5e-04; k=0.46: leftover 4.6e-02, loss rate 1.2e-03; k=0.59: leftover 7.1e-02, loss rate 2.9e-03
+displacement 0.15, alike over 2 hops (neighbour-to-neighbour 0.052): conditions' leftover 1.3e-03; k=0.33: leftover 1.8e-03, loss rate 4.0e-06; k=0.46: leftover 3.7e-03, loss rate 6.8e-06; k=0.59: leftover 6.4e-03, loss rate 2.3e-05
+displacement 0.15, alike over 4 hops (neighbour-to-neighbour 0.026): conditions' leftover 1.1e-04; k=0.33: leftover 5.3e-04, loss rate 5.8e-06; k=0.46: leftover 1.2e-03, loss rate 4.7e-06; k=0.59: leftover 2.2e-03, loss rate 8.4e-06
+displacement 0.6, alike over 4 hops (neighbour-to-neighbour 0.105): conditions' leftover 4.6e-04; k=0.33: leftover 2.1e-03, loss rate 3.7e-05; k=0.46: leftover 4.8e-03, loss rate 5.5e-05; k=0.59: leftover 9.0e-03, loss rate 1.5e-04
+displacement 0.15, alike over 8 hops (neighbour-to-neighbour 0.012): conditions' leftover 8.8e-06; k=0.33: leftover 1.9e-04, loss rate 8.7e-06; k=0.46: leftover 4.8e-04, loss rate 7.1e-06; k=0.59: leftover 9.6e-04, loss rate 5.4e-06

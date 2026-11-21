@@ -1,0 +1,5 @@
+four neighbours: conditions' leftover 6.9e-02 (weights in 8 s)
+   k = 0.147: plane-wave leftover 1.06e-02; loss rate 1.471e-05; forward share 0.99469 0.99314 0.99169 0.99028
+   k = 0.196: plane-wave leftover 1.38e-02; loss rate 3.499e-05; forward share 0.99469 0.99053 0.98785 0.98393
+   k = 0.295: plane-wave leftover 2.29e-02; loss rate 1.898e-04; forward share 0.99469 0.97095 0.95361 0.93720
+eight neighbours: not completed (the weights' solve at L = 256 had not converged after 35 minutes; stopped)
