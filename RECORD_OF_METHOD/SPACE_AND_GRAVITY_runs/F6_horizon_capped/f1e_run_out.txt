@@ -1,0 +1,4 @@
+rho_pred=  799.9 (target 800): mean=  799.5, deviation -0.0009 of distance fallen; |b| at mean 0.71
+rho_pred=  399.8 (target 400): mean=  396.6, deviation -0.0040 of distance fallen; |b| at mean 1.00
+rho_pred=  199.7 (target 200): mean=  332.2, deviation +0.1325 of distance fallen; |b| at mean 1.10
+F1 FAIL

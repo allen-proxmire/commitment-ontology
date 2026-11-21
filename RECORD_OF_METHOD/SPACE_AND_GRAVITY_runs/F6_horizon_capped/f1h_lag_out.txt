@@ -1,0 +1,4 @@
+median predicted  399.8: measured lag   +0.2 places; integrated b(1-<cos k>)    0.0 places; <1-cos k> now 0.0000
+median predicted  299.6: measured lag   +0.4 places; integrated b(1-<cos k>)    0.0 places; <1-cos k> now 0.0000
+median predicted  199.7: measured lag   +6.3 places; integrated b(1-<cos k>)    0.0 places; <1-cos k> now 0.0000
+median predicted  119.7: measured lag  +13.3 places; integrated b(1-<cos k>)    0.0 places; <1-cos k> now 0.0001

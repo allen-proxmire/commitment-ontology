@@ -1847,3 +1847,7 @@ Fail conditions written first (SPACE_AND_GRAVITY_runs/F4_three_dimensions/). Fou
 ## 2026-11-16 — Light past a point mass on the 3D step (run F5)
 
 Fail conditions written first (SPACE_AND_GRAVITY_runs/F5_point_mass_3D/). 64 × 128 × 64, 1/r field, light k_y = 0.5, width 6. Full ÷ clock-only deflection 2.0010: passed. Size against the packet-averaged rays (Gauss–Hermite, 5 points): 34% above, **failed as stated**. The packet's momentum spread fans it about ±26 places sideways, so part passes the mass on the far side and the average is a cancellation the quadrature does not resolve; the 400-ray Monte Carlo made before it agrees with the run within its 13% noise. The size check was poorly conditioned on a lattice this small. Not rerun. Reading: in 3D, light past a point mass bends at twice the clock-only amount.
+
+## 2026-11-21 — The 1D horizon runs with the drift inside the tick limit (run F6)
+
+F1e–h let the drift reach 8.16 near the centre, above the 1D tick limit (6.43 at m = 0.5, τ_f = 0.4) for ρ < 10 (found by the tick-limit check, C9). Rerun unchanged but for the drift capped at 4 (SPACE_AND_GRAVITY_runs/F6_horizon_capped/). f1e −0.0040 (was −0.0038); f1f +0.0203 / +0.0540 (+0.0203 / +0.0549); f1g +0.0063 / +0.0123 (+0.0063 / +0.0114); the recount with absorbed weight at the centre −0.0007 / −0.0006 (+0.0003 / +0.0003). Reading: the horizon crossing holds with every tick inside the limit, to 0.07% of the distance fallen at 0.5 and 0.3 r_s; results docs changed from 0.03% to 0.07%.
