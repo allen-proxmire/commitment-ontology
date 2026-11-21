@@ -14,7 +14,7 @@ by direction against the lattice. (This follows from one choice in the framework
 
 **The mark.**
 1. A ceiling common to every source in a direction, near or far (absorption on the microwave background depends on distance).
-2. A ceiling that varies across the sky by up to a factor of 1.75, with the symmetry of a cube, fixed to the lattice's rest frame; its orientation is unknown (one energy scale, three angles).
+2. A ceiling that varies across the sky by up to a factor of 1.75, with the symmetry of a cube, fixed to the lattice's rest frame; its orientation is unknown (one energy scale, three angles). About 19% of the sky lies within 10% of the lowest ceiling, 44% within 25%, and 7% within 10% of the highest; the median direction's ceiling is 1.28 times the lowest.
 
 **Where things stand.** The highest photons seen are 3.73 ± 0.41 PeV and 3.08 ± 0.34 PeV from Cygnus X-3 at about 9 kpc (LHAASO Collaboration, arXiv:2512.16638). Under the framework they were below threshold, which bounds the lattice spacing at ℓ ≲ 2.4 × 10⁻³¹ m (lower energy, weakest direction: Cygnus X-3 on the cube's body diagonal; 7.8 × 10⁻³² m if it lies on an axis, 1.3 × 10⁻³¹ m at the median orientation). One direction cannot fix the orientation: a second unsplit photon adds to the bound at the earliest above about 1.9 PeV, from a direction well away from Cygnus (2.1 PeV for the Crab, 105° away, whose highest photons are near 1 PeV). At the framework's candidate bound from atmospheric neutrinos (ℓ ≲ 1.0 × 10⁻³² m; see [`neutrino_flavour.md`](neutrino_flavour.md)) the ceiling would sit at about 9–16 PeV or higher.
 

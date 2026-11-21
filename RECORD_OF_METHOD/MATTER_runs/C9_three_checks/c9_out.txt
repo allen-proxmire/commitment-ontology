@@ -1,0 +1,13 @@
+(a) equal walls, r=1/2: best M = 0.55902, rate 0.48121 per place (M=1/2 gives 0.43734)
+    unequal walls (+M1 | -M2), r=1/2: the -M2 half is fastest at M2 = r: 0.54931 = ln sqrt3; the +M1 half: M1=0.5: 0.4373, M1=0.7: 0.5803, M1=1.0: 0.7677, M1=2.0: 1.2327
+    exact matrix, walls +0.500 | -0.500: fitted rate 0.4304; predicted 0.4373; ring for leftover 1e-6: L = 32
+    exact matrix, walls +0.559 | -0.559: fitted rate 0.4767; predicted 0.4812; ring for leftover 1e-6: L = 29
+    exact matrix, walls +0.700 | -0.500: fitted rate 0.5237; predicted 0.5493; ring for leftover 1e-6: L = 25
+    exact matrix, walls +1.000 | -0.500: fitted rate 0.5484; predicted 0.5493; ring for leftover 1e-6: L = 25
+(b) ceiling over the sky (in units of the axis value): median 1.282, mean 1.288; share of sky within 10% of the lowest 18.8%, within 25% 44.4%; share within 10% of the highest (1.75) 7.4%
+(c) free step, r=1/2: largest energy 3.0000 (m=0), 3.5000 (m=0.5); corner value m+6r = 3, 3.5; so tick limit tau < pi/(m+6r): 1.0472 at m=0
+    r=0.2: largest energy 1.8461 against corner 6r = 1.20
+    r=0.3: largest energy 2.0271 against corner 6r = 1.80
+    r=0.4: largest energy 2.4019 against corner 6r = 2.40
+    uniform drift along the axis at tau=0.4: exact limit |b| < 5.142 (the sufficient bound in the docs gives pi/tau - 3 = 4.854)
+    uniform drift along the body diagonal at tau=0.4: exact limit |b| < 3.167 (the sufficient bound in the docs gives pi/tau - 3 = 4.854)
