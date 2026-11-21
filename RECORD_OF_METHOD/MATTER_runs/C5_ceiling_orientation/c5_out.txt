@@ -1,0 +1,10 @@
+C axis/face/body: [np.float64(2.916), np.float64(3.941), np.float64(5.099)]
+Cyg X-3 alone: l < 2.38e-31 m (body diagonal, worst case) to 7.78e-32 m (axis)
+over random orientations: median bound 1.28e-31 m; 10% of orientations give l < 8.60e-32 m
+a second photon matters only above E1*C_axis/C_body = 1.90 PeV (Crab's record is 1.1 PeV)
+angle Cyg X-3 to Crab: 104.7 deg
+second photon from the Crab's direction at 1.12 PeV: worst-case bound 2.38e-31 m (from 2.38e-31); orientations it tightens: 0%
+second photon from the Crab's direction at 2.00 PeV: worst-case bound 2.38e-31 m (from 2.38e-31); orientations it tightens: 0%
+second photon from the Crab's direction at 2.50 PeV: worst-case bound 2.38e-31 m (from 2.38e-31); orientations it tightens: 7%
+second photon from the Crab's direction at 3.30 PeV: worst-case bound 2.31e-31 m (from 2.38e-31); orientations it tightens: 49%
+at l = 1.0e-32 m the ceiling is 9.3-16.2 PeV: no observed photon reaches it in any orientation

@@ -1,0 +1,5 @@
+M=0.5, r=0.5: exact rates +M half 0.43734, -M half 0.54931; slower 0.43734; measured (even L=24..40) 0.43378
+M=0.3, r=0.5: exact rates +M half 0.27712, -M half 0.32037; slower 0.27712; measured (even L=24..40) 0.26348
+M=0.8, r=0.5: exact rates +M half 0.64607, -M half 0.20947; slower 0.20947; measured (even L=24..40) 0.20948
+M=0.5, r=0.3: exact rates +M half 0.45303, -M half 0.10137; slower 0.10137; measured (even L=24..40) 0.10161
+closed form at r=1/2: +M half kappa = -ln(sqrt((2M+1)^2+3) - (2M+1)); at M=1/2: -ln(sqrt7 - 2) = 0.43734081671077907 ; -M half at M=1/2: ln(sqrt3) = 0.5493061443340549
