@@ -1,0 +1,7 @@
+scale 1, t=447: shells q=[0.2, 0.4, 0.6, 0.8]: measured/predicted [0.9981 1.0052 0.9888 0.9805]; growth [1.606 1.617 1.59  1.577] (one factor for all shells = Hubble's law: spread 0.0096)
+scale 1, t=894: shells q=[0.2, 0.4, 0.6, 0.8]: measured/predicted [0.9957 1.0058 0.98   0.9832]; growth [2.109 2.129 2.074 2.08 ] (one factor for all shells = Hubble's law: spread 0.0106)
+scale 1, t=1342: shells q=[0.2, 0.4, 0.6, 0.8]: measured/predicted [0.9925 1.001  0.9771 0.9864]; growth [2.552 2.573 2.511 2.534] (one factor for all shells = Hubble's law: spread 0.0090)
+scale 2, t=894: shells q=[0.2, 0.4, 0.6, 0.8]: measured/predicted [0.9995 1.0016 1.0031 0.9872]; growth [1.607 1.61  1.612 1.586] (one factor for all shells = Hubble's law: spread 0.0064)
+scale 2, t=1789: shells q=[0.2, 0.4, 0.6, 0.8]: measured/predicted [1.0021 0.997  0.9979 0.985 ]; growth [2.12  2.109 2.11  2.082] (one factor for all shells = Hubble's law: spread 0.0066)
+scale 2, t=2683: shells q=[0.2, 0.4, 0.6, 0.8]: measured/predicted [0.998  1.001  0.9948 0.9851]; growth [2.563 2.57  2.554 2.528] (one factor for all shells = Hubble's law: spread 0.0063)
+F7 holds (not registered; a reversal of F2f)
