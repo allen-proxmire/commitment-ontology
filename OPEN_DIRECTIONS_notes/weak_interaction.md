@@ -14,7 +14,7 @@
 - *The walls change job.* Tuning 2's removal reads a fermion's mass as a coupling between the two walls (left on one, right on the other). In the chiral form both handednesses of a physical fermion sit on one wall, each written as a left-handed field (the right-handed one as its conjugate), and its mass becomes a coupling between two fields there, through a doublet field. The two readings assign the walls differently; at most one survives.
 - *A doublet field.* The W and Z masses and the fermion masses need a field CO does not have. Whether a commitment-rate reading of mass (C4) can stand in for it is open.
 - *The flow along the inner direction* is a posit of its own, as is the inner direction.
-- *Mirrors.* The far wall carries a mirror copy of every fermion, coupled to the gauge fields only softly; with gravity they would be a dark sector (a link to [`dark_matter.md`](dark_matter.md), unexamined).
+- *Mirrors.* The far wall carries a mirror copy of every fermion, coupled to the gauge fields only softly; with gravity they would be a dark sector; with no mass source there they would be light, radiation and not cold dark matter ([`dark_matter.md`](dark_matter.md)).
 - *Three generations* stay a silence.
 
 **Reading.** CO's inner ring is the structure a proposed lattice construction for chiral gauge theories starts from, so the weak interaction's handedness has a named place to enter, at the cost of re-reading what the walls do. No rule; nothing derived. Grade: shape.

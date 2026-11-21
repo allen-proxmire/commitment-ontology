@@ -1,0 +1,19 @@
+thermal warm-dark-matter bounds as a speed today (v = 3.15 T/m):
+  m_thermal > 1.8 keV (galaxy counts at high redshift): T_relic = 0.357 K, speed today < 5.39e-08 c = 0.0162 km/s
+  m_thermal > 5.3 keV (Lyman-alpha forest (about)): T_relic = 0.249 K, speed today < 1.28e-08 c = 0.0038 km/s
+dark pattern starting with the light's typical momentum (f = 1), 106.75 kinds of light then: T_x = 0.905 K
+   cold enough if m > 4.6 keV (galaxy counts)
+   cold enough if m > 19.2 keV (Lyman-alpha)
+   m = 0.13 keV (Pauli bound): speed today 1.9e-06 c
+   m = 10 keV: speed today 2.5e-08 c
+   m = 5 GeV: speed today 4.9e-14 c
+dark pattern starting with the light's typical momentum (f = 1), 1000 kinds of light then: T_x = 0.429 K
+   cold enough if m > 2.2 keV (galaxy counts)
+   cold enough if m > 9.1 keV (Lyman-alpha)
+   m = 0.13 keV (Pauli bound): speed today 9.0e-07 c
+   m = 10 keV: speed today 1.2e-08 c
+   m = 5 GeV: speed today 2.3e-14 c
+number needed, m = 10000 eV: 3.08e-04 per photon (baryons: 6.1e-10)
+number needed, m = 5e+09 eV: 6.16e-10 per photon (baryons: 6.1e-10)
+born with momentum hbar/l = 1.9e+25 eV/c, m = 5 GeV: needs stretching in length by > 1.3e+24 to reach 3e-9 c; the light's own stretch from hop-scale heat to today is about 2.4e+29
+born with momentum hbar/l = 3.4e+27 eV/c, m = 5 GeV: needs stretching in length by > 2.3e+26 to reach 3e-9 c; the light's own stretch from hop-scale heat to today is about 4.4e+31
