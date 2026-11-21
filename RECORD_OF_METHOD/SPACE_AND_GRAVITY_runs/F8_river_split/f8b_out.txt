@@ -1,0 +1,5 @@
+the Earth: drift of places born inside at Lambda's chance, at the edge, H_L R = 1.16e-11 m/s (0.37 mm a year), w/c = 3.9e-20; the body's own river there 1.12e+04 m/s, to which Lambda adds (H_L R)^2/(2b) = 6.1e-27 m/s; Lambda's outward pull H_L^2 R = 2.1e-29 m/s^2 against GM/R^2 = 9.8e+00
+a cluster at rest, 1e15 Suns, 1 Mpc: drift of places born inside at Lambda's chance, at the edge, H_L R = 5.64e+04 m/s (1.8e+15 mm a year), w/c = 1.9e-04; the body's own river there 2.93e+06 m/s, to which Lambda adds (H_L R)^2/(2b) = 5.4e+02 m/s; Lambda's outward pull H_L^2 R = 1.0e-13 m/s^2 against GM/R^2 = 1.4e-10
+reading a (no births inside; rule 3 as stated): the body's river flows through its fixed places; Lambda adds to it in squares only.
+reading b (births inside at Lambda's chance, 3 H_L per place per time): the places drift out at H_L r and the body's patterns hop back to stay put.
+the two differ only in the hop-scale shift c2 -> c2 - w/2, with w/c as above.
