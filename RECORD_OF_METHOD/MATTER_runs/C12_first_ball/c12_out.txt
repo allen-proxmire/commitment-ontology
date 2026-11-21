@@ -1,0 +1,13 @@
+visible universe: 1.47e+89 photons, 8.94e+79 baryons (2.68e+80 quarks)
+dark pattern's mass if the beginning made as many dark patterns as ...
+   baryons: 5.03 GeV
+   quarks (the patterns, by C9): 1.68 GeV
+   quarks and electrons: 1.30 GeV
+largest hop allowed (neutrino bound), l = 1.00e-32 m: first ball (6.9e+80 places) radius 5.49e-06 m; at the end of the beginning (1.5e+89 places, 1 photon(s) per place) radius 3.27e-03 m; growth in length 596; places multiplied 2.1e+08
+largest hop allowed (neutrino bound), l = 1.00e-32 m: first ball (6.9e+80 places) radius 5.49e-06 m; at the end of the beginning (1.5e+88 places, 10 photon(s) per place) radius 1.52e-03 m; growth in length 277; places multiplied 2.1e+07
+   standard history run back to light at the hop's energy (2.0e+25 eV): visible universe's radius then 4.70e-03 m
+   mass-energy in the ball then: 5.15e+78 kg; today's matter in the visible universe 9.51e+53 kg
+smallest hop allowed (delta = 1), l = 5.73e-35 m: first ball (6.9e+80 places) radius 3.15e-08 m; at the end of the beginning (1.5e+89 places, 1 photon(s) per place) radius 1.87e-05 m; growth in length 596; places multiplied 2.1e+08
+smallest hop allowed (delta = 1), l = 5.73e-35 m: first ball (6.9e+80 places) radius 3.15e-08 m; at the end of the beginning (1.5e+88 places, 10 photon(s) per place) radius 8.70e-06 m; growth in length 277; places multiplied 2.1e+07
+   standard history run back to light at the hop's energy (3.4e+27 eV): visible universe's radius then 2.69e-05 m
+   mass-energy in the ball then: 8.98e+80 kg; today's matter in the visible universe 9.51e+53 kg
