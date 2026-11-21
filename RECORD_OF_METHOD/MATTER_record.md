@@ -1769,3 +1769,7 @@ Snyder's space keeps Lorentz symmetry exactly with discrete spatial spectra (so 
 ## 2026-11-21 — No pattern outruns straight light at r = ½ (scan C6)
 
 Group speed |∇_k E| over the whole zone (161³ grid in one octant, refined), masses 0 to 0.5: at r = 0.5 and 0.55 the maximum is 1 (massless, k → 0) and below 1 for every mass; at r = 0.6 and 0.7 it exceeds 1 (threshold r = 1/√3). Confirms the low-momentum statement at every momentum. No doc change.
+
+## 2026-11-21 — The neutrino term with three flavours (C7)
+
+H(E) = U diag(m_i²/2E + κE m_i) U† + V_e, κ = r/(2E_ℓ), through the Earth's centre at mean density, 2–18 TeV. The μτ entry is c_μτ/κ = Σ U_μi U*_τi m_i: 0.02123 (normal, lightest 0; two-flavour value 0.02054), 0.01332 (normal, lightest 0.03 eV), −0.02415 (inverted). Matching CO's extra ν_μ disappearance to that of IceCube's limit (|Re c| = 2.7 × 10⁻²⁸, taken two-sided) gives ℓ ≲ 1.004, 1.600, 0.882 × 10⁻³² m, equal to the leading-order values to 0.1% on that path: while the phase is small (0.035–0.31 here) the disappearance depends on the μτ entry (its sign relative to the standard term included), so the diagonal remainder (C4's 15%) does not enter; the match there is close to forced. Cold read's reruns: antineutrinos and cos θ = −0.5 within 0.5%; near the horizon 1–5% (the μe entry is no longer matter-suppressed); opposite sign 1.3% at 18 TeV; above about 100 TeV single-energy matching fails. Not done: IceCube's own fit. Docs updated (inverted ordering 8.8 × 10⁻³³ m; the transfer about 1% through the centre, a few percent near the horizon).

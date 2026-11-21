@@ -14,7 +14,7 @@ $$\Delta E=\frac{\Delta m^2c^4}{2E}+E\,\frac{r\,(m_3-m_2)\,c^2}{2E_\ell},\qquad 
 
 **The mark.** Extra ν_μ disappearance for up-going neutrinos, rising with energy and path length as E·L, with the standard mixing's shape. In the dimension-four language of Lorentz-violation searches it is a real, isotropic μτ coefficient |c_μτ| = r(m₃ − m₂) sin 2θ₂₃/(4E_ℓ), its texture tied to the mass matrix.
 
-**Where things stand.** IceCube's atmospheric ν_μ (reconstructed energies 0.4–18 TeV) show none: |Re c̊⁽⁴⁾_μτ| < 2.7 × 10⁻²⁸ at 90% (IceCube Collaboration, Nature Physics 14, 961 (2018)). Under the framework this bounds the lattice spacing at ℓ ≲ 1.0 × 10⁻³² m for m₃ − m₂ = 0.041 eV (normal ordering, lightest mass near zero; 8.5 × 10⁻³³ m for inverted ordering; 1.5 × 10⁻³¹ m if the masses are nearly equal). At that spacing the extra term equals the standard one near 1.5 TeV.
+**Where things stand.** IceCube's atmospheric ν_μ (reconstructed energies 0.4–18 TeV) show none: |Re c̊⁽⁴⁾_μτ| < 2.7 × 10⁻²⁸ at 90% (IceCube Collaboration, Nature Physics 14, 961 (2018)). Under the framework this bounds the lattice spacing at ℓ ≲ 1.0 × 10⁻³² m for m₃ − m₂ = 0.041 eV (normal ordering, lightest mass near zero; 8.8 × 10⁻³³ m for inverted ordering; 1.5 × 10⁻³¹ m if the masses are nearly equal). At that spacing the extra term equals the standard one near 1.5 TeV.
 
 **What a result would mean.**
 - Each factor 10 tighter on |Re c̊⁽⁴⁾_μτ| cuts the bound on ℓ by 10 (and raises the framework's photon ceiling, see [`photon_ceiling.md`](photon_ceiling.md), by √10).

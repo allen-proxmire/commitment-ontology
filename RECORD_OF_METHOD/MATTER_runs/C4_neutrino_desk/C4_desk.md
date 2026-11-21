@@ -24,13 +24,13 @@ The second term grows with energy, is the same in every direction, is CPT-even, 
 
 |c_μτ| = r(m₃ − m₂) sin 2θ₂₃ / (4E_ℓ), real (with H ⊃ −E·c̊ its sign is negative; the bound does not depend on it).
 
-The rotation also leaves a diagonal μμ − ττ part, cot 2θ₂₃ times the off-diagonal one (about 15% at θ₂₃ ≈ 49°), and the three-flavour μτ entry shifts c by about 2% (normal ordering) or 6% (inverted). Because the term lines up with the standard mixing, it acts as an energy-dependent addition to Δm²₃₂ with the same sign in both orderings, so IceCube's fit with diagonal entries set to zero carries over to about 15%.
+The rotation also leaves a diagonal μμ − ττ part, cot 2θ₂₃ times the off-diagonal one (about 15% at θ₂₃ ≈ 49°), and the three-flavour μτ entry shifts c by about 2% (normal ordering) or 6% (inverted). Because the term lines up with the standard mixing, it acts as an energy-dependent addition to Δm²₃₂ with the same sign in both orderings, so IceCube's fit with diagonal entries set to zero carries over to about 15%. *(Corrected by C7: with three flavours the transfer holds to about 1% through the Earth's centre at 2–18 TeV, a few percent near the horizon; the three-flavour shifts of c are +3.3% (normal, lightest 0), −1.0% (lightest 0.03 eV), −2.6% (inverted).)*
 
 **The bound.** IceCube's atmospheric ν_μ through the Earth (reconstructed muon energies 0.4–18 TeV, isotropic coefficients, two-flavour μτ, diagonal entries zero) give |Re c̊⁽⁴⁾_μτ| < 2.7 × 10⁻²⁸ at 90% (the step's term is real) (IceCube Collaboration, Nature Physics 14, 961 (2018)). With r = ½ and m₃ − m₂ = 0.041 eV (normal ordering, lightest mass near zero, as cosmology's bound on the sum favours):
 
 E_ℓ ≳ 1.9 × 10²⁵ eV,   ℓ ≲ 1.0 × 10⁻³² m,   δ ≳ 3 × 10⁻⁵.
 
-At ℓ = 2.4 × 10⁻³¹ m (the photon bound) c_μτ = 6.2 × 10⁻²⁷, 23 times the limit; at the Crab candidate 3.2 × 10⁻³² m, 8.3 × 10⁻²⁸, 3 times it. The bound scales with m₃ − m₂: ℓ ≲ 1.6 × 10⁻³² m at 0.027 eV (normal ordering, m₁ ≈ 0.03 eV), 8.5 × 10⁻³³ m at 0.05 eV (inverted ordering, lightest near zero); if the masses were near KATRIN's limit (quasi-degenerate, m₃ − m₂ ≈ 0.0028 eV), 1.5 × 10⁻³¹ m.
+At ℓ = 2.4 × 10⁻³¹ m (the photon bound) c_μτ = 6.2 × 10⁻²⁷, 23 times the limit; at the Crab candidate 3.2 × 10⁻³² m, 8.3 × 10⁻²⁸, 3 times it. The bound scales with m₃ − m₂: ℓ ≲ 1.6 × 10⁻³² m at 0.027 eV (normal ordering, m₁ ≈ 0.03 eV), 8.8 × 10⁻³³ m (inverted ordering, lightest near zero; C7); if the masses were near KATRIN's limit (quasi-degenerate, m₃ − m₂ ≈ 0.0028 eV), 1.5 × 10⁻³¹ m.
 
 **Which reading it applies to.** The same switch as the photon test. If the speed counter-terms absorb each species' mass-dependent excess (one per mass state), the term is cancelled and neutrinos say nothing. If the excess is kept, the bound holds, and at it the photon ceiling is E_th = C√(mₑc²·E_ℓ) ≳ 9–16 PeV (C = 2.9–5.1). Keeping the excess and passing the neutrino data needs the hop below about 10⁻³² m; absorbing it needs a counter-term per neutrino mass state, the gap between the two states' speeds cancelled to about 5 × 10⁻²⁸, far below the 10⁻²⁰ the charged species need.
 
