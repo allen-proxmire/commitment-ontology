@@ -1,0 +1,14 @@
+1. Frames along the tests' paths (speeds against the frame of the cosmic background light):
+   the Sun: 370 km/s, v/c = 1.2e-03
+   the Local Group: 620 km/s, v/c = 2.1e-03
+   the Galaxy's turning at the Sun: 230 km/s, v/c = 7.7e-04
+   the Earth round the Sun: 30 km/s, v/c = 1.0e-04
+   the Earth's spin at the equator: 0.46 km/s, v/c = 1.5e-06
+   whichever of these frames the places keep, an energy read in it differs by at most v/c = 0.21%.
+   photon ceiling: bound on l goes as E^-2, so it moves by at most 0.4%, against the 11% error on the photons' energies and the factor 1.75 across the sky.
+   neutrino term: grows with E, so a moving frame adds a variation with direction and time of day of 2v/c = 0.25% of the term (Sun's speed; phase goes as E L, both shifted); the term itself is unseen, so the bound is unchanged.
+2. A ball moving at V through empty space, places at rest far away. Counting places fixes the flow's divergence and its part normal to the ball;
+   the flow with no curl is then the one with least motion (Kelvin's theorem): u = -grad[ V R^3 cos(th) / (2 r^2) ].
+   integral of u^2 outside the ball: 2.0936 V^2 R^3 (exact 2 pi/3 = 2.0944); a swirl added to it, tangent at the ball, only adds (cross term zero).
+   places slide past the ball's side at 1.5 V (ball's side moves at V, places beside it at -V/2): a slip surface, where places must change neighbours.
+   the dragged flow falls as (R/r)^3: 12% of V one radius above the surface, 0.1% at ten radii.
