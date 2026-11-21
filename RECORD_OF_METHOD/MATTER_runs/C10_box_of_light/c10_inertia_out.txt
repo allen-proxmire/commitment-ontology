@@ -1,0 +1,4 @@
+lam=0.02: S = 0.006484 = 0.9968 E0; added inertia 2S = 1.9937 E0
+lam=0.05: S = 0.006484 = 0.9968 E0; added inertia 2S = 1.9937 E0
+lam=0.1: S = 0.006484 = 0.9968 E0; added inertia 2S = 1.9937 E0
+bouncing picture: round trip w/(1-lam) + w/(1+lam), so E = E0 (1 - lam^2), S = E0, added inertia 2 E0

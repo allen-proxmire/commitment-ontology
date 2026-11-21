@@ -1791,3 +1791,5 @@ Near a zone corner with n components at π, E² = (2rn)² + (1 − 2r²n)q²_fli
 ## 2026-11-21 — A box of trapped massless pattern ticks and weighs as mass (C10)
 
 1D step, m = 0 inside a box of proper width 240, wall mass 1 outside; uniform field N = 1 − Φ, ψ² = 1 + Φ, coordinate width 240/ψ². Lowest level 0.006504 (hard-wall continuum π/2w = 0.006545). E/N against the no-field value: 0.99924, 0.99798, 0.99566 at Φ = 0.2, 0.5, 1.0 (N = 0.25 in the last); a rest mass alongside: 1.00000. Raised 50 places at g = 10⁻³: −5.19% against −5.00% (the width rounded to whole places accounts for the gap). Bag estimate: 3 × 2.04 ħc/R = 1440 MeV at 0.84 fm. Reading entered in how_patterns_combine.md: a nucleon as confined commitment. Walls held by hand; the scaling follows from P7f in the continuum.
+
+**C10, inertia.** With H = (K − p)²/(2M_w) + H_box the box adds inertia 2S, where E(λ) = E₀ − λ²S under H_box − λp: S = 0.9968 E₀, so 1.99 E₀ (bouncing picture: round trip w/(1 − λ) + w/(1 + λ), E = E₀(1 − λ²)). Rigid walls give the weight E₀ but twice the inertia, the known box-of-light problem; real walls' stress restores E₀. Noted in how_patterns_combine.md.
