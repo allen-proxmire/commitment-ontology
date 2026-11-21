@@ -1,0 +1,8 @@
+box of proper width 240, no field: lowest levels [0.006504 0.019512 0.032517] (continuum, hard walls: (n+1/2) pi/w = [0.006545 0.019635 0.032725])
+field           N     psi^2   coord width   E_1/N        ratio to no-field   rest mass m=0.01: E/(mN)
+Phi=0.0       1.00  1.0      240          0.006504     1.00000             1.00000
+Phi=0.2       0.80  1.2      200          0.006499     0.99924             1.00000
+Phi=0.5       0.50  1.5      160          0.006491     0.99798             1.00000
+Phi=1.0       0.25  2.0      120          0.006476     0.99566             1.00000
+weak field, 50 places higher (g = 0.001): dE/E0 = -0.05194; a rest mass gives -g*50 = -0.05000
+box energy 0.00650 against the pattern's own mass 0; a free massive pattern with the same tick rate has m = 0.00650
