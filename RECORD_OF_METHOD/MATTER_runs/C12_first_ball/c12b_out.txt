@@ -1,0 +1,6 @@
+largest hop: T = 7.31e+15 GeV; growth per tick in length H*tau = 0.004 (places: 0.011); Hubble length 263.0 hops; ball radius 4.70e+29 hops; separate Hubble patches in the ball 5.7e+81
+   flatness: today |Omega_k| < 0.002 needs |Omega - 1| < 6.4e-57 then
+   independent noise per place: ripple on a CMB-patch scale ~ 1/sqrt(N) = 2.7e-42 (observed 1e-5)
+smallest hop: T = 1.28e+18 GeV; growth per tick in length H*tau = 0.664 (places: 1.991); Hubble length 1.5 hops; ball radius 4.70e+29 hops; separate Hubble patches in the ball 3.0e+88
+   flatness: today |Omega_k| < 0.002 needs |Omega - 1| < 2.1e-61 then
+   independent noise per place: ripple on a CMB-patch scale ~ 1/sqrt(N) = 2.7e-42 (observed 1e-5)
