@@ -1777,3 +1777,7 @@ H(E) = U diag(m_i²/2E + κE m_i) U† + V_e, κ = r/(2E_ℓ), through the Earth
 ## 2026-11-21 — Which extra species can rest (C8)
 
 Near a zone corner with n components at π, E² = (2rn)² + (1 − 2r²n)q²_flipped + (1 + 2r²n)q²_unflipped + …: a minimum only if n < 1/(2r²). At r = ½: the three n = 1 corners (energy 2r = 1) are minima; the n = 2 corners are saddles (marginal at second order, quartic −(3/16)(q₁⁴ + q₂⁴) + q₁²q₂²/8); the n = 3 corner is a maximum. For r > 1/√2 none is a minimum. Grid search over the zone agrees at nine values of r. The corners remain stationary points with zero group speed; the "not particles" requirement and the 0.6 g fall concern the n = 1 species. MATTER and the appendix reworded.
+
+## 2026-11-21 — The window for ℓ and what can close it (desk)
+
+ℓ_min = ℓ_P√(4π) = 5.73 × 10⁻³⁵ m from δ ≤ 1. Neutrino term's floor |c_μτ| = 1.54 × 10⁻³⁰ (normal, lightest 0), 1.75 × 10⁻³⁰ (inverted), 9.7 × 10⁻³¹ (lightest 0.03 eV): 154–279 below IceCube's limit for lightest mass up to 0.03 eV (about 1.4 × 10⁻³¹ near KATRIN's limit); out of reach through the Earth (needs about 1 PeV). Cold read applied. The astrophysical flavour-mix searches are blind to it (diagonal in the mass basis). Photon ceiling at ℓ_min with the excess kept: 1.22, 1.65, 2.14 × 10¹⁷ eV (axis, face, body); the axis figure in the notes corrected from 1.1 (the absorbed reading's). Prediction map, neutrino note, photon note, ONE_PAGE updated.

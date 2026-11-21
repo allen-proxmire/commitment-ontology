@@ -17,6 +17,8 @@ $$\Delta E=\frac{\Delta m^2c^4}{2E}+E\,\frac{r\,(m_3-m_2)\,c^2}{2E_\ell},\qquad 
 **Where things stand.** IceCube's atmospheric ν_μ (reconstructed energies 0.4–18 TeV) show none: |Re c̊⁽⁴⁾_μτ| < 2.7 × 10⁻²⁸ at 90% (IceCube Collaboration, Nature Physics 14, 961 (2018)). Under the framework this bounds the lattice spacing at ℓ ≲ 1.0 × 10⁻³² m for m₃ − m₂ = 0.041 eV (normal ordering, lightest mass near zero; 8.8 × 10⁻³³ m for inverted ordering; 1.5 × 10⁻³¹ m if the masses are nearly equal). At that spacing the extra term equals the standard one near 1.5 TeV.
 
 **What a result would mean.**
+- The term has a floor: the framework's lattice spacing cannot be below 5.7 × 10⁻³⁵ m, so |c_μτ| ≥ about 1.5 × 10⁻³⁰ (1.0 × 10⁻³⁰ if the lightest mass is 0.03 eV), a factor 150–280 below the present limit, given the cosmological limit on the masses (lower still if the masses are nearly equal). A null result at that level would then exclude the term outright; it is not within reach of atmospheric neutrinos through the Earth.
+- Searches using the flavour mix of astrophysical neutrinos do not test it: the term is diagonal in the mass basis, so it changes oscillation phases but not the averaged flavour mix.
 - Each factor 10 tighter on |Re c̊⁽⁴⁾_μτ| cuts the bound on ℓ by 10 (and raises the framework's photon ceiling, see [`photon_ceiling.md`](photon_ceiling.md), by √10).
 - An isotropic, energy-growing ν_μ disappearance aligned with the standard mixing, with no sidereal variation, would be the framework's mark.
 - The framework is silent on how neutrinos are made and detected (it has no weak interaction); the check assumes neutrinos are patterns on its lattice with ordinary (Dirac) masses.
