@@ -1,0 +1,15 @@
+share turned back, head-on, k = 0.2, by straight-link strength g and diagonal-link strength g2:
+  g = 0.7, g2 = 0.5: turned back 0.0027
+  g = 0.7, g2 = 1.0: turned back 0.0021
+  g = 0.7, g2 = 1.41: turned back 0.0081
+  g = 1.0, g2 = 0.5: turned back 0.0026
+  g = 1.0, g2 = 1.0: turned back 0.0038
+  g = 1.0, g2 = 1.41: turned back 0.0124
+  g = 1.41, g2 = 0.5: turned back 0.0088
+  g = 1.41, g2 = 1.0: turned back 0.0134
+  g = 1.41, g2 = 1.41: turned back 0.0267
+best: (0.7, 1.0)
+  k = 0.1: crossing 0.9984, turned back 0.0016, at the seam 0.0000
+  k = 0.2: crossing 0.9978, turned back 0.0021, at the seam 0.0000
+  k = 0.4: crossing 0.9955, turned back 0.0045, at the seam 0.0000
+  k = 0.8: crossing 0.9745, turned back 0.0191, at the seam 0.0065

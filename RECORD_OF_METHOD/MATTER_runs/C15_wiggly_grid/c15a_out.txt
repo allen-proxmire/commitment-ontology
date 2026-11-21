@@ -1,0 +1,10 @@
+loss of the forward packet after T = 150 hops' time (the even grid's own loss taken off):
+  eps = 0.10, k = 0.295: loss 0.0196  (even grid keeps 0.9991); loss/(eps^2 k^3 T) = 0.51
+  eps = 0.10, k = 0.442: loss 0.0670  (even grid keeps 0.9991); loss/(eps^2 k^3 T) = 0.52
+  eps = 0.10, k = 0.589: loss 0.1677  (even grid keeps 0.9991); loss/(eps^2 k^3 T) = 0.55
+  eps = 0.10, k = 0.908: loss 0.4641  (even grid keeps 0.9991); loss/(eps^2 k^3 T) = 0.41
+power of k (first three): 3.09  [pass]
+  k = 0.589, eps = 0.05: loss 0.0428
+  k = 0.589, eps = 0.1: loss 0.1677
+  k = 0.589, eps = 0.2: loss 0.7234
+power of eps: 2.04  [pass]
