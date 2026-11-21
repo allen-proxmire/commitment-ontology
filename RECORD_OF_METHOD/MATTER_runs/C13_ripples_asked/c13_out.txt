@@ -1,0 +1,9 @@
+rms unevenness of the stretch per e-fold of size: sqrt(A_s) = 4.58e-05 at k = 0.05/Mpc
+  largest seen (k = 2e-4/Mpc, the whole sky): size today 31416 Mpc = 1.0e+30 hops then, 1.1e+90 places; stretch uneven by 5.05e-05; count of places uneven by 3*zeta = 1.51e-04; independent noise would give 9.5e-46
+  CMB pivot (0.05/Mpc): size today 126 Mpc = 4.1e+27 hops then, 7.1e+82 places; stretch uneven by 4.58e-05; count of places uneven by 3*zeta = 1.37e-04; independent noise would give 3.8e-42
+  smallest seen (k = 3/Mpc, Lyman-alpha forest): size today 2 Mpc = 6.9e+25 hops then, 3.3e+77 places; stretch uneven by 4.27e-05; count of places uneven by 3*zeta = 1.28e-04; independent noise would give 1.7e-39
+change of the unevenness per factor 10 in size: 4.1% larger on the larger size
+shear (gravitational-wave) part: below sqrt(0.036 A_s) = 8.7e-06
+bell-curve shape: skewness below about f_NL*zeta = 5e-04 of the unevenness itself (|f_NL| < 10)
+matter-to-light ratio the same everywhere: uneven by less than about 9e-06 beyond the ripple itself (isocurvature share < 4%)
+size at which independent noise equals the need: N = 1/(3 zeta)^2 = 5.3e+07 places, 375 hops across, 0.35 m today
