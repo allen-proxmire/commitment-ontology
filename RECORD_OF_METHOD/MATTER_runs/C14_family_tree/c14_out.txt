@@ -1,0 +1,12 @@
+A independent families (spread 30%): unevenness 3.00e-01 at 1 family, 4.14e-04 at 262144 families; slope -0.515  [pass]
+B random births: unevenness of one ancestor's descendants, ancestors numbering 2^3..2^12: 1.01 0.87 0.95 1.14 1.15 1.07 0.97 0.95 0.98 0.97  [pass]
+C uneven splits (s = 0.01): variance added per halving, in units of s^2, from the smallest regions up: 1.00 1.00 1.00 1.00 1.01 1.04 0.87 1.00  [FAIL]
+   unevenness of the count: 0.0476 at 1 place, 0.0355 at 2^10, 0.0258 at 2^16 (no fall-off with size; it shrinks only as the levels above run out)
+D whole units sent at random: unevenness 7.82e-03 at 1 place, 5.69e-05 at 16384 places; slope -0.505  [pass]
+needed split unevenness: s = 3 sqrt(A_s) sqrt(ln2/3) = 6.61e-05 (one part in 15,133)
+needed drift: s larger by 0.41% per halving toward the larger sizes (4.1% per tenfold in length)
+halvings from one place to 1e+88 places: 292 (68 e-folds in length); s at the first split 7.1e-05 if the drift holds throughout
+halvings from one place to 1e+89 places: 296 (68 e-folds in length); s at the first split 7.2e-05 if the drift holds throughout
+random births (B) against the need, per halving: a random share has rms 2*sqrt(1/12) = 0.58 against s: 8737 times too uneven
+levels of the tree at the sizes seen (1e77 places up to the whole ball, 1e88-4e89): 37 to 42
+with 7e80 first places at once, a tree lives only inside one family (2e7-2e8 places, under 585 hops); the smallest size seen is 1e77 places

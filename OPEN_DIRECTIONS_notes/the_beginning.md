@@ -52,3 +52,21 @@ Working picture: the ripples are part of the beginning itself; the one event was
 | matter-to-light ratio | the same everywhere to about 10⁻⁵ beyond the ripple itself |
 
 So the first event's unevenness does not average away with size: any region, of 10⁷⁷ places or 10⁹⁰, is off in its count by about one part in seven thousand. That is a correlation across the whole ball, which a rule for the beginning has to supply. The epoch as now ruled decelerates (H falls faster than 1/a: by 10⁴ over about 6 e-folds, H ∝ a^−1.5), so it cannot stretch small jitter to these sizes as inflation does. Grade: silence, with the targets stated.
+
+## Can the growth make the ripples? (21 Nov 2026, desk; run C14)
+
+Four growth rules, one measure: how uneven the count of places in a region is, against the region's size.
+
+| growth rule | unevenness against size | against the need |
+|---|---|---|
+| every first place grows its own family, family sizes random | falls as size^−½ | excluded: a family (2 × 10⁷–2 × 10⁸ places) is under 600 hops across; the smallest size seen holds 10⁷⁷ places |
+| random births: any place may bear the next, the child beside it | the same at every size, of order one | excluded: about 10⁴ times too uneven |
+| a conserved amount in whole units, each unit sent one way or the other at random | falls as size^−½ | excluded |
+| a conserved amount divided in two again and again, each division uneven by a fixed fraction s | the same at every size: each halving adds s² to the variance | meets the size and tilt with s = 3√A_s · √(ln 2 / 3) = 6.6 × 10⁻⁵ (one part in 15,000), larger by 0.4% per halving toward the larger sizes |
+
+*In the broad start* (about 7 × 10⁸⁰ first places at once) no growth rule reaches the sizes seen: a tree's correlations live inside one family. The nearness of 5 × 10⁷ places to the family's size is then a coincidence, and the ripples stay with the first event (the working picture).
+
+*In the seed start* (on file; space and gravity record, 13 Nov) the visible ball is one tree of 292–296 halvings (68 e-folds in length) and the sizes seen are its top 37–42 levels. There the ripples reduce to one number of the birth share: how unevenly a place's possibility divides when it bears a new place, with the tilt as that number's slow drift. This is a cascade with logarithmic correlations and a bell-curve shape to first order in s (a sum of many small independent terms), which the 13 Nov read asked for and did not have. It asks two more things of the births: every place divides in step, to better than s (births at random times bring back the second row's order-one unevenness), and the unevenly divided amount must end as an uneven count of places. It says nothing of the shear part, and it leaves the seed start's two costs standing (no source of matter; too many gravitational waves unless births are slow).
+
+Grade: the first three rules excluded as the ripples' source; the uneven division a shape, for the seed start only. The tree is idealised: regions are taken as one ancestor's descendants, so the equal unevenness holds in tree distance, not yet in space (where a tree is neither the same from every place nor the same in every direction), and the match to A_s carries a factor of order one.
+
