@@ -1,0 +1,9 @@
+even grid: variation of the lengths 0.000; curvature rms 0.00e+00, largest 0.00e+00 (per hop^2)
+flat, redrawn by a smooth map (a = |1 + eps z|): variation of the lengths 0.029; curvature rms 4.57e-12, largest 5.85e-12 (per hop^2)
+flat, redrawn as a fan (a_x = 1, a_y = 1 + eps x/L): variation of the lengths 0.029; curvature rms 1.47e-16, largest 2.22e-16 (per hop^2)
+curved, a bowl (a = 1 + eps (x^2 + y^2)/L^2): variation of the lengths 0.011; curvature rms 9.29e-05, largest 9.77e-05 (per hop^2)
+curved, a ripple (a = 1 + eps sin(2 pi x/16) sin(2 pi y/16)): variation of the lengths 0.050; curvature rms 1.59e-02, largest 4.16e-02 (per hop^2)
+independent from place to place (eps = 0.1): variation of the lengths 0.100; curvature rms 5.40e-01, largest 3.69e+00 (per hop^2)
+uneven hop to hop but a relabelling (a_x depends on x only, a_y on y only; eps = 0.1): variation of the lengths 0.095; curvature rms 0.00e+00, largest 0.00e+00 (per hop^2)
+count: lengths of the grid's own links alone, with no angles given, are d numbers per place against d coordinates to place it: for small variations, locally, such lengths can be drawn flat.
+the angles carry the rest; matter's step sets them at right angles, so its hop strengths are a full (diagonal) geometry and their curvature is fixed.

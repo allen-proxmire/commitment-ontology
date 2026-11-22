@@ -1,0 +1,2 @@
+k = 0.295: forward share kept on the even grid 0.9991, on the flat uneven one 0.9854; loss 0.0137
+k = 0.589: forward share kept on the even grid 0.9991, on the flat uneven one 0.9538; loss 0.0454
