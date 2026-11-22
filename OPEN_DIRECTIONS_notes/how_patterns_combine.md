@@ -2,6 +2,8 @@
 
 **The gap.** CO's rules are written for one pattern walking and one commitment at a time. Almost every wall past 1930 needs a rule for several patterns sharing routes, with their number changing: the sea and pair creation; quantised light; the exchange sign (Pauli exclusion); gluons and the nucleon's source; how fields draw inside matter (pressure); loops. It is one gap seen from six sides.
 
+**The nucleus so far (reading; sections at the end).** Mass is renewal rate, and nearly all of a nucleon's is transit, confined. Four steps on the 1D step: (1) a pattern with no mass held between walls ticks, redshifts and weighs as a mass does (run C10); (2) held walls get the inertia wrong, 1.99 E₀ for a weight of E₀, the old box-of-light problem: what confines has to be dynamical; (3) with the which-way field doing the confining (the Schwinger model), charges with no bare mass leave one neutral pattern of mass 0.68g (Schwinger's 0.564g; 21% above), its levels those of a free pattern at light's speed (run C16); (4) a whole charge cannot be pulled out alone: with heavy charges the field's string holds, then breaks into two neutral things, while a held half charge, which whole charges cannot match, keeps its string so long as the charges have mass (runs C16d, C16e). All in one space dimension, with a U(1) field standing in for colour; three dimensions and the three-state colour field are not touched.
+
 **Three parts of it.**
 1. *Binding (kinships).* How patterns form a composite that acts as one: atoms, nuclei, a crystal. The picture: a bound composite is a weave of kinships, and a stray quantum that matches the weave's channel rings the whole weave at once, like a bell, or like jumping on a made bed. Size sets how many stray quanta reach a weave; stiffness keeps each chain short. This touches measurement (the stopping number N) as much as binding.
 2. *Identity (the exchange sign).* Two patterns of the same kind: why two electrons will not share a state. The smallest test is two electrons. Helium's ground state (−79.0 eV, reached with the two-pattern ruling) is symmetric in space and does not test the sign; helium's excited states do: the triplet (orthohelium) and singlet (parahelium) differ by the exchange energy, and the triplet exists only because the sign is negative. Reproducing that splitting would test whatever CO supplies for the sign.
@@ -247,4 +249,19 @@ Two held charges, +1 and −1, set d links apart in the middle of the 10-place c
 With heavy charges the string holds, its energy within about 4% of (g²/2)d out to four links, then breaks between five and six: the energy stops at 2.44, the field at the middle goes to zero, and a charge of 0.96 from the step has gathered at each end, opposite to the held one. The line has become two neutral things. The break comes where the string's energy passes the cost of the pair, 2.44, near d = 5. With no bare mass there is no stretch to speak of: the field is cut down from the first link and the energy levels off near 0.9–1.0 (the chain's ends are not far enough away to fix it; the continuum's (g√π/2)(1 − e^{−Md}) levels at 0.89 and gives 0.38 at one link, against 0.39 here), with 0.87 of a charge gathered at each end by d = 7.
 
 Reading. A whole charge is not left alone on the step: pulling one out makes the field pay for a partner, and what is left is neutral. One chain, one coupling, whole held charges only: a held half charge cannot be matched by whole ones, and its string is expected to hold (not run here).
+
+## A half charge keeps its string (run C16e)
+
+The same chain with held charges of ±½. The step has only whole charges to answer with.
+
+| d | heavy charges (m = 0.8): energy, field at the middle | no bare mass: energy, field at the middle |
+|---|---|---|
+| 1 | 0.121, 0.49 | 0.101, 0.40 |
+| 3 | 0.362, 0.48 | 0.257, 0.31 |
+| 5 | 0.603, 0.48 | 0.381, 0.23 |
+| 7 | 0.844, 0.48 | 0.496, 0.17 |
+
+With heavy charges the string holds at every length tried: 0.1205 per link against the bare string's 0.125, the field staying at 0.48, nothing gathered at the ends. A whole charge at each end would leave a string of −½, the same energy, so no pair can end it. With no bare mass the field is cut down but a pull remains, still 0.06 per link at seven links; in the continuum, charges truly without mass screen any held charge fully, and a small mass leaves a pull in proportion to it, so this is the lifting term's induced mass showing again (its size is not fixed by a chain this short).
+
+Reading. On the step a held charge that the moving charges cannot match stays tied, so long as they have mass. This is the U(1) likeness of a colour charge that the free charges cannot cancel; it says nothing about quarks' fractional electric charge. One dimension, one chain, one coupling.
 
