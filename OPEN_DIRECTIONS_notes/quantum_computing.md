@@ -10,4 +10,10 @@ A reading; nothing here is derived or run.
 
 **No wall in size.** N counts quanta handed on, not mass or the number of parts. A body left alone is not resolved in position however heavy, as in quantum mechanics; what limits it is being left alone (heat given off, collisions). This rests on commitments inside a body recording nothing of where it is (candidate): a cluster of 7,000 atoms holds far more than N quanta, so the interference of sodium clusters above 170 kDa (Pedalino et al., Nature 649, 866 (2026)) makes that clause needed.
 
-**Open.** Whether a driven step ever counts toward a chain. The echo test sets aside steps whose quanta are supplied from outside. A machine's one-qubit gates are driven; gates that pass a quantum between qubits by the machine's own interaction may not be. If no part of a computation counts, CO puts no ceiling on these machines. If some part does, there is a ceiling at N quanta, and N is only bounded below (N ≳ 50; far higher if driven steps count, since clusters of about 10⁴ spins have been reversed under a driven Hamiltonian), so machines would raise the bound before they met it.
+**Which steps join a chain** (chosen, candidate). A chain is the quanta reached from the opening contact by the system's own hand-ons; a step whose quantum a drive supplies extends no chain. So:
+- A one-qubit gate that adds or removes a quantum extends no chain: its quantum is exchanged, reversibly, with the drive.
+- A gate that passes a quantum from one qubit to its neighbour by the machine's own interaction extends a chain where the circuit as a whole scrambles, so that the quantum does not come home, as flip-flops do in a solid.
+- A register built by driven gates alone, or by gates that pass no quanta, is not a chain, so CO puts no ceiling on it. Circuits that mix driven and quantum-passing gates: open.
+- One experiment does meet a ceiling: scramble by quantum-passing gates alone, reverse, and measure how far the disturbance had spread when the echo is lost. That breadth should stop at the same N as in the solids ([the test](../TESTS_FOR_EXPERIMENTERS/stopping_number_echo.md)).
+
+N is only bounded below (N ≳ 50), so wider reversals raise the bound; a ceiling that differs from system to system would count against CO.
