@@ -1,0 +1,11 @@
+even grid: largest of the six, rms 0.0e+00
+flat: a fan: largest of the six, rms 1.2e-16
+flat: a ball's own lines, far from the centre: largest of the six, rms 5.2e-11
+flat: turned inside out about a far point: largest of the six, rms 7.1e-09
+flat: each line relabelled alone, uneven hop to hop by 0.1: largest of the six, rms 0.0e+00
+flat: each line relabelled alone, strictly alternating by 0.1: largest of the six, rms 0.0e+00
+curved: a bowl: largest of the six, rms 3.8e-04
+curved: a ripple 16 hops long: largest of the six, rms 1.1e-02
+curved: independent from place to place, 0.1, one number per place: largest of the six, rms 4.5e-01
+curved: independent, 0.1, a number per place per line: largest of the six, rms 3.5e-01
+curved: a chequer of 0.1 (alternating in every direction): largest of the six, rms 8.0e-01

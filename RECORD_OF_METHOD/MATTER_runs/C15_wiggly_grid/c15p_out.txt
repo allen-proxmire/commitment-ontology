@@ -1,0 +1,9 @@
+k = 0.147, lifting term from the lengths: loss rate 5.382e-07; forward share 0.99876 0.99862 0.99871 0.99864
+k = 0.147, lifting term unchanged: loss rate 4.678e-06; forward share 0.99876 0.99805 0.99813 0.99796
+k = 0.295, lifting term from the lengths: loss rate 1.273e-06; forward share 0.99876 0.99853 0.99864 0.99852
+k = 0.295, lifting term unchanged: loss rate 5.947e-06; forward share 0.99876 0.99783 0.99795 0.99773
+k = 0.589, lifting term from the lengths: loss rate 2.159e-05; forward share 0.99876 0.99557 0.99576 0.99510
+k = 0.589, lifting term unchanged: loss rate 1.101e-05; forward share 0.99876 0.99687 0.99705 0.99687
+k = 0.15: unchanged over from-the-lengths 8.7
+k = 0.3: unchanged over from-the-lengths 4.7
+k = 0.6: unchanged over from-the-lengths 0.5
