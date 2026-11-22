@@ -1,0 +1,13 @@
+# Quantum computing, read in CO's terms
+
+A reading; nothing here is derived or run.
+
+**What a machine does.** Possibility in transit takes every route, and nothing is a fact until a commitment. While a quantum computer runs, nothing reads the problem: the pattern is simply there on all its routes at once. The algorithm arranges the routes so that the answer to one question about the whole pattern gathers in one place. The reading is the single commitment at the end.
+
+**Why symmetry is what gets read.** A commitment is a look at what the routes agree on: where they disagree they cancel, where they agree they add, and the commitment is a draw from what is left standing. Details of the pattern differ from route to route, so they wash out. A symmetry is something every route shares, so it survives. One look answers one question about the whole pattern (is it the same all the way round; after how much of a turn does it repeat), not the pattern itself, and some questions take several looks. This is the period kind of problem; a plain search has no such symmetry, and gains less.
+
+**The engineering problem.** Measurement completes once a contact's chain reaches N quanta (C8). So the whole problem is keeping every chain shorter than N until the answer is wanted, chains carried on into the surroundings included. The final readout is the one chain deliberately let run past N; the check readings of error correction are others, made on purpose mid-run.
+
+**No wall in size.** N counts quanta handed on, not mass or the number of parts. A body left alone is not resolved in position however heavy, as in quantum mechanics; what limits it is being left alone (heat given off, collisions). This rests on commitments inside a body recording nothing of where it is (candidate): a cluster of 7,000 atoms holds far more than N quanta, so the interference of sodium clusters above 170 kDa (Pedalino et al., Nature 649, 866 (2026)) makes that clause needed.
+
+**Open.** Whether a driven step ever counts toward a chain. The echo test sets aside steps whose quanta are supplied from outside. A machine's one-qubit gates are driven; gates that pass a quantum between qubits by the machine's own interaction may not be. If no part of a computation counts, CO puts no ceiling on these machines. If some part does, there is a ceiling at N quanta, and N is only bounded below (N ≳ 50; far higher if driven steps count, since clusters of about 10⁴ spins have been reversed under a driven Hamiltonian), so machines would raise the bound before they met it.
