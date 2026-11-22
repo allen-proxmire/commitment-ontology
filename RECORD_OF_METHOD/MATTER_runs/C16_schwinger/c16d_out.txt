@@ -1,0 +1,16 @@
+bare mass m = 0.0:
+   d = 1: energy 0.389 (bare string 0.50); field at the string's middle +0.73; step's charge gathered at the + end -0.04
+   d = 2: energy 0.658 (bare string 1.00); field at the string's middle +0.55; step's charge gathered at the + end -0.39
+   d = 3: energy 0.805 (bare string 1.50); field at the string's middle +0.33; step's charge gathered at the + end -0.58, at the - end +0.58
+   d = 4: energy 0.875 (bare string 2.00); field at the string's middle +0.21; step's charge gathered at the + end -0.68, at the - end +0.69
+   d = 5: energy 0.908 (bare string 2.50); field at the string's middle +0.12; step's charge gathered at the + end -0.73, at the - end +0.73
+   d = 6: energy 0.943 (bare string 3.00); field at the string's middle +0.09; step's charge gathered at the + end -0.86, at the - end +0.75
+   d = 7: energy 0.970 (bare string 3.50); field at the string's middle +0.06; step's charge gathered at the + end -0.87, at the - end +0.87
+bare mass m = 0.8:
+   d = 1: energy 0.484 (bare string 0.50); field at the string's middle +0.97; step's charge gathered at the + end -0.00
+   d = 2: energy 0.964 (bare string 1.00); field at the string's middle +0.96; step's charge gathered at the + end -0.04
+   d = 3: energy 1.442 (bare string 1.50); field at the string's middle +0.95; step's charge gathered at the + end -0.05, at the - end +0.05
+   d = 4: energy 1.919 (bare string 2.00); field at the string's middle +0.94; step's charge gathered at the + end -0.06, at the - end +0.06
+   d = 5: energy 2.374 (bare string 2.50); field at the string's middle +0.61; step's charge gathered at the + end -0.36, at the - end +0.36
+   d = 6: energy 2.430 (bare string 3.00); field at the string's middle +0.01; step's charge gathered at the + end -0.96, at the - end +0.93
+   d = 7: energy 2.441 (bare string 3.50); field at the string's middle +0.00; step's charge gathered at the + end -0.96, at the - end +0.96

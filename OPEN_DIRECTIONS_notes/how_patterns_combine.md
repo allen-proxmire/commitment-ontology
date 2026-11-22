@@ -229,3 +229,22 @@ The nucleon reading above needs what confines to be dynamical. The simplest case
 - The 21%: the lifting term breaks the handedness symmetry, so with the field on, a charge with no bare mass has an induced one (the mass's additive shift, tuning 2). For this model with Wilson's term the shift is known to go as g² (Angelides, Funcke, Jansen and Kühn 2023, at r = 1); carried to r = ½ it would be about 0.1g², which accounts for part or all of the 21%. These chains are too short to find the massless point themselves (the standard way, full screening of a background field, needs chains several times longer), so the split between that shift and the hop's own size is open.
 
 Grade: reading. The step with the which-way field confines and gives mass as the identification with lattice QED says it should; Schwinger's number is met to 21% with no bare mass, the excess of the size the lifting term's induced mass would give.
+
+## The string breaks (run C16d)
+
+Two held charges, +1 and −1, set d links apart in the middle of the 10-place chain (g = 1). With nothing else there the field between them is a string of energy (g²/2)d. The step's own charges answer:
+
+| d | heavy charges (m = 0.8): energy, field at the middle | no bare mass: energy, field at the middle |
+|---|---|---|
+| 1 | 0.48, 0.97 | 0.39, 0.73 |
+| 2 | 0.96, 0.96 | 0.66, 0.55 |
+| 3 | 1.44, 0.95 | 0.81, 0.33 |
+| 4 | 1.92, 0.94 | 0.88, 0.21 |
+| 5 | 2.37, 0.61 | 0.91, 0.12 |
+| 6 | 2.43, 0.01 | 0.94, 0.09 |
+| 7 | 2.44, 0.00 | 0.97, 0.06 |
+
+With heavy charges the string holds, its energy within about 4% of (g²/2)d out to four links, then breaks between five and six: the energy stops at 2.44, the field at the middle goes to zero, and a charge of 0.96 from the step has gathered at each end, opposite to the held one. The line has become two neutral things. The break comes where the string's energy passes the cost of the pair, 2.44, near d = 5. With no bare mass there is no stretch to speak of: the field is cut down from the first link and the energy levels off near 0.9–1.0 (the chain's ends are not far enough away to fix it; the continuum's (g√π/2)(1 − e^{−Md}) levels at 0.89 and gives 0.38 at one link, against 0.39 here), with 0.87 of a charge gathered at each end by d = 7.
+
+Reading. A whole charge is not left alone on the step: pulling one out makes the field pay for a partner, and what is left is neutral. One chain, one coupling, whole held charges only: a held half charge cannot be matched by whole ones, and its string is expected to hold (not run here).
+
