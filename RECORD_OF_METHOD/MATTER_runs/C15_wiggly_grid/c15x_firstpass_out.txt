@@ -1,0 +1,4 @@
+even grid: share kept 0.72515 0.72515 0.72515; fall 7.35e-13
+sizes from the links: share kept 0.72515 0.71975 0.71347; fall 1.17e-02
+sizes independent per place: share kept 0.72515 0.71994 0.72530; fall -1.54e-04
+independent over from-the-links: -0.0
