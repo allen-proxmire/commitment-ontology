@@ -1,0 +1,4 @@
+lengths only: bundle of rays turns -4.467 degrees; pattern -4.903 (-4.717 with the even grid's own -0.186 taken off); pattern over bundle 1.098 (1.056)
+clock only: bundle of rays turns -5.045 degrees; pattern -5.517 (-5.331 with the even grid's own -0.186 taken off); pattern over bundle 1.094 (1.057)
+both: bundle of rays turns -10.199 degrees; pattern -10.867 (-10.681 with the even grid's own -0.186 taken off); pattern over bundle 1.066 (1.047)
+the step's own share: a pattern of wavenumber k bends more than light by the ratio of its phase to its group speed, about 1 + 0.27 k^2 = 1.024 at k = 0.3

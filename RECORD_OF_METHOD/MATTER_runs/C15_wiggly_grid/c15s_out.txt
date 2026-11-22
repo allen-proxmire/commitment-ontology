@@ -1,0 +1,5 @@
+even: pattern's heading turns -0.186 degrees; the ray's +0.000; ends at (108.2, 39.8)
+lengths only: pattern's heading turns -4.903 degrees; the ray's -3.974; pattern over ray 1.234; ends at (101.5, 31.5)
+clock only: pattern's heading turns -5.517 degrees; the ray's -4.245; pattern over ray 1.300; ends at (100.9, 30.5)
+both: pattern's heading turns -10.867 degrees; the ray's -8.621; pattern over ray 1.261; ends at (92.3, 22.8)
+both over lengths only: 2.217; clock only over lengths only: 1.125
