@@ -1,0 +1,6 @@
+g = 0.5, N = 8: at m = 0, M/g = 0.691; at m* = -0.157, M/g = 0.000; dM/dm between them = 2.21; M/g would be 0.564 at m = -0.029
+g = 0.5, N = 10: at m = 0, M/g = 0.676; at m* = -0.117, M/g = 0.151; dM/dm between them = 2.25; M/g would be 0.564 at m = -0.025
+g = 0.75, N = 8: at m = 0, M/g = 0.690; at m* = -0.154, M/g = 0.294; dM/dm between them = 1.92; M/g would be 0.564 at m = -0.049
+g = 0.75, N = 10: at m = 0, M/g = 0.683; at m* = -0.127, M/g = 0.367; dM/dm between them = 1.87; M/g would be 0.564 at m = -0.048
+g = 1.0, N = 8: at m = 0, M/g = 0.681; at m* = -0.187, M/g = 0.334; dM/dm between them = 1.86; M/g would be 0.564 at m = -0.063
+g = 1.0, N = 10: at m = 0, M/g = 0.678; at m* = -0.168, M/g = 0.368; dM/dm between them = 1.85; M/g would be 0.564 at m = -0.062

@@ -212,3 +212,20 @@ is a baryon (Skyrme 1961). In the twist with B = 1, the hedgehog, the flavour di
 ## A nucleon as confined commitment (21 Nov, reading)
 
 Mass is renewal rate (C2, C4), and a proton renews at 938 MeV/ħ while its quarks' own masses supply about 1%: nearly all of its rate is quarks and gluons in transit, confined. The rules already count that as mass. On the 1D step a massless pattern held between two walls (run C10) has a level E₀ with no mass of its own, and in a uniform field (N, ψ²) a box of fixed proper width has E = N·E₀ to 0.4% up to Φ = 1, the factor a rest mass has; raised in a weak field its energy changes as a mass's does. So trapped transit ticks, redshifts and weighs as mass does, which gravity's source needs (a proton gravitates with its whole mass). Size sets the scale: three massless quarks in a ball of radius R have E = 3 × 2.04 ħc/R, 1440 MeV at the charge radius 0.84 fm against 938 (a bag estimate, a factor 1.5). Limits: the walls are held, not made by the pattern (in a nucleon the colour field confines, by identification); in the continuum the scaling follows from P7f's form, so the run checks only that the lattice keeps it. Held walls give the weight but not the inertia: carried by a slow heavy carrier the box adds 1.99 E₀ of inertia, not E₀ (the level under a drift λ is E₀(1 − λ²), run C10). That is the old box-of-light problem (4/3 in three dimensions, 2 in one): a rigid wall carries no stress, and the stress of real walls supplies the missing −E₀. Weight and inertia agree only when what confines is itself dynamical, as the colour field is. Grade: reading.
+
+## Mass with none put in: the Schwinger model on the step (run C16)
+
+The nucleon reading above needs what confines to be dynamical. The simplest case where it is: one space dimension, charged patterns with no bare mass on the flow step, H_W = σ_x sin k + σ_z(m + r(1 − cos k)) with r = ½, coupled to the which-way field with charge g (units: hop, ħ and c are 1). In one dimension the field has no waves of its own; Gauss's law fixes it from the charges, with energy (g²/2)ΣL_n². Schwinger's exact answer in the continuum: massless charges vanish from the spectrum, leaving one free neutral pattern of mass g/√π = 0.564g, with E² = M² + p². Exact diagonalisation on chains of 8 and 10 places, open ends, bare m = 0:
+
+| g | M/g (N = 8, 10) | speed of the levels | third level, predicted from the first two (N = 8, 10) | dM/dm |
+|---|---|---|---|---|
+| 0.5 | 0.69, 0.68 | 1.04 | within 11%, 4% | 1.95 |
+| 0.75 | 0.69, 0.68 | 1.01 | within 3.5%, 2.2% | 1.86 |
+| 1.0 | 0.68, 0.68 | 0.97 | within 3.1%, 1.8% | 1.85 |
+
+- The lowest neutral pattern has a mass in proportion to the charge, 0.68g, with no bare mass. It is 21% above Schwinger's 0.564g.
+- Its levels fit one free pattern with E² = M² + v²p² and fixed ends: the speed from the two chains is within 4% of light's, and the third level falls where the first two put it to 2–3% for g ≥ 0.75. It moves as a pattern of that rest energy does. What the held-wall box lacked (inertia 1.99 E₀ for weight E₀) is not seen; the inertia was not measured apart from this.
+- Its mass answers to the bare mass at 1.85–1.95 per unit, against the continuum's e^γ = 1.78.
+- The 21%: the lifting term breaks the handedness symmetry, so with the field on, a charge with no bare mass has an induced one (the mass's additive shift, tuning 2). For this model with Wilson's term the shift is known to go as g² (Angelides, Funcke, Jansen and Kühn 2023, at r = 1); carried to r = ½ it would be about 0.1g², which accounts for part or all of the 21%. These chains are too short to find the massless point themselves (the standard way, full screening of a background field, needs chains several times longer), so the split between that shift and the hop's own size is open.
+
+Grade: reading. The step with the which-way field confines and gives mass as the identification with lattice QED says it should; Schwinger's number is met to 21% with no bare mass, the excess of the size the lifting term's induced mass would give.
