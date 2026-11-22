@@ -1,0 +1,4 @@
+even grid: heading in the web's labels turns by -0.1 degrees; true path: speed 0.95405, sideways departure from a straight line at most 0.028 hop, along it 0.068 hop, over 95 hops
+fan: heading in the web's labels turns by -8.3 degrees; true path: speed 0.95141, sideways departure from a straight line at most 0.096 hop, along it 0.027 hop, over 95 hops
+smooth map: heading in the web's labels turns by -5.1 degrees; true path: speed 0.95766, sideways departure from a straight line at most 0.184 hop, along it 0.067 hop, over 96 hops
+bowl (curved): heading in the web's labels turns by +0.3 degrees
