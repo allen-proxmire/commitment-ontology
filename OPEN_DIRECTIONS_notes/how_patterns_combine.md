@@ -265,3 +265,19 @@ With heavy charges the string holds at every length tried: 0.1205 per link again
 
 Reading. On the step a held charge that the moving charges cannot match stays tied, so long as they have mass. This is the U(1) likeness of a colour charge that the free charges cannot cancel; it says nothing about quarks' fractional electric charge. One dimension, one chain, one coupling.
 
+## Which combinations leave no string (run C17, desk)
+
+With three colour states and the colour field in place of the which-way field, Gauss's law in one dimension gives each link the energy (g²/2)·C₂, with C₂ fixed by the colour state of everything to one side of the link. Computed from the eight colour generators acting on the quarks themselves:
+
+| what is on one side | string energy per link, in units of g²/2 (number of states) |
+|---|---|
+| one quark | 4/3 (3) |
+| two quarks | 4/3 (3), 10/3 (6) |
+| a quark and an antiquark | 0 (1), 3 (8) |
+| three quarks | 0 (1), 3 (16), 6 (10) |
+| two quarks and an antiquark | 4/3 (6), 10/3 (6), 16/3 (15) |
+
+One quark always trails a string. Two quarks at best trail the same string as one (their best joint state acts as an antiquark). A quark with an antiquark, or three quarks, have exactly one joint state with no string at all, and that is the state the field's energy picks. So the combinations seen, in twos (quark and antiquark) and in threes, all have a string-free state; a pair of quarks has none. This is the group's arithmetic (3 ⊗ 3̄ ∋ 1, 3 ⊗ 3 ⊗ 3 ∋ 1, 3 ⊗ 3 = 6 ⊕ 3̄) read as field energy, not a new result.
+
+What a run would add is the dynamics: masses, and strings breaking. An exact run of the three-colour model on the step has 3.4 × 10⁵ states at 4 places, 1.6 × 10⁷ at 5 and 8 × 10⁸ at 6; 4 and 5 places are in reach, 6 is not; at C16d's mass and coupling a string needed 5 to 6 links to break (a heavier coupling or lighter charge shortens that). Two colours reach 6 or 7 places. Open: the three-colour model on the step, at 5 places with the break brought inside the chain, or by another method.
+
