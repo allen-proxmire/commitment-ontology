@@ -1,0 +1,4 @@
+even: pattern's heading turns +0.002 degrees; ends at (109.7, 40.0)
+lengths only: pattern's heading turns -4.425 degrees; ends at (103.0, 31.6)
+both: pattern's heading turns -9.962 degrees; ends at (93.7, 22.9)
+clock only: pattern's heading turns -4.996 degrees; ends at (102.3, 30.6)

@@ -1,0 +1,3 @@
+lengths only: bundle of rays turns -4.426 degrees
+clock only: bundle of rays turns -5.002 degrees
+both: bundle of rays turns -10.079 degrees

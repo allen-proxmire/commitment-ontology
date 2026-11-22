@@ -1,0 +1,4 @@
+1. curvature from lengths and diagonal: rms 0.0e+00 per hop^2 (lengths vary by 0.077, the angle from 68 to 112 degrees)
+   for comparison, a curved web with right angles (a_y = 1 + xy/(2 Lw^2)): rms 0.0e+00
+2. angle used: true path speed 0.9724, heading 59.4 degrees (launched at 60), turning by -0.34 degrees, sideways departure from a straight line at most 0.051 hop over 97 hops
+2. angle ignored: true path speed 0.9391, heading 58.6 degrees (launched at 60), turning by -7.94 degrees, sideways departure from a straight line at most 1.233 hop over 94 hops

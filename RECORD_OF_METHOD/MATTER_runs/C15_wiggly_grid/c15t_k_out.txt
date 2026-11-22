@@ -1,0 +1,4 @@
+the leaning web, lengths and diagonal: curvature rms 0.0e+00 per hop^2
+the same lengths with the angle ignored: curvature rms 0.0e+00 per hop^2
+curved, right angles: a_y = 1 + 0.1 sin(2 pi x/64): curvature rms 7.0e-04 per hop^2
+curved by its angle alone: unit lengths, cos(theta) = 0.2 sin(2 pi x/64) sin(2 pi y/64): curvature rms 9.3e-04 per hop^2
