@@ -279,5 +279,22 @@ With three colour states and the colour field in place of the which-way field, G
 
 One quark always trails a string. Two quarks at best trail the same string as one (their best joint state acts as an antiquark). A quark with an antiquark, or three quarks, have exactly one joint state with no string at all, and that is the state the field's energy picks. So the combinations seen, in twos (quark and antiquark) and in threes, all have a string-free state; a pair of quarks has none. This is the group's arithmetic (3 ⊗ 3̄ ∋ 1, 3 ⊗ 3 ⊗ 3 ∋ 1, 3 ⊗ 3 = 6 ⊕ 3̄) read as field energy, not a new result.
 
-What a run would add is the dynamics: masses, and strings breaking. An exact run of the three-colour model on the step has 3.4 × 10⁵ states at 4 places, 1.6 × 10⁷ at 5 and 8 × 10⁸ at 6; 4 and 5 places are in reach, 6 is not; at C16d's mass and coupling a string needed 5 to 6 links to break (a heavier coupling or lighter charge shortens that). Two colours reach 6 or 7 places. Open: the three-colour model on the step, at 5 places with the break brought inside the chain, or by another method.
+What a run would add is the dynamics: masses, and strings breaking. An exact run of the three-colour model on the step has 3.4 × 10⁵ states at 4 places, 1.6 × 10⁷ at 5 and 8 × 10⁸ at 6; 4 and 5 places are in reach, 6 is not; at C16d's mass and coupling a string needed 5 to 6 links to break (a heavier coupling or lighter charge shortens that). Two colours reach 6 or 7 places. A first exact run at 3 and 4 places is below; strings breaking would need 5 places with the break brought inside the chain, or another method.
+
+## Three colours on the step, moving (run C18)
+
+Quarks as the flow step's pattern in three colour states, the colour field fixed by Gauss's law, chains of 3 and 4 places, bare mass 0, exact. A tail of K links beyond the chain carries its total colour away, so a set of quarks that is not neutral pays for the tail. Quarks added to the filled lower states, at g = 1.5 on 4 places:
+
+| quarks added | energy above the vacuum, no tail | with a tail of 3 links | rise per link of tail |
+|---|---|---|---|
+| none | 0 | 0 | 0 |
+| one | 0.55 | 5.05 | (4/3)(g²/2) |
+| two | 1.08 | 5.58 | (4/3)(g²/2) |
+| three | 1.50 | 1.50 | 0 |
+
+With the quarks free to move and the field answering, one quark trails a string of 4/3, two quarks the same (they take the joint state that acts as an antiquark, not the one at 10/3), and three quarks none. The vacuum's first excitation (read as a quark with an antiquark; shown only to be neutral) costs 0.95 and trails none. The same holds at 3 places and at g = 1, 1.5 and 2. The rises per link are exact, as the colour symmetry and the tail require of a correct code; the antiquark-like state for two quarks is forced by the field's energy once there is a tail.
+
+The energies of the neutral sets (three quarks 1.3 to 1.6, quark with antiquark 0.8 to 1.0, over g = 1 to 2) are not yet masses: with no tail an added quark sits on the last place, where its field leaves the chain at no cost, and its energy (0.55, the same at 3 and 4 places) is set by the step's lifting term there and the open end; three cost about three times that.
+
+Grade: reading. The three-state colour kind (C9) on the step, with its field, gives a neutral three and a neutral first excitation, and strings on one quark and on two, with the quarks moving. The exact rises check the code more than the step. One dimension; chains of 3 and 4 places; a tail added by hand.
 

@@ -1,0 +1,60 @@
+N = 3, g = 1.0, quarks added: none, tail 0: lowest two energies -6.142736 -5.310360  (0 s)
+N = 3, g = 1.0, quarks added: none, tail 2: lowest two energies -6.142736 -5.310360  (0 s)
+N = 3, g = 1.0, quarks added: none, tail 4: lowest two energies -6.142736 -5.310360  (0 s)
+N = 3, g = 1.0, quarks added: one, tail 0: lowest two energies -5.624602 -4.945083  (0 s)
+N = 3, g = 1.0, quarks added: one, tail 2: lowest two energies -4.291268 -3.611750  (0 s)
+N = 3, g = 1.0, quarks added: one, tail 4: lowest two energies -2.957935 -2.278417  (0 s)
+N = 3, g = 1.0, quarks added: two, tail 0: lowest two energies -5.165258 -4.678244  (0 s)
+N = 3, g = 1.0, quarks added: two, tail 2: lowest two energies -3.831925 -3.344911  (0 s)
+N = 3, g = 1.0, quarks added: two, tail 4: lowest two energies -2.498592 -2.011577  (0 s)
+N = 3, g = 1.0, quarks added: three, tail 0: lowest two energies -4.875391 -4.564491  (0 s)
+N = 3, g = 1.0, quarks added: three, tail 2: lowest two energies -4.875391 -4.564491  (0 s)
+N = 3, g = 1.0, quarks added: three, tail 4: lowest two energies -4.875391 -4.564491  (0 s)
+   N = 3, g = 1.0: vacuum moves with the tail by 5.3e-15; first excitation in the vacuum sector (quark and antiquark) 0.8324
+   quarks added: one: energy above the vacuum 0.5181 with no tail, 3.1848 with a tail of 4; rise per link of tail 1.3333 x g^2/2
+   quarks added: two: energy above the vacuum 0.9775 with no tail, 3.6441 with a tail of 4; rise per link of tail 1.3333 x g^2/2
+   quarks added: three: energy above the vacuum 1.2673 with no tail, 1.2673 with a tail of 4; rise per link of tail -0.0000 x g^2/2
+N = 3, g = 1.5, quarks added: none, tail 0: lowest two energies -5.670079 -4.702964  (0 s)
+N = 3, g = 1.5, quarks added: none, tail 2: lowest two energies -5.670079 -4.702964  (0 s)
+N = 3, g = 1.5, quarks added: none, tail 4: lowest two energies -5.670079 -4.702964  (0 s)
+N = 3, g = 1.5, quarks added: one, tail 0: lowest two energies -5.123582 -4.206661  (0 s)
+N = 3, g = 1.5, quarks added: one, tail 2: lowest two energies -2.123582 -1.206661  (0 s)
+N = 3, g = 1.5, quarks added: one, tail 4: lowest two energies 0.876418 1.793339  (0 s)
+N = 3, g = 1.5, quarks added: two, tail 0: lowest two energies -4.595753 -3.910184  (0 s)
+N = 3, g = 1.5, quarks added: two, tail 2: lowest two energies -1.595753 -0.910184  (0 s)
+N = 3, g = 1.5, quarks added: two, tail 4: lowest two energies 1.404247 2.089816  (0 s)
+N = 3, g = 1.5, quarks added: three, tail 0: lowest two energies -4.155455 -4.058022  (0 s)
+N = 3, g = 1.5, quarks added: three, tail 2: lowest two energies -4.155455 -4.058022  (0 s)
+N = 3, g = 1.5, quarks added: three, tail 4: lowest two energies -4.155455 -4.058022  (0 s)
+   N = 3, g = 1.5: vacuum moves with the tail by 3.6e-15; first excitation in the vacuum sector (quark and antiquark) 0.9671
+   quarks added: one: energy above the vacuum 0.5465 with no tail, 6.5465 with a tail of 4; rise per link of tail 1.3333 x g^2/2
+   quarks added: two: energy above the vacuum 1.0743 with no tail, 7.0743 with a tail of 4; rise per link of tail 1.3333 x g^2/2
+   quarks added: three: energy above the vacuum 1.5146 with no tail, 1.5146 with a tail of 4; rise per link of tail 0.0000 x g^2/2
+N = 3, g = 2.0, quarks added: none, tail 0: lowest two energies -5.317853 -4.293678  (0 s)
+N = 3, g = 2.0, quarks added: none, tail 2: lowest two energies -5.317853 -4.293678  (0 s)
+N = 3, g = 2.0, quarks added: none, tail 4: lowest two energies -5.317853 -4.293678  (0 s)
+N = 3, g = 2.0, quarks added: one, tail 0: lowest two energies -4.775720 -3.760962  (0 s)
+N = 3, g = 2.0, quarks added: one, tail 2: lowest two energies 0.557613 1.572371  (0 s)
+N = 3, g = 2.0, quarks added: one, tail 4: lowest two energies 5.890947 6.905705  (0 s)
+N = 3, g = 2.0, quarks added: two, tail 0: lowest two energies -4.239978 -3.327428  (0 s)
+N = 3, g = 2.0, quarks added: two, tail 2: lowest two energies 1.093355 2.005906  (0 s)
+N = 3, g = 2.0, quarks added: two, tail 4: lowest two energies 6.426689 7.339239  (0 s)
+N = 3, g = 2.0, quarks added: three, tail 0: lowest two energies -3.722471 -3.707034  (0 s)
+N = 3, g = 2.0, quarks added: three, tail 2: lowest two energies -3.722471 -3.707034  (0 s)
+N = 3, g = 2.0, quarks added: three, tail 4: lowest two energies -3.722471 -3.707034  (0 s)
+   N = 3, g = 2.0: vacuum moves with the tail by 4.2e-14; first excitation in the vacuum sector (quark and antiquark) 1.0242
+   quarks added: one: energy above the vacuum 0.5421 with no tail, 11.2088 with a tail of 4; rise per link of tail 1.3333 x g^2/2
+   quarks added: two: energy above the vacuum 1.0779 with no tail, 11.7445 with a tail of 4; rise per link of tail 1.3333 x g^2/2
+   quarks added: three: energy above the vacuum 1.5954 with no tail, 1.5954 with a tail of 4; rise per link of tail 0.0000 x g^2/2
+N = 4, g = 1.5, quarks added: none, tail 0: lowest two energies -7.741400 -6.791859  (15 s)
+N = 4, g = 1.5, quarks added: none, tail 3: lowest two energies -7.741400 -6.791859  (29 s)
+N = 4, g = 1.5, quarks added: one, tail 0: lowest two energies -7.194313 -6.294034  (12 s)
+N = 4, g = 1.5, quarks added: one, tail 3: lowest two energies -2.694313 -1.794034  (22 s)
+N = 4, g = 1.5, quarks added: two, tail 0: lowest two energies -6.666187 -5.994848  (7 s)
+N = 4, g = 1.5, quarks added: two, tail 3: lowest two energies -2.166187 -1.494848  (17 s)
+N = 4, g = 1.5, quarks added: three, tail 0: lowest two energies -6.236548 -6.165245  (8 s)
+N = 4, g = 1.5, quarks added: three, tail 3: lowest two energies -6.236548 -6.165245  (19 s)
+   N = 4, g = 1.5: vacuum moves with the tail by 3.2e-14; first excitation in the vacuum sector (quark and antiquark) 0.9495
+   quarks added: one: energy above the vacuum 0.5471 with no tail, 5.0471 with a tail of 3; rise per link of tail 1.3333 x g^2/2
+   quarks added: two: energy above the vacuum 1.0752 with no tail, 5.5752 with a tail of 3; rise per link of tail 1.3333 x g^2/2
+   quarks added: three: energy above the vacuum 1.5049 with no tail, 1.5049 with a tail of 3; rise per link of tail 0.0000 x g^2/2
