@@ -1,0 +1,3 @@
+lengths only: the step's own rays -4.713 (+/- 0.015); light's rays -4.409; pattern -4.425; step's rays over light's 1.069; pattern over step's rays 0.939
+clock only: the step's own rays -5.308 (+/- 0.021); light's rays -4.980; pattern -4.996; step's rays over light's 1.066; pattern over step's rays 0.941
+both: the step's own rays -10.596 (+/- 0.038); light's rays -10.029; pattern -9.962; step's rays over light's 1.057; pattern over step's rays 0.940

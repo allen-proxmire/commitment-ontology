@@ -1,0 +1,1 @@
+angle ignored, in its own web's positions: speed 0.9677, turning by +0.17 degrees, sideways departure from a straight line at most 0.043 hop over 97 hops

@@ -1,0 +1,2 @@
+even grid: true path speed 0.9321; sideways departure from a straight line at most 0.009 hop, along it 0.026, over 24 hops; heading in the web's labels turns by 0.22 degrees
+a ball's own lines: true path speed 0.9212; sideways departure from a straight line at most 0.061 hop, along it 0.019, over 24 hops; heading in the web's labels turns by 8.35 degrees

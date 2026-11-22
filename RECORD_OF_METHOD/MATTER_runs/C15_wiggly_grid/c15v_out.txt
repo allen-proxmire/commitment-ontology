@@ -1,0 +1,1 @@
+wave turns -5.730 degrees; light's rays -5.244; the step's own rays -5.661; wave over light's 1.093; wave over the step's 1.012
