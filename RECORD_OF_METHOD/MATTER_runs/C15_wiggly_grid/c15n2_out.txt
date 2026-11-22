@@ -1,0 +1,6 @@
+k = 0.147, place form with sizes from the links: loss rate 1.126e-05
+k = 0.295, place form with sizes from the links: loss rate 7.121e-05
+k = 0.589, place form with sizes from the links: loss rate 7.740e-04
+k = 0.147, link form with sizes drawn independently per place: loss rate 9.429e-05
+k = 0.295, link form with sizes drawn independently per place: loss rate 1.332e-03
+k = 0.589, link form with sizes drawn independently per place: loss rate 1.595e-03

@@ -1,0 +1,8 @@
+even grid: variation of the lengths 0.000; largest of the six, rms 0.0e+00
+flat: a fan (1, 1 + eps x/L, 1): variation of the lengths 0.029; largest of the six, rms 1.2e-16
+flat: a ball's own lines (1, r/R, r sin(th)/R), far from the centre: variation of the lengths 0.046; largest of the six, rms 5.2e-11
+flat: turned inside out about a far point (a = c/|x - x0|^2): variation of the lengths 0.136; largest of the six, rms 1.1e-08
+flat: each line relabelled alone, uneven hop to hop by 0.1: variation of the lengths 0.111; largest of the six, rms 0.0e+00
+curved: a bowl (a = 1 + eps |x|^2/L^2): variation of the lengths 0.013; largest of the six, rms 3.8e-04
+curved: a ripple 16 hops long: variation of the lengths 0.035; largest of the six, rms 1.1e-02
+curved: independent from place to place, 0.1: variation of the lengths 0.099; largest of the six, rms 4.5e-01

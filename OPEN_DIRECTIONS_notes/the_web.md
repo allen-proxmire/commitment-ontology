@@ -23,7 +23,17 @@ taken with differences one hop wide. No positions enter. A web is flat where K =
 | independent from place to place, 0.1 | 0.100 | 0.54 |
 | uneven hop to hop by 0.1, but along x depending on x only and along y on y only (a relabelling of the lines) | 0.095 | 0 |
 
-The lengths of the grid's own links alone, with no angles given, can be drawn flat, for small variations and locally (d numbers per place against d coordinates). The angles carry the rest, and matter's step sets them at right angles; shear between the lines needs the further carriers (the squares' diagonals). In three dimensions the same test is the Riemann curvature of ds² = Σ a_i²dx_i². Unevenness ε from place to place that is not a relabelling is curvature of order ε per hop². The last row is flat by this test and still felt in a run, less than independent unevenness of the same size (loss 0.014 against 0.020 at k = 0.3, 0.045 against 0.168 at k = 0.6; c15m): at the scale of one hop the test and the step do not yet agree on what flat is (strengths sit on places in the step, lengths on links in a geometry). Open. Grade: reading (two dimensions, space only: a massless pattern reads a_i/N, and the clock's rate N is not included).
+The lengths of the grid's own links alone, with no angles given, can be drawn flat, for small variations and locally (d numbers per place against d coordinates). The angles carry the rest, and matter's step sets them at right angles; shear between the lines needs the further carriers (the squares' diagonals). In three dimensions the same test is the Riemann curvature of ds² = Σ a_i²dx_i². Unevenness ε from place to place that is not a relabelling is curvature of order ε per hop². The last row is flat by this test and still felt in a run, less than independent unevenness of the same size (loss 0.014 against 0.020 at k = 0.3, 0.045 against 0.168 at k = 0.6; c15m): with numbers drawn independently for each place, flat by the test is not yet unfelt.
+
+*A place's size from its relations (c15n, c15n2).* Give each link a length a and each place a size along a line V = (a_left + a_right)/2, the mean of the two links that meet at it. For the same flat, hop-to-hop uneven web (0.1), plain hops, the loss rate is 1.0 × 10⁻⁵, 7 × 10⁻⁵, 7.7 × 10⁻⁴ per hop time at k = 0.15, 0.3, 0.6, whether the hop's strength is written 1/√(VV′) over a link or 1/V at a place. With sizes drawn independently per place, in either form, it is 1–3 × 10⁻⁴, 1.3–1.7 × 10⁻³, 1.6–3.2 × 10⁻³: about 10 to 20 times higher at the longer wavelengths, 2 to 4 at the shortest. So where the strengths are written does not matter; what matters is that a place's size comes from the relations meeting at it, so that neighbours share a link and cannot differ freely. Candidate for the step's form on an uneven web; one seed, plain hops (their doubled states take part of every loss), the lifting term not included.
+
+*Three dimensions (c15o).* With ds² = Σ a_i²dx_i² the web is flat exactly where six expressions vanish (Lamé's equations), for (i, j, k) a turn of (1, 2, 3):
+
+S_k = ∂_i(∂_i a_j / a_i) + ∂_j(∂_j a_i / a_j) + (∂_k a_i)(∂_k a_j)/a_k²,  M_i = ∂_j∂_k a_i − (∂_j a_k)(∂_k a_i)/a_k − (∂_k a_j)(∂_j a_i)/a_j.
+
+(The leading terms of S are taken one hop wide; the cross term and M two hops wide, so those are blind to strict alternation.) Largest of the six, rms per hop²: a fan 10⁻¹⁶; a ball's own lines 5 × 10⁻¹¹; space turned inside out about a far point 10⁻⁸; each line relabelled alone, uneven by 0.1 hop to hop, 0; a bowl 4 × 10⁻⁴; a ripple 16 hops long 10⁻²; independent unevenness of 0.1 (one number per place for all three lines), 0.45.
+
+Grade: reading (space only: a massless pattern reads a_i/N, and the clock's rate N is not included).
 
 ## Wiggles drawn and felt
 
