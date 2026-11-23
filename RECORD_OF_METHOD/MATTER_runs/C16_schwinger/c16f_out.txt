@@ -1,0 +1,6 @@
+g = 0.5: gap 0.4277 = field +0.1329 + motion +0.2381 + lifting term +0.0567 (sum 0.4277);  shares: field 31%, motion 56%, lifting term 13%
+        in the vacuum itself: field 0.2304, motion -4.7340, lifting term -3.6477
+g = 0.75: gap 0.5710 = field +0.2234 + motion +0.2594 + lifting term +0.0881 (sum 0.5710);  shares: field 39%, motion 45%, lifting term 15%
+        in the vacuum itself: field 0.4294, motion -4.5525, lifting term -3.7669
+g = 1.0: gap 0.7173 = field +0.2800 + motion +0.3001 + lifting term +0.1372 (sum 0.7173);  shares: field 39%, motion 42%, lifting term 19%
+        in the vacuum itself: field 0.6181, motion -4.2893, lifting term -3.9185

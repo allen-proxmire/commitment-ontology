@@ -298,3 +298,19 @@ The energies of the neutral sets (three quarks 1.3 to 1.6, quark with antiquark 
 
 Grade: reading. The three-state colour kind (C9) on the step, with its field, gives a neutral three and a neutral first excitation, and strings on one quark and on two, with the quarks moving. The exact rises check the code more than the step. One dimension; chains of 3 and 4 places; a tail added by hand.
 
+## One pattern, three seats, a pool on loan (reading; run C16f)
+
+A picture of the nucleon in CO's two primitives. A nucleon is one pattern with one clock. It commits at three places, the quarks, taking turns in no fixed order (each turn a draw, as for any commitment). Between them is a pool of trapped possibility, in transit, which never commits: the colour field, shaped by where the three are. A quark's cycle is to commit, hand off to the pool, take back from it, and commit again. The commitment is on loan: almost none of the nucleon's rate is the quarks' own mass.
+
+The one case that can be solved exactly bears out only the last sentence: little of the rate is the charges' own mass. It says nothing of one clock, three seats or taking turns, and its neutral pattern is made of two charges, not three. On the chain of run C16 (one dimension, one kind of charge, 10 places, no bare mass), the lowest neutral pattern's energy above the vacuum can be divided into three parts that add up to it (one way of dividing it: the parts do not commute, so only the sum is a fact; the field's part is (g/2)∂E/∂g):
+
+| g | in the field | in the charges' motion | in the lifting term |
+|---|---|---|---|
+| 0.5 | 31% | 56% | 13% |
+| 0.75 | 39% | 45% | 15% |
+| 1.0 | 39% | 42% | 19% |
+
+A third to two-fifths of what makes the pattern tick is the field's; most of the rest is the charges moving; the lifting term's share is the induced mass of run C16, the only part that is mass of the charges' own. On 8 places the shares move by up to 5 points. The level is the chain's lowest standing wave, not a pattern at rest, so part of the motion's share is the pattern's own; for a free pattern at rest the field's share would be one half, and for a moving one M²/2E² (32%, 40%, 45% here). For the proton itself, lattice QCD gives 36% in the gluon field, 32% in the quarks' energy, 9% from the mass term of the u, d and s quarks (the three valence quarks' own masses are about 1%) and 23% from the trace anomaly, in one scheme at one scale (Yang et al., Phys. Rev. Lett. 121, 212001 (2018)): similar rough proportions in a far richer theory, so the likeness is not a test.
+
+Grade: reading. Not addressed, and to be settled before this is more than a picture: C9 has a quark renew as an electron does, at its own mass's rate, where this picture has one clock for the whole; the nucleus record has a nucleon's parts commit together, where this has them take turns; and states of the colour field alone have mass with no seat to commit at. Where a composite's commitments fall among its parts is not yet a rule of CO.
+
