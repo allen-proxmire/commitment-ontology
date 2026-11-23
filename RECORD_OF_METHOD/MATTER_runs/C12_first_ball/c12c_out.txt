@@ -1,0 +1,8 @@
+visible universe: 1.47e+89 photons, 8.94e+79 baryons, 7.82e+79 electrons
+dark pattern's mass if the beginning made as many dark patterns as ...
+   baryons: 5.03 GeV
+   baryons and electrons: 2.68 GeV
+   [per quark, earlier] quarks: 1.68 GeV
+   [per quark, earlier] quarks and electrons: 1.30 GeV
+first places, per whole: baryons + electrons + as many dark: 3.35e+80; radius 4.3 um at l = 1.0e-32 m, 25 nm at l = 5.7e-35 m; places multiplied by the epoch's end (1 to 10 photons per place): 4.4e+07 to 4.4e+08; growth in length 352 to 759 (5.9 to 6.6 e-folds)
+first places, per quark (earlier): quarks + electrons + as many dark: 6.93e+80; radius 5.5 um at l = 1.0e-32 m, 31 nm at l = 5.7e-35 m; places multiplied by the epoch's end (1 to 10 photons per place): 2.1e+07 to 2.1e+08; growth in length 277 to 596 (5.6 to 6.4 e-folds)

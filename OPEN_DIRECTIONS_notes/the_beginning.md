@@ -59,7 +59,7 @@ Four growth rules, one measure: how uneven the count of places in a region is, a
 
 | growth rule | unevenness against size | against the need |
 |---|---|---|
-| every first place grows its own family, family sizes random | falls as size^−½ | excluded: a family (2 × 10⁷–2 × 10⁸ places) is under 600 hops across; the smallest size seen holds 10⁷⁷ places |
+| every first place grows its own family, family sizes random | falls as size^−½ | excluded: a family (2 × 10⁷–4 × 10⁸ places, by the count of first places) is under 760 hops across; the smallest size seen holds 10⁷⁷ places |
 | random births: any place may bear the next, the child beside it | the same at every size, of order one | excluded: about 10⁴ times too uneven |
 | a conserved amount in whole units, each unit sent one way or the other at random | falls as size^−½ | excluded |
 | a conserved amount divided in two again and again, each division uneven by a fixed fraction s | the same at every size: each halving adds s² to the variance | meets the size and tilt with s = 3√A_s · √(ln 2 / 3) = 6.6 × 10⁻⁵ (one part in 15,000), larger by 0.4% per halving toward the larger sizes |
