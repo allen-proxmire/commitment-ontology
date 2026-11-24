@@ -27,14 +27,14 @@
 - Measured inputs: G, c, ħ, 1/137, the particle masses.
 
 **Posited** (decided, beyond the two primitives).
-- The qualities P1–P8, C1–C10, each posited or candidate ([`TECHNICAL_APPENDIX.md`](TECHNICAL_APPENDIX.md)).
+- The qualities P1–P8, C1–C9, each posited or candidate ([`TECHNICAL_APPENDIX.md`](TECHNICAL_APPENDIX.md)).
 - Four constants of CO's own (below) and a birth share whose value is open.
 - r = ½, the Wilson parameter in matter's step.
 
 **Chosen** (readings the rules leave open, picked; candidate).
 - Matter's step: one tick of the lattice Dirac flow with a Wilson term.
 - Locality as a reach that fades fast at the hop scale.
-- How the field enters matter's step; gravity's source following engagements; no backdrop at every order; colour as a three-state kind (C9); measurement completing at N quanta (C8); a two-way kind label at each place, up/down and neutrino/electron (C10).
+- How the field enters matter's step; gravity's source following engagements; no backdrop at every order; colour as a three-state kind (C9); measurement completing at N quanta (C8).
 
 **What needs the lattice.** The lattice adds two things to a web of relations: regular axes, and a rest frame (one tick common to every place).
 - *Neither a lattice nor a smallest length:* one-way time, the clock rate, redshift and free fall, the moving clock, gravity's source following engagements, the stopping number N and its test, the shared commitment in a nucleon; Einstein's equations by identification (continuum; assumes Lorentz-invariant interactions, which a web with a frame does not give for free).
@@ -52,7 +52,7 @@ Now is the commitment (reading). A common tick is a now for the whole lattice; w
 
 **Shapes.** G's form, G = δc³ℓ²/(4πħ), resting on a relation's stiffness equalling the hop's conductance; a beginning in which every place is over capacity and commits at once, ending as an inflation-like epoch; the ratio of matter to light set by that beginning (its value open); dark matter as a pattern that renews with no channel (given CO's present inventory a fermion, so, if the shape holds, not ultralight, m ≥ 0.13 keV; [`OPEN_DIRECTIONS_notes/dark_matter.md`](OPEN_DIRECTIONS_notes/dark_matter.md)).
 
-**Silences.** The masses, 1/137, the weak interaction beyond its label (a field for the label is a shape), three generations, the first ripples.
+**Silences.** The masses, 1/137, the weak interaction, three generations, the first ripples.
 
 ## CO's own constants
 
@@ -77,6 +77,6 @@ Notes for the experiments: [`TESTS_FOR_EXPERIMENTERS/`](TESTS_FOR_EXPERIMENTERS/
 
 ## What it does not do
 
-Quantum mechanics only for a fixed number of particles (with pair creation by identification, candidate). No masses, no 1/137, no weak interaction (its label taken, C10; its field a shape, not built), no reason for three generations; three colours only as a choice. No tested prediction that differs from established physics, and no number matched where the standard theories are silent. Where a quality is a choice, the result is a reconstruction, not a derivation. The gravity runs on matter's step (CO's lattice Dirac walk) are in one and two dimensions, with free fall and light bending in a weak uniform field in three; three dimensions beyond that (a spinning body's exterior and Kerr among them) and strong fields beyond a 2D hole and a radial collapse are open. The tunings are its weakest point.
+Quantum mechanics only for a fixed number of particles (with pair creation by identification, candidate). No masses, no 1/137, no weak interaction, no reason for three generations; three colours only as a choice. No tested prediction that differs from established physics, and no number matched where the standard theories are silent. Where a quality is a choice, the result is a reconstruction, not a derivation. The gravity runs on matter's step (CO's lattice Dirac walk) are in one and two dimensions, with free fall and light bending in a weak uniform field in three; three dimensions beyond that (a spinning body's exterior and Kerr among them) and strong fields beyond a 2D hole and a radial collapse are open. The tunings are its weakest point.
 
 **Where to read more.** [`README.md`](README.md) (overview), [`STATE_OF_CO.md`](STATE_OF_CO.md) (the theory in plain language), [`TECHNICAL_APPENDIX.md`](TECHNICAL_APPENDIX.md) (every quality and its grade), [`OPEN_DIRECTIONS.md`](OPEN_DIRECTIONS.md) (what is open), [`RECORD_OF_METHOD/`](RECORD_OF_METHOD/) (how each step was reached).
