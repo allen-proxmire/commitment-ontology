@@ -1,0 +1,5 @@
+visible universe: 1.47e+89 photons, 8.94e+79 baryons; L per T_cm^3 -> per photon: x 1.493; bound 0.13 -> 0.19 per photon, 3.2e+08 per baryon
+L = 0 (net antineutrinos equal to the electrons): first places 1.79e+80; radius 3.49 um at l = 1.0e-32 m, 20 nm at l = 5.7e-35 m; places multiplied by the epoch's end 8.2e+07 to 8.2e+08; growth in length 434 to 936
+no net neutrinos, L = 0.875 B (the count so far): first places 3.35e+80; radius 4.31 um at l = 1.0e-32 m, 24.7 nm at l = 5.7e-35 m; places multiplied by the epoch's end 4.4e+07 to 4.4e+08; growth in length 352 to 759
+L = B: first places 3.58e+80; radius 4.4 um at l = 1.0e-32 m, 25.2 nm at l = 5.7e-35 m; places multiplied by the epoch's end 4.1e+07 to 4.1e+08; growth in length 345 to 743
+|L| at the bound, no dark doubling: first places 2.84e+88; radius 1.89e+03 um at l = 1.0e-32 m, 1.09e+04 nm at l = 5.7e-35 m; places multiplied by the epoch's end 0.52 to 5.2; growth in length 0.802 to 1.73  (below 1: this L needs fewer than 5.2 photons per place at the end)
