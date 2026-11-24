@@ -4,7 +4,7 @@
 
 Time is a count of things that have happened. Something happens, and it cannot be undone. That is one tick. Matter is something that keeps happening. Where nothing happens, there is no time. Start from this and ask what physics has to look like.
 
-CO starts from two things. Picture a network of places, like the points of a grid (the *lattice*). **Possibility** is what could happen: it sits at places and moves between places that are related. A **commitment** is something actually happening: an event that takes in some possibility and cannot be undone. Everything else is built from these two.
+CO starts from two things. Picture a network of places, like the points of a grid (the *lattice*). The grid is a stand-in: what CO has is a web of relations, and a regular grid is the simplest one to compute on. **Possibility** is what could happen: it sits at places and moves between places that are related. A **commitment** is something actually happening: an event that takes in some possibility and cannot be undone. Everything else is built from these two.
 
 Relativity has no single "now" for the whole universe, and quantum mechanics has no event, only chances. CO takes events as basic and adds no universal now: an event's now is everything that could have reached it.
 
@@ -117,12 +117,12 @@ At long wavelengths this is Dirac's equation: the electron, with spin ½. A latt
 
 **What it borrows.** Many results come through known theorems and constructions; where a rule was a choice, the result is a reconstruction, not a derivation. The masses, 1/137 and the weak force are not explained.
 
-**Its weakest point.** The lattice picks a rest frame. Once quantum corrections come in, different particles could get slightly different top speeds unless those speeds are set equal by hand. CO keeps that tuning on purpose: the same frame is what makes its photon and neutrino tests possible, and the only known way out would remove the photon test (and, in one form, the neutrino test). So it stands at tree level: the simplest level, before those quantum corrections.
+**Its weakest point.** The lattice picks a rest frame (this comes with the grid, the stand-in; whether a web without such a frame is free of what follows is open). Once quantum corrections come in, different particles could get slightly different top speeds unless those speeds are set equal by hand. The tuning is kept in the stand-in on purpose: the same frame is what makes the photon and neutrino tests possible, and the only known way out would remove the photon test (and, in one form, the neutrino test). So it stands at tree level: the simplest level, before those quantum corrections.
 
 **How it could be tested.** Three ways, each in [`ONE_PAGE.md`](ONE_PAGE.md) and [`TESTS_FOR_EXPERIMENTERS/`](TESTS_FOR_EXPERIMENTERS/):
 - Gravity should never entangle two masses.
 - The number N should be the same in every system.
-- Very high-energy photons should split into electron pairs above a ceiling (a side effect of one choice, keeping a lattice with a real frame, not part of CO's core): roughly 9–16 PeV (peta-electronvolts) at the present candidate bound, higher if the hop is smaller, and the same for every source in a given direction. The highest seen so far is 3.7 PeV.
+- Very high-energy photons should split into electron pairs above a ceiling (a test of the grid, not of CO's core: it needs the web to have a rest frame of its own, as the grid has): roughly 9–16 PeV (peta-electronvolts) at the present candidate bound, higher if the hop is smaller, and the same for every source in a given direction. The highest seen so far is 3.7 PeV.
 
 **Relatives.** Causal sets; energetic causal sets (Cortês and Smolin); lattice fermions and quantum walks; event-based quantum theory (Haag, Blanchard–Jadczyk); quantum graphity; loop quantum gravity.
 

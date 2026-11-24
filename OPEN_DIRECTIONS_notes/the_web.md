@@ -77,3 +77,19 @@ Two grids turned by 45° against each other, meeting along a line. Head-on, with
 - Each relation's hop strength following its length and direction, to the accuracy above.
 - Which relations a newborn place has, and how places change neighbours where they slip or shear: silence.
 - Whether the web is set more evenly where things commit: a local rule can do it, slowly, where a place has relations enough (run c15k: with eight neighbours the leftover falls round by round, about as n^−0.4; with four it sticks; the rule there steers toward drawn positions, so it is a stand-in). Commitments look too few to reach the voids: 7 × 10⁻⁶ per place over the universe's age, 4 to 5 orders short, counting nucleons at today's void density with each renewal reaching a nucleon's own size. That flips if a free nucleon's pattern spans its whole wave packet (about 10⁷ per place), and leaves out dark patterns, relic neutrinos and the denser past. If it holds, evenness to the table's limits has to come with a place's birth, since the far-travelled neutrino crossed voids. Candidate.
+
+## What needs the lattice
+
+The lattice adds two things to a web of relations: regular axes, and a rest frame (one tick common to every place). The uneven webs above drop the first and keep the second.
+
+| needs | results |
+|---|---|
+| neither a lattice nor a smallest length | one-way time; the clock rate, redshift, free fall; the moving clock; gravity's source following engagements; N and the echo test; the shared commitment in a nucleon; Einstein's equations by identification (continuum; assumes Lorentz-invariant interactions) |
+| a smallest length ℓ | G's form, δc³ℓ²/ħ (the 4π is the cubic lattice's, d = 6); capacity per place; the first ball's count (its size at the upper end uses the neutrino bound, two rows down) |
+| the lattice as the web computed on | Newton's 1/r and three dimensions; Dirac's and Maxwell's equations; the atoms; confinement by identification; linearised Einstein; the gravity runs on matter's step; runs C15–C18; the extra copies of each particle (an uneven web alone does not remove them). Candidate that another web with the same long-wavelength form gives the same; shown for a free massless pattern on a few uneven webs in two dimensions (above) |
+| a rest frame | the photon ceiling; the neutrino flavour term; the synchrotron bound; the bounds on ℓ and δ from them; free fall's (1 + rm) and the copies' fall at 0.6; the tunings (equal top speeds, a counter-term per mass, the straight form for fields) |
+| regular axes as well | the ceiling's sky pattern; isotropy only up to (kℓ)²; the excluded sequential hop order |
+
+The tests in the last two rows are conditional on the web having what the lattice has. An uneven web with a common tick keeps the speed excess, so the ceiling and the neutrino term are expected on it, and its unevenness may add scattering (the limits on ε above). No web without a rest frame has been run, free or interacting; that such a web is free of the tunings is not shown.
+
+Now is the commitment (reading). A common tick is a now for the whole lattice. The posited rule asks less: a commitment draws on everything that could have reached it. What orders two commitments on a web without a common tick is open.

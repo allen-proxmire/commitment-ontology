@@ -2,6 +2,8 @@
 
 *For ultra-high-energy gamma-ray and cosmic-ray observatories (LHAASO, Tibet ASγ, HAWC, SWGO, the Pierre Auger Observatory, Telescope Array). One page; detail in [`OPEN_DIRECTIONS_notes/prediction_map.md`](../OPEN_DIRECTIONS_notes/prediction_map.md).*
 
+*Conditional.* CO is computed on a cubic lattice, a stand-in for its web of relations. The ceiling needs the web to have a smallest length and a rest frame of its own, as the lattice has; the pattern across the sky needs the lattice's regular axes as well.
+
 **The question.** Is there an energy above which no photon arrives from a given direction, the same for every source in that direction whatever its distance?
 
 **Two answers.**
@@ -10,7 +12,7 @@
 
 $$E_{\rm th}=C\sqrt{m_ec^2\,\hbar c/\ell},\qquad C=2.9\text{–}5.1$$
 
-by direction against the lattice. (This follows from one choice in the framework, keeping a lattice with a real frame; it is not part of the framework's core idea.) Above threshold the decay length is far shorter than any source distance, so a photon could cross kiloparsecs only within about 10⁻²⁰ of threshold.
+by direction against the lattice. (This follows from the lattice's rest frame, not from the framework's core idea.) Above threshold the decay length is far shorter than any source distance, so a photon could cross kiloparsecs only within about 10⁻²⁰ of threshold.
 
 **The mark.**
 1. A ceiling common to every source in a direction, near or far (absorption on the microwave background depends on distance).

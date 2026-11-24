@@ -5,6 +5,8 @@ CO is an ontology with two primitives, possibility and commitment.
 - A *commitment* is an irreversible event that engages possibility.
 Time is the count of commitments, matter is what keeps re-committing, and gravity is the pull toward where commitments run slow. From these it reaches gravity and, largely by identification with known constructions, quantum mechanics up to 1930 for a fixed number of particles.
 
+The network is computed on as a cubic lattice. The lattice is a stand-in for the web of relations, the simplest web to compute on; what needs the lattice itself is listed in [`ONE_PAGE.md`](ONE_PAGE.md).
+
 GR has no global now; QM has no event. CO takes both as primitives, which places it among event theories (Haag's programme, Blanchard–Jadczyk) rather than collapse models.
 
 It is incomplete, and says where.
@@ -16,7 +18,7 @@ It is incomplete, and says where.
 - Measured values: G, c, ħ, 1/137, the particle masses.
 - From quantum mechanics: the Born rule as an identification, Lüders conditioning, the joint law of an entangled pair, an interaction's coupling and pointer basis.
 - For gravity beyond linear order: no backdrop at every order, locality, two derivatives, Lorentz-invariant interactions, the metric identification.
-- Tunings (the speed tuning chosen: the lattice's frame is kept because it carries CO's photon and neutrino tests; the one exit would remove the photon test, and in Snyder's form the neutrino test too): equal top speeds for every species, set by hand; a counter-term per fermion mass (unless matter is bound to a wall, candidate); a straight lattice form for light, gluons and gravity (posited).
+- Tunings (they come with the lattice's rest frame; whether a web without one is free of them is open. The frame is kept in the stand-in, the speed tuning chosen: it carries the photon and neutrino tests): equal top speeds for every species, set by hand; a counter-term per fermion mass (unless matter is bound to a wall, candidate); a straight lattice form for light, gluons and gravity (posited).
 
 **What comes out.**
 - *Gravity* ([`SPACE_AND_GRAVITY.md`](SPACE_AND_GRAVITY.md)): Newton, redshift, free fall; light bending, the Shapiro delay and Mercury's precession once data fix γ = 1 and β = 1; linearised Einstein forced, given no backdrop, locality and two derivatives; full Einstein the only consistent continuation, given the inputs above (continuum). On CO's own step in one and two dimensions, with free fall and light bending also in three (weak uniform field; free fall alike along an axis and a body diagonal) (chosen, candidate): free fall, light bending, the shift's pushes, a fall through a horizon, a 2D black hole and a radial collapse to one, as Einstein has them.
@@ -28,7 +30,7 @@ It is incomplete, and says where.
 **How it could fail.**
 - *Gravity that entangles.* CO's gravity follows what a body engages, not its unresolved state (chosen, candidate), so two masses entangled through gravity alone would falsify it.
 - *A stopping number that isn't universal.* Measurement completes at N quanta, the same N in every system. Present data: N ≳ 50 ([the test](TESTS_FOR_EXPERIMENTERS/stopping_number_echo.md)).
-- *Photons that split* (candidate test; a side effect of one choice, keeping a lattice with a real frame, not part of CO's core). Above E_th = C√(mₑc²·ħc/ℓ), C = 2.9–5.1 by direction, photons should split into electron pairs, with one ceiling per direction whatever the source's distance. Highest seen: 3.7 PeV (LHAASO). A confirmed photon above about 2.1 × 10¹⁷ eV would exclude CO's form of light. Conditional on a composite's speed excess following its parts (an imported result).
+- *Photons that split* (candidate test of the lattice, not of CO's core: it needs the web of relations to have a rest frame of its own, as the lattice has; the sky pattern needs the lattice's regular axes as well). Above E_th = C√(mₑc²·ħc/ℓ), C = 2.9–5.1 by direction, photons should split into electron pairs, with one ceiling per direction whatever the source's distance. Highest seen: 3.7 PeV (LHAASO). A confirmed photon above about 2.1 × 10¹⁷ eV would exclude CO's form of light on the lattice. Conditional on a composite's speed excess following its parts (an imported result).
 
 Notes for the experiments that could check these: [`TESTS_FOR_EXPERIMENTERS/`](TESTS_FOR_EXPERIMENTERS/).
 

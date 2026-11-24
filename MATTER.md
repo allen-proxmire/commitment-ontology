@@ -20,7 +20,7 @@ $$p=\left|\sqrt{p_1}\,e^{i\theta_1}+\sqrt{p_2}\,e^{i\theta_2}\right|^2 .$$
 
 $$\ell\lesssim 2.4\times10^{-31}\ \text{m}\quad(\text{photon}),\qquad \ell\lesssim 1.0\times10^{-32}\ \text{m}\quad(\text{neutrinos}),\qquad \ell\lesssim 3.2\times10^{-32}\ \text{m}\quad(\text{synchrotron}).$$
 
-With ℓ = ℓ_P√(4π/δ) these give δ ≳ 6 × 10⁻⁸, δ ≳ 3 × 10⁻⁵ and δ ≳ 3 × 10⁻⁶.
+With ℓ = ℓ_P√(4π/δ) these give δ ≳ 6 × 10⁻⁸, δ ≳ 3 × 10⁻⁵ and δ ≳ 3 × 10⁻⁶. All three need the web to have the lattice's rest frame (the lattice is a stand-in; [`ONE_PAGE.md`](ONE_PAGE.md)).
 
 **The Dirac equation.** Matter's step is one tick of the lattice Dirac flow with a Wilson term (candidate; chosen):
 
