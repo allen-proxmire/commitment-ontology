@@ -344,6 +344,22 @@ The staggered walk's costs stand as recorded above: every pattern in two kinds, 
 
 Grade: reading.
 
+## Pointing, spin, face (reading)
+
+A picture of a quark with its three labels. Draw it as a triangle. Which way it points, up or down, is its kind. Its spin is its hand. The face it shows another quark is its colour. Up-down-up is the proton and down-up-down the neutron, each the other flipped. The pointing is the label that changes when a neutron becomes a proton, the weak interaction's own label (weak isospin), and the colourless patterns have it too: the neutrino and the electron are one pair. The step between the two pointings is one unit of charge in every pair. C10 takes the pointing as a label at each place (chosen, candidate); a field of its own for it is a shape.
+
+## The flip with a direction (desk)
+
+A field that turns the kind of the left-handed part alone cannot leave the mass flip as it is, since the flip joins a pattern's two hands (C6). The flip must then carry a direction in kind space, set at each place: the Higgs field's place in the standard theory. Checked for one pattern in two kinds on the flow step, eight components at a place, with one direction everywhere ([`flip_direction.py`](../RECORD_OF_METHOD/NUCLEUS_notes/flip_direction.py)); G₅ = −iα_xα_yα_z (minus the G of the handedness check above, so left here is right there), P_L = (1 − G₅)/2, the turn g_L = P_R ⊗ 1 + P_L ⊗ g, the flip βP_L ⊗ A + βP_R ⊗ A†:
+
+- With the mass and the lifting term both carrying the direction, the step turns with the direction exactly, g_L U(A) g_L† = U(A g†), and no energy depends on the direction. This is an identity of the form for one direction everywhere; a direction that varies from place to place is not run. The two kinds' masses are A's two singular values, so they can differ.
+- With the lifting term left as it is, the energies depend on the direction: the mass runs between |m − w| and m + w, w = rΣ(1 − cos k_j), a part in 10⁴ at kℓ = 0.01 for m = 0.1. That is the free pattern; with the fields live a bare lifting term breaks the symmetry at the hop scale.
+- With no lifting term the turn is exact, and the copies at the zone's corners return: of the eight, the part P_L picks is left-handed at four and right-handed in effect at four, so the field would not be one-handed.
+
+So the form is open to CO: a flip with a direction, the lifting term carrying it too. That is Smit and Swift's construction, and with the fields live it does not give a one-handed theory in the continuum (reviewed by Golterman and Petcher, hep-lat/9207004). The copies' masses would also come from the direction field, so its size or its coupling would sit at the hop scale. The routes that stand: Ginsparg–Wilson fermions (Lüscher; a construction for SU(2) × U(1) with exact gauge invariance in Kadoh and Kikukawa, arXiv:0709.3658, with restrictions and without colour's field), which the locality ruling allows and which would replace the step's form; or the pattern together with its mirror, the mirror gapped by interactions (above). An uneven web is not known to help: random lattices fall outside the theorem behind the copies and lose them for free patterns, but with a gauge field on, the copies came back (Griffin and Kieu, hep-lat/9307011, two dimensions).
+
+Grade: reading.
+
 ## One pattern, three seats, a pool on loan (run C16f)
 
 A picture of the nucleon in CO's two primitives. A nucleon is one whole with one clock. Its commitment is one event with three seats in it, the quarks: they share the commitment, and so the clock; a quark has none of its own (chosen, candidate). Between them is a pool of trapped possibility, in transit: the colour field, shaped by where the three are. Between commitments the quarks hand off to the pool and take back from it. The commitment is on loan: almost none of the nucleon's rate is the quarks' own mass.

@@ -122,7 +122,7 @@ With tuning chosen, A's frame part is settled (tuned), and loops on the lattice 
 
 ## Refresh after C9 (12 Nov, evening)
 
-B splits in two: B1, colour (now C9, candidate) and B2, the kind label (not ruled).
+B splits in two: B1, colour (now C9, candidate) and B2, the kind label (C10, chosen, candidate; its field a shape).
 
 | open item | waits on |
 |---|---|

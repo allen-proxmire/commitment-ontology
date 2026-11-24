@@ -1,0 +1,8 @@
+G5: squares to one True ; commutes with the alphas True ; anticommutes with beta True
+(1) lifting term carrying the direction: | g_L U(V) g_L^dagger - U(V g^dagger) | = 9.2e-16
+(2) |k| = 1.0, m = 0.1: lifting term w = 2.40e-01; form (a): top energy spread over directions 3.3e-16; form (b): energies range 0.93030 to 0.98049 with the direction (masses between |m - w| = 0.13979 and m + w = 0.33979)
+(2) |k| = 0.1, m = 0.1: lifting term w = 2.50e-03; form (a): top energy spread over directions 1.4e-16; form (b): energies range 0.13961 to 0.14314 with the direction (masses between |m - w| = 0.09750 and m + w = 0.10250)
+(2) |k| = 0.01, m = 0.1: lifting term w = 2.50e-05; form (a): top energy spread over directions 4.2e-17; form (b): energies range 0.10047 to 0.10052 with the direction (masses between |m - w| = 0.09998 and m + w = 0.10002)
+    a general A at k = 0: the two kinds' masses are A's singular values 0.5225, 1.8765; energies found 0.5225, 1.8765
+(3) r = 0: the pattern's own helicity times G5, positive-energy states, at each corner of the zone (1 = that axis at pi):
+    (0, 0, 0): +1.00; (0, 0, 1): -1.00; (0, 1, 0): -1.00; (0, 1, 1): +1.00; (1, 0, 0): -1.00; (1, 0, 1): +1.00; (1, 1, 0): +1.00; (1, 1, 1): -1.00 -> 4 as at the origin, 4 reversed
