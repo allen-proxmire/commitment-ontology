@@ -1,0 +1,3 @@
+kind label with a one-handed field, without a right-handed neutrino: conditions hold at the known charges to 2e-16; free numbers left: 0
+kind label with a one-handed field, with a right-handed neutrino: conditions hold at the known charges to 2e-16; free numbers left: 1
+light and colour only (each pattern's two hands charged alike): no condition; Q_u, Q_d free (2 numbers), and the unit step between kinds is not forced
