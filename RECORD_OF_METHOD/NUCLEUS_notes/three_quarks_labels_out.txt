@@ -1,0 +1,12 @@
+1. kind label alone: symmetric wholes: 4 ; total kind-spin T(T+1) = [np.float64(3.75)] (3.75 = T 3/2: uuu, uud, udd, ddd, the all-alike family; no T = 1/2)
+   kind and spin: symmetric wholes: 20 ; (S(S+1) + 10 T(T+1)) : count = {np.float64(8.25): 4, np.float64(41.25): 16} (8.25 = S 1/2, T 1/2: 4 states, proton and neutron; 41.25 = S 3/2, T 3/2: 16 states)
+2. fit: m_u = 363 MeV, m_s = 537 MeV, A/m_u^2 = 197 MeV
+   N       measured   938.9  model   941.4  off by +0.3%
+   Lambda  measured  1115.7  model  1115.7  off by +0.0%
+   Sigma   measured  1193.2  model  1179.8  off by -1.1%
+   Xi      measured  1318.3  model  1327.3  off by +0.7%
+   Delta   measured  1232.0  model  1237.5  off by +0.4%
+   Sigma*  measured  1384.6  model  1379.8  off by -0.3%
+   Xi*     measured  1533.4  model  1527.3  off by -0.4%
+   Omega   measured  1672.5  model  1680.0  off by +0.5%
+   largest miss 1.1%; eight masses, three numbers; proton's share: quarks 1089, spin term -148

@@ -318,6 +318,18 @@ At weak field 3 to 2 is forced, by the colour rule. In a colour-neutral whole of
 
 Grade: reading; the identity is imported with the colour rule (C9). It gives equal shares by count a reason; it does not say whether each quark commits or only the whole.
 
+## Three quarks: what the labels must do (desk; imported)
+
+*The count.* In a neutral three the colour part is antisymmetric. If the three share one orbital, what is left of their state must be symmetric under swaps. With an up/down label alone there are 4 such wholes, one family alike in kind (uuu, uud, udd, ddd; T = 3/2), and no proton. With an up/down label and a spin there are 20: 4 with spin ½ and T = ½, the proton and the neutron, and 16 with spin 3/2 and T = 3/2. So the proton needs two two-way labels, the kind and the spin; uuu is allowed only with total spin 3/2. The chains of runs C16–C18 have one kind of quark, and no spin, so they hold no proton ([`three_quarks_labels.py`](../RECORD_OF_METHOD/NUCLEUS_notes/three_quarks_labels.py)).
+
+*The masses.* A dressed quark each plus a term for the spins,
+
+M = Σ m_i + A Σ_{i<j} S_i · S_j / (m_i m_j)
+
+(the spin term from De Rújula, Georgi and Glashow 1975; the fit as in Griffiths' textbook), three numbers fitted by least squares on the relative error to the eight ground-state families (octet and decuplet): m_u = 363 MeV, m_s = 537 MeV, A/m_u² = 197 MeV; largest miss 1.1% (the Σ). The splittings are a sterner test: Σ − Λ comes out 64 against 77.5 MeV. The proton is 1089 from its three dressed quarks less 148 from the spins, 941 against 939: the spin term takes 14% off the quarks' sum.
+
+Grade: reading; imported (the quark model). CO supplies neither the dressed masses nor A.
+
 ## One pattern, three seats, a pool on loan (run C16f)
 
 A picture of the nucleon in CO's two primitives. A nucleon is one whole with one clock. Its commitment is one event with three seats in it, the quarks: they share the commitment, and so the clock; a quark has none of its own (chosen, candidate). Between them is a pool of trapped possibility, in transit: the colour field, shaped by where the three are. Between commitments the quarks hand off to the pool and take back from it. The commitment is on loan: almost none of the nucleon's rate is the quarks' own mass.
