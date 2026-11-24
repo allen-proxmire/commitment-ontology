@@ -1,0 +1,4 @@
+1b. two species, exchange sign only: uuu 4 + ddd 4 + uud (2 + 4) + udd (2 + 4) = 20 ; spin 1/2: 4 (proton, neutron), spin 3/2: 16. The same 20: no rule beyond the exchange sign.
+3. the step's four (C6): operators at a place commuting with alpha_x, alpha_y, alpha_z, beta: 1 (1 = multiples of the identity: no room for a label)
+   the staggered cell's eight: commuting operators: 4 (4 = the identity and three more: one two-way label)
+   the three tau commute with the alphas and beta to 0e+00; with the spin to 0e+00; they close as a two-way label's rotations to 0e+00; spin S(S+1) on the eight: [np.float64(0.75)]

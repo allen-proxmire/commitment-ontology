@@ -330,6 +330,18 @@ M = Σ m_i + A Σ_{i<j} S_i · S_j / (m_i m_j)
 
 Grade: reading; imported (the quark model). CO supplies neither the dressed masses nor A.
 
+## Room for the up/down label (desk)
+
+The count of 20 above follows from the exchange sign (P8b, candidate) with up and down as two species: like quarks symmetric in spin, uuu and ddd with spin 3/2 (4 each), uud and udd with ½ or 3/2 (2 + 4 each). It assumes colour antisymmetric (imported), all three in one orbital, equal masses and a force blind to kind. It does not put the proton below the spin-3/2 family; that takes the spin term's sign.
+
+Where the label can sit ([`label_room.py`](../RECORD_OF_METHOD/NUCLEUS_notes/label_room.py)):
+- *On the step's four (C6).* The operators at a place that commute with the step's own set (α_x, α_y, α_z, β) are the multiples of the identity alone. There is no room: up and down are two species put in, as C9 lists them.
+- *On the earlier staggered walk's cell of eight places (shape, held).* The operators within a cell that commute with its α's and β are four: the identity and three that turn one two-way label. The eight is a Dirac four twice over, once per kind. (They commute with the spin built from the α's, as they must; whether the lattice's own rotations turn kind together with spin, as for standard staggered fermions, is not checked.)
+
+The staggered walk's costs stand as recorded above: every pattern in two kinds, the electron's too; the label kept by the free walk only to order (qℓ)², and whether couplings change the kind open; the exact label's reach fading as a power, not fast, and not at one place, so it cannot be gauged; a charge that differs between the kinds excluded while C6 is exact; and on the flow step the two kinds are gone. So on CO's present step there is no built-in label, and where there was one it gave the proton's count at the free level, not the charges.
+
+Grade: reading.
+
 ## One pattern, three seats, a pool on loan (run C16f)
 
 A picture of the nucleon in CO's two primitives. A nucleon is one whole with one clock. Its commitment is one event with three seats in it, the quarks: they share the commitment, and so the clock; a quark has none of its own (chosen, candidate). Between them is a pool of trapped possibility, in transit: the colour field, shaped by where the three are. Between commitments the quarks hand off to the pool and take back from it. The commitment is on loan: almost none of the nucleon's rate is the quarks' own mass.
