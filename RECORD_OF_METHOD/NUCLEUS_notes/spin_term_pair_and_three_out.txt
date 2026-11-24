@@ -1,0 +1,5 @@
+pairs: m_u = 308, m_s = 486 MeV, A = 6.036e+07 MeV^3 (A/m_u^2 = 637 MeV); misses: pi +0%, K -1%, rho -0%, K* +0%, omega -1%, phi +2%
+threes: m_u = 363, m_s = 537 MeV, A = 2.603e+07 MeV^3 (A/m_u^2 = 197 MeV)
+A_pair / A_three = 2.32   (colour rule: 2)
+the same from two splittings alone: (rho - pi) m_pair^2 / ((Delta - N) m_three^2) x (3/2) = 2.34
+dressed quark in a pair 308, in a three 363: ratio 1.18

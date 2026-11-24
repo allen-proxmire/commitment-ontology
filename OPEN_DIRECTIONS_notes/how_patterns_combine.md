@@ -330,6 +330,8 @@ M = Σ m_i + A Σ_{i<j} S_i · S_j / (m_i m_j)
 
 (the spin term from De Rújula, Georgi and Glashow 1975; the fit as in Griffiths' textbook), three numbers fitted by least squares on the relative error to the eight ground-state families (octet and decuplet): m_u = 363 MeV, m_s = 537 MeV, A/m_u² = 197 MeV; largest miss 1.1% (the Σ). The splittings are a sterner test: Σ − Λ comes out 64 against 77.5 MeV. The proton is 1089 from its three dressed quarks less 148 from the spins, 941 against 939: the spin term takes 14% off the quarks' sum.
 
+*The spin term in a pair and in a three.* If the spin term is the colour field's (one exchange), its strength carries the pair's colour product: −4/3 for a quark with an antiquark, −2/3 for each pair in a three (their sum is −(n/2)C_F, as in run C18b). For wholes of the same size A should then be twice as large in mesons as in baryons. Fitted the same way to π, K, ρ, ω, K*, φ (misses up to 2%): m_u = 308 MeV, m_s = 486 MeV, A/m_u² = 637 MeV, against 363, 537 and 197 in the baryons. A_pair/A_three = 2.3 against 2 (2.3 also from ρ − π and Δ − N with the fitted masses). That is consistent with the colour rule's 2; A also carries the whole's size, which the rule does not fix, and the pion, light for a reason of its own, carries much of the meson fit; η and η′ are left out ([`spin_term_pair_and_three.py`](../RECORD_OF_METHOD/NUCLEUS_notes/spin_term_pair_and_three.py)).
+
 Grade: reading; imported (the quark model). CO supplies neither the dressed masses nor A.
 
 ## Room for the up/down label (desk)
