@@ -1,0 +1,11 @@
+N = 3, field off: a quark costs 0.3360, an antiquark 0.3360; pair 0.6720, three quarks 1.0079
+   g = 0.5: pair 0.7099, three 1.0658 (ratio 1.501); field's part: pair +0.0379, three +0.0579; P_B/P_M = 1.525   (0 s)
+   g = 1.0: pair 0.8324, three 1.2673 (ratio 1.523); field's part: pair +0.1604, three +0.2594; P_B/P_M = 1.617   (0 s)
+   g = 1.5: pair 0.9671, three 1.5146 (ratio 1.566); field's part: pair +0.2951, three +0.5067; P_B/P_M = 1.717   (0 s)
+   g = 2.0: pair 1.0242, three 1.5954 (ratio 1.558); field's part: pair +0.3522, three +0.5874; P_B/P_M = 1.668   (0 s)
+N = 4, field off: a quark costs 0.2835, an antiquark 0.2835; pair 0.5671, three quarks 0.8506
+   g = 1.0: pair 0.7742, three 1.1855 (ratio 1.531); field's part: pair +0.2071, three +0.3349; P_B/P_M = 1.617   (13 s)
+   g = 1.5: pair 0.9495, three 1.5049 (ratio 1.585); field's part: pair +0.3825, three +0.6543; P_B/P_M = 1.711   (23 s)
+   g = 2.0: pair 1.0232, three 1.5998 (ratio 1.563); field's part: pair +0.4562, three +0.7492; P_B/P_M = 1.642   (52 s)
+N = 3, g = 0.1: field part pair +0.00140, three +0.00211; P_B/P_M = 1.501   (weak-field check, added after the run)
+N = 3, g = 0.25: field part pair +0.00896, three +0.01349; P_B/P_M = 1.506   (weak-field check, added after the run)

@@ -298,6 +298,26 @@ The energies of the neutral sets (three quarks 1.3 to 1.6, quark with antiquark 
 
 Grade: reading. The three-state colour kind (C9) on the step, with its field, gives a neutral three and a neutral first excitation, and strings on one quark and on two, with the quarks moving. The exact rises check the code more than the step. One dimension; chains of 3 and 4 places; a tail added by hand.
 
+## Equal shares by count (run C18b)
+
+Is a quark's share of what the field adds the same in a pair as in a three? On run C18's chain (bare mass 0, no tail), take each neutral whole's energy above the vacuum, less what its quarks cost with the field off: the shift from switching the field on, S_M for a quark with an antiquark, S_B for three quarks.
+
+| g | S_M | S_B | S_B/S_M |
+|---|---|---|---|
+| 0.1 (3 places) | 0.0014 | 0.0021 | 1.50 |
+| 1.0 | 0.207 | 0.335 | 1.62 |
+| 1.5 | 0.383 | 0.654 | 1.71 |
+
+(4 places unless marked; 3 places gives 1.53, 1.62, 1.72 at g = 0.5, 1, 1.5. At g = 2 each level is near a crossing with a second neutral level and the ratio is not read.) Both levels are colour singlets and not degenerate.
+
+At weak field 3 to 2 is forced, by the colour rule. In a colour-neutral whole of n quarks or antiquarks the total colour is zero, (Σ T_i)² = 0, so the pairs' colour products sum to
+
+Σ_{i<j} T_i · T_j = −(n/2) C_F,  C_F = 4/3:
+
+−4/3 for a pair, −2 for a three, each quark carrying the same 2/3. When the quarks share one orbital, as here, the shift to first order in g² is then n C_F times half the mean distance between two of them: the string's energy, and 3 to 2. Count and string say the same thing; the run checks the identity on the step and does not choose between them. What the run adds is the stronger field: at g = 1 to 1.5 a quark in the three carries 8–15% more than one in the pair (2% at g = 0.5). In the hadrons the fitted mass of a dressed quark is likewise larger in baryons than in mesons in the usual constituent-quark fits, about 360 against 310 MeV (fit-dependent); one dimension and four places make the likeness no test.
+
+Grade: reading; the identity is imported with the colour rule (C9). It gives equal shares by count a reason; it does not say whether each quark commits or only the whole.
+
 ## One pattern, three seats, a pool on loan (run C16f)
 
 A picture of the nucleon in CO's two primitives. A nucleon is one whole with one clock. Its commitment is one event with three seats in it, the quarks: they share the commitment, and so the clock; a quark has none of its own (chosen, candidate). Between them is a pool of trapped possibility, in transit: the colour field, shaped by where the three are. Between commitments the quarks hand off to the pool and take back from it. The commitment is on loan: almost none of the nucleon's rate is the quarks' own mass.
