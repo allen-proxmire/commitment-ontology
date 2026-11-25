@@ -43,7 +43,7 @@
 - *A rest frame* (every web run so far has one): the photon ceiling, the neutrino flavour term, the synchrotron bound, the bounds on ℓ and δ drawn from them, free fall's factor (1 + rm), the tunings below.
 - *Regular axes as well:* the ceiling's sky pattern; isotropy only up to (kℓ)².
 
-Now is the commitment (reading). A common tick is a now for the whole lattice; what orders two commitments on a web without one is open, and no run has been made without a common tick.
+Now is the commitment (reading). Two things share a now only when they commit together: in an engagement (C8), or in the one commitment of a bound whole. A common tick is a now for the whole lattice; what orders two commitments on a web without one is open, and no run has been made without a common tick.
 
 **Tunings.** These come with the lattice's rest frame; that a web without one is free of them is not shown. The lattice's frame is kept in the stand-in (the speed tuning, chosen): it carries the photon and neutrino tests, and the one exit on the lattice (coordinates that do not commute) would remove the photon test, in Snyder's form the neutrino test too, along with places definite in every direction.
 - The lattice picks a rest frame. Its loops would give species different top speeds; counter-terms set by hand keep them equal to the 10⁻²⁰ the data require (one per species and handedness, the same in every direction). CO stands at tree level; the one exit known on a lattice is a network whose coordinates do not commute.
