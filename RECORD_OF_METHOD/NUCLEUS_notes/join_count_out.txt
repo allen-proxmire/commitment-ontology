@@ -1,0 +1,30 @@
+
+ring-to-ring join: False
+  H-2           holds.  with the full join: 1 full + 0 weak;  without: none
+  He-5          does not hold
+  He-6          holds.  with the full join: none;  without: 3 weak
+  Li-6 alike    holds.  with the full join: 1 full + 2 weak;  without: 3 weak
+  Li-6 opposed  holds.  with the full join: none;  without: 3 weak
+  Li-7          holds.  with the full join: 1 full + 4 weak;  without: 6 weak
+  Be-8          does not hold
+  Be-9          does not hold
+  B-10 alike    holds.  with the full join: none;  without: 4 weak
+  B-10 opposed  holds.  with the full join: none;  without: 4 weak
+  B-11          holds.  with the full join: 1 full + 4 weak;  without: 6 weak
+  C-12          does not hold
+  C-13          does not hold
+
+ring-to-ring join: True
+  H-2           holds.  with the full join: 1 full + 0 weak;  without: none
+  He-5          does not hold
+  He-6          holds.  with the full join: none;  without: 3 weak
+  Li-6 alike    holds.  with the full join: 1 full + 2 weak;  without: 3 weak
+  Li-6 opposed  holds.  with the full join: none;  without: 3 weak
+  Li-7          holds.  with the full join: 1 full + 4 weak;  without: 6 weak
+  Be-8          does not hold
+  Be-9          holds.  with the full join: none;  without: 3 weak
+  B-10 alike    holds.  with the full join: 1 full + 3 weak;  without: 5 weak
+  B-10 opposed  holds.  with the full join: none;  without: 5 weak
+  B-11          holds.  with the full join: 1 full + 5 weak;  without: 7 weak
+  C-12          holds.  with the full join: none;  without: 3 weak
+  C-13          holds.  with the full join: none;  without: 5 weak

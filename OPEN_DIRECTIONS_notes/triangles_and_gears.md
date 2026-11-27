@@ -28,13 +28,14 @@ A nucleon's own turning is its alike pair's.
 | The two stackings are the same drawing with the kinds swapped | Nuclear forces are nearly the same with protons and neutrons swapped (helium-3 and tritium are mirror partners), and part of the force exchanges the two |
 | At a join the single touches both of the pair, so it turns against them. That makes the two nucleons turn the same way. With the nucleons opposed the three at the join all turn alike: a weak join | The deuteron has spin 1. The pair with spins opposed is not bound, though it nearly is |
 | Three: the two alike nucleons are opposite (rule 3), so one join is full and one is weak, and the spin left over is the unpaired nucleon's | Helium-3: spin ½, magnetic moment −2.13 against the neutron's −1.91. Tritium: spin ½, 2.98 against the proton's 2.79 |
-| Four in a ring, joins full and weak by turns: every bonding face is used and the spins cancel. Rule 3 allows no larger body | Helium-4: spin 0, bound far more tightly than its neighbours (7.1 MeV a nucleon against 1.1 for the deuteron and 2.6 to 2.8 for the threes) |
-| A closed ring has no bonding face left: a fifth cannot bond, and two rings do not bond | No stable nucleus of five; beryllium-8 falls apart into two helium-4 |
+| Four, the row bent round into a ring (not flat; see below), joins full and weak by turns: every bonding face is used and the spins cancel. Rule 3 allows no larger body | Helium-4: spin 0, bound far more tightly than its neighbours (7.1 MeV a nucleon against 1.1 for the deuteron and 2.6 to 2.8 for the threes) |
+| A closed ring has no single or double side left: a fifth cannot bond, and two rings do not bond | No stable nucleus of five; beryllium-8 falls apart into two helium-4 |
 
 ## Where it misses
 
 - **Beyond four there is nothing.** By rule 3 a body holds two of each, and a closed ring bonds to nothing. Lithium, beryllium, carbon and the rest need another state for the extra particles and another kind of join. In the standard account the extra particles take the next state, which carries one unit of orbital motion; the rules have no orbital motion (a trial of it is below).
-- **A second join is not settled.** A side set into the notch between two unlike triangles would let a straight pair hang on a ring (lithium-6: spin 1, magnetic moment 0.82 against the deuteron's 0.86) and a neutron sit between two rings (beryllium-9). As it stands it is too easy: it would also bind two protons, a fifth on a ring (helium-5 is unbound) and ring to ring. It gives lithium-7 and beryllium-9 spin ½ where they have 3/2.
+- **The ring does not close flat.** Each stacked nucleon sits above the last, so four in a row end with a single side free at the top and its matching double side free at the bottom. Joining those two means bending the row round out of the page into a band. The band's outline is not drawn.
+- **A second join is a trial** (below).
 - **The three at a join are not a whole.** Three alike quarks, two one way and one the other, is the arrangement quark exclusion forbids for a real three-quark particle.
 - **No charge, no parity, no shape.** Tritium and helium-3 differ in binding, heavy nuclei hold more neutrons than protons, and the deuteron is slightly stretched; none of these is in the picture.
 - **No masses and no energies** come out, only yes or no and the spins.
@@ -49,12 +50,26 @@ spin = 1 + ½ = 3/2
 |---|---|
 | One outside a ring, or the one left over of three: spin 3/2 | Lithium-7, beryllium-7, beryllium-9, boron-11, carbon-11: 3/2. Helium-5 and lithium-5 do not hold; their lowest state is 3/2 |
 | Two alike outside, turning opposite: 0 | Helium-6, beryllium-10: 0 |
-| A proton and neutron outside: 3 turning alike, 0 turning opposite; rolling does not pick | Boron-10: 3. Lithium-6: 1, with 3 its first excited state |
+| A proton and neutron outside. Joined, turning alike: 3 if they circle the same way round; 1 if they circle opposite ways and the circling cancels. Turning opposite, each circling with its turning: 0 (circling the same way: 2) | The three lowest states of lithium-6 are 1, 3, 0 and of boron-10 3, 1, 0. Lithium-6's magnetic moment is 0.82 against the deuteron's 0.86 |
 | Circling and turning in the same sense | In nuclei the state with the two aligned lies lower, the reverse of the atom's order. The standard account took this sign from the data (1949) |
 
-Where it misses. Lithium-6. Everything odd beyond carbon-12: carbon-13, nitrogen-13, nitrogen-15 and oxygen-15 have spin ½ and nitrogen-14 has 1, where rolling gives 3/2 and 3; the standard account fills the aligned state at twelve, and rolling never fills. Magnetic moments are not given (no charge); borrowing the textbook single-particle values, lithium-7 is 3.79 against 3.26, beryllium-9 −1.91 against −1.18, boron-10 1.88 against 1.80. Nuclei with more than two alike outside the rings (helium-8, lithium-8, lithium-9) cannot be built.
+Where it misses. The order: nothing says why the pair cancels its circling beside one ring and not between two, and in the spin 1 state one of the two circles against its turning, so rolling is a preference and not a must. Everything odd beyond carbon-12: carbon-13, nitrogen-13, nitrogen-15 and oxygen-15 have spin ½ and nitrogen-14 has 1, where rolling gives 3/2 and 3; the standard account fills the aligned state at twelve, and rolling never fills. Magnetic moments are not given (no charge); borrowing the textbook single-particle values, lithium-7 is 3.79 against 3.26, beryllium-9 −1.91 against −1.18, boron-10 1.88 against 1.80. Nuclei with more than two alike outside the rings (helium-8, lithium-8, lithium-9) cannot be built.
 
-What is put in. The one unit of circling. That the nucleon rolls outside the ring: rolling inside would circle the other way, so the sign comes with that choice. That with two rings the circling is still one unit: a wheel held between two still wheels would not roll. What holds a nucleon to a ring is still not settled (above). Desk check: [`joins_and_rolling.py`](../RECORD_OF_METHOD/NUCLEUS_notes/joins_and_rolling.py).
+What is put in. The one unit of circling. That the nucleon rolls outside the ring: rolling inside would circle the other way, so the sign comes with that choice. That with two rings the circling is still one unit: a wheel held between two still wheels would not roll. What holds a nucleon to a ring is the next trial. Desk check: [`joins_and_rolling.py`](../RECORD_OF_METHOD/NUCLEUS_notes/joins_and_rolling.py).
+
+## A trial: the flank join
+
+Not a rule yet. A nucleon's two slanted flanks are each one side of an alike quark. Flank on flank is one side on one side: a second join, not rule 1's one fits two, and unlike kinds can meet. By rule 2 the two nucleons turn opposite ways. One flank join does not hold two parts together; two do. It obeys rule 2 and still does not hold alone: that is put in, not taken from rule 2. A piece is a ring or a single nucleon.
+
+| Given, if any two pieces meet at one flank only | Observed |
+|---|---|
+| One outside a ring, two alike nucleons alone, ring with ring: one flank join, not held | Helium-5 and lithium-5 do not hold; two protons and two neutrons do not; beryllium-8 falls apart, by 0.09 MeV |
+| Three pieces, each meeting the other two: held, though no two of them hold alone | Helium-6 (ring and two neutrons), beryllium-9 (two rings and a neutron), carbon-12 as three rings: each holds, and no two of its three pieces do |
+| A joined pair or three with a flank each on a ring: held | Lithium-6, lithium-7 |
+
+Where it misses. It holds beryllium-6 and boron-9, which fall apart (the picture has no charge). Counting joins does not rank arrangements: three flank joins are worth 0.97 MeV in helium-6, 1.57 in beryllium-9 and 7.27 in carbon-12.
+
+What is put in. That one does not hold and two do. That two pieces meet at one flank only: a nucleon's flanks face 120° apart, so whether a ring can take both depends on the band's outline, which is not drawn. With that put in, the first two rows are close to built in. Desk check of the holding count, run on an earlier side-in-notch join with ring to ring allowed: [`join_count.py`](../RECORD_OF_METHOD/NUCLEUS_notes/join_count.py).
 
 ## What is put in
 
@@ -62,6 +77,6 @@ Like kinds bond, with no reason given. Exclusion. Two ways of turning. That a jo
 
 ## Standing
 
-Posited: a picture, not a derivation. Rules 1 and 2 were chosen to match the proton and the deuteron; exclusion and the weak join were added to reach three and four. With those four choices it gives the nucleon's spin, the one bound pair and its spin, the spins of the threes, helium-4's closure and spin, and nothing beyond four, which matches the gaps at five and eight and misses the rest. It matches known answers and says nothing new. A nucleus of four or fewer whose binding or spin the rules get wrong would count against it.
+Posited: a picture, not a derivation. Rules 1 and 2 were chosen to match the proton and the deuteron; exclusion and the weak join were added to reach three and four. With those four choices it gives the nucleon's spin, the one bound pair and its spin, the spins of the threes, helium-4's spin and, if the row bends shut, its closure, and nothing beyond four, which matches the gaps at five and eight and misses the rest. It matches known answers and says nothing new. A nucleus of four or fewer whose binding or spin the rules get wrong would count against it.
 
 In CO's terms a bound whole is a now that keeps being shared (reading; [`how_patterns_combine.md`](how_patterns_combine.md)). The picture is one way to draw that.
