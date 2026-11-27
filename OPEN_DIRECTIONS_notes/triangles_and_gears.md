@@ -37,6 +37,7 @@ A nucleon's own turning is its alike pair's.
 - **The ring does not close flat.** Each stacked nucleon sits above the last, so four in a row end with a single side free at the top and its matching double side free at the bottom. Joining those two means bending the row round out of the page into a band, made so far only in paper.
 - **A second join is a trial** (below).
 - **The three at a join are not a whole.** Three alike quarks, two one way and one the other, is the arrangement quark exclusion forbids for a real three-quark particle.
+- **Nothing can make one nucleon heavier.** Swapping the kinds turns the proton into the neutron exactly, joins and all, so no rule here can make one heavier. The neutron is heavier by 1.29 MeV, 0.14%; in the standard account that is the down quark's larger mass, partly offset by the electric energy of the proton's charge (arXiv:1406.4088). The picture needs two kinds that are not quite alike.
 - **No charge, no parity, no shape.** Tritium and helium-3 differ in binding, heavy nuclei hold more neutrons than protons, and the deuteron is slightly stretched; none of these is in the picture.
 - **No masses and no energies** come out, only yes or no and the spins.
 
