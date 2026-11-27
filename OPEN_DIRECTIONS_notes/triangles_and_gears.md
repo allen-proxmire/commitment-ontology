@@ -33,11 +33,28 @@ A nucleon's own turning is its alike pair's.
 
 ## Where it misses
 
-- **Beyond four there is nothing.** By rule 3 a body holds two of each, and a closed ring bonds to nothing. Lithium, beryllium, carbon and the rest need another state for the extra particles and another kind of join. In the standard account the extra particles take the next state, which carries one unit of orbital motion; the picture has no orbital motion.
+- **Beyond four there is nothing.** By rule 3 a body holds two of each, and a closed ring bonds to nothing. Lithium, beryllium, carbon and the rest need another state for the extra particles and another kind of join. In the standard account the extra particles take the next state, which carries one unit of orbital motion; the rules have no orbital motion (a trial of it is below).
 - **A second join is not settled.** A side set into the notch between two unlike triangles would let a straight pair hang on a ring (lithium-6: spin 1, magnetic moment 0.82 against the deuteron's 0.86) and a neutron sit between two rings (beryllium-9). As it stands it is too easy: it would also bind two protons, a fifth on a ring (helium-5 is unbound) and ring to ring. It gives lithium-7 and beryllium-9 spin ½ where they have 3/2.
 - **The three at a join are not a whole.** Three alike quarks, two one way and one the other, is the arrangement quark exclusion forbids for a real three-quark particle.
 - **No charge, no parity, no shape.** Tritium and helium-3 differ in binding, heavy nuclei hold more neutrons than protons, and the deuteron is slightly stretched; none of these is in the picture.
 - **No masses and no energies** come out, only yes or no and the spins.
+
+## A trial: rolling
+
+Not a rule yet. A closed ring's turnings cancel, so as a wheel it does not turn. A turning wheel pressed against a still one has to roll round it, and rolling round the outside it circles the same way it turns. So a nucleon outside a ring circles it, and the circling adds to its turning:
+
+spin = 1 + ½ = 3/2
+
+| Given by rolling | Observed |
+|---|---|
+| One outside a ring, or the one left over of three: spin 3/2 | Lithium-7, beryllium-7, beryllium-9, boron-11, carbon-11: 3/2. Helium-5 and lithium-5 do not hold; their lowest state is 3/2 |
+| Two alike outside, turning opposite: 0 | Helium-6, beryllium-10: 0 |
+| A proton and neutron outside: 3 turning alike, 0 turning opposite; rolling does not pick | Boron-10: 3. Lithium-6: 1, with 3 its first excited state |
+| Circling and turning in the same sense | In nuclei the state with the two aligned lies lower, the reverse of the atom's order. The standard account took this sign from the data (1949) |
+
+Where it misses. Lithium-6. Everything odd beyond carbon-12: carbon-13, nitrogen-13, nitrogen-15 and oxygen-15 have spin ½ and nitrogen-14 has 1, where rolling gives 3/2 and 3; the standard account fills the aligned state at twelve, and rolling never fills. Magnetic moments are not given (no charge); borrowing the textbook single-particle values, lithium-7 is 3.79 against 3.26, beryllium-9 −1.91 against −1.18, boron-10 1.88 against 1.80. Nuclei with more than two alike outside the rings (helium-8, lithium-8, lithium-9) cannot be built.
+
+What is put in. The one unit of circling. That the nucleon rolls outside the ring: rolling inside would circle the other way, so the sign comes with that choice. That with two rings the circling is still one unit: a wheel held between two still wheels would not roll. What holds a nucleon to a ring is still not settled (above). Desk check: [`joins_and_rolling.py`](../RECORD_OF_METHOD/NUCLEUS_notes/joins_and_rolling.py).
 
 ## What is put in
 

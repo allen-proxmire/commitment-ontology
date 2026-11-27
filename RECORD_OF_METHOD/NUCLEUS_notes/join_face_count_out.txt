@@ -1,0 +1,15 @@
+H-2          holds True  observed True 
+p-n opposed  holds False observed False
+2n           holds False observed False
+He-3         holds True  observed True 
+He-5         holds False observed False
+He-6         holds True  observed True 
+Li-6         holds True  observed True 
+Li-7         holds True  observed True 
+Be-8         holds False observed False
+Be-9         holds False observed True   <-- miss
+Be-10        holds True  observed True 
+B-10         holds True  observed True 
+B-11         holds True  observed True 
+C-12         holds False observed True   <-- miss
+C-13         holds False observed True   <-- miss
