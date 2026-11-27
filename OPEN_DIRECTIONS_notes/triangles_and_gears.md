@@ -34,7 +34,7 @@ A nucleon's own turning is its alike pair's.
 ## Where it misses
 
 - **Beyond four there is nothing.** By rule 3 a body holds two of each, and a closed ring bonds to nothing. Lithium, beryllium, carbon and the rest need another state for the extra particles and another kind of join. In the standard account the extra particles take the next state, which carries one unit of orbital motion; the rules have no orbital motion (a trial of it is below).
-- **The ring does not close flat.** Each stacked nucleon sits above the last, so four in a row end with a single side free at the top and its matching double side free at the bottom. Joining those two means bending the row round out of the page into a band. The band's outline is not drawn.
+- **The ring does not close flat.** Each stacked nucleon sits above the last, so four in a row end with a single side free at the top and its matching double side free at the bottom. Joining those two means bending the row round out of the page into a band, made so far only in paper.
 - **A second join is a trial** (below).
 - **The three at a join are not a whole.** Three alike quarks, two one way and one the other, is the arrangement quark exclusion forbids for a real three-quark particle.
 - **No charge, no parity, no shape.** Tritium and helium-3 differ in binding, heavy nuclei hold more neutrons than protons, and the deuteron is slightly stretched; none of these is in the picture.
@@ -69,7 +69,7 @@ Not a rule yet. A nucleon's two slanted flanks are each one side of an alike qua
 
 Where it misses. It holds beryllium-6 and boron-9, which fall apart (the picture has no charge). Counting joins does not rank arrangements: three flank joins are worth 0.97 MeV in helium-6, 1.57 in beryllium-9 and 7.27 in carbon-12.
 
-What is put in. That one does not hold and two do. That two pieces meet at one flank only: a nucleon's flanks face 120° apart, so whether a ring can take both depends on the band's outline, which is not drawn. With that put in, the first two rows are close to built in. Desk check of the holding count, run on an earlier side-in-notch join with ring to ring allowed: [`join_count.py`](../RECORD_OF_METHOD/NUCLEUS_notes/join_count.py).
+What is put in. That one does not hold and two do. That two rings meet at one flank only (not tried). Two flat nucleons can share only one. For a nucleon on a ring it is read off a paper model, not put in: on a paper band of four the flanks lie on the two rims, each rim a sawtooth of four flanks all slanting the same way round, and a flat nucleon seats one flank on it, not two. At each stacked join the single side covers the middle of the double side, leaving a bare half side at either end; no rule uses them. The ring-on-ring entries (beryllium-8, beryllium-9, carbon-12) are still close to built in. Desk check of the holding count, run on an earlier side-in-notch join with ring to ring allowed: [`join_count.py`](../RECORD_OF_METHOD/NUCLEUS_notes/join_count.py).
 
 ## What is put in
 
