@@ -29,7 +29,7 @@ A nucleon's own turning is its alike pair's.
 | At a join the single touches both of the pair, so it turns against them. That makes the two nucleons turn the same way. With the nucleons opposed the three at the join all turn alike: a weak join | The deuteron has spin 1. The pair with spins opposed is not bound, though it nearly is |
 | Three: the two alike nucleons are opposite (rule 3), so one join is full and one is weak, and the spin left over is the unpaired nucleon's | Helium-3: spin ½, magnetic moment −2.13 against the neutron's −1.91. Tritium: spin ½, 2.98 against the proton's 2.79 |
 | Four, the row bent round into a ring (not flat; see below), joins full and weak by turns: every bonding face is used and the spins cancel. Rule 3 allows no larger body | Helium-4: spin 0, bound far more tightly than its neighbours (7.1 MeV a nucleon against 1.1 for the deuteron and 2.6 to 2.8 for the threes) |
-| A closed ring has no single or double side left: a fifth cannot bond, and two rings do not bond | No stable nucleus of five; beryllium-8 falls apart into two helium-4 |
+| A closed ring has no single or double side left: a fifth cannot bond, and two rings do not bond by rule 1 | No stable nucleus of five; beryllium-8 falls apart into two helium-4 |
 
 ## Where it misses
 
@@ -61,15 +61,16 @@ What is put in. The one unit of circling. That the nucleon rolls outside the rin
 
 Not a rule yet. A nucleon's two slanted flanks are each one side of an alike quark. Flank on flank is one side on one side: a second join, not rule 1's one fits two, and unlike kinds can meet. By rule 2 the two nucleons turn opposite ways. One flank join does not hold two parts together; two do. It obeys rule 2 and still does not hold alone: that is put in, not taken from rule 2. A piece is a ring or a single nucleon.
 
-| Given, if any two pieces meet at one flank only | Observed |
+| Given | Observed |
 |---|---|
-| One outside a ring, two alike nucleons alone, ring with ring: one flank join, not held | Helium-5 and lithium-5 do not hold; two protons and two neutrons do not; beryllium-8 falls apart, by 0.09 MeV |
-| Three pieces, each meeting the other two: held, though no two of them hold alone | Helium-6 (ring and two neutrons), beryllium-9 (two rings and a neutron), carbon-12 as three rings: each holds, and no two of its three pieces do |
+| One outside a ring, or two alike nucleons alone: one flank join, not held | Helium-5 and lithium-5 do not hold; two protons and two neutrons do not |
+| A ring and two alike nucleons, each meeting the other two: held, though no two of the three hold alone | Helium-6 holds, and no two of its three pieces do |
+| Ring with ring: one band turned over, the two rims mesh all the way round, four flank joins, every one between nucleons turning opposite ways, a proton on a neutron each time. Held, and more bands stack on without limit | Carbon-12 and oxygen-16 hold. Beryllium-8 falls apart, by 0.09 MeV |
 | A joined pair or three with a flank each on a ring: held | Lithium-6, lithium-7 |
 
-Where it misses. It holds beryllium-6 and boron-9, which fall apart (the picture has no charge). Counting joins does not rank arrangements: three flank joins are worth 0.97 MeV in helium-6, 1.57 in beryllium-9 and 7.27 in carbon-12.
+Where it misses. It holds beryllium-8, beryllium-6 and boron-9, which fall apart; the picture has no charge, and beryllium-8 is unbound through the repulsion between its two helium-4. So with this join the gap at eight is no longer given, and nothing in the picture ends a stack of rings. Beryllium-9 is not placed: where a neutron seats on two meshed bands is not tried. Counting joins does not rank arrangements: helium-6's three flank joins are worth 0.97 MeV, beryllium-8's four −0.09, carbon-12's eight 7.27.
 
-What is put in. That one does not hold and two do. That two rings meet at one flank only (not tried). Two flat nucleons can share only one. For a nucleon on a ring it is read off a paper model, not put in: on a paper band of four the flanks lie on the two rims, each rim a sawtooth of four flanks all slanting the same way round, and a flat nucleon seats one flank on it, not two. At each stacked join the single side covers the middle of the double side, leaving a bare half side at either end; no rule uses them. The ring-on-ring entries (beryllium-8, beryllium-9, carbon-12) are still close to built in. Desk check of the holding count, run on an earlier side-in-notch join with ring to ring allowed: [`join_count.py`](../RECORD_OF_METHOD/NUCLEUS_notes/join_count.py).
+What is put in. That one does not hold and two do. Two flat nucleons can share only one. How many flanks meet on a ring is read off a paper model, not put in: on a paper band of four the flanks lie on the two rims, each rim a sawtooth of four flanks all slanting the same way round; a flat nucleon seats one flank on it, not two; a second band turned over meshes with all four. At each stacked join the single side covers the middle of the double side, leaving a bare half side at either end; no rule uses them. Desk check of the holding count, run on an earlier side-in-notch join with ring to ring allowed: [`join_count.py`](../RECORD_OF_METHOD/NUCLEUS_notes/join_count.py).
 
 ## What is put in
 
@@ -77,6 +78,6 @@ Like kinds bond, with no reason given. Exclusion. Two ways of turning. That a jo
 
 ## Standing
 
-Posited: a picture, not a derivation. Rules 1 and 2 were chosen to match the proton and the deuteron; exclusion and the weak join were added to reach three and four. With those four choices it gives the nucleon's spin, the one bound pair and its spin, the spins of the threes, helium-4's spin and, if the row bends shut, its closure, and nothing beyond four, which matches the gaps at five and eight and misses the rest. It matches known answers and says nothing new. A nucleus of four or fewer whose binding or spin the rules get wrong would count against it.
+Posited: a picture, not a derivation. Rules 1 and 2 were chosen to match the proton and the deuteron; exclusion and the weak join were added to reach three and four. With those four choices it gives the nucleon's spin, the one bound pair and its spin, the spins of the threes, helium-4's spin and, if the row bends shut, its closure, and nothing beyond four, which matches the gaps at five and eight (the flank trial gives up the gap at eight) and misses the rest. It matches known answers and says nothing new. A nucleus of four or fewer whose binding or spin the rules get wrong would count against it.
 
 In CO's terms a bound whole is a now that keeps being shared (reading; [`how_patterns_combine.md`](how_patterns_combine.md)). The picture is one way to draw that.
