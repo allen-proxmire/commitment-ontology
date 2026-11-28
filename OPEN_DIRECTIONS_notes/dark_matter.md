@@ -55,7 +55,7 @@ Grade: the literal hunch (one pattern per saturated place, all places) is exclud
 
 *From data.*
 - Baryons: η ≈ 6.1 × 10⁻¹⁰, one sign everywhere (patches excluded to about a gigaparsec), so no free choice of sign place by place.
-- Dark: Ω_c/Ω_b ≈ 5.36 by mass. A rule for kinds gives the count r = n_D/n_B, so m_D ≈ 5.0 GeV / r. Pauli's bound (0.13 keV) needs r ≲ 4 × 10⁷; cold today, for a start no faster than the light's (f = 1), r ≲ 3 × 10⁵–10⁶; for f well below 0.01 only Pauli's bound holds.
+- Dark: Ω_c/Ω_b ≈ 5.36 by mass. A rule for kinds gives the count r = n_D/n_B, so m_D ≈ 5.0 GeV / r. Pauli's bound (0.13 keV) needs r ≲ 4 × 10⁷; cold today, for a start no faster than the light's (f = 1), r ≲ 3 × 10⁵–10⁶; with exclusion and structure's speed bounds, r ≲ 1.8–5 × 10⁶ whatever the start (*A floor from exclusion*, below).
 - Leptons: L unmeasured, up to about 3 × 10⁸ per baryon (above).
 - Charge: zero in total, net electrons equal to protons.
 
@@ -84,6 +84,12 @@ so B and L end with opposite signs whatever the start.
 - *C7 as worded cannot stand with it.* "Afterwards only in pairs" and "B and L each kept" fail in the hot era under this premise; B − L would be what is kept. Not restated: the premise is a shape.
 - *Doors left.* Unequal kinds: the trading keeps B/3 − L_α for each lepton kind, so a start tuned to B₀ − L₀ of about 10⁻⁸ of either could leave large excesses kind by kind. A direction field that stays on in heat (it has no rule): no trading. More than one doublet. Lepton number in the neutrino's right-handed part, which the trading does not see, and helium does not either.
 
+*A middle branch.* The weak trading does not touch a pattern with no channel, so first places that are mostly dark remain open where first neutrinos are closed. With L₀ = 0 and c first baryon wholes per baryon today (1, or 79/28 under the trading),
+
+N_exit/N₀ = 1/(p η (c + r)),  p = 1 to 10 photons per place,
+
+from 4 × 10⁷–8 × 10⁸ at r of order one (GeV) down to 30–900 at the floor (1 to 3 keV, r = 1.8 to 5 × 10⁶): growth in length from several hundred down to 3–10. A light dark pattern is a beginning modestly over capacity; a heavy one, far over. The share r and the over-capacity stay separate inputs, tied by η. Seen only through gravity (cores in the smallest galaxies, the cut-off in small structure). Grade: reading of the shape.
+
 **The story of threes.** Ordinary matter: patterns that renew with channels, in three families. Dark matter: patterns that renew without. Whether the dark kind also comes in three is open.
 
 **Doodles, flagged as doodles.**
@@ -106,7 +112,7 @@ so B and L end with opposite signs whatever the start.
 | an inert fermion made at the beginning | the shape | a renewing pattern with no channel (above) |
 
 *What the shape must be, as far as the rules reach.* A fermion with no channel, made at the beginning, collisionless, never detected except through gravity; cold, which observation requires and the rules do not yet give.
-- *Mass:* at least 0.13 keV whatever made it (Pauli's principle in dwarf galaxies; 0.41 keV for a thermal relic). The few-keV bounds from small-scale structure (1.8 keV from galaxy counts at high redshift, several keV from the Lyman-α forest and lensing, for thermal warm dark matter) bound its speed, not its mass: a pattern that never met a heat bath has whatever speed the beginning gave it. No upper bound from the rules below the hop scale. The one CO-shaped number comes from equal numbers at the beginning with no dark anti-partners (the hunch above, a shape), and depends on what is counted: 5.0 GeV for one dark pattern per baryon, 1.7 GeV per quark (the patterns, by C9), 1.3 GeV per quark and electron together.
+- *Mass:* at least 0.13 keV whatever made it (Pauli's principle in dwarf galaxies; 0.41 keV for a thermal relic). The few-keV bounds from small-scale structure (1.8 keV from galaxy counts at high redshift, several keV from the Lyman-α forest and lensing, for thermal warm dark matter) bound its speed, not its mass: a pattern that never met a heat bath has whatever speed the beginning gave it. With exclusion at the start they bound the mass as well, at about 1 to 3 keV (*A floor from exclusion*, below). No upper bound from the rules below the hop scale. The one CO-shaped number comes from equal numbers at the beginning with no dark anti-partners (the hunch above, a shape), and depends on what is counted: 5.0 GeV for one dark pattern per baryon, 1.7 GeV per quark (the patterns, by C9), 1.3 GeV per quark and electron together.
 - *What would rule the shape out:* any confirmed non-gravitational signal of dark matter (a direct-detection event, a decay or annihilation line, production at a collider); wave-like dark matter; a measured self-interaction; dark matter falling differently from ordinary matter beyond the lattice's small excess.
 - *What could still narrow it, through gravity alone:* cores set by Pauli pressure in the smallest galaxies (if the mass is near the keV bound); the cut-off in small-scale structure (its speed at the beginning).
 
@@ -118,10 +124,16 @@ $$v \approx 3.15\,f\,\frac{k T_x}{m c},\qquad T_x = T_\gamma\Big(\frac{3.91}{g_{
 
 (g_then the number of kinds of light then, 106.75 for the known particles; the dark pattern shares none of the light's later heating). Structure's bounds on warm dark matter, read as speeds today (exact for a thermal spread of momenta, rough otherwise), are v < 5 × 10⁻⁸ c (galaxy counts at high redshift) and 1–2 × 10⁻⁸ c (the Lyman-α forest, depending on the gas's history). Then:
 - cold enough needs m ≳ 5 keV (galaxy counts) to 11–19 keV (Lyman-α) at f = 1, less for smaller f or more kinds of light at the start; a 5 GeV pattern moves at 5 × 10⁻¹⁴ c today;
-- at the Pauli bound, 0.13 keV, it would move at 2 × 10⁻⁶ c: too fast unless f ≲ 0.01;
+- at the Pauli bound, 0.13 keV, it would move at 2 × 10⁻⁶ c: too fast at any start, since exclusion requires f ≥ 0.4 there, 8 × 10⁻⁷ c (*A floor from exclusion*, below);
 - even born at one place with the hop's momentum ħ/ℓ, a 5 GeV pattern reaches 3 × 10⁻⁹ c after a stretch of 10²⁴–10²⁶ in length, less than the light's own stretch from hop-scale heat to today (10²⁹–10³¹).
 
 So, given a start no faster than the light's, no reason beyond the stretching is needed: a pattern heavier than about 5–19 keV is cold today because the stretching that cooled the light cooled it too. It was never in balance with the light (a thermal count would be about 90 times too many at 10 keV). The question moves to number: a 5 GeV pattern must be as rare as baryons, 6 × 10⁻¹⁰ per photon; a 10 keV one, 3 × 10⁻⁴ per photon. Conditional on the dark pattern's starting momentum not exceeding the light's, and on the light having been at or near hop-scale heat (assumptions (b), (c) above). Grade: reading of the shape.
+
+**A floor from exclusion (27 Nov 2026, desk).** Each state holds one pattern (C6, P8b), and the stretching keeps that occupancy. So for a given number of dark patterns the slowest packing is a filled sphere of momenta, with two spin states and patterns only (one sign):
+
+$$p_F=\hbar\,(3\pi^2 n)^{1/3},\qquad v_{\min}=\frac{3}{4}\frac{p_F}{m}=5.0\times10^{-8}\,c\,\Big(\frac{\text{keV}}{m}\Big)^{4/3},$$
+
+with n = ρ_c/m today. In the terms above, f ≥ 0.20 (keV/m)^{1/3}: a light pattern cannot be both that numerous and that slow. Against structure's bounds on the speed: m ≳ about 1 keV (galaxy counts), 1.8 to 2.8 keV (the Lyman-α forest, at 1.3 to 2.2 × 10⁻⁸ c). So r ≲ 1.8 to 5 × 10⁶ dark patterns per baryon, and the places multiply at least 30-fold in the epoch, 3 or more in length. The bounds are those of thermal warm dark matter read as mean speeds, exact for a thermal spread and rough for a filled sphere (which has no fast tail, so the floor is if anything some 10% lower). Pauli's 0.13 keV, from dwarf galaxies alone, stands as the bound free of that reading. Desk check: [`dark_floor.py`](../RECORD_OF_METHOD/MATTER_notes/dark_floor.py). Grade: reading of the shape.
 
 **The first ball's size (21 Nov 2026, desk; run C12).** If the beginning is every place committing at once, its size is a count of places times ℓ. For the part of the universe visible today (comoving radius 4.4 × 10²⁶ m; 1.5 × 10⁸⁹ photons, 8.9 × 10⁷⁹ baryons):
 - *First places:* one per matter pattern that commits, made at the start (C7). Counted per whole (a quark has no commitment of its own, C9): baryons, electrons and as many dark patterns, 3.4 × 10⁸⁰; radius (3N/4π)^{1/3}ℓ = 4.3 μm at ℓ = 1.0 × 10⁻³² m (the candidate neutrino bound), 25 nm at ℓ = 5.7 × 10⁻³⁵ m (δ = 1). A first commitment starts a whole, never a lone quark, and a whole's commitment is one event at one place (both chosen, candidate), so a whole makes one first place. Counted per quark, as first done: 6.9 × 10⁸⁰, and 5.5 μm or 31 nm. Run C12c.
