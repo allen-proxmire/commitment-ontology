@@ -390,7 +390,7 @@ Matter persists by re-committing, and mass is the repeat rate (C2, C4). If the w
 - A pattern with no rest mass does not repeat. It persists as light does, in transit (light never renews). It has no clock of its own, as in the standard account.
 - The arrow does not hang on repeats: light and travel draw, and every draw becomes record (P6).
 - Gravity's source is energy and stress, δ(ρ + S), radiation included (P6; SPACE_AND_GRAVITY, Expansion).
-- What is kept through the era is the net count the first commitments set (C7), not the patterns one by one (with the standard weak interaction, baryon minus lepton count only; C7's pairs clause is then not met: open).
+- What is kept through the era is the net count the first commitments set (C7), not the patterns one by one (with the standard weak interaction, baryon minus lepton count only; C7 sets the trading apart).
 - Repeats begin again as masses turn on: leptons through the crossover near 160 GeV, hadrons when quarks bind near 150 MeV. "Matter persists by re-committing" is the statement for the cooled universe.
 
 *The gap.* Engagements are the one trigger for the update and for gravity's source, and C8 opens "a commitment may engage a quantum in transit". With nothing repeating, what engages?
