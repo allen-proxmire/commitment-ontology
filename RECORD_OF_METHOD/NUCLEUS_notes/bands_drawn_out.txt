@@ -1,0 +1,10 @@
+NOT TURNED, second band slid up to the first (dx = 2): shared edge in any setting: none (corners only; the facing flanks slant opposite ways)
+TURNED OVER, dx = 3.5 (the rims coincide):
+  first a, second a, setting 0 | flanks (4, length 1 each): n^-n^ p^-pv nv-nv pv-p^ | bare halves (4, length 0.5): n^-p^ p^-n^ nv-pv pv-nv
+  first a, second a, setting 1 | flanks (4, length 1 each): n^-p^ p^-n^ nv-pv pv-nv | bare halves (4, length 0.5): n^-nv p^-p^ nv-n^ pv-pv
+  first a, second a, setting 2 | flanks (4, length 1 each): n^-nv p^-p^ nv-n^ pv-pv | bare halves (4, length 0.5): n^-pv p^-nv nv-p^ pv-n^
+  first a, second a, setting 3 | flanks (4, length 1 each): n^-pv p^-nv nv-p^ pv-n^ ALL OPPOSITE | bare halves (4, length 0.5): n^-n^ p^-pv nv-nv pv-p^
+  first a, second b, setting 0 | flanks (4, length 1 each): n^-n^ p^-p^ nv-nv pv-pv | bare halves (4, length 0.5): n^-pv p^-n^ nv-p^ pv-nv
+  first a, second b, setting 1 | flanks (4, length 1 each): n^-pv p^-n^ nv-p^ pv-nv | bare halves (4, length 0.5): n^-nv p^-pv nv-n^ pv-p^
+  first a, second b, setting 2 | flanks (4, length 1 each): n^-nv p^-pv nv-n^ pv-p^ ALL OPPOSITE | bare halves (4, length 0.5): n^-p^ p^-nv nv-pv pv-n^
+  first a, second b, setting 3 | flanks (4, length 1 each): n^-p^ p^-nv nv-pv pv-n^ | bare halves (4, length 0.5): n^-n^ p^-p^ nv-nv pv-pv
