@@ -39,4 +39,18 @@ A size held rigid would meet all three, and is excluded by data: the size's own 
 
 Grade: shape; reading.
 
+## What a direction at each place would unlock (28 Nov 2026, desk)
+
+The test for adding anything: does it reach several open items at once.
+
+*The direction alone gives three things.* Light as the one mixture the direction does not carry, with three heavy carriers; the checkable part is that the mixing angle read from the carriers' masses equals the one read from the couplings (at tree level; loops shift it by a few percent). Room for up and down to be unequal: the two kinds of a pair may tie to the direction with different strengths (permits, does not explain; the desk check ran one direction everywhere). A sharper statement of the dark shape: an elementary pattern's own mass is its tie to the direction (a nucleon's rate is mostly confined transit, not a tie), a tie is a channel, so a pattern with no channel has a mass of its own, both hands without labels, and no coupling to the 125 GeV scalar (a null only; a tie through the lepton pair and the direction is allowed unless a dark number is posited; its mass is an input; a mass of its own is the two-wall reading of mass, kept then for label-less patterns only, so the "at most one survives" above would need rewording).
+
+*The whole package gives the rest.* With a kind field on the relations, a kind label on left hands (handedness is put in, not got out), the which-way phase re-read as a phase that differs between the hands, and a one-handed coupling that stands (not built): kinds change (n → p e ν̄; in the Sun, p p → d e⁺ ν); the neutron's lifetime and the freeze-out of neutrons against protons, so helium; the relic neutrinos; the trading of baryons and leptons in the hot era ([`dark_matter.md`](dark_matter.md)). Several of these need the generations and their mixing as well, which stay a silence. The quark charges come from the kind field and colour, not from the direction (OPEN_DIRECTIONS, Up and down charges).
+
+*Count.* In: the direction at each place; the kind field; the label; the re-read phase; commitments blind to the direction (above); three numbers (the size, the mixing angle, the scalar's mass, with the size's stiffness); a construction not built. Each kind's mass is replaced one for one by its tie. Out: what the standard theory gives, by identification. Taken whole it reaches many open items at once, and it is the standard theory's own bargain.
+
+*What it raises in CO.* When hot, the direction's size falls to zero and every tied mass with it, and mass is the repeat rate (C4): in the hot era no lepton has a rest rate, and the wholes are melted (C9, open). A pattern with a mass of its own would keep one. Also touched and not worked: the first commitments if no elementary mass exists then; what direction and size a newborn place has; the carriers and the scalar as massive patterns that are not of the walk.
+
+Grade: shape; reading.
+
 References: Lange et al., Phys. Rev. Lett. 126, 011102 (2021); Nielsen and Ninomiya (1981); Kaplan, Phys. Lett. B 288, 342 (1992); Grabowska and Kaplan, Phys. Rev. Lett. 116, 211602 (2016); Grabowska and Kaplan, arXiv:1610.02151 (2016).
