@@ -382,3 +382,26 @@ A third to two-fifths of what makes the pattern tick is the field's; most of the
 
 Grade: the shared commitment chosen, candidate (C9 reworded: a quark no longer renews as an electron does; the nucleus record's "the tiles of one pattern commit together" is kept); the rest reading. Open: how the separate rates of free-standing parts add in a bound body, binding included; whether a neutral whole of field alone counts as a pattern that commits; what a quark's mass is, now a term in the step and not a rate of its own; what commits in the soup, its gluons, and whether a heat-given mass is a rate; a top quark that decays before it binds, and a coloured pair just made; wholes of four or five quarks and hadron molecules. The counts first made per quark (dark matter's mass by count, the first ball's first places) are now per whole (run C12c).
 
+## The hot era: what persists and what commits (28 Nov 2026, reading; no ruling)
+
+Matter persists by re-committing, and mass is the repeat rate (C2, C4). If the weak interaction is the standard one, no lepton has a rest mass above about 160 GeV, and above about 150 MeV there are no hadrons. What persists then, and what commits?
+
+*Answered by rules already in place.*
+- A pattern with no rest mass does not repeat. It persists as light does, in transit (light never renews). It has no clock of its own, as in the standard account.
+- The arrow does not hang on repeats: light and travel draw, and every draw becomes record (P6).
+- Gravity's source is energy and stress, δ(ρ + S), radiation included (P6; SPACE_AND_GRAVITY, Expansion).
+- What is kept through the era is the net count the first commitments set (C7), not the patterns one by one (with the standard weak interaction, baryon minus lepton count only; C7's pairs clause is then not met: open).
+- Repeats begin again as masses turn on: leptons through the crossover near 160 GeV, hadrons when quarks bind near 150 MeV. "Matter persists by re-committing" is the statement for the cooled universe.
+
+*The gap.* Engagements are the one trigger for the update and for gravity's source, and C8 opens "a commitment may engage a quantum in transit". With nothing repeating, what engages?
+
+*Two readings.*
+- *The bath commits internally.* The standing ruling on chains has a body of many patterns commit internally once a chain inside it reaches N, its contacts counting as passages toward the chain; C8's two conditions (a final state broad against the coupling, a chain reaching N quanta) name no mass. Whether a hot bath meets them is not shown: the line |V| < ħΓ/4 is drawn for a long-lived source, and a chain is defined from one opening quantum, which a thermal bath lacks (the criterion for mixed states is owed). If it does, the commitments of the hot era are the bath's internal engagements: things happen, and nothing keeps time. The soup gets the same answer (no whole renews; engagements land at quarks' places, as C8 already allows for a probe). It asks that a "body" need not be bound and that an engager need no rest rate; in the cooled universe every engager tested has one; what an unbound body does to the interference of colliding gases is not checked. Whether such an engagement records place is open: the independent draw of an internal commitment rests on a body with an outside. If it records place, the source of gravity is refreshed throughout, as for a body engaged constantly; if not, it stays the state evolved from the first commitments' record.
+- *Only a repeating pattern engages.* Then above the crossover nothing engages (unless a pattern with a mass of its own is there), the state stays unresolved from the first commitments, and the first engagements since the beginning come as masses turn on.
+
+Under either, the unevenness the first commitments leave is fact from the start (C7), not a later resolution.
+
+Related, from 23 Nov: the whole soup as one whole with one clock was set aside (it is not one coordinated state); "nothing commits until hadrons form" was set aside because most of the early energy would have no clock, which is the second reading here, and record does not need a clock (P6). The soup went back to open on 24 Nov. Not settled: whether the start of a pair is a commitment that keeps record (C1 lists it; C3 speaks of repeats); whether a heat-given mass is a rate; the trading of the hot era is not a pair start (C7's "only in pairs").
+
+Grade: reading.
+
