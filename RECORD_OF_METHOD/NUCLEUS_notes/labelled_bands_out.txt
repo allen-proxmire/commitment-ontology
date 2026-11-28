@@ -1,0 +1,6 @@
+same sort    not turned                       settings with all four opposite: ['like on like']
+same sort    turned over                      settings with all four opposite: ['p on n']
+same sort    turned over (turnings reversed)  settings with all four opposite: ['p on n']
+kinds swapped not turned                       settings with all four opposite: ['p on n']
+kinds swapped turned over                      settings with all four opposite: ['like on like']
+kinds swapped turned over (turnings reversed)  settings with all four opposite: ['like on like']
