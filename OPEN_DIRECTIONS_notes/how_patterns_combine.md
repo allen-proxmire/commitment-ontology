@@ -410,7 +410,7 @@ T ≈ α² M_P / (1.66 √g log₂N) ≈ 3 to 8 × 10¹³ GeV (α of 1/60 to 1/4
 
 and by 160 GeV a chain completes a few × 10¹¹ times in one expansion time. Above that temperature the quanta fly free, unengaged.
 - *What it records.* Resolution is in the channel's basis, the outgoing frequencies and directions: it commutes with the energy and heats nothing. Place is fixed only as finely as an engager is local, and a free quantum is no localised engager, so whether place is recorded stays open (above). Resolving place to a wavelength at each contact would heat the bath by a fraction of T per contact: excluded.
-- *What it asks.* One thing beyond C8 as written: a chain reaching N is a commitment whoever takes part, with no rest rate needed and no bound body. Not posited. In the cooled universe it would also reach unbound gases of patterns with mass; a vapour whose spins stay in step through many exchange contacts reads against the addition if resolution is in the spin basis, and is untouched if it is in directions.
+- *What it asks.* One thing beyond C8 as written: a chain reaching N is a commitment whoever takes part, with no rest rate needed and no bound body. Not posited. In the cooled universe it would also reach unbound gases of patterns with mass; a hot vapour's collective spin entanglement outlasts many exchange contacts (Kong et al. 2020), which excludes the addition (on the run's model) if what is resolved is the atoms' spins and leaves it untouched if it is their motion ([`N_signature_note.md`](../RECORD_OF_METHOD/MATTER_notes/N_signature_note.md)).
 
 Grade: reading; conditional on the warm-sample reading (shape) and on that one addition.
 
