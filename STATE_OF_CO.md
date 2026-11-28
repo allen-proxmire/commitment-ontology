@@ -115,7 +115,7 @@ At long wavelengths this is Dirac's equation: the electron, with spin ½. A latt
 
 **What it does.** From two starting things and a short list of rules, it reaches the classic tests of gravity (two numbers fixed by data), gravity waves, an inflation-like start, the expansion eras, three dimensions, the electron with its charge and spin, and, by matching to standard constructions, atoms and the nucleus. It has no tested prediction that differs from established physics, and no number matched where the standard theories are silent.
 
-**What it borrows.** Many results come through known theorems and constructions; where a rule was a choice, the result is a reconstruction, not a derivation. The masses, 1/137 and the weak force are not explained.
+**What it borrows.** Many results come through known theorems and constructions; where a rule was a choice, the result is a reconstruction, not a derivation. The quark and lepton masses and 1/137 go in as measured, as they do in the standard theories; the weak force is not yet in.
 
 **Its weakest point.** The lattice picks a rest frame (this comes with the grid, the stand-in; whether a web without such a frame is free of what follows is open). Once quantum corrections come in, different particles could get slightly different top speeds unless those speeds are set equal by hand. The tuning is kept in the stand-in on purpose: the same frame is what makes the photon and neutrino tests possible, and the only known way out would remove the photon test (and, in one form, the neutrino test). So it stands at tree level: the simplest level, before those quantum corrections.
 

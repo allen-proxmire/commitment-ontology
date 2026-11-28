@@ -24,7 +24,7 @@
 
 **Imported** (taken from standard physics without a reason of CO's own).
 - The Born rule as an identification; Lüders conditioning; the joint law of an entangled pair; an interaction's coupling and pointer basis.
-- Measured inputs: G, c, ħ, 1/137, the particle masses.
+- Measured inputs: G, c, ħ, 1/137, the quark and lepton masses (inputs here, as they are in the standard theories).
 
 **Posited** (decided, beyond the two primitives).
 - The qualities P1–P8, C1–C9, each posited or candidate ([`TECHNICAL_APPENDIX.md`](TECHNICAL_APPENDIX.md)).
@@ -52,7 +52,7 @@ Now is the commitment (reading). Two things share a now only when they commit to
 
 **Shapes.** G's form, G = δc³ℓ²/(4πħ), resting on a relation's stiffness equalling the hop's conductance; a beginning in which every place is over capacity and commits at once, ending as an inflation-like epoch; the ratio of matter to light set by that beginning (its value open); dark matter as a pattern that renews with no channel (given CO's present inventory a fermion, so, if the shape holds, not ultralight, m ≥ 0.13 keV; [`OPEN_DIRECTIONS_notes/dark_matter.md`](OPEN_DIRECTIONS_notes/dark_matter.md)).
 
-**Silences.** The masses, 1/137, the weak interaction, three generations, the first ripples.
+**Silences.** The weak interaction, three generations, the first ripples.
 
 ## CO's own constants
 
@@ -77,6 +77,6 @@ Notes for the experiments: [`TESTS_FOR_EXPERIMENTERS/`](TESTS_FOR_EXPERIMENTERS/
 
 ## What it does not do
 
-Quantum mechanics only for a fixed number of particles (with pair creation by identification, candidate). No masses, no 1/137, no weak interaction, no reason for three generations; three colours only as a choice. No tested prediction that differs from established physics, and no number matched where the standard theories are silent. Where a quality is a choice, the result is a reconstruction, not a derivation. The gravity runs on matter's step (CO's lattice Dirac walk) are in one and two dimensions, with free fall and light bending in a weak uniform field in three; three dimensions beyond that (a spinning body's exterior and Kerr among them) and strong fields beyond a 2D hole and a radial collapse are open. The tunings are its weakest point.
+Quantum mechanics only for a fixed number of particles (with pair creation by identification, candidate). No weak interaction, no reason for three generations; three colours only as a choice. No tested prediction that differs from established physics, and no number matched where the standard theories are silent. Where a quality is a choice, the result is a reconstruction, not a derivation. The gravity runs on matter's step (CO's lattice Dirac walk) are in one and two dimensions, with free fall and light bending in a weak uniform field in three; three dimensions beyond that (a spinning body's exterior and Kerr among them) and strong fields beyond a 2D hole and a radial collapse are open. The tunings are its weakest point.
 
 **Where to read more.** [`README.md`](README.md) (overview), [`STATE_OF_CO.md`](STATE_OF_CO.md) (the theory in plain language), [`TECHNICAL_APPENDIX.md`](TECHNICAL_APPENDIX.md) (every quality and its grade), [`OPEN_DIRECTIONS.md`](OPEN_DIRECTIONS.md) (what is open), [`RECORD_OF_METHOD/`](RECORD_OF_METHOD/) (how each step was reached).

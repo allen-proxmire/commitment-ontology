@@ -70,6 +70,6 @@ No classical current gives g = 2 (loops give g = 1); spin from orbital circulati
 
 ## Open
 
-The masses; the value of 1/137; the anomalous moment (needs loops); what two patterns do on one stock; the covariant coupled walk between commitments; the value of N.
+The anomalous moment (needs loops); what two patterns do on one stock; the covariant coupled walk between commitments; the value of N.
 
 References: Goyal, Knuth and Skilling (2010); Meyer (1996); Bialynicki-Birula (1994); Feynman and Hibbs (1965); Nielsen and Ninomiya (1981); Karsten and Smit (1981); Kaplan (1992); Wilson (1974); Strang (1968); Collins, Pérez, Sudarsky, Urrutia and Vucetich (2004); Christ, Friedberg and Lee (1982); Perantonis and Wheater (1988); Gupta and Short (2026); Hylleraas (1929); Pauli (1940); Tilloy and Diósi (2016); D'Ariano and Perinotti (2014); Bisio, D'Ariano and Tosini (2015).

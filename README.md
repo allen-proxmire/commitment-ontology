@@ -15,7 +15,7 @@ It is incomplete, and says where.
 - The two primitives and their qualities, P1–P8 and C1–C9, each posited or candidate ([`TECHNICAL_APPENDIX.md`](TECHNICAL_APPENDIX.md)).
 - Four constants of CO's own: δ (sets gravity's strength), P_max (a place's capacity), Λ (the birth chance of new places: the cosmological constant) and N (the stopping number for measurement).
 - Matter's step: how a pattern moves on the network each tick, one tick of the lattice Dirac flow with a Wilson term, a small term that keeps the lattice's extra particle copies heavy (chosen, candidate; r = ½ posited).
-- Measured values: G, c, ħ, 1/137, the particle masses.
+- Measured values: G, c, ħ, 1/137, the quark and lepton masses (inputs here, as they are in the standard theories).
 - From quantum mechanics: the Born rule as an identification, Lüders conditioning, the joint law of an entangled pair, an interaction's coupling and pointer basis.
 - For gravity beyond linear order: no backdrop at every order, locality, two derivatives, Lorentz-invariant interactions, the metric identification.
 - Tunings (they come with the lattice's rest frame; whether a web without one is free of them is open. The frame is kept in the stand-in, the speed tuning chosen: it carries the photon and neutrino tests): equal top speeds for every species, set by hand; a counter-term per fermion mass (unless matter is bound to a wall, candidate); a straight lattice form for light, gluons and gravity (posited).
@@ -25,7 +25,7 @@ It is incomplete, and says where.
 - *Matter* ([`MATTER.md`](MATTER.md)): Dirac's equation and spin ½; helium, positronium and the 21 cm line at tree level; all by identification with standard constructions; pair creation (candidate).
 - *Nucleus* ([`NUCLEUS.md`](NUCLEUS.md)): quarks as a second kind of pattern in three colour states (chosen, candidate); confinement and the hadron masses by identification with lattice QCD (candidate; conditional on colour, the tunings and the quark masses; confinement numerical, not proved).
 - *Dark matter* (shape, [`OPEN_DIRECTIONS_notes/dark_matter.md`](OPEN_DIRECTIONS_notes/dark_matter.md)): a pattern that renews with no channel, permitted, not predicted; given CO's present inventory a fermion, so, if the shape holds, not ultralight (m ≥ 0.13 keV).
-- *Not supplied:* the masses, 1/137, the weak interaction, three generations.
+- *Not yet in:* the weak interaction, three generations.
 
 **How it could fail.**
 - *Gravity that entangles.* CO's gravity follows what a body engages, not its unresolved state (chosen, candidate), so two masses entangled through gravity alone would falsify it.

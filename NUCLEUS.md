@@ -2,9 +2,9 @@
 
 What the two primitives do not reach, and why. Results only; every route tried is in [`RECORD_OF_METHOD/`](RECORD_OF_METHOD/).
 
-## The three open problems
+## What is added
 
-The particle masses, the strength of the electromagnetic coupling (1/137), and colour. Each needs something not in the two primitives; C9 now adds colour (candidate).
+The quark and lepton masses and the strength of the electromagnetic coupling (1/137) are inputs, as in the standard theories. Colour needs something not in the two primitives; C9 adds it (candidate).
 
 ## Why the two primitives do not reach colour
 
